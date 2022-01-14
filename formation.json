@@ -1,0 +1,1114 @@
+[
+  {
+    "id": 1001,
+    "name": "フリーファイト",
+    "flavor_text": "各々自由に戦うスタンダードな陣形。<br>補正効果は特にないが、どんなパーティでもくせのない戦い方ができる。",
+    "positions": [
+      {
+        "x": 30,
+        "y": 25,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 30,
+        "y": 15,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 30,
+        "y": 35,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 25,
+        "y": 6,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 25,
+        "y": 44,
+        "formation_bonus_id": 1001
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "アマゾンストライク",
+    "flavor_text": "前衛メンバーの腕力を上昇させる攻撃陣形。<br>剣、大剣、斧、棍棒、体術、槍を重視するパーティにおすすめ。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 25,
+        "formation_bonus_id": 1002
+      },
+      {
+        "x": 16,
+        "y": 17,
+        "formation_bonus_id": 1003
+      },
+      {
+        "x": 16,
+        "y": 33,
+        "formation_bonus_id": 1003
+      },
+      {
+        "x": 38,
+        "y": 8,
+        "formation_bonus_id": 1004
+      },
+      {
+        "x": 38,
+        "y": 42,
+        "formation_bonus_id": 1004
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "スペキュレイション",
+    "flavor_text": "前衛メンバーの腕力と素早さを上昇させる速攻陣形。<br>体術を主体とするパーティにおすすめ。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 25,
+        "formation_bonus_id": 1005
+      },
+      {
+        "x": 23,
+        "y": 16,
+        "formation_bonus_id": 1006
+      },
+      {
+        "x": 23,
+        "y": 34,
+        "formation_bonus_id": 1006
+      },
+      {
+        "x": 38,
+        "y": 8,
+        "formation_bonus_id": 1007
+      },
+      {
+        "x": 38,
+        "y": 42,
+        "formation_bonus_id": 1007
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "ハンターシフト",
+    "flavor_text": "前衛4人の素早さがアップする速攻陣形。<br>後衛メンバーの器用さが強化されるので、小剣、弓、銃を重視するパーティにおすすめ。",
+    "positions": [
+      {
+        "x": 43,
+        "y": 25,
+        "formation_bonus_id": 1008
+      },
+      {
+        "x": 8,
+        "y": 17,
+        "formation_bonus_id": 1009
+      },
+      {
+        "x": 8,
+        "y": 34,
+        "formation_bonus_id": 1009
+      },
+      {
+        "x": 28,
+        "y": 7,
+        "formation_bonus_id": 1010
+      },
+      {
+        "x": 28,
+        "y": 44,
+        "formation_bonus_id": 1010
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "インペリアルクロス",
+    "flavor_text": "前衛メンバーの体力を上昇させる防御陣形。前衛が敵の攻撃を引きつけ、パーティ全体の生存率を上げる。<br>体力が高いメンバーを軸にしたパーティにおすすめ。",
+    "positions": [
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 42,
+        "y": 25,
+        "formation_bonus_id": 1012
+      },
+      {
+        "x": 8,
+        "y": 25,
+        "formation_bonus_id": 1011
+      },
+      {
+        "x": 25,
+        "y": 10,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 25,
+        "y": 40,
+        "formation_bonus_id": 1001
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "鳳天舞の陣",
+    "flavor_text": "中衛メンバーの体力・知力・精神とパーティ全体の精神が強化される防御陣形。中衛が敵の攻撃を引きつけ、パーティ全体の生存率を上げる。<br>強力な術攻撃に対抗したい場合におすすめ。",
+    "positions": [
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1013
+      },
+      {
+        "x": 8,
+        "y": 10,
+        "formation_bonus_id": 1014
+      },
+      {
+        "x": 8,
+        "y": 40,
+        "formation_bonus_id": 1014
+      },
+      {
+        "x": 42,
+        "y": 10,
+        "formation_bonus_id": 1015
+      },
+      {
+        "x": 42,
+        "y": 40,
+        "formation_bonus_id": 1015
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "デザートランス",
+    "flavor_text": "前衛メンバーを集中的に強化する防御陣形。敵の攻撃を前衛が引きつけ、パーティ全体の生存率を上げる。<br>後衛メンバーの素早さ低下を引き替えに、前衛の攻防双方の能力を強化する。被弾をコントロールしつつ、カウンターで戦いたい場合におすすめ。",
+    "positions": [
+      {
+        "x": 15,
+        "y": 25,
+        "formation_bonus_id": 1042
+      },
+      {
+        "x": 40,
+        "y": 20,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 40,
+        "y": 30,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 30,
+        "y": 10,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 30,
+        "y": 40,
+        "formation_bonus_id": 1043
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "パワーレイズ",
+    "flavor_text": "後衛メンバーの知力を上昇させる攻撃陣形。前衛両翼のメンバーの素早さがアップする。<br>術攻撃を主体とするパーティに向いている。全体的に精神強化がかかるため、敵の術攻撃や状態異常に対抗したいときにもおすすめ。",
+    "positions": [
+      {
+        "x": 42,
+        "y": 25,
+        "formation_bonus_id": 1044
+      },
+      {
+        "x": 17,
+        "y": 8,
+        "formation_bonus_id": 1045
+      },
+      {
+        "x": 17,
+        "y": 42,
+        "formation_bonus_id": 1045
+      },
+      {
+        "x": 32,
+        "y": 16,
+        "formation_bonus_id": 1046
+      },
+      {
+        "x": 32,
+        "y": 34,
+        "formation_bonus_id": 1046
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "ラピッドストリーム",
+    "flavor_text": "パーティ全体の素早さがアップする速攻陣形。素早さと引き替えに体力はわずかに低下する。<br>武器種を問わず、先手を取って戦いたいときにおすすめ。",
+    "positions": [
+      {
+        "x": 20,
+        "y": 25,
+        "formation_bonus_id": 1021
+      },
+      {
+        "x": 30,
+        "y": 16,
+        "formation_bonus_id": 1021
+      },
+      {
+        "x": 30,
+        "y": 34,
+        "formation_bonus_id": 1021
+      },
+      {
+        "x": 30,
+        "y": 6,
+        "formation_bonus_id": 1021
+      },
+      {
+        "x": 30,
+        "y": 44,
+        "formation_bonus_id": 1021
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "name": "龍陣",
+    "flavor_text": "先頭メンバーを集中的に強化する特殊陣形。前衛・中衛の素早さが上昇する。<br>特定のメンバーを中心に戦闘を組み立てたい場合におすすめ。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 22,
+        "formation_bonus_id": 1022
+      },
+      {
+        "x": 16,
+        "y": 8,
+        "formation_bonus_id": 1023
+      },
+      {
+        "x": 25,
+        "y": 17,
+        "formation_bonus_id": 1023
+      },
+      {
+        "x": 33,
+        "y": 26,
+        "formation_bonus_id": 1024
+      },
+      {
+        "x": 42,
+        "y": 35,
+        "formation_bonus_id": 1024
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "name": "マジカルシャワー",
+    "flavor_text": "後衛2人の知力が強化される術士特化の攻撃陣形。中央のメンバーを中心に前衛3人で敵の攻撃を引き受け、後衛への被弾を軽減する。<br>後衛メンバーは知力が強化されるので、術攻撃を重視するパーティにおすすめ。",
+    "positions": [
+      {
+        "x": 20,
+        "y": 25,
+        "formation_bonus_id": 1032
+      },
+      {
+        "x": 8,
+        "y": 8,
+        "formation_bonus_id": 1033
+      },
+      {
+        "x": 8,
+        "y": 42,
+        "formation_bonus_id": 1033
+      },
+      {
+        "x": 34,
+        "y": 14,
+        "formation_bonus_id": 1034
+      },
+      {
+        "x": 34,
+        "y": 36,
+        "formation_bonus_id": 1034
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "name": "ホーリーウォール",
+    "flavor_text": "前衛3人で敵の攻撃を引き受けつつ、後衛の攻撃でダメージを稼ぐ攻防一体の陣形。<br>後衛メンバーは器用さが強化されるので、小剣、弓、銃を攻撃の主軸とする編成におすすめ。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 25,
+        "formation_bonus_id": 1035
+      },
+      {
+        "x": 8,
+        "y": 8,
+        "formation_bonus_id": 1036
+      },
+      {
+        "x": 8,
+        "y": 42,
+        "formation_bonus_id": 1036
+      },
+      {
+        "x": 38,
+        "y": 16,
+        "formation_bonus_id": 1037
+      },
+      {
+        "x": 38,
+        "y": 34,
+        "formation_bonus_id": 1037
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "シグモイドフォーム",
+    "flavor_text": "腕力と知力の両方が上昇する特殊陣形。<br>前衛の素早さ上昇と後衛の素早さ低下により、行動順をコントロールしやすい。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 6,
+        "formation_bonus_id": 1040
+      },
+      {
+        "x": 8,
+        "y": 16,
+        "formation_bonus_id": 1041
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1067
+      },
+      {
+        "x": 42,
+        "y": 34,
+        "formation_bonus_id": 1065
+      },
+      {
+        "x": 42,
+        "y": 44,
+        "formation_bonus_id": 1066
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "name": "フリーファイト",
+    "flavor_text": "3人陣形。<br>縦一列に展開して敵の攻撃を均等に散らす。補正効果は特にない。",
+    "positions": [
+      {
+        "x": 25,
+        "y": 10,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 28,
+        "y": 25,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 25,
+        "y": 40,
+        "formation_bonus_id": 1001
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "name": "オープンデルタ",
+    "flavor_text": "3人陣形。<br>前衛2人が敵の攻撃を引きつける扇型陣形。補正効果は特にない。",
+    "positions": [
+      {
+        "x": 12,
+        "y": 12,
+        "formation_bonus_id": 1047
+      },
+      {
+        "x": 36,
+        "y": 25,
+        "formation_bonus_id": 1048
+      },
+      {
+        "x": 12,
+        "y": 40,
+        "formation_bonus_id": 1047
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "name": "クローズデルタ",
+    "flavor_text": "3人陣形。<br>前衛1人が敵の攻撃を引きつける凸型陣形。補正効果は特にない。",
+    "positions": [
+      {
+        "x": 36,
+        "y": 12,
+        "formation_bonus_id": 1050
+      },
+      {
+        "x": 12,
+        "y": 25,
+        "formation_bonus_id": 1049
+      },
+      {
+        "x": 36,
+        "y": 38,
+        "formation_bonus_id": 1050
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "name": "シングルライン",
+    "flavor_text": "3人陣形。<br>横一列の突撃陣形。前衛ほど狙われやすい。補正効果は特にない。",
+    "positions": [
+      {
+        "x": 5,
+        "y": 25,
+        "formation_bonus_id": 1051
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 45,
+        "y": 25,
+        "formation_bonus_id": 1052
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "name": "デッドリーピアス",
+    "flavor_text": "速度と耐久性を犠牲にして攻撃力を高めた攻撃陣形。<br>前衛1人と中衛3人の器用さが強化されるのが特長。",
+    "positions": [
+      {
+        "x": 6,
+        "y": 25,
+        "formation_bonus_id": 1016
+      },
+      {
+        "x": 20,
+        "y": 10,
+        "formation_bonus_id": 1017
+      },
+      {
+        "x": 20,
+        "y": 40,
+        "formation_bonus_id": 1017
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1018
+      },
+      {
+        "x": 44,
+        "y": 25,
+        "formation_bonus_id": 1019
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "name": "アニマストリーム",
+    "flavor_text": "前衛4人の知力を強化する術士特化の攻撃陣形。<br>防御と回復に難がある一方、パーティの術攻撃力が大幅に強化される。術士による先制攻撃が期待できる点もメリット。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 11,
+        "formation_bonus_id": 1070
+      },
+      {
+        "x": 8,
+        "y": 39,
+        "formation_bonus_id": 1070
+      },
+      {
+        "x": 20,
+        "y": 20,
+        "formation_bonus_id": 1068
+      },
+      {
+        "x": 20,
+        "y": 30,
+        "formation_bonus_id": 1068
+      },
+      {
+        "x": 42,
+        "y": 25,
+        "formation_bonus_id": 1071
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "name": "ドラグーンストライク",
+    "flavor_text": "中衛2人を中心に腕力が強化される攻撃陣形。アタッカーを敵の攻撃から守りやすい。<br>剣、大剣、斧、棍棒、体術、槍を重視するパーティにおすすめ。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 18,
+        "formation_bonus_id": 1056
+      },
+      {
+        "x": 8,
+        "y": 32,
+        "formation_bonus_id": 1056
+      },
+      {
+        "x": 30,
+        "y": 11,
+        "formation_bonus_id": 1057
+      },
+      {
+        "x": 30,
+        "y": 39,
+        "formation_bonus_id": 1057
+      },
+      {
+        "x": 42,
+        "y": 25,
+        "formation_bonus_id": 1058
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "name": "虎穴陣",
+    "flavor_text": "行動前防御強化が全員に付与される専守防衛の陣形。敵の全体攻撃に対抗しやすい。防御力アップの引き換えに行動速度が低下する。",
+    "positions": [
+      {
+        "x": 39,
+        "y": 25,
+        "formation_bonus_id": 1059
+      },
+      {
+        "x": 32,
+        "y": 15,
+        "formation_bonus_id": 1060
+      },
+      {
+        "x": 32,
+        "y": 35,
+        "formation_bonus_id": 1060
+      },
+      {
+        "x": 25,
+        "y": 6,
+        "formation_bonus_id": 1060
+      },
+      {
+        "x": 25,
+        "y": 44,
+        "formation_bonus_id": 1060
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "name": "タイガーシャーク",
+    "flavor_text": "被弾コントロールと攻撃強化を兼ね揃えた特殊陣形。<br>前衛メンバーが敵の攻撃を引きつける。前衛、後衛共に攻撃重視の能力強化になっているのが特長。",
+    "positions": [
+      {
+        "x": 12,
+        "y": 25,
+        "formation_bonus_id": 1061
+      },
+      {
+        "x": 25,
+        "y": 12,
+        "formation_bonus_id": 1062
+      },
+      {
+        "x": 25,
+        "y": 38,
+        "formation_bonus_id": 1063
+      },
+      {
+        "x": 45,
+        "y": 12,
+        "formation_bonus_id": 1064
+      },
+      {
+        "x": 45,
+        "y": 38,
+        "formation_bonus_id": 1064
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "name": "カラフルレンジャーズ",
+    "flavor_text": "各メンバーの個性を活かす特殊陣形。<br>ポジションごとに違った能力が強化されるのが特長。特定の武器種や攻撃属性にこだわらない混成パーティにおすすめ。",
+    "positions": [
+      {
+        "x": 18,
+        "y": 25,
+        "formation_bonus_id": 1077
+      },
+      {
+        "x": 25,
+        "y": 15,
+        "formation_bonus_id": 1078
+      },
+      {
+        "x": 25,
+        "y": 35,
+        "formation_bonus_id": 1079
+      },
+      {
+        "x": 32,
+        "y": 6,
+        "formation_bonus_id": 1080
+      },
+      {
+        "x": 32,
+        "y": 44,
+        "formation_bonus_id": 1081
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "name": "インバースシグモイド",
+    "flavor_text": "器用さと知力の両方が上昇する特殊陣形。<br>前衛の素早さ上昇と後衛の素早さ低下により、行動順をコントロールしやすい。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 44,
+        "formation_bonus_id": 1072
+      },
+      {
+        "x": 8,
+        "y": 34,
+        "formation_bonus_id": 1073
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1076
+      },
+      {
+        "x": 42,
+        "y": 16,
+        "formation_bonus_id": 1074
+      },
+      {
+        "x": 42,
+        "y": 6,
+        "formation_bonus_id": 1075
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "name": "フリーファイト-1",
+    "flavor_text": "フリーファイトの発展形。前衛の素早さが上昇する速攻陣形。<br>前衛4人が敵の攻撃を引き受け、後衛への被弾を軽減する。後衛メンバーは知力・愛が強化されるので、攻撃役と支援役の役割分担がしやすい。",
+    "positions": [
+      {
+        "x": 34,
+        "y": 25,
+        "formation_bonus_id": 1053
+      },
+      {
+        "x": 20,
+        "y": 18,
+        "formation_bonus_id": 1054
+      },
+      {
+        "x": 20,
+        "y": 32,
+        "formation_bonus_id": 1054
+      },
+      {
+        "x": 20,
+        "y": 9,
+        "formation_bonus_id": 1054
+      },
+      {
+        "x": 20,
+        "y": 41,
+        "formation_bonus_id": 1054
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "name": "デッドリーピアス・改",
+    "flavor_text": "デッドリーピアスを攻撃面・防御面共に強化した陣形。<br>先頭のメンバーに行動前防御強化が付与され、両翼のメンバーの行動速度が上昇する。",
+    "positions": [
+      {
+        "x": 6,
+        "y": 25,
+        "formation_bonus_id": 1092
+      },
+      {
+        "x": 20,
+        "y": 10,
+        "formation_bonus_id": 1088
+      },
+      {
+        "x": 20,
+        "y": 40,
+        "formation_bonus_id": 1088
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1087
+      },
+      {
+        "x": 44,
+        "y": 25,
+        "formation_bonus_id": 1019
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "name": "飛散陣",
+    "flavor_text": "前衛2人と中衛1人の体術技ダメージを強化する体術特化の攻撃陣形。<br>前衛の素早さ上昇と中衛・後衛の行動速度低下により、行動順をコントロールしやすい。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 20,
+        "formation_bonus_id": 1089
+      },
+      {
+        "x": 8,
+        "y": 30,
+        "formation_bonus_id": 1089
+      },
+      {
+        "x": 32,
+        "y": 25,
+        "formation_bonus_id": 1090
+      },
+      {
+        "x": 45,
+        "y": 8,
+        "formation_bonus_id": 1091
+      },
+      {
+        "x": 45,
+        "y": 42,
+        "formation_bonus_id": 1091
+      }
+    ]
+  },
+  {
+    "id": 1030,
+    "name": "マルチカウンター",
+    "flavor_text": "前衛2人のカウンター攻撃のダメージを強化するカウンター特化陣形。前衛2人が敵の攻撃を引きつけ、中衛メンバーは知力・愛が強化されるので、役割分担がしやすい。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 12,
+        "formation_bonus_id": 1093
+      },
+      {
+        "x": 8,
+        "y": 38,
+        "formation_bonus_id": 1093
+      },
+      {
+        "x": 30,
+        "y": 12,
+        "formation_bonus_id": 1096
+      },
+      {
+        "x": 30,
+        "y": 38,
+        "formation_bonus_id": 1096
+      },
+      {
+        "x": 45,
+        "y": 25,
+        "formation_bonus_id": 1094
+      }
+    ]
+  },
+  {
+    "id": 1031,
+    "name": "アマゾンストライク・改",
+    "flavor_text": "アマゾンストライクの攻撃面をさらに強化した陣形。<br>剣、大剣、斧、棍棒、体術、槍を重視するパーティにおすすめ。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 25,
+        "formation_bonus_id": 1098
+      },
+      {
+        "x": 16,
+        "y": 17,
+        "formation_bonus_id": 1099
+      },
+      {
+        "x": 16,
+        "y": 33,
+        "formation_bonus_id": 1099
+      },
+      {
+        "x": 38,
+        "y": 8,
+        "formation_bonus_id": 1004
+      },
+      {
+        "x": 38,
+        "y": 42,
+        "formation_bonus_id": 1004
+      }
+    ]
+  },
+  {
+    "id": 1033,
+    "name": "バレットシフト",
+    "flavor_text": "前衛・中衛の素早さがアップする速攻陣形。<br>パーティ全体の器用さが強化されるので、小剣、弓、銃を重視するパーティにおすすめ。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 6,
+        "formation_bonus_id": 1101
+      },
+      {
+        "x": 25,
+        "y": 16,
+        "formation_bonus_id": 1102
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1102
+      },
+      {
+        "x": 25,
+        "y": 34,
+        "formation_bonus_id": 1102
+      },
+      {
+        "x": 42,
+        "y": 44,
+        "formation_bonus_id": 1103
+      }
+    ]
+  },
+  {
+    "id": 1034,
+    "name": "デザートランス・改",
+    "flavor_text": "デザートランスの防御面をさらに強化した陣形。敵の攻撃を前衛が引きつけ、パーティ全体の生存率を上げる。被弾をコントロールしつつ戦いたい場合におすすめ。",
+    "positions": [
+      {
+        "x": 15,
+        "y": 25,
+        "formation_bonus_id": 1104
+      },
+      {
+        "x": 40,
+        "y": 20,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 40,
+        "y": 30,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 30,
+        "y": 10,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 30,
+        "y": 40,
+        "formation_bonus_id": 1043
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "name": "マギアファイト",
+    "flavor_text": "前衛・後衛の腕力・器用さ・知力がアップする攻撃陣形。<br>複数のステータス強化を必要とするスタイルにおすすめ。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 44,
+        "formation_bonus_id": 1105
+      },
+      {
+        "x": 25,
+        "y": 34,
+        "formation_bonus_id": 1106
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1106
+      },
+      {
+        "x": 25,
+        "y": 16,
+        "formation_bonus_id": 1106
+      },
+      {
+        "x": 42,
+        "y": 6,
+        "formation_bonus_id": 1107
+      }
+    ]
+  },
+  {
+    "id": 1037,
+    "name": "ハリケーン",
+    "flavor_text": "前衛1人の腕力と素早さ、中衛3人の知力、後衛1人の器用さがそれぞれ強化される、術師を中心とした攻撃陣形。<br>前衛には行動後防御強化が付与され、後衛には行動前防御強化が付与される。",
+    "positions": [
+      {
+        "x": 8,
+        "y": 15,
+        "formation_bonus_id": 1109
+      },
+      {
+        "x": 25,
+        "y": 5,
+        "formation_bonus_id": 1110
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1110
+      },
+      {
+        "x": 25,
+        "y": 45,
+        "formation_bonus_id": 1110
+      },
+      {
+        "x": 42,
+        "y": 35,
+        "formation_bonus_id": 1111
+      }
+    ]
+  },
+  {
+    "id": 1038,
+    "name": "玄武陣",
+    "flavor_text": "パーティ全体に「全員生存時防御」と「ターン開始時HP回復(全員生存時)」が付与される防御陣形。<br>長期戦におすすめ。",
+    "positions": [
+      {
+        "x": 45,
+        "y": 24,
+        "formation_bonus_id": 1112
+      },
+      {
+        "x": 6,
+        "y": 9,
+        "formation_bonus_id": 1113
+      },
+      {
+        "x": 6,
+        "y": 39,
+        "formation_bonus_id": 1113
+      },
+      {
+        "x": 30,
+        "y": 6,
+        "formation_bonus_id": 1114
+      },
+      {
+        "x": 30,
+        "y": 42,
+        "formation_bonus_id": 1114
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "name": "マジカルシャワー・改",
+    "flavor_text": "マジカルシャワーの攻撃面をさらに強化した陣形。<br>後衛2人はWeak攻撃強化が付与され、行動速度が上昇する。",
+    "positions": [
+      {
+        "x": 20,
+        "y": 25,
+        "formation_bonus_id": 1116
+      },
+      {
+        "x": 8,
+        "y": 8,
+        "formation_bonus_id": 1115
+      },
+      {
+        "x": 8,
+        "y": 42,
+        "formation_bonus_id": 1115
+      },
+      {
+        "x": 34,
+        "y": 14,
+        "formation_bonus_id": 1118
+      },
+      {
+        "x": 34,
+        "y": 36,
+        "formation_bonus_id": 1118
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "name": "鳳天舞の陣・改",
+    "flavor_text": "鳳天舞の陣を攻撃面・防御面共に強化した陣形。<br>中衛に被ダメージ軽減が付与され、前衛の素早さが上昇する。",
+    "positions": [
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1120
+      },
+      {
+        "x": 8,
+        "y": 10,
+        "formation_bonus_id": 1121
+      },
+      {
+        "x": 8,
+        "y": 40,
+        "formation_bonus_id": 1121
+      },
+      {
+        "x": 42,
+        "y": 10,
+        "formation_bonus_id": 1124
+      },
+      {
+        "x": 42,
+        "y": 40,
+        "formation_bonus_id": 1124
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 890001,
+    "holy_stone_type": 1,
+    "name": "武器聖石のかけら",
+    "flavor_text": "武器聖石のかけら。使用することで、武器聖石の強化ができる。",
+    "icon": 890001,
+    "max_quantity": 99999999,
+    "sort_order": 9499
+  },
+  {
+    "id": 890002,
+    "holy_stone_type": 2,
+    "name": "主防具聖石のかけら",
+    "flavor_text": "主防具聖石のかけら。使用することで、主防具聖石の強化ができる。",
+    "icon": 890002,
+    "max_quantity": 99999999,
+    "sort_order": 9498
+  },
+  {
+    "id": 890003,
+    "holy_stone_type": 3,
+    "name": "副防具聖石のかけら",
+    "flavor_text": "副防具聖石のかけら。使用することで、副防具聖石の強化ができる。",
+    "icon": 890003,
+    "max_quantity": 99999999,
+    "sort_order": 9497
+  },
+  {
+    "id": 890004,
+    "holy_stone_type": 4,
+    "name": "装飾品聖石のかけら",
+    "flavor_text": "装飾品聖石のかけら。使用することで、装飾品聖石の強化ができる。",
+    "icon": 890004,
+    "max_quantity": 99999999,
+    "sort_order": 9496
+  }
+]

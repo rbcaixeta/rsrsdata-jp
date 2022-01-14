@@ -1,0 +1,1766 @@
+[
+  {
+    "id": 1,
+    "name": "Formation_EquipmentChange_Complete",
+    "title": "装備品変更完了",
+    "text": "装備品を変更しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 2,
+    "name": "Formation_InputText_Ng",
+    "title": "エラー",
+    "text": "不適切な文字が含まれています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 3,
+    "name": "Formation_InputText_Max",
+    "title": "エラー",
+    "text": "最大文字数を超えています。<br>10文字以内で入力し直してください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 4,
+    "name": "Formation_EquipmentChange_Confirm",
+    "title": "確認",
+    "text": "選択した装備品はすでに他キャラクターが装備済みです。<br>装備品を付け替えますか？",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "付け替える"
+  },
+  {
+    "id": 5,
+    "name": "Formation_SkillRemove_Complete",
+    "title": "確認",
+    "text": "異なるキャラクターのスタイルを編成したため、継承技・術を外しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 6,
+    "name": "Formation_SameCharacter_Confirm",
+    "title": "確認",
+    "text": "同一キャラクターが編成されています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 7,
+    "name": "Formation_WeaponRemove_Complete",
+    "title": "確認",
+    "text": "武器種が異なるスタイルを編成したため、武器を外しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 8,
+    "name": "Smith_EquipmentSale_Shortage",
+    "title": "確認",
+    "text": "該当する装備品がありません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 9,
+    "name": "Smith_MaterialChange_impossible",
+    "title": "確認",
+    "text": "変換できない素材です。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 10,
+    "name": "Training_Food_Shortage",
+    "title": "エネルギー不足",
+    "text": "エネルギーがなくなりました。<br>訓練するにはエネルギーを補給してください。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "補給する"
+  },
+  {
+    "id": 11,
+    "name": "Training_Food_Max",
+    "title": "補給量上限",
+    "text": "これ以上エネルギーを補給できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 13,
+    "name": "Load_Dl_Shortage",
+    "title": "エラー",
+    "text": "ダウンロードに必要な容量が不足しています。<br>空き容量をご確認ください。<br>※リトライでダウンロードを再開します。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "リトライ"
+  },
+  {
+    "id": 14,
+    "name": "Present_Receipt_Deadline",
+    "title": "期限切れ",
+    "text": "受け取り期限が過ぎたため<br>獲得できませんでした。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 15,
+    "name": "Player_InputText_Ng",
+    "title": "エラー",
+    "text": "使用できない文言が含まれています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 16,
+    "name": "Daily_Frequency_Max",
+    "title": "挑戦回数増加上限",
+    "text": "挑戦回数の増加回数が上限に達しました。<br>また明日お越しください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 17,
+    "name": "Shop_StaminaRecover_Max",
+    "title": "スタミナ回復",
+    "text": "スタミナが上限に達しています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 18,
+    "name": "Shop_Buy_Deadline",
+    "title": "購入エラー",
+    "text": "商品の購入期限がきれています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 19,
+    "name": "Shop_Renew_Complete",
+    "title": "商品更新完了",
+    "text": "商品一覧を更新しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 20,
+    "name": "Shop_Profile_Ng",
+    "title": "生年月設定",
+    "text": "年または月が不正です。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 21,
+    "name": "Shop_Profile_Complete",
+    "title": "生年月設定",
+    "text": "生年月を設定しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 22,
+    "name": "Shop_BuyCancel_Complete",
+    "title": "購入キャンセル",
+    "text": "購入処理がキャンセルされました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 23,
+    "name": "Shop_StaminaRecover_impossible",
+    "title": "スタミナ回復",
+    "text": "回復上限に達しているため、<br>これ以上回復できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 24,
+    "name": "Gacha_Jewel_Shortage",
+    "title": "ジュエル不足",
+    "text": "有償ジュエルが不足しているため、ガチャを実行出来ません。<br>ジュエルを購入しますか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 25,
+    "name": "Option_DataDelete_Complete",
+    "title": "キャッシュ削除完了",
+    "text": "キャッシュを削除しました。<br>タイトル画面に移動後、データの修復を行います。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 26,
+    "name": "Option_Scenario_Confirm",
+    "title": "データ一括ダウンロード",
+    "text": "ゲームデータを一括ダウンロードすることで、快適にプレイできるようになります。<br>一括ダウンロードを行いますか？<br>※Wi-Fi環境でのダウンロードをおすすめします。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "ダウンロード"
+  },
+  {
+    "id": 27,
+    "name": "Option_DataRepair_Confirm",
+    "title": "データ修復",
+    "text": "端末に保存されているデータが破損していると、進行不可などの不具合が生じることがあります。<br>キャッシュ削除して再ダウンロードを行うことで、問題が解消することがあります。<br>データを修復しても、現在の状態でプレイの継続が可能です。<br>データを修復を開始しますか？<br><br>\n※Wi-Fi環境でのダウンロードをおすすめします。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "データ修復"
+  },
+  {
+    "id": 28,
+    "name": "Drama_Skip_Confirm",
+    "title": "確認",
+    "text": "シナリオをスキップしますか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 29,
+    "name": "Tutorial_Dl_Complete",
+    "title": "チュートリアルデータDL完了",
+    "text": "チュートリアルデータのダウンロードが完了しました。<br>STARTボタンタップでゲームを開始します。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "START"
+  },
+  {
+    "id": 30,
+    "name": "Tutorial_InputText_Shortage",
+    "title": "エラー",
+    "text": "プレイヤーの名前を入力してください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 31,
+    "name": "Tutorial_Skip_Confirm",
+    "title": "確認",
+    "text": "バンガード内を案内してもらいますか？",
+    "dialog_type": 2,
+    "button2": "スキップ",
+    "button1": "案内を頼む"
+  },
+  {
+    "id": 32,
+    "name": "Common_Update_Confirm",
+    "title": "確認",
+    "text": "ゲームをプレイ頂くには「アプリのバージョンアップ」が必要です。<br>（OKボタンを押すとストアへ遷移します）",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 33,
+    "name": "Common_Battle_Confirm",
+    "title": "確認",
+    "text": "中断しているバトルがあります。<br>再開しますか？",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "再開する"
+  },
+  {
+    "id": 34,
+    "name": "Common_Maintenance_Confirm",
+    "title": "確認",
+    "text": "現在メンテナンス中です。<br>タイトル画面に戻ります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 35,
+    "name": "Common_Event_Deadline",
+    "title": "エラー",
+    "text": "イベント期間外です。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 36,
+    "name": "Tutorial_InputText_Ng",
+    "title": "エラー",
+    "text": "不適切な文字が含まれています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 37,
+    "name": "Tutorial_InputText_Max",
+    "title": "エラー",
+    "text": "最大文字数を超えています。<br>10文字以内で入力し直してください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 38,
+    "name": "Trialquest_Renew_Result",
+    "title": "リセット結果",
+    "text": "毎月のリセット日時に達したため、<br>螺旋回廊のクリア状況をリセット<br>しました。<br>※前月の進行状況に応じて、一定<br>階層までは、自動的にクリア状態<br>になります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 39,
+    "name": "Battle_Retire_Confirm",
+    "title": "確認",
+    "text": "リタイアするとクエストは失敗になります。<br>リタイアしますか？<br>※バトル中に習得した技やRankアップは失われます。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "リタイア"
+  },
+  {
+    "id": 40,
+    "name": "Battle_Retire_impossible",
+    "title": "確認",
+    "text": "勝敗の確定したバトルのリタイアはできません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 41,
+    "name": "Battle_Expired_impossible",
+    "title": "確認",
+    "text": "バトルの有効期限が過ぎました。<br>ホームに戻ります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 42,
+    "name": "Load_Connect_impossible",
+    "title": "接続エラー",
+    "text": "サーバーとの接続がきれました。<br>タイトル画面へ戻ります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 43,
+    "name": "Present_StaminaRecover_Max",
+    "title": "受け取り上限",
+    "text": "所持枠上限に達しています。<br>これ以上スタミナを回復できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 44,
+    "name": "Shop_Jewel_Shortage",
+    "title": "所持ジュエル不足",
+    "text": "ジュエルが不足しています。<br>ジュエルを購入しますか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 45,
+    "name": "Quest_Hard_Open",
+    "title": "クエスト解放",
+    "text": "難易度(Hard)が解放されました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 46,
+    "name": "Quest_VeryHard_Open",
+    "title": "クエスト解放",
+    "text": "難易度(Very Hard)が解放されました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 47,
+    "name": "Shop_Buy_Cancel",
+    "title": "購入失敗",
+    "text": "購入がキャンセルされました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 48,
+    "name": "Quest_Remuneration_Transfer",
+    "title": "アイテム転送",
+    "text": "アイテム所持上限に達したため、<br>対象のアイテムをプレゼントボックスに<br>送りました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 49,
+    "name": "Shop_Aurum_Max",
+    "title": "所持上限オーバー",
+    "text": "売却した場合、オーラムの所持上限を<br>超えてしまいますが、売却しますか？<br>※所持上限を超えたオーラムは消滅します。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "売却する"
+  },
+  {
+    "id": 50,
+    "name": "Shop_Item_Max",
+    "title": "所持上限オーバー",
+    "text": "売却した場合、白結晶の所持上限を<br>超えてしまいますが、売却しますか？<br>※所持上限を超えた白結晶は消滅します。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "売却する"
+  },
+  {
+    "id": 51,
+    "name": "Starting_Inheriting_Complete",
+    "title": "データ引き継ぎ完了",
+    "text": "Facebookアカウントからプレイヤーを<br>引き継ぎました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 52,
+    "name": "Quest_Remuneration_Extinction",
+    "title": "確認",
+    "text": "所持上限を超えたアイテムが消滅しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 53,
+    "name": "Item_IllegalOperation_Cancel",
+    "title": "確認",
+    "text": "不正な操作のため、売却できませんでした。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 54,
+    "name": "Shop_Jewel_Max",
+    "title": "有償ジュエル所持上限",
+    "text": "有償ジュエル所持上限を超えるため<br>ジュエルを購入できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 55,
+    "name": "Shop_Jewel_impossible",
+    "title": "ジュエル所持上限",
+    "text": "ジュエル所持上限を超えるため<br>ジュエルを購入できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 56,
+    "name": "Shop_Frequency_Max",
+    "title": "購入エラー",
+    "text": "購入規定回数を超えているため、<br>一部アイテムが付与されなかった可能性があります。<br>アイテムが正しく付与されていない場合は、<br>メニュー > お問い合わせ よりお問い合わせください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 57,
+    "name": "Item_Frequency_Max",
+    "title": "購入エラー",
+    "text": "アイテムの所持上限を超えているため、<br>一部のアイテムが付与されなかった可能性があります。<br>アイテムが正しく付与されていない場合は、<br>メニュー > お問い合わせ よりお問い合わせください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 58,
+    "name": "Shop_Expired_Deadline",
+    "title": "購入エラー",
+    "text": "購入期限を過ぎているため、<br>一部のアイテムが付与されなかった可能性があります。<br>アイテムが正しく付与されていない場合は、<br>メニュー > お問い合わせ よりお問い合わせください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 59,
+    "name": "Training_Renew_Max",
+    "title": "補給上限オーバー",
+    "text": "エネルギー上限を超えてしまいますが<br>よろしいですか？",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "補給する"
+  },
+  {
+    "id": 60,
+    "name": "Option_Inheriting_Cancel",
+    "title": "データ連携解除",
+    "text": "Game Centerアカウントとの連携を<br>解除します。よろしいですか？",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "解除する"
+  },
+  {
+    "id": 61,
+    "name": "Starting_IllegalOperation_Result",
+    "title": "お知らせ",
+    "text": "ユーザー規約違反の事実を確認したため<br>アカウントを停止させていただきました。<br>万が一、お心当たりがない場合は<br>大変お手数ではございますが<br>タイトル画面下部【お問い合わせ】から<br>カスタマーサポート宛てまでご連絡ください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 62,
+    "name": "Load_Connect_Result",
+    "title": "ダウンロードエラー",
+    "text": "ダウンロード時にエラーが発生しました。<br>タイトルに戻るか、電波状況の良<br>い場所でリトライをお願いいたします。",
+    "dialog_type": 2,
+    "button2": "タイトルに戻る",
+    "button1": "リトライ"
+  },
+  {
+    "id": 63,
+    "name": "Load_Connect_Confirm",
+    "title": "ダウンロードエラー",
+    "text": "ダウンロード時にエラーが発生しました。<br>電波状況の良い場所でリトライを<br>お願いいたします。",
+    "dialog_type": 2,
+    "button2": "タイトルに戻る",
+    "button1": "リトライ"
+  },
+  {
+    "id": 64,
+    "name": "Option_Dl_Complete",
+    "title": "データ一括ダウンロード",
+    "text": "既に最新のデータをダウンロード済みです。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 65,
+    "name": "Quest_Expired_Attention",
+    "title": "期限切れ",
+    "text": "クエストの解放時間が<br>終了しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 66,
+    "name": "Item_IllegalOperation_Attention",
+    "title": "売却確認",
+    "text": "この装備品はロックされているため、<br>売却できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 67,
+    "name": "Item_Cancel_Ng",
+    "title": "売却確認",
+    "text": "このアイテムは装備中のため、<br>売却できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 68,
+    "name": "Shop_BuyCancel_Ng",
+    "title": "不明なエラー",
+    "text": "不明なエラーが発生中です。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 69,
+    "name": "Expedition_SameCharacter_Ng",
+    "title": "選択済みキャラクター",
+    "text": "すでに同一キャラクターを選択しています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 70,
+    "name": "Common_Expired_Attention",
+    "title": "日付変更",
+    "text": "日付が変更されました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 71,
+    "name": "Common_Renew_Complete",
+    "title": "ミッション更新",
+    "text": "ミッションが更新されました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 72,
+    "name": "Common_Expired_Confirm",
+    "title": "期限切れ",
+    "text": "ミッションの期限が過ぎています。<br>ホームに戻ります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 73,
+    "name": "Item_Expired_Deadline",
+    "title": "使用期限エラー",
+    "text": "アイテムの使用期限が切れています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 74,
+    "name": "Training_Possession_Max",
+    "title": "スタイルピース所持数オーバー",
+    "text": "スタイルピースの所持数が上限に達したため、一部のスタイルピースをプレゼントボックスに送りました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 75,
+    "name": "Gacha_Possession_Max",
+    "title": "アイテム所持数オーバー",
+    "text": "所持上限に達したアイテムをプレゼントボックスに送りました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 76,
+    "name": "Battle_Retire_Confirm2",
+    "title": "確認",
+    "text": "リタイアするとクエストは失敗になります。<br>リタイアしますか？",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "リタイア"
+  },
+  {
+    "id": 77,
+    "name": "Battle_Expired_Attention",
+    "title": "期限切れ",
+    "text": "日付が変更されました。<br>ホームに戻ります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 78,
+    "name": "Shop_Buy_Max",
+    "title": "購入上限回数オーバー",
+    "text": "既に購入上限回数を超えているため、購入できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 79,
+    "name": "Dress_up_Set_Done",
+    "title": "着せ替え設定完了",
+    "text": "着せ替え設定を反映しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 80,
+    "name": "Dress_up_Reset_Choice",
+    "title": "着せ替えリセット",
+    "text": "現在設定している着せ替えをリセットしますか？",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "リセット"
+  },
+  {
+    "id": 81,
+    "name": "Dress_up_Reset_Done",
+    "title": "着せ替えリセット完了",
+    "text": "現在の着せ替えをリセットしました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 82,
+    "name": "Shop_WhiteCrystal_Max",
+    "title": "白結晶所持上限オーバー",
+    "text": "売却した場合、白結晶の所持上限を<br>超えてしまいますが、売却しますか？<br>※所持上限を超えた白結晶は<br>プレゼントボックスに送られます。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "売却する"
+  },
+  {
+    "id": 83,
+    "name": "Smith_HolyStoneStrengthen_Remove",
+    "title": "聖石取り外し確認",
+    "text": "消費した装備品に<br>セットされていた聖石を取り外しました",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 84,
+    "name": "Smith_HolyStoneSale_Remove",
+    "title": "聖石取り外し確認",
+    "text": "売却した装備品に<br>セットされていた聖石を取り外しました",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 85,
+    "name": "Option_Resolution_Change",
+    "title": "解像度変更完了",
+    "text": "新しい解像度設定はゲーム再起動後に適用されます。<br>OKボタンを押すとタイトル画面に戻り再起動します。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 86,
+    "name": "Formation_InputText_Shortage",
+    "title": "エラー",
+    "text": "パーティ名を入力してください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 87,
+    "name": "Present_Item_Max",
+    "title": "受け取り上限",
+    "text": "所持枠上限に達しています。<br>これ以上受け取ることはできません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 88,
+    "name": "Quest_StaminaRecover_Confirm",
+    "title": "スタミナ不足",
+    "text": "必要なスタミナが不足しています<br>回復しますか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 89,
+    "name": "Quest_Renew_Confirm",
+    "title": "コンテンツ更新",
+    "text": "コンテンツに更新が入りました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 90,
+    "name": "Quest_Expired_Deadline",
+    "title": "期限切れ",
+    "text": "クエスト期限が過ぎています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 91,
+    "name": "Daily_Frequency_Complete",
+    "title": "クリア回数 上限増加",
+    "text": "クリア回数の上限が１回増加しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 92,
+    "name": "Daily_Jewel_Shortage",
+    "title": "ジュエル不足",
+    "text": "必要なジュエルがありません<br>購入しますか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 93,
+    "name": "Option_DataRepair_Complete",
+    "title": "データ修復完了",
+    "text": "データの修復が完了しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 94,
+    "name": "Option_Dl_Confirm",
+    "title": "データ一括ダウンロード完了",
+    "text": "データ一括ダウンロードが完了しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 95,
+    "name": "Shop_Possession_Max",
+    "title": "購入エラー",
+    "text": "所持枠上限に達したため<br>購入できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 96,
+    "name": "Shop_Renew_Shortage",
+    "title": "ジュエル不足",
+    "text": "更新に必要なジュエルが足りません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 97,
+    "name": "Shop_MonthlyAmount_Max",
+    "title": "月限度額超過",
+    "text": "月限度額に達したため<br>購入できませんでした。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "はい"
+  },
+  {
+    "id": 98,
+    "name": "Shop_EquipmentSpace_impossible",
+    "title": "所持枠拡張失敗",
+    "text": "所持枠の拡張に失敗しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 99,
+    "name": "Shop_Exchange_Deadline",
+    "title": "ショップ期限切れ",
+    "text": "交換所の期限が切れました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 100,
+    "name": "Shop_Connect_impossible",
+    "title": "エラー",
+    "text": "通信に失敗しました。<br>通信環境が良い場所で再度お試しください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 101,
+    "name": "Shop_ConnectStaminaRecover_impossible",
+    "title": "スタミナ回復エラー",
+    "text": "通信に失敗し、スタミナ回復が出来ませんでした。<br>通信環境が良い場所で再度お試しください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 102,
+    "name": "Expedition_SameCharacter_Confirm",
+    "title": "選択済みキャラクター",
+    "text": "既に同一キャラクターを選択しています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 103,
+    "name": "Expedition_Area_Open",
+    "title": "新エリア解放",
+    "text": "新しい遠征先が解放されました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 104,
+    "name": "Dojo_AwakeningSkill_Max",
+    "title": "技・術覚醒失敗",
+    "text": "最大覚醒段階に達したので覚醒できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 105,
+    "name": "Training_Already_Confirm",
+    "title": "選択不可",
+    "text": "訓練中のため選択出来ません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 106,
+    "name": "Training_Jewel_Shortage",
+    "title": "訓練枠拡張",
+    "text": "所持ジュエルが不足しているため<br>購入できません<br><br>ジュエルを購入しますか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 107,
+    "name": "Training_StyleChange_Confirm",
+    "title": "訓練スタイル変更",
+    "text": "スタイルを変更した場合<br>カウントダウンはリセットされます<br>よろしいですか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 108,
+    "name": "Training_StyleChange_Remove",
+    "title": "訓練解除",
+    "text": "編成からはずすと<br>カウントダウンはリセットされます<br>よろしいですか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 109,
+    "name": "Gacha_Expired_Deadline",
+    "title": "期限切れ",
+    "text": "ガチャの期限が過ぎています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 110,
+    "name": "Shop_Jewel_Attention",
+    "title": "所持ジュエル不足",
+    "text": "所持ジュエルが不足のため<br>所持枠拡張ができません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 111,
+    "name": "TotalWar_Character_Shortage",
+    "title": "参加不可",
+    "text": "キャラクターが9人揃ってないと参加できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 112,
+    "name": "TotalWar_Retire_Confirm",
+    "title": "リタイア確認",
+    "text": "R杯をリタイアしますか？<br>※既に獲得済みの報酬は失われません。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "リタイア"
+  },
+  {
+    "id": 113,
+    "name": "CharacterList_SkillBP_impossible",
+    "title": "確認",
+    "text": "選択した技・術は未覚醒のため、<br>BPカスタマイズはできません。<br>※覚醒した技・術は、全力AUTO時の<br>BP消費量をカスタマイズできます。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 114,
+    "name": "CharacterList_SkillBP_Confirm",
+    "title": "BP消費量の変更",
+    "text": "BP設定を反映しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 115,
+    "name": "Smith_HolyStoneSale_Shortage",
+    "title": "確認",
+    "text": "該当するアイテムがありません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 116,
+    "name": "Smith_HolyStoneChange_Confirm",
+    "title": "確認",
+    "text": "選択した聖石は既にセットされています。<br>この装備品にセットし直しますか？",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "セットする"
+  },
+  {
+    "id": 117,
+    "name": "Starting_Connection_impossible",
+    "title": "エラー",
+    "text": "このサービスは利用できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 118,
+    "name": "Starting_Connection_Attention",
+    "title": "データ連携",
+    "text": "既にプレイデータと連携しているアカウントです。<br>このアカウントと連携しますか？<br>※今のプレイデータで上書きされます。",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 119,
+    "name": "Starting_Connection_Confirm",
+    "title": "データ連携確認",
+    "text": "はじめからプレイをする方は<br>「はじめから」を選択してください。<br>引き継ぎデータをお持ちの方は<br>「データ連携」を選択してください。<br><br>「はじめから」をプレイされた後でも<br>ゲームデータ連携は可能です。",
+    "dialog_type": 2,
+    "button2": "はじめから",
+    "button1": "データ連携"
+  },
+  {
+    "id": 120,
+    "name": "Starting_Retire_Confirm",
+    "title": "確認",
+    "text": "ゲームを終了しますか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 121,
+    "name": "Load_MemoryCapacity_Shortage",
+    "title": "警告",
+    "text": "端末の空き容量が十分でないため、<br>ゲームを正常にプレイできない可能性があります。<br>ダウンロードを実行しますか？",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "実行する"
+  },
+  {
+    "id": 122,
+    "name": "Common_Connect_Confirm",
+    "title": "通信エラー",
+    "text": "通信に失敗しました。<br>リトライしますか？",
+    "dialog_type": 2,
+    "button2": "タイトルに戻る",
+    "button1": "リトライ"
+  },
+  {
+    "id": 123,
+    "name": "Shop_Buy_Restriction",
+    "title": "ジュエル購入制限",
+    "text": "お客様のアカウントではジュエルをご購入いただけません。<br>詳細につきましては、お問い合わせください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 124,
+    "name": "Player_InputText_Max",
+    "title": "エラー",
+    "text": "最大文字数を超えています。<br>30文字以内で入力し直してください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 125,
+    "name": "Player_InputText_Min",
+    "title": "エラー",
+    "text": "文字を入力してください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 126,
+    "name": "Player_Id_Copy",
+    "title": "確認",
+    "text": "プレイヤーIDをクリップボードにコピーしました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 127,
+    "name": "Advertisement_Setting_Complete",
+    "title": "広告設定変更完了",
+    "text": "広告設定の変更はゲーム再起動後に適用されます。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 128,
+    "name": "BattleFes_Renew_Result",
+    "title": "リセット結果",
+    "text": "毎週のリセット日時に達したため、<br>ツヴァイクバトルフェスのクリア状況を<br>リセットしました。<br><br>※前週の進行状況に応じて、<br>一定段階のクエストまで自動的に<br>クリア状態になります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 129,
+    "name": "Quest_Remuneration_Unlockable",
+    "title": "ロック不可",
+    "text": "プレゼントボックスに送られたため、<br>ロックできません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 130,
+    "name": "Advertisement_VideoPlayback_Ng",
+    "title": "エラー",
+    "text": "動画広告の再生に失敗しました。<br>通信環境の良い場所で、時間を置いてから再度試してください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 131,
+    "name": "Guild_Jewel_Shortage",
+    "title": "所持ジュエル不足",
+    "text": "ジュエルが不足しています。<br>ジュエルを購入しますか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 132,
+    "name": "Guild_Establishment_Complete",
+    "title": "ギルド作成",
+    "text": "ギルドを作成しました。<br>ギルドトップへ遷移します。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 133,
+    "name": "Guild_InputText_Ng",
+    "title": "エラー",
+    "text": "不適切な文字が含まれています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 134,
+    "name": "Guild_MissionExpired_Confirm",
+    "title": "確認",
+    "text": "開催期間が終了しているミッションです。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 135,
+    "name": "Guild_EntryRequest_Belonged",
+    "title": "ギルド加入申請結果",
+    "text": "既にギルドに所属しています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 136,
+    "name": "Guild_EntryRequest_Reject",
+    "title": "ギルド加入申請結果",
+    "text": "加入申請を受け付けていないギルドです。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 137,
+    "name": "Guild_EntryRequest_AlreadyDone",
+    "title": "ギルド加入申請結果",
+    "text": "既に加入申請しています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 138,
+    "name": "Guild_EntryRequest_Downtime",
+    "title": "ギルド加入申請結果",
+    "text": "ギルド脱退から24時間未満の場合は<br>加入申請できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 139,
+    "name": "Guild_EntryRequest_Extinction",
+    "title": "ギルド加入申請結果",
+    "text": "このギルドは解散しているため<br>加入申請できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 140,
+    "name": "Guild_Join_Belonged",
+    "title": "ギルド加入結果",
+    "text": "既にギルドに所属しています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 141,
+    "name": "Guild_Join_Reject",
+    "title": "ギルド加入結果",
+    "text": "加入を受け付けていないギルドです。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 142,
+    "name": "Guild_Join_Downtime",
+    "title": "ギルド加入結果",
+    "text": "ギルド脱退から24時間未満の場合は<br>加入できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 143,
+    "name": "Guild_Join_Extinction",
+    "title": "ギルド加入結果",
+    "text": "このギルドは解散しているため<br>加入できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 144,
+    "name": "Guild_EntryCancel_Approve",
+    "title": "ギルド加入申請取り消し",
+    "text": "既に承認されているため<br>取り消しできません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 145,
+    "name": "Guild_EntryCancel_Reject",
+    "title": "ギルド加入申請取り消し",
+    "text": "既に加入申請が却下されています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 146,
+    "name": "Guild_Edit_Success",
+    "title": "ギルド設定",
+    "text": "ギルド設定を保存しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 147,
+    "name": "Guild_EntryAll_Confirm",
+    "title": "加入申請一括拒否",
+    "text": "全てのギルド加入申請を一括で拒否します。<br>よろしいですか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 148,
+    "name": "Guild_EntryRequest_Ng",
+    "title": "加入承認エラー",
+    "text": "ギルドへの申請が取り消されています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 149,
+    "name": "Guild_EntryAll_Complete",
+    "title": "加入申請一括拒否結果",
+    "text": "ギルド加入申請を一括拒否しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 150,
+    "name": "Guild_SubMaster_Ng",
+    "title": "サブリーダー昇格",
+    "text": "サブリーダーの上限数は3名までです。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 151,
+    "name": "Guild_Ranking_Confirm",
+    "title": "確認",
+    "text": "現在ランキングを取得できません。<br>時間をあけて再度お試しください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 152,
+    "name": "Guild_dissolution_Confirm",
+    "title": "ギルド情報",
+    "text": "既に解散済みギルドです。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 153,
+    "name": "Guild_Expulsion_Confirm",
+    "title": "確認",
+    "text": "ギルドから除名されています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 154,
+    "name": "Guild_NoAuthority_Confirm",
+    "title": "確認",
+    "text": "役職操作の権限がありません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 155,
+    "name": "Guild_NonExistencePlayer_Confirm",
+    "title": "確認",
+    "text": "既にギルドに存在しない<br>プレイヤーです。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 156,
+    "name": "Guild_Renew_Confirm",
+    "title": "確認",
+    "text": "ギルドの情報が更新されました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 157,
+    "name": "Guild_Edit_Restriction",
+    "title": "確認",
+    "text": "ギルドの情報が更新されました。<br>ギルドトップ画面にもどります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 158,
+    "name": "GuildChat_Expulsion_Confirm",
+    "title": "確認",
+    "text": "ギルドから脱退したため<br>チャットを閲覧することができません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 159,
+    "name": "GuildChat_InputText_Ng",
+    "title": "投稿エラー",
+    "text": "不適切な文言が含まれているため<br>チャットを投稿できませんでした。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 160,
+    "name": "GuildChat_Connect_Confirm",
+    "title": "通信エラー",
+    "text": "通信に失敗しました。<br>時間をあけて再度お試しください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 161,
+    "name": "Guild_Join_Change",
+    "title": "確認",
+    "text": "承認制のギルドに変更されました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 162,
+    "name": "PartyGroup_InputText_Shortage",
+    "title": "エラー",
+    "text": "グループ名を入力してください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 163,
+    "name": "Common_MissionExpired_Confirm",
+    "title": "期間切れ",
+    "text": "ミッションの期限が過ぎています。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 164,
+    "name": "Guild_Edit_Shortage",
+    "title": "ギルド設定",
+    "text": "オーラムが不足しているため<br>ギルド名以外の情報を変更し保存しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 165,
+    "name": "Battle_Retry_Confirm",
+    "title": "再挑戦確認",
+    "text": "再挑戦を実行しますか？<br>再挑戦を実行すると、クエストをリタイアし、<br>再度クエストを開始します。<br>※バトル中に習得した技やRankアップは失われます。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "再挑戦"
+  },
+  {
+    "id": 166,
+    "name": "Battle_Retry_Confirm2",
+    "title": "再挑戦確認",
+    "text": "再挑戦を実行しますか？<br>再挑戦を実行すると、クエストをリタイアし、<br>再度クエストを開始します。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "再挑戦"
+  },
+  {
+    "id": 167,
+    "name": "Battle_RetireOrRetry_Confirm",
+    "title": "確認",
+    "text": "リタイアするとクエストは失敗になります。<br>再挑戦を実行すると、クエストをリタイアし、<br>再度クエストを開始します。<br>※バトル中に習得した技やRankアップは失われます。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "リタイア"
+  },
+  {
+    "id": 168,
+    "name": "Battle_RetireOrRetry_Confirm2",
+    "title": "確認",
+    "text": "リタイアするとクエストは失敗になります。<br>再挑戦を実行すると、クエストをリタイアし、<br>再度クエストを開始します。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "リタイア"
+  },
+  {
+    "id": 169,
+    "name": "BoxGacha_Reset_Confirm",
+    "title": "BOXリセット確認",
+    "text": "BOXリセットを実行すると、<br>BOX内の全ての報酬が次のBOXの報酬へと<br>入れ替わります。<br>\n一度リセットすると、<br>前のBOXに戻ることができなくなりますが<br>よろしいですか？",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "リセットする"
+  },
+  {
+    "id": 170,
+    "name": "BoxGacha_Reset_Complete",
+    "title": "BOXリセット完了",
+    "text": "BOXがリセットされました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 171,
+    "name": "BoxGacha_Information_Confirm",
+    "title": "BOX情報",
+    "text": "BOX内が空になりました。<br>次のBOXに進むためには、<br>イベントBOXガチャトップページにて<br>「BOXリセットボタン」を押下してください。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 172,
+    "name": "BoxGacha_ItemExchange_End",
+    "title": "全アイテム交換終了",
+    "text": "全BOXのアイテム交換が終了しました。<br>\n以降、アイテム交換とBOXリセットはできません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 173,
+    "name": "BoxGacha_Expired_Confirm",
+    "title": "有効期限切れ",
+    "text": "イベントBOXガチャの有効期限が切れました。<br>\nホーム画面に戻ります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 174,
+    "name": "PresentBox_Expired_Confirm",
+    "title": "有効期限切れ",
+    "text": "メッセージの保管期限が切れたため<br>\n閲覧できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 175,
+    "name": "FavoriteArmorSet_Delete_Complete",
+    "title": "確認",
+    "text": "お気に入りを削除しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 176,
+    "name": "BoxGacha_ResetItem_Confirm",
+    "title": "リセット対象アイテム獲得",
+    "text": "リセット対象のアイテムを獲得しました。<br>イベントBOXガチャトップ画面から<br>BOXリセットが可能です。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 177,
+    "name": "Option_NotificationSetting_Confirm",
+    "title": "確認",
+    "text": "ご利用端末の設定に移動します。<br>よろしいですか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 182,
+    "name": "CharacterList_Favorite_Change",
+    "title": "変更完了",
+    "text": "スタイルのグループ設定状態を更新しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 183,
+    "name": "BattleFes_Retry_Confirm",
+    "title": "再挑戦確認",
+    "text": "再挑戦を実行しますか？<br>再挑戦を実行すると、クエストを終了し、<br>再度クエストを開始します。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "再挑戦"
+  },
+  {
+    "id": 184,
+    "name": "BattleFes_RetireOrRetry_Confirm",
+    "title": "確認",
+    "text": "リタイアするとクエストは終了となります。<br>再挑戦を実行すると、クエストを終了し、<br>再度クエストを開始します。",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "リタイア"
+  },
+  {
+    "id": 185,
+    "name": "BattleFes_Retire_Confirm",
+    "title": "確認",
+    "text": "リタイアするとクエストは終了となります。<br>リタイアしますか？",
+    "dialog_type": 2,
+    "button2": "キャンセル",
+    "button1": "リタイア"
+  },
+  {
+    "id": 186,
+    "name": "FieldMap_Battle_Change",
+    "title": "状態変化",
+    "text": "このエリアの状態が変化したため、<br>バトルが開始できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 187,
+    "name": "Present_SecretKeyword_Copy",
+    "title": "確認",
+    "text": "秘密のキーワードを<br>クリップボードにコピーしました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 188,
+    "name": "FieldMap_Dominated_Change",
+    "title": "制圧完了",
+    "text": "このエリアは制圧完了しているため、<br>バトルを開始できません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 190,
+    "name": "Smith_equipment_craft_Deadline",
+    "title": "期間切れ",
+    "text": "錬成できる期間が過ぎています。<br>錬成選択画面へ戻ります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 191,
+    "name": "Quest_Information_Confirm",
+    "title": "確認",
+    "text": "初回クリア後にまとめて戦闘可能になります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 192,
+    "name": "Battle_Retire_impossible_2",
+    "title": "確認",
+    "text": "勝利の確定したバトルのリタイアはできません。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 193,
+    "name": "auto_rematch_Battle_Confirm",
+    "title": "確認",
+    "text": "自動再戦を停止します。<br>よろしいですか？",
+    "dialog_type": 2,
+    "button2": "いいえ",
+    "button1": "はい"
+  },
+  {
+    "id": 194,
+    "name": "auto_rematch_Battle_End_1",
+    "title": "自動再戦停止",
+    "text": "スタミナをすべて消費したため、<br>自動再戦を停止しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 195,
+    "name": "auto_rematch_Battle_End_2",
+    "title": "自動再戦停止",
+    "text": "クエスト挑戦チケットをすべて消費したため、<br>自動再戦を停止しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 196,
+    "name": "auto_rematch_Battle_End_3",
+    "title": "自動再戦停止",
+    "text": "デイリー自動再戦プレイ回数をすべて消費したため、<br>自動再戦を停止しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 197,
+    "name": "auto_rematch_Battle_End_4",
+    "title": "自動再戦停止",
+    "text": "自動再戦チケットをすべて消費したため、<br>自動再戦を停止しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 198,
+    "name": "auto_rematch_Battle_End_5",
+    "title": "自動再戦停止",
+    "text": "バトル中全滅したため、<br>自動再戦を停止しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 199,
+    "name": "auto_rematch_Battle_End_6",
+    "title": "自動再戦停止",
+    "text": "日付が変更されたため、<br>自動再戦を停止しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 200,
+    "name": "auto_rematch_Battle_End_7",
+    "title": "自動再戦停止",
+    "text": "アプリが終了したため、<br>自動再戦を停止しました。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 201,
+    "name": "Dojo_UraDojoUnreleased_Confirm",
+    "title": "コンテンツ未解放",
+    "text": "・裏道場1回クリアで解放",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "閉じる"
+  },
+  {
+    "id": 204,
+    "name": "RuledTrial_MonthlyReward_Confirm",
+    "title": "月次報酬",
+    "text": "毎月の集計日時に達したため、<br>クリア状況に応じた報酬を付与します。<br><br>※進行状況は継続になります。",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  }
+]

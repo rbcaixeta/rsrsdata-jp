@@ -1,0 +1,6581 @@
+[
+  {
+    "id": 101,
+    "event_ability_category_id": 1,
+    "name": "クリスマス大作戦Ⅰ ",
+    "flavor_text": "クリスマスプレゼントのドロップ量が10%UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 102,
+    "event_ability_category_id": 1,
+    "name": "クリスマス大作戦Ⅱ",
+    "flavor_text": "クリスマスプレゼントのドロップ量が20%UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 103,
+    "event_ability_category_id": 1,
+    "name": "クリスマス大作戦Ⅲ",
+    "flavor_text": "クリスマスプレゼントのドロップ量が50%UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 104,
+    "event_ability_category_id": 1,
+    "name": "クリスマスの奇跡Ⅰ",
+    "flavor_text": "思いを込めたプレゼントのドロップ量が10%UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 105,
+    "event_ability_category_id": 1,
+    "name": "クリスマスの奇跡Ⅱ",
+    "flavor_text": "思いを込めたプレゼントのドロップ量が20%UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 106,
+    "event_ability_category_id": 1,
+    "name": "クリスマスの奇跡Ⅲ",
+    "flavor_text": "思いを込めたプレゼントのドロップ量が50%UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 107,
+    "event_ability_category_id": 1,
+    "name": "超巨大！鏡もちの塔！Ⅰ",
+    "flavor_text": "あつあつの切り餅のドロップ量が10%UP、超巨大！鏡もちの塔！での能力値が2倍UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 108,
+    "event_ability_category_id": 1,
+    "name": "超巨大！鏡もちの塔！Ⅱ",
+    "flavor_text": "あつあつの切り餅のドロップ量が20%UP、超巨大！鏡もちの塔！での能力値が2倍UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 109,
+    "event_ability_category_id": 1,
+    "name": "超巨大！鏡もちの塔！Ⅲ",
+    "flavor_text": "あつあつの切り餅のドロップ量が50%UP、超巨大！鏡もちの塔！での能力値が2倍UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 110,
+    "event_ability_category_id": 1,
+    "name": "エレンの記憶Ⅰ",
+    "flavor_text": "メインクエストでの能力値が2倍UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 111,
+    "event_ability_category_id": 1,
+    "name": "魔塔ロックブーケ",
+    "flavor_text": "メイン 1章第1話 - 第6話、魔塔ロックブーケで能力値が2倍UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 112,
+    "event_ability_category_id": 1,
+    "name": "ロマンシング サ・ガ発売日記念",
+    "flavor_text": "メイン 1章第1話 - 第6話で能力値が2倍UPする",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 113,
+    "event_ability_category_id": 1,
+    "name": "ユリアンの記憶Ⅰ",
+    "flavor_text": "メイン 1章第1話 - 第6話、失われた記憶 - ユリアン - で能力値が2倍UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 114,
+    "event_ability_category_id": 1,
+    "name": "バレンタイン",
+    "flavor_text": "チョコレートドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 115,
+    "event_ability_category_id": 1,
+    "name": "バレンタインⅠ",
+    "flavor_text": "チョコレートドロップ量10%UP＆アルジャーノンにスイーツを！で能力値が2倍UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 116,
+    "event_ability_category_id": 1,
+    "name": "バレンタインⅡ",
+    "flavor_text": "チョコレートドロップ量20%UP＆アルジャーノンにスイーツを！で能力値が2倍UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 117,
+    "event_ability_category_id": 1,
+    "name": "バレンタインⅢ",
+    "flavor_text": "チョコレートドロップ量50%UP＆アルジャーノンにスイーツを！で能力値が2倍UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 118,
+    "event_ability_category_id": 1,
+    "name": "バレンタインⅠ＆魔塔",
+    "flavor_text": "チョコレートドロップ量10%UP＆メイン 第1話 - 第6話、魔塔ロックブーケ、アルジャーノンにスイーツを！で能力値が2倍UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 119,
+    "event_ability_category_id": 1,
+    "name": "バレンタインⅢ＆魔塔",
+    "flavor_text": "チョコレートドロップ量50%UP＆メイン 第1話 - 第6話、魔塔ロックブーケ、アルジャーノンにスイーツを！で能力値が2倍UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 120,
+    "event_ability_category_id": 1,
+    "name": "バレンタインⅠ＆RS1発売日",
+    "flavor_text": "チョコレートドロップ量10%UP＆メイン 第1話 - 第6話、アルジャーノンにスイーツを！で能力値が2倍UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 121,
+    "event_ability_category_id": 1,
+    "name": "バレンタインⅡ＆RS1発売日",
+    "flavor_text": "チョコレートドロップ量20%UP＆メイン 第1話 - 第6話、アルジャーノンにスイーツを！で能力値が2倍UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 122,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] モニカの記憶",
+    "flavor_text": "メイン 1章第1話 - 第8話、失われた記憶 - モニカ - で能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 123,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ホワイトデーⅠ",
+    "flavor_text": "天下分け目のホワイトデー！で能力値アップ時上昇量2倍＆お返しのキャンディドロップ量10%UP＆スペシャルキャンディ追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 124,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ホワイトデーⅡ",
+    "flavor_text": "天下分け目のホワイトデー！で能力値アップ時上昇量2倍＆お返しのキャンディドロップ量20%UP＆スペシャルキャンディ追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 125,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ホワイトデーⅢ",
+    "flavor_text": "天下分け目のホワイトデー！で能力値アップ時上昇量2倍＆お返しのキャンディドロップ量50%UP＆スペシャルキャンディ追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 126,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 聖塔",
+    "flavor_text": "メイン 第1話 - 第8話、聖塔コーデリア、武闘会で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 127,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] リリース100日記念・斬",
+    "flavor_text": "メイン 第1話 - 第8話、聖塔コーデリア、武闘会で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 128,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] リリース100日記念・打",
+    "flavor_text": "メイン 第1話 - 第8話、聖塔コーデリア、武闘会で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 129,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] リリース100日記念・突",
+    "flavor_text": "メイン 第1話 - 第8話、聖塔コーデリア、武闘会で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 130,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] リリース100日記念・杖",
+    "flavor_text": "メイン 第1話 - 第8話、聖塔コーデリア、武闘会で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 131,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ボクオーン襲来",
+    "flavor_text": "メイン 第1話 - 第8話、聖塔コーデリア、武闘会で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 132,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ミカエルの記憶",
+    "flavor_text": "メイン 第1話 - 第9話、聖塔コーデリア、武闘会、失われた記憶 - ミカエル - で能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 133,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 侯国大学Ⅰ",
+    "flavor_text": "開校！侯国大学！で、能力値アップ時上昇量2倍＆よくできましたシールドロップ量10%UP＆たいへんよくできましたシール追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 134,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 侯国大学Ⅱ",
+    "flavor_text": "開校！侯国大学！で、能力値アップ時上昇量2倍＆よくできましたシールドロップ量20%UP＆たいへんよくできましたシール追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 135,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 侯国大学Ⅲ",
+    "flavor_text": "開校！侯国大学！で、能力値アップ時上昇量2倍＆よくできましたシールドロップ量50%UP＆たいへんよくできましたシール追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 136,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] SF2発売日記念",
+    "flavor_text": "メイン 第1話 - 第9話、開校！侯国大学！で、能力値アップ時の上昇量2倍 ＆ 技・術覚醒素材ドロップ量100%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 137,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] SF2発売日記念",
+    "flavor_text": "技・術覚醒素材ドロップ量100%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 138,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ヴァンパイア",
+    "flavor_text": "メイン第1話-第9話、出現！ヴァンパイアレディで、能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 139,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ヴァンパイア",
+    "flavor_text": "出現！ヴァンパイアレディで謎の液体が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 140,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] SF2発売日記念",
+    "flavor_text": "メイン 第1話 - 第9話、開校！侯国大学！で、能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 141,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ミンサガ発売記念",
+    "flavor_text": "メイン 第1話 - 第9話、出現！ヴァンパイアレディ、遺跡潜り7種で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 142,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ヴァンパイア",
+    "flavor_text": "メイン第1話-第9話、出現！ヴァンパイアレディで、能力値アップ時の上昇量2倍&出現！ヴァンパイアレディで謎の液体が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 100
+  },
+  {
+    "id": 143,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] クジンシー襲来",
+    "flavor_text": "メイン 第1話 - 第9話で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 144,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] トーマスの祠",
+    "flavor_text": "メイン 1章第1話 - 第10話、失われた記憶 - トーマス で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 145,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] クジンシー襲来",
+    "flavor_text": "メイン 第1話 - 第10話で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 146,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 白銀の心Ⅰ",
+    "flavor_text": "白銀の心を受け継ぐ少女で、能力値アップ時の上昇量2倍＆海賊の銀貨ドロップ量10%UP＆海賊の金貨追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 147,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 白銀の心Ⅱ",
+    "flavor_text": "白銀の心を受け継ぐ少女で、能力値アップ時の上昇量2倍＆海賊の銀貨ドロップ量20%UP＆海賊の金貨追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 148,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 白銀の心Ⅲ",
+    "flavor_text": "白銀の心を受け継ぐ少女で、能力値アップ時の上昇量2倍＆海賊の銀貨ドロップ量50%UP＆海賊の金貨追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 149,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 聖塔",
+    "flavor_text": "メイン 第1話 - 第10話、聖塔ハリードで、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 150,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ワグナス襲来",
+    "flavor_text": "メイン 第1話 - 第10話で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 151,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ハリードの記憶",
+    "flavor_text": "メイン 1章第1話 - 第11話、失われた記憶 - ハリード - で能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 152,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ワグナス襲来",
+    "flavor_text": "メイン 第1話 - 第11話で、能力値アップ時の上昇量が2倍になる",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 153,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 礼拝堂Ⅰ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆忘れられた礼拝堂でミニブーケドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 154,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 礼拝堂Ⅱ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆忘れられた礼拝堂でミニブーケドロップ量20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 155,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 礼拝堂Ⅲ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆忘れられた礼拝堂でミニブーケドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 156,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 聖塔",
+    "flavor_text": "聖塔アセルスで能力値アップ時の上昇量が3倍(メイン、武闘会は2倍)＆聖塔アセルスでSアセルスのピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 157,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] Half Anniversary記念・斬",
+    "flavor_text": "メイン 第1話 - 第11話、聖塔アセルス、武闘会、遺跡潜り7種で、能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 158,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] Half Anniversary記念・打",
+    "flavor_text": "メイン 第1話 - 第11話、聖塔アセルス、武闘会、遺跡潜り7種で、能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 159,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] Half Anniversary記念・突",
+    "flavor_text": "メイン 第1話 - 第11話、聖塔アセルス、武闘会、遺跡潜り7種で、能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 160,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] Half Anniversary記念・杖",
+    "flavor_text": "メイン 第1話 - 第11話、聖塔アセルス、武闘会、遺跡潜り7種で、能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 161,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] Half Anniversary記念・斬",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍（一部クエストは2倍）＆追加ドロップ＆忘れられた礼拝堂でミニブーケドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 200
+  },
+  {
+    "id": 162,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] Half Anniversary記念・斬",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍（一部クエストは2倍）＆追加ドロップ＆忘れられた礼拝堂でミニブーケドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 200
+  },
+  {
+    "id": 163,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] Half Anniversary記念・打",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍（一部クエストは2倍）＆追加ドロップ＆忘れられた礼拝堂でミニブーケドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 200
+  },
+  {
+    "id": 164,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] Half Anniversary記念・斬",
+    "flavor_text": "聖塔アセルスで能力値アップ時の上昇量が3倍（メイン・武闘会・遺跡潜り7種は2倍）＆聖塔アセルスでSアセルスのピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 200
+  },
+  {
+    "id": 165,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] Half Anniversary記念・打",
+    "flavor_text": "聖塔アセルスで能力値アップ時の上昇量が3倍（メイン・武闘会・遺跡潜り7種は2倍）＆聖塔アセルスでSアセルスのピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 200
+  },
+  {
+    "id": 166,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] Half Anniversary記念・杖",
+    "flavor_text": "聖塔アセルスで能力値アップ時の上昇量が3倍（メイン・武闘会・遺跡潜り7種は2倍）＆聖塔アセルスでSアセルスのピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 200
+  },
+  {
+    "id": 167,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ペット捕獲大作戦",
+    "flavor_text": "ペット捕獲大作戦で、能力値アップ時の上昇量が3倍(メインは2倍)＆ペット捕獲大作戦でバーニィメダルが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 168,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 七英雄の日記念",
+    "flavor_text": "メイン 第1話 - 第12話、修業者の間、南国の楽園グレートアーチ！、玄竜との戦いで、能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 200
+  },
+  {
+    "id": 169,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 南国の楽園グレートアーチ I",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆南国の楽園グレートアーチでココナッツドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 170,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 南国の楽園グレートアーチ Ⅱ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆南国の楽園グレートアーチでココナッツドロップ量20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 171,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 南国の楽園グレートアーチ Ⅲ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆南国の楽園グレートアーチでココナッツドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 172,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] SF1発売日記念",
+    "flavor_text": "メイン 第1話 - 第12話、修業者の間で、能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 173,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 聖塔コッペリア",
+    "flavor_text": "聖塔コッペリアで能力値アップ時の上昇量が3倍(メイン、修業者の間は2倍)＆聖塔コッペリアでSコッペリアのピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 5
+  },
+  {
+    "id": 174,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 聖塔コッペリア",
+    "flavor_text": "聖塔コッペリア&ペット捕獲大作戦で能力値アップ時上昇量が3倍(メイン、修業者の間は2倍)＆該当イベントで追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1
+  },
+  {
+    "id": 175,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ペット捕獲大作戦",
+    "flavor_text": "聖塔コッペリア&ペット捕獲大作戦で能力値アップ時上昇量が3倍(メイン、修業者の間は2倍)＆該当イベントで追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 176,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ペット捕獲大作戦",
+    "flavor_text": "ペット捕獲大作戦で、能力値アップ時の上昇量が3倍(メインは2倍)＆ペット捕獲大作戦でバーニィメダルが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 177,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 降臨・ヴァッハ神",
+    "flavor_text": "降臨・ヴァッハ神で、能力値アップ時の上昇量が3倍(メインは2倍)＆降臨・ヴァッハ神でバルマンテメダルが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 178,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 七英雄の日記念",
+    "flavor_text": "メイン 第1話 - 第12話、修業者の間、南国の楽園グレートアーチ！、玄竜との戦いで、能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 200
+  },
+  {
+    "id": 179,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] ペット捕獲大作戦",
+    "flavor_text": "聖塔コッペリア&ペット捕獲大作戦で能力値アップ時上昇量が3倍(メインは2倍)＆該当イベントで追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 180,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] SF1発売日記念",
+    "flavor_text": "メイン 第1話 - 第12話、修業者の間、聖塔コッペリアで、能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 181,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 降臨・ヴァッハ神",
+    "flavor_text": "降臨・ヴァッハ神で、能力値アップ時の上昇量が3倍(メインは2倍)＆降臨・ヴァッハ神で星神の赦しが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 182,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 海の主の娘と人魚薬 I",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆海の主の娘と人魚薬でパールドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 183,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 海の主の娘と人魚薬Ⅱ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆海の主の娘と人魚薬でパールドロップ量20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 184,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 海の主の娘と人魚薬Ⅲ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆海の主の娘と人魚薬でパールドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 185,
+    "event_ability_category_id": 1,
+    "name": "[期間限定] 聖塔ギュスターヴ",
+    "flavor_text": "該当イベントで能力値アップ時の上昇量が3倍(メイン、修業者の間、聖石の洞窟は2倍)＆該当イベントでピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 186,
+    "event_ability_category_id": 2,
+    "name": "[期間限定] 守護者・シルバードラゴン",
+    "flavor_text": "守護者・シルバードラゴンで、能力値アップ時の上昇量が3倍(メイン、修業者の間は2倍)＆該当イベントで自然銀が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2
+  },
+  {
+    "id": 187,
+    "event_ability_category_id": 7,
+    "name": "[期間限定]Romancing Award ｸｴｽﾄ",
+    "flavor_text": "Romancing Award クエストで、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 3
+  },
+  {
+    "id": 188,
+    "event_ability_category_id": 5,
+    "name": "[期間限定] 見参！ﾔｰﾏｽのﾋｰﾛｰ！ Ⅰ",
+    "flavor_text": "該当イベントで追加ドロップ＆見参！ヤーマスのヒーロー！で黄色い花ドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 5
+  },
+  {
+    "id": 189,
+    "event_ability_category_id": 5,
+    "name": "[期間限定] 見参！ﾔｰﾏｽのﾋｰﾛｰ！ Ⅱ",
+    "flavor_text": "該当イベントで追加ドロップ＆見参！ヤーマスのヒーロー！で黄色い花ドロップ量20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 5
+  },
+  {
+    "id": 190,
+    "event_ability_category_id": 6,
+    "name": "[期間限定] 見参！ﾔｰﾏｽのﾋｰﾛｰ！ Ⅲ",
+    "flavor_text": "該当イベントで追加ドロップ＆見参！ヤーマスのヒーロー！で黄色い花ドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 6
+  },
+  {
+    "id": 191,
+    "event_ability_category_id": 8,
+    "name": "[期間限定] 聖塔クローディア",
+    "flavor_text": "該当イベントで能力値アップ時の上昇量が3倍(メイン、修業者の間、聖石の洞窟は2倍)＆該当イベントでピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 9
+  },
+  {
+    "id": 192,
+    "event_ability_category_id": 3,
+    "name": "[期間限定] Romancing Award -突-",
+    "flavor_text": "見参！ヤーマスのヒーロー！、リザードロードとの戦いで能力値アップ時上昇量3倍(メイン、修業者の間は2倍)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 3
+  },
+  {
+    "id": 193,
+    "event_ability_category_id": 4,
+    "name": "[期間限定] Romancing Award -術-",
+    "flavor_text": "見参！ヤーマスのヒーロー！、リザードロードとの戦いで能力値アップ時上昇量3倍(メイン、修業者の間は2倍)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 4
+  },
+  {
+    "id": 194,
+    "event_ability_category_id": 9,
+    "name": "[期間限定] 見参！ﾔｰﾏｽのﾋｰﾛｰ！ ",
+    "flavor_text": "見参！ヤーマスのヒーロー！、リザードロードとの戦いで能力値アップ時上昇量3倍(メイン、修業者の間は2倍)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 5
+  },
+  {
+    "id": 195,
+    "event_ability_category_id": 10,
+    "name": "[期間限定] Romancing Award -斬-",
+    "flavor_text": "聖塔クローディアで能力値アップ時上昇量3倍(メイン、修業者の間、聖石の洞窟は2倍)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 8
+  },
+  {
+    "id": 196,
+    "event_ability_category_id": 11,
+    "name": "[期間限定] RS3ﾘﾏｽﾀｰ版発売日決定記念",
+    "flavor_text": "メイン、修業者の間、遺跡潜り7種で能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10
+  },
+  {
+    "id": 197,
+    "event_ability_category_id": 12,
+    "name": "[期間限定] Romancing Award -打-",
+    "flavor_text": "メイン、修業者の間、遺跡潜り7種で能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 11
+  },
+  {
+    "id": 198,
+    "event_ability_category_id": 13,
+    "name": "[期間限定] Romancing祭 第3弾",
+    "flavor_text": "メイン、修業者の間、遺跡潜り7種で能力値アップ時の上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 12
+  },
+  {
+    "id": 199,
+    "event_ability_category_id": 14,
+    "name": "[期間限定] ピドナの夜の夢 I",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メイン、聖石の洞窟は2倍)＆追加ドロップ＆ピドナの夜の夢でふしぎなスイーツドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 13
+  },
+  {
+    "id": 200,
+    "event_ability_category_id": 14,
+    "name": "[期間限定] ピドナの夜の夢Ⅱ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メイン、聖石の洞窟は2倍)＆追加ドロップ＆ピドナの夜の夢でふしぎなスイーツドロップ量20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 13
+  },
+  {
+    "id": 201,
+    "event_ability_category_id": 14,
+    "name": "[期間限定] ピドナの夜の夢Ⅲ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メイン、聖石の洞窟は2倍)＆追加ドロップ＆ピドナの夜の夢でふしぎなスイーツドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 13
+  },
+  {
+    "id": 202,
+    "event_ability_category_id": 15,
+    "name": "[期間限定] 青・赤の試練",
+    "flavor_text": "メイン、聖石の洞窟で能力値アップ時の上昇量が2倍＆試練の鍵が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 14
+  },
+  {
+    "id": 203,
+    "event_ability_category_id": 16,
+    "name": "[期間限定] 手合せ・メタルブラック",
+    "flavor_text": "手合せ・メタルブラックで、能力値アップ時の上昇量が3倍(メイン、修業者の間は2倍)＆該当イベントで修理パーツが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 17
+  },
+  {
+    "id": 204,
+    "event_ability_category_id": 17,
+    "name": "[期間限定] スペシャルピックアップ",
+    "flavor_text": "メイン、聖石の洞窟で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 16
+  },
+  {
+    "id": 206,
+    "event_ability_category_id": 18,
+    "name": "[期間限定] 祝！RS3 HDリマスター版発売",
+    "flavor_text": "修業者の間で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 20
+  },
+  {
+    "id": 207,
+    "event_ability_category_id": 19,
+    "name": "[期間限定] リブロフの秘湯と大商人 I",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆該当イベントで豆絞り手ぬぐいドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 18
+  },
+  {
+    "id": 208,
+    "event_ability_category_id": 19,
+    "name": "[期間限定] リブロフの秘湯と大商人Ⅱ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆該当イベントで豆絞り手ぬぐいドロップ量20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 18
+  },
+  {
+    "id": 209,
+    "event_ability_category_id": 19,
+    "name": "[期間限定] リブロフの秘湯と大商人Ⅲ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆該当イベントで豆絞り手ぬぐいドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 18
+  },
+  {
+    "id": 210,
+    "event_ability_category_id": 20,
+    "name": "[期間限定] 追憶の伏魔殿",
+    "flavor_text": "追憶の伏魔殿で能力値アップ時の上昇量が3倍&ゆきだるまメダルドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 19
+  },
+  {
+    "id": 211,
+    "event_ability_category_id": 18,
+    "name": "[期間限定] 祝！RS3 HDリマスター版発売",
+    "flavor_text": "追憶の伏魔殿で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 20
+  },
+  {
+    "id": 212,
+    "event_ability_category_id": 21,
+    "name": "[期間限定] 皇帝の決意！クジンシーとの戦い",
+    "flavor_text": "皇帝の決意！クジンシーとの戦いで、能力値アップ時の上昇量が3倍＆該当イベントでリラックスハーブが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 21
+  },
+  {
+    "id": 213,
+    "event_ability_category_id": 18,
+    "name": "[期間限定] 祝！RS3 HDリマスター版発売",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 20
+  },
+  {
+    "id": 214,
+    "event_ability_category_id": 21,
+    "name": "[期間限定] 皇帝の決意！クジンシーとの戦い",
+    "flavor_text": "メイン、修業者の間で、能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 22
+  },
+  {
+    "id": 215,
+    "event_ability_category_id": 22,
+    "name": "[期間限定] スペシャルピックアップ",
+    "flavor_text": "メインで、能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 21
+  },
+  {
+    "id": 216,
+    "event_ability_category_id": 19,
+    "name": "[期間限定] リブロフの秘湯と大商人 Ⅳ",
+    "flavor_text": "聖石の洞窟で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 18
+  },
+  {
+    "id": 217,
+    "event_ability_category_id": 23,
+    "name": "[期間限定]決戦目前勝利への道！",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 23
+  },
+  {
+    "id": 218,
+    "event_ability_category_id": 24,
+    "name": "[期間限定]決戦目前勝利への道！・斬",
+    "flavor_text": "メインVeryHardで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 24
+  },
+  {
+    "id": 219,
+    "event_ability_category_id": 25,
+    "name": "[期間限定]決戦目前勝利への道！・打",
+    "flavor_text": "メインVeryHardで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 25
+  },
+  {
+    "id": 220,
+    "event_ability_category_id": 26,
+    "name": "[期間限定]決戦目前勝利への道！・突",
+    "flavor_text": "メインVeryHardで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 26
+  },
+  {
+    "id": 221,
+    "event_ability_category_id": 27,
+    "name": "[期間限定]決戦目前勝利への道！・杖",
+    "flavor_text": "メインVeryHardで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 27
+  },
+  {
+    "id": 222,
+    "event_ability_category_id": 33,
+    "name": "[期間限定] 超巨大！鏡もちの塔！Ⅰ",
+    "flavor_text": "超巨大！鏡もちの塔！で能力値アップ時上昇量2倍＆該当イベントであつあつの切り餅ドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 33
+  },
+  {
+    "id": 223,
+    "event_ability_category_id": 33,
+    "name": "[期間限定] 超巨大！鏡もちの塔！Ⅱ",
+    "flavor_text": "超巨大！鏡もちの塔！で能力値アップ時上昇量2倍＆該当イベントであつあつの切り餅ドロップ量20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 33
+  },
+  {
+    "id": 224,
+    "event_ability_category_id": 33,
+    "name": "[期間限定] 超巨大！鏡もちの塔！Ⅲ",
+    "flavor_text": "超巨大！鏡もちの塔！で能力値アップ時上昇量2倍＆該当イベントであつあつの切り餅ドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 33
+  },
+  {
+    "id": 225,
+    "event_ability_category_id": 28,
+    "name": "[期間限定] モニカのクリスマス大作戦Ⅰ ",
+    "flavor_text": "モニカのクリスマス大作戦での能力値アップ時の上昇量が2倍&クリスマスプレゼントのドロップ量が10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 28
+  },
+  {
+    "id": 226,
+    "event_ability_category_id": 28,
+    "name": "[期間限定] モニカのクリスマス大作戦Ⅱ",
+    "flavor_text": "モニカのクリスマス大作戦での能力値アップ時の上昇量が2倍&クリスマスプレゼントのドロップ量が20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 28
+  },
+  {
+    "id": 227,
+    "event_ability_category_id": 28,
+    "name": "[期間限定] モニカのクリスマス大作戦Ⅲ",
+    "flavor_text": "モニカのクリスマス大作戦での能力値アップ時の上昇量が2倍&クリスマスプレゼントのドロップ量が50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 28
+  },
+  {
+    "id": 228,
+    "event_ability_category_id": 29,
+    "name": "[期間限定] クリスマスの奇跡Ⅰ",
+    "flavor_text": "クリスマスの奇跡での能力値アップ時の上昇量が2倍&思いを込めたプレゼントのドロップ量が10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 29
+  },
+  {
+    "id": 229,
+    "event_ability_category_id": 29,
+    "name": "[期間限定] クリスマスの奇跡Ⅱ",
+    "flavor_text": "クリスマスの奇跡での能力値アップ時の上昇量が2倍&思いを込めたプレゼントのドロップ量が20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 29
+  },
+  {
+    "id": 230,
+    "event_ability_category_id": 29,
+    "name": "[期間限定] クリスマスの奇跡Ⅲ",
+    "flavor_text": "クリスマスの奇跡での能力値アップ時の上昇量が2倍&思いを込めたプレゼントのドロップ量が50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 29
+  },
+  {
+    "id": 231,
+    "event_ability_category_id": 31,
+    "name": "[期間限定] 聖夜の超感謝祭記念 I",
+    "flavor_text": "メリークリスマス！聖夜のサンタ合戦で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 31
+  },
+  {
+    "id": 232,
+    "event_ability_category_id": 32,
+    "name": "[期間限定] 聖夜の超感謝祭記念 Ⅱ",
+    "flavor_text": "メイン、武器聖石の洞窟、主防具聖石の洞窟で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 32
+  },
+  {
+    "id": 233,
+    "event_ability_category_id": 30,
+    "name": "[期間限定] 聖夜のサンタ合戦",
+    "flavor_text": "メリークリスマス！聖夜のサンタ合戦で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 30
+  },
+  {
+    "id": 235,
+    "event_ability_category_id": 34,
+    "name": "[期間限定] 幸運の白い猫と最終皇帝Ⅰ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆該当イベントでお神酒ドロップ量20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 34
+  },
+  {
+    "id": 236,
+    "event_ability_category_id": 34,
+    "name": "[期間限定] 幸運の白い猫と最終皇帝Ⅱ",
+    "flavor_text": "該当イベントで能力値アップ時上昇量3倍(メインは2倍)＆追加ドロップ＆該当イベントでお神酒ドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 34
+  },
+  {
+    "id": 237,
+    "event_ability_category_id": 35,
+    "name": "[期間限定] 幸運の謹賀新年祭",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍＆幸運の白い猫と最終皇帝、金龍との戦いで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 35
+  },
+  {
+    "id": 238,
+    "event_ability_category_id": 36,
+    "name": "[期間限定] 幸運の謹賀新年クエスト",
+    "flavor_text": "幸運の謹賀新年クエストで、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 36
+  },
+  {
+    "id": 239,
+    "event_ability_category_id": 37,
+    "name": "[期間限定] リリース400日記念・斬",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 38
+  },
+  {
+    "id": 240,
+    "event_ability_category_id": 38,
+    "name": "[期間限定] リリース400日記念・打",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 39
+  },
+  {
+    "id": 241,
+    "event_ability_category_id": 39,
+    "name": "[期間限定] リリース400日記念・突",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 40
+  },
+  {
+    "id": 242,
+    "event_ability_category_id": 40,
+    "name": "[期間限定] リリース400日記念・杖",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 41
+  },
+  {
+    "id": 243,
+    "event_ability_category_id": 41,
+    "name": "[期間限定] スペシャルピックアップ",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 37
+  },
+  {
+    "id": 244,
+    "event_ability_category_id": 43,
+    "name": "[期間限定] RS1発売日記念Ⅱ",
+    "flavor_text": "炎を司る者 フレイムタイラントで、能力値アップ時の上昇量が3倍＆該当イベントで【やけつく欠片】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 43
+  },
+  {
+    "id": 245,
+    "event_ability_category_id": 42,
+    "name": "[期間限定] RS1発売日記念Ⅰ",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 44
+  },
+  {
+    "id": 246,
+    "event_ability_category_id": 42,
+    "name": "[期間限定] RS1発売日記念Ⅰ",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 42
+  },
+  {
+    "id": 247,
+    "event_ability_category_id": 44,
+    "name": "[期間限定] 詩人の楽器とバレンタインⅠ",
+    "flavor_text": "・詩人の楽器とバレンタインで能力値アップ時上昇量3倍＆追加ドロップ＆手作りチョコのもとドロップ量20%UP<br>・デュラハンとの戦いで能力値アップ時上昇量3倍＆追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 46
+  },
+  {
+    "id": 248,
+    "event_ability_category_id": 45,
+    "name": "[期間限定] 詩人の楽器とバレンタインⅡ",
+    "flavor_text": "・詩人の楽器とバレンタインで能力値アップ時上昇量3倍＆追加ドロップ＆手作りチョコのもとドロップ量50%UP<br>・デュラハンとの戦いで能力値アップ時上昇量3倍＆追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 45
+  },
+  {
+    "id": 249,
+    "event_ability_category_id": 46,
+    "name": "[期間限定] 詩人の楽器とバレンタイン・槍",
+    "flavor_text": "・詩人の楽器とバレンタインで追加ドロップ＆手作りチョコのもとドロップ量20%UP<br>・デュラハンとの戦いで追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 44
+  },
+  {
+    "id": 250,
+    "event_ability_category_id": 47,
+    "name": "[期間限定] タンザーとの戦い",
+    "flavor_text": "タンザーとの戦いで、能力値アップ時の上昇量が3倍(メインは2倍)＆該当イベントで【がらくた】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 47
+  },
+  {
+    "id": 251,
+    "event_ability_category_id": 48,
+    "name": " [期間限定] Happy Valentine",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 48
+  },
+  {
+    "id": 252,
+    "event_ability_category_id": 49,
+    "name": "[期間限定] アルジャーノンにスイーツを！Ⅰ",
+    "flavor_text": "アルジャーノンにスイーツを！で能力値アップ時上昇量2倍＆該当イベントではじめてのチョコレートドロップ量10%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 49
+  },
+  {
+    "id": 253,
+    "event_ability_category_id": 49,
+    "name": "[期間限定] アルジャーノンにスイーツを！Ⅱ",
+    "flavor_text": "アルジャーノンにスイーツを！で能力値アップ時上昇量2倍＆該当イベントではじめてのチョコレートドロップ量20%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 49
+  },
+  {
+    "id": 254,
+    "event_ability_category_id": 49,
+    "name": "[期間限定] アルジャーノンにスイーツを！Ⅲ",
+    "flavor_text": "アルジャーノンにスイーツを！で能力値アップ時上昇量2倍＆該当イベントではじめてのチョコレートドロップ量50%UP",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 49
+  },
+  {
+    "id": 255,
+    "event_ability_category_id": 50,
+    "name": "[期間限定] デスとの戦い",
+    "flavor_text": "デスとの戦いで、能力値アップ時の上昇量が3倍(メインは2倍)＆該当イベントで【骨のかけら】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 57
+  },
+  {
+    "id": 256,
+    "event_ability_category_id": 51,
+    "name": "[期間限定] 天下分け目のホワイトデー！Ⅰ",
+    "flavor_text": "天下分け目のホワイトデー！で能力値アップ時上昇量2倍＆お返しのキャンディドロップ量50%UP＆スペシャルキャンディ追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 55
+  },
+  {
+    "id": 257,
+    "event_ability_category_id": 51,
+    "name": "[期間限定] 天下分け目のホワイトデー！Ⅱ",
+    "flavor_text": "天下分け目のホワイトデー！で能力値アップ時上昇量2倍＆お返しのキャンディドロップ量20%UP＆スペシャルキャンディ追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 54
+  },
+  {
+    "id": 258,
+    "event_ability_category_id": 51,
+    "name": "[期間限定] 天下分け目のホワイトデー！Ⅲ",
+    "flavor_text": "天下分け目のホワイトデー！で能力値アップ時上昇量2倍＆お返しのキャンディドロップ量10%UP＆スペシャルキャンディ追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 53
+  },
+  {
+    "id": 259,
+    "event_ability_category_id": 47,
+    "name": "[期間限定] タンザーとの戦い",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 47
+  },
+  {
+    "id": 261,
+    "event_ability_category_id": 54,
+    "name": "[期間限定]Romancing祭",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 58
+  },
+  {
+    "id": 262,
+    "event_ability_category_id": 55,
+    "name": "[期間限定] メイン外伝追加記念",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 59
+  },
+  {
+    "id": 263,
+    "event_ability_category_id": 56,
+    "name": "[期間限定] 2000万DL記念・シリーズ",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 65
+  },
+  {
+    "id": 264,
+    "event_ability_category_id": 57,
+    "name": "[期間限定]2020年登場キャラクター",
+    "flavor_text": "みんなで討滅！ターム族で能力値アップ時の上昇量が2倍(2019/12/31 ~ 2020/2/27までに登場したキャラクターが対象)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 66
+  },
+  {
+    "id": 265,
+    "event_ability_category_id": 58,
+    "name": "[期間限定]ホワイトデー記念",
+    "flavor_text": "みんなで討滅！ターム族で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 67
+  },
+  {
+    "id": 266,
+    "event_ability_category_id": 59,
+    "name": "[期間限定]Romancing祭②",
+    "flavor_text": "メイン、みんなで討滅！ターム族で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 68
+  },
+  {
+    "id": 267,
+    "event_ability_category_id": 59,
+    "name": "[期間限定]Romancing祭②",
+    "flavor_text": "聖石の洞窟で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 68
+  },
+  {
+    "id": 268,
+    "event_ability_category_id": 57,
+    "name": "[期間限定]2020年登場キャラクター",
+    "flavor_text": "聖石の洞窟で能力値アップ時の上昇量が2倍(2019/12/31 ~ 2020/2/27までに登場したキャラクターが対象)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 66
+  },
+  {
+    "id": 269,
+    "event_ability_category_id": 61,
+    "name": "[期間限定] 2000万DL記念・斬+杖",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 70
+  },
+  {
+    "id": 270,
+    "event_ability_category_id": 62,
+    "name": "[期間限定] 2000万DL記念・打+杖",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 75
+  },
+  {
+    "id": 271,
+    "event_ability_category_id": 63,
+    "name": "[期間限定] 2000万DL記念・突+杖",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 80
+  },
+  {
+    "id": 272,
+    "event_ability_category_id": 64,
+    "name": "[期間限定] メイン新章公開記念",
+    "flavor_text": "メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 85
+  },
+  {
+    "id": 273,
+    "event_ability_category_id": 65,
+    "name": "[期間限定] 金獅子姫との戦い",
+    "flavor_text": "・金獅子姫との戦いで能力値アップ時上昇量が3倍＆【獅子のきば】が追加ドロップ<br>・聖塔アセルスで能力値アップ時上昇量が3倍＆【獅子のきば】が追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 90
+  },
+  {
+    "id": 274,
+    "event_ability_category_id": 66,
+    "name": "[期間限定] SF2発売日記念Ⅰ",
+    "flavor_text": "・炎の将魔との戦いで能力値アップ時上昇量が3倍＆【炎獣の殻】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 95
+  },
+  {
+    "id": 275,
+    "event_ability_category_id": 67,
+    "name": "[期間限定] SF2発売日記念Ⅱ",
+    "flavor_text": "炎の将魔との戦いで【炎獣の殻】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 100
+  },
+  {
+    "id": 276,
+    "event_ability_category_id": 71,
+    "name": "[期間限定] せんせいの集中特訓講座Ⅱ",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 110
+  },
+  {
+    "id": 277,
+    "event_ability_category_id": 71,
+    "name": "[期間限定] せんせいの集中特訓講座Ⅱ",
+    "flavor_text": "聖石の洞窟で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 105
+  },
+  {
+    "id": 278,
+    "event_ability_category_id": 71,
+    "name": "[期間限定] せんせいの集中特訓講座Ⅱ",
+    "flavor_text": "聖石の洞窟、修業者の間で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 105
+  },
+  {
+    "id": 279,
+    "event_ability_category_id": 69,
+    "name": "[期間限定] 開校！侯国大学！Ⅰ",
+    "flavor_text": "開校！侯国大学！で能力値アップ時上昇量2倍＆よくできましたシールのドロップ量50%UP＆たいへんよくできましたシール追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 115
+  },
+  {
+    "id": 280,
+    "event_ability_category_id": 69,
+    "name": "[期間限定] 開校！侯国大学！Ⅱ",
+    "flavor_text": "開校！侯国大学！で能力値アップ時上昇量2倍＆よくできましたシールのドロップ量20%UP＆たいへんよくできましたシール追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 115
+  },
+  {
+    "id": 281,
+    "event_ability_category_id": 69,
+    "name": "[期間限定] 開校！侯国大学！Ⅲ",
+    "flavor_text": "開校！侯国大学！で能力値アップ時上昇量2倍＆よくできましたシールのドロップ量10%UP＆たいへんよくできましたシール追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 115
+  },
+  {
+    "id": 282,
+    "event_ability_category_id": 70,
+    "name": "[期間限定] MS発売日記念",
+    "flavor_text": "・聖塔ミルザで能力値アップ時上昇量が3倍＆【Sミルザのピース】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 120
+  },
+  {
+    "id": 283,
+    "event_ability_category_id": 68,
+    "name": "[期間限定] せんせいの集中特訓講座Ⅰ",
+    "flavor_text": "せんせいの集中特訓講座 上級で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 111
+  },
+  {
+    "id": 284,
+    "event_ability_category_id": 72,
+    "name": "[期間限定]Romancing祭",
+    "flavor_text": "・制圧いくばい！ Romancing佐賀県で能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 130
+  },
+  {
+    "id": 285,
+    "event_ability_category_id": 72,
+    "name": "[期間限定]Romancing祭",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 125
+  },
+  {
+    "id": 286,
+    "event_ability_category_id": 73,
+    "name": "[期間限定] Romancing佐賀県・七英雄",
+    "flavor_text": "・制圧いくばい！ Romancing佐賀県で能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 140
+  },
+  {
+    "id": 287,
+    "event_ability_category_id": 73,
+    "name": "[期間限定] Romancing佐賀県・七英雄",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 135
+  },
+  {
+    "id": 288,
+    "event_ability_category_id": 74,
+    "name": "[期間限定] Romancing佐賀県・陽+雷属性",
+    "flavor_text": "・制圧いくばい！ Romancing佐賀県で能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 150
+  },
+  {
+    "id": 289,
+    "event_ability_category_id": 75,
+    "name": "[期間限定] Romancing佐賀県・熱属性",
+    "flavor_text": "・制圧いくばい！ Romancing佐賀県で能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 160
+  },
+  {
+    "id": 290,
+    "event_ability_category_id": 76,
+    "name": "[期間限定] Romancing佐賀県・打属性",
+    "flavor_text": "・制圧いくばい！ Romancing佐賀県で能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 170
+  },
+  {
+    "id": 291,
+    "event_ability_category_id": 77,
+    "name": "[期間限定] Romancing佐賀県・突属性",
+    "flavor_text": "・制圧いくばい！ Romancing佐賀県で能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 180
+  },
+  {
+    "id": 292,
+    "event_ability_category_id": 78,
+    "name": "[期間限定] Romancing佐賀県・斬属性",
+    "flavor_text": "・制圧いくばい！ Romancing佐賀県で能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 190
+  },
+  {
+    "id": 293,
+    "event_ability_category_id": 79,
+    "name": "[期間限定] Romancing佐賀県・冷+陰属性",
+    "flavor_text": "・制圧いくばい！ Romancing佐賀県で能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 200
+  },
+  {
+    "id": 294,
+    "event_ability_category_id": 74,
+    "name": "[期間限定] Romancing佐賀県・陽+雷属性",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 145
+  },
+  {
+    "id": 295,
+    "event_ability_category_id": 75,
+    "name": "[期間限定] Romancing佐賀県・熱属性",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 155
+  },
+  {
+    "id": 296,
+    "event_ability_category_id": 76,
+    "name": "[期間限定] Romancing佐賀県・打属性",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 165
+  },
+  {
+    "id": 297,
+    "event_ability_category_id": 77,
+    "name": "[期間限定] Romancing佐賀県・突属性",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 175
+  },
+  {
+    "id": 298,
+    "event_ability_category_id": 78,
+    "name": "[期間限定] Romancing佐賀県・斬属性",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 185
+  },
+  {
+    "id": 299,
+    "event_ability_category_id": 79,
+    "name": "[期間限定] Romancing佐賀県・冷+陰属性",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 195
+  },
+  {
+    "id": 300,
+    "event_ability_category_id": 80,
+    "name": "[期間限定] 聖塔白銀の皇帝",
+    "flavor_text": "・聖塔白銀の皇帝で能力値アップ時上昇量が3倍＆【S白銀の皇帝のピース】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 210
+  },
+  {
+    "id": 301,
+    "event_ability_category_id": 80,
+    "name": "[期間限定] 聖塔白銀の皇帝",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 205
+  },
+  {
+    "id": 302,
+    "event_ability_category_id": 81,
+    "name": "[期間限定] 聖塔白銀の皇帝・杖",
+    "flavor_text": "・聖塔白銀の皇帝で能力値アップ時上昇量が2倍＆【S白銀の皇帝のピース】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 220
+  },
+  {
+    "id": 303,
+    "event_ability_category_id": 81,
+    "name": "[期間限定] 聖塔白銀の皇帝・杖",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 215
+  },
+  {
+    "id": 304,
+    "event_ability_category_id": 82,
+    "name": "[期間限定] ワイバーンとの戦い",
+    "flavor_text": "・ワイバーンとの戦いで能力値アップ時の上昇量が3倍＆【翼竜の緑鱗】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 230
+  },
+  {
+    "id": 305,
+    "event_ability_category_id": 83,
+    "name": "[期間限定] ワイバーンとの戦い・大剣",
+    "flavor_text": "・ワイバーンとの戦いで能力値アップ時の上昇量が2倍＆【翼竜の緑鱗】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 225
+  },
+  {
+    "id": 306,
+    "event_ability_category_id": 84,
+    "name": "[期間限定] 500日記念・大剣",
+    "flavor_text": "・せんせいの集中特訓講座 上級、メイン、聖石の洞窟、修業者の間で、能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 245
+  },
+  {
+    "id": 307,
+    "event_ability_category_id": 85,
+    "name": "[期間限定] 500日記念・斧",
+    "flavor_text": "・せんせいの集中特訓講座 上級、メイン、聖石の洞窟、修業者の間で、能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 240
+  },
+  {
+    "id": 308,
+    "event_ability_category_id": 86,
+    "name": "[期間限定] 500日記念・槍",
+    "flavor_text": "・せんせいの集中特訓講座 上級、メイン、聖石の洞窟、修業者の間で、能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 235
+  },
+  {
+    "id": 309,
+    "event_ability_category_id": 87,
+    "name": "[期間限定] プラチナピックアップ",
+    "flavor_text": "・制圧いくばい！ Romancing佐賀県で能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 255
+  },
+  {
+    "id": 310,
+    "event_ability_category_id": 87,
+    "name": "[期間限定] プラチナピックアップ",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 250
+  },
+  {
+    "id": 311,
+    "event_ability_category_id": 88,
+    "name": "[期間限定] 1.5周年記念・Romancing祭",
+    "flavor_text": "聖塔ランスの娘~聖王~前編で能力値アップ時上昇量が3倍＆【勇猛のたてがみ・Sフェルディナントピース】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 270
+  },
+  {
+    "id": 312,
+    "event_ability_category_id": 88,
+    "name": "[期間限定] 1.5周年記念・Romancing祭",
+    "flavor_text": "槍の試練で能力値アップ時上昇量が3倍＆【聖光な戦利品(赤)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 265
+  },
+  {
+    "id": 313,
+    "event_ability_category_id": 88,
+    "name": "[期間限定] 1.5周年記念・Romancing祭",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 260
+  },
+  {
+    "id": 314,
+    "event_ability_category_id": 89,
+    "name": "[期間限定] 1.5周年記念・突",
+    "flavor_text": "聖塔ランスの娘~聖王~前編で能力値アップ時上昇量が2倍＆【勇猛のたてがみ・Sフェルディナントピース】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 285
+  },
+  {
+    "id": 315,
+    "event_ability_category_id": 89,
+    "name": "[期間限定] 1.5周年記念・突",
+    "flavor_text": "槍の試練で能力値アップ時上昇量が2倍＆【聖光な戦利品(赤)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 280
+  },
+  {
+    "id": 316,
+    "event_ability_category_id": 89,
+    "name": "[期間限定] 1.5周年記念・突",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 275
+  },
+  {
+    "id": 317,
+    "event_ability_category_id": 90,
+    "name": "[期間限定] 忘れられた礼拝堂へⅠ",
+    "flavor_text": "忘れられた礼拝堂へで、能力値アップ時上昇量3倍（メインは2倍）＆【ミニブーケ】ドロップ量50%UP＆【ウェディングブーケ】追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 300
+  },
+  {
+    "id": 318,
+    "event_ability_category_id": 91,
+    "name": "[期間限定] 忘れられた礼拝堂へⅡ",
+    "flavor_text": "忘れられた礼拝堂へで、能力値アップ時上昇量3倍（メインは2倍）＆【ミニブーケ】ドロップ量20%UP＆【ウェディングブーケ】追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 295
+  },
+  {
+    "id": 319,
+    "event_ability_category_id": 92,
+    "name": "[期間限定] 忘れられた礼拝堂へⅢ",
+    "flavor_text": "忘れられた礼拝堂へで、能力値アップ時上昇量3倍（メインは2倍）＆【ミニブーケ】ドロップ量10%UP＆【ウェディングブーケ】追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 290
+  },
+  {
+    "id": 320,
+    "event_ability_category_id": 93,
+    "name": "[期間限定] 1.5周年記念・Romancing祭 第3弾",
+    "flavor_text": "・ブーツの試練 上級、ブーツの試練 一気に上級で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 340
+  },
+  {
+    "id": 322,
+    "event_ability_category_id": 94,
+    "name": "[期間限定] ブーツの試練・杖",
+    "flavor_text": "・ブーツの試練 上級、ブーツの試練 一気に上級で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 350
+  },
+  {
+    "id": 324,
+    "event_ability_category_id": 95,
+    "name": "[期間限定] ブーツの試練・斬",
+    "flavor_text": "・ブーツの試練 上級、ブーツの試練 一気に上級で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 360
+  },
+  {
+    "id": 326,
+    "event_ability_category_id": 96,
+    "name": "[期間限定] ブーツの試練・打",
+    "flavor_text": "・ブーツの試練 上級、ブーツの試練 一気に上級で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 370
+  },
+  {
+    "id": 328,
+    "event_ability_category_id": 97,
+    "name": "[期間限定] ブーツの試練・突",
+    "flavor_text": "・ブーツの試練 上級、ブーツの試練 一気に上級で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 380
+  },
+  {
+    "id": 330,
+    "event_ability_category_id": 88,
+    "name": "[期間限定] 1.5周年記念・Romancing祭",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 269
+  },
+  {
+    "id": 331,
+    "event_ability_category_id": 89,
+    "name": "[期間限定] 1.5周年記念・突",
+    "flavor_text": "メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 284
+  },
+  {
+    "id": 332,
+    "event_ability_category_id": 98,
+    "name": "[期間限定] 1.5周年記念・Romancing祭 第2弾",
+    "flavor_text": "・聖塔 ランスの娘~聖王~後編で能力値アップ時上昇量が3倍＆【薔薇の金細工・Sパウルスピース】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 400
+  },
+  {
+    "id": 333,
+    "event_ability_category_id": 98,
+    "name": "[期間限定] 1.5周年記念・Romancing祭 第2弾",
+    "flavor_text": "・かぶとの試練で能力値アップ時上昇量が3倍&【聖光な戦利品(青)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 395
+  },
+  {
+    "id": 334,
+    "event_ability_category_id": 99,
+    "name": "[期間限定] 1.5周年記念・斬+打",
+    "flavor_text": "・聖塔 ランスの娘~聖王~後編で能力値アップ時上昇量が2倍＆【薔薇の金細工・Sパウルスピース】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 390
+  },
+  {
+    "id": 335,
+    "event_ability_category_id": 99,
+    "name": "[期間限定] 1.5周年記念・斬+打",
+    "flavor_text": "・かぶとの試練で能力値アップ時上昇量が2倍&【聖光な戦利品(青)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 385
+  },
+  {
+    "id": 336,
+    "event_ability_category_id": 98,
+    "name": "[期間限定] 1.5周年記念・Romancing祭 第2弾",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 394
+  },
+  {
+    "id": 337,
+    "event_ability_category_id": 99,
+    "name": "[期間限定] 1.5周年記念・斬+打",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 384
+  },
+  {
+    "id": 338,
+    "event_ability_category_id": 100,
+    "name": "[期間限定]キャプテンシルバーと玄竜の秘宝Ⅰ",
+    "flavor_text": "・キャプテンシルバーと玄竜の秘宝で能力値アップ時上昇量3倍＆追加ドロップ＆スパークリングジュースドロップ量50%UP<br>・夏だ！ゲンちゃんと海遊びで能力値アップ時上昇量3倍＆追加ドロップ<br>",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 430
+  },
+  {
+    "id": 339,
+    "event_ability_category_id": 101,
+    "name": "[期間限定]キャプテンシルバーと玄竜の秘宝Ⅱ",
+    "flavor_text": "・キャプテンシルバーと玄竜の秘宝で能力値アップ時上昇量3倍＆追加ドロップ＆スパークリングジュースドロップ量20%UP<br>・夏だ！ゲンちゃんと海遊びで能力値アップ時上昇量3倍＆追加ドロップ<br>",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 425
+  },
+  {
+    "id": 340,
+    "event_ability_category_id": 102,
+    "name": "[期間限定]キャプテンシルバーと玄竜の秘宝・大剣",
+    "flavor_text": "・キャプテンシルバーと玄竜の秘宝で能力値アップ時上昇量2倍＆追加ドロップ＆スパークリングジュースドロップ量20%UP<br>・夏だ！ゲンちゃんと海遊びで能力値アップ時上昇量2倍＆追加ドロップ<br>",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 420
+  },
+  {
+    "id": 341,
+    "event_ability_category_id": 103,
+    "name": "[期間限定] 南国の楽園グレートアーチⅠ",
+    "flavor_text": "南国の楽園グレートアーチ！で、能力値アップ時上昇量3倍（メインは2倍）＆【ココナッツ】ドロップ量50%UP＆【トロピカルココナッツ】追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 415
+  },
+  {
+    "id": 342,
+    "event_ability_category_id": 104,
+    "name": "[期間限定] 南国の楽園グレートアーチⅡ",
+    "flavor_text": "南国の楽園グレートアーチ！で、能力値アップ時上昇量3倍（メインは2倍）＆【ココナッツ】ドロップ量20%UP＆【トロピカルココナッツ】追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 410
+  },
+  {
+    "id": 343,
+    "event_ability_category_id": 105,
+    "name": "[期間限定] 南国の楽園グレートアーチⅢ",
+    "flavor_text": "南国の楽園グレートアーチ！で、能力値アップ時上昇量3倍（メインは2倍）＆【ココナッツ】ドロップ量10%UP＆【トロピカルココナッツ】追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 405
+  },
+  {
+    "id": 344,
+    "event_ability_category_id": 106,
+    "name": "[期間限定]偽の塔と妖魔の君 I",
+    "flavor_text": "・偽の塔と妖魔の君で能力値アップ時上昇量が3倍＆【青薔薇】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 450
+  },
+  {
+    "id": 345,
+    "event_ability_category_id": 106,
+    "name": "[期間限定]偽の塔と妖魔の君 I",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 445
+  },
+  {
+    "id": 346,
+    "event_ability_category_id": 107,
+    "name": "[期間限定]偽の塔と妖魔の君Ⅱ",
+    "flavor_text": "・偽の塔と妖魔の君で能力値アップ時上昇量が2倍＆【青薔薇】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 440
+  },
+  {
+    "id": 347,
+    "event_ability_category_id": 107,
+    "name": "[期間限定]偽の塔と妖魔の君Ⅱ",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 435
+  },
+  {
+    "id": 348,
+    "event_ability_category_id": 108,
+    "name": "[期間限定]七英雄の日記念",
+    "flavor_text": "・メインで能力値アップ時上昇量2倍<br>・聖石の洞窟で能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 470
+  },
+  {
+    "id": 349,
+    "event_ability_category_id": 100,
+    "name": "[期間限定]キャプテンシルバーと玄竜の秘宝Ⅰ",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 465
+  },
+  {
+    "id": 350,
+    "event_ability_category_id": 101,
+    "name": "[期間限定]キャプテンシルバーと玄竜の秘宝Ⅱ",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 460
+  },
+  {
+    "id": 351,
+    "event_ability_category_id": 102,
+    "name": "[期間限定]キャプテンシルバーと玄竜の秘宝・大剣",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 455
+  },
+  {
+    "id": 352,
+    "event_ability_category_id": 100,
+    "name": "[期間限定]キャプテンシルバーと玄竜の秘宝Ⅰ",
+    "flavor_text": "・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 428
+  },
+  {
+    "id": 353,
+    "event_ability_category_id": 101,
+    "name": "[期間限定]キャプテンシルバーと玄竜の秘宝Ⅱ",
+    "flavor_text": "・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 423
+  },
+  {
+    "id": 354,
+    "event_ability_category_id": 102,
+    "name": "[期間限定]キャプテンシルバーと玄竜の秘宝・大剣",
+    "flavor_text": "・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 418
+  },
+  {
+    "id": 355,
+    "event_ability_category_id": 109,
+    "name": "[期間限定] 玄蟲との戦い",
+    "flavor_text": "・玄蟲との戦いで能力値アップ時の上昇量が3倍＆【水珠】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 485
+  },
+  {
+    "id": 356,
+    "event_ability_category_id": 109,
+    "name": "[期間限定] 玄蟲との戦い",
+    "flavor_text": "・玄蟲との戦い（Hard~UltraHard）で【フライパン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 480
+  },
+  {
+    "id": 357,
+    "event_ability_category_id": 110,
+    "name": "[期間限定] 玄蟲との戦い・棍棒",
+    "flavor_text": "・玄蟲との戦いで能力値アップ時の上昇量が2倍＆【水珠】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 475
+  },
+  {
+    "id": 358,
+    "event_ability_category_id": 110,
+    "name": "[期間限定] 玄蟲との戦い・棍棒",
+    "flavor_text": "・玄蟲との戦い（Hard~UltraHard）で【フライパン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 474
+  },
+  {
+    "id": 359,
+    "event_ability_category_id": 111,
+    "name": "[期間限定]始まりの島の賢者Ⅰ",
+    "flavor_text": "・始まりの島の賢者で能力値アップ時上昇量3倍＆【トマトジュース】が追加ドロップ＆【べちょべちょのアレ】ドロップ量50%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 515
+  },
+  {
+    "id": 360,
+    "event_ability_category_id": 111,
+    "name": "[期間限定]始まりの島の賢者Ⅰ",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 510
+  },
+  {
+    "id": 361,
+    "event_ability_category_id": 112,
+    "name": "[期間限定]始まりの島の賢者Ⅱ",
+    "flavor_text": "・始まりの島の賢者で能力値アップ時上昇量3倍＆【トマトジュース】が追加ドロップ＆【べちょべちょのアレ】ドロップ量20%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 505
+  },
+  {
+    "id": 362,
+    "event_ability_category_id": 112,
+    "name": "[期間限定]始まりの島の賢者Ⅱ",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 500
+  },
+  {
+    "id": 363,
+    "event_ability_category_id": 113,
+    "name": "[期間限定]始まりの島の賢者・体術",
+    "flavor_text": "・始まりの島の賢者で能力値アップ時上昇量2倍＆【トマトジュース】が追加ドロップ＆【べちょべちょのアレ】ドロップ量20%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 495
+  },
+  {
+    "id": 364,
+    "event_ability_category_id": 113,
+    "name": "[期間限定]始まりの島の賢者・体術",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 490
+  },
+  {
+    "id": 365,
+    "event_ability_category_id": 114,
+    "name": "[期間限定]海の主の娘と人魚薬Ⅰ",
+    "flavor_text": "・海の主の娘と人魚薬で、能力値アップ時上昇量3倍＆【パール】ドロップ量50%UP＆【オーシャンパール】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 530
+  },
+  {
+    "id": 366,
+    "event_ability_category_id": 115,
+    "name": "[期間限定]海の主の娘と人魚薬Ⅱ",
+    "flavor_text": "・海の主の娘と人魚薬で、能力値アップ時上昇量3倍＆【パール】ドロップ量20%UP＆【オーシャンパール】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 525
+  },
+  {
+    "id": 367,
+    "event_ability_category_id": 116,
+    "name": "[期間限定]海の主の娘と人魚薬Ⅲ",
+    "flavor_text": "・海の主の娘と人魚薬で、能力値アップ時上昇量3倍＆【パール】ドロップ量10%UP＆【オーシャンパール】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 520
+  },
+  {
+    "id": 368,
+    "event_ability_category_id": 117,
+    "name": "[期間限定] 玄蟲との戦い・熱属性",
+    "flavor_text": "・玄蟲との戦いで能力値アップ時の上昇量が2倍＆【水珠】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 473
+  },
+  {
+    "id": 369,
+    "event_ability_category_id": 117,
+    "name": "[期間限定] 玄蟲との戦い・熱属性",
+    "flavor_text": "・玄蟲との戦い（Hard~UltraHard）で【フライパン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 472
+  },
+  {
+    "id": 370,
+    "event_ability_category_id": 118,
+    "name": "[期間限定] シルバー親分との三番稽古",
+    "flavor_text": "・シルバー親分との三番稽古で能力値アップ時上昇量が3倍＆【銀の鱗】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 545
+  },
+  {
+    "id": 371,
+    "event_ability_category_id": 119,
+    "name": "[期間限定] シルバー親分との三番稽古・棍棒",
+    "flavor_text": "・シルバー親分との三番稽古で能力値アップ時上昇量が2倍＆【銀の鱗】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 540
+  },
+  {
+    "id": 372,
+    "event_ability_category_id": 120,
+    "name": "[期間限定] シルバー親分との三番稽古・陽",
+    "flavor_text": "・シルバー親分との三番稽古で能力値アップ時上昇量が2倍＆【銀の鱗】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 535
+  },
+  {
+    "id": 373,
+    "event_ability_category_id": 121,
+    "name": "[期間限定] 副防具聖石の洞窟・体術",
+    "flavor_text": "聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 550
+  },
+  {
+    "id": 374,
+    "event_ability_category_id": 122,
+    "name": "[期間限定] メイン2章5話公開記念・体術",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 555
+  },
+  {
+    "id": 375,
+    "event_ability_category_id": 123,
+    "name": "[期間限定] メイン2章5話公開記念・熱属性",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 560
+  },
+  {
+    "id": 376,
+    "event_ability_category_id": 124,
+    "name": "[期間限定]メイン2章5話公開記念・Ultra DXガチャ",
+    "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 565
+  },
+  {
+    "id": 377,
+    "event_ability_category_id": 118,
+    "name": "[期間限定] シルバー親分との三番稽古",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 543
+  },
+  {
+    "id": 378,
+    "event_ability_category_id": 119,
+    "name": "[期間限定] シルバー親分との三番稽古・棍棒",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 537
+  },
+  {
+    "id": 379,
+    "event_ability_category_id": 120,
+    "name": "[期間限定] シルバー親分との三番稽古・陽",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 533
+  },
+  {
+    "id": 380,
+    "event_ability_category_id": 125,
+    "name": "[期間限定]サガ 30周年記念・にんげんおとこ",
+    "flavor_text": "・右手の扉（にんげんおとこ）で能力値アップ時上昇量が5倍＆レーザー増幅器が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 665
+  },
+  {
+    "id": 381,
+    "event_ability_category_id": 125,
+    "name": "[期間限定]サガ 30周年記念・にんげんおとこ",
+    "flavor_text": "・左手の扉（にんげんおんな）で能力値アップ時上昇量が3倍＆つめとぎ石が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 660
+  },
+  {
+    "id": 382,
+    "event_ability_category_id": 125,
+    "name": "[期間限定]サガ 30周年記念・にんげんおとこ",
+    "flavor_text": "・シルクハットの扉（エスパーギャル）で能力値アップ時上昇量が3倍＆魔力のもとが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 655
+  },
+  {
+    "id": 383,
+    "event_ability_category_id": 125,
+    "name": "[期間限定]サガ 30周年記念・にんげんおとこ",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 650
+  },
+  {
+    "id": 384,
+    "event_ability_category_id": 126,
+    "name": "[期間限定]サガ 30周年記念・にんげんおんな",
+    "flavor_text": "・左手の扉（にんげんおんな）で能力値アップ時上昇量が5倍＆つめとぎ石が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 645
+  },
+  {
+    "id": 385,
+    "event_ability_category_id": 126,
+    "name": "[期間限定]サガ 30周年記念・にんげんおんな",
+    "flavor_text": "・右手の扉（にんげんおとこ）で能力値アップ時上昇量が3倍＆レーザー増幅器が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 640
+  },
+  {
+    "id": 386,
+    "event_ability_category_id": 126,
+    "name": "[期間限定]サガ 30周年記念・にんげんおんな",
+    "flavor_text": "・シルクハットの扉（エスパーギャル）で能力値アップ時上昇量が3倍＆魔力のもとが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 635
+  },
+  {
+    "id": 387,
+    "event_ability_category_id": 126,
+    "name": "[期間限定]サガ 30周年記念・にんげんおんな",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 630
+  },
+  {
+    "id": 388,
+    "event_ability_category_id": 127,
+    "name": "[期間限定]サガ 30周年記念・エスパーギャル",
+    "flavor_text": "・シルクハットの扉（エスパーギャル）で能力値アップ時上昇量が5倍＆魔力のもとが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 625
+  },
+  {
+    "id": 389,
+    "event_ability_category_id": 127,
+    "name": "[期間限定]サガ 30周年記念・エスパーギャル",
+    "flavor_text": "・右手の扉（にんげんおとこ）で能力値アップ時上昇量が3倍＆レーザー増幅器が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 620
+  },
+  {
+    "id": 390,
+    "event_ability_category_id": 127,
+    "name": "[期間限定]サガ 30周年記念・エスパーギャル",
+    "flavor_text": "・左手の扉（にんげんおんな）で能力値アップ時上昇量が3倍＆つめとぎ石が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 615
+  },
+  {
+    "id": 391,
+    "event_ability_category_id": 127,
+    "name": "[期間限定]サガ 30周年記念・エスパーギャル",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 610
+  },
+  {
+    "id": 392,
+    "event_ability_category_id": 128,
+    "name": "[期間限定]サガ 30周年記念・第１弾",
+    "flavor_text": "・右手の扉（にんげんおとこ）で能力値アップ時上昇量が3倍＆レーザー増幅器が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 605
+  },
+  {
+    "id": 393,
+    "event_ability_category_id": 128,
+    "name": "[期間限定]サガ 30周年記念・第１弾",
+    "flavor_text": "・左手の扉（にんげんおんな）で能力値アップ時上昇量が3倍＆つめとぎ石が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 600
+  },
+  {
+    "id": 394,
+    "event_ability_category_id": 128,
+    "name": "[期間限定]サガ 30周年記念・第１弾",
+    "flavor_text": "・シルクハットの扉（エスパーギャル）で能力値アップ時上昇量が3倍＆魔力のもとが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 595
+  },
+  {
+    "id": 395,
+    "event_ability_category_id": 128,
+    "name": "[期間限定]サガ 30周年記念・第１弾",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 590
+  },
+  {
+    "id": 396,
+    "event_ability_category_id": 129,
+    "name": "[期間限定]サガ 30周年 RS1・2・3育成応援",
+    "flavor_text": "・右手の扉（にんげんおとこ）で能力値アップ時上昇量が3倍＆レーザー増幅器が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 585
+  },
+  {
+    "id": 397,
+    "event_ability_category_id": 129,
+    "name": "[期間限定]サガ 30周年 RS1・2・3育成応援",
+    "flavor_text": "・左手の扉（にんげんおんな）で能力値アップ時上昇量が3倍＆つめとぎ石が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 580
+  },
+  {
+    "id": 398,
+    "event_ability_category_id": 129,
+    "name": "[期間限定]サガ 30周年 RS1・2・3育成応援",
+    "flavor_text": "・シルクハットの扉（エスパーギャル）で能力値アップ時上昇量が3倍＆魔力のもとが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 575
+  },
+  {
+    "id": 399,
+    "event_ability_category_id": 129,
+    "name": "[期間限定]サガ 30周年 RS1・2・3育成応援",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 570
+  },
+  {
+    "id": 400,
+    "event_ability_category_id": 130,
+    "name": "[期間限定]見参！ヤーマスのヒーロー！Ⅰ",
+    "flavor_text": "見参！ヤーマスのヒーロー！で、能力値アップ時上昇量3倍（メインは2倍）＆黄色い花ドロップ量50%UP＆【黄色い花束】追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 568
+  },
+  {
+    "id": 401,
+    "event_ability_category_id": 131,
+    "name": "[期間限定]見参！ヤーマスのヒーロー！Ⅱ",
+    "flavor_text": "見参！ヤーマスのヒーロー！で、能力値アップ時上昇量3倍（メインは2倍）＆黄色い花ドロップ量20%UP＆【黄色い花束】追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 567
+  },
+  {
+    "id": 402,
+    "event_ability_category_id": 132,
+    "name": "[期間限定]見参！ヤーマスのヒーロー！Ⅲ",
+    "flavor_text": "見参！ヤーマスのヒーロー！で、能力値アップ時上昇量3倍（メインは2倍）＆黄色い花ドロップ量10%UP＆【黄色い花束】追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 566
+  },
+  {
+    "id": 403,
+    "event_ability_category_id": 133,
+    "name": "[期間限定]サガ 30周年記念クエスト",
+    "flavor_text": "サガ 30周年記念クエストで、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 569
+  },
+  {
+    "id": 404,
+    "event_ability_category_id": 128,
+    "name": "[期間限定]サガ 30周年記念・第１弾",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 587
+  },
+  {
+    "id": 405,
+    "event_ability_category_id": 129,
+    "name": "[期間限定]サガ 30周年 RS1・2・3育成応援",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 556
+  },
+  {
+    "id": 406,
+    "event_ability_category_id": 134,
+    "name": "[期間限定]副防具聖石の洞窟・銃",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 550
+  },
+  {
+    "id": 407,
+    "event_ability_category_id": 135,
+    "name": "[期間限定]サガ 30周年記念・第2弾",
+    "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 670
+  },
+  {
+    "id": 408,
+    "event_ability_category_id": 136,
+    "name": "[期間限定]サガ 30周年 SF1・2育成応援",
+    "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 675
+  },
+  {
+    "id": 409,
+    "event_ability_category_id": 137,
+    "name": "[期間限定]サガ 30周年記念・突",
+    "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が2倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 680
+  },
+  {
+    "id": 410,
+    "event_ability_category_id": 138,
+    "name": "[期間限定]サガ 30周年記念・斬",
+    "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が2倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 685
+  },
+  {
+    "id": 411,
+    "event_ability_category_id": 139,
+    "name": "[期間限定]サガ 30周年記念・打",
+    "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が2倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 690
+  },
+  {
+    "id": 412,
+    "event_ability_category_id": 140,
+    "name": "[期間限定]サガ 30周年記念・冷",
+    "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が2倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 695
+  },
+  {
+    "id": 413,
+    "event_ability_category_id": 141,
+    "name": "[期間限定]サガ 30周年記念・陰",
+    "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が2倍<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 700
+  },
+  {
+    "id": 414,
+    "event_ability_category_id": 142,
+    "name": "[期間限定]サガ 30周年記念・第3弾",
+    "flavor_text": "・アポロンとの戦いで能力値アップ時上昇量が3倍＆【焔鳥のうろこ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 715
+  },
+  {
+    "id": 415,
+    "event_ability_category_id": 143,
+    "name": "[期間限定]サガ 30周年記念・第3弾・打",
+    "flavor_text": "・アポロンとの戦いで能力値アップ時上昇量が2倍＆【焔鳥のうろこ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 710
+  },
+  {
+    "id": 416,
+    "event_ability_category_id": 144,
+    "name": "[期間限定]サガ 30周年記念・第3弾・熱属性",
+    "flavor_text": "・アポロンとの戦いで能力値アップ時上昇量が2倍＆【焔鳥のうろこ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 705
+  },
+  {
+    "id": 417,
+    "event_ability_category_id": 145,
+    "name": "[期間限定]サガ 30周年 SaGaRS・SSG・ES・US",
+    "flavor_text": "・アポロンとの戦いで能力値アップ時上昇量が3倍＆【焔鳥のうろこ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 720
+  },
+  {
+    "id": 418,
+    "event_ability_category_id": 135,
+    "name": "[期間限定]サガ 30周年記念・第2弾",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 668
+  },
+  {
+    "id": 419,
+    "event_ability_category_id": 136,
+    "name": "[期間限定]サガ 30周年 SF1・2育成応援",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 673
+  },
+  {
+    "id": 420,
+    "event_ability_category_id": 137,
+    "name": "[期間限定]サガ 30周年記念・突",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 678
+  },
+  {
+    "id": 421,
+    "event_ability_category_id": 138,
+    "name": "[期間限定]サガ 30周年記念・斬",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 683
+  },
+  {
+    "id": 422,
+    "event_ability_category_id": 139,
+    "name": "[期間限定]サガ 30周年記念・打",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 688
+  },
+  {
+    "id": 423,
+    "event_ability_category_id": 140,
+    "name": "[期間限定]サガ 30周年記念・冷",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 693
+  },
+  {
+    "id": 424,
+    "event_ability_category_id": 141,
+    "name": "[期間限定]サガ 30周年記念・陰",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 698
+  },
+  {
+    "id": 425,
+    "event_ability_category_id": 146,
+    "name": "[期間限定]サガ 30周年 SaGa1・2育成応援",
+    "flavor_text": "・メインで能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 703
+  },
+  {
+    "id": 426,
+    "event_ability_category_id": 147,
+    "name": "[期間限定]サガ 30周年記念・シリーズ",
+    "flavor_text": "・メインで能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 708
+  },
+  {
+    "id": 427,
+    "event_ability_category_id": 148,
+    "name": "[期間限定] 聖石の洞窟・陽",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 702
+  },
+  {
+    "id": 428,
+    "event_ability_category_id": 149,
+    "name": "[期間限定]RS1・MS育成応援",
+    "flavor_text": "・メインで能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 725
+  },
+  {
+    "id": 429,
+    "event_ability_category_id": 150,
+    "name": "[期間限定] 聖塔ダーク",
+    "flavor_text": "・聖塔ダークで能力値アップ時上昇量が3倍＆【Sダークのピース】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 790
+  },
+  {
+    "id": 430,
+    "event_ability_category_id": 150,
+    "name": "[期間限定] 聖塔ダーク",
+    "flavor_text": "・聖石の洞窟で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 785
+  },
+  {
+    "id": 431,
+    "event_ability_category_id": 151,
+    "name": "[期間限定] 聖石洞窟に潜む影",
+    "flavor_text": "・聖石洞窟に潜む影で能力値アップ時上昇量が3倍＆【きれいな石(黒)[期間限定]】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 770
+  },
+  {
+    "id": 433,
+    "event_ability_category_id": 151,
+    "name": "[期間限定] 聖石洞窟に潜む影",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 760
+  },
+  {
+    "id": 434,
+    "event_ability_category_id": 152,
+    "name": "[期間限定] 聖石洞窟に潜む影・槍",
+    "flavor_text": "・聖石洞窟に潜む影で能力値アップ時上昇量が2倍＆【きれいな石(黒)[期間限定]】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 740
+  },
+  {
+    "id": 436,
+    "event_ability_category_id": 152,
+    "name": "[期間限定] 聖石洞窟に潜む影・槍",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 730
+  },
+  {
+    "id": 437,
+    "event_ability_category_id": 153,
+    "name": "[期間限定] 聖石洞窟に潜む影 RS1・MS",
+    "flavor_text": "・聖石洞窟に潜む影で能力値アップ時上昇量が3倍＆【きれいな石(黒)[期間限定]】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 755
+  },
+  {
+    "id": 439,
+    "event_ability_category_id": 153,
+    "name": "[期間限定] 聖石洞窟に潜む影 RS1・MS",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 745
+  },
+  {
+    "id": 440,
+    "event_ability_category_id": 154,
+    "name": "[期間限定] 聖塔ダーク・小剣",
+    "flavor_text": "・聖塔ダークで能力値アップ時上昇量が2倍＆【Sダークのピース】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 780
+  },
+  {
+    "id": 441,
+    "event_ability_category_id": 154,
+    "name": "[期間限定] 聖塔ダーク・小剣",
+    "flavor_text": "・聖石の洞窟で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 775
+  },
+  {
+    "id": 442,
+    "event_ability_category_id": 155,
+    "name": "[期間限定] 古城の祝祭と最終試練Ⅰ",
+    "flavor_text": "・古城の祝祭と最終試練で能力値アップ時上昇量3倍＆【カボチャのケーキ】が追加ドロップ＆【おばけのぬいぐるみ】ドロップ量50%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 820
+  },
+  {
+    "id": 443,
+    "event_ability_category_id": 155,
+    "name": "[期間限定] 古城の祝祭と最終試練Ⅰ",
+    "flavor_text": "・ラバーウォームとの戦いで能力値アップ時上昇量3倍＆【おばけのぬいぐるみ】が追加ドロップ＆【カボチャのケーキ】が追加ドロップ＆S体術武器【ニクキュウ】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 815
+  },
+  {
+    "id": 444,
+    "event_ability_category_id": 156,
+    "name": "[期間限定] 古城の祝祭と最終試練Ⅱ",
+    "flavor_text": "・古城の祝祭と最終試練で能力値アップ時上昇量3倍＆【カボチャのケーキ】が追加ドロップ＆【おばけのぬいぐるみ】ドロップ量20%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 810
+  },
+  {
+    "id": 445,
+    "event_ability_category_id": 156,
+    "name": "[期間限定] 古城の祝祭と最終試練Ⅱ",
+    "flavor_text": "・ラバーウォームとの戦いで能力値アップ時上昇量3倍＆【おばけのぬいぐるみ】が追加ドロップ＆【カボチャのケーキ】が追加ドロップ＆S体術武器【ニクキュウ】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 805
+  },
+  {
+    "id": 446,
+    "event_ability_category_id": 157,
+    "name": "[期間限定] 古城の祝祭と最終試練・体術",
+    "flavor_text": "・古城の祝祭と最終試練で能力値アップ時上昇量2倍＆【カボチャのケーキ】が追加ドロップ＆【おばけのぬいぐるみ】ドロップ量20%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 800
+  },
+  {
+    "id": 447,
+    "event_ability_category_id": 157,
+    "name": "[期間限定] 古城の祝祭と最終試練・体術",
+    "flavor_text": "・ラバーウォームとの戦いで能力値アップ時上昇量2倍＆【おばけのぬいぐるみ】が追加ドロップ＆【カボチャのケーキ】が追加ドロップ＆S体術武器【ニクキュウ】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 795
+  },
+  {
+    "id": 448,
+    "event_ability_category_id": 158,
+    "name": "[期間限定] 着せ替え衣装実装記念",
+    "flavor_text": "・古城の祝祭と最終試練で能力値アップ時上昇量が3倍<br>・ラバーウォームとの戦いで能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 845
+  },
+  {
+    "id": 449,
+    "event_ability_category_id": 158,
+    "name": "[期間限定] 着せ替え衣装実装記念",
+    "flavor_text": "・メインで能力値アップ時上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 840
+  },
+  {
+    "id": 450,
+    "event_ability_category_id": 159,
+    "name": "[期間限定] ピドナの夜の夢 I",
+    "flavor_text": "・ピドナの夜の夢で、能力値アップ時上昇量3倍＆【ふしぎなスイーツ】ドロップ量50%UP＆【どきどきカボチャ】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 835
+  },
+  {
+    "id": 451,
+    "event_ability_category_id": 160,
+    "name": "[期間限定] ピドナの夜の夢Ⅱ",
+    "flavor_text": "・ピドナの夜の夢で、能力値アップ時上昇量3倍＆【ふしぎなスイーツ】ドロップ量20%UP＆【どきどきカボチャ】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 830
+  },
+  {
+    "id": 452,
+    "event_ability_category_id": 161,
+    "name": "[期間限定] ピドナの夜の夢Ⅲ",
+    "flavor_text": "・ピドナの夜の夢で、能力値アップ時上昇量3倍＆【ふしぎなスイーツ】ドロップ量10%UP＆【どきどきカボチャ】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 825
+  },
+  {
+    "id": 453,
+    "event_ability_category_id": 162,
+    "name": "[期間限定] RS3発売日記念",
+    "flavor_text": "・遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が3倍＆【魚尾】が追加ドロップ<br>・メインと遺跡潜りで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 855
+  },
+  {
+    "id": 454,
+    "event_ability_category_id": 163,
+    "name": "[期間限定] ボストンの遠征特訓-ボストン-",
+    "flavor_text": "・遠征特訓準備-ボストン-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 850
+  },
+  {
+    "id": 455,
+    "event_ability_category_id": 164,
+    "name": "[期間限定] ボストンの遠征特訓-フォルネウス-",
+    "flavor_text": "・遠征特訓準備-フォルネウス-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 905
+  },
+  {
+    "id": 456,
+    "event_ability_category_id": 165,
+    "name": "[期間限定] ボストンの遠征特訓-ユリアン-",
+    "flavor_text": "・遠征特訓準備-ユリアン-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 900
+  },
+  {
+    "id": 457,
+    "event_ability_category_id": 166,
+    "name": "[期間限定] ボストンの遠征特訓-ブラック-",
+    "flavor_text": "・遠征特訓準備-ブラック-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 895
+  },
+  {
+    "id": 458,
+    "event_ability_category_id": 167,
+    "name": "[期間限定] ボストンの遠征特訓-トーマス-",
+    "flavor_text": "・遠征特訓準備-トーマス-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 890
+  },
+  {
+    "id": 459,
+    "event_ability_category_id": 168,
+    "name": "[期間限定] ボストンの遠征特訓-ハリード-",
+    "flavor_text": "・遠征特訓準備-ハリード-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 880
+  },
+  {
+    "id": 460,
+    "event_ability_category_id": 169,
+    "name": "[期間限定] ボストンの遠征特訓-ミカエル-",
+    "flavor_text": "・遠征特訓準備-ミカエル-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 885
+  },
+  {
+    "id": 461,
+    "event_ability_category_id": 170,
+    "name": "[期間限定] ボストンの遠征特訓-サラ-",
+    "flavor_text": "・遠征特訓準備-サラ-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 875
+  },
+  {
+    "id": 462,
+    "event_ability_category_id": 171,
+    "name": "[期間限定] ボストンの遠征特訓-エレン-",
+    "flavor_text": "・遠征特訓準備-エレン-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 870
+  },
+  {
+    "id": 463,
+    "event_ability_category_id": 172,
+    "name": "[期間限定] ボストンの遠征特訓-モニカ-",
+    "flavor_text": "・遠征特訓準備-モニカ-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 865
+  },
+  {
+    "id": 464,
+    "event_ability_category_id": 173,
+    "name": "[期間限定] ボストンの遠征特訓-カタリナ-",
+    "flavor_text": "・遠征特訓準備-カタリナ-をクリアした場合、遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 860
+  },
+  {
+    "id": 465,
+    "event_ability_category_id": 174,
+    "name": "[期間限定] ボストンの遠征特訓・体術",
+    "flavor_text": "・遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が2倍＆【魚尾】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 910
+  },
+  {
+    "id": 466,
+    "event_ability_category_id": 175,
+    "name": "[期間限定] ボストンの遠征特訓",
+    "flavor_text": "・遠征特訓・フォルネウス兵、遠征特訓・水龍、遠征特訓・フォルネウスで能力値アップ時上昇量が3倍＆【魚尾】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 920
+  },
+  {
+    "id": 468,
+    "event_ability_category_id": 177,
+    "name": "[期間限定] アビスナーガとの戦い",
+    "flavor_text": "・アビスナーガとの戦いで能力値アップ時上昇量が3倍＆【蛇の革】が追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 960
+  },
+  {
+    "id": 469,
+    "event_ability_category_id": 177,
+    "name": "[期間限定] アビスナーガとの戦い",
+    "flavor_text": "・アビスナーガとの戦い（Hard~UltraHard）で【奈落の弓】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 945
+  },
+  {
+    "id": 470,
+    "event_ability_category_id": 178,
+    "name": "[期間限定] アビスナーガとの戦い・弓",
+    "flavor_text": "・アビスナーガとの戦いで能力値アップ時上昇量が2倍＆【蛇の革】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 935
+  },
+  {
+    "id": 471,
+    "event_ability_category_id": 178,
+    "name": "[期間限定] アビスナーガとの戦い・弓",
+    "flavor_text": "・アビスナーガとの戦い（Hard~UltraHard）で【奈落の弓】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 930
+  },
+  {
+    "id": 472,
+    "event_ability_category_id": 162,
+    "name": "[期間限定] RS3発売日記念",
+    "flavor_text": "・修業者の間で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 854
+  },
+  {
+    "id": 473,
+    "event_ability_category_id": 177,
+    "name": "[期間限定] アビスナーガとの戦い",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 940
+  },
+  {
+    "id": 474,
+    "event_ability_category_id": 162,
+    "name": "[期間限定] RS3発売日記念",
+    "flavor_text": "・アビスナーガとの戦いで能力値アップ時上昇量が3倍＆【蛇の革】が追加ドロップ<br>・メインと遺跡潜りで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 955
+  },
+  {
+    "id": 475,
+    "event_ability_category_id": 162,
+    "name": "[期間限定] RS3発売日記念",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 950
+  },
+  {
+    "id": 476,
+    "event_ability_category_id": 174,
+    "name": "[期間限定] ボストンの遠征特訓・体術",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 909
+  },
+  {
+    "id": 477,
+    "event_ability_category_id": 175,
+    "name": "[期間限定] ボストンの遠征特訓",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 919
+  },
+  {
+    "id": 478,
+    "event_ability_category_id": 178,
+    "name": "[期間限定] アビスナーガとの戦い・弓",
+    "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 925
+  },
+  {
+    "id": 479,
+    "event_ability_category_id": 179,
+    "name": "[期間限定] 2周年前夜祭記念・聖塔 ランスの娘~聖王~",
+    "flavor_text": "・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 965
+  },
+  {
+    "id": 480,
+    "event_ability_category_id": 179,
+    "name": "[期間限定] 2周年前夜祭記念・聖塔 ランスの娘~聖王~",
+    "flavor_text": "・聖塔ランスの娘~聖王~（前編・後編）難易度・成長しやすさリニューアル!!で能力値アップ時上昇量が3倍＆【術者の法衣】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 970
+  },
+  {
+    "id": 481,
+    "event_ability_category_id": 162,
+    "name": "[期間限定] RS3発売日記念",
+    "flavor_text": "・聖塔ランスの娘~聖王~（前編・後編）難易度・成長しやすさリニューアル!!で能力値アップ時上昇量が3倍＆【術者の法衣】が追加ドロップ<br>・メインで能力値アップ時上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 975
+  },
+  {
+    "id": 482,
+    "event_ability_category_id": 185,
+    "name": "[期間限定] 2周年前夜祭記念育成応援",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 980
+  },
+  {
+    "id": 483,
+    "event_ability_category_id": 162,
+    "name": "[期間限定] RS3発売日記念",
+    "flavor_text": "・アビスナーガとの戦い（Hard~UltraHard）で【奈落の弓】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 952
+  },
+  {
+    "id": 484,
+    "event_ability_category_id": 180,
+    "name": "[期間限定] 2周年記念・Romancing祭 第1弾",
+    "flavor_text": "・メイン、遺跡潜り7種で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 985
+  },
+  {
+    "id": 485,
+    "event_ability_category_id": 181,
+    "name": "[期間限定] 2周年記念 RS1・RS2・RS3",
+    "flavor_text": "・メイン、遺跡潜り7種で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 995
+  },
+  {
+    "id": 486,
+    "event_ability_category_id": 208,
+    "name": "[期間限定] 2周年記念・指輪の試練",
+    "flavor_text": "・指輪の試練で能力値アップ時の上昇量が4倍＆【聖光な戦利品(黄)】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 990
+  },
+  {
+    "id": 488,
+    "event_ability_category_id": 183,
+    "name": "[期間限定] 2周年記念・熱属性",
+    "flavor_text": "・メイン、遺跡潜り7種で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1005
+  },
+  {
+    "id": 489,
+    "event_ability_category_id": 184,
+    "name": "[期間限定] 2周年記念・冷属性",
+    "flavor_text": "・メイン、遺跡潜り7種で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1010
+  },
+  {
+    "id": 490,
+    "event_ability_category_id": 186,
+    "name": "[期間限定] 星夜のサプライズプレゼント",
+    "flavor_text": "・メリークリスマス！星夜のサプライズプレゼントで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1025
+  },
+  {
+    "id": 491,
+    "event_ability_category_id": 187,
+    "name": "[期間限定] 星夜のサプライズプレゼント・杖",
+    "flavor_text": "・メリークリスマス！星夜のサプライズプレゼントで能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1020
+  },
+  {
+    "id": 492,
+    "event_ability_category_id": 188,
+    "name": "[期間限定] 2周年記念 SaGaRS・SSG・ES・US",
+    "flavor_text": "・メリークリスマス！星夜のサプライズプレゼントで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1015
+  },
+  {
+    "id": 493,
+    "event_ability_category_id": 189,
+    "name": "[期間限定] 祝！12月6日で2周年！Romancing祭",
+    "flavor_text": "・指輪の試練で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1030
+  },
+  {
+    "id": 494,
+    "event_ability_category_id": 209,
+    "name": "[期間限定] 2周年記念・指輪の試練 RS1・RS2・RS3",
+    "flavor_text": "・指輪の試練で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1035
+  },
+  {
+    "id": 495,
+    "event_ability_category_id": 190,
+    "name": "[期間限定] 2周年記念・Romancing祭 第2弾",
+    "flavor_text": "・2周年記念！Romancing超感謝戦で能力値アップ時の上昇量が4倍＆【2周年記念クラッカー】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1070
+  },
+  {
+    "id": 496,
+    "event_ability_category_id": 191,
+    "name": "[期間限定] 2周年記念・斬",
+    "flavor_text": "・2周年記念！Romancing超感謝戦で能力値アップ時の上昇量が3倍＆【2周年記念クラッカー】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1060
+  },
+  {
+    "id": 497,
+    "event_ability_category_id": 192,
+    "name": "[期間限定] 2周年記念・打",
+    "flavor_text": "・2周年記念！Romancing超感謝戦で能力値アップ時の上昇量が3倍＆【2周年記念クラッカー】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1055
+  },
+  {
+    "id": 498,
+    "event_ability_category_id": 193,
+    "name": "[期間限定] 2周年記念・突",
+    "flavor_text": "・2周年記念！Romancing超感謝戦で能力値アップ時の上昇量が3倍＆【2周年記念クラッカー】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1050
+  },
+  {
+    "id": 499,
+    "event_ability_category_id": 194,
+    "name": "[期間限定] 2周年記念・雷",
+    "flavor_text": "・2周年記念！Romancing超感謝戦で能力値アップ時の上昇量が3倍＆【2周年記念クラッカー】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1045
+  },
+  {
+    "id": 500,
+    "event_ability_category_id": 195,
+    "name": "[期間限定] 2周年記念・陽",
+    "flavor_text": "・2周年記念！Romancing超感謝戦で能力値アップ時の上昇量が3倍＆【2周年記念クラッカー】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1040
+  },
+  {
+    "id": 501,
+    "event_ability_category_id": 196,
+    "name": "[期間限定] 2周年記念 SF1・SF2",
+    "flavor_text": "・2周年記念！Romancing超感謝戦で能力値アップ時の上昇量が4倍＆【2周年記念クラッカー】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1065
+  },
+  {
+    "id": 502,
+    "event_ability_category_id": 197,
+    "name": "[期間限定] サ・ガ コレクション発売記念",
+    "flavor_text": "・2周年記念！Romancing超感謝戦で能力値アップ時の上昇量が4倍＆【2周年記念クラッカー】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1075
+  },
+  {
+    "id": 503,
+    "event_ability_category_id": 197,
+    "name": "[期間限定] サ・ガ コレクション発売記念",
+    "flavor_text": "・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1075
+  },
+  {
+    "id": 504,
+    "event_ability_category_id": 198,
+    "name": "[期間限定] メイン2章第8話-後編- Romancing祭 第2弾",
+    "flavor_text": "・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1110
+  },
+  {
+    "id": 505,
+    "event_ability_category_id": 199,
+    "name": "[期間限定] メイン2章第8話-後編- SF1・SF2",
+    "flavor_text": "・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1105
+  },
+  {
+    "id": 506,
+    "event_ability_category_id": 200,
+    "name": "[期間限定] メイン2章第8話-後編- 斬",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1100
+  },
+  {
+    "id": 507,
+    "event_ability_category_id": 201,
+    "name": "[期間限定] メイン2章第8話-後編- 打",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1095
+  },
+  {
+    "id": 508,
+    "event_ability_category_id": 202,
+    "name": "[期間限定] メイン2章第8話-後編- 突",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1090
+  },
+  {
+    "id": 509,
+    "event_ability_category_id": 203,
+    "name": "[期間限定] メイン2章第8話-後編- 雷",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1085
+  },
+  {
+    "id": 510,
+    "event_ability_category_id": 204,
+    "name": "[期間限定] メイン2章第8話-後編- 陽",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1080
+  },
+  {
+    "id": 511,
+    "event_ability_category_id": 197,
+    "name": "[期間限定] サ・ガ コレクション発売記念",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1075
+  },
+  {
+    "id": 512,
+    "event_ability_category_id": 205,
+    "name": "[期間限定] モニカのクリスマス大作戦Ⅰ",
+    "flavor_text": "・モニカのクリスマス大作戦で、能力値アップ時上昇量3倍＆【クリスマスプレゼント】ドロップ量50%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1125
+  },
+  {
+    "id": 513,
+    "event_ability_category_id": 216,
+    "name": "[期間限定] モニカのクリスマス大作戦Ⅱ",
+    "flavor_text": "・モニカのクリスマス大作戦で、能力値アップ時上昇量3倍＆【クリスマスプレゼント】ドロップ量20%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1120
+  },
+  {
+    "id": 514,
+    "event_ability_category_id": 217,
+    "name": "[期間限定] モニカのクリスマス大作戦Ⅲ",
+    "flavor_text": "・モニカのクリスマス大作戦で、能力値アップ時上昇量3倍＆【クリスマスプレゼント】ドロップ量10%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1115
+  },
+  {
+    "id": 515,
+    "event_ability_category_id": 206,
+    "name": "[期間限定] クリスマスの奇跡Ⅰ",
+    "flavor_text": "・クリスマスの奇跡で、能力値アップ時上昇量3倍＆【思いを込めたプレゼント】ドロップ量50%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1140
+  },
+  {
+    "id": 516,
+    "event_ability_category_id": 218,
+    "name": "[期間限定] クリスマスの奇跡Ⅱ",
+    "flavor_text": "・クリスマスの奇跡で、能力値アップ時上昇量3倍＆【思いを込めたプレゼント】ドロップ量20%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1135
+  },
+  {
+    "id": 517,
+    "event_ability_category_id": 219,
+    "name": "[期間限定] クリスマスの奇跡Ⅲ",
+    "flavor_text": "・クリスマスの奇跡で、能力値アップ時上昇量3倍＆【思いを込めたプレゼント】ドロップ量10%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1130
+  },
+  {
+    "id": 518,
+    "event_ability_category_id": 207,
+    "name": "[期間限定] メリークリスマス！聖夜のサンタ合戦",
+    "flavor_text": "・メリークリスマス！聖夜のサンタ合戦で、能力値アップ時上昇量3倍<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1160
+  },
+  {
+    "id": 519,
+    "event_ability_category_id": 210,
+    "name": "[期間限定] 2周年記念・剣・大剣・斧",
+    "flavor_text": "・良いお年を！年越し108クエストラッシュで能力値アップ時の上昇量が4倍＆【おそば】が追加ドロップ<br>・聖石の洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1180
+  },
+  {
+    "id": 520,
+    "event_ability_category_id": 211,
+    "name": "[期間限定] 2周年記念・体術・銃・棍棒",
+    "flavor_text": "・良いお年を！年越し108クエストラッシュで能力値アップ時の上昇量が4倍＆【おそば】が追加ドロップ<br>・聖石の洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1175
+  },
+  {
+    "id": 521,
+    "event_ability_category_id": 212,
+    "name": "[期間限定] 2周年記念・槍・弓・小剣",
+    "flavor_text": "・良いお年を！年越し108クエストラッシュで能力値アップ時の上昇量が4倍＆【おそば】が追加ドロップ<br>・聖石の洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1170
+  },
+  {
+    "id": 522,
+    "event_ability_category_id": 213,
+    "name": "[期間限定] 2周年記念・杖",
+    "flavor_text": "・良いお年を！年越し108クエストラッシュで能力値アップ時の上昇量が4倍＆【おそば】が追加ドロップ<br>・聖石の洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1165
+  },
+  {
+    "id": 524,
+    "event_ability_category_id": 197,
+    "name": "[期間限定] サ・ガ コレクション発売記念",
+    "flavor_text": "・良いお年を！年越し108クエストラッシュで能力値アップ時の上昇量が4倍＆【おそば】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1204
+  },
+  {
+    "id": 525,
+    "event_ability_category_id": 215,
+    "name": "[期間限定] 年越し108クエストラッシュ",
+    "flavor_text": "・良いお年を！年越し108クエストラッシュで能力値アップ時の上昇量が4倍＆【おそば】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1215
+  },
+  {
+    "id": 526,
+    "event_ability_category_id": 188,
+    "name": "[期間限定] 2周年記念 SaGaRS・SSG・ES・US",
+    "flavor_text": "・良いお年を！年越し108クエストラッシュで能力値アップ時の上昇量が4倍＆【おそば】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1200
+  },
+  {
+    "id": 527,
+    "event_ability_category_id": 197,
+    "name": "[期間限定] サ・ガ コレクション発売記念",
+    "flavor_text": "・聖石の洞窟で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1190
+  },
+  {
+    "id": 528,
+    "event_ability_category_id": 215,
+    "name": "[期間限定] 年越し108クエストラッシュ",
+    "flavor_text": "・聖石の洞窟で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1214
+  },
+  {
+    "id": 529,
+    "event_ability_category_id": 188,
+    "name": "[期間限定] 2周年記念 SaGaRS・SSG・ES・US",
+    "flavor_text": "・聖石の洞窟で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1199
+  },
+  {
+    "id": 530,
+    "event_ability_category_id": 220,
+    "name": "[期間限定] 十二支合戦と邪神の塔Ⅰ",
+    "flavor_text": "・十二支合戦と邪神の塔で能力値アップ時上昇量4倍＆【紅白かまぼこ】が追加ドロップ＆【ぽち袋】ドロップ量50%UP<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1220
+  },
+  {
+    "id": 531,
+    "event_ability_category_id": 221,
+    "name": "[期間限定] 十二支合戦と邪神の塔Ⅱ",
+    "flavor_text": "・十二支合戦と邪神の塔で能力値アップ時上昇量4倍＆【紅白かまぼこ】が追加ドロップ＆【ぽち袋】ドロップ量20%UP<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1219
+  },
+  {
+    "id": 532,
+    "event_ability_category_id": 222,
+    "name": "[期間限定] 十二支合戦と邪神の塔・剣",
+    "flavor_text": "・十二支合戦と邪神の塔で能力値アップ時上昇量3倍＆【紅白かまぼこ】が追加ドロップ＆【ぽち袋】ドロップ量20%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1218
+  },
+  {
+    "id": 533,
+    "event_ability_category_id": 223,
+    "name": "[期間限定] 迎春!オールスター謹賀新年祭UDXガチャ",
+    "flavor_text": "・十二支合戦と邪神の塔で能力値アップ時上昇量4倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1205
+  },
+  {
+    "id": 534,
+    "event_ability_category_id": 225,
+    "name": "[期間限定] 迎春!オールスター対抗制圧戦! RS1・2・3・MS",
+    "flavor_text": "・迎春！オールスター対抗制圧戦！で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1250
+  },
+  {
+    "id": 535,
+    "event_ability_category_id": 226,
+    "name": "[期間限定] 迎春!オールスター対抗制圧戦! SF1・2",
+    "flavor_text": "・迎春！オールスター対抗制圧戦！で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1245
+  },
+  {
+    "id": 536,
+    "event_ability_category_id": 227,
+    "name": "[期間限定] 迎春!オールスター対抗制圧戦! SaGa1・2",
+    "flavor_text": "・迎春！オールスター対抗制圧戦！で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1240
+  },
+  {
+    "id": 537,
+    "event_ability_category_id": 228,
+    "name": "[期間限定] 迎春!オールスター対抗制圧戦! SSG・ES・US",
+    "flavor_text": "・迎春！オールスター対抗制圧戦！で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1235
+  },
+  {
+    "id": 538,
+    "event_ability_category_id": 229,
+    "name": "[期間限定] 迎春!オールスター対抗制圧戦! SaGaRS",
+    "flavor_text": "・迎春！オールスター対抗制圧戦！で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1230
+  },
+  {
+    "id": 539,
+    "event_ability_category_id": 230,
+    "name": "[期間限定] 迎春!オールスター対抗制圧戦! SaGa全シリーズ",
+    "flavor_text": "・迎春！オールスター対抗制圧戦！で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1225
+  },
+  {
+    "id": 540,
+    "event_ability_category_id": 224,
+    "name": "[期間限定] 迎春!オールスター対抗制圧戦!",
+    "flavor_text": "・迎春！オールスター対抗制圧戦！で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1260
+  },
+  {
+    "id": 541,
+    "event_ability_category_id": 231,
+    "name": "[期間限定] 迎春!オールスター対抗制圧戦!・剣",
+    "flavor_text": "・迎春！オールスター対抗制圧戦！で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1255
+  },
+  {
+    "id": 542,
+    "event_ability_category_id": 232,
+    "name": "[期間限定] 開運！おみくじクエスト",
+    "flavor_text": "・開運！おみくじクエストで、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1265
+  },
+  {
+    "id": 543,
+    "event_ability_category_id": 233,
+    "name": "[期間限定] 超巨大！鏡もちの塔！Ⅰ",
+    "flavor_text": "・超巨大！鏡もちの塔！で、能力値アップ時上昇量3倍＆【あつあつの切り餅】ドロップ量50%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1280
+  },
+  {
+    "id": 544,
+    "event_ability_category_id": 234,
+    "name": "[期間限定] 超巨大！鏡もちの塔！Ⅱ",
+    "flavor_text": "・超巨大！鏡もちの塔！で、能力値アップ時上昇量3倍＆【あつあつの切り餅】ドロップ量20%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1275
+  },
+  {
+    "id": 545,
+    "event_ability_category_id": 235,
+    "name": "[期間限定] 超巨大！鏡もちの塔！Ⅲ",
+    "flavor_text": "・超巨大！鏡もちの塔！で、能力値アップ時上昇量3倍＆【あつあつの切り餅】ドロップ量10%UP<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1270
+  },
+  {
+    "id": 546,
+    "event_ability_category_id": 236,
+    "name": "[期間限定] 幸運の白い猫と最終皇帝Ⅰ",
+    "flavor_text": "・幸運の白い猫と最終皇帝で、能力値アップ時上昇量3倍＆【お神酒】ドロップ量50%UP＆【目なしだるま】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1290
+  },
+  {
+    "id": 547,
+    "event_ability_category_id": 237,
+    "name": "[期間限定] 幸運の白い猫と最終皇帝Ⅱ",
+    "flavor_text": "・幸運の白い猫と最終皇帝で、能力値アップ時上昇量3倍＆【お神酒】ドロップ量20%UP＆【目なしだるま】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1285
+  },
+  {
+    "id": 548,
+    "event_ability_category_id": 238,
+    "name": "[期間限定] デスへと続く冥府の道",
+    "flavor_text": "・デスへと続く冥府の道で能力値アップ時の上昇量が4倍＆【溶岩の欠片】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1300
+  },
+  {
+    "id": 549,
+    "event_ability_category_id": 239,
+    "name": "[期間限定] デスへと続く冥府の道・陽",
+    "flavor_text": "・デスへと続く冥府の道で能力値アップ時の上昇量が3倍＆【溶岩の欠片】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1310
+  },
+  {
+    "id": 550,
+    "event_ability_category_id": 240,
+    "name": "[期間限定] デスへと続く冥府の道・RS1・MS",
+    "flavor_text": "・デスへと続く冥府の道で能力値アップ時の上昇量が4倍＆【溶岩の欠片】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1305
+  },
+  {
+    "id": 551,
+    "event_ability_category_id": 241,
+    "name": "[期間限定] どんどんあがれ！花正月の大合戦",
+    "flavor_text": "・聖石の洞窟、修業者の間で、能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1315
+  },
+  {
+    "id": 552,
+    "event_ability_category_id": 241,
+    "name": "[期間限定] どんどんあがれ！花正月の大合戦",
+    "flavor_text": "・どんどんあがれ！花正月の大合戦で能力値アップ時上昇量が4倍＆【お祓い棒】が追加ドロップ<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1320
+  },
+  {
+    "id": 553,
+    "event_ability_category_id": 242,
+    "name": "[期間限定] どんどんあがれ！花正月の大合戦・体術",
+    "flavor_text": "・聖石の洞窟、修業者の間で、能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1325
+  },
+  {
+    "id": 554,
+    "event_ability_category_id": 242,
+    "name": "[期間限定] どんどんあがれ！花正月の大合戦・体術",
+    "flavor_text": "・どんどんあがれ！花正月の大合戦で能力値アップ時上昇量が3倍＆【お祓い棒】が追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1330
+  },
+  {
+    "id": 555,
+    "event_ability_category_id": 243,
+    "name": "[期間限定] どんどんあがれ！花正月の大合戦・剣",
+    "flavor_text": "・聖石の洞窟、修業者の間で、能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1335
+  },
+  {
+    "id": 556,
+    "event_ability_category_id": 243,
+    "name": "[期間限定] どんどんあがれ！花正月の大合戦・剣",
+    "flavor_text": "・どんどんあがれ！花正月の大合戦で能力値アップ時上昇量が3倍＆【お祓い棒】が追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1340
+  },
+  {
+    "id": 557,
+    "event_ability_category_id": 246,
+    "name": "[期間限定] どんどんあがれ！花正月の大合戦-凧揚げ会場-",
+    "flavor_text": "・迎春！オールスター対抗制圧戦！で【六角凧】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1345
+  },
+  {
+    "id": 558,
+    "event_ability_category_id": 244,
+    "name": "[期間限定] 108ｸｴｽﾄﾗｯｼｭ! SaGaRS・SSG・ES・US",
+    "flavor_text": "・良いお年を！年越し108クエストラッシュで能力値アップ時の上昇量が4倍＆【おそば】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1350
+  },
+  {
+    "id": 559,
+    "event_ability_category_id": 245,
+    "name": "[期間限定] 108ｸｴｽﾄﾗｯｼｭ! サガ・コレクション発売記念",
+    "flavor_text": "・良いお年を！年越し108クエストラッシュで能力値アップ時の上昇量が4倍＆【おそば】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1355
+  },
+  {
+    "id": 560,
+    "event_ability_category_id": 247,
+    "name": "[期間限定] 迎春!ｵｰﾙｽﾀｰ対抗制圧戦! ｼﾘｰｽﾞ投票ﾁｹｯﾄ",
+    "flavor_text": "・迎春！オールスター対抗制圧戦！で【シリーズ投票チケット】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1360
+  },
+  {
+    "id": 561,
+    "event_ability_category_id": 248,
+    "name": "[期間限定] 迎春！オールスター謹賀新年祭 Romancing祭",
+    "flavor_text": "・聖石の洞窟、修業者の間で、能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1365
+  },
+  {
+    "id": 562,
+    "event_ability_category_id": 238,
+    "name": "[期間限定] デスへと続く冥府の道",
+    "flavor_text": "・聖石の洞窟、修業者の間で、能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1299
+  },
+  {
+    "id": 563,
+    "event_ability_category_id": 239,
+    "name": "[期間限定] デスへと続く冥府の道・陽",
+    "flavor_text": "・聖石の洞窟、修業者の間で、能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1309
+  },
+  {
+    "id": 564,
+    "event_ability_category_id": 240,
+    "name": "[期間限定] デスへと続く冥府の道・RS1・MS",
+    "flavor_text": "・聖石の洞窟、修業者の間で、能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1304
+  },
+  {
+    "id": 566,
+    "event_ability_category_id": 250,
+    "name": "[期間限定] 探索！宝物眠る洞窟",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍＆【安全ロープ】ドロップ量50%UP<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1415
+  },
+  {
+    "id": 567,
+    "event_ability_category_id": 251,
+    "name": "[期間限定] 探索！宝物眠る洞窟・大剣",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が3倍＆【安全ロープ】ドロップ量20%UP<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1405
+  },
+  {
+    "id": 568,
+    "event_ability_category_id": 252,
+    "name": "[期間限定] 探索！宝物眠る洞窟 SF1・2",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が3倍＆【安全ロープ】ドロップ量20%UP<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1410
+  },
+  {
+    "id": 569,
+    "event_ability_category_id": 253,
+    "name": "[期間限定] 掘りあてろ！特大宝物発掘",
+    "flavor_text": "・掘りあてろ！特大宝物発掘で、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1400
+  },
+  {
+    "id": 570,
+    "event_ability_category_id": 240,
+    "name": "[期間限定] デスへと続く冥府の道・RS1・MS",
+    "flavor_text": "・デスへと続く冥府の道で能力値アップ時の上昇量が4倍＆【溶岩の欠片】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1303
+  },
+  {
+    "id": 571,
+    "event_ability_category_id": 240,
+    "name": "[期間限定] デスへと続く冥府の道・RS1・MS",
+    "flavor_text": "・聖石の洞窟、修業者の間で、能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1302
+  },
+  {
+    "id": 572,
+    "event_ability_category_id": 254,
+    "name": "[期間限定] 祝！旧正月2021！！記念・剣・大剣・斧",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1395
+  },
+  {
+    "id": 573,
+    "event_ability_category_id": 255,
+    "name": "[期間限定] 祝！旧正月2021！！記念・体術・銃・棍棒",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1416
+  },
+  {
+    "id": 574,
+    "event_ability_category_id": 256,
+    "name": "[期間限定] 祝！旧正月2021！！記念・槍・弓・小剣",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1417
+  },
+  {
+    "id": 575,
+    "event_ability_category_id": 257,
+    "name": "[期間限定] 祝！旧正月2021！！記念・杖",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1418
+  },
+  {
+    "id": 576,
+    "event_ability_category_id": 258,
+    "name": "[期間限定] 祝！旧正月2021！！記念・全武器",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1419
+  },
+  {
+    "id": 577,
+    "event_ability_category_id": 259,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-",
+    "flavor_text": "・ターム族との戦い 大量討伐せよ！-ターム族-で能力値アップ時の上昇量が4倍＆【タームの盾】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1445
+  },
+  {
+    "id": 578,
+    "event_ability_category_id": 260,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-・七英雄",
+    "flavor_text": "・ターム族との戦い 大量討伐せよ！-ターム族-で能力値アップ時の上昇量が4倍＆【タームの盾】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1440
+  },
+  {
+    "id": 579,
+    "event_ability_category_id": 261,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-・冷・陰",
+    "flavor_text": "・ターム族との戦い 大量討伐せよ！-ターム族-で能力値アップ時の上昇量が3倍＆【タームの盾】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1435
+  },
+  {
+    "id": 580,
+    "event_ability_category_id": 259,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1460
+  },
+  {
+    "id": 581,
+    "event_ability_category_id": 260,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-・七英雄",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1455
+  },
+  {
+    "id": 582,
+    "event_ability_category_id": 261,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-・冷・陰",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1450
+  },
+  {
+    "id": 583,
+    "event_ability_category_id": 262,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-・襲来カウントダウン祭",
+    "flavor_text": "・ターム族との戦い 大量討伐せよ！-ターム族-で能力値アップ時の上昇量が4倍＆【タームの盾】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1470
+  },
+  {
+    "id": 584,
+    "event_ability_category_id": 262,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-・襲来カウントダウン祭",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1485
+  },
+  {
+    "id": 585,
+    "event_ability_category_id": 259,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1430
+  },
+  {
+    "id": 586,
+    "event_ability_category_id": 260,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-・七英雄",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1425
+  },
+  {
+    "id": 587,
+    "event_ability_category_id": 261,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-・冷・陰",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1420
+  },
+  {
+    "id": 588,
+    "event_ability_category_id": 262,
+    "name": "[期間限定] 大量討伐せよ！-ターム族-・襲来カウントダウン祭",
+    "flavor_text": "・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1465
+  },
+  {
+    "id": 589,
+    "event_ability_category_id": 263,
+    "name": "[期間限定] 激闘-リアルクィーン-",
+    "flavor_text": "・ターム族との戦い 激闘-リアルクィーン-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1447
+  },
+  {
+    "id": 590,
+    "event_ability_category_id": 264,
+    "name": "[期間限定] 激闘-リアルクィーン-・七英雄",
+    "flavor_text": "・ターム族との戦い 激闘-リアルクィーン-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1442
+  },
+  {
+    "id": 591,
+    "event_ability_category_id": 265,
+    "name": "[期間限定] 激闘-リアルクィーン-・冷・陰",
+    "flavor_text": "・ターム族との戦い 激闘-リアルクィーン-で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1437
+  },
+  {
+    "id": 592,
+    "event_ability_category_id": 263,
+    "name": "[期間限定] 激闘-リアルクィーン-",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1446
+  },
+  {
+    "id": 593,
+    "event_ability_category_id": 264,
+    "name": "[期間限定] 激闘-リアルクィーン-・七英雄",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1441
+  },
+  {
+    "id": 594,
+    "event_ability_category_id": 265,
+    "name": "[期間限定] 激闘-リアルクィーン-・冷・陰",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1436
+  },
+  {
+    "id": 595,
+    "event_ability_category_id": 266,
+    "name": "[期間限定] 激闘-リアルクィーン-・襲来カウントダウン祭",
+    "flavor_text": "・ターム族との戦い 激闘-リアルクィーン-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1480
+  },
+  {
+    "id": 596,
+    "event_ability_category_id": 266,
+    "name": "[期間限定] 激闘-リアルクィーン-・襲来カウントダウン祭",
+    "flavor_text": "・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1479
+  },
+  {
+    "id": 597,
+    "event_ability_category_id": 267,
+    "name": "[期間限定] アビス四魔貴族制圧戦I",
+    "flavor_text": "・アビス四魔貴族制圧戦で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1500
+  },
+  {
+    "id": 598,
+    "event_ability_category_id": 268,
+    "name": "[期間限定] アビス四魔貴族制圧戦II",
+    "flavor_text": "・アビス四魔貴族制圧戦で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1495
+  },
+  {
+    "id": 599,
+    "event_ability_category_id": 269,
+    "name": "[期間限定] 暗黒の巨星祭記念・斬・陰",
+    "flavor_text": "・アビス四魔貴族制圧戦で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時上昇量3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1490
+  },
+  {
+    "id": 600,
+    "event_ability_category_id": 270,
+    "name": "[期間限定] 暗黒の巨星祭開催記念クエスト",
+    "flavor_text": "・暗黒の巨星祭開催記念クエストで、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1505
+  },
+  {
+    "id": 601,
+    "event_ability_category_id": 271,
+    "name": "[期間限定] 能力成長アップ剤",
+    "flavor_text": "・全てのバトルクエストで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 9999
+  },
+  {
+    "id": 602,
+    "event_ability_category_id": 280,
+    "name": "[期間限定] 呪われし者との戦い-斬陰-Ⅱ",
+    "flavor_text": "・呪われし者との戦い-斬陰-で能力値アップ時の上昇量が4倍&呪われし者との戦い-斬陰-で【ひび割れた土器(紫)】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍&メインで【ひび割れた土器(紫)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1502
+  },
+  {
+    "id": 603,
+    "event_ability_category_id": 279,
+    "name": "[期間限定] 呪われし者との戦い-斬陰-I",
+    "flavor_text": "・呪われし者との戦い-斬陰-で能力値アップ時の上昇量が4倍&呪われし者との戦い-斬陰-で【ひび割れた土器(紫)】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍&メインで【ひび割れた土器(紫)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1503
+  },
+  {
+    "id": 604,
+    "event_ability_category_id": 269,
+    "name": "[期間限定] 暗黒の巨星祭記念・斬・陰",
+    "flavor_text": "・呪われし者との戦い-斬陰-で能力値アップ時の上昇量が4倍&呪われし者との戦い-斬陰-で【ひび割れた土器(紫)】が追加ドロップ<br>・メインで【ひび割れた土器(紫)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1501
+  },
+  {
+    "id": 605,
+    "event_ability_category_id": 272,
+    "name": "[期間限定] 襲来カウントダウン祭・体術・雷Ⅰ",
+    "flavor_text": "・ターム族との戦い 大量討伐せよ！-ターム族-で能力値アップ時の上昇量が3倍＆【タームの盾】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1475
+  },
+  {
+    "id": 606,
+    "event_ability_category_id": 272,
+    "name": "[期間限定] 襲来カウントダウン祭・体術・雷Ⅰ",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1473
+  },
+  {
+    "id": 607,
+    "event_ability_category_id": 272,
+    "name": "[期間限定] 襲来カウントダウン祭・体術・雷Ⅰ",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1477
+  },
+  {
+    "id": 608,
+    "event_ability_category_id": 273,
+    "name": "[期間限定] 襲来カウントダウン祭・体術・雷Ⅱ",
+    "flavor_text": "・ターム族との戦い 激闘-リアルクィーン-で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1476
+  },
+  {
+    "id": 609,
+    "event_ability_category_id": 273,
+    "name": "[期間限定] 襲来カウントダウン祭・体術・雷Ⅱ",
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1474
+  },
+  {
+    "id": 610,
+    "event_ability_category_id": 263,
+    "name": "[期間限定] 激闘-リアルクィーン-",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1461
+  },
+  {
+    "id": 611,
+    "event_ability_category_id": 264,
+    "name": "[期間限定] 激闘-リアルクィーン-・七英雄",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1456
+  },
+  {
+    "id": 612,
+    "event_ability_category_id": 265,
+    "name": "[期間限定] 激闘-リアルクィーン-・冷・陰",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1451
+  },
+  {
+    "id": 613,
+    "event_ability_category_id": 266,
+    "name": "[期間限定] 激闘-リアルクィーン-・襲来カウントダウン祭",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1486
+  },
+  {
+    "id": 614,
+    "event_ability_category_id": 273,
+    "name": "[期間限定] 襲来カウントダウン祭・体術・雷Ⅱ",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1478
+  },
+  {
+    "id": 615,
+    "event_ability_category_id": 274,
+    "name": "[期間限定] 魔塔サルーインI",
+    "flavor_text": "・魔塔サルーインで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1530
+  },
+  {
+    "id": 616,
+    "event_ability_category_id": 275,
+    "name": "[期間限定] 魔塔サルーインII",
+    "flavor_text": "・魔塔サルーインで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1525
+  },
+  {
+    "id": 617,
+    "event_ability_category_id": 276,
+    "name": "[期間限定] 暗黒の巨星祭記念・打・熱・陽",
+    "flavor_text": "・魔塔サルーインで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1520
+  },
+  {
+    "id": 620,
+    "event_ability_category_id": 274,
+    "name": "[期間限定] 魔塔サルーインI",
+    "flavor_text": "・決戦！サルーインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1555
+  },
+  {
+    "id": 621,
+    "event_ability_category_id": 275,
+    "name": "[期間限定] 魔塔サルーインII",
+    "flavor_text": "・決戦！サルーインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1550
+  },
+  {
+    "id": 622,
+    "event_ability_category_id": 276,
+    "name": "[期間限定] 暗黒の巨星祭記念・打・熱・陽",
+    "flavor_text": "・決戦！サルーインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1545
+  },
+  {
+    "id": 625,
+    "event_ability_category_id": 281,
+    "name": "[期間限定] 暗黒の巨星祭記念・突・冷・雷",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍&メインで【ひび割れた土器(赤)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1541
+  },
+  {
+    "id": 626,
+    "event_ability_category_id": 282,
+    "name": "[期間限定] 決戦！バートランド開催記念II",
+    "flavor_text": "・メインで能力値アップ時の上昇量が4倍&メインで【ひび割れた土器(赤)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1538
+  },
+  {
+    "id": 627,
+    "event_ability_category_id": 283,
+    "name": "[期間限定] 決戦！バートランド開催記念I",
+    "flavor_text": "・メインで能力値アップ時の上昇量が4倍&メインで【ひび割れた土器(赤)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1535
+  },
+  {
+    "id": 628,
+    "event_ability_category_id": 284,
+    "name": "[期間限定] 呪われし者との戦い-打熱陽-I",
+    "flavor_text": "・呪われし者との戦い-打熱陽-で能力値アップ時の上昇量が4倍&呪われし者との戦い-打熱陽-で【ひび割れた土器(黄)】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍&メインで【ひび割れた土器(黄)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1561
+  },
+  {
+    "id": 629,
+    "event_ability_category_id": 285,
+    "name": "[期間限定] 呪われし者との戦い-打熱陽-Ⅱ",
+    "flavor_text": "・呪われし者との戦い-打熱陽-で能力値アップ時の上昇量が4倍&呪われし者との戦い-打熱陽-で【ひび割れた土器(黄)】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍&メインで【ひび割れた土器(黄)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1560
+  },
+  {
+    "id": 630,
+    "event_ability_category_id": 279,
+    "name": "[期間限定] 呪われし者との戦い-斬陰-I",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/4/1 4:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1507
+  },
+  {
+    "id": 631,
+    "event_ability_category_id": 280,
+    "name": "[期間限定] 呪われし者との戦い-斬陰-Ⅱ",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/4/1 4:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1506
+  },
+  {
+    "id": 632,
+    "event_ability_category_id": 274,
+    "name": "[期間限定] 魔塔サルーインI",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1557
+  },
+  {
+    "id": 633,
+    "event_ability_category_id": 275,
+    "name": "[期間限定] 魔塔サルーインII",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1556
+  },
+  {
+    "id": 634,
+    "event_ability_category_id": 298,
+    "name": "[期間限定] ギュスターヴの剣-ギュスターヴ-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-ギュスターヴ-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1630
+  },
+  {
+    "id": 635,
+    "event_ability_category_id": 297,
+    "name": "[期間限定] ギュスターヴの剣-ウィル-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-ウィル-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1625
+  },
+  {
+    "id": 636,
+    "event_ability_category_id": 296,
+    "name": "[期間限定] ギュスターヴの剣-リッチ-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-リッチ-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1620
+  },
+  {
+    "id": 637,
+    "event_ability_category_id": 295,
+    "name": "[期間限定] ギュスターヴの剣-ジニー-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-ジニー-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1615
+  },
+  {
+    "id": 638,
+    "event_ability_category_id": 294,
+    "name": "[期間限定] ギュスターヴの剣-ヨハン-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-ヨハン-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1610
+  },
+  {
+    "id": 639,
+    "event_ability_category_id": 293,
+    "name": "[期間限定] ギュスターヴの剣-コーデリア-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-コーデリア-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1605
+  },
+  {
+    "id": 640,
+    "event_ability_category_id": 292,
+    "name": "[期間限定] ギュスターヴの剣-フリン-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-フリン-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1600
+  },
+  {
+    "id": 641,
+    "event_ability_category_id": 291,
+    "name": "[期間限定] ギュスターヴの剣-ラベール-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-ラベール-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1595
+  },
+  {
+    "id": 642,
+    "event_ability_category_id": 290,
+    "name": "[期間限定] ギュスターヴの剣-グスタフ-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-グスタフ-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1590
+  },
+  {
+    "id": 643,
+    "event_ability_category_id": 289,
+    "name": "[期間限定] ギュスターヴの剣-プルミエール-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-プルミエール-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1585
+  },
+  {
+    "id": 644,
+    "event_ability_category_id": 288,
+    "name": "[期間限定] ギュスターヴの剣-ロベルト-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-ロベルト-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1580
+  },
+  {
+    "id": 645,
+    "event_ability_category_id": 287,
+    "name": "[期間限定] ギュスターヴの剣-ミーティア-",
+    "flavor_text": "・ギュスターヴの剣育成5倍選択-ミーティア-をクリアした場合、ギュスターヴの剣で能力値アップ時上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1575
+  },
+  {
+    "id": 646,
+    "event_ability_category_id": 286,
+    "name": "[期間限定] SF2発売日記念",
+    "flavor_text": "・ギュスターヴの剣、メインで能力値アップ時の上昇量4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1570
+  },
+  {
+    "id": 647,
+    "event_ability_category_id": 276,
+    "name": "[期間限定] 暗黒の巨星祭記念・打・熱・陽",
+    "flavor_text": "・呪われし者との戦い-打熱陽-で能力値アップ時の上昇量が4倍&呪われし者との戦い-打熱陽-で【ひび割れた土器(黄)】が追加ドロップ<br>・メインで【ひび割れた土器(黄)】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1559
+  },
+  {
+    "id": 648,
+    "event_ability_category_id": 311,
+    "name": "[期間限定] 水の将魔との戦い-ギュスターヴ-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-ギュスターヴ-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1695
+  },
+  {
+    "id": 649,
+    "event_ability_category_id": 310,
+    "name": "[期間限定] 水の将魔との戦い-ウィル-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-ウィル-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1690
+  },
+  {
+    "id": 650,
+    "event_ability_category_id": 309,
+    "name": "[期間限定] 水の将魔との戦い-リッチ-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-リッチ-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1685
+  },
+  {
+    "id": 651,
+    "event_ability_category_id": 308,
+    "name": "[期間限定] 水の将魔との戦い-ジニー-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-ジニー-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1680
+  },
+  {
+    "id": 652,
+    "event_ability_category_id": 307,
+    "name": "[期間限定] 水の将魔との戦い-ヨハン-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-ヨハン-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1675
+  },
+  {
+    "id": 653,
+    "event_ability_category_id": 306,
+    "name": "[期間限定] 水の将魔との戦い-コーデリア-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-コーデリア-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1670
+  },
+  {
+    "id": 654,
+    "event_ability_category_id": 305,
+    "name": "[期間限定] 水の将魔との戦い-フリン-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-フリン-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1665
+  },
+  {
+    "id": 655,
+    "event_ability_category_id": 304,
+    "name": "[期間限定] 水の将魔との戦い-ラベール-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-ラベール-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1660
+  },
+  {
+    "id": 656,
+    "event_ability_category_id": 303,
+    "name": "[期間限定] 水の将魔との戦い-グスタフ-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-グスタフ-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1655
+  },
+  {
+    "id": 657,
+    "event_ability_category_id": 302,
+    "name": "[期間限定] 水の将魔との戦い-プルミエール-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-プルミエール-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1650
+  },
+  {
+    "id": 658,
+    "event_ability_category_id": 301,
+    "name": "[期間限定] 水の将魔との戦い-ロベルト-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-ロベルト-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1645
+  },
+  {
+    "id": 659,
+    "event_ability_category_id": 300,
+    "name": "[期間限定] 水の将魔との戦い-ミーティア-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-ミーティア-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1640
+  },
+  {
+    "id": 660,
+    "event_ability_category_id": 299,
+    "name": "[期間限定] 水の将魔との戦い-ヴァンアーブル-",
+    "flavor_text": "・水の将魔との戦い育成5倍選択-ヴァンアーブル-をクリアした場合、水の将魔との戦いで能力値アップ時の上昇量が5倍＆【水獣の爪】が追加ドロップ<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1635
+  },
+  {
+    "id": 661,
+    "event_ability_category_id": 314,
+    "name": "[期間限定] 魔獣討伐出陣",
+    "flavor_text": "・魔獣討伐出陣で、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1710
+  },
+  {
+    "id": 662,
+    "event_ability_category_id": 313,
+    "name": "[期間限定] 魔獣討伐出陣・UDX",
+    "flavor_text": "・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1705
+  },
+  {
+    "id": 663,
+    "event_ability_category_id": 312,
+    "name": "[期間限定] 魔獣討伐出陣・SaGaRS",
+    "flavor_text": "・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1700
+  },
+  {
+    "id": 664,
+    "event_ability_category_id": 326,
+    "name": "[期間限定] ジョーカーとの戦い-ブルー-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-ブルー-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1745
+  },
+  {
+    "id": 665,
+    "event_ability_category_id": 325,
+    "name": "[期間限定] ジョーカーとの戦い-レッド-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-レッド-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1744
+  },
+  {
+    "id": 666,
+    "event_ability_category_id": 351,
+    "name": "[期間限定] ジョーカーとの戦い-エミリア-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-エミリア-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1755
+  },
+  {
+    "id": 667,
+    "event_ability_category_id": 324,
+    "name": "[期間限定] ジョーカーとの戦い-アセルス-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-アセルス-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1743
+  },
+  {
+    "id": 668,
+    "event_ability_category_id": 323,
+    "name": "[期間限定] ジョーカーとの戦い-クーン-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-クーン-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1742
+  },
+  {
+    "id": 669,
+    "event_ability_category_id": 322,
+    "name": "[期間限定] ジョーカーとの戦い-T260G-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-T260G-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1741
+  },
+  {
+    "id": 670,
+    "event_ability_category_id": 321,
+    "name": "[期間限定] ジョーカーとの戦い-リュート-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-リュート-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1740
+  },
+  {
+    "id": 671,
+    "event_ability_category_id": 346,
+    "name": "[期間限定] ジョーカーとの戦い-ヒューズ-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-ヒューズ-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1750
+  },
+  {
+    "id": 672,
+    "event_ability_category_id": 320,
+    "name": "[期間限定] 祝！サガ フロンティア リマスター発売記念",
+    "flavor_text": "・ジョーカーとの戦いで能力値アップ時の上昇量が4倍＆【ひび割れた仮面】が追加ドロップ<br>・メインで能力値アップ時上昇量4倍<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1715
+  },
+  {
+    "id": 673,
+    "event_ability_category_id": 317,
+    "name": "[期間限定] 忘れられた礼拝堂へⅠ",
+    "flavor_text": "・忘れられた礼拝堂へで、能力値アップ時の上昇量が4倍＆【ミニブーケ】ドロップ量50%UP＆【ウェディングブーケ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1762
+  },
+  {
+    "id": 674,
+    "event_ability_category_id": 316,
+    "name": "[期間限定] 忘れられた礼拝堂へⅡ",
+    "flavor_text": "・忘れられた礼拝堂へで、能力値アップ時の上昇量が4倍＆【ミニブーケ】ドロップ量20%UP＆【ウェディングブーケ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1761
+  },
+  {
+    "id": 675,
+    "event_ability_category_id": 315,
+    "name": "[期間限定] 忘れられた礼拝堂へⅢ",
+    "flavor_text": "・忘れられた礼拝堂へで、能力値アップ時の上昇量が4倍＆【ミニブーケ】ドロップ量10%UP＆【ウェディングブーケ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1760
+  },
+  {
+    "id": 676,
+    "event_ability_category_id": 282,
+    "name": "[期間限定] 決戦！バートランド開催記念II",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/4/1 4:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1539
+  },
+  {
+    "id": 677,
+    "event_ability_category_id": 283,
+    "name": "[期間限定] 決戦！バートランド開催記念I",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/4/1 4:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1536
+  },
+  {
+    "id": 678,
+    "event_ability_category_id": 284,
+    "name": "[期間限定] 呪われし者との戦い-打熱陽-I",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/4/1 4:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1765
+  },
+  {
+    "id": 679,
+    "event_ability_category_id": 285,
+    "name": "[期間限定] 呪われし者との戦い-打熱陽-Ⅱ",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/4/1 4:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1770
+  },
+  {
+    "id": 680,
+    "event_ability_category_id": 286,
+    "name": "[期間限定] SF2発売日記念",
+    "flavor_text": "・水の将魔との戦いで能力値アップ時の上昇量が4倍＆【水獣の爪】が追加ドロップ<br>・メインで能力値アップ時上昇量4倍<br>・水の将魔との戦い（Hard~UltraHard）で【(水風)瑞風の杖】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1571
+  },
+  {
+    "id": 681,
+    "event_ability_category_id": 335,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-ブルー-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-ブルー-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1805
+  },
+  {
+    "id": 682,
+    "event_ability_category_id": 334,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-レッド-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-レッド-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1803
+  },
+  {
+    "id": 683,
+    "event_ability_category_id": 359,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-エミリア-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-エミリア-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1825
+  },
+  {
+    "id": 684,
+    "event_ability_category_id": 333,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-アセルス-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-アセルス-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1801
+  },
+  {
+    "id": 685,
+    "event_ability_category_id": 332,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-クーン-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-クーン-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1799
+  },
+  {
+    "id": 686,
+    "event_ability_category_id": 331,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-T260G-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-T260G-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1797
+  },
+  {
+    "id": 687,
+    "event_ability_category_id": 330,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-リュート-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-リュート-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1795
+  },
+  {
+    "id": 688,
+    "event_ability_category_id": 354,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-ヒューズ-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-ヒューズ-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1815
+  },
+  {
+    "id": 689,
+    "event_ability_category_id": 329,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王・サガ魂",
+    "flavor_text": "・ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1793
+  },
+  {
+    "id": 690,
+    "event_ability_category_id": 320,
+    "name": "[期間限定] 祝！サガ フロンティア リマスター発売記念",
+    "flavor_text": "・ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1780
+  },
+  {
+    "id": 691,
+    "event_ability_category_id": 340,
+    "name": "[期間限定] GW記念 第１弾 属性別育成応援・突",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1874
+  },
+  {
+    "id": 692,
+    "event_ability_category_id": 341,
+    "name": "[期間限定] GW記念 第１弾 属性別育成応援・打",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1875
+  },
+  {
+    "id": 693,
+    "event_ability_category_id": 342,
+    "name": "[期間限定] GW記念 第１弾 属性別育成応援・斬",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1876
+  },
+  {
+    "id": 694,
+    "event_ability_category_id": 394,
+    "name": "[期間限定] GW記念 第１弾 属性別育成応援・熱",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍<br>・修業者の間で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1882
+  },
+  {
+    "id": 695,
+    "event_ability_category_id": 360,
+    "name": "[期間限定] GW記念 第１弾 属性別育成応援・全属性",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍<br>・修業者の間で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1883
+  },
+  {
+    "id": 696,
+    "event_ability_category_id": 339,
+    "name": "[期間限定] 探索！宝物眠る洞窟",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍＆【安全ロープ(黄)[期間限定]】ドロップ量50%UP<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1835
+  },
+  {
+    "id": 697,
+    "event_ability_category_id": 395,
+    "name": "[期間限定] ルートヴィッヒとの戦い",
+    "flavor_text": "・ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍＆【魔獣の外皮】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1840
+  },
+  {
+    "id": 698,
+    "event_ability_category_id": 350,
+    "name": "[期間限定] ジョーカーとの戦い-アニー-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-アニー-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1754
+  },
+  {
+    "id": 699,
+    "event_ability_category_id": 349,
+    "name": "[期間限定] ジョーカーとの戦い-ライザ-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-ライザ-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1753
+  },
+  {
+    "id": 700,
+    "event_ability_category_id": 348,
+    "name": "[期間限定] ジョーカーとの戦い-ルーファス-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-ルーファス-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1752
+  },
+  {
+    "id": 701,
+    "event_ability_category_id": 347,
+    "name": "[期間限定] ジョーカーとの戦い-レン-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-レン-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1751
+  },
+  {
+    "id": 702,
+    "event_ability_category_id": 345,
+    "name": "[期間限定] ジョーカーとの戦い-コットン-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-コットン-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1749
+  },
+  {
+    "id": 703,
+    "event_ability_category_id": 344,
+    "name": "[期間限定] ジョーカーとの戦い-ドール-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-ドール-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1748
+  },
+  {
+    "id": 704,
+    "event_ability_category_id": 328,
+    "name": "[期間限定] ジョーカーとの戦い-ラビット-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-ラビット-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1747
+  },
+  {
+    "id": 705,
+    "event_ability_category_id": 327,
+    "name": "[期間限定] ジョーカーとの戦い-サイレンス-",
+    "flavor_text": "・ジョーカーとの戦い育成5倍選択-サイレンス-をクリアした場合、ジョーカーとの戦いで能力値アップ時の上昇量が5倍＆【ひび割れた仮面】が追加ドロップ<br>・ジョーカーとの戦い（Hard~UltraHard）で【ブラスターガン】が追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1746
+  },
+  {
+    "id": 706,
+    "event_ability_category_id": 358,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-アニー-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-アニー-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1823
+  },
+  {
+    "id": 707,
+    "event_ability_category_id": 357,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-ライザ-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-ライザ-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1821
+  },
+  {
+    "id": 708,
+    "event_ability_category_id": 356,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-ルーファス-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-ルーファス-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1819
+  },
+  {
+    "id": 709,
+    "event_ability_category_id": 355,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-レン-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-レン-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1817
+  },
+  {
+    "id": 710,
+    "event_ability_category_id": 353,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-コットン-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-コットン-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1813
+  },
+  {
+    "id": 711,
+    "event_ability_category_id": 352,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-ドール-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-ドール-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1811
+  },
+  {
+    "id": 712,
+    "event_ability_category_id": 337,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-ラビット-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-ラビット-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1809
+  },
+  {
+    "id": 713,
+    "event_ability_category_id": 336,
+    "name": "[期間限定] ブラッククロス戦闘員・四天王-サイレンス-",
+    "flavor_text": "・ブラッククロス戦闘員・四天王育成5倍選択-サイレンス-をクリアした場合、ブラッククロス戦闘員との戦い、激突！ブラッククロス四天王-アラクーネ-、-シュウザー-、-ベルヴァ-、-メタルブラック-で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1807
+  },
+  {
+    "id": 714,
+    "event_ability_category_id": 378,
+    "name": "[期間限定] 激闘！ルートヴィッヒ・杖",
+    "flavor_text": "・激闘！ルートヴィッヒ、激闘！ルートヴィッヒ-防御低下-、激闘！ルートヴィッヒ-防御低下・大-、ルートヴィッヒとの戦いで能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1848
+  },
+  {
+    "id": 715,
+    "event_ability_category_id": 379,
+    "name": "[期間限定] 激闘！ルートヴィッヒ・SaGaRS",
+    "flavor_text": "・激闘！ルートヴィッヒ、激闘！ルートヴィッヒ-防御低下-、激闘！ルートヴィッヒ-防御低下・大-、ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1846
+  },
+  {
+    "id": 716,
+    "event_ability_category_id": 380,
+    "name": "[期間限定] 激闘！ルートヴィッヒ",
+    "flavor_text": "・激闘！ルートヴィッヒ、激闘！ルートヴィッヒ-防御低下-、激闘！ルートヴィッヒ-防御低下・大-、ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍＆ルートヴィッヒとの戦いで【魔獣の外皮】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1850
+  },
+  {
+    "id": 717,
+    "event_ability_category_id": 373,
+    "name": "[期間限定] GW記念 第２弾 シリーズ別育成応援①",
+    "flavor_text": "・激闘！ルートヴィッヒ、激闘！ルートヴィッヒ-防御低下-、激闘！ルートヴィッヒ-防御低下・大-、ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1844
+  },
+  {
+    "id": 718,
+    "event_ability_category_id": 372,
+    "name": "[期間限定] GW記念 第２弾 シリーズ別育成応援②",
+    "flavor_text": "・激闘！ルートヴィッヒ、激闘！ルートヴィッヒ-防御低下-、激闘！ルートヴィッヒ-防御低下・大-、ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1842
+  },
+  {
+    "id": 719,
+    "event_ability_category_id": 395,
+    "name": "[期間限定] ルートヴィッヒとの戦い",
+    "flavor_text": "・激闘！ルートヴィッヒ、激闘！ルートヴィッヒ-防御低下-、激闘！ルートヴィッヒ-防御低下・大-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1841
+  },
+  {
+    "id": 720,
+    "event_ability_category_id": 338,
+    "name": "[期間限定] 掘りあてろ！特大宝物発掘",
+    "flavor_text": "・掘りあてろ！特大宝物発掘で、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1836
+  },
+  {
+    "id": 721,
+    "event_ability_category_id": 390,
+    "name": "[期間限定] 2.5周年前夜祭記念！ｵｰﾙｽﾀｰ超感謝BOX",
+    "flavor_text": "・2.5周年前夜祭記念！オールスター超感謝BOXで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1860
+  },
+  {
+    "id": 722,
+    "event_ability_category_id": 388,
+    "name": "[期間限定] 2.5周年前夜祭記念！ｵｰﾙｽﾀｰ超感謝BOX・ｻｶﾞ魂",
+    "flavor_text": "・2.5周年前夜祭記念！オールスター超感謝BOXで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1858
+  },
+  {
+    "id": 723,
+    "event_ability_category_id": 386,
+    "name": "[期間限定] 2.5周年前夜祭記念！ｵｰﾙｽﾀｰ超感謝BOX・銃",
+    "flavor_text": "・2.5周年前夜祭記念！オールスター超感謝BOXで能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1856
+  },
+  {
+    "id": 724,
+    "event_ability_category_id": 384,
+    "name": "[期間限定] 2.5周年前夜祭記念！シリーズ別育成応援①",
+    "flavor_text": "・2.5周年前夜祭記念！オールスター超感謝BOXで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1852
+  },
+  {
+    "id": 725,
+    "event_ability_category_id": 382,
+    "name": "[期間限定] 2.5周年前夜祭記念！シリーズ別育成応援②",
+    "flavor_text": "・2.5周年前夜祭記念！オールスター超感謝BOXで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1854
+  },
+  {
+    "id": 726,
+    "event_ability_category_id": 393,
+    "name": "[期間限定] GW記念 第１弾 属性別育成応援・冷",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍<br>・修業者の間で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1881
+  },
+  {
+    "id": 727,
+    "event_ability_category_id": 392,
+    "name": "[期間限定] GW記念 第１弾 属性別育成応援・雷",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍<br>・修業者の間で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1880
+  },
+  {
+    "id": 728,
+    "event_ability_category_id": 391,
+    "name": "[期間限定] GW記念 第１弾 属性別育成応援・陽",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍<br>・修業者の間で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1879
+  },
+  {
+    "id": 729,
+    "event_ability_category_id": 362,
+    "name": "[期間限定] GW記念 第１弾 属性別育成応援・陰",
+    "flavor_text": "・探索！宝物眠る洞窟で能力値アップ時の上昇量が4倍<br>・ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍<br>・修業者の間で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1878
+  },
+  {
+    "id": 730,
+    "event_ability_category_id": 342,
+    "name": "[期間限定] GW記念 第１弾 属性別育成応援・斬",
+    "flavor_text": "・ルートヴィッヒとの戦いで能力値アップ時の上昇量が4倍<br>・修業者の間で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1877
+  },
+  {
+    "id": 737,
+    "event_ability_category_id": 395,
+    "name": "[期間限定] ルートヴィッヒとの戦い",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/5/11 4:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1839
+  },
+  {
+    "id": 738,
+    "event_ability_category_id": 413,
+    "name": "[期間限定] ヴァルドーの鍛錬極意書",
+    "flavor_text": "・全てのバトルクエストで能力値アップ時の上昇量が8倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 9999
+  },
+  {
+    "id": 739,
+    "event_ability_category_id": 402,
+    "name": "[期間限定] 宿命の大決戦-死闘 イゴマール-",
+    "flavor_text": "・宿命の大決戦-死闘 イゴマール-で能力値アップ時の上昇量が4倍＆【石塔の破片】が追加ドロップ＆【不気味な植物】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1985
+  },
+  {
+    "id": 740,
+    "event_ability_category_id": 401,
+    "name": "[期間限定] 宿命の大決戦-死闘 イゴマール-・全",
+    "flavor_text": "・宿命の大決戦-死闘 イゴマール-で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1980
+  },
+  {
+    "id": 742,
+    "event_ability_category_id": 411,
+    "name": "[期間限定] ヴァルドーの超鍛錬道場",
+    "flavor_text": "・ヴァルドーの超鍛錬道場で能力値アップ時の上昇量が4倍＆【超鍛錬の証】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍<br>・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1970
+  },
+  {
+    "id": 743,
+    "event_ability_category_id": 410,
+    "name": "[期間限定] ヴァルドーの超鍛錬道場-斬-",
+    "flavor_text": "・ヴァルドーの超鍛錬道場-斬-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1965
+  },
+  {
+    "id": 744,
+    "event_ability_category_id": 409,
+    "name": "[期間限定] ヴァルドーの超鍛錬道場-打-",
+    "flavor_text": "・ヴァルドーの超鍛錬道場-打-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1960
+  },
+  {
+    "id": 745,
+    "event_ability_category_id": 408,
+    "name": "[期間限定] ヴァルドーの超鍛錬道場-突-",
+    "flavor_text": "・ヴァルドーの超鍛錬道場-突-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1955
+  },
+  {
+    "id": 746,
+    "event_ability_category_id": 407,
+    "name": "[期間限定] ヴァルドーの超鍛錬道場-熱-",
+    "flavor_text": "・ヴァルドーの超鍛錬道場-熱-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1950
+  },
+  {
+    "id": 747,
+    "event_ability_category_id": 406,
+    "name": "[期間限定] ヴァルドーの超鍛錬道場-冷-",
+    "flavor_text": "・ヴァルドーの超鍛錬道場-冷-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1945
+  },
+  {
+    "id": 748,
+    "event_ability_category_id": 405,
+    "name": "[期間限定] ヴァルドーの超鍛錬道場-雷-",
+    "flavor_text": "・ヴァルドーの超鍛錬道場-雷-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1940
+  },
+  {
+    "id": 749,
+    "event_ability_category_id": 404,
+    "name": "[期間限定] ヴァルドーの超鍛錬道場-陽-",
+    "flavor_text": "・ヴァルドーの超鍛錬道場-陽-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1935
+  },
+  {
+    "id": 750,
+    "event_ability_category_id": 403,
+    "name": "[期間限定] ヴァルドーの超鍛錬道場-陰-",
+    "flavor_text": "・ヴァルドーの超鍛錬道場-陰-で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1930
+  },
+  {
+    "id": 751,
+    "event_ability_category_id": 412,
+    "name": "[期間限定] 大決戦祭開催記念クエスト",
+    "flavor_text": "・大決戦祭開催記念クエストで、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1975
+  },
+  {
+    "id": 752,
+    "event_ability_category_id": 414,
+    "name": "[期間限定] 宿命の大決戦-異界決戦 イゴマール-",
+    "flavor_text": "・宿命の大決戦-異界決戦 イゴマール-で能力値アップ時の上昇量が4倍＆【くすんだ布切れ】が追加ドロップ＆【穢れた鱗】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1995
+  },
+  {
+    "id": 753,
+    "event_ability_category_id": 415,
+    "name": "[期間限定] 宿命の大決戦-異界決戦 イゴマール-・全",
+    "flavor_text": "・宿命の大決戦-異界決戦 イゴマール-で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1990
+  },
+  {
+    "id": 754,
+    "event_ability_category_id": 416,
+    "name": "[期間限定] 宿命の大決戦-遥かなる戦いの果て-",
+    "flavor_text": "・宿命の大決戦-遥かなる戦いの果て-で能力値アップ時の上昇量が4倍＆【粘つく皮】が追加ドロップ＆【狂乱の牙】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2005
+  },
+  {
+    "id": 755,
+    "event_ability_category_id": 417,
+    "name": "[期間限定] 宿命の大決戦-遥かなる戦いの果て-・全",
+    "flavor_text": "・宿命の大決戦-遥かなる戦いの果て-で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 2000
+  },
+  {
+    "id": 756,
+    "event_ability_category_id": 418,
+    "name": "[期間限定] ｻｶﾞ ｽｶｰﾚｯﾄ ｸﾞﾚｲｽ 緋色の野望発売日記念BOX",
+    "flavor_text": "・サガ スカーレット グレイス 緋色の野望発売日記念BOXで能力値アップ時の上昇量が4倍＆【ｻｶﾞ ｽｶｰﾚｯﾄ ｸﾞﾚｲｽ 緋色の野望発売日記念BOXｶﾞﾁｬﾁｹｯﾄ[期間限定]】が稀に100枚追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2040
+  },
+  {
+    "id": 758,
+    "event_ability_category_id": 420,
+    "name": "[期間限定] ｻｶﾞ ｽｶｰﾚｯﾄ ｸﾞﾚｲｽ 緋色の野望発売日記念BOX・杖",
+    "flavor_text": "・サガ スカーレット グレイス 緋色の野望発売日記念BOXで能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2030
+  },
+  {
+    "id": 759,
+    "event_ability_category_id": 402,
+    "name": "[期間限定] 宿命の大決戦-死闘 イゴマール-",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/6/17 12:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1984
+  },
+  {
+    "id": 760,
+    "event_ability_category_id": 401,
+    "name": "[期間限定] 宿命の大決戦-死闘 イゴマール-・全",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/6/17 12:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1979
+  },
+  {
+    "id": 761,
+    "event_ability_category_id": 414,
+    "name": "[期間限定] 宿命の大決戦-異界決戦 イゴマール-",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/6/24 12:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 1994
+  },
+  {
+    "id": 762,
+    "event_ability_category_id": 415,
+    "name": "[期間限定] 宿命の大決戦-異界決戦 イゴマール-・全",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍（2021/6/24 12:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1989
+  },
+  {
+    "id": 763,
+    "event_ability_category_id": 421,
+    "name": "[期間限定] 挑戦！ヴァジュイールの試練",
+    "flavor_text": "・挑戦！ヴァジュイールの試練で能力値アップ時の上昇量が4倍＆【ヴァジュイール挑戦の証】ドロップ量50%UP<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2025
+  },
+  {
+    "id": 764,
+    "event_ability_category_id": 422,
+    "name": "[期間限定] 挑戦！ヴァジュイールの試練・SF",
+    "flavor_text": "・挑戦！ヴァジュイールの試練で能力値アップ時の上昇量が4倍＆【ヴァジュイール挑戦の証】ドロップ量20%UP<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2020
+  },
+  {
+    "id": 765,
+    "event_ability_category_id": 423,
+    "name": "[期間限定] 挑戦！ヴァジュイールの試練・剣",
+    "flavor_text": "・挑戦！ヴァジュイールの試練で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2015
+  },
+  {
+    "id": 766,
+    "event_ability_category_id": 416,
+    "name": "[期間限定] 宿命の大決戦-遥かなる戦いの果て-",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2004
+  },
+  {
+    "id": 767,
+    "event_ability_category_id": 417,
+    "name": "[期間限定] 宿命の大決戦-遥かなる戦いの果て-・全",
+    "flavor_text": "・修業者の間で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 1999
+  },
+  {
+    "id": 768,
+    "event_ability_category_id": 424,
+    "name": "[期間限定] みんなでいくばい！SaGa風呂制圧戦",
+    "flavor_text": "・みんなでいくばい！SaGa風呂制圧戦で能力値アップ時の上昇量が4倍＆【名尾手漉和紙の扇子】が追加ドロップ＆【西川登竹細工のかご】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2055
+  },
+  {
+    "id": 769,
+    "event_ability_category_id": 425,
+    "name": "[期間限定] みんなでいくばい！SaGa風呂制圧戦・SF1・2",
+    "flavor_text": "・みんなでいくばい！SaGa風呂制圧戦で能力値アップ時の上昇量が4倍＆【名尾手漉和紙の扇子】が追加ドロップ＆【西川登竹細工のかご】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2050
+  },
+  {
+    "id": 770,
+    "event_ability_category_id": 426,
+    "name": "[期間限定] みんなでいくばい！SaGa風呂制圧戦・銃",
+    "flavor_text": "・みんなでいくばい！SaGa風呂制圧戦で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2045
+  },
+  {
+    "id": 771,
+    "event_ability_category_id": 427,
+    "name": "[期間限定] ごいごいごい!で大爆走ナハトズィーガー!・佐賀魂",
+    "flavor_text": "・ごいごいごい！で大爆走ナハトズィーガー！で能力値アップ時の上昇量が4倍＆【アラの姿煮】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2070
+  },
+  {
+    "id": 772,
+    "event_ability_category_id": 428,
+    "name": "[期間限定] ごいごいごい!で大爆走ナハトズィーガー!・US",
+    "flavor_text": "・ごいごいごい！で大爆走ナハトズィーガー！で能力値アップ時の上昇量が4倍＆【アラの姿煮】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2065
+  },
+  {
+    "id": 773,
+    "event_ability_category_id": 429,
+    "name": "[期間限定] ごいごいごい!で大爆走ナハトズィーガー!・突",
+    "flavor_text": "・ごいごいごい！で大爆走ナハトズィーガー！で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2060
+  },
+  {
+    "id": 777,
+    "event_ability_category_id": 433,
+    "name": "[期間限定] DESTINY 8 超コラボBOX開催記念",
+    "flavor_text": "・DESTINY 8 超コラボBOXで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2085
+  },
+  {
+    "id": 778,
+    "event_ability_category_id": 434,
+    "name": "[期間限定] DESTINY 8 超コラボBOX開催記念・SaGaRS",
+    "flavor_text": "・DESTINY 8 超コラボBOXで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2080
+  },
+  {
+    "id": 779,
+    "event_ability_category_id": 435,
+    "name": "[期間限定] DESTINY 8 超コラボBOX開催記念・棍棒",
+    "flavor_text": "・DESTINY 8 超コラボBOXで能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2075
+  },
+  {
+    "id": 780,
+    "event_ability_category_id": 436,
+    "name": "[期間限定] DESTINY 8 超コラボBOX開催記念・全",
+    "flavor_text": "・DESTINY 8 超コラボBOXで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 2090
+  },
+  {
+    "id": 781,
+    "event_ability_category_id": 437,
+    "name": "[期間限定] Romancing佐賀 武器種別育成応援①",
+    "flavor_text": "・みんなでいくばい！SaGa風呂制圧戦で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2057
+  },
+  {
+    "id": 782,
+    "event_ability_category_id": 438,
+    "name": "[期間限定] Romancing佐賀 武器種別育成応援②",
+    "flavor_text": "・みんなでいくばい！SaGa風呂制圧戦で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2056
+  },
+  {
+    "id": 783,
+    "event_ability_category_id": 439,
+    "name": "[期間限定] サガ31周年記念クエスト",
+    "flavor_text": "・サガ31周年記念クエストで、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2150
+  },
+  {
+    "id": 784,
+    "event_ability_category_id": 440,
+    "name": "[期間限定] 秘宝伝説制圧戦",
+    "flavor_text": "・秘宝伝説制圧戦で能力値アップ時の上昇量が4倍＆【かたいもくざい】が追加ドロップ＆【きかいのぶひん】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2180
+  },
+  {
+    "id": 785,
+    "event_ability_category_id": 441,
+    "name": "[期間限定] 秘宝伝説制圧戦・SaGa1・2",
+    "flavor_text": "・秘宝伝説制圧戦で能力値アップ時の上昇量が4倍＆【かたいもくざい】が追加ドロップ＆【きかいのぶひん】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2175
+  },
+  {
+    "id": 786,
+    "event_ability_category_id": 442,
+    "name": "[期間限定] 秘宝伝説制圧戦・打・熱",
+    "flavor_text": "・秘宝伝説制圧戦で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2170
+  },
+  {
+    "id": 787,
+    "event_ability_category_id": 443,
+    "name": "[期間限定] めがみからのおくりもの",
+    "flavor_text": "・サガ31周年記念！めがみからのおくりもので能力値アップ時の上昇量が4倍＆【しろいはね】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2165
+  },
+  {
+    "id": 788,
+    "event_ability_category_id": 444,
+    "name": "[期間限定] めがみからのおくりもの・SaGa1・2",
+    "flavor_text": "・サガ31周年記念！めがみからのおくりもので能力値アップ時の上昇量が4倍＆【しろいはね】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2160
+  },
+  {
+    "id": 789,
+    "event_ability_category_id": 445,
+    "name": "[期間限定] めがみからのおくりもの・熱",
+    "flavor_text": "・サガ31周年記念！めがみからのおくりもので能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2155
+  },
+  {
+    "id": 790,
+    "event_ability_category_id": 449,
+    "name": "[期間限定] アポロンとの戦い",
+    "flavor_text": "・アポロンとの戦いで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2183
+  },
+  {
+    "id": 791,
+    "event_ability_category_id": 450,
+    "name": "[期間限定] アポロンとの戦い・SaGa1・2",
+    "flavor_text": "・アポロンとの戦いで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2182
+  },
+  {
+    "id": 792,
+    "event_ability_category_id": 451,
+    "name": "[期間限定] アポロンとの戦い・打・熱",
+    "flavor_text": "・アポロンとの戦いで能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2181
+  },
+  {
+    "id": 793,
+    "event_ability_category_id": 446,
+    "name": "[期間限定] 最終防衛システムとの戦い",
+    "flavor_text": "・最終防衛システムとの戦いで能力値アップ時の上昇量が4倍＆【エネルギーケーブル】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2195
+  },
+  {
+    "id": 794,
+    "event_ability_category_id": 447,
+    "name": "[期間限定] 最終防衛システムとの戦い・SaGa1・2",
+    "flavor_text": "・最終防衛システムとの戦いで能力値アップ時の上昇量が4倍＆【エネルギーケーブル】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2190
+  },
+  {
+    "id": 795,
+    "event_ability_category_id": 448,
+    "name": "[期間限定] 最終防衛システムとの戦い・斬・打",
+    "flavor_text": "・最終防衛システムとの戦いで能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2186
+  },
+  {
+    "id": 796,
+    "event_ability_category_id": 459,
+    "name": "[期間限定] 最終防衛ｼｽﾃﾑとの戦い・31st Sa・Ga祭 第1弾",
+    "flavor_text": "・最終防衛システムとの戦いで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2185
+  },
+  {
+    "id": 797,
+    "event_ability_category_id": 460,
+    "name": "[期間限定] 最終防衛ｼｽﾃﾑとの戦い・31st Sa・Ga祭・熱",
+    "flavor_text": "・最終防衛システムとの戦いで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2184
+  },
+  {
+    "id": 798,
+    "event_ability_category_id": 452,
+    "name": "[期間限定] はにわとの戦い",
+    "flavor_text": "・はにわとの戦いで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2200
+  },
+  {
+    "id": 799,
+    "event_ability_category_id": 453,
+    "name": "[期間限定] 飛翔せよ！ステスロス",
+    "flavor_text": "・飛翔せよ！ステスロスで能力値アップ時の上昇量が4倍＆【かがやくいし】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2205
+  },
+  {
+    "id": 800,
+    "event_ability_category_id": 454,
+    "name": "[期間限定] 飛翔せよ！ステスロス・SaGa1・2・3",
+    "flavor_text": "・飛翔せよ！ステスロスで能力値アップ時の上昇量が4倍＆【かがやくいし】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2204
+  },
+  {
+    "id": 801,
+    "event_ability_category_id": 455,
+    "name": "[期間限定] 飛翔せよ！ステスロス・31st Sa・Ga祭記念・全",
+    "flavor_text": "・飛翔せよ！ステスロスで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2203
+  },
+  {
+    "id": 802,
+    "event_ability_category_id": 456,
+    "name": "[期間限定] 彼方へ~失われた魔王記",
+    "flavor_text": "・彼方へ~失われた魔王記で能力値アップ時の上昇量が4倍＆【削られた石碑】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2220
+  },
+  {
+    "id": 803,
+    "event_ability_category_id": 457,
+    "name": "[期間限定] 彼方へ~失われた魔王記・RS3",
+    "flavor_text": "・彼方へ~失われた魔王記で能力値アップ時の上昇量が4倍＆【削られた石碑】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2215
+  },
+  {
+    "id": 804,
+    "event_ability_category_id": 458,
+    "name": "[期間限定] 彼方へ~失われた魔王記・突",
+    "flavor_text": "・彼方へ~失われた魔王記で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2210
+  },
+  {
+    "id": 805,
+    "event_ability_category_id": 461,
+    "name": "[期間限定] サガ魂超感謝戦",
+    "flavor_text": "・サガ魂超感謝戦で能力値アップ時の上昇量が4倍＆【サガ魂記念ケーキ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2240
+  },
+  {
+    "id": 806,
+    "event_ability_category_id": 462,
+    "name": "[期間限定] 祝！ｻｶﾞ魂ﾊｰﾌｱﾆﾊﾞｰｻﾘｰ記念・剣・大剣・斧",
+    "flavor_text": "・サガ魂超感謝戦で能力値アップ時の上昇量が4倍＆【サガ魂記念ケーキ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2235
+  },
+  {
+    "id": 807,
+    "event_ability_category_id": 463,
+    "name": "[期間限定] 祝！ｻｶﾞ魂ﾊｰﾌｱﾆﾊﾞｰｻﾘｰ記念・棍棒・体術・銃",
+    "flavor_text": "・サガ魂超感謝戦で能力値アップ時の上昇量が4倍＆【サガ魂記念ケーキ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2230
+  },
+  {
+    "id": 808,
+    "event_ability_category_id": 464,
+    "name": "[期間限定] 祝！ｻｶﾞ魂ﾊｰﾌｱﾆﾊﾞｰｻﾘｰ記念・小剣・槍・弓・杖",
+    "flavor_text": "・サガ魂超感謝戦で能力値アップ時の上昇量が4倍＆【サガ魂記念ケーキ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2225
+  },
+  {
+    "id": 810,
+    "event_ability_category_id": 466,
+    "name": "[期間限定] みんなあつまれ！サ・ガ大合戦・SaGa1・2・3",
+    "flavor_text": "・みんなあつまれ！サ・ガ大合戦で能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2250
+  },
+  {
+    "id": 811,
+    "event_ability_category_id": 467,
+    "name": "[期間限定] みんなあつまれ！サ・ガ大合戦・打",
+    "flavor_text": "・みんなあつまれ！サ・ガ大合戦で能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2245
+  },
+  {
+    "id": 812,
+    "event_ability_category_id": 468,
+    "name": "[期間限定] ピドナの夜の夢Ⅰ",
+    "flavor_text": "・ピドナの夜の夢で能力値アップ時の上昇量が4倍＆【ふしぎなスイーツ】ドロップ量50%UP＆【どきどきカボチャ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2270
+  },
+  {
+    "id": 813,
+    "event_ability_category_id": 469,
+    "name": "[期間限定] ピドナの夜の夢Ⅱ",
+    "flavor_text": "・ピドナの夜の夢で能力値アップ時の上昇量が4倍＆【ふしぎなスイーツ】ドロップ量20%UP＆【どきどきカボチャ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2265
+  },
+  {
+    "id": 814,
+    "event_ability_category_id": 470,
+    "name": "[期間限定] ピドナの夜の夢Ⅲ",
+    "flavor_text": "・ピドナの夜の夢で能力値アップ時の上昇量が4倍＆【ふしぎなスイーツ】ドロップ量10%UP＆【どきどきカボチャ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2260
+  },
+  {
+    "id": 815,
+    "event_ability_category_id": 471,
+    "name": "[期間限定] デスのハロウィンパレード！",
+    "flavor_text": "・デスのハロウィンパレード！で能力値アップ時の上昇量が4倍＆【かぼちゃランプ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍<br>・ピドナの夜の夢で能力値アップ時の上昇量が4倍<br>・古城の祝祭と最終試練で能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2300
+  },
+  {
+    "id": 817,
+    "event_ability_category_id": 473,
+    "name": "[期間限定] デスのハロウィンパレード！・斬・陽",
+    "flavor_text": "・デスのハロウィンパレード！で能力値アップ時の上昇量が3倍＆【かぼちゃランプ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍<br>・ピドナの夜の夢で能力値アップ時の上昇量が3倍<br>・古城の祝祭と最終試練で能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2290
+  },
+  {
+    "id": 818,
+    "event_ability_category_id": 474,
+    "name": "[期間限定] 古城の祝祭と最終試練Ⅰ",
+    "flavor_text": "・古城の祝祭と最終試練で能力値アップ時の上昇量が4倍＆【おばけのぬいぐるみ】ドロップ量50%UP＆【カボチャのケーキ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2280
+  },
+  {
+    "id": 819,
+    "event_ability_category_id": 475,
+    "name": "[期間限定] 古城の祝祭と最終試練Ⅱ",
+    "flavor_text": "・古城の祝祭と最終試練で能力値アップ時の上昇量が4倍＆【おばけのぬいぐるみ】ドロップ量20%UP＆【カボチャのケーキ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2275
+  },
+  {
+    "id": 821,
+    "event_ability_category_id": 477,
+    "name": "[期間限定] 3周年前夜祭記念SaGaカーニバル",
+    "flavor_text": "・3周年前夜祭記念SaGaカーニバルで能力値アップ時の上昇量が4倍＆【3周年前夜祭記念フラッグ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2325
+  },
+  {
+    "id": 822,
+    "event_ability_category_id": 478,
+    "name": "[期間限定] 3周年前夜祭記念SaGaカーニバル・SaGaRS",
+    "flavor_text": "・3周年前夜祭記念SaGaカーニバルで能力値アップ時の上昇量が4倍＆【3周年前夜祭記念フラッグ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2320
+  },
+  {
+    "id": 823,
+    "event_ability_category_id": 479,
+    "name": "[期間限定] 3周年前夜祭記念SaGaカーニバル・冷・陰",
+    "flavor_text": "・3周年前夜祭記念SaGaカーニバルで能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2315
+  },
+  {
+    "id": 824,
+    "event_ability_category_id": 480,
+    "name": "[期間限定] ﾀﾌﾀｰﾝ山の戦い~ﾛｱｰﾇが燃える日~・RS3・詩人",
+    "flavor_text": "・タフターン山の戦い~ロアーヌが燃える日~で能力値アップ時の上昇量が4倍＆【魔龍公の鎖】が追加ドロップ<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2310
+  },
+  {
+    "id": 825,
+    "event_ability_category_id": 481,
+    "name": "[期間限定] ﾀﾌﾀｰﾝ山の戦い~ﾛｱｰﾇが燃える日~・斬・突",
+    "flavor_text": "・タフターン山の戦い~ロアーヌが燃える日~で能力値アップ時の上昇量が3倍＆【魔龍公の鎖】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2305
+  },
+  {
+    "id": 826,
+    "event_ability_category_id": 482,
+    "name": "[期間限定] ﾛﾏﾝｼﾝｸﾞ ｻｶﾞ THE STAGE記念BOX・RS3・詩人",
+    "flavor_text": "・ロマンシング サガ THE STAGE記念BOXで能力値アップ時の上昇量が4倍<br>・メインで能力値アップ時の上昇量が4倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2304
+  },
+  {
+    "id": 827,
+    "event_ability_category_id": 483,
+    "name": "[期間限定] ﾛﾏﾝｼﾝｸﾞ ｻｶﾞ THE STAGE記念BOX・突・陰",
+    "flavor_text": "・ロマンシング サガ THE STAGE記念BOXで能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2303
+  },
+  {
+    "id": 828,
+    "event_ability_category_id": 484,
+    "name": "[期間限定] 運試し！3周年カウントダウンクエスト",
+    "flavor_text": "・運試し！3周年カウントダウンクエストで、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2313
+  },
+  {
+    "id": 829,
+    "event_ability_category_id": 485,
+    "name": "[期間限定] 3周年記念①",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2350
+  },
+  {
+    "id": 830,
+    "event_ability_category_id": 486,
+    "name": "[期間限定] 3周年記念・大剣・銃",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2345
+  },
+  {
+    "id": 831,
+    "event_ability_category_id": 487,
+    "name": "[期間限定] 3周年記念スタートダッシュ育成応援",
+    "flavor_text": "・メイン（Normal/Hard）で能力値アップ時の上昇量が5倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2355
+  },
+  {
+    "id": 832,
+    "event_ability_category_id": 487,
+    "name": "[期間限定] 3周年記念スタートダッシュ育成応援",
+    "flavor_text": "・3周年記念！ミラクルデイパレード（Normal/Hard）で能力値アップ時の上昇量が5倍（2021/12/27 4:00まで）",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2358
+  },
+  {
+    "id": 833,
+    "event_ability_category_id": 488,
+    "name": "[期間限定] 3周年記念！ﾐﾗｸﾙﾃﾞｲﾊﾟﾚｰﾄﾞ・斧・体術",
+    "flavor_text": "・3周年記念！ミラクルデイパレードで能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2360
+  },
+  {
+    "id": 834,
+    "event_ability_category_id": 489,
+    "name": "[期間限定] 3周年記念！ミラクルデイパレード",
+    "flavor_text": "・3周年記念！ミラクルデイパレードで能力値アップ時の上昇量が2倍＆【ミラクルスイーツ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2365
+  },
+  {
+    "id": 835,
+    "event_ability_category_id": 490,
+    "name": "[期間限定] 3周年当日記念",
+    "flavor_text": "・3周年記念！ミラクルデイパレードで能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2370
+  },
+  {
+    "id": 836,
+    "event_ability_category_id": 491,
+    "name": "[期間限定] 3周年記念アザミの超特訓道場",
+    "flavor_text": "・3周年記念アザミの超特訓道場で、専用スタイルピースが追加ドロップ",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2357
+  },
+  {
+    "id": 837,
+    "event_ability_category_id": 493,
+    "name": "[期間限定] 七英雄襲来！暗闇の制圧戦",
+    "flavor_text": "・七英雄襲来！暗闇の制圧戦で能力値アップ時の上昇量が2倍＆【光の精気】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2385
+  },
+  {
+    "id": 838,
+    "event_ability_category_id": 494,
+    "name": "[期間限定] 七英雄襲来！暗闇の制圧戦・RS2・詩人",
+    "flavor_text": "・七英雄襲来！暗闇の制圧戦で能力値アップ時の上昇量が2倍＆【光の精気】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2380
+  },
+  {
+    "id": 839,
+    "event_ability_category_id": 495,
+    "name": "[期間限定] 3周年記念！ワンダーナイトパレード",
+    "flavor_text": "・3周年記念！ワンダーナイトパレードで能力値アップ時の上昇量が2倍＆【ワンダーチョコ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2400
+  },
+  {
+    "id": 840,
+    "event_ability_category_id": 496,
+    "name": "[期間限定] 3周年記念！ﾜﾝﾀﾞｰﾅｲﾄﾊﾟﾚｰﾄﾞ・熱・雷",
+    "flavor_text": "・3周年記念！ワンダーナイトパレードで能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2395
+  },
+  {
+    "id": 841,
+    "event_ability_category_id": 497,
+    "name": "[期間限定] 3周年記念！ﾜﾝﾀﾞｰﾅｲﾄﾊﾟﾚｰﾄﾞ・SSG・US",
+    "flavor_text": "・3周年記念！ワンダーナイトパレードで能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2390
+  },
+  {
+    "id": 842,
+    "event_ability_category_id": 498,
+    "name": "[期間限定] 雪降る聖夜の制圧戦",
+    "flavor_text": "・雪降る聖夜の制圧戦で能力値アップ時の上昇量が2倍＆【きらめくオーナメント】が追加ドロップ＆【クリスマスベル】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2415
+  },
+  {
+    "id": 843,
+    "event_ability_category_id": 499,
+    "name": "[期間限定] 雪降る聖夜の制圧戦・棍棒",
+    "flavor_text": "・雪降る聖夜の制圧戦で能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2410
+  },
+  {
+    "id": 844,
+    "event_ability_category_id": 500,
+    "name": "[期間限定] 雪降る聖夜の制圧戦・陽",
+    "flavor_text": "・雪降る聖夜の制圧戦で能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2405
+  },
+  {
+    "id": 845,
+    "event_ability_category_id": 501,
+    "name": "[期間限定] 雪降る聖夜の制圧戦・SSG・US",
+    "flavor_text": "・雪降る聖夜の制圧戦で能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2395
+  },
+  {
+    "id": 846,
+    "event_ability_category_id": 502,
+    "name": "[期間限定] 年越しの超鍛錬道場",
+    "flavor_text": "・年越しの超鍛錬道場で能力値アップ時の上昇量が2倍＆【しめ縄飾り】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2430
+  },
+  {
+    "id": 847,
+    "event_ability_category_id": 503,
+    "name": "[期間限定] 年越しシリーズ別育成応援①",
+    "flavor_text": "・年越しの超鍛錬道場で能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2420
+  },
+  {
+    "id": 848,
+    "event_ability_category_id": 504,
+    "name": "[期間限定] 年越しシリーズ別育成応援②",
+    "flavor_text": "・年越しの超鍛錬道場で能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2425
+  },
+  {
+    "id": 849,
+    "event_ability_category_id": 505,
+    "name": "[期間限定] 3周年記念②",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2349
+  },
+  {
+    "id": 850,
+    "event_ability_category_id": 506,
+    "name": "[期間限定] 迎春！ニューイヤーBOX・SF1",
+    "flavor_text": "・迎春！ニューイヤーBOXで能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍<br>・十二支合戦と邪神の塔で能力値アップ時の上昇量が2倍<br>・幸運の白い猫と最終皇帝で能力値アップ時の上昇量が2倍<br>・超巨大！鏡もちの塔！で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2490
+  },
+  {
+    "id": 851,
+    "event_ability_category_id": 507,
+    "name": "[期間限定] 迎春！ニューイヤーBOX・剣",
+    "flavor_text": "・迎春！ニューイヤーBOXで能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍<br>・十二支合戦と邪神の塔で能力値アップ時の上昇量が2倍<br>・幸運の白い猫と最終皇帝で能力値アップ時の上昇量が2倍<br>・超巨大！鏡もちの塔！で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2485
+  },
+  {
+    "id": 852,
+    "event_ability_category_id": 508,
+    "name": "[期間限定] メインリアム編第2話公開記念",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍<br>・迎春！ニューイヤーBOXで能力値アップ時の上昇量が2倍<br>・十二支合戦と邪神の塔で能力値アップ時の上昇量が2倍<br>・幸運の白い猫と最終皇帝で能力値アップ時の上昇量が2倍<br>・超巨大！鏡もちの塔！で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2499
+  },
+  {
+    "id": 853,
+    "event_ability_category_id": 509,
+    "name": "[期間限定] メインリアム編第2話公開記念・小剣",
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍<br>・迎春！ニューイヤーBOXで能力値アップ時の上昇量が2倍<br>・十二支合戦と邪神の塔で能力値アップ時の上昇量が2倍<br>・幸運の白い猫と最終皇帝で能力値アップ時の上昇量が2倍<br>・超巨大！鏡もちの塔！で能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2495
+  },
+  {
+    "id": 854,
+    "event_ability_category_id": 510,
+    "name": "[期間限定] 超巨大！鏡もちの塔！Ⅰ",
+    "flavor_text": "・超巨大！鏡もちの塔！で能力値アップ時の上昇量が2倍＆【あつあつの切り餅】ドロップ量が50%UP<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2445
+  },
+  {
+    "id": 855,
+    "event_ability_category_id": 511,
+    "name": "[期間限定] 超巨大！鏡もちの塔！Ⅱ",
+    "flavor_text": "・超巨大！鏡もちの塔！で能力値アップ時の上昇量が2倍＆【あつあつの切り餅】ドロップ量が20%UP<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2440
+  },
+  {
+    "id": 856,
+    "event_ability_category_id": 512,
+    "name": "[期間限定] 超巨大！鏡もちの塔！Ⅲ",
+    "flavor_text": "・超巨大！鏡もちの塔！で能力値アップ時の上昇量が2倍＆【あつあつの切り餅】ドロップ量が10%UP<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2435
+  },
+  {
+    "id": 857,
+    "event_ability_category_id": 513,
+    "name": "[期間限定] 幸運の白い猫と最終皇帝Ⅰ",
+    "flavor_text": "・幸運の白い猫と最終皇帝で能力値アップ時の上昇量が2倍＆【お神酒】ドロップ量が50%UP<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2455
+  },
+  {
+    "id": 858,
+    "event_ability_category_id": 514,
+    "name": "[期間限定] 幸運の白い猫と最終皇帝Ⅱ",
+    "flavor_text": "・幸運の白い猫と最終皇帝で能力値アップ時の上昇量が2倍＆【お神酒】ドロップ量が20%UP<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2450
+  },
+  {
+    "id": 859,
+    "event_ability_category_id": 515,
+    "name": "[期間限定] 十二支合戦と邪神の塔Ⅰ",
+    "flavor_text": "・十二支合戦と邪神の塔で能力値アップ時の上昇量が2倍＆【紅白かまぼこ】が追加ドロップ＆【ぽち袋】ドロップ量が50%UP<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2470
+  },
+  {
+    "id": 860,
+    "event_ability_category_id": 516,
+    "name": "[期間限定] 十二支合戦と邪神の塔Ⅱ",
+    "flavor_text": "・十二支合戦と邪神の塔で能力値アップ時の上昇量が2倍＆【紅白かまぼこ】が追加ドロップ＆【ぽち袋】ドロップ量が20%UP<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2465
+  },
+  {
+    "id": 861,
+    "event_ability_category_id": 517,
+    "name": "[期間限定] 十二支合戦と邪神の塔・剣",
+    "flavor_text": "・十二支合戦と邪神の塔で能力値アップ時の上昇量が2倍＆【紅白かまぼこ】が追加ドロップ＆【ぽち袋】ドロップ量が20%UP<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2460
+  },
+  {
+    "id": 862,
+    "event_ability_category_id": 518,
+    "name": "[期間限定] ３３３で勝ち残れ！虎吼のタッグマッチ",
+    "flavor_text": "・３３３で勝ち残れ！虎吼のタッグマッチで能力値アップ時の上昇量が2倍＆【闘志注入ドリンク】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2505
+  },
+  {
+    "id": 863,
+    "event_ability_category_id": 519,
+    "name": "[期間限定] 333で勝ち残れ！虎吼のﾀｯｸﾞﾏｯﾁ・体術・銃",
+    "flavor_text": "・３３３で勝ち残れ！虎吼のタッグマッチで能力値アップ時の上昇量が2倍＆【闘志注入ドリンク】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2500
+  },
+  {
+    "id": 864,
+    "event_ability_category_id": 520,
+    "name": "[期間限定] 雪降る聖夜の制圧戦・SaGaRS",
+    "flavor_text": "・雪降る聖夜の制圧戦で能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 2397
+  }
+]

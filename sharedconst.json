@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "key": "shop_wheel_daily_count_limit",
+    "type": "integer",
+    "value": "6"
+  },
+  {
+    "id": 2,
+    "key": "shop_wheel_cool_time_hours",
+    "type": "integer",
+    "value": "0"
+  },
+  {
+    "id": 3,
+    "key": "field_map_interval_seconds",
+    "type": "integer",
+    "value": "10"
+  },
+  {
+    "id": 4,
+    "key": "guild_creation_jewel",
+    "type": "integer",
+    "value": "100"
+  },
+  {
+    "id": 5,
+    "key": "guild_entry_limit",
+    "type": "integer",
+    "value": "30"
+  },
+  {
+    "id": 6,
+    "key": "guild_sub_leader_limit",
+    "type": "integer",
+    "value": "3"
+  },
+  {
+    "id": 7,
+    "key": "guild_chat_display_limit_days",
+    "type": "integer",
+    "value": "7"
+  },
+  {
+    "id": 8,
+    "key": "guild_chat_display_limit_count",
+    "type": "integer",
+    "value": "300"
+  },
+  {
+    "id": 9,
+    "key": "material_max_quantity",
+    "type": "integer",
+    "value": "99999"
+  },
+  {
+    "id": 10,
+    "key": "party_group_count",
+    "type": "integer",
+    "value": "5"
+  },
+  {
+    "id": 11,
+    "key": "party_count",
+    "type": "integer",
+    "value": "10"
+  },
+  {
+    "id": 12,
+    "key": "music_shop_event_point_id",
+    "type": "integer",
+    "value": "920001"
+  },
+  {
+    "id": 13,
+    "key": "limit_island_party_group_count",
+    "type": "integer",
+    "value": "2"
+  },
+  {
+    "id": 14,
+    "key": "limit_island_party_count",
+    "type": "integer",
+    "value": "10"
+  },
+  {
+    "id": 15,
+    "key": "guild_name_update_aurum",
+    "type": "integer",
+    "value": "50000"
+  },
+  {
+    "id": 16,
+    "key": "event_ability_potion_limit_seconds",
+    "type": "integer",
+    "value": "86400"
+  },
+  {
+    "id": 17,
+    "key": "favorite_armor_set_group_count",
+    "type": "integer",
+    "value": "10"
+  },
+  {
+    "id": 18,
+    "key": "favorite_armor_set_count",
+    "type": "integer",
+    "value": "5"
+  },
+  {
+    "id": 19,
+    "key": "expedition_grind_limit",
+    "type": "integer",
+    "value": "100"
+  },
+  {
+    "id": 20,
+    "key": "holy_stone_max_count",
+    "type": "integer",
+    "value": "9950"
+  },
+  {
+    "id": 21,
+    "key": "auto_rematch_daily_default_count",
+    "type": "integer",
+    "value": "50"
+  }
+]

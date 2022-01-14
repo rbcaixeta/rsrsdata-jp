@@ -1,0 +1,92 @@
+[
+  {
+    "id": 501300100,
+    "name": "【A】武器強化素材",
+    "enhancement_material_type": 1,
+    "max_quantity": 9999,
+    "rarity": 3,
+    "selling_price": 100,
+    "sort_order": 993,
+    "flavor_text": "武器を強化させるためのAランク素材。鍛冶屋で使用できる。メインやイベントなどで入手できる。"
+  },
+  {
+    "id": 501400100,
+    "name": "【S】武器強化素材",
+    "enhancement_material_type": 1,
+    "max_quantity": 9999,
+    "rarity": 4,
+    "selling_price": 250,
+    "sort_order": 996,
+    "flavor_text": "武器を強化させるためのSランク素材。鍛冶屋で使用できる。メインやイベントなどで入手できる。"
+  },
+  {
+    "id": 501500100,
+    "name": "【SS】武器強化素材",
+    "enhancement_material_type": 1,
+    "max_quantity": 9999,
+    "rarity": 5,
+    "selling_price": 500,
+    "sort_order": 999,
+    "flavor_text": "武器を強化させるためのSSランク素材。鍛冶屋で使用できる。メインやイベントなどで入手できる。"
+  },
+  {
+    "id": 502300100,
+    "name": "【A】主防具強化素材",
+    "enhancement_material_type": 2,
+    "max_quantity": 9999,
+    "rarity": 3,
+    "selling_price": 100,
+    "sort_order": 992,
+    "flavor_text": "主防具を強化させるためのAランク素材。鍛冶屋で使用できる。メインやイベントなどで入手できる。"
+  },
+  {
+    "id": 502400100,
+    "name": "【S】主防具強化素材",
+    "enhancement_material_type": 2,
+    "max_quantity": 9999,
+    "rarity": 4,
+    "selling_price": 250,
+    "sort_order": 995,
+    "flavor_text": "主防具を強化させるためのSランク素材。鍛冶屋で使用できる。メインやイベントなどで入手できる。"
+  },
+  {
+    "id": 502500100,
+    "name": "【SS】主防具強化素材",
+    "enhancement_material_type": 2,
+    "max_quantity": 9999,
+    "rarity": 5,
+    "selling_price": 500,
+    "sort_order": 998,
+    "flavor_text": "主防具を強化させるためのSSランク素材。鍛冶屋で使用できる。メインやイベントなどで入手できる。"
+  },
+  {
+    "id": 503300100,
+    "name": "【A】副防具強化素材",
+    "enhancement_material_type": 3,
+    "max_quantity": 9999,
+    "rarity": 3,
+    "selling_price": 100,
+    "sort_order": 991,
+    "flavor_text": "副防具を強化させるためのAランク素材。鍛冶屋で使用できる。メインやイベントなどで入手できる。"
+  },
+  {
+    "id": 503400100,
+    "name": "【S】副防具強化素材",
+    "enhancement_material_type": 3,
+    "max_quantity": 9999,
+    "rarity": 4,
+    "selling_price": 250,
+    "sort_order": 994,
+    "flavor_text": "副防具を強化させるためのSランク素材。鍛冶屋で使用できる。メインやイベントなどで入手できる。"
+  },
+  {
+    "id": 503500100,
+    "name": "【SS】副防具強化素材",
+    "enhancement_material_type": 3,
+    "max_quantity": 9999,
+    "rarity": 5,
+    "selling_price": 500,
+    "sort_order": 997,
+    "flavor_text": "副防具を強化させるためのSSランク素材。鍛冶屋で使用できる。メインやイベントなどで入手できる。"
+  }
+]

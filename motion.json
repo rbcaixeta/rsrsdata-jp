@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "motion_name": "WalkDown",
+    "name": "歩き(前)"
+  },
+  {
+    "id": 2,
+    "motion_name": "WalkRight",
+    "name": "歩き(右)"
+  },
+  {
+    "id": 3,
+    "motion_name": "WalkUp",
+    "name": "歩き(後)"
+  },
+  {
+    "id": 4,
+    "motion_name": "WalkLeft",
+    "name": "歩き(左)"
+  },
+  {
+    "id": 5,
+    "motion_name": "DashDown",
+    "name": "走り(前)"
+  },
+  {
+    "id": 6,
+    "motion_name": "DashRight",
+    "name": "走り(右)"
+  },
+  {
+    "id": 7,
+    "motion_name": "DashUp",
+    "name": "走り(後)"
+  },
+  {
+    "id": 8,
+    "motion_name": "DashLeft",
+    "name": "走り(左)"
+  },
+  {
+    "id": 9,
+    "motion_name": "Ready",
+    "name": "行動選択"
+  },
+  {
+    "id": 10,
+    "motion_name": "ReadyFinish",
+    "name": "行動決定(技)"
+  },
+  {
+    "id": 11,
+    "motion_name": "SpellReadyFinish",
+    "name": "行動決定(術)"
+  },
+  {
+    "id": 12,
+    "motion_name": "SpellCast",
+    "name": "術発動"
+  },
+  {
+    "id": 13,
+    "motion_name": "StatusUp",
+    "name": "成長"
+  },
+  {
+    "id": 14,
+    "motion_name": "Win",
+    "name": "勝利"
+  },
+  {
+    "id": 15,
+    "motion_name": "Damage",
+    "name": "ダメージ"
+  }
+]

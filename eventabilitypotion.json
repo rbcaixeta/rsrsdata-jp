@@ -1,0 +1,93 @@
+[
+  {
+    "id": 940001,
+    "name": "[全]能力成長アップ剤[期間限定]",
+    "flavor_text": "[期間限定]使用から24時間、全てのバトルクエストで全てのスタイルの能力値アップ時の上昇量が3倍になるアイテム（2021/6/25 4:00まで）",
+    "max_quantity": 9999,
+    "expired_at": 1624561200,
+    "icon": 940001,
+    "sort_order": 9999,
+    "style_event_ability_id": 0,
+    "event_ability_group_id": 601,
+    "duration_seconds": 86400,
+    "event_ability_potion_type": 1
+  },
+  {
+    "id": 940002,
+    "name": "[5/29 12:00まで][全]ヴァルドーの鍛錬極意書",
+    "flavor_text": "[期間限定]使用から1時間、全てのバトルクエストで全てのスタイルの能力値アップ時の上昇量が8倍になるアイテム（2021/5/29 12:00まで）",
+    "max_quantity": 9999,
+    "expired_at": 1622257200,
+    "icon": 940004,
+    "sort_order": 9998,
+    "style_event_ability_id": 0,
+    "event_ability_group_id": 738,
+    "duration_seconds": 3600,
+    "event_ability_potion_type": 1
+  },
+  {
+    "id": 940003,
+    "name": "[5/30 12:00まで][全]ヴァルドーの鍛錬極意書",
+    "flavor_text": "[期間限定]使用から1時間、全てのバトルクエストで全てのスタイルの能力値アップ時の上昇量が8倍になるアイテム（2021/5/30 12:00まで）",
+    "max_quantity": 9999,
+    "expired_at": 1622343600,
+    "icon": 940005,
+    "sort_order": 9998,
+    "style_event_ability_id": 0,
+    "event_ability_group_id": 738,
+    "duration_seconds": 3600,
+    "event_ability_potion_type": 1
+  },
+  {
+    "id": 940004,
+    "name": "[5/31 12:00まで][全]ヴァルドーの鍛錬極意書",
+    "flavor_text": "[期間限定]使用から1時間、全てのバトルクエストで全てのスタイルの能力値アップ時の上昇量が8倍になるアイテム（2021/5/31 12:00まで）",
+    "max_quantity": 9999,
+    "expired_at": 1622430000,
+    "icon": 940006,
+    "sort_order": 9998,
+    "style_event_ability_id": 0,
+    "event_ability_group_id": 738,
+    "duration_seconds": 3600,
+    "event_ability_potion_type": 1
+  },
+  {
+    "id": 940005,
+    "name": "[6/5 12:00まで][全]ヴァルドーの鍛錬極意書",
+    "flavor_text": "[期間限定]使用から1時間、全てのバトルクエストで全てのスタイルの能力値アップ時の上昇量が8倍になるアイテム（2021/6/5 12:00まで）",
+    "max_quantity": 9999,
+    "expired_at": 1622862000,
+    "icon": 940007,
+    "sort_order": 9998,
+    "style_event_ability_id": 0,
+    "event_ability_group_id": 738,
+    "duration_seconds": 3600,
+    "event_ability_potion_type": 1
+  },
+  {
+    "id": 940006,
+    "name": "[6/6 12:00まで][全]ヴァルドーの鍛錬極意書",
+    "flavor_text": "[期間限定]使用から1時間、全てのバトルクエストで全てのスタイルの能力値アップ時の上昇量が8倍になるアイテム（2021/6/6 12:00まで）",
+    "max_quantity": 9999,
+    "expired_at": 1622948400,
+    "icon": 940008,
+    "sort_order": 9998,
+    "style_event_ability_id": 0,
+    "event_ability_group_id": 738,
+    "duration_seconds": 3600,
+    "event_ability_potion_type": 1
+  },
+  {
+    "id": 940007,
+    "name": "[6/7 12:00まで][全]ヴァルドーの鍛錬極意書",
+    "flavor_text": "[期間限定]使用から1時間、全てのバトルクエストで全てのスタイルの能力値アップ時の上昇量が8倍になるアイテム（2021/6/7 12:00まで）",
+    "max_quantity": 9999,
+    "expired_at": 1623034800,
+    "icon": 940009,
+    "sort_order": 9998,
+    "style_event_ability_id": 0,
+    "event_ability_group_id": 738,
+    "duration_seconds": 3600,
+    "event_ability_potion_type": 1
+  }
+]

@@ -1,0 +1,716 @@
+[
+  {
+    "id": 1001,
+    "area_id": 920001,
+    "start_at": 1594580400,
+    "end_at": 1595185199,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1001,
+      1002,
+      1003
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1002,
+    "area_id": 920001,
+    "start_at": 1595790000,
+    "end_at": 1596394799,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1004,
+      1005,
+      1006
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1003,
+    "area_id": 920001,
+    "start_at": 1596999600,
+    "end_at": 1597604399,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1007,
+      1008,
+      1009
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1004,
+    "area_id": 920001,
+    "start_at": 1598209200,
+    "end_at": 1598813999,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1010,
+      1011,
+      1012
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1005,
+    "area_id": 920001,
+    "start_at": 1599418800,
+    "end_at": 1600023599,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1013,
+      1014,
+      1015
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1006,
+    "area_id": 920001,
+    "start_at": 1600628400,
+    "end_at": 1601233199,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1016,
+      1017,
+      1018
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1007,
+    "area_id": 920001,
+    "start_at": 1601838000,
+    "end_at": 1602442799,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1019,
+      1020,
+      1021
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1008,
+    "area_id": 920001,
+    "start_at": 1603047600,
+    "end_at": 1603652399,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1022,
+      1023,
+      1024
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1009,
+    "area_id": 920001,
+    "start_at": 1604257200,
+    "end_at": 1604861999,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1025,
+      1026,
+      1027
+    ],
+    "limit_island_reward_set_id": 1002
+  },
+  {
+    "id": 1010,
+    "area_id": 920001,
+    "start_at": 1605466800,
+    "end_at": 1606071599,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1028,
+      1029,
+      1030
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1011,
+    "area_id": 920001,
+    "start_at": 1606676400,
+    "end_at": 1607281199,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1031,
+      1032,
+      1033
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1012,
+    "area_id": 920001,
+    "start_at": 1607886000,
+    "end_at": 1608490799,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1034,
+      1035,
+      1036
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1013,
+    "area_id": 920001,
+    "start_at": 1609095600,
+    "end_at": 1609700399,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1037,
+      1038,
+      1039
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1014,
+    "area_id": 920001,
+    "start_at": 1610305200,
+    "end_at": 1610909999,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1040,
+      1041,
+      1042
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1015,
+    "area_id": 920001,
+    "start_at": 1611514800,
+    "end_at": 1612119599,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1043,
+      1044,
+      1045
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1016,
+    "area_id": 920001,
+    "start_at": 1612724400,
+    "end_at": 1613329199,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1046,
+      1047,
+      1048
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1017,
+    "area_id": 920001,
+    "start_at": 1613934000,
+    "end_at": 1614538799,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1049,
+      1050,
+      1051
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1018,
+    "area_id": 920001,
+    "start_at": 1615143600,
+    "end_at": 1615748399,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1052,
+      1053,
+      1054
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1019,
+    "area_id": 920001,
+    "start_at": 1616353200,
+    "end_at": 1616957999,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1055,
+      1056,
+      1057
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1020,
+    "area_id": 920001,
+    "start_at": 1617562800,
+    "end_at": 1618167599,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1058,
+      1059,
+      1060
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1021,
+    "area_id": 920001,
+    "start_at": 1618772400,
+    "end_at": 1619377199,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1061,
+      1062,
+      1063
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1022,
+    "area_id": 920001,
+    "start_at": 1619982000,
+    "end_at": 1620586799,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1064,
+      1065,
+      1066
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1023,
+    "area_id": 920001,
+    "start_at": 1621191600,
+    "end_at": 1621796399,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1067,
+      1068,
+      1069
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1024,
+    "area_id": 920001,
+    "start_at": 1622401200,
+    "end_at": 1623005999,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1070,
+      1071,
+      1072
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1025,
+    "area_id": 920001,
+    "start_at": 1623610800,
+    "end_at": 1624215599,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1073,
+      1074,
+      1075
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1026,
+    "area_id": 920001,
+    "start_at": 1624820400,
+    "end_at": 1625425199,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1076,
+      1077,
+      1078
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1027,
+    "area_id": 920001,
+    "start_at": 1626030000,
+    "end_at": 1626634799,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1079,
+      1080,
+      1081
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1028,
+    "area_id": 920001,
+    "start_at": 1627239600,
+    "end_at": 1627844399,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1082,
+      1083,
+      1084
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1029,
+    "area_id": 920001,
+    "start_at": 1628449200,
+    "end_at": 1629053999,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1085,
+      1086,
+      1087
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1030,
+    "area_id": 920001,
+    "start_at": 1629658800,
+    "end_at": 1630263599,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1088,
+      1089,
+      1090
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1031,
+    "area_id": 920001,
+    "start_at": 1630868400,
+    "end_at": 1631473199,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1091,
+      1092,
+      1093
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1032,
+    "area_id": 920001,
+    "start_at": 1632078000,
+    "end_at": 1632682799,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1094,
+      1095,
+      1096
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1033,
+    "area_id": 920001,
+    "start_at": 1633287600,
+    "end_at": 1633892399,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1097,
+      1098,
+      1099
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1044,
+    "area_id": 920001,
+    "start_at": 1634497200,
+    "end_at": 1635101999,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1100,
+      1101,
+      1102
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1045,
+    "area_id": 920001,
+    "start_at": 1635706800,
+    "end_at": 1636311599,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1103,
+      1104,
+      1105
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1046,
+    "area_id": 920001,
+    "start_at": 1636916400,
+    "end_at": 1637521199,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1106,
+      1107,
+      1108
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1047,
+    "area_id": 920001,
+    "start_at": 1638126000,
+    "end_at": 1638730799,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1109,
+      1110,
+      1111
+    ],
+    "limit_island_reward_set_id": 1003
+  },
+  {
+    "id": 1048,
+    "area_id": 920001,
+    "start_at": 1639335600,
+    "end_at": 1639940399,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1112,
+      1113,
+      1114
+    ],
+    "limit_island_reward_set_id": 1003
+  },
+  {
+    "id": 1049,
+    "area_id": 920001,
+    "start_at": 1640545200,
+    "end_at": 1641149999,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1115,
+      1116,
+      1117
+    ],
+    "limit_island_reward_set_id": 1003
+  },
+  {
+    "id": 1050,
+    "area_id": 920001,
+    "start_at": 1641754800,
+    "end_at": 1642359599,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1118,
+      1119,
+      1120
+    ],
+    "limit_island_reward_set_id": 1003
+  },
+  {
+    "id": 1051,
+    "area_id": 920001,
+    "start_at": 1642964400,
+    "end_at": 1643569199,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1121,
+      1122,
+      1123
+    ],
+    "limit_island_reward_set_id": 1003
+  },
+  {
+    "id": 1052,
+    "area_id": 920001,
+    "start_at": 1644174000,
+    "end_at": 1644778799,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1124,
+      1125,
+      1126
+    ],
+    "limit_island_reward_set_id": 1003
+  }
+]

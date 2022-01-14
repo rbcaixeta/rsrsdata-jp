@@ -1,0 +1,5408 @@
+[
+  {
+    "id": 10001,
+    "login_bonus_type": 2,
+    "name": "毎日ログインボーナス",
+    "display_priority": 2
+  },
+  {
+    "id": 10002,
+    "login_bonus_type": 1,
+    "name": "スタートダッシュログインボーナス",
+    "display_priority": 9000
+  },
+  {
+    "id": 10003,
+    "login_bonus_type": 5,
+    "name": "ゴールドパック",
+    "display_priority": 998
+  },
+  {
+    "id": 10005,
+    "login_bonus_type": 4,
+    "name": "カムバックログインボーナス",
+    "display_priority": 9500
+  },
+  {
+    "id": 10006,
+    "login_bonus_type": 3,
+    "name": "累計ログインボーナス",
+    "display_priority": 1
+  },
+  {
+    "id": 10007,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サ・ガ2発売記念ログインボーナス",
+    "display_priority": 1502
+  },
+  {
+    "id": 10008,
+    "login_bonus_type": 1,
+    "name": "Sa・Ga1＆2＆3発売記念ログインボーナス",
+    "display_priority": 1503
+  },
+  {
+    "id": 10011,
+    "login_bonus_type": 1,
+    "name": "アンリミテッド:サガ発売記念ログインボーナス",
+    "display_priority": 1504
+  },
+  {
+    "id": 10012,
+    "login_bonus_type": 1,
+    "name": "63万DL記念ログインボーナス",
+    "display_priority": 1500
+  },
+  {
+    "id": 10013,
+    "login_bonus_type": 1,
+    "name": "100万DL記念ログインボーナス",
+    "display_priority": 1700
+  },
+  {
+    "id": 10014,
+    "login_bonus_type": 1,
+    "name": "200万DL記念ログインボーナス",
+    "display_priority": 1600
+  },
+  {
+    "id": 10015,
+    "login_bonus_type": 1,
+    "name": "クリスマスログインボーナス",
+    "display_priority": 1505
+  },
+  {
+    "id": 10016,
+    "login_bonus_type": 99,
+    "name": "無料ランキング1位記念の報酬です。",
+    "display_priority": 1550
+  },
+  {
+    "id": 10017,
+    "login_bonus_type": 99,
+    "name": "白結晶交換所ラインナップ調整のお詫びです。",
+    "display_priority": 10
+  },
+  {
+    "id": 10018,
+    "login_bonus_type": 99,
+    "name": "遠征アップデートにご協力いただいたお礼です。ありがとうございます。",
+    "display_priority": 9
+  },
+  {
+    "id": 10019,
+    "login_bonus_type": 99,
+    "name": "12/10(月)のメンテナンスにご協力いただきありがとうございました。",
+    "display_priority": 8
+  },
+  {
+    "id": 10020,
+    "login_bonus_type": 99,
+    "name": "バランス調整の事前告知に関するお詫び",
+    "display_priority": 7
+  },
+  {
+    "id": 10021,
+    "login_bonus_type": 99,
+    "name": "「スービエ襲来」の不具合に関するお詫び",
+    "display_priority": 6
+  },
+  {
+    "id": 10022,
+    "login_bonus_type": 99,
+    "name": "白結晶交換所に関するお詫び",
+    "display_priority": 5
+  },
+  {
+    "id": 10023,
+    "login_bonus_type": 99,
+    "name": "バージョンアップにて修正した不具合で、ご迷惑をおかけしたお詫びです。",
+    "display_priority": 4
+  },
+  {
+    "id": 10024,
+    "login_bonus_type": 1,
+    "name": "2019年1月ログインボーナス",
+    "display_priority": 1509
+  },
+  {
+    "id": 10025,
+    "login_bonus_type": 1,
+    "name": "謹賀新年ログインボーナス",
+    "display_priority": 1510
+  },
+  {
+    "id": 10026,
+    "login_bonus_type": 1,
+    "name": "大感謝!!1000万DL突破記念ログインボーナス",
+    "display_priority": 1590
+  },
+  {
+    "id": 10027,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サ・ガ発売記念ログインボーナス",
+    "display_priority": 1511
+  },
+  {
+    "id": 10028,
+    "login_bonus_type": 1,
+    "name": "公式生放送記念ログインボーナス",
+    "display_priority": 1601
+  },
+  {
+    "id": 10029,
+    "login_bonus_type": 1,
+    "name": "2019年2月ログインボーナス - 前半 -",
+    "display_priority": 1512
+  },
+  {
+    "id": 10030,
+    "login_bonus_type": 1,
+    "name": "リリース63日記念ログインボーナス",
+    "display_priority": 1800
+  },
+  {
+    "id": 10031,
+    "login_bonus_type": 1,
+    "name": "2019年2月ログインボーナス - 後半 -",
+    "display_priority": 1511
+  },
+  {
+    "id": 10032,
+    "login_bonus_type": 1,
+    "name": "TVCM放映記念ログインボーナス①",
+    "display_priority": 1802
+  },
+  {
+    "id": 10033,
+    "login_bonus_type": 1,
+    "name": "TVCM放映記念ログインボーナス②",
+    "display_priority": 1801
+  },
+  {
+    "id": 10034,
+    "login_bonus_type": 1,
+    "name": "リリース100日記念ログインボーナス",
+    "display_priority": 1805
+  },
+  {
+    "id": 10035,
+    "login_bonus_type": 1,
+    "name": "2019年3月ログインボーナス",
+    "display_priority": 1512
+  },
+  {
+    "id": 10036,
+    "login_bonus_type": 1,
+    "name": "リリース100日記念ログインボーナス",
+    "display_priority": 1804
+  },
+  {
+    "id": 10037,
+    "login_bonus_type": 1,
+    "name": "リリース100日記念ログインボーナス",
+    "display_priority": 1803
+  },
+  {
+    "id": 10038,
+    "login_bonus_type": 1,
+    "name": "裏道場実装記念ログインボーナス",
+    "display_priority": 1515
+  },
+  {
+    "id": 10039,
+    "login_bonus_type": 1,
+    "name": "2019年4月ログインボーナス",
+    "display_priority": 1520
+  },
+  {
+    "id": 10040,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア２発売記念ログインボーナス",
+    "display_priority": 1519
+  },
+  {
+    "id": 10041,
+    "login_bonus_type": 1,
+    "name": "大感謝!!1500万DL突破記念ログインボーナス",
+    "display_priority": 1808
+  },
+  {
+    "id": 10042,
+    "login_bonus_type": 1,
+    "name": "侯国大学 能力統一テスト開催記念ログインボーナス",
+    "display_priority": 1523
+  },
+  {
+    "id": 10043,
+    "login_bonus_type": 1,
+    "name": "出現！ヴァンパイアレディ開催記念ログインボーナス",
+    "display_priority": 1521
+  },
+  {
+    "id": 10044,
+    "login_bonus_type": 1,
+    "name": "遺跡潜りログインボーナス",
+    "display_priority": 1522
+  },
+  {
+    "id": 10045,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ -ミンストレルソング-発売日記念ログインボーナス",
+    "display_priority": 1524
+  },
+  {
+    "id": 10046,
+    "login_bonus_type": 1,
+    "name": "2019年5月ログインボーナス",
+    "display_priority": 1525
+  },
+  {
+    "id": 10047,
+    "login_bonus_type": 1,
+    "name": "GWログインボーナス（螺旋ガチャチケット）",
+    "display_priority": 1528
+  },
+  {
+    "id": 10048,
+    "login_bonus_type": 1,
+    "name": "GWログインボーナス（プラチナガチャチケット）",
+    "display_priority": 1527
+  },
+  {
+    "id": 10049,
+    "login_bonus_type": 1,
+    "name": "GWログインボーナス（[期間限定]GW記念スタミナ回復剤(小)）",
+    "display_priority": 1526
+  },
+  {
+    "id": 10050,
+    "login_bonus_type": 1,
+    "name": "リリース163日記念ログインボーナス",
+    "display_priority": 1807
+  },
+  {
+    "id": 10051,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第１弾 カウントダウンログインボーナス - あと5日 -",
+    "display_priority": 1810
+  },
+  {
+    "id": 10052,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第１弾 カウントダウンログインボーナス - あと4日 -",
+    "display_priority": 1810
+  },
+  {
+    "id": 10053,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第１弾 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 1810
+  },
+  {
+    "id": 10054,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第１弾 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 1810
+  },
+  {
+    "id": 10055,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第１弾 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 1810
+  },
+  {
+    "id": 10056,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary Show 第１弾ログインボーナス",
+    "display_priority": 1830
+  },
+  {
+    "id": 10057,
+    "login_bonus_type": 1,
+    "name": "SS確定10連プラチナガチャチケットプレゼント！",
+    "display_priority": 1900
+  },
+  {
+    "id": 10058,
+    "login_bonus_type": 1,
+    "name": "6月3日（ロマサガの日）記念！ログインボーナス",
+    "display_priority": 1840
+  },
+  {
+    "id": 10059,
+    "login_bonus_type": 1,
+    "name": "ゴールドピースログインボーナス",
+    "display_priority": 1000
+  },
+  {
+    "id": 10060,
+    "login_bonus_type": 1,
+    "name": "祝！1位記念！ログインボーナス",
+    "display_priority": 2000
+  },
+  {
+    "id": 10061,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第２弾 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 1845
+  },
+  {
+    "id": 10062,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第２弾 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 1845
+  },
+  {
+    "id": 10063,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第２弾 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 1845
+  },
+  {
+    "id": 10064,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary Show 第２弾ログインボーナス",
+    "display_priority": 1850
+  },
+  {
+    "id": 10065,
+    "login_bonus_type": 1,
+    "name": "祝！半周年！ログインボーナス",
+    "display_priority": 1990
+  },
+  {
+    "id": 10066,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第３弾 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 1855
+  },
+  {
+    "id": 10067,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第３弾 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 1855
+  },
+  {
+    "id": 10068,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary 第３弾 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 1855
+  },
+  {
+    "id": 10069,
+    "login_bonus_type": 5,
+    "name": "Romancingパック",
+    "display_priority": 998
+  },
+  {
+    "id": 10070,
+    "login_bonus_type": 1,
+    "name": "Half Anniversary Show 第３弾ログインボーナス",
+    "display_priority": 1860
+  },
+  {
+    "id": 10071,
+    "login_bonus_type": 1,
+    "name": "リリース200日記念ログインボーナス",
+    "display_priority": 1870
+  },
+  {
+    "id": 10072,
+    "login_bonus_type": 1,
+    "name": "祝！1位記念！ログインボーナス",
+    "display_priority": 2001
+  },
+  {
+    "id": 10073,
+    "login_bonus_type": 1,
+    "name": "2019年7月ログインボーナス",
+    "display_priority": 1810
+  },
+  {
+    "id": 10074,
+    "login_bonus_type": 1,
+    "name": "初！両プラットフォーム1位獲得記念！ログインボーナス",
+    "display_priority": 2100
+  },
+  {
+    "id": 10075,
+    "login_bonus_type": 1,
+    "name": "R杯実装記念ログインボーナス",
+    "display_priority": 1880
+  },
+  {
+    "id": 10076,
+    "login_bonus_type": 1,
+    "name": "七英雄の日記念ログインボーナス",
+    "display_priority": 1890
+  },
+  {
+    "id": 10077,
+    "login_bonus_type": 1,
+    "name": "武器聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 1946
+  },
+  {
+    "id": 10078,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア発売日記念ログインボーナス",
+    "display_priority": 1910
+  },
+  {
+    "id": 10079,
+    "login_bonus_type": 1,
+    "name": "着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 1905
+  },
+  {
+    "id": 10080,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 1900
+  },
+  {
+    "id": 10081,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス 緋色の野望 1周年記念カウントダウン ログインボーナス - あと3日 -",
+    "display_priority": 1915
+  },
+  {
+    "id": 10082,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス 緋色の野望 1周年記念カウントダウン ログインボーナス - あと2日 -",
+    "display_priority": 1915
+  },
+  {
+    "id": 10083,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス 緋色の野望 1周年記念カウントダウン ログインボーナス - あと1日 -",
+    "display_priority": 1915
+  },
+  {
+    "id": 10084,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス 緋色の野望 1周年記念ログインボーナス",
+    "display_priority": 1920
+  },
+  {
+    "id": 10085,
+    "login_bonus_type": 1,
+    "name": "夏休みを遊び尽くせ！ログインボーナス！",
+    "display_priority": 1925
+  },
+  {
+    "id": 10086,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス 緋色の野望 発売日記念ログインボーナス",
+    "display_priority": 1930
+  },
+  {
+    "id": 10087,
+    "login_bonus_type": 1,
+    "name": "ロックブーケ着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 1935
+  },
+  {
+    "id": 10088,
+    "login_bonus_type": 1,
+    "name": "R杯リニューアル記念ログインボーナス",
+    "display_priority": 1945
+  },
+  {
+    "id": 10089,
+    "login_bonus_type": 1,
+    "name": "263日記念ログインボーナス",
+    "display_priority": 1955
+  },
+  {
+    "id": 10090,
+    "login_bonus_type": 1,
+    "name": "遠征追加記念ログインボーナス",
+    "display_priority": 1940
+  },
+  {
+    "id": 10091,
+    "login_bonus_type": 1,
+    "name": "守護者・シルバードラゴン開催記念ログインボーナス",
+    "display_priority": 1950
+  },
+  {
+    "id": 10092,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第１弾 カウントダウンログインボーナス - あと5日 -",
+    "display_priority": 1965
+  },
+  {
+    "id": 10093,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第１弾 カウントダウンログインボーナス - あと4日 -",
+    "display_priority": 1970
+  },
+  {
+    "id": 10094,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第１弾 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 1975
+  },
+  {
+    "id": 10095,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第１弾 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 1980
+  },
+  {
+    "id": 10096,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第１弾 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 1985
+  },
+  {
+    "id": 10097,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 ログインボーナス",
+    "display_priority": 2100
+  },
+  {
+    "id": 10098,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第１弾記念 ログインボーナス",
+    "display_priority": 1988
+  },
+  {
+    "id": 10099,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第２弾 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 1995
+  },
+  {
+    "id": 10100,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第２弾 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2000
+  },
+  {
+    "id": 10101,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第２弾 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2005
+  },
+  {
+    "id": 10102,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第３弾 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 2026
+  },
+  {
+    "id": 10103,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第３弾 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2027
+  },
+  {
+    "id": 10104,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第３弾 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2028
+  },
+  {
+    "id": 10105,
+    "login_bonus_type": 1,
+    "name": "カタリナ着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 1986
+  },
+  {
+    "id": 10106,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第２弾記念 ログインボーナス",
+    "display_priority": 2015
+  },
+  {
+    "id": 10107,
+    "login_bonus_type": 1,
+    "name": "Romancing Award 2019 第３弾記念 ログインボーナス",
+    "display_priority": 2040
+  },
+  {
+    "id": 10108,
+    "login_bonus_type": 1,
+    "name": "「ロマンシング サガ３」HDリマスター版発売日決定記念ログインボーナス",
+    "display_priority": 2025
+  },
+  {
+    "id": 10109,
+    "login_bonus_type": 1,
+    "name": "主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2010
+  },
+  {
+    "id": 10110,
+    "login_bonus_type": 1,
+    "name": "失われし記憶 - カタリナ - 開催記念ログインボーナス",
+    "display_priority": 2030
+  },
+  {
+    "id": 10111,
+    "login_bonus_type": 99,
+    "name": "「ロマンシング サガ３」HDリマスター版発売日決定記念のプレゼントです。",
+    "display_priority": 2026
+  },
+  {
+    "id": 10112,
+    "login_bonus_type": 1,
+    "name": "リリース300日記念ログインボーナス",
+    "display_priority": 2045
+  },
+  {
+    "id": 10113,
+    "login_bonus_type": 1,
+    "name": "財宝の穴開催記念ログインボーナス",
+    "display_priority": 2036
+  },
+  {
+    "id": 10114,
+    "login_bonus_type": 1,
+    "name": "ジニー着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 2053
+  },
+  {
+    "id": 10115,
+    "login_bonus_type": 1,
+    "name": "2019年10月ログインボーナス",
+    "display_priority": 2041
+  },
+  {
+    "id": 10116,
+    "login_bonus_type": 1,
+    "name": "青の試練 開催記念 ログインボーナス",
+    "display_priority": 2056
+  },
+  {
+    "id": 10117,
+    "login_bonus_type": 1,
+    "name": "赤の試練 開催記念 ログインボーナス",
+    "display_priority": 2055
+  },
+  {
+    "id": 10118,
+    "login_bonus_type": 1,
+    "name": "手合せ・メタルブラック開催記念ログインボーナス",
+    "display_priority": 2060
+  },
+  {
+    "id": 10119,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2054
+  },
+  {
+    "id": 10120,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 2055
+  },
+  {
+    "id": 10121,
+    "login_bonus_type": 1,
+    "name": "Twitterフォロワー数15万人達成記念ログインボーナス",
+    "display_priority": 2965
+  },
+  {
+    "id": 10122,
+    "login_bonus_type": 1,
+    "name": "2019年11月ログインボーナス",
+    "display_priority": 2065
+  },
+  {
+    "id": 10123,
+    "login_bonus_type": 1,
+    "name": "R杯リニューアル第2弾記念ログインボーナス",
+    "display_priority": 2063
+  },
+  {
+    "id": 10124,
+    "login_bonus_type": 1,
+    "name": "螺旋回廊階層追加記念 ログインボーナス",
+    "display_priority": 2061
+  },
+  {
+    "id": 10126,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2070
+  },
+  {
+    "id": 10127,
+    "login_bonus_type": 1,
+    "name": "カタリナ着せ替え衣装復刻発売記念ログインボーナス",
+    "display_priority": 2075
+  },
+  {
+    "id": 10128,
+    "login_bonus_type": 1,
+    "name": "エレン着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 2080
+  },
+  {
+    "id": 10129,
+    "login_bonus_type": 1,
+    "name": "祝！「ロマンシング サガ３」HDリマスター版発売記念 ログインボーナス",
+    "display_priority": 2085
+  },
+  {
+    "id": 10131,
+    "login_bonus_type": 1,
+    "name": "祝！「ロマンシング サガ３」HDリマスター版発売記念カウントダウン ログインボーナス - あと3日 -",
+    "display_priority": 2071
+  },
+  {
+    "id": 10132,
+    "login_bonus_type": 1,
+    "name": "祝！「ロマンシング サガ３」HDリマスター版発売記念カウントダウン ログインボーナス - あと2日 -",
+    "display_priority": 2072
+  },
+  {
+    "id": 10133,
+    "login_bonus_type": 1,
+    "name": "祝！「ロマンシング サガ３」HDリマスター版発売記念カウントダウン ログインボーナス - あと1日 -",
+    "display_priority": 2073
+  },
+  {
+    "id": 10134,
+    "login_bonus_type": 1,
+    "name": "追憶の伏魔殿 開催記念ログインボーナス",
+    "display_priority": 2074
+  },
+  {
+    "id": 10135,
+    "login_bonus_type": 1,
+    "name": "皇帝の決意！クジンシーとの戦い 開催記念ログインボーナス",
+    "display_priority": 2086
+  },
+  {
+    "id": 10136,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 2082
+  },
+  {
+    "id": 10138,
+    "login_bonus_type": 1,
+    "name": "掘り出せ！鉱山洞窟開催記念ログインボーナス",
+    "display_priority": 2083
+  },
+  {
+    "id": 10139,
+    "login_bonus_type": 1,
+    "name": "1周年超感謝祭 カウントダウン ログインボーナス - あと3日 -",
+    "display_priority": 2100
+  },
+  {
+    "id": 10140,
+    "login_bonus_type": 1,
+    "name": "1周年超感謝祭 カウントダウン ログインボーナス - あと2日 -",
+    "display_priority": 2101
+  },
+  {
+    "id": 10141,
+    "login_bonus_type": 1,
+    "name": "1周年超感謝祭 カウントダウン ログインボーナス - あと1日 -",
+    "display_priority": 2102
+  },
+  {
+    "id": 10142,
+    "login_bonus_type": 1,
+    "name": "祝！12月6日で1周年！ログインボーナス",
+    "display_priority": 2505
+  },
+  {
+    "id": 10143,
+    "login_bonus_type": 1,
+    "name": "1周年記念ログインボーナス",
+    "display_priority": 2500
+  },
+  {
+    "id": 10144,
+    "login_bonus_type": 1,
+    "name": "1周年超感謝祭ログインボーナス",
+    "display_priority": 2495
+  },
+  {
+    "id": 10145,
+    "login_bonus_type": 1,
+    "name": "1周年記念!!決戦目前勝利への道！ログインボーナス",
+    "display_priority": 2200
+  },
+  {
+    "id": 10146,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと11日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10147,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと10日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10148,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと9日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10149,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと8日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10150,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと7日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10151,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと6日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10152,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと5日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10153,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと4日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10154,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと3日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10155,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと2日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10156,
+    "login_bonus_type": 1,
+    "name": "フォルネウス襲来まで...あと1日 ログインボーナス",
+    "display_priority": 2195
+  },
+  {
+    "id": 10157,
+    "login_bonus_type": 1,
+    "name": "1周年！山手線ラッピング電車運行記念ログインボーナス",
+    "display_priority": 2145
+  },
+  {
+    "id": 10158,
+    "login_bonus_type": 1,
+    "name": "「ロマサガRS」海外版リリース決定記念！ログインボーナス",
+    "display_priority": 2143
+  },
+  {
+    "id": 10159,
+    "login_bonus_type": 1,
+    "name": "新遠征追加記念ログインボーナス",
+    "display_priority": 2140
+  },
+  {
+    "id": 10160,
+    "login_bonus_type": 1,
+    "name": "363日記念ログインボーナス",
+    "display_priority": 2150
+  },
+  {
+    "id": 10161,
+    "login_bonus_type": 1,
+    "name": "ロマンシングサガ２発売日記念ログインボーナス",
+    "display_priority": 2199
+  },
+  {
+    "id": 10162,
+    "login_bonus_type": 1,
+    "name": "スタートダッシュミッション実装記念！超スタートダッシュログインボーナス",
+    "display_priority": 10000
+  },
+  {
+    "id": 10163,
+    "login_bonus_type": 1,
+    "name": "アンリミテッド：サガ発売日記念ログインボーナス",
+    "display_priority": 2225
+  },
+  {
+    "id": 10168,
+    "login_bonus_type": 1,
+    "name": "サガ30周年突入記念ログインボーナス",
+    "display_priority": 2210
+  },
+  {
+    "id": 10169,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス発売日記念ログインボーナス",
+    "display_priority": 2215
+  },
+  {
+    "id": 10170,
+    "login_bonus_type": 1,
+    "name": "1周年記念!!総力戦!魔海侯フォルネウス！ログインボーナス",
+    "display_priority": 2494
+  },
+  {
+    "id": 10171,
+    "login_bonus_type": 1,
+    "name": "1周年記念!!聖夜の超感謝祭！カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 2230
+  },
+  {
+    "id": 10172,
+    "login_bonus_type": 1,
+    "name": "1周年記念!!聖夜の超感謝祭！カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2230
+  },
+  {
+    "id": 10173,
+    "login_bonus_type": 1,
+    "name": "1周年記念!!聖夜の超感謝祭！カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2230
+  },
+  {
+    "id": 10174,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2240
+  },
+  {
+    "id": 10175,
+    "login_bonus_type": 1,
+    "name": "2020年カウントダウンログインボーナス - あと6日 -",
+    "display_priority": 2237
+  },
+  {
+    "id": 10176,
+    "login_bonus_type": 1,
+    "name": "2020年カウントダウンログインボーナス - あと5日 -",
+    "display_priority": 2237
+  },
+  {
+    "id": 10177,
+    "login_bonus_type": 1,
+    "name": "2020年カウントダウンログインボーナス - あと4日 -",
+    "display_priority": 2237
+  },
+  {
+    "id": 10178,
+    "login_bonus_type": 1,
+    "name": "2020年カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 2237
+  },
+  {
+    "id": 10179,
+    "login_bonus_type": 1,
+    "name": "2020年カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2237
+  },
+  {
+    "id": 10180,
+    "login_bonus_type": 1,
+    "name": "2020年カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2237
+  },
+  {
+    "id": 10181,
+    "login_bonus_type": 1,
+    "name": "クリスマス記念ログインボーナス",
+    "display_priority": 2235
+  },
+  {
+    "id": 10182,
+    "login_bonus_type": 1,
+    "name": "1周年記念!!聖夜の超感謝祭！ログインボーナス",
+    "display_priority": 2493
+  },
+  {
+    "id": 10183,
+    "login_bonus_type": 1,
+    "name": "祝！1位記念！ログインボーナス",
+    "display_priority": 2515
+  },
+  {
+    "id": 10184,
+    "login_bonus_type": 1,
+    "name": "ベストオブ2019優秀賞記念ログインボーナス",
+    "display_priority": 2510
+  },
+  {
+    "id": 10185,
+    "login_bonus_type": 1,
+    "name": "リリース400日記念ログインボーナス",
+    "display_priority": 2555
+  },
+  {
+    "id": 10186,
+    "login_bonus_type": 1,
+    "name": "幸運の謹賀新年祭！遺跡潜りドロップ量2倍ログインボーナス",
+    "display_priority": 2525
+  },
+  {
+    "id": 10187,
+    "login_bonus_type": 1,
+    "name": "幸運の謹賀新年祭ログインボーナス",
+    "display_priority": 2545
+  },
+  {
+    "id": 10188,
+    "login_bonus_type": 1,
+    "name": "幸運の謹賀新年祭！着せ替え衣装再登場記念ログインボーナス",
+    "display_priority": 2530
+  },
+  {
+    "id": 10189,
+    "login_bonus_type": 1,
+    "name": "2020年1月ログインボーナス",
+    "display_priority": 2520
+  },
+  {
+    "id": 10190,
+    "login_bonus_type": 1,
+    "name": "RS1発売日記念 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 2560
+  },
+  {
+    "id": 10191,
+    "login_bonus_type": 1,
+    "name": "RS1発売日記念 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2560
+  },
+  {
+    "id": 10192,
+    "login_bonus_type": 1,
+    "name": "RS1発売日記念 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2560
+  },
+  {
+    "id": 10193,
+    "login_bonus_type": 1,
+    "name": "福袋販売記念ログインボーナス",
+    "display_priority": 2540
+  },
+  {
+    "id": 10195,
+    "login_bonus_type": 1,
+    "name": "幸運の謹賀新年祭！ギュスターヴ着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 2535
+  },
+  {
+    "id": 10196,
+    "login_bonus_type": 1,
+    "name": "RS1発売日記念ログインボーナス",
+    "display_priority": 2565
+  },
+  {
+    "id": 10197,
+    "login_bonus_type": 1,
+    "name": "リリース400日記念！SSアーミックメダルログインボーナス",
+    "display_priority": 2550
+  },
+  {
+    "id": 10198,
+    "login_bonus_type": 1,
+    "name": "モニカ着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 2620
+  },
+  {
+    "id": 10199,
+    "login_bonus_type": 1,
+    "name": "Happy Valentine Carnivalカウントダウンログインボーナス - あと3日 -",
+    "display_priority": 2575
+  },
+  {
+    "id": 10200,
+    "login_bonus_type": 1,
+    "name": "Happy Valentine Carnivalカウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2575
+  },
+  {
+    "id": 10201,
+    "login_bonus_type": 1,
+    "name": "Happy Valentine Carnivalカウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2575
+  },
+  {
+    "id": 10202,
+    "login_bonus_type": 1,
+    "name": "炎を司る者 フレイムタイラント、聖戦士ガラハドとアイスソード開催記念ログインボーナス",
+    "display_priority": 2564
+  },
+  {
+    "id": 10204,
+    "login_bonus_type": 1,
+    "name": "アルジャーノンにスイーツを！イベント再開催記念ログインボーナス",
+    "display_priority": 2590
+  },
+  {
+    "id": 10205,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2570
+  },
+  {
+    "id": 10206,
+    "login_bonus_type": 1,
+    "name": "2020年2月ログインボーナス",
+    "display_priority": 2585
+  },
+  {
+    "id": 10207,
+    "login_bonus_type": 1,
+    "name": "タンザーとの戦い開催記念ログインボーナス",
+    "display_priority": 2610
+  },
+  {
+    "id": 10208,
+    "login_bonus_type": 1,
+    "name": "Happy Valentine Carnivalログインボーナス",
+    "display_priority": 2595
+  },
+  {
+    "id": 10209,
+    "login_bonus_type": 1,
+    "name": "天下分け目のホワイトデー！再開催記念ログインボーナス",
+    "display_priority": 2645
+  },
+  {
+    "id": 10210,
+    "login_bonus_type": 1,
+    "name": "Happy Valentine Carnival 育成応援キャンペーンログインボーナス",
+    "display_priority": 2600
+  },
+  {
+    "id": 10211,
+    "login_bonus_type": 1,
+    "name": "デスとの戦い開催記念ログインボーナス",
+    "display_priority": 2635
+  },
+  {
+    "id": 10212,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2615
+  },
+  {
+    "id": 10213,
+    "login_bonus_type": 1,
+    "name": "ビューネイとの戦い開催記念ログインボーナス",
+    "display_priority": 2624
+  },
+  {
+    "id": 10214,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サ・ガ 舞台化決定記念ログインボーナス",
+    "display_priority": 2632
+  },
+  {
+    "id": 10215,
+    "login_bonus_type": 1,
+    "name": "祝！2000万DL突破記念ログインボーナス",
+    "display_priority": 2726
+  },
+  {
+    "id": 10216,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ スプリングサーカスショーカウントダウン ログインボーナス - あと3日 -",
+    "display_priority": 2640
+  },
+  {
+    "id": 10217,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ スプリングサーカスショーカウントダウン ログインボーナス - あと2日 -",
+    "display_priority": 2640
+  },
+  {
+    "id": 10218,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ スプリングサーカスショーカウントダウン ログインボーナス - あと1日 -",
+    "display_priority": 2640
+  },
+  {
+    "id": 10219,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！スプリングサーカスショー 第1弾 ログインボーナス",
+    "display_priority": 2650
+  },
+  {
+    "id": 10220,
+    "login_bonus_type": 1,
+    "name": "祝！2000万DL記念！ Sビューネイプレゼントログインボーナス",
+    "display_priority": 2655
+  },
+  {
+    "id": 10221,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2665
+  },
+  {
+    "id": 10222,
+    "login_bonus_type": 1,
+    "name": "卵のから交換所にSS副防具追加記念ログインボーナス",
+    "display_priority": 2660
+  },
+  {
+    "id": 10223,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ 育成応援キャンペーン開催記念ログインボーナス 斬+杖",
+    "display_priority": 2710
+  },
+  {
+    "id": 10224,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ 育成応援キャンペーン開催記念ログインボーナス 打+杖",
+    "display_priority": 2715
+  },
+  {
+    "id": 10225,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ 育成応援キャンペーン開催記念ログインボーナス 突+杖",
+    "display_priority": 2720
+  },
+  {
+    "id": 10226,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！スプリングサーカスショー 第2弾 ログインボーナス",
+    "display_priority": 2680
+  },
+  {
+    "id": 10227,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！スプリングサーカスショーログインボーナス",
+    "display_priority": 2728
+  },
+  {
+    "id": 10228,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ スプリングサーカスショー第2弾 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 2670
+  },
+  {
+    "id": 10229,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ スプリングサーカスショー第2弾 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2670
+  },
+  {
+    "id": 10230,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ スプリングサーカスショー第2弾 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2670
+  },
+  {
+    "id": 10231,
+    "login_bonus_type": 1,
+    "name": "ドラゴンルーラーとの戦い開催記念ログインボーナス",
+    "display_priority": 2690
+  },
+  {
+    "id": 10232,
+    "login_bonus_type": 1,
+    "name": "R杯に高難易度バトル追加＆報酬アップ！記念ログインボーナス",
+    "display_priority": 2675
+  },
+  {
+    "id": 10233,
+    "login_bonus_type": 1,
+    "name": "Award 2019 人気投票ゲーム部門 最優秀賞 受賞記念ログインボーナス",
+    "display_priority": 2730
+  },
+  {
+    "id": 10234,
+    "login_bonus_type": 1,
+    "name": "SF2発売日記念着せ替え衣装再登場ログインボーナス",
+    "display_priority": 2748
+  },
+  {
+    "id": 10235,
+    "login_bonus_type": 1,
+    "name": "副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2695
+  },
+  {
+    "id": 10236,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ スプリングサーカスショー第3弾 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 2700
+  },
+  {
+    "id": 10237,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ スプリングサーカスショー第3弾 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2700
+  },
+  {
+    "id": 10238,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！ スプリングサーカスショー第3弾 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2700
+  },
+  {
+    "id": 10239,
+    "login_bonus_type": 1,
+    "name": "SF2発売日記念カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 2740
+  },
+  {
+    "id": 10240,
+    "login_bonus_type": 1,
+    "name": "SF2発売日記念カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2740
+  },
+  {
+    "id": 10241,
+    "login_bonus_type": 1,
+    "name": "SF2発売日記念カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2740
+  },
+  {
+    "id": 10242,
+    "login_bonus_type": 1,
+    "name": "炎の将魔との戦い開催記念ログインボーナス",
+    "display_priority": 2749
+  },
+  {
+    "id": 10243,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ リ・ユニバース 1st Anniversary 公式ビジュアルブック発売記念ログインボーナス",
+    "display_priority": 2702
+  },
+  {
+    "id": 10244,
+    "login_bonus_type": 1,
+    "name": "2000万DL記念！スプリングサーカスショー 第3弾 ログインボーナス",
+    "display_priority": 2705
+  },
+  {
+    "id": 10245,
+    "login_bonus_type": 1,
+    "name": "金獅子姫との戦い開催記念ログインボーナス",
+    "display_priority": 2703
+  },
+  {
+    "id": 10246,
+    "login_bonus_type": 1,
+    "name": "SF2発売日記念ログインボーナス",
+    "display_priority": 2750
+  },
+  {
+    "id": 10247,
+    "login_bonus_type": 1,
+    "name": "2020年4月ログインボーナス",
+    "display_priority": 2741
+  },
+  {
+    "id": 10248,
+    "login_bonus_type": 1,
+    "name": "シルバー着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 2775
+  },
+  {
+    "id": 10249,
+    "login_bonus_type": 1,
+    "name": "メインでSF2発売日記念メダルドロップ！ ログインボーナス",
+    "display_priority": 2765
+  },
+  {
+    "id": 10250,
+    "login_bonus_type": 1,
+    "name": "第2回 侯国大学 能力統一テスト開催記念ログインボーナス",
+    "display_priority": 2780
+  },
+  {
+    "id": 10251,
+    "login_bonus_type": 1,
+    "name": "MS発売日記念カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 2795
+  },
+  {
+    "id": 10252,
+    "login_bonus_type": 1,
+    "name": "MS発売日記念カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2795
+  },
+  {
+    "id": 10253,
+    "login_bonus_type": 1,
+    "name": "MS発売日記念カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2795
+  },
+  {
+    "id": 10255,
+    "login_bonus_type": 1,
+    "name": "開校！侯国大学！再開催記念 ログインボーナス",
+    "display_priority": 2770
+  },
+  {
+    "id": 10256,
+    "login_bonus_type": 1,
+    "name": "リリース500日記念ログインボーナス",
+    "display_priority": 2797
+  },
+  {
+    "id": 10257,
+    "login_bonus_type": 1,
+    "name": "シェラハとの戦い開催記念ログインボーナス",
+    "display_priority": 2800
+  },
+  {
+    "id": 10258,
+    "login_bonus_type": 1,
+    "name": "2020年5月ログインボーナス",
+    "display_priority": 2825
+  },
+  {
+    "id": 10259,
+    "login_bonus_type": 1,
+    "name": "せんせいの集中特訓講座開催記念ログインボーナス",
+    "display_priority": 2790
+  },
+  {
+    "id": 10260,
+    "login_bonus_type": 1,
+    "name": "MS発売日記念 ログインボーナス",
+    "display_priority": 2810
+  },
+  {
+    "id": 10261,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2769
+  },
+  {
+    "id": 10262,
+    "login_bonus_type": 1,
+    "name": "ミルザの塔開催記念ログインボーナス",
+    "display_priority": 2805
+  },
+  {
+    "id": 10263,
+    "login_bonus_type": 1,
+    "name": "副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2794
+  },
+  {
+    "id": 10264,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 2792
+  },
+  {
+    "id": 10265,
+    "login_bonus_type": 1,
+    "name": "制圧いくばい！ Romancing佐賀県開催記念ログインボーナス",
+    "display_priority": 2848
+  },
+  {
+    "id": 10266,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 2829
+  },
+  {
+    "id": 10267,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2830
+  },
+  {
+    "id": 10268,
+    "login_bonus_type": 1,
+    "name": "ワラスボ襲来まで...あと3日 ログインボーナス",
+    "display_priority": 2820
+  },
+  {
+    "id": 10269,
+    "login_bonus_type": 1,
+    "name": "ワラスボ襲来まで...あと2日 ログインボーナス",
+    "display_priority": 2820
+  },
+  {
+    "id": 10270,
+    "login_bonus_type": 1,
+    "name": "ワラスボ襲来まで...あと1日 ログインボーナス",
+    "display_priority": 2820
+  },
+  {
+    "id": 10272,
+    "login_bonus_type": 1,
+    "name": "聖塔白銀の皇帝開催記念ログインボーナス",
+    "display_priority": 2835
+  },
+  {
+    "id": 10273,
+    "login_bonus_type": 1,
+    "name": "制圧いくばい！ Romancing佐賀県にクジンシー&スービエ襲来！ログインボーナス",
+    "display_priority": 2847
+  },
+  {
+    "id": 10274,
+    "login_bonus_type": 1,
+    "name": "制圧いくばい！ Romancing佐賀県にボクオーン襲来！ログインボーナス",
+    "display_priority": 2847
+  },
+  {
+    "id": 10275,
+    "login_bonus_type": 1,
+    "name": "制圧いくばい！ Romancing佐賀県にノエル襲来！ログインボーナス",
+    "display_priority": 2847
+  },
+  {
+    "id": 10276,
+    "login_bonus_type": 1,
+    "name": "制圧いくばい！ Romancing佐賀県にロックブーケ襲来！ログインボーナス",
+    "display_priority": 2847
+  },
+  {
+    "id": 10277,
+    "login_bonus_type": 1,
+    "name": "制圧いくばい！ Romancing佐賀県にダンターグ襲来！ ログインボーナス",
+    "display_priority": 2847
+  },
+  {
+    "id": 10278,
+    "login_bonus_type": 1,
+    "name": "制圧いくばい！ Romancing佐賀県にワグナス襲来！ ログインボーナス",
+    "display_priority": 2847
+  },
+  {
+    "id": 10279,
+    "login_bonus_type": 1,
+    "name": "ワイバーンとの戦い開催記念ログインボーナス",
+    "display_priority": 2849
+  },
+  {
+    "id": 10280,
+    "login_bonus_type": 1,
+    "name": "祝！大型コラボ開催記念！！Romancing佐賀ログインボーナス",
+    "display_priority": 2850
+  },
+  {
+    "id": 10281,
+    "login_bonus_type": 1,
+    "name": "1.5周年 聖王とランス巡礼祭 ログインボーナス",
+    "display_priority": 3000
+  },
+  {
+    "id": 10283,
+    "login_bonus_type": 1,
+    "name": "1.5周年 聖王とランス巡礼祭 着せ替え衣装再登場記念ログインボーナス",
+    "display_priority": 2880
+  },
+  {
+    "id": 10284,
+    "login_bonus_type": 1,
+    "name": "鯱印の金塊収集キャンペーン開催記念ログインボーナス",
+    "display_priority": 2850
+  },
+  {
+    "id": 10285,
+    "login_bonus_type": 1,
+    "name": "祝！1.5周年記念 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 2860
+  },
+  {
+    "id": 10286,
+    "login_bonus_type": 1,
+    "name": "祝！1.5周年記念 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 2860
+  },
+  {
+    "id": 10287,
+    "login_bonus_type": 1,
+    "name": "祝！1.5周年記念 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 2860
+  },
+  {
+    "id": 10288,
+    "login_bonus_type": 1,
+    "name": "忘れられた礼拝堂へ再開催記念ログインボーナス",
+    "display_priority": 2875
+  },
+  {
+    "id": 10290,
+    "login_bonus_type": 1,
+    "name": "6月3日（ロマサガの日）記念！ログインボーナス",
+    "display_priority": 2903
+  },
+  {
+    "id": 10291,
+    "login_bonus_type": 1,
+    "name": "1.5周年 聖王とランス巡礼祭 第一弾ログインボーナス",
+    "display_priority": 2895
+  },
+  {
+    "id": 10292,
+    "login_bonus_type": 1,
+    "name": "副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2840
+  },
+  {
+    "id": 10293,
+    "login_bonus_type": 1,
+    "name": "祝！1位記念！ログインボーナス",
+    "display_priority": 2845
+  },
+  {
+    "id": 10294,
+    "login_bonus_type": 1,
+    "name": "新遠征追加記念ログインボーナス",
+    "display_priority": 2870
+  },
+  {
+    "id": 10295,
+    "login_bonus_type": 1,
+    "name": "槍の試練開催記念ログインボーナス",
+    "display_priority": 2888
+  },
+  {
+    "id": 10296,
+    "login_bonus_type": 1,
+    "name": "聖塔ランスの娘~聖王~前編 開催記念ログインボーナス",
+    "display_priority": 2900
+  },
+  {
+    "id": 10297,
+    "login_bonus_type": 1,
+    "name": "技・術練達実装記念ログインボーナス",
+    "display_priority": 2885
+  },
+  {
+    "id": 10298,
+    "login_bonus_type": 1,
+    "name": "聖塔ランスの娘~聖王~前編 開催まであと5日！ ログインボーナス",
+    "display_priority": 2890
+  },
+  {
+    "id": 10299,
+    "login_bonus_type": 1,
+    "name": "聖塔ランスの娘~聖王~前編 開催まであと4日！ ログインボーナス",
+    "display_priority": 2890
+  },
+  {
+    "id": 10300,
+    "login_bonus_type": 1,
+    "name": "聖塔ランスの娘~聖王~前編 開催まであと3日！ ログインボーナス",
+    "display_priority": 2890
+  },
+  {
+    "id": 10301,
+    "login_bonus_type": 1,
+    "name": "聖塔ランスの娘~聖王~前編 開催まであと2日！ ログインボーナス",
+    "display_priority": 2890
+  },
+  {
+    "id": 10302,
+    "login_bonus_type": 1,
+    "name": "聖塔ランスの娘~聖王~前編 開催まであと1日！ ログインボーナス",
+    "display_priority": 2890
+  },
+  {
+    "id": 10303,
+    "login_bonus_type": 1,
+    "name": "副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2910
+  },
+  {
+    "id": 10304,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 2935
+  },
+  {
+    "id": 10305,
+    "login_bonus_type": 1,
+    "name": "祝！6月6日で1.5周年！ログインボーナス",
+    "display_priority": 3010
+  },
+  {
+    "id": 10306,
+    "login_bonus_type": 1,
+    "name": "1.5周年記念聖王とランス巡礼祭 第2弾 カウントダウンログインボーナス あと3日",
+    "display_priority": 2915
+  },
+  {
+    "id": 10307,
+    "login_bonus_type": 1,
+    "name": "1.5周年記念聖王とランス巡礼祭 第2弾 カウントダウンログインボーナス あと2日",
+    "display_priority": 2915
+  },
+  {
+    "id": 10308,
+    "login_bonus_type": 1,
+    "name": "1.5周年記念聖王とランス巡礼祭 第2弾 カウントダウンログインボーナス あと1日",
+    "display_priority": 2915
+  },
+  {
+    "id": 10309,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 2905
+  },
+  {
+    "id": 10310,
+    "login_bonus_type": 1,
+    "name": "聖塔ランスの娘~聖王~後編 開催記念ログインボーナス",
+    "display_priority": 2920
+  },
+  {
+    "id": 10311,
+    "login_bonus_type": 1,
+    "name": "1.5周年 聖王とランス巡礼祭 第二弾ログインボーナス",
+    "display_priority": 2925
+  },
+  {
+    "id": 10312,
+    "login_bonus_type": 1,
+    "name": "かぶとの試練開催記念ログインボーナス",
+    "display_priority": 2930
+  },
+  {
+    "id": 10313,
+    "login_bonus_type": 1,
+    "name": "1.5周年記念聖王とランス巡礼祭 第3弾 カウントダウンログインボーナス あと3日",
+    "display_priority": 2940
+  },
+  {
+    "id": 10314,
+    "login_bonus_type": 1,
+    "name": "1.5周年記念聖王とランス巡礼祭 第3弾 カウントダウンログインボーナス あと2日",
+    "display_priority": 2940
+  },
+  {
+    "id": 10315,
+    "login_bonus_type": 1,
+    "name": "1.5周年記念聖王とランス巡礼祭 第3弾 カウントダウンログインボーナス あと1日",
+    "display_priority": 2940
+  },
+  {
+    "id": 10316,
+    "login_bonus_type": 1,
+    "name": "いつも応援ありがとう！超感謝ログインボーナス",
+    "display_priority": 2960
+  },
+  {
+    "id": 10317,
+    "login_bonus_type": 1,
+    "name": "ブーツの試練開催記念ログインボーナス",
+    "display_priority": 2950
+  },
+  {
+    "id": 10318,
+    "login_bonus_type": 1,
+    "name": "1.5周年 聖王とランス巡礼祭 第三弾ログインボーナス",
+    "display_priority": 2955
+  },
+  {
+    "id": 10319,
+    "login_bonus_type": 1,
+    "name": "メイン2章第3話公開記念ログインボーナス",
+    "display_priority": 2945
+  },
+  {
+    "id": 10320,
+    "login_bonus_type": 1,
+    "name": "2020年7月ログインボーナス",
+    "display_priority": 3010
+  },
+  {
+    "id": 10321,
+    "login_bonus_type": 1,
+    "name": "南国の楽園グレートアーチ！再開催記念ログインボーナス",
+    "display_priority": 3015
+  },
+  {
+    "id": 10322,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 3040
+  },
+  {
+    "id": 10323,
+    "login_bonus_type": 1,
+    "name": "新陣形追加記念ログインボーナス",
+    "display_priority": 3070
+  },
+  {
+    "id": 10324,
+    "login_bonus_type": 1,
+    "name": "SF1発売日記念ログインボーナス",
+    "display_priority": 3065
+  },
+  {
+    "id": 10325,
+    "login_bonus_type": 1,
+    "name": "SF1発売日記念メダルドロップ！ ログインボーナス",
+    "display_priority": 3090
+  },
+  {
+    "id": 10326,
+    "login_bonus_type": 1,
+    "name": "キャプテンシルバーと玄竜の秘宝開催記念ログインボーナス",
+    "display_priority": 3025
+  },
+  {
+    "id": 10327,
+    "login_bonus_type": 1,
+    "name": "ジョー ブルー ルージュ 着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 3035
+  },
+  {
+    "id": 10328,
+    "login_bonus_type": 1,
+    "name": "アセルス ロックブーケ 着せ替え衣装再登場ログインボーナス",
+    "display_priority": 3030
+  },
+  {
+    "id": 10329,
+    "login_bonus_type": 1,
+    "name": "副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 3085
+  },
+  {
+    "id": 10330,
+    "login_bonus_type": 1,
+    "name": "玄蟲との戦い開催記念ログインボーナス",
+    "display_priority": 3100
+  },
+  {
+    "id": 10331,
+    "login_bonus_type": 1,
+    "name": "SF1発売日記念カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 3055
+  },
+  {
+    "id": 10332,
+    "login_bonus_type": 1,
+    "name": "SF1発売日記念カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 3055
+  },
+  {
+    "id": 10333,
+    "login_bonus_type": 1,
+    "name": "SF1発売日記念カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 3055
+  },
+  {
+    "id": 10335,
+    "login_bonus_type": 1,
+    "name": "最果ての決戦島実装記念ログインボーナス",
+    "display_priority": 3082
+  },
+  {
+    "id": 10336,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 3037
+  },
+  {
+    "id": 10337,
+    "login_bonus_type": 1,
+    "name": "偽の塔と妖魔の君開催記念ログインボーナス",
+    "display_priority": 3060
+  },
+  {
+    "id": 10338,
+    "login_bonus_type": 1,
+    "name": "オルロワージュとの戦い開催記念ログインボーナス",
+    "display_priority": 3080
+  },
+  {
+    "id": 10339,
+    "login_bonus_type": 1,
+    "name": "Romancing SaGa Re;univerSe 海外版リリース記念！ログインボーナス",
+    "display_priority": 3029
+  },
+  {
+    "id": 10340,
+    "login_bonus_type": 1,
+    "name": "芸術の都ファーゴ実装記念ログインボーナス",
+    "display_priority": 3053
+  },
+  {
+    "id": 10341,
+    "login_bonus_type": 1,
+    "name": "ロマ佐賀ミュージック総選挙開催記念ログインボーナス",
+    "display_priority": 3054
+  },
+  {
+    "id": 10342,
+    "login_bonus_type": 1,
+    "name": "ｻｶﾞｽｶ 緋色の野望発売日記念ログインボーナス",
+    "display_priority": 3105
+  },
+  {
+    "id": 10343,
+    "login_bonus_type": 1,
+    "name": "七英雄の日記念ログインボーナス",
+    "display_priority": 3045
+  },
+  {
+    "id": 10344,
+    "login_bonus_type": 1,
+    "name": "ｻｶﾞｽｶ 緋色の野望発売日記念カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 3095
+  },
+  {
+    "id": 10345,
+    "login_bonus_type": 1,
+    "name": "ｻｶﾞｽｶ 緋色の野望発売日記念カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 3095
+  },
+  {
+    "id": 10346,
+    "login_bonus_type": 1,
+    "name": "ｻｶﾞｽｶ 緋色の野望発売日記念カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 3095
+  },
+  {
+    "id": 10347,
+    "login_bonus_type": 1,
+    "name": "鉄人訓練追加記念ログインボーナス",
+    "display_priority": 3052
+  },
+  {
+    "id": 10348,
+    "login_bonus_type": 1,
+    "name": "ロマンシング大激戦追加記念ログインボーナス",
+    "display_priority": 3075
+  },
+  {
+    "id": 10349,
+    "login_bonus_type": 1,
+    "name": "祝！1位記念！ログインボーナス",
+    "display_priority": 3059
+  },
+  {
+    "id": 10350,
+    "login_bonus_type": 1,
+    "name": "ｻｶﾞｽｶ 緋色の野望発売日記念メダルドロップ！ログインボーナス",
+    "display_priority": 3110
+  },
+  {
+    "id": 10351,
+    "login_bonus_type": 1,
+    "name": "メイン2章第4話公開記念ログインボーナス",
+    "display_priority": 3115
+  },
+  {
+    "id": 10352,
+    "login_bonus_type": 1,
+    "name": "始まりの島の賢者開催記念ログインボーナス",
+    "display_priority": 3135
+  },
+  {
+    "id": 10353,
+    "login_bonus_type": 1,
+    "name": "ｻｶﾞｽｶ 緋色の野望BGM追加記念ログインボーナス",
+    "display_priority": 3150
+  },
+  {
+    "id": 10354,
+    "login_bonus_type": 1,
+    "name": "リリース600日記念ログインボーナス",
+    "display_priority": 3120
+  },
+  {
+    "id": 10355,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 3155
+  },
+  {
+    "id": 10356,
+    "login_bonus_type": 1,
+    "name": "ウルピナ エリザベート着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 3165
+  },
+  {
+    "id": 10357,
+    "login_bonus_type": 1,
+    "name": "2020年8月ログインボーナス",
+    "display_priority": 3125
+  },
+  {
+    "id": 10358,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 3160
+  },
+  {
+    "id": 10359,
+    "login_bonus_type": 1,
+    "name": "常夏のふくびき箱開催記念ログインボーナス",
+    "display_priority": 3140
+  },
+  {
+    "id": 10360,
+    "login_bonus_type": 1,
+    "name": "海の主の娘と人魚薬再開催記念ログインボーナス",
+    "display_priority": 3130
+  },
+  {
+    "id": 10361,
+    "login_bonus_type": 1,
+    "name": "サガ 30周年記念Sa・Ga祭ログインボーナス",
+    "display_priority": 3300
+  },
+  {
+    "id": 10362,
+    "login_bonus_type": 1,
+    "name": "技・術練達追加記念ログインボーナス",
+    "display_priority": 3245
+  },
+  {
+    "id": 10363,
+    "login_bonus_type": 1,
+    "name": "SaGa1・2・3BGM追加記念ログインボーナス",
+    "display_priority": 3210
+  },
+  {
+    "id": 10364,
+    "login_bonus_type": 1,
+    "name": "常夏のGOLDEN RUSHログインボーナス",
+    "display_priority": 3145
+  },
+  {
+    "id": 10365,
+    "login_bonus_type": 1,
+    "name": "遠征追加記念ログインボーナス",
+    "display_priority": 3190
+  },
+  {
+    "id": 10366,
+    "login_bonus_type": 1,
+    "name": "ギルドスタンプ追加記念ログインボーナス",
+    "display_priority": 3195
+  },
+  {
+    "id": 10367,
+    "login_bonus_type": 1,
+    "name": "神のゲームと黒と白の塔開催記念ログインボーナス",
+    "display_priority": 3215
+  },
+  {
+    "id": 10368,
+    "login_bonus_type": 1,
+    "name": "副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 3175
+  },
+  {
+    "id": 10369,
+    "login_bonus_type": 1,
+    "name": "シルバー親分との三番稽古開催記念ログインボーナス",
+    "display_priority": 3170
+  },
+  {
+    "id": 10370,
+    "login_bonus_type": 1,
+    "name": "リリース630日記念ログインボーナス",
+    "display_priority": 3185
+  },
+  {
+    "id": 10371,
+    "login_bonus_type": 1,
+    "name": "推し機能実装記念ログインボーナス",
+    "display_priority": 3197
+  },
+  {
+    "id": 10372,
+    "login_bonus_type": 1,
+    "name": "R杯期間限定ルール開催記念ログインボーナス",
+    "display_priority": 3220
+  },
+  {
+    "id": 10374,
+    "login_bonus_type": 1,
+    "name": "サガ 30周年記念Sa・Ga祭 第1弾ログインボーナス",
+    "display_priority": 3295
+  },
+  {
+    "id": 10375,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ 1・2・3 育成応援キャンペーンログインボーナス",
+    "display_priority": 3200
+  },
+  {
+    "id": 10376,
+    "login_bonus_type": 1,
+    "name": "サ・ガ コレクション発売決定記念ログインボーナス",
+    "display_priority": 3205
+  },
+  {
+    "id": 10377,
+    "login_bonus_type": 1,
+    "name": "メイン2章第5話公開記念ログインボーナス",
+    "display_priority": 3180
+  },
+  {
+    "id": 10378,
+    "login_bonus_type": 1,
+    "name": "かみ襲来カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 3235
+  },
+  {
+    "id": 10379,
+    "login_bonus_type": 1,
+    "name": "かみ襲来カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 3235
+  },
+  {
+    "id": 10380,
+    "login_bonus_type": 1,
+    "name": "かみ襲来カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 3235
+  },
+  {
+    "id": 10381,
+    "login_bonus_type": 1,
+    "name": "アポロンとの戦い開催記念ログインボーナス",
+    "display_priority": 3275
+  },
+  {
+    "id": 10382,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 3225
+  },
+  {
+    "id": 10383,
+    "login_bonus_type": 1,
+    "name": "副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 3230
+  },
+  {
+    "id": 10384,
+    "login_bonus_type": 1,
+    "name": "見参！ヤーマスのヒーロー！再開催記念ログインボーナス",
+    "display_priority": 3187
+  },
+  {
+    "id": 10385,
+    "login_bonus_type": 1,
+    "name": "サガ 30周年記念Sa・Ga祭 第2弾ログインボーナス",
+    "display_priority": 3255
+  },
+  {
+    "id": 10386,
+    "login_bonus_type": 1,
+    "name": "総力戦！かみのゲーム開催記念ログインボーナス",
+    "display_priority": 3245
+  },
+  {
+    "id": 10387,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア1・２ 育成応援キャンペーンログインボーナス",
+    "display_priority": 3240
+  },
+  {
+    "id": 10388,
+    "login_bonus_type": 1,
+    "name": "武器・主防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 3250
+  },
+  {
+    "id": 10389,
+    "login_bonus_type": 1,
+    "name": "アポロンとの戦いカウントダウンログインボーナス - あと3日 -",
+    "display_priority": 3260
+  },
+  {
+    "id": 10390,
+    "login_bonus_type": 1,
+    "name": "アポロンとの戦いカウントダウンログインボーナス - あと2日 -",
+    "display_priority": 3260
+  },
+  {
+    "id": 10391,
+    "login_bonus_type": 1,
+    "name": "アポロンとの戦いカウントダウンログインボーナス - あと1日 -",
+    "display_priority": 3260
+  },
+  {
+    "id": 10392,
+    "login_bonus_type": 1,
+    "name": "サガスカ・アンサガ・エンサガ・ロマサガRS 育成応援キャンペーンログインボーナス",
+    "display_priority": 3270
+  },
+  {
+    "id": 10393,
+    "login_bonus_type": 1,
+    "name": "サガ 30周年記念Sa・Ga祭 第3弾ログインボーナス",
+    "display_priority": 3295
+  },
+  {
+    "id": 10397,
+    "login_bonus_type": 1,
+    "name": "全世界累計 2500万ダウンロード突破記念！ログインボーナス",
+    "display_priority": 10005
+  },
+  {
+    "id": 10398,
+    "login_bonus_type": 1,
+    "name": "もう一回！神のゲームと黒と白の塔開催記念ログインボーナス",
+    "display_priority": 3222
+  },
+  {
+    "id": 10399,
+    "login_bonus_type": 1,
+    "name": "螺旋回廊階層追加記念ログインボーナス",
+    "display_priority": 3277
+  },
+  {
+    "id": 10400,
+    "login_bonus_type": 1,
+    "name": "シリーズ別日替わり育成応援キャンペーンログインボーナス",
+    "display_priority": 3280
+  },
+  {
+    "id": 10401,
+    "login_bonus_type": 1,
+    "name": "魔界塔士サ・ガ&サ・ガ２ 秘宝伝説育成応援キャンペーンログインボーナス",
+    "display_priority": 3281
+  },
+  {
+    "id": 10402,
+    "login_bonus_type": 1,
+    "name": "メイン2章第6話公開記念ログインボーナス",
+    "display_priority": 3285
+  },
+  {
+    "id": 10403,
+    "login_bonus_type": 1,
+    "name": "いつも応援ありがとう！ 超感謝ログインボーナス",
+    "display_priority": 3290
+  },
+  {
+    "id": 10404,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サ・ガ&ロマンシング サガ -ミンストレルソング-育成応援キャンペーン開催記念ログインボーナス",
+    "display_priority": 3305
+  },
+  {
+    "id": 10405,
+    "login_bonus_type": 1,
+    "name": "ジュエルビーストとの戦い開催記念ログインボーナス",
+    "display_priority": 3330
+  },
+  {
+    "id": 10406,
+    "login_bonus_type": 1,
+    "name": "聖石洞窟に潜む影開催記念ログインボーナス",
+    "display_priority": 3305
+  },
+  {
+    "id": 10407,
+    "login_bonus_type": 1,
+    "name": "2020年10月ログインボーナス",
+    "display_priority": 3292
+  },
+  {
+    "id": 10408,
+    "login_bonus_type": 1,
+    "name": "聖塔ダーク開催記念ログインボーナス",
+    "display_priority": 3340
+  },
+  {
+    "id": 10409,
+    "login_bonus_type": 1,
+    "name": "武器・主防具・副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 3303
+  },
+  {
+    "id": 10410,
+    "login_bonus_type": 1,
+    "name": "超ザクザク聖石収集祭ログインボーナス",
+    "display_priority": 3310
+  },
+  {
+    "id": 10411,
+    "login_bonus_type": 1,
+    "name": "ピドナの夜の夢再開催記念ログインボーナス",
+    "display_priority": 3341
+  },
+  {
+    "id": 10412,
+    "login_bonus_type": 1,
+    "name": "新陣形追加記念ログインボーナス",
+    "display_priority": 3315
+  },
+  {
+    "id": 10413,
+    "login_bonus_type": 1,
+    "name": "祝！1位記念！ログインボーナス",
+    "display_priority": 3276
+  },
+  {
+    "id": 10414,
+    "login_bonus_type": 1,
+    "name": "馬印の金塊収集キャンペーン開催記念ログインボーナス",
+    "display_priority": 3360
+  },
+  {
+    "id": 10415,
+    "login_bonus_type": 1,
+    "name": "白薔薇姫 メサルティム 零姫着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 3345
+  },
+  {
+    "id": 10416,
+    "login_bonus_type": 1,
+    "name": "SaGa1・2・3BGM追加記念②ログインボーナス",
+    "display_priority": 3283
+  },
+  {
+    "id": 10417,
+    "login_bonus_type": 1,
+    "name": "古城の祝祭と最終試練開催記念ログインボーナス",
+    "display_priority": 3350
+  },
+  {
+    "id": 10418,
+    "login_bonus_type": 1,
+    "name": "祝！1位記念！ログインボーナス",
+    "display_priority": 3335
+  },
+  {
+    "id": 10419,
+    "login_bonus_type": 1,
+    "name": "ラバーウォームとの戦い開催記念ログインボーナス",
+    "display_priority": 3355
+  },
+  {
+    "id": 10420,
+    "login_bonus_type": 1,
+    "name": "リリース700日記念ログインボーナス",
+    "display_priority": 3350
+  },
+  {
+    "id": 10421,
+    "login_bonus_type": 1,
+    "name": "Romancing佐賀マンホール設置記念ログインボーナス",
+    "display_priority": 3380
+  },
+  {
+    "id": 10422,
+    "login_bonus_type": 1,
+    "name": "掘り出せ！鉱山洞窟リニューアル記念ログインボーナス",
+    "display_priority": 3390
+  },
+  {
+    "id": 10423,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ3発売日記念育成応援キャンペーンログインボーナス",
+    "display_priority": 3400
+  },
+  {
+    "id": 10424,
+    "login_bonus_type": 1,
+    "name": "ハッピーハロウィンログインボーナス",
+    "display_priority": 3353
+  },
+  {
+    "id": 10425,
+    "login_bonus_type": 1,
+    "name": "サガ30周年！ロマンシング サガ3発売日記念ログインボーナス",
+    "display_priority": 3425
+  },
+  {
+    "id": 10426,
+    "login_bonus_type": 1,
+    "name": "サガ30周年！ロマンシング サガ3発売日記念第１弾ログインボーナス",
+    "display_priority": 3420
+  },
+  {
+    "id": 10427,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ3発売日当日記念ログインボーナス",
+    "display_priority": 3430
+  },
+  {
+    "id": 10428,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ3BGM追加記念ログインボーナス",
+    "display_priority": 3395
+  },
+  {
+    "id": 10429,
+    "login_bonus_type": 1,
+    "name": "修業者の間リニューアル記念ログインボーナス",
+    "display_priority": 3385
+  },
+  {
+    "id": 10430,
+    "login_bonus_type": 1,
+    "name": "ボストンの遠征特訓開催記念ログインボーナス",
+    "display_priority": 3405
+  },
+  {
+    "id": 10431,
+    "login_bonus_type": 1,
+    "name": "アビスナーガとの戦い開催記念ログインボーナス",
+    "display_priority": 3412
+  },
+  {
+    "id": 10432,
+    "login_bonus_type": 1,
+    "name": "サガ30周年！ロマンシング サガ3発売日記念第２弾ログインボーナス",
+    "display_priority": 3420
+  },
+  {
+    "id": 10433,
+    "login_bonus_type": 1,
+    "name": "着せ替え衣装再登場記念ログインボーナス",
+    "display_priority": 3445
+  },
+  {
+    "id": 10435,
+    "login_bonus_type": 1,
+    "name": "2周年記念聖なる世界塔へ！前編ログインボーナス",
+    "display_priority": 3800
+  },
+  {
+    "id": 10436,
+    "login_bonus_type": 1,
+    "name": "2周年記念ログインボーナス",
+    "display_priority": 3650
+  },
+  {
+    "id": 10437,
+    "login_bonus_type": 1,
+    "name": "祝！12月6日で2周年！ログインボーナス",
+    "display_priority": 3805
+  },
+  {
+    "id": 10438,
+    "login_bonus_type": 1,
+    "name": "2周年記念聖なる世界塔へ！第一弾ログインボーナス",
+    "display_priority": 3560
+  },
+  {
+    "id": 10439,
+    "login_bonus_type": 1,
+    "name": "技・術練達追加記念ログインボーナス",
+    "display_priority": 3525
+  },
+  {
+    "id": 10441,
+    "login_bonus_type": 1,
+    "name": "スタートダッシュミッションHardモード・Very Hardモード開催記念ログインボーナス",
+    "display_priority": 3530
+  },
+  {
+    "id": 10442,
+    "login_bonus_type": 1,
+    "name": "遠征追加記念ログインボーナス",
+    "display_priority": 3515
+  },
+  {
+    "id": 10443,
+    "login_bonus_type": 1,
+    "name": "2020年12月ログインボーナス",
+    "display_priority": 3505
+  },
+  {
+    "id": 10444,
+    "login_bonus_type": 1,
+    "name": "2020年11月ログインボーナス",
+    "display_priority": 3379
+  },
+  {
+    "id": 10445,
+    "login_bonus_type": 1,
+    "name": "武器・主防具・副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 3419
+  },
+  {
+    "id": 10449,
+    "login_bonus_type": 1,
+    "name": "２周年記念 カウントダウンログインボーナス - あと8日 -",
+    "display_priority": 3460
+  },
+  {
+    "id": 10450,
+    "login_bonus_type": 1,
+    "name": "２周年記念 カウントダウンログインボーナス - あと7日 -",
+    "display_priority": 3460
+  },
+  {
+    "id": 10451,
+    "login_bonus_type": 1,
+    "name": "２周年記念 カウントダウンログインボーナス - あと6日 -",
+    "display_priority": 3460
+  },
+  {
+    "id": 10452,
+    "login_bonus_type": 1,
+    "name": "２周年記念 カウントダウンログインボーナス - あと5日 -",
+    "display_priority": 3460
+  },
+  {
+    "id": 10453,
+    "login_bonus_type": 1,
+    "name": "２周年記念 カウントダウンログインボーナス - あと4日 -",
+    "display_priority": 3460
+  },
+  {
+    "id": 10454,
+    "login_bonus_type": 1,
+    "name": "２周年記念 カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 3460
+  },
+  {
+    "id": 10455,
+    "login_bonus_type": 1,
+    "name": "２周年記念 カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 3460
+  },
+  {
+    "id": 10456,
+    "login_bonus_type": 1,
+    "name": "２周年記念 カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 3460
+  },
+  {
+    "id": 10457,
+    "login_bonus_type": 1,
+    "name": "2周年前夜祭記念ログインボーナス",
+    "display_priority": 3500
+  },
+  {
+    "id": 10458,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ 1・2・3 育成応援キャンペーンログインボーナス",
+    "display_priority": 3535
+  },
+  {
+    "id": 10459,
+    "login_bonus_type": 1,
+    "name": "第1回 迷いの世界塔開催記念ログインボーナス",
+    "display_priority": 3557
+  },
+  {
+    "id": 10460,
+    "login_bonus_type": 1,
+    "name": "ギルドスタンプ追加記念ログインボーナス",
+    "display_priority": 3510
+  },
+  {
+    "id": 10461,
+    "login_bonus_type": 1,
+    "name": "最終皇帝（男） 最終皇帝（女） 着せ替え衣装発売記念ログインボーナス",
+    "display_priority": 3450
+  },
+  {
+    "id": 10462,
+    "login_bonus_type": 1,
+    "name": "財宝の穴開催記念ログインボーナス",
+    "display_priority": 3435
+  },
+  {
+    "id": 10463,
+    "login_bonus_type": 1,
+    "name": "メイン2章第7話公開記念ログインボーナス",
+    "display_priority": 3440
+  },
+  {
+    "id": 10464,
+    "login_bonus_type": 1,
+    "name": "第2回 迷いの世界塔開催記念ログインボーナス",
+    "display_priority": 3557
+  },
+  {
+    "id": 10465,
+    "login_bonus_type": 1,
+    "name": "デイリーショップ・ウィークリーショップ・スペシャルショップに商品追加記念ログインボーナス",
+    "display_priority": 3552
+  },
+  {
+    "id": 10467,
+    "login_bonus_type": 1,
+    "name": "メイン2章第8話-前編-公開記念ログインボーナス",
+    "display_priority": 3550
+  },
+  {
+    "id": 10468,
+    "login_bonus_type": 1,
+    "name": "鉄人訓練追加記念ログインボーナス",
+    "display_priority": 3520
+  },
+  {
+    "id": 10469,
+    "login_bonus_type": 1,
+    "name": "2周年記念コインドロップ！ログインボーナス",
+    "display_priority": 3540
+  },
+  {
+    "id": 10470,
+    "login_bonus_type": 1,
+    "name": "2周年記念！財宝の大穴開催記念ログインボーナス",
+    "display_priority": 3545
+  },
+  {
+    "id": 10471,
+    "login_bonus_type": 1,
+    "name": "聖塔 ランスの娘~聖王~ （前編・後編） 難易度・成長しやすさリニューアル記念ログインボーナス",
+    "display_priority": 3455
+  },
+  {
+    "id": 10472,
+    "login_bonus_type": 1,
+    "name": "2周年記念聖なる世界塔へ！第三弾ログインボーナス",
+    "display_priority": 3610
+  },
+  {
+    "id": 10473,
+    "login_bonus_type": 1,
+    "name": "アンリミテッド：サガ発売日記念ログインボーナス",
+    "display_priority": 3596
+  },
+  {
+    "id": 10475,
+    "login_bonus_type": 1,
+    "name": "2周年記念聖なる世界塔へ！第二弾ログインボーナス",
+    "display_priority": 3610
+  },
+  {
+    "id": 10476,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ2発売日記念ログインボーナス",
+    "display_priority": 3561
+  },
+  {
+    "id": 10478,
+    "login_bonus_type": 1,
+    "name": "R杯リニューアル記念ログインボーナス",
+    "display_priority": 3553
+  },
+  {
+    "id": 10479,
+    "login_bonus_type": 1,
+    "name": "新陣形追加記念ログインボーナス",
+    "display_priority": 3580
+  },
+  {
+    "id": 10480,
+    "login_bonus_type": 1,
+    "name": "第3回 迷いの世界塔開催記念ログインボーナス",
+    "display_priority": 3557
+  },
+  {
+    "id": 10481,
+    "login_bonus_type": 1,
+    "name": "遺跡潜りラッシュタイム -斬光石・三光石- 開催記念ログインボーナス",
+    "display_priority": 3575
+  },
+  {
+    "id": 10482,
+    "login_bonus_type": 1,
+    "name": "遺跡潜りラッシュタイム -打光石・三光石- 開催記念ログインボーナス",
+    "display_priority": 3575
+  },
+  {
+    "id": 10483,
+    "login_bonus_type": 1,
+    "name": "遺跡潜りラッシュタイム -突光石・三光石- 開催記念ログインボーナス",
+    "display_priority": 3575
+  },
+  {
+    "id": 10484,
+    "login_bonus_type": 1,
+    "name": "遺跡潜りラッシュタイム -杖光石・三光石- 開催記念ログインボーナス",
+    "display_priority": 3575
+  },
+  {
+    "id": 10485,
+    "login_bonus_type": 1,
+    "name": "遺跡潜りラッシュタイム -鎧光石・三光石- 開催記念ログインボーナス",
+    "display_priority": 3575
+  },
+  {
+    "id": 10486,
+    "login_bonus_type": 1,
+    "name": "遺跡潜りラッシュタイム -甲光石・三光石- 開催記念ログインボーナス",
+    "display_priority": 3575
+  },
+  {
+    "id": 10487,
+    "login_bonus_type": 1,
+    "name": "遺跡潜りラッシュタイム -全光石- 開催記念ログインボーナス",
+    "display_priority": 3575
+  },
+  {
+    "id": 10489,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス発売日記念ログインボーナス",
+    "display_priority": 3565
+  },
+  {
+    "id": 10491,
+    "login_bonus_type": 1,
+    "name": "サ・ガ コレクション発売記念ログインボーナス",
+    "display_priority": 3570
+  },
+  {
+    "id": 10492,
+    "login_bonus_type": 1,
+    "name": "メイン2章第8話-後編-公開記念ログインボーナス",
+    "display_priority": 3582
+  },
+  {
+    "id": 10493,
+    "login_bonus_type": 1,
+    "name": "指輪の試練開催記念ログインボーナス",
+    "display_priority": 3558
+  },
+  {
+    "id": 10494,
+    "login_bonus_type": 1,
+    "name": "2周年記念！Romancing超感謝戦開催記念ログインボーナス",
+    "display_priority": 3562
+  },
+  {
+    "id": 10495,
+    "login_bonus_type": 1,
+    "name": "いつも応援ありがとう！ 超感謝ログインボーナス",
+    "display_priority": 3977
+  },
+  {
+    "id": 10496,
+    "login_bonus_type": 1,
+    "name": "メリークリスマス！星夜のサプライズプレゼント開催記念ログインボーナス",
+    "display_priority": 3586
+  },
+  {
+    "id": 10497,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア１・２ 育成応援キャンペーンログインボーナス",
+    "display_priority": 3560
+  },
+  {
+    "id": 10498,
+    "login_bonus_type": 1,
+    "name": "サガスカ・アンサガ・エンサガ・ロマサガRS 育成応援キャンペーンログインボーナス",
+    "display_priority": 3593
+  },
+  {
+    "id": 10499,
+    "login_bonus_type": 1,
+    "name": "2周年記念！財宝の大穴開催記念ログインボーナス",
+    "display_priority": 3582
+  },
+  {
+    "id": 10500,
+    "login_bonus_type": 1,
+    "name": "モニカのクリスマス大作戦再開催記念ログインボーナス",
+    "display_priority": 3584
+  },
+  {
+    "id": 10501,
+    "login_bonus_type": 1,
+    "name": "クリスマスの奇跡再開催記念ログインボーナス",
+    "display_priority": 3583
+  },
+  {
+    "id": 10502,
+    "login_bonus_type": 1,
+    "name": "メリークリスマス！聖夜のサンタ合戦再開催記念ログインボーナス",
+    "display_priority": 3585
+  },
+  {
+    "id": 10503,
+    "login_bonus_type": 1,
+    "name": "良いお年を！年越し108クエストラッシュ開催記念ログインボーナス",
+    "display_priority": 3600
+  },
+  {
+    "id": 10504,
+    "login_bonus_type": 1,
+    "name": "2周年記念聖なる世界塔へ！後編ログインボーナス",
+    "display_priority": 3802
+  },
+  {
+    "id": 10505,
+    "login_bonus_type": 1,
+    "name": "2周年記念！クリスマスプレゼントクエスト開催記念ログインボーナス",
+    "display_priority": 3587
+  },
+  {
+    "id": 10506,
+    "login_bonus_type": 1,
+    "name": "福袋販売記念ログインボーナス",
+    "display_priority": 3960
+  },
+  {
+    "id": 10507,
+    "login_bonus_type": 1,
+    "name": "良いお年を！限定20回財宝の穴開催記念ログインボーナス",
+    "display_priority": 3599
+  },
+  {
+    "id": 10508,
+    "login_bonus_type": 1,
+    "name": "謹賀新年ログインボーナス",
+    "display_priority": 3990
+  },
+  {
+    "id": 10509,
+    "login_bonus_type": 1,
+    "name": "迎春！オールスター対抗制圧戦！カウントダウンログインボーナス -あと3日-",
+    "display_priority": 3950
+  },
+  {
+    "id": 10510,
+    "login_bonus_type": 1,
+    "name": "迎春！オールスター対抗制圧戦！カウントダウンログインボーナス -あと2日-",
+    "display_priority": 3950
+  },
+  {
+    "id": 10511,
+    "login_bonus_type": 1,
+    "name": "迎春！オールスター対抗制圧戦！カウントダウンログインボーナス -あと1日-",
+    "display_priority": 3950
+  },
+  {
+    "id": 10512,
+    "login_bonus_type": 1,
+    "name": "迎春！オールスター対抗制圧戦！開催記念ログインボーナス",
+    "display_priority": 3970
+  },
+  {
+    "id": 10513,
+    "login_bonus_type": 1,
+    "name": "迎春！オールスター対抗制圧戦！投票クエスト開催記念ログインボーナス",
+    "display_priority": 3965
+  },
+  {
+    "id": 10514,
+    "login_bonus_type": 1,
+    "name": "2021年1月ログインボーナス",
+    "display_priority": 3900
+  },
+  {
+    "id": 10516,
+    "login_bonus_type": 1,
+    "name": "#今年サガに願うことTwitterキャンペーン開催記念ログインボーナス",
+    "display_priority": 3920
+  },
+  {
+    "id": 10517,
+    "login_bonus_type": 1,
+    "name": "武器・主防具・副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 3588
+  },
+  {
+    "id": 10518,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ リ・ユニバースBGM追加記念ログインボーナス",
+    "display_priority": 3594
+  },
+  {
+    "id": 10519,
+    "login_bonus_type": 1,
+    "name": "鉱石交換所リニューアル記念ログインボーナス",
+    "display_priority": 3598
+  },
+  {
+    "id": 10521,
+    "login_bonus_type": 1,
+    "name": "2021年あけましておめでとう！お年玉ログインボーナス",
+    "display_priority": 4050
+  },
+  {
+    "id": 10522,
+    "login_bonus_type": 1,
+    "name": "幸運の白い猫と最終皇帝再開催記念ログインボーナス",
+    "display_priority": 3915
+  },
+  {
+    "id": 10523,
+    "login_bonus_type": 1,
+    "name": "超巨大！鏡もちの塔！再開催記念ログインボーナス",
+    "display_priority": 3910
+  },
+  {
+    "id": 10524,
+    "login_bonus_type": 1,
+    "name": "十二支合戦と邪神の塔開催記念ログインボーナス",
+    "display_priority": 3940
+  },
+  {
+    "id": 10525,
+    "login_bonus_type": 1,
+    "name": "武器・主防具・副防具聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 3987
+  },
+  {
+    "id": 10526,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 3988
+  },
+  {
+    "id": 10527,
+    "login_bonus_type": 1,
+    "name": "みんなで協力！増し増しミッション第１弾開催記念ログインボーナス",
+    "display_priority": 3982
+  },
+  {
+    "id": 10528,
+    "login_bonus_type": 1,
+    "name": "みんなで協力！増し増しミッション第２弾開催記念ログインボーナス",
+    "display_priority": 3982
+  },
+  {
+    "id": 10529,
+    "login_bonus_type": 1,
+    "name": "みんなで協力！増し増しミッション第３弾開催記念ログインボーナス",
+    "display_priority": 4005
+  },
+  {
+    "id": 10530,
+    "login_bonus_type": 1,
+    "name": "どんどんあがれ！花正月の大合戦開催記念ログインボーナス",
+    "display_priority": 3986
+  },
+  {
+    "id": 10531,
+    "login_bonus_type": 1,
+    "name": "祝！1位記念！ログインボーナス",
+    "display_priority": 3974
+  },
+  {
+    "id": 10532,
+    "login_bonus_type": 1,
+    "name": "どんどんあがれ！花正月の大合戦-凧揚げ会場-開催記念ログインボーナス",
+    "display_priority": 3984
+  },
+  {
+    "id": 10533,
+    "login_bonus_type": 1,
+    "name": "螺旋回廊階層追加記念ログインボーナス",
+    "display_priority": 3995
+  },
+  {
+    "id": 10534,
+    "login_bonus_type": 1,
+    "name": "メイン2章第9話公開記念ログインボーナス",
+    "display_priority": 4107
+  },
+  {
+    "id": 10535,
+    "login_bonus_type": 1,
+    "name": "RS1発売日記念メダルドロップ！ログインボーナス",
+    "display_priority": 4017
+  },
+  {
+    "id": 10536,
+    "login_bonus_type": 1,
+    "name": "RS1発売日記念ログインボーナス",
+    "display_priority": 4015
+  },
+  {
+    "id": 10537,
+    "login_bonus_type": 1,
+    "name": "デスへと続く冥府の道、聖戦士ガラハドと死の剣開催記念ログインボーナス",
+    "display_priority": 4010
+  },
+  {
+    "id": 10538,
+    "login_bonus_type": 1,
+    "name": "単改石二改石ドロップキャンペーン開催記念ログインボーナス",
+    "display_priority": 4016
+  },
+  {
+    "id": 10539,
+    "login_bonus_type": 1,
+    "name": "探索！宝物眠る洞窟開催記念ログインボーナス",
+    "display_priority": 4069
+  },
+  {
+    "id": 10540,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サ・ガ＆ロマンシング サ・ガ ワンダースワンカラー版BGM追加記念ログインボーナス",
+    "display_priority": 4000
+  },
+  {
+    "id": 10541,
+    "login_bonus_type": 1,
+    "name": "2021年2月ログインボーナス",
+    "display_priority": 4065
+  },
+  {
+    "id": 10542,
+    "login_bonus_type": 1,
+    "name": "オーラム交換所リニューアル記念ログインボーナス",
+    "display_priority": 4073
+  },
+  {
+    "id": 10543,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 4106
+  },
+  {
+    "id": 10544,
+    "login_bonus_type": 1,
+    "name": "祝！旧正月2021！！開催記念ログインボーナス",
+    "display_priority": 4075
+  },
+  {
+    "id": 10545,
+    "login_bonus_type": 1,
+    "name": "正月おかわり！旧正月開催記念ログインボーナス",
+    "display_priority": 4074
+  },
+  {
+    "id": 10546,
+    "login_bonus_type": 1,
+    "name": "SaGa THE STAGE ~七英雄の帰還~ Amazon Prime Video発売＆ﾃﾞｼﾞﾀﾙ版台本発売記念ﾛｸﾞｲﾝﾎﾞｰﾅｽ",
+    "display_priority": 4105
+  },
+  {
+    "id": 10547,
+    "login_bonus_type": 1,
+    "name": "SaGa THE STAGE ~七英雄の帰還~ BGM追加記念ログインボーナス",
+    "display_priority": 4085
+  },
+  {
+    "id": 10548,
+    "login_bonus_type": 1,
+    "name": "ターム族との戦い 大量討伐せよ！-ターム族-開催記念ログインボーナス",
+    "display_priority": 4095
+  },
+  {
+    "id": 10549,
+    "login_bonus_type": 1,
+    "name": "ターム族との戦い 激闘-リアルクィーン-開催記念ログインボーナス",
+    "display_priority": 4100
+  },
+  {
+    "id": 10550,
+    "login_bonus_type": 1,
+    "name": "七英雄育成応援キャンペーンログインボーナス",
+    "display_priority": 4090
+  },
+  {
+    "id": 10551,
+    "login_bonus_type": 1,
+    "name": "技・術練達追加記念ログインボーナス",
+    "display_priority": 4068
+  },
+  {
+    "id": 10552,
+    "login_bonus_type": 1,
+    "name": "リリース800日記念ログインボーナス",
+    "display_priority": 4080
+  },
+  {
+    "id": 10553,
+    "login_bonus_type": 1,
+    "name": "祝！旧正月2021！！記念武器種別~剣・大剣・斧~育成応援キャンペーンログインボーナス",
+    "display_priority": 4071
+  },
+  {
+    "id": 10554,
+    "login_bonus_type": 1,
+    "name": "祝！旧正月2021！！記念武器種別~体術・銃・棍棒~育成応援キャンペーンログインボーナス",
+    "display_priority": 4071
+  },
+  {
+    "id": 10555,
+    "login_bonus_type": 1,
+    "name": "祝！旧正月2021！！記念武器種別~槍・弓・小剣~育成応援キャンペーンログインボーナス",
+    "display_priority": 4071
+  },
+  {
+    "id": 10556,
+    "login_bonus_type": 1,
+    "name": "祝！旧正月2021！！記念武器種別~杖~育成応援キャンペーンログインボーナス",
+    "display_priority": 4071
+  },
+  {
+    "id": 10557,
+    "login_bonus_type": 1,
+    "name": "祝！旧正月2021！！記念武器種別~全武器種~育成応援キャンペーンログインボーナス",
+    "display_priority": 4071
+  },
+  {
+    "id": 10558,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス - あと8日 -",
+    "display_priority": 4115
+  },
+  {
+    "id": 10559,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス - あと7日 -",
+    "display_priority": 4117
+  },
+  {
+    "id": 10560,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス - あと6日 -",
+    "display_priority": 4119
+  },
+  {
+    "id": 10561,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス - あと5日 -",
+    "display_priority": 4121
+  },
+  {
+    "id": 10562,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス - あと4日 -",
+    "display_priority": 4123
+  },
+  {
+    "id": 10563,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス - あと3日 -",
+    "display_priority": 4125
+  },
+  {
+    "id": 10564,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 4127
+  },
+  {
+    "id": 10565,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 4129
+  },
+  {
+    "id": 10566,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 - SaGa Band Arrangement Album発売記念ログインボーナス",
+    "display_priority": 4137
+  },
+  {
+    "id": 10567,
+    "login_bonus_type": 1,
+    "name": "七英雄凱旋ミッション開催記念ログインボーナス",
+    "display_priority": 4102
+  },
+  {
+    "id": 10568,
+    "login_bonus_type": 1,
+    "name": "「ロマンシング サガ３」繁体字・韓国語版 発売決定記念ログインボーナス",
+    "display_priority": 4072
+  },
+  {
+    "id": 10569,
+    "login_bonus_type": 1,
+    "name": "新陣形追加記念ログインボーナス",
+    "display_priority": 4133
+  },
+  {
+    "id": 10570,
+    "login_bonus_type": 1,
+    "name": "財宝の穴開催記念ログインボーナス",
+    "display_priority": 4111
+  },
+  {
+    "id": 10571,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟リニューアル記念ログインボーナス",
+    "display_priority": 4113
+  },
+  {
+    "id": 10572,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウン祭開催記念ログインボーナス",
+    "display_priority": 4135
+  },
+  {
+    "id": 10573,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア リマスター発売日発表記念ログインボーナス",
+    "display_priority": 4140
+  },
+  {
+    "id": 10574,
+    "login_bonus_type": 1,
+    "name": "Re:Tune Romancing SaGa BATTLE ARRANGE BGM追加記念ログインボーナス",
+    "display_priority": 4084
+  },
+  {
+    "id": 10575,
+    "login_bonus_type": 1,
+    "name": "模擬戦-グゥエイン-開催記念ログインボーナス",
+    "display_priority": 4131
+  },
+  {
+    "id": 10576,
+    "login_bonus_type": 1,
+    "name": "襲来メダルドロップ！ログインボーナス",
+    "display_priority": 4109
+  },
+  {
+    "id": 10577,
+    "login_bonus_type": 1,
+    "name": "呪われし者襲来カウントダウンログインボーナス -あと3日-",
+    "display_priority": 4260
+  },
+  {
+    "id": 10578,
+    "login_bonus_type": 1,
+    "name": "呪われし者襲来カウントダウンログインボーナス -あと2日-",
+    "display_priority": 4260
+  },
+  {
+    "id": 10579,
+    "login_bonus_type": 1,
+    "name": "呪われし者襲来カウントダウンログインボーナス -あと1日-",
+    "display_priority": 4260
+  },
+  {
+    "id": 10580,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ3BGM追加記念ログインボーナス",
+    "display_priority": 4220
+  },
+  {
+    "id": 10581,
+    "login_bonus_type": 1,
+    "name": "アビス四魔貴族制圧戦開催記念ログインボーナス",
+    "display_priority": 4245
+  },
+  {
+    "id": 10582,
+    "login_bonus_type": 1,
+    "name": "暗黒の巨星祭 決戦！四魔貴族育成応援キャンペーンログインボーナス",
+    "display_priority": 4240
+  },
+  {
+    "id": 10583,
+    "login_bonus_type": 1,
+    "name": "2021年3月ログインボーナス",
+    "display_priority": 4215
+  },
+  {
+    "id": 10584,
+    "login_bonus_type": 1,
+    "name": "ギルドスタンプ追加記念ログインボーナス",
+    "display_priority": 4225
+  },
+  {
+    "id": 10585,
+    "login_bonus_type": 1,
+    "name": "能力成長アップ剤追加記念ログインボーナス",
+    "display_priority": 4235
+  },
+  {
+    "id": 10586,
+    "login_bonus_type": 1,
+    "name": "遠征追加記念ログインボーナス",
+    "display_priority": 4230
+  },
+  {
+    "id": 10587,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス -あと3日-",
+    "display_priority": 4355
+  },
+  {
+    "id": 10588,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス -あと2日-",
+    "display_priority": 4355
+  },
+  {
+    "id": 10589,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス -あと1日-",
+    "display_priority": 4355
+  },
+  {
+    "id": 10590,
+    "login_bonus_type": 1,
+    "name": "暗黒の巨星祭 決戦！四魔貴族ログインボーナス",
+    "display_priority": 4250
+  },
+  {
+    "id": 10591,
+    "login_bonus_type": 1,
+    "name": "暗黒の巨星祭ログインボーナス",
+    "display_priority": 4300
+  },
+  {
+    "id": 10592,
+    "login_bonus_type": 1,
+    "name": "挑戦メインミッション開催記念ログインボーナス",
+    "display_priority": 4340
+  },
+  {
+    "id": 10593,
+    "login_bonus_type": 1,
+    "name": "装備メダル交換所追加記念ログインボーナス",
+    "display_priority": 4227
+  },
+  {
+    "id": 10594,
+    "login_bonus_type": 1,
+    "name": "呪われし者との戦い開催記念ログインボーナス",
+    "display_priority": 4345
+  },
+  {
+    "id": 10595,
+    "login_bonus_type": 1,
+    "name": "呪われし者襲来記念ログインボーナス",
+    "display_priority": 4350
+  },
+  {
+    "id": 10596,
+    "login_bonus_type": 1,
+    "name": "オーラム交換所ラインナップ追加記念ログインボーナス",
+    "display_priority": 4335
+  },
+  {
+    "id": 10597,
+    "login_bonus_type": 1,
+    "name": "呪われし者襲来カウントダウンログインボーナス -あと3日-",
+    "display_priority": 4395
+  },
+  {
+    "id": 10598,
+    "login_bonus_type": 1,
+    "name": "呪われし者襲来カウントダウンログインボーナス -あと2日-",
+    "display_priority": 4395
+  },
+  {
+    "id": 10599,
+    "login_bonus_type": 1,
+    "name": "呪われし者襲来カウントダウンログインボーナス -あと1日-",
+    "display_priority": 4395
+  },
+  {
+    "id": 10601,
+    "login_bonus_type": 1,
+    "name": "暗黒の巨星祭 決戦！サルーインログインボーナス",
+    "display_priority": 4378
+  },
+  {
+    "id": 10602,
+    "login_bonus_type": 1,
+    "name": "RS1・MS BGM追加記念ログインボーナス",
+    "display_priority": 4400
+  },
+  {
+    "id": 10603,
+    "login_bonus_type": 1,
+    "name": "暗黒の巨星祭 決戦！サルーイン育成応援キャンペーンログインボーナス",
+    "display_priority": 4370
+  },
+  {
+    "id": 10604,
+    "login_bonus_type": 1,
+    "name": "呪われし者襲来カウントダウンログインボーナス -あと3日-",
+    "display_priority": 4415
+  },
+  {
+    "id": 10605,
+    "login_bonus_type": 1,
+    "name": "呪われし者襲来カウントダウンログインボーナス -あと2日-",
+    "display_priority": 4415
+  },
+  {
+    "id": 10606,
+    "login_bonus_type": 1,
+    "name": "呪われし者襲来カウントダウンログインボーナス -あと1日-",
+    "display_priority": 4415
+  },
+  {
+    "id": 10607,
+    "login_bonus_type": 1,
+    "name": "呪われし者との戦い-打熱陽-開催記念ログインボーナス",
+    "display_priority": 4405
+  },
+  {
+    "id": 10608,
+    "login_bonus_type": 1,
+    "name": "決戦！サルーイン開催記念ログインボーナス",
+    "display_priority": 4385
+  },
+  {
+    "id": 10609,
+    "login_bonus_type": 1,
+    "name": "見捨てられた地の大連戦-呪われし者-開催記念ログインボーナス",
+    "display_priority": 4410
+  },
+  {
+    "id": 10610,
+    "login_bonus_type": 1,
+    "name": "魔塔サルーイン開催記念ログインボーナス",
+    "display_priority": 4375
+  },
+  {
+    "id": 10611,
+    "login_bonus_type": 1,
+    "name": "暗黒の巨星祭 決戦！バートランド育成応援キャンペーンログインボーナス",
+    "display_priority": 4445
+  },
+  {
+    "id": 10612,
+    "login_bonus_type": 1,
+    "name": "暗黒の巨星祭 決戦！バートランドログインボーナス",
+    "display_priority": 4460
+  },
+  {
+    "id": 10613,
+    "login_bonus_type": 1,
+    "name": "メイン2章第10話公開記念ログインボーナス",
+    "display_priority": 4435
+  },
+  {
+    "id": 10614,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 4420
+  },
+  {
+    "id": 10615,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 4425
+  },
+  {
+    "id": 10616,
+    "login_bonus_type": 1,
+    "name": "新陣形追加記念ログインボーナス",
+    "display_priority": 4430
+  },
+  {
+    "id": 10617,
+    "login_bonus_type": 1,
+    "name": "いつも応援ありがとう！超感謝ログインボーナス",
+    "display_priority": 4465
+  },
+  {
+    "id": 10618,
+    "login_bonus_type": 1,
+    "name": "バートランドとの戦い開催記念ログインボーナス",
+    "display_priority": 4455
+  },
+  {
+    "id": 10619,
+    "login_bonus_type": 1,
+    "name": "見捨てられた地の大連戦-バートランド-開催記念ログインボーナス",
+    "display_priority": 4450
+  },
+  {
+    "id": 10620,
+    "login_bonus_type": 1,
+    "name": "呪われし者-バートランド-襲来記念ログインボーナス",
+    "display_priority": 4457
+  },
+  {
+    "id": 10621,
+    "login_bonus_type": 1,
+    "name": "呪われし者-打熱陽-襲来記念ログインボーナス",
+    "display_priority": 4412
+  },
+  {
+    "id": 10622,
+    "login_bonus_type": 1,
+    "name": "2021年4月ログインボーナス",
+    "display_priority": 4475
+  },
+  {
+    "id": 10624,
+    "login_bonus_type": 1,
+    "name": "暗黒の巨星祭財宝の大穴開催記念ログインボーナス",
+    "display_priority": 4470
+  },
+  {
+    "id": 10625,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア２発売日記念ログインボーナス",
+    "display_priority": 4500
+  },
+  {
+    "id": 10626,
+    "login_bonus_type": 1,
+    "name": "SQUARE ENIX JAZZ -SaGa- 発売記念ログインボーナス",
+    "display_priority": 4402
+  },
+  {
+    "id": 10627,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア２BGM追加記念ログインボーナス",
+    "display_priority": 4485
+  },
+  {
+    "id": 10628,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア２発売日当日記念ログインボーナス",
+    "display_priority": 4510
+  },
+  {
+    "id": 10629,
+    "login_bonus_type": 1,
+    "name": "ギュスターヴの剣育成5倍選択ログインボーナス",
+    "display_priority": 4490
+  },
+  {
+    "id": 10630,
+    "login_bonus_type": 1,
+    "name": "水の将魔との戦い開催記念ログインボーナス",
+    "display_priority": 4520
+  },
+  {
+    "id": 10631,
+    "login_bonus_type": 1,
+    "name": "水の将魔との戦い育成5倍選択ログインボーナス",
+    "display_priority": 4515
+  },
+  {
+    "id": 10632,
+    "login_bonus_type": 1,
+    "name": "魔獣討伐出陣開催記念ログインボーナス",
+    "display_priority": 4525
+  },
+  {
+    "id": 10633,
+    "login_bonus_type": 1,
+    "name": "ギュスターヴの剣開催記念ログインボーナス",
+    "display_priority": 4495
+  },
+  {
+    "id": 10634,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティアBGM追加記念ログインボーナス",
+    "display_priority": 4548
+  },
+  {
+    "id": 10635,
+    "login_bonus_type": 1,
+    "name": "忘れられた礼拝堂へ再開催記念ログインボーナス",
+    "display_priority": 4530
+  },
+  {
+    "id": 10636,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア リマスター発売日当日記念ログインボーナス",
+    "display_priority": 4605
+  },
+  {
+    "id": 10637,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア リマスター発売記念キャンペーン 国内版＆海外版同時開催記念ログインボーナス",
+    "display_priority": 4545
+  },
+  {
+    "id": 10639,
+    "login_bonus_type": 1,
+    "name": "祝！サガ フロンティア リマスター発売記念ログインボーナス",
+    "display_priority": 4600
+  },
+  {
+    "id": 10640,
+    "login_bonus_type": 1,
+    "name": "ブラッククロスとの戦い開催記念ログインボーナス",
+    "display_priority": 4580
+  },
+  {
+    "id": 10641,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟開催記念ログインボーナス",
+    "display_priority": 4551
+  },
+  {
+    "id": 10642,
+    "login_bonus_type": 1,
+    "name": "ジョーカーとの戦い育成5倍選択ログインボーナス",
+    "display_priority": 4535
+  },
+  {
+    "id": 10643,
+    "login_bonus_type": 1,
+    "name": "ジョーカーとの戦い開催記念ログインボーナス",
+    "display_priority": 4540
+  },
+  {
+    "id": 10644,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ -ミンストレルソング-発売日記念ログインボーナス",
+    "display_priority": 4566
+  },
+  {
+    "id": 10645,
+    "login_bonus_type": 1,
+    "name": "ブラッククロス戦闘員・四天王育成5倍選択ログインボーナス",
+    "display_priority": 4554
+  },
+  {
+    "id": 10646,
+    "login_bonus_type": 1,
+    "name": "メイン2章第11話公開記念ログインボーナス",
+    "display_priority": 4575
+  },
+  {
+    "id": 10647,
+    "login_bonus_type": 1,
+    "name": "サガ魂ガチャメカ編開催記念ログインボーナス",
+    "display_priority": 4563
+  },
+  {
+    "id": 10648,
+    "login_bonus_type": 1,
+    "name": "新陣形追加記念ログインボーナス",
+    "display_priority": 4570
+  },
+  {
+    "id": 10649,
+    "login_bonus_type": 1,
+    "name": "激突！ブラッククロス四天王開催記念ログインボーナス",
+    "display_priority": 4560
+  },
+  {
+    "id": 10650,
+    "login_bonus_type": 1,
+    "name": "ブラッククロス戦闘員との戦い開催記念ログインボーナス",
+    "display_priority": 4557
+  },
+  {
+    "id": 10651,
+    "login_bonus_type": 1,
+    "name": "2021年5月ログインボーナス",
+    "display_priority": 4610
+  },
+  {
+    "id": 10652,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 4640
+  },
+  {
+    "id": 10653,
+    "login_bonus_type": 1,
+    "name": "ルートヴィッヒとの戦い開催記念ログインボーナス",
+    "display_priority": 4645
+  },
+  {
+    "id": 10654,
+    "login_bonus_type": 1,
+    "name": "オーラム交換所ラインナップ追加記念ログインボーナス",
+    "display_priority": 4625
+  },
+  {
+    "id": 10655,
+    "login_bonus_type": 1,
+    "name": "第１回 迷いの世界塔GWver開催記念ログインボーナス",
+    "display_priority": 4620
+  },
+  {
+    "id": 10656,
+    "login_bonus_type": 1,
+    "name": "GW記念 第１弾 属性別育成応援キャンペーンログインボーナス",
+    "display_priority": 4615
+  },
+  {
+    "id": 10657,
+    "login_bonus_type": 1,
+    "name": "ゴールデンウィーク記念ログインボーナス",
+    "display_priority": 4670
+  },
+  {
+    "id": 10658,
+    "login_bonus_type": 1,
+    "name": "探索！宝物眠る洞窟開催記念ログインボーナス",
+    "display_priority": 4630
+  },
+  {
+    "id": 10659,
+    "login_bonus_type": 1,
+    "name": "激闘！ルートヴィッヒ開催記念ログインボーナス",
+    "display_priority": 4660
+  },
+  {
+    "id": 10660,
+    "login_bonus_type": 1,
+    "name": "GW記念 第２弾 シリーズ別育成応援キャンペーンログインボーナス",
+    "display_priority": 4655
+  },
+  {
+    "id": 10661,
+    "login_bonus_type": 1,
+    "name": "リリース900日記念ログインボーナス",
+    "display_priority": 4720
+  },
+  {
+    "id": 10662,
+    "login_bonus_type": 1,
+    "name": "第２回 迷いの世界塔GWver開催記念ログインボーナス",
+    "display_priority": 4690
+  },
+  {
+    "id": 10663,
+    "login_bonus_type": 1,
+    "name": "祝！1位記念！ログインボーナス",
+    "display_priority": 4608
+  },
+  {
+    "id": 10664,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟発掘キャンペーン開催記念ログインボーナス",
+    "display_priority": 4705
+  },
+  {
+    "id": 10665,
+    "login_bonus_type": 1,
+    "name": "メイン2章第12話公開記念ログインボーナス",
+    "display_priority": 4710
+  },
+  {
+    "id": 10666,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 4675
+  },
+  {
+    "id": 10667,
+    "login_bonus_type": 1,
+    "name": "2.5周年前夜祭記念！オールスター超感謝BOX開催記念ログインボーナス",
+    "display_priority": 4695
+  },
+  {
+    "id": 10668,
+    "login_bonus_type": 1,
+    "name": "裏道場死合・五追加記念ログインボーナス",
+    "display_priority": 4680
+  },
+  {
+    "id": 10669,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス -あと3日-",
+    "display_priority": 4650
+  },
+  {
+    "id": 10670,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス -あと2日-",
+    "display_priority": 4650
+  },
+  {
+    "id": 10671,
+    "login_bonus_type": 1,
+    "name": "襲来カウントダウンログインボーナス -あと1日-",
+    "display_priority": 4650
+  },
+  {
+    "id": 10672,
+    "login_bonus_type": 1,
+    "name": "螺旋回廊ガチャリニューアル記念ログインボーナス",
+    "display_priority": 4700
+  },
+  {
+    "id": 10673,
+    "login_bonus_type": 1,
+    "name": "2.5周年前夜祭記念ログインボーナス",
+    "display_priority": 4760
+  },
+  {
+    "id": 10674,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！カウントダウンログインボーナス -あと5日-",
+    "display_priority": 4715
+  },
+  {
+    "id": 10675,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！カウントダウンログインボーナス -あと4日-",
+    "display_priority": 4725
+  },
+  {
+    "id": 10676,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！カウントダウンログインボーナス -あと3日-",
+    "display_priority": 4730
+  },
+  {
+    "id": 10677,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！カウントダウンログインボーナス -あと2日-",
+    "display_priority": 4735
+  },
+  {
+    "id": 10678,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！カウントダウンログインボーナス -あと1日-",
+    "display_priority": 4740
+  },
+  {
+    "id": 10679,
+    "login_bonus_type": 1,
+    "name": "LINEスタンプ第２弾発売記念ログインボーナス",
+    "display_priority": 4696
+  },
+  {
+    "id": 10680,
+    "login_bonus_type": 1,
+    "name": "SaGa Frontier Original Soundtrack Revival Disc発売記念ログインボーナス",
+    "display_priority": 4805
+  },
+  {
+    "id": 10681,
+    "login_bonus_type": 1,
+    "name": "修業者の間開催記念ログインボーナス",
+    "display_priority": 4780
+  },
+  {
+    "id": 10682,
+    "login_bonus_type": 1,
+    "name": "2.5周年前夜祭記念！シリーズ別育成応援キャンペーンログインボーナス",
+    "display_priority": 4685
+  },
+  {
+    "id": 10683,
+    "login_bonus_type": 1,
+    "name": "トゥ・クアイとの戦い開催記念ログインボーナス",
+    "display_priority": 4855
+  },
+  {
+    "id": 10684,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！大決戦祭 超鍛錬応援キャンペーンログインボーナス",
+    "display_priority": 4820
+  },
+  {
+    "id": 10685,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！大決戦祭ログインボーナス",
+    "display_priority": 5050
+  },
+  {
+    "id": 10687,
+    "login_bonus_type": 1,
+    "name": "祝！2.5周年記念ログインボーナス",
+    "display_priority": 5055
+  },
+  {
+    "id": 10688,
+    "login_bonus_type": 1,
+    "name": "ヴァルドーの超鍛錬道場開催記念ログインボーナス",
+    "display_priority": 4800
+  },
+  {
+    "id": 10689,
+    "login_bonus_type": 1,
+    "name": "2021年6月ログインボーナス",
+    "display_priority": 4765
+  },
+  {
+    "id": 10690,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念コインドロップ！ログインボーナス",
+    "display_priority": 4785
+  },
+  {
+    "id": 10691,
+    "login_bonus_type": 1,
+    "name": "遠征追加記念ログインボーナス",
+    "display_priority": 4775
+  },
+  {
+    "id": 10692,
+    "login_bonus_type": 1,
+    "name": "ギルドスタンプ追加記念ログインボーナス",
+    "display_priority": 4875
+  },
+  {
+    "id": 10693,
+    "login_bonus_type": 1,
+    "name": "ヴァルドーの超鍛錬道場-褒美の間-開催記念ログインボーナス",
+    "display_priority": 4795
+  },
+  {
+    "id": 10694,
+    "login_bonus_type": 1,
+    "name": "模擬戦-イーヴリン-開催記念ログインボーナス",
+    "display_priority": 4860
+  },
+  {
+    "id": 10695,
+    "login_bonus_type": 1,
+    "name": "祝！6月6日で2.5周年！ログインボーナス",
+    "display_priority": 5060
+  },
+  {
+    "id": 10696,
+    "login_bonus_type": 1,
+    "name": "6月3日（ロマサガの日）記念！ログインボーナス",
+    "display_priority": 4995
+  },
+  {
+    "id": 10697,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！大決戦祭 宿命の大決戦-死闘 イゴマール-ログインボーナス",
+    "display_priority": 4885
+  },
+  {
+    "id": 10698,
+    "login_bonus_type": 1,
+    "name": "新陣形追加記念ログインボーナス",
+    "display_priority": 4850
+  },
+  {
+    "id": 10699,
+    "login_bonus_type": 1,
+    "name": "ヴァルドーの鍛錬極意書登場記念ログインボーナス",
+    "display_priority": 4790
+  },
+  {
+    "id": 10700,
+    "login_bonus_type": 1,
+    "name": "ヴァルドーの鍛錬極意書登場記念ログインボーナス",
+    "display_priority": 4790
+  },
+  {
+    "id": 10701,
+    "login_bonus_type": 1,
+    "name": "ヴァルドーの鍛錬極意書登場記念ログインボーナス",
+    "display_priority": 4790
+  },
+  {
+    "id": 10702,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！全キャラ育成超応援キャンペーンログインボーナス",
+    "display_priority": 4880
+  },
+  {
+    "id": 10703,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-死闘 イゴマール-カウントダウンログインボーナス -決戦まであと5日-",
+    "display_priority": 4835
+  },
+  {
+    "id": 10704,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-死闘 イゴマール-カウントダウンログインボーナス -決戦まであと4日-",
+    "display_priority": 4840
+  },
+  {
+    "id": 10705,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-死闘 イゴマール-カウントダウンログインボーナス -決戦まであと3日-",
+    "display_priority": 4845
+  },
+  {
+    "id": 10706,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-死闘 イゴマール-カウントダウンログインボーナス -決戦まであと2日-",
+    "display_priority": 4865
+  },
+  {
+    "id": 10707,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-死闘 イゴマール-カウントダウンログインボーナス -決戦まであと1日-",
+    "display_priority": 4870
+  },
+  {
+    "id": 10708,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟発掘キャンペーン開催記念ログインボーナス",
+    "display_priority": 4828
+  },
+  {
+    "id": 10709,
+    "login_bonus_type": 1,
+    "name": "ヴァルドーの鍛錬極意書再登場&ヴァルドー出現率2倍記念ログインボーナス",
+    "display_priority": 4830
+  },
+  {
+    "id": 10710,
+    "login_bonus_type": 1,
+    "name": "ヴァルドーの鍛錬極意書再登場&ヴァルドー出現率2倍記念ログインボーナス",
+    "display_priority": 4830
+  },
+  {
+    "id": 10711,
+    "login_bonus_type": 1,
+    "name": "ヴァルドーの鍛錬極意書再登場&ヴァルドー出現率2倍記念ログインボーナス",
+    "display_priority": 4830
+  },
+  {
+    "id": 10712,
+    "login_bonus_type": 1,
+    "name": "みんなで限界突破！周回ジュエルチャレンジ開催記念ログインボーナス",
+    "display_priority": 4890
+  },
+  {
+    "id": 10713,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-死闘 イゴマール-開催記念ログインボーナス",
+    "display_priority": 4895
+  },
+  {
+    "id": 10714,
+    "login_bonus_type": 1,
+    "name": "深奥の密林調査リニューアル記念ログインボーナス",
+    "display_priority": 4877
+  },
+  {
+    "id": 10715,
+    "login_bonus_type": 1,
+    "name": "2.5年の時を経て~未来へ~決戦スタイル登場記念ログインボーナス",
+    "display_priority": 5005
+  },
+  {
+    "id": 10716,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-異界決戦 イゴマール-開催記念ログインボーナス",
+    "display_priority": 5020
+  },
+  {
+    "id": 10717,
+    "login_bonus_type": 1,
+    "name": "2.5年の時を経て~過去から~決戦スタイル登場記念ログインボーナス",
+    "display_priority": 5010
+  },
+  {
+    "id": 10718,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！大決戦祭 宿命の大決戦-異界決戦 イゴマール-ログインボーナス",
+    "display_priority": 5015
+  },
+  {
+    "id": 10719,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ オーケストラ祭 LIVE CD BGM追加記念ログインボーナス",
+    "display_priority": 5000
+  },
+  {
+    "id": 10720,
+    "login_bonus_type": 1,
+    "name": "単改石二改石ドロップキャンペーン開催記念ログインボーナス",
+    "display_priority": 5039
+  },
+  {
+    "id": 10721,
+    "login_bonus_type": 1,
+    "name": "いつも応援ありがとう！超感謝ログインボーナス",
+    "display_priority": 5032
+  },
+  {
+    "id": 10722,
+    "login_bonus_type": 1,
+    "name": "2021年7月ログインボーナス",
+    "display_priority": 5023
+  },
+  {
+    "id": 10723,
+    "login_bonus_type": 1,
+    "name": "Romancing SaGa Re;univerSe 海外版リリース1周年記念！ログインボーナス",
+    "display_priority": 5035
+  },
+  {
+    "id": 10724,
+    "login_bonus_type": 1,
+    "name": "2.5周年記念！大決戦祭 宿命の大決戦-遥かなる戦いの果て-ログインボーナス",
+    "display_priority": 5026
+  },
+  {
+    "id": 10725,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-遥かなる戦いの果て-開催記念ログインボーナス",
+    "display_priority": 5029
+  },
+  {
+    "id": 10726,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-遥かなる戦いの果て-応援ログインボーナス",
+    "display_priority": 5041
+  },
+  {
+    "id": 10727,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-遥かなる戦いの果て-交換所ラインナップ追加記念ログインボーナス",
+    "display_priority": 5042
+  },
+  {
+    "id": 10728,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-遥かなる戦いの果て-応援第２弾ログインボーナス",
+    "display_priority": 5045
+  },
+  {
+    "id": 10729,
+    "login_bonus_type": 1,
+    "name": "宿命の大決戦-遥かなる戦いの果て-交換所ラインナップ追加第２弾記念ログインボーナス",
+    "display_priority": 5046
+  },
+  {
+    "id": 10730,
+    "login_bonus_type": 1,
+    "name": "挑戦！ヴァジュイールの試練開催記念ログインボーナス",
+    "display_priority": 5080
+  },
+  {
+    "id": 10731,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティア発売日記念ログインボーナス",
+    "display_priority": 5085
+  },
+  {
+    "id": 10732,
+    "login_bonus_type": 1,
+    "name": "ヴァジュイールの芸術採点開催記念ログインボーナス",
+    "display_priority": 5075
+  },
+  {
+    "id": 10733,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス 緋色の野望発売日記念BOX開催記念ログインボーナス",
+    "display_priority": 6025
+  },
+  {
+    "id": 10734,
+    "login_bonus_type": 1,
+    "name": "サガ フロンティアBGM追加記念ログインボーナス",
+    "display_priority": 5065
+  },
+  {
+    "id": 10735,
+    "login_bonus_type": 1,
+    "name": "ロマサガRS#美しい連携コンテスト開催記念ログインボーナス",
+    "display_priority": 5070
+  },
+  {
+    "id": 10736,
+    "login_bonus_type": 1,
+    "name": "みんなで限界突破！周回ジュエルチャレンジ期間延長記念ログインボーナス",
+    "display_priority": 5018
+  },
+  {
+    "id": 10737,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス育成応援キャンペーンログインボーナス",
+    "display_priority": 6015
+  },
+  {
+    "id": 10738,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイスBGM追加記念ログインボーナス",
+    "display_priority": 6010
+  },
+  {
+    "id": 10739,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ オーケストラ祭開催記念ログインボーナス",
+    "display_priority": 5003
+  },
+  {
+    "id": 10740,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス 緋色の野望発売日記念ログインボーナス",
+    "display_priority": 6030
+  },
+  {
+    "id": 10741,
+    "login_bonus_type": 1,
+    "name": "激闘 緋色の伏魔殿開催記念ログインボーナス",
+    "display_priority": 6020
+  },
+  {
+    "id": 10742,
+    "login_bonus_type": 1,
+    "name": "挑戦！ヴァジュイールの試練-看破の試練-開催記念ログインボーナス",
+    "display_priority": 5090
+  },
+  {
+    "id": 10743,
+    "login_bonus_type": 1,
+    "name": "挑戦！ヴァジュイールの試練-敏速の試練-開催記念ログインボーナス",
+    "display_priority": 6000
+  },
+  {
+    "id": 10744,
+    "login_bonus_type": 1,
+    "name": "挑戦！ヴァジュイールの試練-慈愛の試練-開催記念ログインボーナス",
+    "display_priority": 6005
+  },
+  {
+    "id": 10745,
+    "login_bonus_type": 1,
+    "name": "挑戦！ヴァジュイールの試練-技巧の試練-開催記念ログインボーナス",
+    "display_priority": 5095
+  },
+  {
+    "id": 10746,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟発掘キャンペーン開催記念ログインボーナス",
+    "display_priority": 6035
+  },
+  {
+    "id": 10747,
+    "login_bonus_type": 1,
+    "name": "メイン2章第13話公開記念ログインボーナス",
+    "display_priority": 6050
+  },
+  {
+    "id": 10748,
+    "login_bonus_type": 1,
+    "name": "大型コラボカウントダウンログインボーナス - あと3日 -",
+    "display_priority": 6055
+  },
+  {
+    "id": 10749,
+    "login_bonus_type": 1,
+    "name": "大型コラボカウントダウンログインボーナス - あと2日 -",
+    "display_priority": 6060
+  },
+  {
+    "id": 10750,
+    "login_bonus_type": 1,
+    "name": "大型コラボカウントダウンログインボーナス - あと1日 -",
+    "display_priority": 6065
+  },
+  {
+    "id": 10751,
+    "login_bonus_type": 1,
+    "name": "メイン2章第13話公開記念コインドロップ！ログインボーナス",
+    "display_priority": 6045
+  },
+  {
+    "id": 10752,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ リ・ユニバースBGM追加記念ログインボーナス",
+    "display_priority": 6040
+  },
+  {
+    "id": 10753,
+    "login_bonus_type": 1,
+    "name": "2021年8月ログインボーナス",
+    "display_priority": 6070
+  },
+  {
+    "id": 10754,
+    "login_bonus_type": 1,
+    "name": "#ロマ佐賀で繋がろう！ロマサガRS×佐賀県コラボ記念キャンペーン開催記念ログインボーナス",
+    "display_priority": 6095
+  },
+  {
+    "id": 10755,
+    "login_bonus_type": 1,
+    "name": "祝！大型コラボ開催記念！！Romancing佐賀ログインボーナス",
+    "display_priority": 6160
+  },
+  {
+    "id": 10756,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス 緋色の野望発売当日記念ログインボーナス",
+    "display_priority": 6100
+  },
+  {
+    "id": 10757,
+    "login_bonus_type": 1,
+    "name": "みんなでいくばい！SaGa風呂制圧戦開催記念ログインボーナス",
+    "display_priority": 6080
+  },
+  {
+    "id": 10758,
+    "login_bonus_type": 1,
+    "name": "Romancing佐賀第１弾 ログインボーナス",
+    "display_priority": 6085
+  },
+  {
+    "id": 10759,
+    "login_bonus_type": 1,
+    "name": "みんなでいくばい！SaGa風呂制圧戦 コラボ強敵登場記念ログインボーナス",
+    "display_priority": 6075
+  },
+  {
+    "id": 10760,
+    "login_bonus_type": 1,
+    "name": "2021年7月28日 公式生放送記念！ログインボーナス",
+    "display_priority": 6090
+  },
+  {
+    "id": 10762,
+    "login_bonus_type": 1,
+    "name": "アンリミテッド：サガ育成応援キャンペーンログインボーナス",
+    "display_priority": 6120
+  },
+  {
+    "id": 10766,
+    "login_bonus_type": 1,
+    "name": "Romancing佐賀第２弾 ログインボーナス",
+    "display_priority": 6135
+  },
+  {
+    "id": 10767,
+    "login_bonus_type": 1,
+    "name": "大型コラボカウントダウンログインボーナス -あと3日-",
+    "display_priority": 6140
+  },
+  {
+    "id": 10768,
+    "login_bonus_type": 1,
+    "name": "大型コラボカウントダウンログインボーナス -あと2日-",
+    "display_priority": 6145
+  },
+  {
+    "id": 10769,
+    "login_bonus_type": 1,
+    "name": "大型コラボカウントダウンログインボーナス -あと1日-",
+    "display_priority": 6150
+  },
+  {
+    "id": 10770,
+    "login_bonus_type": 1,
+    "name": "佐賀魂・アン佐賀魂開催記念ログインボーナス",
+    "display_priority": 6130
+  },
+  {
+    "id": 10771,
+    "login_bonus_type": 1,
+    "name": "ごいごいごい！で大爆走ナハトズィーガー！開催記念ログインボーナス",
+    "display_priority": 6125
+  },
+  {
+    "id": 10772,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6185
+  },
+  {
+    "id": 10773,
+    "login_bonus_type": 1,
+    "name": "期間限定遠征追加記念ログインボーナス",
+    "display_priority": 6180
+  },
+  {
+    "id": 10774,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボ開催記念全キャラ4倍育成超応援キャンペーンログインボーナス",
+    "display_priority": 6220
+  },
+  {
+    "id": 10775,
+    "login_bonus_type": 1,
+    "name": "祝！大型コラボ開催記念！DESTINY 8 ログインボーナス",
+    "display_priority": 6250
+  },
+  {
+    "id": 10776,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟発掘キャンペーン開催記念ログインボーナス",
+    "display_priority": 6215
+  },
+  {
+    "id": 10778,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 超コラボBOX開催記念ログインボーナス",
+    "display_priority": 6191
+  },
+  {
+    "id": 10779,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボBGM日替わりログインボーナス",
+    "display_priority": 6190
+  },
+  {
+    "id": 10780,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボBGM日替わりログインボーナス",
+    "display_priority": 6195
+  },
+  {
+    "id": 10781,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボBGM日替わりログインボーナス",
+    "display_priority": 6200
+  },
+  {
+    "id": 10782,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボBGM日替わりログインボーナス",
+    "display_priority": 6205
+  },
+  {
+    "id": 10783,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボBGM日替わりログインボーナス",
+    "display_priority": 6210
+  },
+  {
+    "id": 10784,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボBGM日替わりログインボーナス",
+    "display_priority": 6225
+  },
+  {
+    "id": 10785,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボBGM日替わりログインボーナス",
+    "display_priority": 6230
+  },
+  {
+    "id": 10786,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボBGM日替わりログインボーナス",
+    "display_priority": 6235
+  },
+  {
+    "id": 10787,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボBGM日替わりログインボーナス",
+    "display_priority": 6240
+  },
+  {
+    "id": 10788,
+    "login_bonus_type": 1,
+    "name": "DESTINY 8 コラボBGM日替わりログインボーナス",
+    "display_priority": 6245
+  },
+  {
+    "id": 10789,
+    "login_bonus_type": 1,
+    "name": "オーラム交換所ラインナップ追加記念ログインボーナス",
+    "display_priority": 6175
+  },
+  {
+    "id": 10790,
+    "login_bonus_type": 1,
+    "name": "Romancing佐賀武器種別育成応援・剣・大剣・斧・杖キャンペーンログインボーナス",
+    "display_priority": 6118
+  },
+  {
+    "id": 10791,
+    "login_bonus_type": 1,
+    "name": "Romancing佐賀武器種別育成応援・棍棒・体術・銃・小剣・槍・弓キャンペーンログインボーナス",
+    "display_priority": 6119
+  },
+  {
+    "id": 10792,
+    "login_bonus_type": 1,
+    "name": "Romancing佐賀育成応援ミッション開催記念ログインボーナス",
+    "display_priority": 6116
+  },
+  {
+    "id": 10793,
+    "login_bonus_type": 1,
+    "name": "リリース1000日記念ログインボーナス",
+    "display_priority": 6285
+  },
+  {
+    "id": 10794,
+    "login_bonus_type": 1,
+    "name": "サガ31周年記念Sa・Ga祭リツイートキャンペーン開催記念ログインボーナス",
+    "display_priority": 6275
+  },
+  {
+    "id": 10795,
+    "login_bonus_type": 1,
+    "name": "遠征追加記念ログインボーナス",
+    "display_priority": 6297
+  },
+  {
+    "id": 10796,
+    "login_bonus_type": 1,
+    "name": "ギルドスタンプ追加記念ログインボーナス",
+    "display_priority": 6295
+  },
+  {
+    "id": 10797,
+    "login_bonus_type": 1,
+    "name": "サ・ガ コレクション 新プラットフォーム版発売決定記念ログインボーナス",
+    "display_priority": 6270
+  },
+  {
+    "id": 10798,
+    "login_bonus_type": 1,
+    "name": "2021年9月ログインボーナス",
+    "display_priority": 6255
+  },
+  {
+    "id": 10799,
+    "login_bonus_type": 1,
+    "name": "サガ31周年記念Sa・Ga祭開催記念ログインボーナス",
+    "display_priority": 6375
+  },
+  {
+    "id": 10800,
+    "login_bonus_type": 1,
+    "name": "サガ31周年記念Sa・Ga祭 第１弾 ログインボーナス",
+    "display_priority": 6290
+  },
+  {
+    "id": 10801,
+    "login_bonus_type": 1,
+    "name": "魔界塔士サ・ガ、サ・ガ２ 秘宝伝説 育成応援キャンペーンログインボーナス",
+    "display_priority": 6265
+  },
+  {
+    "id": 10802,
+    "login_bonus_type": 1,
+    "name": "サガ31周年記念！めがみからのおくりもの開催記念ログインボーナス",
+    "display_priority": 6280
+  },
+  {
+    "id": 10803,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6320
+  },
+  {
+    "id": 10804,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟発掘キャンペーン開催記念ログインボーナス",
+    "display_priority": 6310
+  },
+  {
+    "id": 10805,
+    "login_bonus_type": 1,
+    "name": "アポロンとの戦い再開催記念ログインボーナス",
+    "display_priority": 6315
+  },
+  {
+    "id": 10806,
+    "login_bonus_type": 1,
+    "name": "秘宝伝説制圧戦開催記念ログインボーナス",
+    "display_priority": 6305
+  },
+  {
+    "id": 10807,
+    "login_bonus_type": 1,
+    "name": "錬成装備追加記念ログインボーナス",
+    "display_priority": 6300
+  },
+  {
+    "id": 10808,
+    "login_bonus_type": 1,
+    "name": "最終防衛システムとの戦い開催記念ログインボーナス",
+    "display_priority": 6325
+  },
+  {
+    "id": 10809,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6340
+  },
+  {
+    "id": 10810,
+    "login_bonus_type": 1,
+    "name": "いつも応援ありがとう！超感謝ログインボーナス",
+    "display_priority": 6365
+  },
+  {
+    "id": 10811,
+    "login_bonus_type": 1,
+    "name": "サガ31周年記念Sa・Ga祭 第２弾 ログインボーナス",
+    "display_priority": 6330
+  },
+  {
+    "id": 10812,
+    "login_bonus_type": 1,
+    "name": "サガ31周年記念Sa・Ga祭 第３弾 ログインボーナス",
+    "display_priority": 6360
+  },
+  {
+    "id": 10813,
+    "login_bonus_type": 1,
+    "name": "サガ31周年記念Sa・Ga祭コインドロップ！ログインボーナス",
+    "display_priority": 6335
+  },
+  {
+    "id": 10814,
+    "login_bonus_type": 1,
+    "name": "はにわとの戦い開催記念ログインボーナス",
+    "display_priority": 6345
+  },
+  {
+    "id": 10815,
+    "login_bonus_type": 1,
+    "name": "サ・ガ コレクション 新プラットフォーム版発売記念 第１弾 ログインボーナス",
+    "display_priority": 6371
+  },
+  {
+    "id": 10816,
+    "login_bonus_type": 1,
+    "name": "飛翔せよ！ステスロス開催記念ログインボーナス",
+    "display_priority": 6355
+  },
+  {
+    "id": 10817,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6370
+  },
+  {
+    "id": 10818,
+    "login_bonus_type": 1,
+    "name": "彼方へ~失われた魔王記開催記念ログインボーナス",
+    "display_priority": 6400
+  },
+  {
+    "id": 10819,
+    "login_bonus_type": 1,
+    "name": "「サガ」シリーズTGS2021スペシャル生放送記念ログインボーナス",
+    "display_priority": 6410
+  },
+  {
+    "id": 10820,
+    "login_bonus_type": 1,
+    "name": "深淵の激戦-アラケス-開催記念ログインボーナス",
+    "display_priority": 6390
+  },
+  {
+    "id": 10821,
+    "login_bonus_type": 1,
+    "name": "2021年10月ログインボーナス",
+    "display_priority": 6350
+  },
+  {
+    "id": 10822,
+    "login_bonus_type": 1,
+    "name": "深淵の激戦-アウナス-開催記念ログインボーナス",
+    "display_priority": 6385
+  },
+  {
+    "id": 10823,
+    "login_bonus_type": 1,
+    "name": "彼方へ~失われた魔王記開催記念キャンペーン ログインボーナス",
+    "display_priority": 6405
+  },
+  {
+    "id": 10824,
+    "login_bonus_type": 1,
+    "name": "アラケス・アウナス襲来記念ログインボーナス",
+    "display_priority": 6395
+  },
+  {
+    "id": 10825,
+    "login_bonus_type": 1,
+    "name": "深淵の激戦-ビューネイ-開催記念ログインボーナス",
+    "display_priority": 6397
+  },
+  {
+    "id": 10826,
+    "login_bonus_type": 1,
+    "name": "深淵の激戦-フォルネウス-開催記念ログインボーナス",
+    "display_priority": 6398
+  },
+  {
+    "id": 10827,
+    "login_bonus_type": 1,
+    "name": "フォルネウス・ビューネイ襲来記念ログインボーナス",
+    "display_priority": 6399
+  },
+  {
+    "id": 10828,
+    "login_bonus_type": 1,
+    "name": "新陣形追加記念ログインボーナス",
+    "display_priority": 6380
+  },
+  {
+    "id": 10830,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟発掘キャンペーン開催記念ログインボーナス",
+    "display_priority": 6415
+  },
+  {
+    "id": 10831,
+    "login_bonus_type": 1,
+    "name": "サガ魂超感謝戦開催記念ログインボーナス",
+    "display_priority": 6443
+  },
+  {
+    "id": 10832,
+    "login_bonus_type": 1,
+    "name": "祝！サガ魂ハーフアニバーサリー武器種別育成応援キャンペーンログインボーナス",
+    "display_priority": 6440
+  },
+  {
+    "id": 10833,
+    "login_bonus_type": 1,
+    "name": "祝！サガ魂ハーフアニバーサリーログインボーナス",
+    "display_priority": 6445
+  },
+  {
+    "id": 10834,
+    "login_bonus_type": 1,
+    "name": "みんなで挑戦！サガ魂周回チャレンジ開催記念ログインボーナス",
+    "display_priority": 6435
+  },
+  {
+    "id": 10835,
+    "login_bonus_type": 1,
+    "name": "スタイル経験値5倍 強者の称号・二の段ドロップキャンペーンログインボーナス",
+    "display_priority": 6437
+  },
+  {
+    "id": 10836,
+    "login_bonus_type": 1,
+    "name": "サ・ガ コレクション 新プラットフォーム版発売記念 第２弾 ログインボーナス",
+    "display_priority": 6465
+  },
+  {
+    "id": 10838,
+    "login_bonus_type": 1,
+    "name": "サ・ガ シリーズ 育成応援キャンペーンログインボーナス",
+    "display_priority": 6450
+  },
+  {
+    "id": 10839,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6447
+  },
+  {
+    "id": 10840,
+    "login_bonus_type": 1,
+    "name": "装備メダル交換所装備品追加記念ログインボーナス",
+    "display_priority": 6430
+  },
+  {
+    "id": 10841,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6425
+  },
+  {
+    "id": 10843,
+    "login_bonus_type": 1,
+    "name": "みんなあつまれ！サ・ガ大合戦開催記念ログインボーナス",
+    "display_priority": 6455
+  },
+  {
+    "id": 10844,
+    "login_bonus_type": 1,
+    "name": "サ・ガ コレクション 新プラットフォーム版発売記念ログインボーナス",
+    "display_priority": 6460
+  },
+  {
+    "id": 10845,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6500
+  },
+  {
+    "id": 10846,
+    "login_bonus_type": 1,
+    "name": "デスのハロウィンパレード！開催記念ログインボーナス",
+    "display_priority": 6520
+  },
+  {
+    "id": 10847,
+    "login_bonus_type": 1,
+    "name": "ハロウィン育成応援キャンペーンログインボーナス",
+    "display_priority": 6515
+  },
+  {
+    "id": 10848,
+    "login_bonus_type": 1,
+    "name": "Happy Halloween 2021ログインボーナス",
+    "display_priority": 6530
+  },
+  {
+    "id": 10849,
+    "login_bonus_type": 1,
+    "name": "2021年11月ログインボーナス",
+    "display_priority": 6467
+  },
+  {
+    "id": 10850,
+    "login_bonus_type": 1,
+    "name": "ピドナの夜の夢再開催記念ログインボーナス",
+    "display_priority": 6505
+  },
+  {
+    "id": 10851,
+    "login_bonus_type": 1,
+    "name": "古城の祝祭と最終試練再開催記念ログインボーナス",
+    "display_priority": 6510
+  },
+  {
+    "id": 10852,
+    "login_bonus_type": 1,
+    "name": "装備メダル交換所装備品追加記念ログインボーナス",
+    "display_priority": 6565
+  },
+  {
+    "id": 10853,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟発掘キャンペーン開催記念ログインボーナス",
+    "display_priority": 6562
+  },
+  {
+    "id": 10854,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6535
+  },
+  {
+    "id": 10855,
+    "login_bonus_type": 1,
+    "name": "「Romancing SaGa THE STAGE」DL版発売記念育成応援キャンペーンログインボーナス",
+    "display_priority": 6540
+  },
+  {
+    "id": 10856,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6575
+  },
+  {
+    "id": 10857,
+    "login_bonus_type": 1,
+    "name": "「Romancing SaGa THE STAGE」リリース記念RTキャンペーン開催記念ログインボーナス",
+    "display_priority": 6545
+  },
+  {
+    "id": 10858,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ THE STAGE記念BOX開催記念ログインボーナス",
+    "display_priority": 6550
+  },
+  {
+    "id": 10859,
+    "login_bonus_type": 1,
+    "name": "「Romancing SaGa THE STAGE」DL版発売記念ログインボーナス",
+    "display_priority": 6555
+  },
+  {
+    "id": 10860,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ３発売当日記念ログインボーナス",
+    "display_priority": 6580
+  },
+  {
+    "id": 10861,
+    "login_bonus_type": 1,
+    "name": "タフターン山の戦い~ロアーヌが燃える日~開催記念ログインボーナス",
+    "display_priority": 6570
+  },
+  {
+    "id": 10862,
+    "login_bonus_type": 1,
+    "name": "3周年前夜祭記念SaGaカーニバル開催記念ログインボーナス",
+    "display_priority": 6645
+  },
+  {
+    "id": 10863,
+    "login_bonus_type": 1,
+    "name": "運試し！3周年カウントダウンクエスト開催記念ログインボーナス",
+    "display_priority": 6640
+  },
+  {
+    "id": 10864,
+    "login_bonus_type": 1,
+    "name": "3周年前夜祭記念育成応援キャンペーンログインボーナス",
+    "display_priority": 6635
+  },
+  {
+    "id": 10865,
+    "login_bonus_type": 1,
+    "name": "3周年前夜祭記念ログインボーナス",
+    "display_priority": 6700
+  },
+  {
+    "id": 10866,
+    "login_bonus_type": 1,
+    "name": "2021年12月ログインボーナス",
+    "display_priority": 6750
+  },
+  {
+    "id": 10867,
+    "login_bonus_type": 1,
+    "name": "Romancing佐賀マンホール設置記念ログインボーナス",
+    "display_priority": 6560
+  },
+  {
+    "id": 10868,
+    "login_bonus_type": 1,
+    "name": "3周年超直前超感謝ログインボーナス",
+    "display_priority": 6670
+  },
+  {
+    "id": 10869,
+    "login_bonus_type": 1,
+    "name": "3周年記念！カウントダウンログインボーナス -あと9日-",
+    "display_priority": 6630
+  },
+  {
+    "id": 10870,
+    "login_bonus_type": 1,
+    "name": "3周年記念！カウントダウンログインボーナス -あと8日-",
+    "display_priority": 6650
+  },
+  {
+    "id": 10871,
+    "login_bonus_type": 1,
+    "name": "3周年記念！カウントダウンログインボーナス -あと7日-",
+    "display_priority": 6655
+  },
+  {
+    "id": 10872,
+    "login_bonus_type": 1,
+    "name": "3周年記念！カウントダウンログインボーナス -あと6日-",
+    "display_priority": 6660
+  },
+  {
+    "id": 10873,
+    "login_bonus_type": 1,
+    "name": "3周年記念！カウントダウンログインボーナス -あと5日-",
+    "display_priority": 6665
+  },
+  {
+    "id": 10874,
+    "login_bonus_type": 1,
+    "name": "3周年記念！カウントダウンログインボーナス -あと4日-",
+    "display_priority": 6675
+  },
+  {
+    "id": 10875,
+    "login_bonus_type": 1,
+    "name": "3周年記念！カウントダウンログインボーナス -あと3日-",
+    "display_priority": 6680
+  },
+  {
+    "id": 10876,
+    "login_bonus_type": 1,
+    "name": "3周年記念！カウントダウンログインボーナス -あと2日-",
+    "display_priority": 6685
+  },
+  {
+    "id": 10877,
+    "login_bonus_type": 1,
+    "name": "3周年記念！カウントダウンログインボーナス -あと1日-",
+    "display_priority": 6690
+  },
+  {
+    "id": 10878,
+    "login_bonus_type": 1,
+    "name": "遠征追加記念ログインボーナス",
+    "display_priority": 6755
+  },
+  {
+    "id": 10879,
+    "login_bonus_type": 1,
+    "name": "動画広告機能追加記念ログインボーナス",
+    "display_priority": 6765
+  },
+  {
+    "id": 10880,
+    "login_bonus_type": 1,
+    "name": "3周年記念スタートダッシュ育成応援キャンペーンログインボーナス",
+    "display_priority": 6760
+  },
+  {
+    "id": 10881,
+    "login_bonus_type": 1,
+    "name": "3周年記念はじまりの扉へログインボーナス",
+    "display_priority": 7005
+  },
+  {
+    "id": 10882,
+    "login_bonus_type": 1,
+    "name": "3周年記念はじまりの扉へ 第１弾 ログインボーナス",
+    "display_priority": 6790
+  },
+  {
+    "id": 10883,
+    "login_bonus_type": 1,
+    "name": "リアム編第1話公開記念ログインボーナス",
+    "display_priority": 6785
+  },
+  {
+    "id": 10884,
+    "login_bonus_type": 1,
+    "name": "出航!!#新ロマサガRSロマサガRS祝3周年記念キャンペーン開催記念ログインボーナス",
+    "display_priority": 6795
+  },
+  {
+    "id": 10885,
+    "login_bonus_type": 1,
+    "name": "3周年記念！超育成応援パック・3周年記念！超お得パック販売記念ログインボーナス",
+    "display_priority": 6770
+  },
+  {
+    "id": 10886,
+    "login_bonus_type": 1,
+    "name": "3周年記念ログインボーナス",
+    "display_priority": 7000
+  },
+  {
+    "id": 10887,
+    "login_bonus_type": 1,
+    "name": "螺旋回廊高難易度階層追加＆強者の称号・三の段登場記念ログインボーナス",
+    "display_priority": 6800
+  },
+  {
+    "id": 10889,
+    "login_bonus_type": 1,
+    "name": "サガ公式YouTubeチャンネル開設記念ログインボーナス",
+    "display_priority": 6532
+  },
+  {
+    "id": 10890,
+    "login_bonus_type": 1,
+    "name": "昇段試験追加記念ログインボーナス",
+    "display_priority": 6775
+  },
+  {
+    "id": 10891,
+    "login_bonus_type": 1,
+    "name": "追憶の幻闘場追加記念スタートダッシュログインボーナス",
+    "display_priority": 6780
+  },
+  {
+    "id": 10892,
+    "login_bonus_type": 1,
+    "name": "七英雄襲来！暗闇の制圧戦開催記念ログインボーナス",
+    "display_priority": 6835
+  },
+  {
+    "id": 10893,
+    "login_bonus_type": 1,
+    "name": "祝！12月6日で3周年！ログインボーナス",
+    "display_priority": 7010
+  },
+  {
+    "id": 10894,
+    "login_bonus_type": 1,
+    "name": "3周年記念！ミラクルデイパレード開催記念ログインボーナス",
+    "display_priority": 6820
+  },
+  {
+    "id": 10895,
+    "login_bonus_type": 1,
+    "name": "6億ジュエル山分けキャンペーン開催記念ログインボーナス",
+    "display_priority": 6815
+  },
+  {
+    "id": 10896,
+    "login_bonus_type": 1,
+    "name": "装備メダル交換所装備品追加記念ログインボーナス",
+    "display_priority": 6825
+  },
+  {
+    "id": 10897,
+    "login_bonus_type": 1,
+    "name": "ロマンシング サガ２発売日記念ログインボーナス",
+    "display_priority": 6850
+  },
+  {
+    "id": 10898,
+    "login_bonus_type": 1,
+    "name": "3周年記念！ミラクルデイパレード育成応援キャンペーンログインボーナス",
+    "display_priority": 6810
+  },
+  {
+    "id": 10899,
+    "login_bonus_type": 1,
+    "name": "3周年記念はじまりの扉へ 第２弾 ログインボーナス",
+    "display_priority": 6840
+  },
+  {
+    "id": 10900,
+    "login_bonus_type": 1,
+    "name": "3周年記念はじまりの扉へ 第２弾 育成応援キャンペーンログインボーナス",
+    "display_priority": 6830
+  },
+  {
+    "id": 10901,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6845
+  },
+  {
+    "id": 10902,
+    "login_bonus_type": 1,
+    "name": "3周年記念！ドラゴンパニック開催記念ログインボーナス",
+    "display_priority": 6885
+  },
+  {
+    "id": 10903,
+    "login_bonus_type": 1,
+    "name": "3周年記念！ワンダーナイトパレード開催記念ログインボーナス",
+    "display_priority": 6890
+  },
+  {
+    "id": 10904,
+    "login_bonus_type": 1,
+    "name": "6億ジュエル山分けキャンペーン開催記念ログインボーナス",
+    "display_priority": 6880
+  },
+  {
+    "id": 10905,
+    "login_bonus_type": 1,
+    "name": "雪降る聖夜の制圧戦開催記念ログインボーナス",
+    "display_priority": 6915
+  },
+  {
+    "id": 10907,
+    "login_bonus_type": 1,
+    "name": "サガ スカーレット グレイス発売日記念ログインボーナス",
+    "display_priority": 6860
+  },
+  {
+    "id": 10908,
+    "login_bonus_type": 1,
+    "name": "アンリミテッド：サガ発売日記念ログインボーナス",
+    "display_priority": 6895
+  },
+  {
+    "id": 10909,
+    "login_bonus_type": 1,
+    "name": "年越し！シリーズ別育成応援キャンペーン 第１弾 ログインボーナス",
+    "display_priority": 6935
+  },
+  {
+    "id": 10910,
+    "login_bonus_type": 1,
+    "name": "年越し！シリーズ別育成応援キャンペーン 第２弾 ログインボーナス",
+    "display_priority": 6945
+  },
+  {
+    "id": 10911,
+    "login_bonus_type": 1,
+    "name": "サガスカ・アンサガ育成応援キャンペーンログインボーナス",
+    "display_priority": 6875
+  },
+  {
+    "id": 10912,
+    "login_bonus_type": 1,
+    "name": "聖石の洞窟発掘キャンペーン開催記念ログインボーナス",
+    "display_priority": 6930
+  },
+  {
+    "id": 10913,
+    "login_bonus_type": 1,
+    "name": "3周年記念はじまりの扉へ 第３弾 ログインボーナス",
+    "display_priority": 6920
+  },
+  {
+    "id": 10914,
+    "login_bonus_type": 1,
+    "name": "8億ジュエル山分けキャンペーン開催記念ログインボーナス",
+    "display_priority": 6783
+  },
+  {
+    "id": 10915,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 6905
+  },
+  {
+    "id": 10916,
+    "login_bonus_type": 1,
+    "name": "漫画「ロマンシング サガ リ・ユニバース」連載記念ログインボーナス",
+    "display_priority": 6853
+  },
+  {
+    "id": 10917,
+    "login_bonus_type": 1,
+    "name": "10億ジュエル山分けキャンペーン開催記念ログインボーナス",
+    "display_priority": 6910
+  },
+  {
+    "id": 10918,
+    "login_bonus_type": 1,
+    "name": "サガ32周年記念ログインボーナス",
+    "display_priority": 6865
+  },
+  {
+    "id": 10919,
+    "login_bonus_type": 1,
+    "name": "年越しの超鍛錬道場開催記念ログインボーナス",
+    "display_priority": 6941
+  },
+  {
+    "id": 10920,
+    "login_bonus_type": 1,
+    "name": "年越しボスラッシュ2021開催記念ログインボーナス",
+    "display_priority": 6940
+  },
+  {
+    "id": 10921,
+    "login_bonus_type": 1,
+    "name": "リアム編第2話公開記念コインドロップ！ログインボーナス",
+    "display_priority": 7053
+  },
+  {
+    "id": 10922,
+    "login_bonus_type": 1,
+    "name": "ヴァジュイールの芸術採点2022開催記念ログインボーナス",
+    "display_priority": 7045
+  },
+  {
+    "id": 10923,
+    "login_bonus_type": 1,
+    "name": "迎春！ニューイヤーBOX開催記念ログインボーナス",
+    "display_priority": 7035
+  },
+  {
+    "id": 10924,
+    "login_bonus_type": 1,
+    "name": "2022年1月ログインボーナス",
+    "display_priority": 7015
+  },
+  {
+    "id": 10925,
+    "login_bonus_type": 1,
+    "name": "福袋販売記念ログインボーナス",
+    "display_priority": 7040
+  },
+  {
+    "id": 10926,
+    "login_bonus_type": 1,
+    "name": "リアム編第2話公開記念ログインボーナス",
+    "display_priority": 7060
+  },
+  {
+    "id": 10927,
+    "login_bonus_type": 1,
+    "name": "錬成装備追加記念ログインボーナス",
+    "display_priority": 7055
+  },
+  {
+    "id": 10928,
+    "login_bonus_type": 1,
+    "name": "福寅謹賀新年祭ログインボーナス",
+    "display_priority": 7100
+  },
+  {
+    "id": 10929,
+    "login_bonus_type": 1,
+    "name": "2022年あけましておめでとう！お年玉ログインボーナス",
+    "display_priority": 7105
+  },
+  {
+    "id": 10930,
+    "login_bonus_type": 1,
+    "name": "3周年記念！クリスマスプレゼントログインボーナス",
+    "display_priority": 6925
+  },
+  {
+    "id": 10931,
+    "login_bonus_type": 1,
+    "name": "開運！2022年おみくじログインボーナス",
+    "display_priority": 7050
+  },
+  {
+    "id": 10932,
+    "login_bonus_type": 1,
+    "name": "ロマンシング佐賀2021オンラインツアー開催記念ログインボーナス",
+    "display_priority": 6870
+  },
+  {
+    "id": 10933,
+    "login_bonus_type": 1,
+    "name": "十二支合戦と邪神の塔再開催記念ログインボーナス",
+    "display_priority": 7030
+  },
+  {
+    "id": 10934,
+    "login_bonus_type": 1,
+    "name": "超巨大！鏡もちの塔！再開催記念ログインボーナス",
+    "display_priority": 7020
+  },
+  {
+    "id": 10935,
+    "login_bonus_type": 1,
+    "name": "幸運の白い猫と最終皇帝再開催記念ログインボーナス",
+    "display_priority": 7025
+  },
+  {
+    "id": 10936,
+    "login_bonus_type": 1,
+    "name": "装備メダル交換所装備品追加記念ログインボーナス",
+    "display_priority": 7065
+  },
+  {
+    "id": 10937,
+    "login_bonus_type": 1,
+    "name": "燃えろ！ロマンシング・ビッグマッチ カウントダウンログインボーナス - あと2日 -",
+    "display_priority": 7068
+  },
+  {
+    "id": 10938,
+    "login_bonus_type": 1,
+    "name": "燃えろ！ロマンシング・ビッグマッチ開催記念ログインボーナス",
+    "display_priority": 7095
+  },
+  {
+    "id": 10939,
+    "login_bonus_type": 1,
+    "name": "虎吼の３本チャレンジ-アザミの挑戦状-開催記念ログインボーナス",
+    "display_priority": 7075
+  },
+  {
+    "id": 10940,
+    "login_bonus_type": 1,
+    "name": "リアム編第2話公開記念！錬成装備素材ドロップキャンペーン開催記念ログインボーナス",
+    "display_priority": 7051
+  },
+  {
+    "id": 10941,
+    "login_bonus_type": 1,
+    "name": "燃えろ！ロマンシング・ビッグマッチ カウントダウンログインボーナス - あと1日 -",
+    "display_priority": 7090
+  },
+  {
+    "id": 10942,
+    "login_bonus_type": 1,
+    "name": "虎吼の３本チャレンジ-ウルピナの挑戦状-開催記念ログインボーナス",
+    "display_priority": 7073
+  },
+  {
+    "id": 10943,
+    "login_bonus_type": 1,
+    "name": "３３３で勝ち残れ！虎吼のタッグマッチ開催記念ログインボーナス",
+    "display_priority": 7080
+  },
+  {
+    "id": 10944,
+    "login_bonus_type": 1,
+    "name": "虎吼の３本チャレンジ-エミリアの挑戦状-開催記念ログインボーナス",
+    "display_priority": 7070
+  },
+  {
+    "id": 10945,
+    "login_bonus_type": 1,
+    "name": "虎吼の３本チャレンジ開催記念ログインボーナス",
+    "display_priority": 7085
+  },
+  {
+    "id": 10947,
+    "login_bonus_type": 1,
+    "name": "BGM追加記念ログインボーナス",
+    "display_priority": 7063
+  },
+  {
+    "id": 10956,
+    "login_bonus_type": 1,
+    "name": "#美しい連携新春コンテスト開催記念ログインボーナス",
+    "display_priority": 7044
+  },
+  {
+    "id": 10957,
+    "login_bonus_type": 1,
+    "name": "イベントスタイルレアドロップキャンペーン開催記念ログインボーナス",
+    "display_priority": 7052
+  }
+]

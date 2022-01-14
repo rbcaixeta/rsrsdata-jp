@@ -1,0 +1,62 @@
+[
+  {
+    "id": 840004,
+    "name": "エーデルワイス",
+    "flavor_text": "訓練エネルギーをほんの少しだけ回復できる。",
+    "icon": 840004,
+    "max_quantity": 9999,
+    "value": 500,
+    "required_aurum": 100,
+    "sort_order": 970
+  },
+  {
+    "id": 840005,
+    "name": "蛇香",
+    "flavor_text": "訓練エネルギーを少しだけ回復できる。",
+    "icon": 840005,
+    "max_quantity": 9999,
+    "value": 1000,
+    "required_aurum": 200,
+    "sort_order": 971
+  },
+  {
+    "id": 840006,
+    "name": "ヘリオトロープ",
+    "flavor_text": "訓練エネルギーを回復できる。",
+    "icon": 840006,
+    "max_quantity": 9999,
+    "value": 5000,
+    "required_aurum": 1000,
+    "sort_order": 972
+  },
+  {
+    "id": 840007,
+    "name": "妖精のハーブ",
+    "flavor_text": "訓練エネルギーを多めに回復できる。",
+    "icon": 840007,
+    "max_quantity": 9999,
+    "value": 10000,
+    "required_aurum": 1800,
+    "sort_order": 973
+  },
+  {
+    "id": 840008,
+    "name": "バクの涙",
+    "flavor_text": "訓練エネルギーを大量に回復できる。",
+    "icon": 840008,
+    "max_quantity": 9999,
+    "value": 15000,
+    "required_aurum": 2500,
+    "sort_order": 974
+  },
+  {
+    "id": 840047,
+    "name": "生命の素",
+    "flavor_text": "訓練エネルギーを超大量に回復できる。",
+    "icon": 840047,
+    "max_quantity": 9999,
+    "value": 25000,
+    "required_aurum": 4000,
+    "sort_order": 975
+  }
+]
