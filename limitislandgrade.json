@@ -1,20 +1,26 @@
 [
   {
     "id": 1,
-    "name": "初段",
+    "max_score": 40000,
     "min_score": 10000,
-    "max_score": 40000
+    "name": "初段",
+    "name_en": "Stage 1",
+    "name_en_src": "gl"
   },
   {
     "id": 2,
-    "name": "二段",
+    "max_score": 80000,
     "min_score": 20000,
-    "max_score": 80000
+    "name": "二段",
+    "name_en": "Stage 2",
+    "name_en_src": "gl"
   },
   {
     "id": 3,
-    "name": "三段",
+    "max_score": 160000,
     "min_score": 40000,
-    "max_score": 160000
+    "name": "三段",
+    "name_en": "Stage 3",
+    "name_en_src": "gl"
   }
 ]

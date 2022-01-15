@@ -1,10 +1,14 @@
 [
   {
-    "id": 890099,
-    "name": "魔石",
     "flavor_text": "魔石。使用することで、聖石の融合ができる。",
+    "flavor_text_en": "A piece of Magic Stone. Can be fused with Holy Stone.",
+    "flavor_text_en_src": "gl",
     "icon": 890099,
+    "id": 890099,
     "max_quantity": 999,
+    "name": "魔石",
+    "name_en": "Magic Stone",
+    "name_en_src": "gl",
     "sort_order": 9399
   }
 ]

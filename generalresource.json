@@ -1,32 +1,52 @@
 [
   {
+    "flavor_text": "有償ジュエル。無償ジュエルの用途に加えて、有償ジュエル限定ガチャなどでも使用できる。",
+    "flavor_text_en": "Jewels purchased with money. Can be used for Paid Jewel Summons, replacing Free Jewels, etc.",
+    "flavor_text_en_src": "gl",
+    "icon": 100001,
     "id": 100001,
     "name": "有償ジュエル",
-    "flavor_text": "有償ジュエル。無償ジュエルの用途に加えて、有償ジュエル限定ガチャなどでも使用できる。",
-    "icon": 100001
+    "name_en": "Paid Jewels",
+    "name_en_src": "gl"
   },
   {
+    "flavor_text": "ジュエル。ショップやガチャなどで使用できる。",
+    "flavor_text_en": "Jewels that can be used at the Shop and for Summons.",
+    "flavor_text_en_src": "gl",
+    "icon": 100002,
     "id": 100002,
     "name": "ジュエル",
-    "flavor_text": "ジュエル。ショップやガチャなどで使用できる。",
-    "icon": 100002
+    "name_en": "Jewels",
+    "name_en_src": "gl"
   },
   {
+    "flavor_text": "鍛冶屋やショップなどで使用できる通貨。",
+    "flavor_text_en": "Currency that can be used at the Forge and in the Shop.",
+    "flavor_text_en_src": "gl",
+    "icon": 100003,
     "id": 100003,
     "name": "オーラム",
-    "flavor_text": "鍛冶屋やショップなどで使用できる通貨。",
-    "icon": 100003
+    "name_en": "Aurum",
+    "name_en_src": "gl"
   },
   {
+    "flavor_text": "スタミナを使ってクエストに挑戦できる。",
+    "flavor_text_en": "Use stamina to attempt quests.",
+    "flavor_text_en_src": "gl",
+    "icon": 100004,
     "id": 100004,
     "name": "スタミナ",
-    "flavor_text": "スタミナを使ってクエストに挑戦できる。",
-    "icon": 100004
+    "name_en": "Stamina",
+    "name_en_src": "gl"
   },
   {
+    "flavor_text": "ギルドへの貢献で得られる褒章。専用交換所でアイテムを購入できる。",
+    "flavor_text_en": "Obtained by contributing to the Guild. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
+    "icon": 100005,
     "id": 100005,
     "name": "ギルドポイント",
-    "flavor_text": "ギルドへの貢献で得られる褒章。専用交換所でアイテムを購入できる。",
-    "icon": 100005
+    "name_en": "Guild Points",
+    "name_en_src": "gl"
   }
 ]

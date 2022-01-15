@@ -1,62 +1,86 @@
 [
   {
-    "id": 840004,
-    "name": "エーデルワイス",
     "flavor_text": "訓練エネルギーをほんの少しだけ回復できる。",
+    "flavor_text_en": "Recover a very small amount of Training Energy.",
+    "flavor_text_en_src": "gl",
     "icon": 840004,
+    "id": 840004,
     "max_quantity": 9999,
-    "value": 500,
+    "name": "エーデルワイス",
+    "name_en": "Edelweiss",
+    "name_en_src": "gl",
     "required_aurum": 100,
-    "sort_order": 970
+    "sort_order": 970,
+    "value": 500
   },
   {
-    "id": 840005,
-    "name": "蛇香",
     "flavor_text": "訓練エネルギーを少しだけ回復できる。",
+    "flavor_text_en": "Recover a small amount of Training Energy.",
+    "flavor_text_en_src": "gl",
     "icon": 840005,
+    "id": 840005,
     "max_quantity": 9999,
-    "value": 1000,
+    "name": "蛇香",
+    "name_en": "Serpent Salts",
+    "name_en_src": "gl",
     "required_aurum": 200,
-    "sort_order": 971
+    "sort_order": 971,
+    "value": 1000
   },
   {
-    "id": 840006,
-    "name": "ヘリオトロープ",
     "flavor_text": "訓練エネルギーを回復できる。",
+    "flavor_text_en": "Recover Training Energy.",
+    "flavor_text_en_src": "gl",
     "icon": 840006,
+    "id": 840006,
     "max_quantity": 9999,
-    "value": 5000,
+    "name": "ヘリオトロープ",
+    "name_en": "Heliotrope",
+    "name_en_src": "gl",
     "required_aurum": 1000,
-    "sort_order": 972
+    "sort_order": 972,
+    "value": 5000
   },
   {
-    "id": 840007,
-    "name": "妖精のハーブ",
     "flavor_text": "訓練エネルギーを多めに回復できる。",
+    "flavor_text_en": "Recover a large amount of Training Energy.",
+    "flavor_text_en_src": "gl",
     "icon": 840007,
+    "id": 840007,
     "max_quantity": 9999,
-    "value": 10000,
+    "name": "妖精のハーブ",
+    "name_en": "Faeries' Herb",
+    "name_en_src": "gl",
     "required_aurum": 1800,
-    "sort_order": 973
+    "sort_order": 973,
+    "value": 10000
   },
   {
-    "id": 840008,
-    "name": "バクの涙",
     "flavor_text": "訓練エネルギーを大量に回復できる。",
+    "flavor_text_en": "Recover a very large amount of Training Energy.",
+    "flavor_text_en_src": "gl",
     "icon": 840008,
+    "id": 840008,
     "max_quantity": 9999,
-    "value": 15000,
+    "name": "バクの涙",
+    "name_en": "Tapir Tears",
+    "name_en_src": "gl",
     "required_aurum": 2500,
-    "sort_order": 974
+    "sort_order": 974,
+    "value": 15000
   },
   {
-    "id": 840047,
-    "name": "生命の素",
     "flavor_text": "訓練エネルギーを超大量に回復できる。",
+    "flavor_text_en": "Recover an extreme amount of Training Energy.",
+    "flavor_text_en_src": "gl",
     "icon": 840047,
+    "id": 840047,
     "max_quantity": 9999,
-    "value": 25000,
+    "name": "生命の素",
+    "name_en": "Life Essence",
+    "name_en_src": "gl",
     "required_aurum": 4000,
-    "sort_order": 975
+    "sort_order": 975,
+    "value": 25000
   }
 ]

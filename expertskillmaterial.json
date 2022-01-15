@@ -1,107 +1,167 @@
 [
   {
+    "flavor_text": "剣技の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Sword skills at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406025,
     "id": 101001,
     "name": "剣の練達巻物",
-    "sort_order": 49999600,
-    "flavor_text": "剣技の練達に必要な素材。道場で使用できる。",
-    "icon": 406025
+    "name_en": "Sword Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999600
   },
   {
+    "flavor_text": "大剣技の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify G. Sword skills at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406026,
     "id": 102002,
     "name": "大剣の練達巻物",
-    "sort_order": 49999595,
-    "flavor_text": "大剣技の練達に必要な素材。道場で使用できる。",
-    "icon": 406026
+    "name_en": "G. Sword Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999595
   },
   {
+    "flavor_text": "斧技の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Axe skills at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406027,
     "id": 103003,
     "name": "斧の練達巻物",
-    "sort_order": 49999590,
-    "flavor_text": "斧技の練達に必要な素材。道場で使用できる。",
-    "icon": 406027
+    "name_en": "Axe Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999590
   },
   {
+    "flavor_text": "棍棒技の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Club skills at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406028,
     "id": 104004,
     "name": "棍棒の練達巻物",
-    "sort_order": 49999585,
-    "flavor_text": "棍棒技の練達に必要な素材。道場で使用できる。",
-    "icon": 406028
+    "name_en": "Club Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999585
   },
   {
+    "flavor_text": "体術技の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify M. Arts skills at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406029,
     "id": 105005,
     "name": "体術の練達巻物",
-    "sort_order": 49999580,
-    "flavor_text": "体術技の練達に必要な素材。道場で使用できる。",
-    "icon": 406029
+    "name_en": "M. Arts Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999580
   },
   {
+    "flavor_text": "銃技の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Gun skills at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406030,
     "id": 106006,
     "name": "銃の練達巻物",
-    "sort_order": 49999575,
-    "flavor_text": "銃技の練達に必要な素材。道場で使用できる。",
-    "icon": 406030
+    "name_en": "Gun Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999575
   },
   {
+    "flavor_text": "小剣技の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify S. Sword skills at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406031,
     "id": 107007,
     "name": "小剣の練達巻物",
-    "sort_order": 49999570,
-    "flavor_text": "小剣技の練達に必要な素材。道場で使用できる。",
-    "icon": 406031
+    "name_en": "S. Sword Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999570
   },
   {
+    "flavor_text": "槍技の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Spear skills at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406032,
     "id": 108008,
     "name": "槍の練達巻物",
-    "sort_order": 49999565,
-    "flavor_text": "槍技の練達に必要な素材。道場で使用できる。",
-    "icon": 406032
+    "name_en": "Spear Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999565
   },
   {
+    "flavor_text": "弓技の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Bow skills at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406033,
     "id": 109009,
     "name": "弓の練達巻物",
-    "sort_order": 49999560,
-    "flavor_text": "弓技の練達に必要な素材。道場で使用できる。",
-    "icon": 406033
+    "name_en": "Bow Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999560
   },
   {
+    "flavor_text": "火術の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Fire spells at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406034,
     "id": 251011,
     "name": "火術の練達巻物",
-    "sort_order": 49999555,
-    "flavor_text": "火術の練達に必要な素材。道場で使用できる。",
-    "icon": 406034
+    "name_en": "Fire Spell Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999555
   },
   {
+    "flavor_text": "水術の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Water spells at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406035,
     "id": 252012,
     "name": "水術の練達巻物",
-    "sort_order": 49999550,
-    "flavor_text": "水術の練達に必要な素材。道場で使用できる。",
-    "icon": 406035
+    "name_en": "Water Spell Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999550
   },
   {
+    "flavor_text": "土術の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Earth spells at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406036,
     "id": 253013,
     "name": "土術の練達巻物",
-    "sort_order": 49999545,
-    "flavor_text": "土術の練達に必要な素材。道場で使用できる。",
-    "icon": 406036
+    "name_en": "Earth Spell Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999545
   },
   {
+    "flavor_text": "風術の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Wind spells at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406037,
     "id": 254014,
     "name": "風術の練達巻物",
-    "sort_order": 49999540,
-    "flavor_text": "風術の練達に必要な素材。道場で使用できる。",
-    "icon": 406037
+    "name_en": "Wind Spell Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999540
   },
   {
+    "flavor_text": "光術の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Light spells at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406038,
     "id": 255015,
     "name": "光術の練達巻物",
-    "sort_order": 49999535,
-    "flavor_text": "光術の練達に必要な素材。道場で使用できる。",
-    "icon": 406038
+    "name_en": "Light Spell Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999535
   },
   {
+    "flavor_text": "闇術の練達に必要な素材。道場で使用できる。",
+    "flavor_text_en": "Material used to amplify Dark spells at the Dojo.",
+    "flavor_text_en_src": "gl",
+    "icon": 406039,
     "id": 256016,
     "name": "闇術の練達巻物",
-    "sort_order": 49999530,
-    "flavor_text": "闇術の練達に必要な素材。道場で使用できる。",
-    "icon": 406039
+    "name_en": "Dark Spell Amplification Scroll",
+    "name_en_src": "gl",
+    "sort_order": 49999530
   }
 ]

@@ -1,84 +1,99 @@
 [
   {
-    "id": 900003,
-    "name": "最果ての秘宝・小",
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムを一定確率で獲得可能。<br>報酬：SS[最果ての島から]ボストンのピース、シルバーピース、宝珠メダルなど",
-    "rarity": 4,
-    "max_quantity": 9999,
-    "expired_at": 0,
-    "icon": 900003,
-    "sort_order": 1010,
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Orb Medals, and more.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       400000068,
       400000069
-    ]
+    ],
+    "expired_at": 0,
+    "icon": 900003,
+    "id": 900003,
+    "max_quantity": 9999,
+    "name": "最果ての秘宝・小",
+    "name_en": "The Final Treasure - Small",
+    "name_en_src": "gl",
+    "rarity": 4,
+    "sort_order": 1010
   },
   {
-    "id": 900004,
-    "name": "最果ての秘宝・大",
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムを一定確率で獲得可能。<br>報酬：SS[最果ての島から]ボストンのスタイル、SS[最果ての島から]ボストンのピース、強者の称号・二の段、強者の称号・一の段、宝珠メダル、スタミナ回復剤（大）など",
-    "rarity": 5,
-    "max_quantity": 9999,
-    "expired_at": 0,
-    "icon": 900004,
-    "sort_order": 1015,
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testament of the Mighty: Rank 2, Testament of the Mighty: Rank 1, Orb Medals, Stamina Potions (Large), and more.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       400000070,
       400000071,
       400000072
-    ]
+    ],
+    "expired_at": 0,
+    "icon": 900004,
+    "id": 900004,
+    "max_quantity": 9999,
+    "name": "最果ての秘宝・大",
+    "name_en": "The Final Treasure - Large",
+    "name_en_src": "gl",
+    "rarity": 5,
+    "sort_order": 1015
   },
   {
-    "id": 900006,
-    "name": "ふくびきBOX[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧から一定確率でアイテムが出現します。（2020/8/18 4:00まで）",
-    "rarity": 2,
-    "max_quantity": 9999,
-    "expired_at": 1597690799,
-    "icon": 900006,
-    "sort_order": 1025,
+    "description_en": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1627606799] <tz>)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       92829,
       92845
-    ]
+    ],
+    "expired_at": 1597690799,
+    "icon": 900006,
+    "id": 900006,
+    "max_quantity": 9999,
+    "name": "ふくびきBOX[期間限定]",
+    "name_en": "Festival Box [Ltd. Time]",
+    "name_en_src": "gl",
+    "rarity": 2,
+    "sort_order": 1025
   },
   {
-    "id": 900007,
-    "name": "スーパーふくびきBOX[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧から一定確率でアイテムが出現します。（2020/8/18 4:00まで）",
-    "rarity": 3,
-    "max_quantity": 9999,
-    "expired_at": 1597690799,
-    "icon": 900007,
-    "sort_order": 1030,
+    "description_en": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1627606799] <tz>)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       92830,
       92846
-    ]
+    ],
+    "expired_at": 1597690799,
+    "icon": 900007,
+    "id": 900007,
+    "max_quantity": 9999,
+    "name": "スーパーふくびきBOX[期間限定]",
+    "name_en": "Super Festival Box [Ltd. Time]",
+    "name_en_src": "gl",
+    "rarity": 3,
+    "sort_order": 1030
   },
   {
-    "id": 900008,
-    "name": "デラックスふくびきBOX[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧から一定確率でアイテムが出現します。（2020/8/18 4:00まで）",
-    "rarity": 4,
-    "max_quantity": 9999,
-    "expired_at": 1597690799,
-    "icon": 900008,
-    "sort_order": 1035,
+    "description_en": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1627606799] <tz>)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       92831,
       92847
-    ]
+    ],
+    "expired_at": 1597690799,
+    "icon": 900008,
+    "id": 900008,
+    "max_quantity": 9999,
+    "name": "デラックスふくびきBOX[期間限定]",
+    "name_en": "Deluxe Festival Box [Ltd. Time]",
+    "name_en_src": "gl",
+    "rarity": 4,
+    "sort_order": 1035
   },
   {
-    "id": 900009,
-    "name": "ゴールデンBOX",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧から一定確率でアイテムが出現します。",
-    "rarity": 5,
-    "max_quantity": 9999,
-    "expired_at": 0,
-    "icon": 900009,
-    "sort_order": 1040,
+    "description_en": "Open from Items>Treasure Box. You may get any of the items from Rewards.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       93127,
       93128,
@@ -92,17 +107,21 @@
       93136,
       93137,
       93138
-    ]
+    ],
+    "expired_at": 0,
+    "icon": 900009,
+    "id": 900009,
+    "max_quantity": 9999,
+    "name": "ゴールデンBOX",
+    "name_en": "Golden Box",
+    "name_en_src": "gl",
+    "rarity": 5,
+    "sort_order": 1040
   },
   {
-    "id": 900011,
-    "name": "聖石洞窟の箱[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧から一定確率でアイテムが出現します。（2020/10/29 4:00まで）",
-    "rarity": 5,
-    "max_quantity": 9999,
-    "expired_at": 1603911599,
-    "icon": 900011,
-    "sort_order": 1046,
+    "description_en": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1630025999] <tz>)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       93294,
       93295,
@@ -110,33 +129,41 @@
       93297,
       93298,
       93307
-    ]
+    ],
+    "expired_at": 1603911599,
+    "icon": 900011,
+    "id": 900011,
+    "max_quantity": 9999,
+    "name": "聖石洞窟の箱[期間限定]",
+    "name_en": "Cave of Holy Stones Box [Ltd. Time]",
+    "name_en_src": "gl",
+    "rarity": 5,
+    "sort_order": 1046
   },
   {
-    "id": 900014,
-    "name": "おせち重箱[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧から一定確率でアイテムが出現します。（2021/2/12 4:00まで）",
-    "rarity": 5,
-    "max_quantity": 9999,
-    "expired_at": 1613069999,
-    "icon": 900016,
-    "sort_order": 1060,
+    "description_en": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1644627599] <tz>)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       95234,
       95234,
       95234,
       95234
-    ]
+    ],
+    "expired_at": 1613069999,
+    "icon": 900016,
+    "id": 900014,
+    "max_quantity": 9999,
+    "name": "おせち重箱[期間限定]",
+    "name_en": "New Year's Food Box [Ltd. Time]",
+    "name_en_src": "gl",
+    "rarity": 5,
+    "sort_order": 1060
   },
   {
-    "id": 900015,
-    "name": "丑おみくじ（小吉）[期間限定] ",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2021/2/15 4:00まで）",
-    "rarity": 3,
-    "max_quantity": 9999,
-    "expired_at": 1613329199,
-    "icon": 900019,
-    "sort_order": 1065,
+    "description_en": "Open from Items>Treasure Box. You will get the items from Rewards. (Until [1644541199] <tz>)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       95277,
       95278,
@@ -148,17 +175,21 @@
       95284,
       95285,
       95286
-    ]
+    ],
+    "expired_at": 1613329199,
+    "icon": 900019,
+    "id": 900015,
+    "max_quantity": 9999,
+    "name": "丑おみくじ（小吉）[期間限定] ",
+    "name_en": "Ox Fortune Slip (Small Luck) [Ltd. Time]",
+    "name_en_src": "gl",
+    "rarity": 3,
+    "sort_order": 1065
   },
   {
-    "id": 900016,
-    "name": "丑おみくじ（中吉）[期間限定] ",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2021/2/15 4:00まで）",
-    "rarity": 4,
-    "max_quantity": 9999,
-    "expired_at": 1613329199,
-    "icon": 900018,
-    "sort_order": 1070,
+    "description_en": "Open from Items>Treasure Box. You will get the items from Rewards. (Until [1644541199] <tz>)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       95267,
       95268,
@@ -170,17 +201,21 @@
       95274,
       95275,
       95276
-    ]
+    ],
+    "expired_at": 1613329199,
+    "icon": 900018,
+    "id": 900016,
+    "max_quantity": 9999,
+    "name": "丑おみくじ（中吉）[期間限定] ",
+    "name_en": "Ox Fortune Slip (Fair Luck) [Ltd. Time]",
+    "name_en_src": "gl",
+    "rarity": 4,
+    "sort_order": 1070
   },
   {
-    "id": 900017,
-    "name": "丑おみくじ（大吉）[期間限定] ",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2021/2/15 4:00まで）",
-    "rarity": 5,
-    "max_quantity": 9999,
-    "expired_at": 1613329199,
-    "icon": 900017,
-    "sort_order": 1075,
+    "description_en": "Open from Items>Treasure Box. You will get the items from Rewards. (Until [1644541199] <tz>)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       95257,
       95258,
@@ -192,17 +227,21 @@
       95264,
       95265,
       95266
-    ]
+    ],
+    "expired_at": 1613329199,
+    "icon": 900017,
+    "id": 900017,
+    "max_quantity": 9999,
+    "name": "丑おみくじ（大吉）[期間限定] ",
+    "name_en": "Ox Fortune Slip (Great Luck) [Ltd. Time]",
+    "name_en_src": "gl",
+    "rarity": 5,
+    "sort_order": 1075
   },
   {
-    "id": 900020,
-    "name": "アビスの財宝[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧からランダムでアイテムが出現します。（2021/7/29 4:00まで）",
-    "rarity": 5,
-    "max_quantity": 9999,
-    "expired_at": 1627498799,
-    "icon": 900020,
-    "sort_order": 1080,
+    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item will randomly appear from the reward list. (Until 2021/7/29 4:00)",
+    "description_en_src": "ml",
     "drop_group_ids": [
       102252,
       102252,
@@ -214,17 +253,21 @@
       102252,
       102252,
       102252
-    ]
+    ],
+    "expired_at": 1627498799,
+    "icon": 900020,
+    "id": 900020,
+    "max_quantity": 9999,
+    "name": "アビスの財宝[期間限定]",
+    "name_en": "Treasures of the Abyss [Limited Time]",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "sort_order": 1080
   },
   {
-    "id": 900022,
-    "name": "3周年カウントダウンプレゼント・金[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2021/12/11 4:00まで）",
-    "rarity": 5,
-    "max_quantity": 9999,
-    "expired_at": 1639162799,
-    "icon": 900022,
-    "sort_order": 21111820,
+    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2021/12/11 4:00)",
+    "description_en_src": "ml",
     "drop_group_ids": [
       21006604,
       21006605,
@@ -236,17 +279,21 @@
       21006611,
       21006612,
       21006613
-    ]
+    ],
+    "expired_at": 1639162799,
+    "icon": 900022,
+    "id": 900022,
+    "max_quantity": 9999,
+    "name": "3周年カウントダウンプレゼント・金[期間限定]",
+    "name_en": "3rd Anniversary Countdown Present/Gold [Limited Time]",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "sort_order": 21111820
   },
   {
-    "id": 900023,
-    "name": "3周年カウントダウンプレゼント・銀[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2021/12/11 4:00まで）",
-    "rarity": 4,
-    "max_quantity": 9999,
-    "expired_at": 1639162799,
-    "icon": 900023,
-    "sort_order": 21111815,
+    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2021/12/11 4:00)",
+    "description_en_src": "ml",
     "drop_group_ids": [
       21006614,
       21006615,
@@ -258,17 +305,21 @@
       21006621,
       21006622,
       21006623
-    ]
+    ],
+    "expired_at": 1639162799,
+    "icon": 900023,
+    "id": 900023,
+    "max_quantity": 9999,
+    "name": "3周年カウントダウンプレゼント・銀[期間限定]",
+    "name_en": "3rd Anniversary Countdown Present Silver [Limited Time]",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "sort_order": 21111815
   },
   {
-    "id": 900024,
-    "name": "3周年カウントダウンプレゼント・銅[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2021/12/11 4:00まで）",
-    "rarity": 3,
-    "max_quantity": 9999,
-    "expired_at": 1639162799,
-    "icon": 900024,
-    "sort_order": 21111810,
+    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2021/12/11 4:00)",
+    "description_en_src": "ml",
     "drop_group_ids": [
       21006624,
       21006625,
@@ -280,17 +331,21 @@
       21006631,
       21006632,
       21006633
-    ]
+    ],
+    "expired_at": 1639162799,
+    "icon": 900024,
+    "id": 900024,
+    "max_quantity": 9999,
+    "name": "3周年カウントダウンプレゼント・銅[期間限定]",
+    "name_en": "3rd Anniversary Countdown Present Bronze [Limited Time]",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "sort_order": 21111810
   },
   {
-    "id": 900025,
-    "name": "聖夜のプレゼント[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧から一定確率でアイテムが出現します。（2022/1/25 4:00まで）",
-    "rarity": 5,
-    "max_quantity": 9999,
-    "expired_at": 1643050799,
-    "icon": 900025,
-    "sort_order": 21122125,
+    "description_en": "Can be opened from Items > Treasure Chest When you open it, there is a certain probability that an item will appear from the reward list. (until 2022/1/25 4:00)",
+    "description_en_src": "ml",
     "drop_group_ids": [
       103471,
       103471,
@@ -302,30 +357,38 @@
       103471,
       103471,
       103471
-    ]
+    ],
+    "expired_at": 1643050799,
+    "icon": 900025,
+    "id": 900025,
+    "max_quantity": 9999,
+    "name": "聖夜のプレゼント[期間限定]",
+    "name_en": "Present for Holy Night [Limited Time]",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "sort_order": 21122125
   },
   {
-    "id": 900026,
-    "name": "寅のおみくじ箱[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2022/2/15 4:00まで）",
-    "rarity": 3,
-    "max_quantity": 9999,
-    "expired_at": 1644865199,
-    "icon": 900026,
-    "sort_order": 22010130,
+    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2022/2/15 4:00)",
+    "description_en_src": "ml",
     "drop_group_ids": [
       21008000
-    ]
+    ],
+    "expired_at": 1644865199,
+    "icon": 900026,
+    "id": 900026,
+    "max_quantity": 9999,
+    "name": "寅のおみくじ箱[期間限定]",
+    "name_en": "Tiger's Omikuji Box [Limited Time]",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "sort_order": 22010130
   },
   {
-    "id": 900027,
-    "name": "寅おみくじ（大吉）[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2022/2/15 4:00まで）",
-    "rarity": 5,
-    "max_quantity": 9999,
-    "expired_at": 1644865199,
-    "icon": 900017,
-    "sort_order": 22010125,
+    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2022/2/15 4:00)",
+    "description_en_src": "ml",
     "drop_group_ids": [
       21008001,
       21008002,
@@ -337,17 +400,21 @@
       21008008,
       21008009,
       21008010
-    ]
+    ],
+    "expired_at": 1644865199,
+    "icon": 900017,
+    "id": 900027,
+    "max_quantity": 9999,
+    "name": "寅おみくじ（大吉）[期間限定]",
+    "name_en": "Tiger Omikuji (Daikichi) [Limited Time]",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "sort_order": 22010125
   },
   {
-    "id": 900028,
-    "name": "寅おみくじ（中吉）[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2022/2/15 4:00まで）",
-    "rarity": 4,
-    "max_quantity": 9999,
-    "expired_at": 1644865199,
-    "icon": 900018,
-    "sort_order": 22010120,
+    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2022/2/15 4:00)",
+    "description_en_src": "ml",
     "drop_group_ids": [
       21008011,
       21008012,
@@ -359,17 +426,21 @@
       21008018,
       21008019,
       21008020
-    ]
+    ],
+    "expired_at": 1644865199,
+    "icon": 900018,
+    "id": 900028,
+    "max_quantity": 9999,
+    "name": "寅おみくじ（中吉）[期間限定]",
+    "name_en": "Tiger Omikuji (Nakayoshi) [Limited Time]",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "sort_order": 22010120
   },
   {
-    "id": 900029,
-    "name": "寅おみくじ（小吉）[期間限定]",
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2022/2/15 4:00まで）",
-    "rarity": 3,
-    "max_quantity": 9999,
-    "expired_at": 1644865199,
-    "icon": 900019,
-    "sort_order": 22010115,
+    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2022/2/15 4:00)",
+    "description_en_src": "ml",
     "drop_group_ids": [
       21008021,
       21008022,
@@ -381,37 +452,54 @@
       21008028,
       21008029,
       21008030
-    ]
+    ],
+    "expired_at": 1644865199,
+    "icon": 900019,
+    "id": 900029,
+    "max_quantity": 9999,
+    "name": "寅おみくじ（小吉）[期間限定]",
+    "name_en": "Tiger Omikuji (Shokichi) [Limited Time]",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "sort_order": 22010115
   },
   {
-    "id": 900030,
-    "name": "最果ての秘宝Ⅱ・小",
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムを一定確率で獲得可能。<br>報酬：SS[最果ての島から]ボストンのピース、シルバーピース、宝珠メダルなど",
-    "rarity": 4,
-    "max_quantity": 9999,
-    "expired_at": 0,
-    "icon": 900027,
-    "sort_order": 49999005,
+    "description_en": "Can be opened from Items > Treasure Chest If you open the box, you can get the following items with a certain chance. <br>Reward: SS [From the Farthest Island] Boston Piece, Silver Piece, Orb Medal, etc.",
+    "description_en_src": "ml",
     "drop_group_ids": [
       400000068,
       400000069,
       400000221
-    ]
+    ],
+    "expired_at": 0,
+    "icon": 900027,
+    "id": 900030,
+    "max_quantity": 9999,
+    "name": "最果ての秘宝Ⅱ・小",
+    "name_en": "The Farthest Hidden Treasure Ⅱ, Small",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "sort_order": 49999005
   },
   {
-    "id": 900031,
-    "name": "最果ての秘宝Ⅱ・大",
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムを一定確率で獲得可能。<br>報酬：SS[最果ての島から]ボストンのスタイル、SS[最果ての島から]ボストンのピース、強者の称号・四の段、強者の称号・三の段、宝珠メダル、スタミナ回復薬(大)など",
-    "rarity": 5,
-    "max_quantity": 9999,
-    "expired_at": 0,
-    "icon": 900028,
-    "sort_order": 49999010,
+    "description_en": "Can be opened from Items > Treasure Chest If you open the box, you can get the following items with a certain chance. <br>Reward: SS [From the Farthest Island] Boston Style, SS [From the Farthest Island] Boston Piece, Title of Strong: Fourth Stage, Title of Strong, Third Stage, Orb Medal, Stamina Recovery Pill (Large), etc.",
+    "description_en_src": "ml",
     "drop_group_ids": [
       400000070,
       400000071,
       400000072,
       400000222
-    ]
+    ],
+    "expired_at": 0,
+    "icon": 900028,
+    "id": 900031,
+    "max_quantity": 9999,
+    "name": "最果ての秘宝Ⅱ・大",
+    "name_en": "The Farthest Hidden Treasure II, Large",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "sort_order": 49999010
   }
 ]

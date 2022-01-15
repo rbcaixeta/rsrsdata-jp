@@ -2,76 +2,106 @@
   {
     "id": 1,
     "motion_name": "WalkDown",
-    "name": "歩き(前)"
+    "name": "歩き(前)",
+    "name_en": "Walk (Forward)",
+    "name_en_src": "gl"
   },
   {
     "id": 2,
     "motion_name": "WalkRight",
-    "name": "歩き(右)"
+    "name": "歩き(右)",
+    "name_en": "Walk (Right)",
+    "name_en_src": "gl"
   },
   {
     "id": 3,
     "motion_name": "WalkUp",
-    "name": "歩き(後)"
+    "name": "歩き(後)",
+    "name_en": "Walk (Backward)",
+    "name_en_src": "gl"
   },
   {
     "id": 4,
     "motion_name": "WalkLeft",
-    "name": "歩き(左)"
+    "name": "歩き(左)",
+    "name_en": "Walk (Left)",
+    "name_en_src": "gl"
   },
   {
     "id": 5,
     "motion_name": "DashDown",
-    "name": "走り(前)"
+    "name": "走り(前)",
+    "name_en": "Run (Forward)",
+    "name_en_src": "gl"
   },
   {
     "id": 6,
     "motion_name": "DashRight",
-    "name": "走り(右)"
+    "name": "走り(右)",
+    "name_en": "Run (Right)",
+    "name_en_src": "gl"
   },
   {
     "id": 7,
     "motion_name": "DashUp",
-    "name": "走り(後)"
+    "name": "走り(後)",
+    "name_en": "Run (Backward)",
+    "name_en_src": "gl"
   },
   {
     "id": 8,
     "motion_name": "DashLeft",
-    "name": "走り(左)"
+    "name": "走り(左)",
+    "name_en": "Run (Left)",
+    "name_en_src": "gl"
   },
   {
     "id": 9,
     "motion_name": "Ready",
-    "name": "行動選択"
+    "name": "行動選択",
+    "name_en": "Action Selected",
+    "name_en_src": "gl"
   },
   {
     "id": 10,
     "motion_name": "ReadyFinish",
-    "name": "行動決定(技)"
+    "name": "行動決定(技)",
+    "name_en": "Action Confirmed (Skill)",
+    "name_en_src": "gl"
   },
   {
     "id": 11,
     "motion_name": "SpellReadyFinish",
-    "name": "行動決定(術)"
+    "name": "行動決定(術)",
+    "name_en": "Action Confirmed (Spell)",
+    "name_en_src": "gl"
   },
   {
     "id": 12,
     "motion_name": "SpellCast",
-    "name": "術発動"
+    "name": "術発動",
+    "name_en": "Spell Activated",
+    "name_en_src": "gl"
   },
   {
     "id": 13,
     "motion_name": "StatusUp",
-    "name": "成長"
+    "name": "成長",
+    "name_en": "Growth",
+    "name_en_src": "gl"
   },
   {
     "id": 14,
     "motion_name": "Win",
-    "name": "勝利"
+    "name": "勝利",
+    "name_en": "Victory",
+    "name_en_src": "gl"
   },
   {
     "id": 15,
     "motion_name": "Damage",
-    "name": "ダメージ"
+    "name": "ダメージ",
+    "name_en": "Damaged",
+    "name_en_src": "gl"
   }
 ]

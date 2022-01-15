@@ -1,25 +1,37 @@
 [
   {
+    "flavor_text": "全てのAスタイルの限界突破に使用できる万能ピース。",
+    "flavor_text_en": "A Style Piece that can be used to unlock the level cap for any A-Rank Style.",
+    "flavor_text_en_src": "gl",
+    "icon": 103001,
     "id": 103001,
     "name": "ブロンズピース",
-    "flavor_text": "全てのAスタイルの限界突破に使用できる万能ピース。",
-    "icon": 103001,
+    "name_en": "Bronze Piece",
+    "name_en_src": "gl",
     "selling_price": 10,
     "sort_order": 49999990
   },
   {
+    "flavor_text": "全てのSスタイルの限界突破に使用できる万能ピース。",
+    "flavor_text_en": "A Style Piece that can be used to unlock the level cap for any S-Rank Style.",
+    "flavor_text_en_src": "gl",
+    "icon": 104001,
     "id": 104001,
     "name": "シルバーピース",
-    "flavor_text": "全てのSスタイルの限界突破に使用できる万能ピース。",
-    "icon": 104001,
+    "name_en": "Silver Piece",
+    "name_en_src": "gl",
     "selling_price": 30,
     "sort_order": 49999995
   },
   {
+    "flavor_text": "全てのSSスタイルの限界突破に使用できる万能ピース。",
+    "flavor_text_en": "A Style Piece that can be used to unlock the level cap for any SS-Rank Style.",
+    "flavor_text_en_src": "gl",
+    "icon": 105001,
     "id": 105001,
     "name": "ゴールドピース",
-    "flavor_text": "全てのSSスタイルの限界突破に使用できる万能ピース。",
-    "icon": 105001,
+    "name_en": "Gold Piece",
+    "name_en_src": "gl",
     "selling_price": 100,
     "sort_order": 50000000
   }
