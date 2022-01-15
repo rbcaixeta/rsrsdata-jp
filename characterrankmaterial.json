@@ -1,14 +1,10 @@
 [
   {
-    "flavor_text": "昇段試験を受けるために必要なアイテム。",
-    "flavor_text_en": "Items required to take the Shodan Exam",
-    "flavor_text_en_src": "ml",
-    "icon": "960001",
     "id": 960001,
-    "max_quantity": 9999999,
     "name": "昇段の巻物",
-    "name_en": "Scroll of Shodan",
-    "name_en_src": "ml",
+    "flavor_text": "昇段試験を受けるために必要なアイテム。",
+    "icon": "960001",
+    "max_quantity": 9999999,
     "sort_order": 49999950
   }
 ]
