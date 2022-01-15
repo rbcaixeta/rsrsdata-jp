@@ -1,4 +1,4 @@
-# Romancing SaGa:re:UniverSe JP-version data files
+# Romancing SaGa re;UniverSe JP-version data files
 
 Those are data-files downloaded from JP game servers automatically on an hourly based.
 
