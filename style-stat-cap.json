@@ -950,6 +950,25 @@
     "modifier_cha": -3
   },
   {
+    "styleId": 210209,
+    "modifier_char_str": 1,
+    "modifier_char_end": 0,
+    "modifier_char_dex": 2,
+    "modifier_char_agi": 2,
+    "modifier_char_int": 2,
+    "modifier_char_wil": 1,
+    "modifier_char_lov": 0,
+    "modifier_char_cha": 1,
+    "modifier_str": -5,
+    "modifier_end": -5,
+    "modifier_dex": 4,
+    "modifier_agi": -5,
+    "modifier_int": -5,
+    "modifier_wil": -5,
+    "modifier_lov": -5,
+    "modifier_cha": 1
+  },
+  {
     "styleId": 210301,
     "modifier_char_str": 1,
     "modifier_char_end": 0,
@@ -1691,6 +1710,25 @@
     "modifier_cha": -2
   },
   {
+    "styleId": 211203,
+    "modifier_char_str": 0,
+    "modifier_char_end": 0,
+    "modifier_char_dex": 0,
+    "modifier_char_agi": 0,
+    "modifier_char_int": 0,
+    "modifier_char_wil": 0,
+    "modifier_char_lov": 0,
+    "modifier_char_cha": 0,
+    "modifier_str": -5,
+    "modifier_end": -5,
+    "modifier_dex": 4,
+    "modifier_agi": 1,
+    "modifier_int": -5,
+    "modifier_wil": -5,
+    "modifier_lov": -5,
+    "modifier_cha": -5
+  },
+  {
     "styleId": 211301,
     "modifier_char_str": 4,
     "modifier_char_end": 3,
@@ -1936,6 +1974,44 @@
     "modifier_wil": 0,
     "modifier_lov": 0,
     "modifier_cha": 0
+  },
+  {
+    "styleId": 212101,
+    "modifier_char_str": 3,
+    "modifier_char_end": 1,
+    "modifier_char_dex": -1,
+    "modifier_char_agi": 5,
+    "modifier_char_int": 0,
+    "modifier_char_wil": 1,
+    "modifier_char_lov": -1,
+    "modifier_char_cha": 1,
+    "modifier_str": -5,
+    "modifier_end": -5,
+    "modifier_dex": -5,
+    "modifier_agi": 4,
+    "modifier_int": 1,
+    "modifier_wil": -5,
+    "modifier_lov": -5,
+    "modifier_cha": -5
+  },
+  {
+    "styleId": 212103,
+    "modifier_char_str": 3,
+    "modifier_char_end": 1,
+    "modifier_char_dex": -1,
+    "modifier_char_agi": 5,
+    "modifier_char_int": 0,
+    "modifier_char_wil": 1,
+    "modifier_char_lov": -1,
+    "modifier_char_cha": 1,
+    "modifier_str": 1,
+    "modifier_end": -5,
+    "modifier_dex": -5,
+    "modifier_agi": 1,
+    "modifier_int": -5,
+    "modifier_wil": 1,
+    "modifier_lov": -5,
+    "modifier_cha": -5
   },
   {
     "styleId": 212201,
@@ -2582,6 +2658,25 @@
     "modifier_wil": 0,
     "modifier_lov": 0,
     "modifier_cha": 3
+  },
+  {
+    "styleId": 219305,
+    "modifier_char_str": 0,
+    "modifier_char_end": 0,
+    "modifier_char_dex": 1,
+    "modifier_char_agi": 3,
+    "modifier_char_int": 2,
+    "modifier_char_wil": 1,
+    "modifier_char_lov": 1,
+    "modifier_char_cha": 1,
+    "modifier_str": -5,
+    "modifier_end": -5,
+    "modifier_dex": -5,
+    "modifier_agi": -5,
+    "modifier_int": 1,
+    "modifier_wil": 4,
+    "modifier_lov": -5,
+    "modifier_cha": -5
   },
   {
     "styleId": 220101,
@@ -11948,7 +12043,7 @@
     "modifier_int": 0,
     "modifier_wil": -2,
     "modifier_lov": -4,
-    "modifier_cha": -1
+    "modifier_cha": 0
   },
   {
     "styleId": 610201,
@@ -13696,7 +13791,7 @@
     "modifier_int": 0,
     "modifier_wil": -4,
     "modifier_lov": -1,
-    "modifier_cha": -2
+    "modifier_cha": 0
   },
   {
     "styleId": 715401,
