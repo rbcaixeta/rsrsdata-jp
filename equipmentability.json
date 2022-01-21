@@ -2161,7 +2161,7 @@
     ],
     "id": 40001,
     "name": "全状態異常耐性",
-    "name_en": "Abnormal All-State Tolerance",
+    "name_en": "All condition resistance",
     "name_en_src": "ml",
     "sort_order": 40001
   },
@@ -2180,7 +2180,7 @@
     ],
     "id": 40002,
     "name": "毒耐性",
-    "name_en": "Toxic resistance",
+    "name_en": "Poison resistance",
     "name_en_src": "ml",
     "sort_order": 40002
   },
@@ -2199,7 +2199,7 @@
     ],
     "id": 40003,
     "name": "暗闇耐性",
-    "name_en": "Darkness tolerance",
+    "name_en": "Dark resistance",
     "name_en_src": "ml",
     "sort_order": 40003
   },
@@ -2237,7 +2237,7 @@
     ],
     "id": 40005,
     "name": "マヒ耐性",
-    "name_en": "Mahi resistance",
+    "name_en": "Paralysis resistance",
     "name_en_src": "ml",
     "sort_order": 40005
   },
@@ -2313,7 +2313,7 @@
     ],
     "id": 40009,
     "name": "魅了耐性",
-    "name_en": "Enchantment resistance",
+    "name_en": "Fascination resistance",
     "name_en_src": "ml",
     "sort_order": 40009
   },
@@ -2370,7 +2370,7 @@
     ],
     "id": 40012,
     "name": "腕力・毒耐性",
-    "name_en": "Strength and poison resistance",
+    "name_en": "Strength / poison resistance",
     "name_en_src": "ml",
     "sort_order": 40012
   },
@@ -2389,7 +2389,7 @@
     ],
     "id": 40013,
     "name": "腕力・暗闇耐性",
-    "name_en": "Brawness/Darkness Tolerance",
+    "name_en": "Strength / darkness resistance",
     "name_en_src": "ml",
     "sort_order": 40013
   },
@@ -2408,7 +2408,7 @@
     ],
     "id": 40014,
     "name": "腕力・スタン耐性",
-    "name_en": "Brawness/stun resistance",
+    "name_en": "Strength / stun resistance",
     "name_en_src": "ml",
     "sort_order": 40014
   },
@@ -2427,7 +2427,7 @@
     ],
     "id": 40015,
     "name": "腕力・マヒ耐性",
-    "name_en": "Strength and Mahi resistance",
+    "name_en": "Strength / paralysis resistance",
     "name_en_src": "ml",
     "sort_order": 40015
   },
@@ -2446,7 +2446,7 @@
     ],
     "id": 40016,
     "name": "腕力・眠り耐性",
-    "name_en": "Brawness/Sleep Tolerance",
+    "name_en": "Strength / sleep resistance",
     "name_en_src": "ml",
     "sort_order": 40016
   },
@@ -2484,7 +2484,7 @@
     ],
     "id": 40018,
     "name": "腕力・混乱耐性",
-    "name_en": "Brawness/Confusion Resistance",
+    "name_en": "Strength and confusion resistance",
     "name_en_src": "ml",
     "sort_order": 40018
   },
@@ -2503,7 +2503,7 @@
     ],
     "id": 40019,
     "name": "腕力・魅了耐性",
-    "name_en": "Brawness/fascination resistance",
+    "name_en": "Strength and fascination resistance",
     "name_en_src": "ml",
     "sort_order": 40019
   },
@@ -2522,7 +2522,7 @@
     ],
     "id": 40020,
     "name": "腕力・狂戦士耐性",
-    "name_en": "Brawness/Berserker Resistance",
+    "name_en": "Strength and berserker resistance",
     "name_en_src": "ml",
     "sort_order": 40020
   },
@@ -2541,7 +2541,7 @@
     ],
     "id": 40021,
     "name": "腕力・気絶耐性",
-    "name_en": "Brawness/stun resistance",
+    "name_en": "Strength and stunning resistance",
     "name_en_src": "ml",
     "sort_order": 40021
   },
@@ -2560,7 +2560,7 @@
     ],
     "id": 40022,
     "name": "体力・毒耐性",
-    "name_en": "Stamina, Toxic Resistance",
+    "name_en": "Physical strength / poison resistance",
     "name_en_src": "ml",
     "sort_order": 40022
   },
@@ -2579,7 +2579,7 @@
     ],
     "id": 40023,
     "name": "体力・暗闇耐性",
-    "name_en": "Stamina, darkness resistance",
+    "name_en": "Physical strength / darkness tolerance",
     "name_en_src": "ml",
     "sort_order": 40023
   },
@@ -2598,7 +2598,7 @@
     ],
     "id": 40024,
     "name": "体力・スタン耐性",
-    "name_en": "Health and stun resistance",
+    "name_en": "Physical strength / stun resistance",
     "name_en_src": "ml",
     "sort_order": 40024
   },
@@ -2617,7 +2617,7 @@
     ],
     "id": 40025,
     "name": "体力・マヒ耐性",
-    "name_en": "Physical strength and mahi resistance",
+    "name_en": "Physical strength and paralysis resistance",
     "name_en_src": "ml",
     "sort_order": 40025
   },
@@ -2636,7 +2636,7 @@
     ],
     "id": 40026,
     "name": "体力・眠り耐性",
-    "name_en": "Physical strength/sleep tolerance",
+    "name_en": "Physical fitness / sleep tolerance",
     "name_en_src": "ml",
     "sort_order": 40026
   },
@@ -2674,7 +2674,7 @@
     ],
     "id": 40028,
     "name": "体力・混乱耐性",
-    "name_en": "Physical strength/confusion resistance",
+    "name_en": "Physical strength and confusion resistance",
     "name_en_src": "ml",
     "sort_order": 40028
   },
@@ -2693,7 +2693,7 @@
     ],
     "id": 40029,
     "name": "体力・魅了耐性",
-    "name_en": "Stamina, fascination resistance",
+    "name_en": "Physical strength and fascination resistance",
     "name_en_src": "ml",
     "sort_order": 40029
   },
@@ -2712,7 +2712,7 @@
     ],
     "id": 40030,
     "name": "体力・狂戦士耐性",
-    "name_en": "Stamness/Berserker Resistance",
+    "name_en": "Physical strength / berserker resistance",
     "name_en_src": "ml",
     "sort_order": 40030
   },
@@ -2731,7 +2731,7 @@
     ],
     "id": 40031,
     "name": "体力・気絶耐性",
-    "name_en": "Stamness/stun resistance",
+    "name_en": "Physical fitness and stunning resistance",
     "name_en_src": "ml",
     "sort_order": 40031
   },
@@ -2769,7 +2769,7 @@
     ],
     "id": 40033,
     "name": "器用さ・暗闇耐性",
-    "name_en": "Dexterity, darkness resistance",
+    "name_en": "Dexterity and darkness resistance",
     "name_en_src": "ml",
     "sort_order": 40033
   },
@@ -2807,7 +2807,7 @@
     ],
     "id": 40035,
     "name": "器用さ・マヒ耐性",
-    "name_en": "Dexterity and Mahi resistance",
+    "name_en": "Dexterity and paralysis resistance",
     "name_en_src": "ml",
     "sort_order": 40035
   },
@@ -2826,7 +2826,7 @@
     ],
     "id": 40036,
     "name": "器用さ・眠り耐性",
-    "name_en": "Dexterity, sleep tolerance",
+    "name_en": "Dexterity / sleep resistance",
     "name_en_src": "ml",
     "sort_order": 40036
   },
@@ -2864,7 +2864,7 @@
     ],
     "id": 40038,
     "name": "器用さ・混乱耐性",
-    "name_en": "Dexterity and confusion tolerance",
+    "name_en": "Dexterity and confusion resistance",
     "name_en_src": "ml",
     "sort_order": 40038
   },
@@ -2883,7 +2883,7 @@
     ],
     "id": 40039,
     "name": "器用さ・魅了耐性",
-    "name_en": "Dexterity, fascination resistance",
+    "name_en": "Dexterity and fascination resistance",
     "name_en_src": "ml",
     "sort_order": 40039
   },
@@ -2902,7 +2902,7 @@
     ],
     "id": 40040,
     "name": "器用さ・狂戦士耐性",
-    "name_en": "Dexterity, Berserker Resistance",
+    "name_en": "Dexterity and berserker resistance",
     "name_en_src": "ml",
     "sort_order": 40040
   },
@@ -2921,7 +2921,7 @@
     ],
     "id": 40041,
     "name": "器用さ・気絶耐性",
-    "name_en": "Dexterity and stun resistance",
+    "name_en": "Dexterity and stunning resistance",
     "name_en_src": "ml",
     "sort_order": 40041
   },
@@ -2959,7 +2959,7 @@
     ],
     "id": 40043,
     "name": "素早さ・暗闇耐性",
-    "name_en": "Quickness and darkness resistance",
+    "name_en": "Quickness / darkness resistance",
     "name_en_src": "ml",
     "sort_order": 40043
   },
@@ -2997,7 +2997,7 @@
     ],
     "id": 40045,
     "name": "素早さ・マヒ耐性",
-    "name_en": "Quickness and Mahi resistance",
+    "name_en": "Quickness and paralysis resistance",
     "name_en_src": "ml",
     "sort_order": 40045
   },
@@ -3016,7 +3016,7 @@
     ],
     "id": 40046,
     "name": "素早さ・眠り耐性",
-    "name_en": "Quickness/Sleep Tolerance",
+    "name_en": "Quickness / sleep tolerance",
     "name_en_src": "ml",
     "sort_order": 40046
   },
@@ -3073,7 +3073,7 @@
     ],
     "id": 40049,
     "name": "素早さ・魅了耐性",
-    "name_en": "Quickness, fascination resistance",
+    "name_en": "Quickness and fascination resistance",
     "name_en_src": "ml",
     "sort_order": 40049
   },
@@ -3092,7 +3092,7 @@
     ],
     "id": 40050,
     "name": "素早さ・狂戦士耐性",
-    "name_en": "Quickness/Berserker Resistance",
+    "name_en": "Quickness and berserker resistance",
     "name_en_src": "ml",
     "sort_order": 40050
   },
@@ -3111,7 +3111,7 @@
     ],
     "id": 40051,
     "name": "素早さ・気絶耐性",
-    "name_en": "Quickness/stun resistance",
+    "name_en": "Quickness and stunning resistance",
     "name_en_src": "ml",
     "sort_order": 40051
   },
@@ -3130,7 +3130,7 @@
     ],
     "id": 40052,
     "name": "知力・毒耐性",
-    "name_en": "Intelligence, Toxic Resistance",
+    "name_en": "Intelligence / poison resistance",
     "name_en_src": "ml",
     "sort_order": 40052
   },
@@ -3149,7 +3149,7 @@
     ],
     "id": 40053,
     "name": "知力・暗闇耐性",
-    "name_en": "Intelligence/Darkness Tolerance",
+    "name_en": "Intelligence / darkness resistance",
     "name_en_src": "ml",
     "sort_order": 40053
   },
@@ -3168,7 +3168,7 @@
     ],
     "id": 40054,
     "name": "知力・スタン耐性",
-    "name_en": "Intelligence and stun resistance",
+    "name_en": "Intelligence / stun resistance",
     "name_en_src": "ml",
     "sort_order": 40054
   },
@@ -3187,7 +3187,7 @@
     ],
     "id": 40055,
     "name": "知力・マヒ耐性",
-    "name_en": "Intelligence and Mahi resistance",
+    "name_en": "Intelligence / paralysis resistance",
     "name_en_src": "ml",
     "sort_order": 40055
   },
@@ -3206,7 +3206,7 @@
     ],
     "id": 40056,
     "name": "知力・眠り耐性",
-    "name_en": "Intelligence/Sleep Tolerance",
+    "name_en": "Intelligence / sleep tolerance",
     "name_en_src": "ml",
     "sort_order": 40056
   },
@@ -3225,7 +3225,7 @@
     ],
     "id": 40057,
     "name": "知力・石化耐性",
-    "name_en": "Intelligence, petrification resistance",
+    "name_en": "Intelligence / petrification resistance",
     "name_en_src": "ml",
     "sort_order": 40057
   },
@@ -3244,7 +3244,7 @@
     ],
     "id": 40058,
     "name": "知力・混乱耐性",
-    "name_en": "Intelligence/Confusion Tolerance",
+    "name_en": "Intelligence / confusion resistance",
     "name_en_src": "ml",
     "sort_order": 40058
   },
@@ -3263,7 +3263,7 @@
     ],
     "id": 40059,
     "name": "知力・魅了耐性",
-    "name_en": "Intelligence, fascination resistance",
+    "name_en": "Intelligence / fascination resistance",
     "name_en_src": "ml",
     "sort_order": 40059
   },
@@ -3282,7 +3282,7 @@
     ],
     "id": 40060,
     "name": "知力・狂戦士耐性",
-    "name_en": "Intelligence, Berserker Resistance",
+    "name_en": "Intelligence / Berserker Resistance",
     "name_en_src": "ml",
     "sort_order": 40060
   },
@@ -3301,7 +3301,7 @@
     ],
     "id": 40061,
     "name": "知力・気絶耐性",
-    "name_en": "Intelligence/stun resistance",
+    "name_en": "Intelligence / fainting resistance",
     "name_en_src": "ml",
     "sort_order": 40061
   },
@@ -3320,7 +3320,7 @@
     ],
     "id": 40062,
     "name": "精神・毒耐性",
-    "name_en": "Mental and Toxic Resistance",
+    "name_en": "Mental and poison tolerance",
     "name_en_src": "ml",
     "sort_order": 40062
   },
@@ -3339,7 +3339,7 @@
     ],
     "id": 40063,
     "name": "精神・暗闇耐性",
-    "name_en": "Mental and Dark Tolerance",
+    "name_en": "Mental / dark tolerance",
     "name_en_src": "ml",
     "sort_order": 40063
   },
@@ -3358,7 +3358,7 @@
     ],
     "id": 40064,
     "name": "精神・スタン耐性",
-    "name_en": "Mental Stun Tolerance",
+    "name_en": "Mental / stun resistance",
     "name_en_src": "ml",
     "sort_order": 40064
   },
@@ -3377,7 +3377,7 @@
     ],
     "id": 40065,
     "name": "精神・マヒ耐性",
-    "name_en": "Mental Mahi Tolerance",
+    "name_en": "Mental and paralysis resistance",
     "name_en_src": "ml",
     "sort_order": 40065
   },
@@ -3396,7 +3396,7 @@
     ],
     "id": 40066,
     "name": "精神・眠り耐性",
-    "name_en": "Mental and Sleep Tolerance",
+    "name_en": "Mental / sleep tolerance",
     "name_en_src": "ml",
     "sort_order": 40066
   },
@@ -3453,7 +3453,7 @@
     ],
     "id": 40069,
     "name": "精神・魅了耐性",
-    "name_en": "Spirit/fascination tolerance",
+    "name_en": "Mental and fascination resistance",
     "name_en_src": "ml",
     "sort_order": 40069
   },
@@ -3472,7 +3472,7 @@
     ],
     "id": 40070,
     "name": "精神・狂戦士耐性",
-    "name_en": "Psychiatr/Berserker Resistance",
+    "name_en": "Mental and berserker resistance",
     "name_en_src": "ml",
     "sort_order": 40070
   },
@@ -3491,7 +3491,7 @@
     ],
     "id": 40071,
     "name": "精神・気絶耐性",
-    "name_en": "Mental and stun-resistant",
+    "name_en": "Mental / fainting tolerance",
     "name_en_src": "ml",
     "sort_order": 40071
   },
@@ -3510,7 +3510,7 @@
     ],
     "id": 40072,
     "name": "愛・毒耐性",
-    "name_en": "Love and poison resistance",
+    "name_en": "Love / poison resistance",
     "name_en_src": "ml",
     "sort_order": 40072
   },
@@ -3529,7 +3529,7 @@
     ],
     "id": 40073,
     "name": "愛・暗闇耐性",
-    "name_en": "Love/Darkness Tolerance",
+    "name_en": "Love / darkness tolerance",
     "name_en_src": "ml",
     "sort_order": 40073
   },
@@ -3548,7 +3548,7 @@
     ],
     "id": 40074,
     "name": "愛・スタン耐性",
-    "name_en": "Ai-stun resistance",
+    "name_en": "Love / stun resistance",
     "name_en_src": "ml",
     "sort_order": 40074
   },
@@ -3567,7 +3567,7 @@
     ],
     "id": 40075,
     "name": "愛・マヒ耐性",
-    "name_en": "Ai Mahi Tolerance",
+    "name_en": "Love / paralysis resistance",
     "name_en_src": "ml",
     "sort_order": 40075
   },
@@ -3586,7 +3586,7 @@
     ],
     "id": 40076,
     "name": "愛・眠り耐性",
-    "name_en": "Love/Sleep Tolerance",
+    "name_en": "Love / sleep tolerance",
     "name_en_src": "ml",
     "sort_order": 40076
   },
@@ -3605,7 +3605,7 @@
     ],
     "id": 40077,
     "name": "愛・石化耐性",
-    "name_en": "Love and petrification resistance",
+    "name_en": "Love / petrification resistance",
     "name_en_src": "ml",
     "sort_order": 40077
   },
@@ -3624,7 +3624,7 @@
     ],
     "id": 40078,
     "name": "愛・混乱耐性",
-    "name_en": "Love/Confusion Tolerance",
+    "name_en": "Love / confusion resistance",
     "name_en_src": "ml",
     "sort_order": 40078
   },
@@ -3643,7 +3643,7 @@
     ],
     "id": 40079,
     "name": "愛・魅了耐性",
-    "name_en": "Love and fascination tolerance",
+    "name_en": "Love / fascination resistance",
     "name_en_src": "ml",
     "sort_order": 40079
   },
@@ -3662,7 +3662,7 @@
     ],
     "id": 40080,
     "name": "愛・狂戦士耐性",
-    "name_en": "Love/Berserker Resistance",
+    "name_en": "Love / berserker resistance",
     "name_en_src": "ml",
     "sort_order": 40080
   },
@@ -3681,7 +3681,7 @@
     ],
     "id": 40081,
     "name": "愛・気絶耐性",
-    "name_en": "Love, stun resistance",
+    "name_en": "Love / fainting resistance",
     "name_en_src": "ml",
     "sort_order": 40081
   },
@@ -3700,7 +3700,7 @@
     ],
     "id": 40082,
     "name": "魅力・毒耐性",
-    "name_en": "Attractiveness and Toxic Resistance",
+    "name_en": "Attractiveness / poison resistance",
     "name_en_src": "ml",
     "sort_order": 40082
   },
@@ -3719,7 +3719,7 @@
     ],
     "id": 40083,
     "name": "魅力・暗闇耐性",
-    "name_en": "Attraction/Darkness Tolerance",
+    "name_en": "Charm / darkness resistance",
     "name_en_src": "ml",
     "sort_order": 40083
   },
@@ -3738,7 +3738,7 @@
     ],
     "id": 40084,
     "name": "魅力・スタン耐性",
-    "name_en": "Attraction/stun resistance",
+    "name_en": "Attractiveness / stun resistance",
     "name_en_src": "ml",
     "sort_order": 40084
   },
@@ -3757,7 +3757,7 @@
     ],
     "id": 40085,
     "name": "魅力・マヒ耐性",
-    "name_en": "Attractiveness and Mahi resistance",
+    "name_en": "Attractiveness / paralysis resistance",
     "name_en_src": "ml",
     "sort_order": 40085
   },
@@ -3776,7 +3776,7 @@
     ],
     "id": 40086,
     "name": "魅力・眠り耐性",
-    "name_en": "Attraction/Sleep Tolerance",
+    "name_en": "Attractiveness / sleep resistance",
     "name_en_src": "ml",
     "sort_order": 40086
   },
@@ -3814,7 +3814,7 @@
     ],
     "id": 40088,
     "name": "魅力・混乱耐性",
-    "name_en": "Attraction/confusion resistance",
+    "name_en": "Attractiveness and confusion resistance",
     "name_en_src": "ml",
     "sort_order": 40088
   },
@@ -3833,7 +3833,7 @@
     ],
     "id": 40089,
     "name": "魅力・魅了耐性",
-    "name_en": "Attraction/fascination resistance",
+    "name_en": "Attractiveness / fascination resistance",
     "name_en_src": "ml",
     "sort_order": 40089
   },
@@ -3852,7 +3852,7 @@
     ],
     "id": 40090,
     "name": "魅力・狂戦士耐性",
-    "name_en": "Charm, Berserker Resistance",
+    "name_en": "Charm and berserker resistance",
     "name_en_src": "ml",
     "sort_order": 40090
   },
@@ -3871,7 +3871,7 @@
     ],
     "id": 40091,
     "name": "魅力・気絶耐性",
-    "name_en": "Attraction/stun resistance",
+    "name_en": "Attractiveness / fainting resistance",
     "name_en_src": "ml",
     "sort_order": 40091
   },
@@ -3890,7 +3890,7 @@
     ],
     "id": 40092,
     "name": "素早さ低下",
-    "name_en": "Decreased quickness",
+    "name_en": "Decline in quickness",
     "name_en_src": "ml",
     "sort_order": 40092
   }

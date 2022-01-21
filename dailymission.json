@@ -1,7 +1,7 @@
 [
   {
     "description": "4:00 - 11:00にログインする",
-    "description_en": "Log in from 4:00 to 11:00",
+    "description_en": "Log in at 4:00 --11:00",
     "description_en_src": "ml",
     "id": 1,
     "priority": 50,
@@ -15,7 +15,7 @@
   },
   {
     "description": "12:00 - 17:00にログインする",
-    "description_en": "Log in to 12:00 - 17:00",
+    "description_en": "Log in at 12:00 --17:00",
     "description_en_src": "ml",
     "id": 2,
     "priority": 49,
@@ -29,7 +29,7 @@
   },
   {
     "description": "18:00 - 20:00にログインする",
-    "description_en": "Log in to 18:00 - 20:00",
+    "description_en": "Log in at 18:00 --20:00",
     "description_en_src": "ml",
     "id": 3,
     "priority": 48,
@@ -43,7 +43,7 @@
   },
   {
     "description": "21:00 - 24:00にログインする",
-    "description_en": "Log in to 21:00 - 24:00",
+    "description_en": "Log in at 21:00 --24:00",
     "description_en_src": "ml",
     "id": 4,
     "priority": 47,
@@ -183,7 +183,7 @@
   },
   {
     "description": "18:00 - 20:00にログインする",
-    "description_en": "Log in to 18:00 - 20:00",
+    "description_en": "Log in at 18:00 --20:00",
     "description_en_src": "ml",
     "id": 14,
     "priority": 48,
@@ -197,7 +197,7 @@
   },
   {
     "description": "21:00 - 24:00にログインする",
-    "description_en": "Log in to 21:00 - 24:00",
+    "description_en": "Log in at 21:00 --24:00",
     "description_en_src": "ml",
     "id": 15,
     "priority": 47,
@@ -309,7 +309,7 @@
   },
   {
     "description": "ログインする（17:00 - 3:59）",
-    "description_en": "Log in (17:00 - 3:59)",
+    "description_en": "Log in (17:00 --3:59)",
     "description_en_src": "ml",
     "id": 24,
     "priority": 48,
@@ -323,7 +323,7 @@
   },
   {
     "description": "ログインする（21:00 - 3:59）",
-    "description_en": "Log in (21:00 - 3:59)",
+    "description_en": "Log in (21:00 --3:59)",
     "description_en_src": "ml",
     "id": 25,
     "priority": 47,
@@ -477,7 +477,7 @@
   },
   {
     "description": "魔物たっぷりの洞窟修練を1回クリア（サブクエスト＞デイリー＞魔物たっぷりの洞窟修練から挑戦可能）",
-    "description_en": "Cleared Cave Training with Lots of Monsters 1 time (Can be challenged from Subquest > Daily > Cave Training with Plenty of Monsters)",
+    "description_en": "Clear 1 monster-rich cave training (subquest&gt; daily&gt; challenge from monster-rich cave training)",
     "description_en_src": "ml",
     "id": 36,
     "priority": 88,

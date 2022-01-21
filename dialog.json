@@ -2284,7 +2284,7 @@
     "name_en_src": "ml",
     "text": "ご利用端末の設定に移動します。<br>よろしいですか？",
     "title": "確認",
-    "title_en": "confirmations",
+    "title_en": "Confirmation",
     "title_en_src": "ml"
   },
   {
@@ -2293,11 +2293,11 @@
     "dialog_type": 1,
     "id": 182,
     "name": "CharacterList_Favorite_Change",
-    "name_en": "Characterlist_favorite_change",
+    "name_en": "CharacterList_Favorite_Change",
     "name_en_src": "ml",
     "text": "スタイルのグループ設定状態を更新しました。",
     "title": "変更完了",
-    "title_en": "Change complete",
+    "title_en": "Change completed",
     "title_en_src": "ml"
   },
   {
@@ -2306,11 +2306,11 @@
     "dialog_type": 2,
     "id": 183,
     "name": "BattleFes_Retry_Confirm",
-    "name_en": "Battlefes_retry_confirm",
+    "name_en": "BattleFes_Retry_Confirm",
     "name_en_src": "ml",
     "text": "再挑戦を実行しますか？<br>再挑戦を実行すると、クエストを終了し、<br>再度クエストを開始します。",
     "title": "再挑戦確認",
-    "title_en": "Confirm retry",
+    "title_en": "Re-challenge confirmation",
     "title_en_src": "ml"
   },
   {
@@ -2319,11 +2319,11 @@
     "dialog_type": 2,
     "id": 184,
     "name": "BattleFes_RetireOrRetry_Confirm",
-    "name_en": "Battlefes_RetireOrRetry_CONFIRM",
+    "name_en": "BattleFes_RetireOrRetry_Confirm",
     "name_en_src": "ml",
     "text": "リタイアするとクエストは終了となります。<br>再挑戦を実行すると、クエストを終了し、<br>再度クエストを開始します。",
     "title": "確認",
-    "title_en": "confirmations",
+    "title_en": "Confirmation",
     "title_en_src": "ml"
   },
   {
@@ -2332,11 +2332,11 @@
     "dialog_type": 2,
     "id": 185,
     "name": "BattleFes_Retire_Confirm",
-    "name_en": "Battlefes_retire_confirm",
+    "name_en": "BattleFes_Retire_Confirm",
     "name_en_src": "ml",
     "text": "リタイアするとクエストは終了となります。<br>リタイアしますか？",
     "title": "確認",
-    "title_en": "confirmations",
+    "title_en": "Confirmation",
     "title_en_src": "ml"
   },
   {
@@ -2349,7 +2349,7 @@
     "name_en_src": "ml",
     "text": "このエリアの状態が変化したため、<br>バトルが開始できません。",
     "title": "状態変化",
-    "title_en": "State changes",
+    "title_en": "State change",
     "title_en_src": "ml"
   },
   {
@@ -2358,11 +2358,11 @@
     "dialog_type": 1,
     "id": 187,
     "name": "Present_SecretKeyword_Copy",
-    "name_en": "Present_secretKeyword_copy",
+    "name_en": "Present_SecretKeyword_Copy",
     "name_en_src": "ml",
     "text": "秘密のキーワードを<br>クリップボードにコピーしました。",
     "title": "確認",
-    "title_en": "confirmations",
+    "title_en": "Confirmation",
     "title_en_src": "ml"
   },
   {
@@ -2375,7 +2375,7 @@
     "name_en_src": "ml",
     "text": "このエリアは制圧完了しているため、<br>バトルを開始できません。",
     "title": "制圧完了",
-    "title_en": "Domination complete",
+    "title_en": "Suppression completed",
     "title_en_src": "ml"
   },
   {
@@ -2384,7 +2384,7 @@
     "dialog_type": 1,
     "id": 190,
     "name": "Smith_equipment_craft_Deadline",
-    "name_en": "smith_equipment_craft_deadline",
+    "name_en": "Smith_equipment_craft_Deadline",
     "name_en_src": "ml",
     "text": "錬成できる期間が過ぎています。<br>錬成選択画面へ戻ります。",
     "title": "期間切れ",
@@ -2401,7 +2401,7 @@
     "name_en_src": "ml",
     "text": "初回クリア後にまとめて戦闘可能になります。",
     "title": "確認",
-    "title_en": "confirmations",
+    "title_en": "Confirmation",
     "title_en_src": "ml"
   },
   {
@@ -2410,11 +2410,11 @@
     "dialog_type": 1,
     "id": 192,
     "name": "Battle_Retire_impossible_2",
-    "name_en": "Battle_retire_impossible_2",
+    "name_en": "Battle_Retire_impossible_2",
     "name_en_src": "ml",
     "text": "勝利の確定したバトルのリタイアはできません。",
     "title": "確認",
-    "title_en": "confirmations",
+    "title_en": "Confirmation",
     "title_en_src": "ml"
   },
   {
@@ -2544,7 +2544,7 @@
     "name_en_src": "ml",
     "text": "毎月の集計日時に達したため、<br>クリア状況に応じた報酬を付与します。<br><br>※進行状況は継続になります。",
     "title": "月次報酬",
-    "title_en": "Monthly remuneration",
+    "title_en": "Monthly reward",
     "title_en_src": "ml"
   }
 ]

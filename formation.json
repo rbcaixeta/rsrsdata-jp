@@ -933,7 +933,7 @@
   },
   {
     "flavor_text": "前衛2人のカウンター攻撃のダメージを強化するカウンター特化陣形。前衛2人が敵の攻撃を引きつけ、中衛メンバーは知力・愛が強化されるので、役割分担がしやすい。",
-    "flavor_text_en": "A counter-specialized formation that enhances the damage of counter attacks by 2 vanguards. The two avant-garde attract enemy attacks, and the middle guard members are strengthened in intelligence and love, so it is easy to divide roles.",
+    "flavor_text_en": "A counter-specialized formation that enhances the damage of two avant-garde counter attacks. The two avant-gardes attract the enemy&#39;s attacks, and the members of the middle guard strengthen their intelligence and love, so it is easy to divide the roles.",
     "flavor_text_en_src": "ml",
     "id": 1030,
     "name": "マルチカウンター",
@@ -1005,11 +1005,11 @@
   },
   {
     "flavor_text": "前衛・中衛の素早さがアップする速攻陣形。<br>パーティ全体の器用さが強化されるので、小剣、弓、銃を重視するパーティにおすすめ。",
-    "flavor_text_en": "A haste formation that improves the quickness of the avant-garde and middle-guard. <br>Recommended for parties that value stilettos, bows, and guns, as it enhances the overall dexterity of the party.",
+    "flavor_text_en": "A hasty formation that improves the avant-garde and middle guard&#39;s quickness.<br> It enhances the dexterity of the entire party, so it is recommended for parties that emphasize swords, bows, and guns.",
     "flavor_text_en_src": "ml",
     "id": 1033,
     "name": "バレットシフト",
-    "name_en": "Bullet Shift",
+    "name_en": "Bullet shift",
     "name_en_src": "ml",
     "positions": [
       {
@@ -1041,11 +1041,11 @@
   },
   {
     "flavor_text": "デザートランスの防御面をさらに強化した陣形。敵の攻撃を前衛が引きつけ、パーティ全体の生存率を上げる。被弾をコントロールしつつ戦いたい場合におすすめ。",
-    "flavor_text_en": "A formation that further strengthens the defensive surface of Desert Lance. The vanguard attracts enemy attacks and increases the survival rate of the whole party. Recommended when you want to fight while controlling the hit.",
+    "flavor_text_en": "A formation that further strengthens the defense side of Desert Lance. The avant-garde attracts enemy attacks and increases the survival rate of the entire party. Recommended when you want to fight while controlling the impact.",
     "flavor_text_en_src": "ml",
     "id": 1034,
     "name": "デザートランス・改",
-    "name_en": "Desert Reims Kai",
+    "name_en": "Desert Lance / Kai",
     "name_en_src": "ml",
     "positions": [
       {
@@ -1077,7 +1077,7 @@
   },
   {
     "flavor_text": "前衛・後衛の腕力・器用さ・知力がアップする攻撃陣形。<br>複数のステータス強化を必要とするスタイルにおすすめ。",
-    "flavor_text_en": "An attack formation that improves the strength, dexterity, and intelligence of the vanguard and rear guard. <br>Recommended for styles that require multiple status enhancements.",
+    "flavor_text_en": "An attack formation that improves the strength, dexterity, and intelligence of the avant-garde and rearguard.<br> Recommended for styles that require multiple status enhancements.",
     "flavor_text_en_src": "ml",
     "id": 1035,
     "name": "マギアファイト",
@@ -1113,11 +1113,11 @@
   },
   {
     "flavor_text": "前衛1人の腕力と素早さ、中衛3人の知力、後衛1人の器用さがそれぞれ強化される、術師を中心とした攻撃陣形。<br>前衛には行動後防御強化が付与され、後衛には行動前防御強化が付与される。",
-    "flavor_text_en": "An attacking formation centered on an engineer, where the strength and quickness of one avant-garde, the intelligence of the three middle guards, and the dexterity of one rear guard are strengthened, respectively. The <br>vanguard is given a post-action defense reinforcement, and the rear guard is given a pre-action defense reinforcement.",
+    "flavor_text_en": "An attack formation centered on a surgeon, in which the strength and quickness of one avant-garde, the intelligence of three middle guards, and the dexterity of one rearguard are strengthened.<br> The avant-garde is given post-action defense enhancement, and the rearguard is given pre-action defense enhancement.",
     "flavor_text_en_src": "ml",
     "id": 1037,
     "name": "ハリケーン",
-    "name_en": "hurricanes",
+    "name_en": "Hurricane",
     "name_en_src": "ml",
     "positions": [
       {
@@ -1149,11 +1149,11 @@
   },
   {
     "flavor_text": "パーティ全体に「全員生存時防御」と「ターン開始時HP回復(全員生存時)」が付与される防御陣形。<br>長期戦におすすめ。",
-    "flavor_text_en": "A defensive formation that grants “All Survived Defense” and “Turn Start Health Recovery (When Everyone is Alive)” to the entire party. <br>Recommended for long-term battles.",
+    "flavor_text_en": "A defensive formation that grants &quot;defense when all are alive&quot; and &quot;HP recovery at the start of the turn (when all are alive)&quot; to the entire party.<br> Recommended for long-term battles.",
     "flavor_text_en_src": "ml",
     "id": 1038,
     "name": "玄武陣",
-    "name_en": "Genmu",
+    "name_en": "Genbujin",
     "name_en_src": "ml",
     "positions": [
       {
@@ -1185,11 +1185,11 @@
   },
   {
     "flavor_text": "マジカルシャワーの攻撃面をさらに強化した陣形。<br>後衛2人はWeak攻撃強化が付与され、行動速度が上昇する。",
-    "flavor_text_en": "A formation that further strengthens the attack surface of the Magical Shower. <br>The two rear guards are given a Weak Attack Strength, and their action speed increases.",
+    "flavor_text_en": "A formation that further strengthens the attack surface of the magical shower.<br> The two rearguards are given Weak attack enhancement and their action speed increases.",
     "flavor_text_en_src": "ml",
     "id": 1039,
     "name": "マジカルシャワー・改",
-    "name_en": "Magical Shower Kai",
+    "name_en": "Magical shower / break",
     "name_en_src": "ml",
     "positions": [
       {
@@ -1221,11 +1221,11 @@
   },
   {
     "flavor_text": "鳳天舞の陣を攻撃面・防御面共に強化した陣形。<br>中衛に被ダメージ軽減が付与され、前衛の素早さが上昇する。",
-    "flavor_text_en": "A formation that strengthens both the attacking and defensive sides of the Hori-tenmai camp. <br>Damage reduction is granted to the middle guard, and the quickness of the vanguard increases.",
+    "flavor_text_en": "A formation that strengthens the phoenix dance team in both offensive and defensive aspects.<br> Damage reduction is given to the middle guard, and the avant-garde&#39;s quickness increases.",
     "flavor_text_en_src": "ml",
     "id": 1040,
     "name": "鳳天舞の陣・改",
-    "name_en": "Otori Tenmai no Jin Kai",
+    "name_en": "Hotenmai no Jin / Kai",
     "name_en_src": "ml",
     "positions": [
       {
