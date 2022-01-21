@@ -1,30 +1,40 @@
 [
   {
+    "description": "ロビンを必ず編成して出撃",
+    "description_en": "Go on a quest with Robin in your party.",
+    "description_en_src": "gl",
     "id": 1001,
+    "value2": 0,
     "values": [
       2317
-    ],
-    "value2": 0,
-    "description": "ロビンを必ず編成して出撃"
+    ]
   },
   {
+    "description": "ルージュを必ず編成して出撃",
+    "description_en": "Go on a quest with Rouge in your party.",
+    "description_en_src": "gl",
     "id": 10002,
+    "value2": 0,
     "values": [
       3123
-    ],
-    "value2": 0,
-    "description": "ルージュを必ず編成して出撃"
+    ]
   },
   {
+    "description": "ブルーを必ず編成して出撃",
+    "description_en": "Go on a quest with Blue in your party.",
+    "description_en_src": "gl",
     "id": 10003,
+    "value2": 0,
     "values": [
       3101
-    ],
-    "value2": 0,
-    "description": "ブルーを必ず編成して出撃"
+    ]
   },
   {
+    "description": "ロマンシング サガ3のキャラクターのいずれかを必ず編成して出撃",
+    "description_en": "Have any Romancing SaGa3 character in the party to start this quest.",
+    "description_en_src": "gl",
     "id": 10004,
+    "value2": 0,
     "values": [
       2306,
       2305,
@@ -55,88 +65,106 @@
       2313,
       2323,
       2379
-    ],
-    "value2": 0,
-    "description": "ロマンシング サガ3のキャラクターのいずれかを必ず編成して出撃"
+    ]
   },
   {
+    "description": "武器種「剣」のスタイルのみ出撃可能です。",
+    "description_en": "Only the style of the weapon type “Sword” can be spawned.",
+    "description_en_src": "ml",
     "id": 20001,
+    "value2": 5,
     "values": [
       1
-    ],
-    "value2": 5,
-    "description": "武器種「剣」のスタイルのみ出撃可能です。"
+    ]
   },
   {
+    "description": "武器種「大剣」のスタイルのみ出撃可能です。",
+    "description_en": "Only the style of the “Great Sword” weapon type can be spawned.",
+    "description_en_src": "ml",
     "id": 20002,
+    "value2": 5,
     "values": [
       2
-    ],
-    "value2": 5,
-    "description": "武器種「大剣」のスタイルのみ出撃可能です。"
+    ]
   },
   {
+    "description": "武器種「斧」のスタイルのみ出撃可能です。",
+    "description_en": "Only the style of the weapon type “Axe” can be spawned.",
+    "description_en_src": "ml",
     "id": 20003,
+    "value2": 5,
     "values": [
       3
-    ],
-    "value2": 5,
-    "description": "武器種「斧」のスタイルのみ出撃可能です。"
+    ]
   },
   {
+    "description": "武器種「棍棒」のスタイルのみ出撃可能です。",
+    "description_en": "Only the style of the weapon type “Cudgeon” can be spawned.",
+    "description_en_src": "ml",
     "id": 20004,
+    "value2": 5,
     "values": [
       4
-    ],
-    "value2": 5,
-    "description": "武器種「棍棒」のスタイルのみ出撃可能です。"
+    ]
   },
   {
+    "description": "武器種「体術」のスタイルのみ出撃可能です。",
+    "description_en": "Only the style of the weapon type “Taijutsu” can be spawned.",
+    "description_en_src": "ml",
     "id": 20005,
+    "value2": 5,
     "values": [
       5
-    ],
-    "value2": 5,
-    "description": "武器種「体術」のスタイルのみ出撃可能です。"
+    ]
   },
   {
+    "description": "武器種「銃」のスタイルのみ出撃可能です。",
+    "description_en": "Only the weapon type “Gun” style can be spawned.",
+    "description_en_src": "ml",
     "id": 20006,
+    "value2": 5,
     "values": [
       6
-    ],
-    "value2": 5,
-    "description": "武器種「銃」のスタイルのみ出撃可能です。"
+    ]
   },
   {
+    "description": "武器種「小剣」のスタイルのみ出撃可能です。",
+    "description_en": "Only the style of the “Stiletto” weapon type can be spawned.",
+    "description_en_src": "ml",
     "id": 20007,
+    "value2": 5,
     "values": [
       7
-    ],
-    "value2": 5,
-    "description": "武器種「小剣」のスタイルのみ出撃可能です。"
+    ]
   },
   {
+    "description": "武器種「槍」のスタイルのみ出撃可能です。",
+    "description_en": "Only the style of the weapon type “Spear” can be spawned.",
+    "description_en_src": "ml",
     "id": 20008,
+    "value2": 5,
     "values": [
       8
-    ],
-    "value2": 5,
-    "description": "武器種「槍」のスタイルのみ出撃可能です。"
+    ]
   },
   {
+    "description": "武器種「弓」のスタイルのみ出撃可能です。",
+    "description_en": "Only the style of the weapon type “Bow” can be spawned.",
+    "description_en_src": "ml",
     "id": 20009,
+    "value2": 5,
     "values": [
       9
-    ],
-    "value2": 5,
-    "description": "武器種「弓」のスタイルのみ出撃可能です。"
+    ]
   },
   {
+    "description": "武器種「杖」のスタイルのみ出撃可能です。",
+    "description_en": "Only the style of the weapon type “Cane” can be spawned.",
+    "description_en_src": "ml",
     "id": 20010,
+    "value2": 5,
     "values": [
       10
-    ],
-    "value2": 5,
-    "description": "武器種「杖」のスタイルのみ出撃可能です。"
+    ]
   }
 ]

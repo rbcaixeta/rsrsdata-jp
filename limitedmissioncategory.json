@@ -1,722 +1,1010 @@
 [
   {
     "id": 1,
+    "priority": 100,
     "title": "敵を討伐する",
-    "priority": 100
+    "title_en": "Defeat Enemies",
+    "title_en_src": "gl"
   },
   {
     "id": 2,
+    "priority": 99,
     "title": "遠征を実行する",
-    "priority": 99
+    "title_en": "Send Expeditions",
+    "title_en_src": "gl"
   },
   {
     "id": 3,
+    "priority": 98,
     "title": "遠征の即時帰還を実行する",
-    "priority": 98
+    "title_en": "Return Instantly from Expeditions",
+    "title_en_src": "gl"
   },
   {
     "id": 4,
+    "priority": 97,
     "title": "メインクエストをクリアする",
-    "priority": 97
+    "title_en": "Complete Main Quests",
+    "title_en_src": "gl"
   },
   {
     "id": 5,
+    "priority": 96,
     "title": "魔物たっぷりの洞窟修練をクリアする",
-    "priority": 96
+    "title_en": "Complete the Monster-filled Training Cave",
+    "title_en_src": "gl"
   },
   {
     "id": 6,
+    "priority": 95,
     "title": "装備品Lvをアップする",
-    "priority": 95
+    "title_en": "Raise Level of Equipment",
+    "title_en_src": "gl"
   },
   {
     "id": 7,
+    "priority": 94,
     "title": "装備品を進化する",
-    "priority": 94
+    "title_en": "Evolve Equipment",
+    "title_en_src": "gl"
   },
   {
     "id": 8,
+    "priority": 93,
     "title": "遺跡潜り-三光石-をクリアする",
-    "priority": 93
+    "title_en": "Ruins Exploration: Tri Glowstones",
+    "title_en_src": "gl"
   },
   {
     "id": 9,
+    "priority": 92,
     "title": "技・術の覚醒を行う",
-    "priority": 92
+    "title_en": "Awaken Skills/Spells",
+    "title_en_src": "gl"
   },
   {
     "id": 10,
+    "priority": 91,
     "title": "技・術の継承を行う",
-    "priority": 91
+    "title_en": "Inherit Skills/Spells",
+    "title_en_src": "gl"
   },
   {
     "id": 11,
+    "priority": 90,
     "title": "武闘会・豪をクリアする",
-    "priority": 90
+    "title_en": "Complete Battle League: Frenzy",
+    "title_en_src": "gl"
   },
   {
     "id": 12,
+    "priority": 110,
     "title": "T260Gを連れて敵を討伐する",
-    "priority": 110
+    "title_en": "Defeat an Enemy with T260G in the party",
+    "title_en_src": "gl"
   },
   {
     "id": 13,
+    "priority": 89,
     "title": "敵を討伐する",
-    "priority": 89
+    "title_en": "Defeat Enemies",
+    "title_en_src": "gl"
   },
   {
     "id": 14,
+    "priority": 120,
     "title": "SF1キャラを連れて敵を討伐する",
-    "priority": 120
+    "title_en": "Defeat an Enemy with SF1 characters",
+    "title_en_src": "gl"
   },
   {
     "id": 15,
+    "priority": 119,
     "title": "聖塔コッペリアをクリアする",
-    "priority": 119
+    "title_en": "Complete Divine Tower: Coppelia",
+    "title_en_src": "gl"
   },
   {
     "id": 16,
+    "priority": 118,
     "title": "いずれかのクエストをクリアする",
-    "priority": 118
+    "title_en": "Complete Any Quest",
+    "title_en_src": "gl"
   },
   {
     "id": 17,
+    "priority": 130,
     "title": "降臨・ヴァッハ神をクリアする",
-    "priority": 130
+    "title_en": "Complete Macha's Descent",
+    "title_en_src": "gl"
   },
   {
     "id": 18,
+    "priority": 125,
     "title": "ザクザク財宝収集をクリアする",
-    "priority": 125
+    "title_en": "Complete the Big Treasure Hunt",
+    "title_en_src": "gl"
   },
   {
     "id": 19,
+    "priority": 135,
     "title": "修業者の間をクリアする",
-    "priority": 135
+    "title_en": "Complete The Seekers' Path",
+    "title_en_src": "gl"
   },
   {
     "id": 20,
+    "priority": 140,
     "title": "オーラムを消費する",
-    "priority": 140
+    "title_en": "Spend Aurum",
+    "title_en_src": "gl"
   },
   {
     "id": 21,
+    "priority": 145,
     "title": "追憶の伏魔殿をクリアする",
-    "priority": 145
+    "title_en": "Complete Pandemonium of Memory",
+    "title_en_src": "gl"
   },
   {
     "id": 22,
+    "priority": 150,
     "title": "総力戦！魔海侯フォルネウス！をクリアする",
-    "priority": 150
+    "title_en": "Complete Defeat Sealord Forneus!",
+    "title_en_src": "gl"
   },
   {
     "id": 23,
+    "priority": 155,
     "title": "メリークリスマス！聖夜のサンタ合戦をクリアする",
-    "priority": 155
+    "title_en": "Complete Merry Christmas! Santa Clash",
+    "title_en_src": "gl"
   },
   {
     "id": 24,
+    "priority": 160,
     "title": "幸運の白い猫と最終皇帝をクリアする",
-    "priority": 160
+    "title_en": "Complete Lucky White Cat",
+    "title_en_src": "gl"
   },
   {
     "id": 25,
+    "priority": 165,
     "title": "詩人の楽器とバレンタインをクリアする",
-    "priority": 165
+    "title_en": "Complete Minstrel's Music & Valentine's",
+    "title_en_src": "gl"
   },
   {
     "id": 26,
+    "priority": 170,
     "title": "みんなで討滅！ターム族をクリアする",
-    "priority": 170
+    "title_en": "Complete Rally Against the Termites!",
+    "title_en_src": "gl"
   },
   {
     "id": 27,
+    "priority": 175,
     "title": "金獅子姫との戦いをクリアする",
-    "priority": 175
+    "title_en": "Complete Battle with Princess Lion",
+    "title_en_src": "gl"
   },
   {
     "id": 28,
+    "priority": 180,
     "title": "炎の将魔との戦いをクリアする",
-    "priority": 180
+    "title_en": "Complete Battle with Fire Lord",
+    "title_en_src": "gl"
   },
   {
     "id": 29,
+    "priority": 189,
     "title": "聖塔ミルザ 4. 仲間と共に（Normal）をクリアする",
-    "priority": 189
+    "title_en": "Complete Divine Tower: Mirsa - 4. Ally in Arms (Normal)",
+    "title_en_src": "gl"
   },
   {
     "id": 30,
+    "priority": 188,
     "title": "聖塔ミルザ 7. 塔・下層２（Normal）をクリアする",
-    "priority": 188
+    "title_en": "Complete Divine Tower: Mirsa - 7. Tower: Lower Floor 2 (Normal)",
+    "title_en_src": "gl"
   },
   {
     "id": 31,
+    "priority": 187,
     "title": "聖塔ミルザ 10. 塔・中層２（Normal）をクリアする",
-    "priority": 187
+    "title_en": "Complete Divine Tower: Mirsa - 10. Tower: Middle Floor 2 (Normal)",
+    "title_en_src": "gl"
   },
   {
     "id": 32,
+    "priority": 186,
     "title": "聖塔ミルザ 13. 寝静まる夜（Normal）をクリアする",
-    "priority": 186
+    "title_en": "Complete Divine Tower: Mirsa - 13. Sleepy Night (Normal)",
+    "title_en_src": "gl"
   },
   {
     "id": 33,
+    "priority": 185,
     "title": "聖塔ミルザ 17. 塔・最上階（Normal）をクリアする",
-    "priority": 185
+    "title_en": "Complete Divine Tower: Mirsa - 17. Tower: Top Floor (Normal)",
+    "title_en_src": "gl"
   },
   {
     "id": 34,
+    "priority": 184,
     "title": "メインクエストをクリアする",
-    "priority": 184
+    "title_en": "Complete Main Quests",
+    "title_en_src": "gl"
   },
   {
     "id": 35,
+    "priority": 85,
     "title": "オーラムを消費する",
-    "priority": 85
+    "title_en": "Spend Aurum",
+    "title_en_src": "gl"
   },
   {
     "id": 36,
+    "priority": 190,
     "title": "制圧いくばい！ Romancing佐賀県をクリアする",
-    "priority": 190
+    "title_en": "Complete Conquer Romancing Saga Prefecture",
+    "title_en_src": "gl"
   },
   {
     "id": 37,
+    "priority": 195,
     "title": "槍の試練をクリアする",
-    "priority": 195
+    "title_en": "Complete Spear Trial",
+    "title_en_src": "gl"
   },
   {
     "id": 38,
+    "priority": 200,
     "title": "聖塔ランスの娘~聖王~後編をクリアする",
-    "priority": 200
+    "title_en": "Complete Divine Tower: Matriarch (Part 2)",
+    "title_en_src": "gl"
   },
   {
     "id": 39,
+    "priority": 205,
     "title": "偽の塔と妖魔の君をクリアする",
-    "priority": 205
+    "title_en": "Clear The False Tower and Youma no Kimi",
+    "title_en_src": "ml"
   },
   {
     "id": 40,
+    "priority": 210,
     "title": "玄蟲との戦いをクリアする",
-    "priority": 210
+    "title_en": "Clear the battle with Genshi",
+    "title_en_src": "ml"
   },
   {
     "id": 46,
+    "priority": 220,
     "title": "総力戦！かみのゲームをクリアする",
-    "priority": 220
+    "title_en": "Total war! Complete the Kami no Kami game",
+    "title_en_src": "ml"
   },
   {
     "id": 47,
+    "priority": 225,
     "title": "アポロンとの戦いをクリアする",
-    "priority": 225
+    "title_en": "Complete Battle with Apollo",
+    "title_en_src": "gl"
   },
   {
     "id": 48,
+    "priority": 200,
     "title": "メイン1-1-3. 試験開始！(Normal)をクリアする",
-    "priority": 200
+    "title_en": "Complete Main 1-1-3. The Exam Begins! [Normal]",
+    "title_en_src": "gl"
   },
   {
     "id": 49,
+    "priority": 199,
     "title": "メイン4-2-10. 朱の将軍(Normal)をクリアする",
-    "priority": 199
+    "title_en": "Complete Main 4-2-10. Crimson Commander [Normal]",
+    "title_en_src": "gl"
   },
   {
     "id": 50,
+    "priority": 198,
     "title": "メイン7-2-10. 冥府より出づ(Normal)をクリアする",
-    "priority": 198
+    "title_en": "Complete Main 7-2-10. Netherworld Departure [Normal]",
+    "title_en_src": "gl"
   },
   {
     "id": 51,
+    "priority": 197,
     "title": "メイン4-2-5. 朱の将軍(Hard)をクリアする",
-    "priority": 197
+    "title_en": "Complete Main 4-2-5. Crimson Commander [Hard]",
+    "title_en_src": "gl"
   },
   {
     "id": 52,
+    "priority": 196,
     "title": "メイン6-2-5. 蝶に誘われて(Hard)をクリアする",
-    "priority": 196
+    "title_en": "Complete Main 6-2-5. Follow the Butterfly [Hard]",
+    "title_en_src": "gl"
   },
   {
     "id": 53,
+    "priority": 194,
     "title": "メイン4-2-5. 朱の将軍(VeryHard)をクリアする",
-    "priority": 194
+    "title_en": "Complete Main 4-2-5. Crimson Commander [Very Hard]",
+    "title_en_src": "gl"
   },
   {
     "id": 54,
+    "priority": 193,
     "title": "メイン6-1-1. 再出発(VeryHard)をクリアする",
-    "priority": 193
+    "title_en": "Complete Main 6-1-1. Fresh Start [Very Hard]",
+    "title_en_src": "gl"
   },
   {
     "id": 55,
+    "priority": 192,
     "title": "メイン1-2-12. 頂きの扉(Normal)をクリアする",
-    "priority": 192
+    "title_en": "Complete Main 1-2-12. Summit's Gate [Normal]",
+    "title_en_src": "gl"
   },
   {
     "id": 56,
+    "priority": 191,
     "title": "メイン2-2-10. 地下に棲むもの(Normal)をクリアする",
-    "priority": 191
+    "title_en": "Complete Main 2-2-10. Underground Inhabitant [Normal]",
+    "title_en_src": "gl"
   },
   {
     "id": 57,
+    "priority": 189,
     "title": "メイン3-2-8. 再び棺桶の間へ(Normal)をクリアする",
-    "priority": 189
+    "title_en": "Complete Main 3-2-8. Coffin Room Revisited [Normal]",
+    "title_en_src": "gl"
   },
   {
     "id": 58,
+    "priority": 188,
     "title": "メイン4-2-10. 朱の将軍(Normal)をクリアする",
-    "priority": 188
+    "title_en": "Complete Main 4-2-10. Crimson Commander [Normal]",
+    "title_en_src": "gl"
   },
   {
     "id": 59,
+    "priority": 240,
     "title": "RS3キャラを連れて敵を討伐する",
-    "priority": 240
+    "title_en": "Defeat Enemies with RS3 Character",
+    "title_en_src": "gl"
   },
   {
     "id": 60,
+    "priority": 245,
     "title": "アビスナーガとの戦いをクリアする",
-    "priority": 245
+    "title_en": "Complete Battle with Abyssal Naga",
+    "title_en_src": "gl"
   },
   {
     "id": 61,
+    "priority": 250,
     "title": "新・聖王イベント（仮）をクリアする",
-    "priority": 250
+    "title_en": "Clear the New Seio Event (tentative)",
+    "title_en_src": "ml"
   },
   {
     "id": 62,
+    "priority": 251,
     "title": "特定キャラを連れて敵を討伐する",
-    "priority": 251
+    "title_en": "Defeat an enemy with a specific character",
+    "title_en_src": "ml"
   },
   {
     "id": 63,
+    "priority": 255,
     "title": "聖塔ランスの娘~聖王~前編17. ジョーの力（Normal）をクリアする",
-    "priority": 255
+    "title_en": "Daughter of the Holy Tower Reims ~The Holy King~ Part 1 17. Clear Joe's Force (Normal)",
+    "title_en_src": "ml"
   },
   {
     "id": 64,
+    "priority": 254,
     "title": "聖塔ランスの娘~聖王~後編18. 仮面の男（Normal）をクリアする",
-    "priority": 254
+    "title_en": "Daughter of the Holy Tower Reims ~The Holy King~ Part 2 18. Clear The Masked Man (Normal)",
+    "title_en_src": "ml"
   },
   {
     "id": 65,
+    "priority": 300,
     "title": "ﾒｲﾝ1章1-2-12. 頂きの扉[Normal]ｸﾘｱ",
-    "priority": 300
+    "title_en": "In chapter 1, 1-2-12. The door of the top [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 66,
+    "priority": 299,
     "title": "ﾒｲﾝ1章2-2-10. 地下に棲むもの[Normal]ｸﾘｱ",
-    "priority": 299
+    "title_en": "In chapter 1, 2-2-10. Things that live underground [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 67,
+    "priority": 297,
     "title": "ﾒｲﾝ1章4-2-10. 朱の将軍[Normal]ｸﾘｱ",
-    "priority": 297
+    "title_en": "In chapter 1, 4-2-10. Vermilion Shogun [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 68,
+    "priority": 296,
     "title": "ﾒｲﾝ1章5-2-12. 魔女[Normal]をｸﾘｱ",
-    "priority": 296
+    "title_en": "“In 1 chapter 5-2-12. Click the witch [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 69,
+    "priority": 293,
     "title": "ﾒｲﾝ1章9-2-10. 遊戯[Normal]をｸﾘｱ",
-    "priority": 293
+    "title_en": "“In 1 chapter 9-2-10. Click Yugi [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 70,
+    "priority": 286,
     "title": "ﾒｲﾝ1章14-2-12. 泥の巨兵[Normal]をｸﾘｱ",
-    "priority": 286
+    "title_en": "In chapter 1, 14-2-12. Click the Mud Giant Soldier [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 71,
+    "priority": 284,
     "title": "ﾒｲﾝ1章外伝-2-8. 魔龍公ビューネイ[Normal]をｸﾘｱ",
-    "priority": 284
+    "title_en": "“In Chapter 1 Gaiden-2-8. Click on “Normal” by Madryuko Viewnei",
+    "title_en_src": "ml"
   },
   {
     "id": 72,
+    "priority": 281,
     "title": "ﾒｲﾝ3-2-8. アリだー！！[Normal]をｸﾘｱ",
-    "priority": 281
+    "title_en": "Ins 3-2-8. It's an ant! Click [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 73,
+    "priority": 278,
     "title": "ﾒｲﾝ6-2-10. 遺物を扱う者たち[Normal]をｸﾘｱ",
-    "priority": 278
+    "title_en": "Ins 6-2-10. Click those who handle relics [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 74,
+    "priority": 265,
     "title": "2周年記念！Romancing超感謝戦をクリアする",
-    "priority": 265
+    "title_en": "Complete 1.5 Anniv.! Romancing Battle",
+    "title_en_src": "gl"
   },
   {
     "id": 75,
+    "priority": 270,
     "title": "十二支合戦と邪神の塔をクリアする",
-    "priority": 270
+    "title_en": "Complete Zodiac Battle & Evil God Tower",
+    "title_en_src": "gl"
   },
   {
     "id": 76,
+    "priority": 275,
     "title": "開運！おみくじクエストをクリアする",
-    "priority": 275
+    "title_en": "Complete Lucky Fortune Slip Quest",
+    "title_en_src": "gl"
   },
   {
     "id": 78,
+    "priority": 88,
     "title": "いずれかのクエストをクリアする",
-    "priority": 88
+    "title_en": "Complete Any Quest",
+    "title_en_src": "gl"
   },
   {
     "id": 80,
+    "priority": 127,
     "title": "遠征の即時帰還を実行する",
-    "priority": 127
+    "title_en": "Return Instantly from Expeditions",
+    "title_en_src": "gl"
   },
   {
     "id": 81,
+    "priority": 280,
     "title": "宝物探索のいずれかのクエストをクリアする",
-    "priority": 280
+    "title_en": "Complete any quest in Treasure Search",
+    "title_en_src": "ml"
   },
   {
     "id": 82,
+    "priority": 298,
     "title": "ﾒｲﾝ1章3-2-8. 再び棺桶の間へ[Normal]ｸﾘｱ",
-    "priority": 298
+    "title_en": "“In 1 chapter 3-2-8. Go back to the coffin room [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 83,
+    "priority": 295,
     "title": "ﾒｲﾝ1章6-2-10. 蝶に誘われて[Normal]をｸﾘｱ",
-    "priority": 295
+    "title_en": "In chapter 1, 6-2-10. Invited by butterflies to play [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 84,
+    "priority": 294,
     "title": "ﾒｲﾝ1章7-2-10. 冥府より出づ[Normal]をｸﾘｱ",
-    "priority": 294
+    "title_en": "“In 1 chapter 7-2-10. Click [Normal] from the underworld",
+    "title_en_src": "ml"
   },
   {
     "id": 85,
+    "priority": 293,
     "title": "ﾒｲﾝ1章8-2-10. クジンシーとの戦い[Normal]をｸﾘｱ",
-    "priority": 293
+    "title_en": "“In 1 chapter 8-2-10. Click the Battle with Cudzinsy [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 86,
+    "priority": 291,
     "title": "ﾒｲﾝ1章10-2-10. 決戦[Normal]をｸﾘｱ",
-    "priority": 291
+    "title_en": "In chapter 1, 10-2-10. Click the Decisive Battle [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 87,
+    "priority": 290,
     "title": "ﾒｲﾝ1章11-2-10. 東の洞くつ[Normal]をｸﾘｱ",
-    "priority": 290
+    "title_en": "In chapter 1 11-2-10. Click the Eastern Cave [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 88,
+    "priority": 289,
     "title": "ﾒｲﾝ1章12-2-11. 深淵を率いて[Normal]をｸﾘｱ",
-    "priority": 289
+    "title_en": "In chapter 1, 12-2-11. Lead the abyss and click [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 89,
+    "priority": 288,
     "title": "ﾒｲﾝ1章外伝-2-11. 最後の罠[Normal]をｸﾘｱ",
-    "priority": 288
+    "title_en": "“In Chapter 1 Gaiden-2-11. Click the last trap [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 90,
+    "priority": 287,
     "title": "ﾒｲﾝ1章13-2-10. そして父を超える[Normal]をｸﾘｱ",
-    "priority": 287
+    "title_en": "“In 1 chapter 13-2-10. And click [Normal] that surpasses my father",
+    "title_en_src": "ml"
   },
   {
     "id": 91,
+    "priority": 285,
     "title": "ﾒｲﾝ1章15-2-9. 黒い咆哮の行方[Normal]をｸﾘｱ",
-    "priority": 285
+    "title_en": "“In 1 chapter 15-2-9. Click the Whereabouts of the Black Roar [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 92,
+    "priority": 283,
     "title": "ﾒｲﾝ2章1-2-9. 暗闇を這う大蛇[Normal]をｸﾘｱ",
-    "priority": 283
+    "title_en": "In 2 chapters 1-2-9. Click the Great Serpent Crawling in the Darkness [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 93,
+    "priority": 282,
     "title": "ﾒｲﾝ2章2-2-7. 上流を目指して[Normal]をｸﾘｱ",
-    "priority": 282
+    "title_en": "“In 2 chapter 2-2-7. Aim upstream and click [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 94,
+    "priority": 280,
     "title": "ﾒｲﾝ2章4-2-9. 塔内3[Normal]をｸﾘｱ",
-    "priority": 280
+    "title_en": "“In 2 chapter 4-2-9. Click 3 [Normal] in the tower",
+    "title_en_src": "ml"
   },
   {
     "id": 95,
+    "priority": 279,
     "title": "ﾒｲﾝ2章5-2-7. 世界塔・正門付近4[Normal]をｸﾘｱ",
-    "priority": 279
+    "title_en": "“In 2 chapter 5-2-7. Click 4 [Normal] near the Sekai Tower/Main Gate",
+    "title_en_src": "ml"
   },
   {
     "id": 96,
+    "priority": 277,
     "title": "ﾒｲﾝ2章7-2-7. 襲来4[Normal]をｸﾘｱ",
-    "priority": 277
+    "title_en": "“In 2 chapter 7-2-7. Click Invasion 4 [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 97,
+    "priority": 276,
     "title": "ﾒｲﾝ2章8-2-7. 世界塔・下層5[Normal]をｸﾘｱ",
-    "priority": 276
+    "title_en": "“In 2 chapter 8-2-7. Click the World Tower Lower Level 5 [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 98,
+    "priority": 275,
     "title": "ﾒｲﾝ2章8-4-7. 世界塔上陸4[Normal]をｸﾘｱ",
-    "priority": 275
+    "title_en": "“In 2 chapter 8-4-7. Click the World Tower Landing 4 [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 99,
+    "priority": 274,
     "title": "ﾒｲﾝ2章9-2-7. 見捨てられた地へ10[Normal]をｸﾘｱ",
-    "priority": 274
+    "title_en": "“In 2 chapter 9-2-7. Click 10 [Normal] to the Forsaken Land",
+    "title_en_src": "ml"
   },
   {
     "id": 100,
+    "priority": 301,
     "title": "魔塔サルーインをクリアする",
-    "priority": 301
+    "title_en": "Clear the Magical Tower Saluin",
+    "title_en_src": "ml"
   },
   {
     "id": 101,
+    "priority": 305,
     "title": "SF2キャラを連れて敵を討伐する",
-    "priority": 305
+    "title_en": "Take an SF2 character to defeat an enemy",
+    "title_en_src": "ml"
   },
   {
     "id": 102,
+    "priority": 310,
     "title": "SF1キャラを連れて敵を討伐する",
-    "priority": 310
+    "title_en": "Defeat enemies with SF1 characters",
+    "title_en_src": "ml"
   },
   {
     "id": 103,
+    "priority": 370,
     "title": "ﾒｲﾝ1章1-2-12. 頂きの扉[Normal]ｸﾘｱ",
-    "priority": 370
+    "title_en": "In chapter 1, 1-2-12. The door of the top [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 104,
+    "priority": 365,
     "title": "ﾒｲﾝ1章2-2-10. 地下に棲むもの[Normal]ｸﾘｱ",
-    "priority": 365
+    "title_en": "In chapter 1, 2-2-10. Things that live underground [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 105,
+    "priority": 360,
     "title": "ﾒｲﾝ1章4-2-10. 朱の将軍[Normal]ｸﾘｱ",
-    "priority": 360
+    "title_en": "In chapter 1, 4-2-10. Vermilion Shogun [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 106,
+    "priority": 355,
     "title": "ﾒｲﾝ1章5-2-12. 魔女[Normal]をｸﾘｱ",
-    "priority": 355
+    "title_en": "“In 1 chapter 5-2-12. Click the witch [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 107,
+    "priority": 350,
     "title": "ﾒｲﾝ1章9-2-10. 遊戯[Normal]をｸﾘｱ",
-    "priority": 350
+    "title_en": "“In 1 chapter 9-2-10. Click Yugi [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 108,
+    "priority": 345,
     "title": "ﾒｲﾝ1章14-2-12. 泥の巨兵[Normal]をｸﾘｱ",
-    "priority": 345
+    "title_en": "In chapter 1, 14-2-12. Click the Mud Giant Soldier [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 109,
+    "priority": 340,
     "title": "ﾒｲﾝ1章外伝-2-8. 魔龍公ビューネイ[Normal]をｸﾘｱ",
-    "priority": 340
+    "title_en": "“In Chapter 1 Gaiden-2-8. Click on “Normal” by Madryuko Viewnei",
+    "title_en_src": "ml"
   },
   {
     "id": 110,
+    "priority": 335,
     "title": "ﾒｲﾝ3-2-8. アリだー！！[Normal]をｸﾘｱ",
-    "priority": 335
+    "title_en": "Ins 3-2-8. It's an ant! Click [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 111,
+    "priority": 330,
     "title": "ﾒｲﾝ6-2-10. 遺物を扱う者たち[Normal]をｸﾘｱ",
-    "priority": 330
+    "title_en": "Ins 6-2-10. Click those who handle relics [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 112,
+    "priority": 325,
     "title": "メイン8-4-7. 世界塔・上層４[Normal]をクリア",
-    "priority": 325
+    "title_en": "Main 8-4-7. Clear the World Tower Upper Level 4 [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 113,
+    "priority": 320,
     "title": "メイン10-2-9. 家族会議２[Normal]をクリア",
-    "priority": 320
+    "title_en": "Main 10-2-9. Clear Family Meeting 2 [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 114,
+    "priority": 315,
     "title": "メイン12-2-8. 遥かなる戦いの詩１０[Normal]をクリア",
-    "priority": 315
+    "title_en": "Main 12-2-8. Clear Verse 10 [Normal]: A Far Far Far Far Away Battle",
+    "title_en_src": "ml"
   },
   {
     "id": 115,
+    "priority": 375,
     "title": "ヴァルドーの超鍛錬道場をクリアする",
-    "priority": 375
+    "title_en": "Clear Valdo's Super Training Dojo",
+    "title_en_src": "ml"
   },
   {
     "id": 116,
+    "priority": 380,
     "title": "宿命の大決戦-遥かなる戦いの果て-をクリア",
-    "priority": 380
+    "title_en": "Completed the Great Battle of Fate - The End of the Far Far Battles",
+    "title_en_src": "ml"
   },
   {
     "id": 117,
+    "priority": 385,
     "title": "挑戦！ヴァジュイールの試練内の「力の試練」のいずれかのクエストをｸﾘｱ",
-    "priority": 385
+    "title_en": "A challenge! Complete any of the “Trial of Strength” quests within the Trials of Vajuir",
+    "title_en_src": "ml"
   },
   {
     "id": 118,
+    "priority": 390,
     "title": "挑戦！ヴァジュイールの試練-看破の試練-初級をｸﾘｱ(2021/7/10(土)12:00~開催)",
-    "priority": 390
+    "title_en": "A challenge! Trials of Vajuir-Trials of Discerning-Beginner Level (2021/7/10 (Sat) 12:00 ~)",
+    "title_en_src": "ml"
   },
   {
     "id": 119,
+    "priority": 395,
     "title": "挑戦！ヴァジュイールの試練-敏速の試練-初級をｸﾘｱ(2021/7/12(月)12:00~開催)",
-    "priority": 395
+    "title_en": "A challenge! Trials of Vajuir - Trials of Prompt - Beginner Level (2021/7/12 (Mon) 12:00 ~)",
+    "title_en_src": "ml"
   },
   {
     "id": 120,
+    "priority": 400,
     "title": "挑戦！ヴァジュイールの試練-慈愛の試練-初級をｸﾘｱ(2021/7/13(火)12:00~開催)",
-    "priority": 400
+    "title_en": "A challenge! Trial of Vajuir - Trial of Compassion - Beginner's Course (2021/7/13 (Tue) 12:00 ~)",
+    "title_en_src": "ml"
   },
   {
     "id": 121,
+    "priority": 405,
     "title": "挑戦！ヴァジュイールの試練-技巧の試練-初級をｸﾘｱ(2021/7/11(日)12:00~開催)",
-    "priority": 405
+    "title_en": "A challenge! Trial of Vajuir-Trial of Skill-Beginner Level (2021/7/11 (Sun) 12:00 ~)",
+    "title_en_src": "ml"
   },
   {
     "id": 122,
+    "priority": 410,
     "title": "みんなでいくばい！SaGa風呂制圧戦をクリア",
-    "priority": 410
+    "title_en": "How much is it with everyone! Cleared the SaGa Bath Domination Battle",
+    "title_en_src": "ml"
   },
   {
     "id": 123,
+    "priority": 415,
     "title": "装備品の錬成を行う",
-    "priority": 415
+    "title_en": "Refine equipment",
+    "title_en_src": "ml"
   },
   {
     "id": 124,
+    "priority": 570,
     "title": "いずれかのクエストをクリアする",
-    "priority": 570
+    "title_en": "Clear one of the quests",
+    "title_en_src": "ml"
   },
   {
     "id": 125,
+    "priority": 560,
     "title": "装備品の錬成を行う",
-    "priority": 560
+    "title_en": "Refine equipment",
+    "title_en_src": "ml"
   },
   {
     "id": 126,
+    "priority": 550,
     "title": "装備品Lvをアップする",
-    "priority": 550
+    "title_en": "Upgrade equipment level",
+    "title_en_src": "ml"
   },
   {
     "id": 127,
+    "priority": 540,
     "title": "装備品を進化する",
-    "priority": 540
+    "title_en": "Evolve equipment",
+    "title_en_src": "ml"
   },
   {
     "id": 128,
+    "priority": 530,
     "title": "技・術の覚醒を行う",
-    "priority": 530
+    "title_en": "Perform the awakening of techniques and techniques",
+    "title_en_src": "ml"
   },
   {
     "id": 129,
+    "priority": 520,
     "title": "技・術の継承を行う",
-    "priority": 520
+    "title_en": "Succession of techniques and techniques",
+    "title_en_src": "ml"
   },
   {
     "id": 130,
+    "priority": 510,
     "title": "遠征の即時帰還を実行する",
-    "priority": 510
+    "title_en": "Perform an immediate return of the expedition",
+    "title_en_src": "ml"
   },
   {
     "id": 131,
+    "priority": 500,
     "title": "オーラムを消費する",
-    "priority": 500
+    "title_en": "Consume aurums",
+    "title_en_src": "ml"
   },
   {
     "id": 132,
+    "priority": 580,
     "title": "彼方へ～失われた魔王記のいずれかのクエストをクリア",
-    "priority": 580
+    "title_en": "Clear any quest in To the Far Away - The Lost Demon King",
+    "title_en_src": "ml"
   },
   {
     "id": 133,
+    "priority": 465,
     "title": "DESTINY 8 超コラボBOXのいずれかのクエストをクリア",
-    "priority": 465
+    "title_en": "Clear any quest in Destiny 8 Super Collaboration Box",
+    "title_en_src": "ml"
   },
   {
     "id": 134,
+    "priority": 585,
     "title": "ザクザク財宝収集をクリア",
-    "priority": 585
+    "title_en": "Clear Zakuzaku Treasure Collection",
+    "title_en_src": "ml"
   },
   {
     "id": 135,
+    "priority": 590,
     "title": "魔物たっぷりの洞窟修練をクリア",
-    "priority": 590
+    "title_en": "Cleared the Cave Training with Lots of Monsters",
+    "title_en_src": "ml"
   },
   {
     "id": 136,
+    "priority": 595,
     "title": "技・術の継承を行う",
-    "priority": 595
+    "title_en": "Succession of techniques and techniques",
+    "title_en_src": "ml"
   },
   {
     "id": 137,
+    "priority": 600,
     "title": "技・術の覚醒を行う",
-    "priority": 600
+    "title_en": "Perform the awakening of techniques and techniques",
+    "title_en_src": "ml"
   },
   {
     "id": 138,
+    "priority": 605,
     "title": "装備品を進化する",
-    "priority": 605
+    "title_en": "Evolve equipment",
+    "title_en_src": "ml"
   },
   {
     "id": 139,
+    "priority": 610,
     "title": "装備品Lvをアップする",
-    "priority": 610
+    "title_en": "Upgrade equipment level",
+    "title_en_src": "ml"
   },
   {
     "id": 140,
+    "priority": 615,
     "title": "裏道場をクリアする",
-    "priority": 615
+    "title_en": "Clear the back dojo",
+    "title_en_src": "ml"
   },
   {
     "id": 141,
+    "priority": 620,
     "title": "ガチャを実行する",
-    "priority": 620
+    "title_en": "Run Gacha",
+    "title_en_src": "ml"
   },
   {
     "id": 142,
+    "priority": 625,
     "title": "訓練でエネルギーを補給する",
-    "priority": 625
+    "title_en": "Replenish your energy with training",
+    "title_en_src": "ml"
   },
   {
     "id": 143,
+    "priority": 630,
     "title": "遠征の即時帰還を実行する",
-    "priority": 630
+    "title_en": "Perform an immediate return of the expedition",
+    "title_en_src": "ml"
   },
   {
     "id": 144,
+    "priority": 635,
     "title": "装備品の錬成を行う",
-    "priority": 635
+    "title_en": "Refine equipment",
+    "title_en_src": "ml"
   },
   {
     "id": 145,
+    "priority": 640,
     "title": "いずれかのクエストをクリアする",
-    "priority": 640
+    "title_en": "Clear one of the quests",
+    "title_en_src": "ml"
   },
   {
     "id": 146,
+    "priority": 645,
     "title": "昇段試験で昇段する",
-    "priority": 645
+    "title_en": "Go up to the stage in the Shodan Test",
+    "title_en_src": "ml"
   },
   {
     "id": 147,
+    "priority": 650,
     "title": "リアム編1-1-9. 射撃練習５[Normal]をクリア",
-    "priority": 650
+    "title_en": "Liam Hen 1-1-9. Clear Shooting Practice 5 [Normal]",
+    "title_en_src": "ml"
   },
   {
     "id": 148,
+    "priority": 655,
     "title": "３３３で勝ち残れ！虎吼のタッグマッチのいずれかのクエストをクリア",
-    "priority": 655
+    "title_en": "Remain victorious at 333! Clear any quest in Tiger's Tag Team Match",
+    "title_en_src": "ml"
   },
   {
     "id": 149,
+    "priority": 660,
     "title": "燃えろ！ロマンシング・ビッグマッチ-上級-をｸﾘｱ(2022/1/14(金)12:00~開催)",
-    "priority": 660
+    "title_en": "Burn it! Click on Romancing Big Match -Advanced- (2022/1/14 (Fri) 12:00 ~)",
+    "title_en_src": "ml"
   },
   {
     "id": 150,
+    "priority": 665,
     "title": "燃えろ！ロマンシング・ビッグマッチ-中級-をｸﾘｱ(2022/1/14(金)12:00~開催)",
-    "priority": 665
+    "title_en": "Burn it! Click Romancing Big Match -Intermediate- (2022/1/14 (Fri) 12:00 ~)",
+    "title_en_src": "ml"
   },
   {
     "id": 151,
+    "priority": 670,
     "title": "燃えろ！ロマンシング・ビッグマッチ-初級-をｸﾘｱ(2022/1/14(金)12:00~開催)",
-    "priority": 670
+    "title_en": "Burn it! Click on Romancing Big Match -Beginner- (2022/1/14 (Fri) 12:00 ~)",
+    "title_en_src": "ml"
   }
 ]
