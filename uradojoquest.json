@@ -1,67 +1,57 @@
 [
   {
+    "id": 915001001,
+    "name": "死合・一",
+    "list_banner": 0,
+    "sort_order": 1,
     "area_id": 915001,
     "battle_id": 510001001,
-    "daily_adjusted_reward_group_id": 9506,
-    "id": 915001001,
-    "list_banner": 0,
-    "name": "死合・一",
-    "name_en": "Death Match 1",
-    "name_en_src": "gl",
     "reward_grade": 1,
     "reward_grade_name": "ボーナスⅠ",
-    "sort_order": 1
+    "daily_adjusted_reward_group_id": 9506
   },
   {
+    "id": 915001002,
+    "name": "死合・二",
+    "list_banner": 0,
+    "sort_order": 2,
     "area_id": 915001,
     "battle_id": 510001002,
-    "daily_adjusted_reward_group_id": 9507,
-    "id": 915001002,
-    "list_banner": 0,
-    "name": "死合・二",
-    "name_en": "Death Match 2",
-    "name_en_src": "gl",
     "reward_grade": 2,
     "reward_grade_name": "ボーナスⅡ",
-    "sort_order": 2
+    "daily_adjusted_reward_group_id": 9507
   },
   {
+    "id": 915001003,
+    "name": "死合・三",
+    "list_banner": 0,
+    "sort_order": 3,
     "area_id": 915001,
     "battle_id": 510001003,
-    "daily_adjusted_reward_group_id": 9508,
-    "id": 915001003,
-    "list_banner": 0,
-    "name": "死合・三",
-    "name_en": "Death Match 3",
-    "name_en_src": "gl",
     "reward_grade": 3,
     "reward_grade_name": "ボーナスⅢ",
-    "sort_order": 3
+    "daily_adjusted_reward_group_id": 9508
   },
   {
+    "id": 915001004,
+    "name": "死合・四",
+    "list_banner": 0,
+    "sort_order": 4,
     "area_id": 915001,
     "battle_id": 510001004,
-    "daily_adjusted_reward_group_id": 9509,
-    "id": 915001004,
-    "list_banner": 0,
-    "name": "死合・四",
-    "name_en": "Death Match 4",
-    "name_en_src": "gl",
     "reward_grade": 4,
     "reward_grade_name": "ボーナスⅣ",
-    "sort_order": 4
+    "daily_adjusted_reward_group_id": 9509
   },
   {
+    "id": 915001005,
+    "name": "死合・五",
+    "list_banner": 0,
+    "sort_order": 5,
     "area_id": 915001,
     "battle_id": 510001009,
-    "daily_adjusted_reward_group_id": 9510,
-    "id": 915001005,
-    "list_banner": 0,
-    "name": "死合・五",
-    "name_en": "Death Go",
-    "name_en_src": "ml",
     "reward_grade": 5,
     "reward_grade_name": "ボーナスⅤ",
-    "sort_order": 5
+    "daily_adjusted_reward_group_id": 9510
   }
 ]

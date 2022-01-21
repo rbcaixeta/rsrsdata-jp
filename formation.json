@@ -1,1257 +1,1113 @@
 [
   {
-    "flavor_text": "各々自由に戦うスタンダードな陣形。<br>補正効果は特にないが、どんなパーティでもくせのない戦い方ができる。",
-    "flavor_text_en": "Default formation where members fight freely.<br>Grants no bonuses, but works for any party without a specific strategy.",
-    "flavor_text_en_src": "gl",
     "id": 1001,
     "name": "フリーファイト",
-    "name_en": "Free For All",
-    "name_en_src": "gl",
+    "flavor_text": "各々自由に戦うスタンダードな陣形。<br>補正効果は特にないが、どんなパーティでもくせのない戦い方ができる。",
     "positions": [
       {
-        "formation_bonus_id": 1001,
         "x": 30,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1001
       },
       {
-        "formation_bonus_id": 1001,
         "x": 30,
-        "y": 15
+        "y": 15,
+        "formation_bonus_id": 1001
       },
       {
-        "formation_bonus_id": 1001,
         "x": 30,
-        "y": 35
+        "y": 35,
+        "formation_bonus_id": 1001
       },
       {
-        "formation_bonus_id": 1001,
         "x": 25,
-        "y": 6
+        "y": 6,
+        "formation_bonus_id": 1001
       },
       {
-        "formation_bonus_id": 1001,
         "x": 25,
-        "y": 44
+        "y": 44,
+        "formation_bonus_id": 1001
       }
     ]
   },
   {
-    "flavor_text": "前衛メンバーの腕力を上昇させる攻撃陣形。<br>剣、大剣、斧、棍棒、体術、槍を重視するパーティにおすすめ。",
-    "flavor_text_en": "Attack formation that boosts the front line's STR.<br>For parties who mainly use Swords, G. Swords, Axes, Clubs, M. Arts and Spears.",
-    "flavor_text_en_src": "gl",
     "id": 1002,
     "name": "アマゾンストライク",
-    "name_en": "Amazon Raid",
-    "name_en_src": "gl",
+    "flavor_text": "前衛メンバーの腕力を上昇させる攻撃陣形。<br>剣、大剣、斧、棍棒、体術、槍を重視するパーティにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1002,
         "x": 8,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1002
       },
       {
-        "formation_bonus_id": 1003,
         "x": 16,
-        "y": 17
+        "y": 17,
+        "formation_bonus_id": 1003
       },
       {
-        "formation_bonus_id": 1003,
         "x": 16,
-        "y": 33
+        "y": 33,
+        "formation_bonus_id": 1003
       },
       {
-        "formation_bonus_id": 1004,
         "x": 38,
-        "y": 8
+        "y": 8,
+        "formation_bonus_id": 1004
       },
       {
-        "formation_bonus_id": 1004,
         "x": 38,
-        "y": 42
+        "y": 42,
+        "formation_bonus_id": 1004
       }
     ]
   },
   {
-    "flavor_text": "前衛メンバーの腕力と素早さを上昇させる速攻陣形。<br>体術を主体とするパーティにおすすめ。",
-    "flavor_text_en": "Quick-strike formation that boosts the front line's STR and AGI.<br>For parties who mainly use M. Arts.",
-    "flavor_text_en_src": "gl",
     "id": 1003,
     "name": "スペキュレイション",
-    "name_en": "Speculation",
-    "name_en_src": "gl",
+    "flavor_text": "前衛メンバーの腕力と素早さを上昇させる速攻陣形。<br>体術を主体とするパーティにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1005,
         "x": 8,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1005
       },
       {
-        "formation_bonus_id": 1006,
         "x": 23,
-        "y": 16
+        "y": 16,
+        "formation_bonus_id": 1006
       },
       {
-        "formation_bonus_id": 1006,
         "x": 23,
-        "y": 34
+        "y": 34,
+        "formation_bonus_id": 1006
       },
       {
-        "formation_bonus_id": 1007,
         "x": 38,
-        "y": 8
+        "y": 8,
+        "formation_bonus_id": 1007
       },
       {
-        "formation_bonus_id": 1007,
         "x": 38,
-        "y": 42
+        "y": 42,
+        "formation_bonus_id": 1007
       }
     ]
   },
   {
-    "flavor_text": "前衛4人の素早さがアップする速攻陣形。<br>後衛メンバーの器用さが強化されるので、小剣、弓、銃を重視するパーティにおすすめ。",
-    "flavor_text_en": "Quick-strike formation that boosts the AGI of the front four.<br>Enhances the back line's DEX. For parties who mainly use S. Swords, Bows, and Guns.",
-    "flavor_text_en_src": "gl",
     "id": 1004,
     "name": "ハンターシフト",
-    "name_en": "Hunter's Gambit",
-    "name_en_src": "gl",
+    "flavor_text": "前衛4人の素早さがアップする速攻陣形。<br>後衛メンバーの器用さが強化されるので、小剣、弓、銃を重視するパーティにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1008,
         "x": 43,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1008
       },
       {
-        "formation_bonus_id": 1009,
         "x": 8,
-        "y": 17
+        "y": 17,
+        "formation_bonus_id": 1009
       },
       {
-        "formation_bonus_id": 1009,
         "x": 8,
-        "y": 34
+        "y": 34,
+        "formation_bonus_id": 1009
       },
       {
-        "formation_bonus_id": 1010,
         "x": 28,
-        "y": 7
+        "y": 7,
+        "formation_bonus_id": 1010
       },
       {
-        "formation_bonus_id": 1010,
         "x": 28,
-        "y": 44
+        "y": 44,
+        "formation_bonus_id": 1010
       }
     ]
   },
   {
-    "flavor_text": "前衛メンバーの体力を上昇させる防御陣形。前衛が敵の攻撃を引きつけ、パーティ全体の生存率を上げる。<br>体力が高いメンバーを軸にしたパーティにおすすめ。",
-    "flavor_text_en": "Defensive formation that boosts the front line's END. The front line also draws enemy attacks, improving party survival.<br>For parties based on a member with high END.",
-    "flavor_text_en_src": "gl",
     "id": 1005,
     "name": "インペリアルクロス",
-    "name_en": "Imperial Cross",
-    "name_en_src": "gl",
+    "flavor_text": "前衛メンバーの体力を上昇させる防御陣形。前衛が敵の攻撃を引きつけ、パーティ全体の生存率を上げる。<br>体力が高いメンバーを軸にしたパーティにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1001,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1001
       },
       {
-        "formation_bonus_id": 1012,
         "x": 42,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1012
       },
       {
-        "formation_bonus_id": 1011,
         "x": 8,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1011
       },
       {
-        "formation_bonus_id": 1001,
         "x": 25,
-        "y": 10
+        "y": 10,
+        "formation_bonus_id": 1001
       },
       {
-        "formation_bonus_id": 1001,
         "x": 25,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1001
       }
     ]
   },
   {
-    "flavor_text": "中衛メンバーの体力・知力・精神とパーティ全体の精神が強化される防御陣形。中衛が敵の攻撃を引きつけ、パーティ全体の生存率を上げる。<br>強力な術攻撃に対抗したい場合におすすめ。",
-    "flavor_text_en": "Defensive formation that boosts the center's END, INT and the entire party's WIL. The center draws enemy attacks, improving party survival.<br>For fighting against powerful spells.",
-    "flavor_text_en_src": "gl",
     "id": 1006,
     "name": "鳳天舞の陣",
-    "name_en": "Rising Phoenix",
-    "name_en_src": "gl",
+    "flavor_text": "中衛メンバーの体力・知力・精神とパーティ全体の精神が強化される防御陣形。中衛が敵の攻撃を引きつけ、パーティ全体の生存率を上げる。<br>強力な術攻撃に対抗したい場合におすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1013,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1013
       },
       {
-        "formation_bonus_id": 1014,
         "x": 8,
-        "y": 10
+        "y": 10,
+        "formation_bonus_id": 1014
       },
       {
-        "formation_bonus_id": 1014,
         "x": 8,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1014
       },
       {
-        "formation_bonus_id": 1015,
         "x": 42,
-        "y": 10
+        "y": 10,
+        "formation_bonus_id": 1015
       },
       {
-        "formation_bonus_id": 1015,
         "x": 42,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1015
       }
     ]
   },
   {
-    "flavor_text": "前衛メンバーを集中的に強化する防御陣形。敵の攻撃を前衛が引きつけ、パーティ全体の生存率を上げる。<br>後衛メンバーの素早さ低下を引き替えに、前衛の攻防双方の能力を強化する。被弾をコントロールしつつ、カウンターで戦いたい場合におすすめ。",
-    "flavor_text_en": "Defensive formation that enhances the front line, who draws enemy attacks, improving party survival. The back line's AGI is lowered, but the front line's offensive and defensive attributes are enhanced. Good for counterattacks while mitigating damage.",
-    "flavor_text_en_src": "gl",
     "id": 1007,
     "name": "デザートランス",
-    "name_en": "Desert Lance",
-    "name_en_src": "gl",
+    "flavor_text": "前衛メンバーを集中的に強化する防御陣形。敵の攻撃を前衛が引きつけ、パーティ全体の生存率を上げる。<br>後衛メンバーの素早さ低下を引き替えに、前衛の攻防双方の能力を強化する。被弾をコントロールしつつ、カウンターで戦いたい場合におすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1042,
         "x": 15,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1042
       },
       {
-        "formation_bonus_id": 1043,
         "x": 40,
-        "y": 20
+        "y": 20,
+        "formation_bonus_id": 1043
       },
       {
-        "formation_bonus_id": 1043,
         "x": 40,
-        "y": 30
+        "y": 30,
+        "formation_bonus_id": 1043
       },
       {
-        "formation_bonus_id": 1043,
         "x": 30,
-        "y": 10
+        "y": 10,
+        "formation_bonus_id": 1043
       },
       {
-        "formation_bonus_id": 1043,
         "x": 30,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1043
       }
     ]
   },
   {
-    "flavor_text": "後衛メンバーの知力を上昇させる攻撃陣形。前衛両翼のメンバーの素早さがアップする。<br>術攻撃を主体とするパーティに向いている。全体的に精神強化がかかるため、敵の術攻撃や状態異常に対抗したいときにもおすすめ。",
-    "flavor_text_en": "Attack formation that boosts the back member's INT. Boosts the front line's AGI.<br>For parties who mainly use spells. Enhanced WIL allows the party to stand up to the enemy's spells and status ailments.",
-    "flavor_text_en_src": "gl",
     "id": 1008,
     "name": "パワーレイズ",
-    "name_en": "Seer's Focus",
-    "name_en_src": "gl",
+    "flavor_text": "後衛メンバーの知力を上昇させる攻撃陣形。前衛両翼のメンバーの素早さがアップする。<br>術攻撃を主体とするパーティに向いている。全体的に精神強化がかかるため、敵の術攻撃や状態異常に対抗したいときにもおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1044,
         "x": 42,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1044
       },
       {
-        "formation_bonus_id": 1045,
         "x": 17,
-        "y": 8
+        "y": 8,
+        "formation_bonus_id": 1045
       },
       {
-        "formation_bonus_id": 1045,
         "x": 17,
-        "y": 42
+        "y": 42,
+        "formation_bonus_id": 1045
       },
       {
-        "formation_bonus_id": 1046,
         "x": 32,
-        "y": 16
+        "y": 16,
+        "formation_bonus_id": 1046
       },
       {
-        "formation_bonus_id": 1046,
         "x": 32,
-        "y": 34
+        "y": 34,
+        "formation_bonus_id": 1046
       }
     ]
   },
   {
-    "flavor_text": "パーティ全体の素早さがアップする速攻陣形。素早さと引き替えに体力はわずかに低下する。<br>武器種を問わず、先手を取って戦いたいときにおすすめ。",
-    "flavor_text_en": "Quick-strike formation that boosts the party's AGI but lowers its END.<br>For parties which want to strike first, regardless of weapon type.",
-    "flavor_text_en_src": "gl",
     "id": 1009,
     "name": "ラピッドストリーム",
-    "name_en": "Rapid Stream",
-    "name_en_src": "gl",
+    "flavor_text": "パーティ全体の素早さがアップする速攻陣形。素早さと引き替えに体力はわずかに低下する。<br>武器種を問わず、先手を取って戦いたいときにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1021,
         "x": 20,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1021
       },
       {
-        "formation_bonus_id": 1021,
         "x": 30,
-        "y": 16
+        "y": 16,
+        "formation_bonus_id": 1021
       },
       {
-        "formation_bonus_id": 1021,
         "x": 30,
-        "y": 34
+        "y": 34,
+        "formation_bonus_id": 1021
       },
       {
-        "formation_bonus_id": 1021,
         "x": 30,
-        "y": 6
+        "y": 6,
+        "formation_bonus_id": 1021
       },
       {
-        "formation_bonus_id": 1021,
         "x": 30,
-        "y": 44
+        "y": 44,
+        "formation_bonus_id": 1021
       }
     ]
   },
   {
-    "flavor_text": "先頭メンバーを集中的に強化する特殊陣形。前衛・中衛の素早さが上昇する。<br>特定のメンバーを中心に戦闘を組み立てたい場合におすすめ。",
-    "flavor_text_en": "Special formation that focuses on enhancing its lead member. Boosts the middle and front lines' AGI.<br>For building strategies based on a specific member.",
-    "flavor_text_en_src": "gl",
     "id": 1010,
     "name": "龍陣",
-    "name_en": "Dragon Stance",
-    "name_en_src": "gl",
+    "flavor_text": "先頭メンバーを集中的に強化する特殊陣形。前衛・中衛の素早さが上昇する。<br>特定のメンバーを中心に戦闘を組み立てたい場合におすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1022,
         "x": 8,
-        "y": 22
+        "y": 22,
+        "formation_bonus_id": 1022
       },
       {
-        "formation_bonus_id": 1023,
         "x": 16,
-        "y": 8
+        "y": 8,
+        "formation_bonus_id": 1023
       },
       {
-        "formation_bonus_id": 1023,
         "x": 25,
-        "y": 17
+        "y": 17,
+        "formation_bonus_id": 1023
       },
       {
-        "formation_bonus_id": 1024,
         "x": 33,
-        "y": 26
+        "y": 26,
+        "formation_bonus_id": 1024
       },
       {
-        "formation_bonus_id": 1024,
         "x": 42,
-        "y": 35
+        "y": 35,
+        "formation_bonus_id": 1024
       }
     ]
   },
   {
-    "flavor_text": "後衛2人の知力が強化される術士特化の攻撃陣形。中央のメンバーを中心に前衛3人で敵の攻撃を引き受け、後衛への被弾を軽減する。<br>後衛メンバーは知力が強化されるので、術攻撃を重視するパーティにおすすめ。",
-    "flavor_text_en": "Attack formation for mages which boosts the two back line members' INT. The three members in front draw enemy attacks, reducing chance of back line getting attacked.<br>The back's INT boost is perfect for parties who mainly use spells.",
-    "flavor_text_en_src": "gl",
     "id": 1011,
     "name": "マジカルシャワー",
-    "name_en": "Magical Shower",
-    "name_en_src": "gl",
+    "flavor_text": "後衛2人の知力が強化される術士特化の攻撃陣形。中央のメンバーを中心に前衛3人で敵の攻撃を引き受け、後衛への被弾を軽減する。<br>後衛メンバーは知力が強化されるので、術攻撃を重視するパーティにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1032,
         "x": 20,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1032
       },
       {
-        "formation_bonus_id": 1033,
         "x": 8,
-        "y": 8
+        "y": 8,
+        "formation_bonus_id": 1033
       },
       {
-        "formation_bonus_id": 1033,
         "x": 8,
-        "y": 42
+        "y": 42,
+        "formation_bonus_id": 1033
       },
       {
-        "formation_bonus_id": 1034,
         "x": 34,
-        "y": 14
+        "y": 14,
+        "formation_bonus_id": 1034
       },
       {
-        "formation_bonus_id": 1034,
         "x": 34,
-        "y": 36
+        "y": 36,
+        "formation_bonus_id": 1034
       }
     ]
   },
   {
-    "flavor_text": "前衛3人で敵の攻撃を引き受けつつ、後衛の攻撃でダメージを稼ぐ攻防一体の陣形。<br>後衛メンバーは器用さが強化されるので、小剣、弓、銃を攻撃の主軸とする編成におすすめ。",
-    "flavor_text_en": "Balanced formation for both offense and defense. The front line draws enemy attacks while the back line inflicts damage. Enhances the back line's DEX. For parties who mainly use S. Swords, Bows, and Guns.",
-    "flavor_text_en_src": "gl",
     "id": 1012,
     "name": "ホーリーウォール",
-    "name_en": "Divine Wall",
-    "name_en_src": "gl",
+    "flavor_text": "前衛3人で敵の攻撃を引き受けつつ、後衛の攻撃でダメージを稼ぐ攻防一体の陣形。<br>後衛メンバーは器用さが強化されるので、小剣、弓、銃を攻撃の主軸とする編成におすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1035,
         "x": 8,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1035
       },
       {
-        "formation_bonus_id": 1036,
         "x": 8,
-        "y": 8
+        "y": 8,
+        "formation_bonus_id": 1036
       },
       {
-        "formation_bonus_id": 1036,
         "x": 8,
-        "y": 42
+        "y": 42,
+        "formation_bonus_id": 1036
       },
       {
-        "formation_bonus_id": 1037,
         "x": 38,
-        "y": 16
+        "y": 16,
+        "formation_bonus_id": 1037
       },
       {
-        "formation_bonus_id": 1037,
         "x": 38,
-        "y": 34
+        "y": 34,
+        "formation_bonus_id": 1037
       }
     ]
   },
   {
-    "flavor_text": "腕力と知力の両方が上昇する特殊陣形。<br>前衛の素早さ上昇と後衛の素早さ低下により、行動順をコントロールしやすい。",
-    "flavor_text_en": "Special formation that boosts both STR/INT. Boosts front's AGI while lowering back's AGI. Good for controlling action order.",
-    "flavor_text_en_src": "gl",
     "id": 1013,
     "name": "シグモイドフォーム",
-    "name_en": "Sigmoid Form",
-    "name_en_src": "gl",
+    "flavor_text": "腕力と知力の両方が上昇する特殊陣形。<br>前衛の素早さ上昇と後衛の素早さ低下により、行動順をコントロールしやすい。",
     "positions": [
       {
-        "formation_bonus_id": 1040,
         "x": 8,
-        "y": 6
+        "y": 6,
+        "formation_bonus_id": 1040
       },
       {
-        "formation_bonus_id": 1041,
         "x": 8,
-        "y": 16
+        "y": 16,
+        "formation_bonus_id": 1041
       },
       {
-        "formation_bonus_id": 1067,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1067
       },
       {
-        "formation_bonus_id": 1065,
         "x": 42,
-        "y": 34
+        "y": 34,
+        "formation_bonus_id": 1065
       },
       {
-        "formation_bonus_id": 1066,
         "x": 42,
-        "y": 44
+        "y": 44,
+        "formation_bonus_id": 1066
       }
     ]
   },
   {
-    "flavor_text": "3人陣形。<br>縦一列に展開して敵の攻撃を均等に散らす。補正効果は特にない。",
-    "flavor_text_en": "Three-member formation.<br>Spread out in a vertical line that evenly disperses enemy attacks. Grants no bonuses.",
-    "flavor_text_en_src": "gl",
     "id": 1014,
     "name": "フリーファイト",
-    "name_en": "Free For All",
-    "name_en_src": "gl",
+    "flavor_text": "3人陣形。<br>縦一列に展開して敵の攻撃を均等に散らす。補正効果は特にない。",
     "positions": [
       {
-        "formation_bonus_id": 1001,
         "x": 25,
-        "y": 10
+        "y": 10,
+        "formation_bonus_id": 1001
       },
       {
-        "formation_bonus_id": 1001,
         "x": 28,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1001
       },
       {
-        "formation_bonus_id": 1001,
         "x": 25,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1001
       }
     ]
   },
   {
-    "flavor_text": "3人陣形。<br>前衛2人が敵の攻撃を引きつける扇型陣形。補正効果は特にない。",
-    "flavor_text_en": "Three-member, fan-shaped formation in which the two front line members draw enemy attacks. Grants no bonuses.",
-    "flavor_text_en_src": "gl",
     "id": 1015,
     "name": "オープンデルタ",
-    "name_en": "Open Delta",
-    "name_en_src": "gl",
+    "flavor_text": "3人陣形。<br>前衛2人が敵の攻撃を引きつける扇型陣形。補正効果は特にない。",
     "positions": [
       {
-        "formation_bonus_id": 1047,
         "x": 12,
-        "y": 12
+        "y": 12,
+        "formation_bonus_id": 1047
       },
       {
-        "formation_bonus_id": 1048,
         "x": 36,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1048
       },
       {
-        "formation_bonus_id": 1047,
         "x": 12,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1047
       }
     ]
   },
   {
-    "flavor_text": "3人陣形。<br>前衛1人が敵の攻撃を引きつける凸型陣形。補正効果は特にない。",
-    "flavor_text_en": "Three-member, fan-shaped formation in which the single front line member draws enemy attacks. Grants no bonuses.",
-    "flavor_text_en_src": "gl",
     "id": 1016,
     "name": "クローズデルタ",
-    "name_en": "Closed Delta",
-    "name_en_src": "gl",
+    "flavor_text": "3人陣形。<br>前衛1人が敵の攻撃を引きつける凸型陣形。補正効果は特にない。",
     "positions": [
       {
-        "formation_bonus_id": 1050,
         "x": 36,
-        "y": 12
+        "y": 12,
+        "formation_bonus_id": 1050
       },
       {
-        "formation_bonus_id": 1049,
         "x": 12,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1049
       },
       {
-        "formation_bonus_id": 1050,
         "x": 36,
-        "y": 38
+        "y": 38,
+        "formation_bonus_id": 1050
       }
     ]
   },
   {
-    "flavor_text": "3人陣形。<br>横一列の突撃陣形。前衛ほど狙われやすい。補正効果は特にない。",
-    "flavor_text_en": "Three-member, single file assault formation in which the front member is more likely to be targeted. Grants no bonuses.",
-    "flavor_text_en_src": "gl",
     "id": 1017,
     "name": "シングルライン",
-    "name_en": "Single File",
-    "name_en_src": "gl",
+    "flavor_text": "3人陣形。<br>横一列の突撃陣形。前衛ほど狙われやすい。補正効果は特にない。",
     "positions": [
       {
-        "formation_bonus_id": 1051,
         "x": 5,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1051
       },
       {
-        "formation_bonus_id": 1001,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1001
       },
       {
-        "formation_bonus_id": 1052,
         "x": 45,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1052
       }
     ]
   },
   {
-    "flavor_text": "速度と耐久性を犠牲にして攻撃力を高めた攻撃陣形。<br>前衛1人と中衛3人の器用さが強化されるのが特長。",
-    "flavor_text_en": "Attack formation that sacrifices speed and durability to focus on offense.<br>The front and middle lines' DEX are enhanced.",
-    "flavor_text_en_src": "gl",
     "id": 1018,
     "name": "デッドリーピアス",
-    "name_en": "Deadly Pierce",
-    "name_en_src": "gl",
+    "flavor_text": "速度と耐久性を犠牲にして攻撃力を高めた攻撃陣形。<br>前衛1人と中衛3人の器用さが強化されるのが特長。",
     "positions": [
       {
-        "formation_bonus_id": 1016,
         "x": 6,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1016
       },
       {
-        "formation_bonus_id": 1017,
         "x": 20,
-        "y": 10
+        "y": 10,
+        "formation_bonus_id": 1017
       },
       {
-        "formation_bonus_id": 1017,
         "x": 20,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1017
       },
       {
-        "formation_bonus_id": 1018,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1018
       },
       {
-        "formation_bonus_id": 1019,
         "x": 44,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1019
       }
     ]
   },
   {
-    "flavor_text": "前衛4人の知力を強化する術士特化の攻撃陣形。<br>防御と回復に難がある一方、パーティの術攻撃力が大幅に強化される。術士による先制攻撃が期待できる点もメリット。",
-    "flavor_text_en": "Attack mage formation that boosts front four's INT. Weakens defense and recovery, yet greatly enhances spell attacks. Advantage lies in mages being able to strike first.",
-    "flavor_text_en_src": "gl",
     "id": 1019,
     "name": "アニマストリーム",
-    "name_en": "Anima Stream",
-    "name_en_src": "gl",
+    "flavor_text": "前衛4人の知力を強化する術士特化の攻撃陣形。<br>防御と回復に難がある一方、パーティの術攻撃力が大幅に強化される。術士による先制攻撃が期待できる点もメリット。",
     "positions": [
       {
-        "formation_bonus_id": 1070,
         "x": 8,
-        "y": 11
+        "y": 11,
+        "formation_bonus_id": 1070
       },
       {
-        "formation_bonus_id": 1070,
         "x": 8,
-        "y": 39
+        "y": 39,
+        "formation_bonus_id": 1070
       },
       {
-        "formation_bonus_id": 1068,
         "x": 20,
-        "y": 20
+        "y": 20,
+        "formation_bonus_id": 1068
       },
       {
-        "formation_bonus_id": 1068,
         "x": 20,
-        "y": 30
+        "y": 30,
+        "formation_bonus_id": 1068
       },
       {
-        "formation_bonus_id": 1071,
         "x": 42,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1071
       }
     ]
   },
   {
-    "flavor_text": "中衛2人を中心に腕力が強化される攻撃陣形。アタッカーを敵の攻撃から守りやすい。<br>剣、大剣、斧、棍棒、体術、槍を重視するパーティにおすすめ。",
-    "flavor_text_en": "Attack formation which enhances the middle line's STR and can help defend Attacker-type members by making them less likely to be targeted by enemies. For parties who mainly use Swords, G. Swords, Axes, Clubs, M. Arts and Spears.",
-    "flavor_text_en_src": "gl",
     "id": 1020,
     "name": "ドラグーンストライク",
-    "name_en": "Dragoon Strike",
-    "name_en_src": "gl",
+    "flavor_text": "中衛2人を中心に腕力が強化される攻撃陣形。アタッカーを敵の攻撃から守りやすい。<br>剣、大剣、斧、棍棒、体術、槍を重視するパーティにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1056,
         "x": 8,
-        "y": 18
+        "y": 18,
+        "formation_bonus_id": 1056
       },
       {
-        "formation_bonus_id": 1056,
         "x": 8,
-        "y": 32
+        "y": 32,
+        "formation_bonus_id": 1056
       },
       {
-        "formation_bonus_id": 1057,
         "x": 30,
-        "y": 11
+        "y": 11,
+        "formation_bonus_id": 1057
       },
       {
-        "formation_bonus_id": 1057,
         "x": 30,
-        "y": 39
+        "y": 39,
+        "formation_bonus_id": 1057
       },
       {
-        "formation_bonus_id": 1058,
         "x": 42,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1058
       }
     ]
   },
   {
-    "flavor_text": "行動前防御強化が全員に付与される専守防衛の陣形。敵の全体攻撃に対抗しやすい。防御力アップの引き換えに行動速度が低下する。",
-    "flavor_text_en": "Defensive formation that grants all members Defense Boost before taking an action. Great against enemies' all-range attacks, but must sacrifice action priority for defense boost.",
-    "flavor_text_en_src": "gl",
     "id": 1021,
     "name": "虎穴陣",
-    "name_en": "Tiger's Den",
-    "name_en_src": "gl",
+    "flavor_text": "行動前防御強化が全員に付与される専守防衛の陣形。敵の全体攻撃に対抗しやすい。防御力アップの引き換えに行動速度が低下する。",
     "positions": [
       {
-        "formation_bonus_id": 1059,
         "x": 39,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1059
       },
       {
-        "formation_bonus_id": 1060,
         "x": 32,
-        "y": 15
+        "y": 15,
+        "formation_bonus_id": 1060
       },
       {
-        "formation_bonus_id": 1060,
         "x": 32,
-        "y": 35
+        "y": 35,
+        "formation_bonus_id": 1060
       },
       {
-        "formation_bonus_id": 1060,
         "x": 25,
-        "y": 6
+        "y": 6,
+        "formation_bonus_id": 1060
       },
       {
-        "formation_bonus_id": 1060,
         "x": 25,
-        "y": 44
+        "y": 44,
+        "formation_bonus_id": 1060
       }
     ]
   },
   {
-    "flavor_text": "被弾コントロールと攻撃強化を兼ね揃えた特殊陣形。<br>前衛メンバーが敵の攻撃を引きつける。前衛、後衛共に攻撃重視の能力強化になっているのが特長。",
-    "flavor_text_en": "Special formation that controls damage taken and boosts attack damage. Front draws enemy attacks, while front and back line's attack attributes are enhanced.",
-    "flavor_text_en_src": "gl",
     "id": 1022,
     "name": "タイガーシャーク",
-    "name_en": "Tiger Shark",
-    "name_en_src": "gl",
+    "flavor_text": "被弾コントロールと攻撃強化を兼ね揃えた特殊陣形。<br>前衛メンバーが敵の攻撃を引きつける。前衛、後衛共に攻撃重視の能力強化になっているのが特長。",
     "positions": [
       {
-        "formation_bonus_id": 1061,
         "x": 12,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1061
       },
       {
-        "formation_bonus_id": 1062,
         "x": 25,
-        "y": 12
+        "y": 12,
+        "formation_bonus_id": 1062
       },
       {
-        "formation_bonus_id": 1063,
         "x": 25,
-        "y": 38
+        "y": 38,
+        "formation_bonus_id": 1063
       },
       {
-        "formation_bonus_id": 1064,
         "x": 45,
-        "y": 12
+        "y": 12,
+        "formation_bonus_id": 1064
       },
       {
-        "formation_bonus_id": 1064,
         "x": 45,
-        "y": 38
+        "y": 38,
+        "formation_bonus_id": 1064
       }
     ]
   },
   {
-    "flavor_text": "各メンバーの個性を活かす特殊陣形。<br>ポジションごとに違った能力が強化されるのが特長。特定の武器種や攻撃属性にこだわらない混成パーティにおすすめ。",
-    "flavor_text_en": "Special formation that optimizes use of each member's attributes. Positions determine what's boosted. For mixed parties using a variety of weapon types or attack elements.",
-    "flavor_text_en_src": "gl",
     "id": 1023,
     "name": "カラフルレンジャーズ",
-    "name_en": "Rainbow Rangers",
-    "name_en_src": "gl",
+    "flavor_text": "各メンバーの個性を活かす特殊陣形。<br>ポジションごとに違った能力が強化されるのが特長。特定の武器種や攻撃属性にこだわらない混成パーティにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1077,
         "x": 18,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1077
       },
       {
-        "formation_bonus_id": 1078,
         "x": 25,
-        "y": 15
+        "y": 15,
+        "formation_bonus_id": 1078
       },
       {
-        "formation_bonus_id": 1079,
         "x": 25,
-        "y": 35
+        "y": 35,
+        "formation_bonus_id": 1079
       },
       {
-        "formation_bonus_id": 1080,
         "x": 32,
-        "y": 6
+        "y": 6,
+        "formation_bonus_id": 1080
       },
       {
-        "formation_bonus_id": 1081,
         "x": 32,
-        "y": 44
+        "y": 44,
+        "formation_bonus_id": 1081
       }
     ]
   },
   {
-    "flavor_text": "器用さと知力の両方が上昇する特殊陣形。<br>前衛の素早さ上昇と後衛の素早さ低下により、行動順をコントロールしやすい。",
-    "flavor_text_en": "Special formation that boosts DEX and INT. Front line gets AGI boost while back line has AGI lowered. Good for controlling action order.",
-    "flavor_text_en_src": "gl",
     "id": 1024,
     "name": "インバースシグモイド",
-    "name_en": "Inverse Sigmoid",
-    "name_en_src": "gl",
+    "flavor_text": "器用さと知力の両方が上昇する特殊陣形。<br>前衛の素早さ上昇と後衛の素早さ低下により、行動順をコントロールしやすい。",
     "positions": [
       {
-        "formation_bonus_id": 1072,
         "x": 8,
-        "y": 44
+        "y": 44,
+        "formation_bonus_id": 1072
       },
       {
-        "formation_bonus_id": 1073,
         "x": 8,
-        "y": 34
+        "y": 34,
+        "formation_bonus_id": 1073
       },
       {
-        "formation_bonus_id": 1076,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1076
       },
       {
-        "formation_bonus_id": 1074,
         "x": 42,
-        "y": 16
+        "y": 16,
+        "formation_bonus_id": 1074
       },
       {
-        "formation_bonus_id": 1075,
         "x": 42,
-        "y": 6
+        "y": 6,
+        "formation_bonus_id": 1075
       }
     ]
   },
   {
-    "flavor_text": "フリーファイトの発展形。前衛の素早さが上昇する速攻陣形。<br>前衛4人が敵の攻撃を引き受け、後衛への被弾を軽減する。後衛メンバーは知力・愛が強化されるので、攻撃役と支援役の役割分担がしやすい。",
-    "flavor_text_en": "Advanced FFA. Quick-strike formation. Boosts AGI for front who draws attacks, and INT/LOV for back who's less likely to be targeted. Good for assigning attack and support roles.",
-    "flavor_text_en_src": "gl",
     "id": 1025,
     "name": "フリーファイト-1",
-    "name_en": "Free For All 1",
-    "name_en_src": "gl",
+    "flavor_text": "フリーファイトの発展形。前衛の素早さが上昇する速攻陣形。<br>前衛4人が敵の攻撃を引き受け、後衛への被弾を軽減する。後衛メンバーは知力・愛が強化されるので、攻撃役と支援役の役割分担がしやすい。",
     "positions": [
       {
-        "formation_bonus_id": 1053,
         "x": 34,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1053
       },
       {
-        "formation_bonus_id": 1054,
         "x": 20,
-        "y": 18
+        "y": 18,
+        "formation_bonus_id": 1054
       },
       {
-        "formation_bonus_id": 1054,
         "x": 20,
-        "y": 32
+        "y": 32,
+        "formation_bonus_id": 1054
       },
       {
-        "formation_bonus_id": 1054,
         "x": 20,
-        "y": 9
+        "y": 9,
+        "formation_bonus_id": 1054
       },
       {
-        "formation_bonus_id": 1054,
         "x": 20,
-        "y": 41
+        "y": 41,
+        "formation_bonus_id": 1054
       }
     ]
   },
   {
-    "flavor_text": "デッドリーピアスを攻撃面・防御面共に強化した陣形。<br>先頭のメンバーに行動前防御強化が付与され、両翼のメンバーの行動速度が上昇する。",
-    "flavor_text_en": "Improved Deadly Pierce formation that boosts attack and defense. The front member gains a Pre-Action Defense Boost, and the action order of the outer wings is increased.",
-    "flavor_text_en_src": "gl",
     "id": 1028,
     "name": "デッドリーピアス・改",
-    "name_en": "Deadly Pierce EX",
-    "name_en_src": "gl",
+    "flavor_text": "デッドリーピアスを攻撃面・防御面共に強化した陣形。<br>先頭のメンバーに行動前防御強化が付与され、両翼のメンバーの行動速度が上昇する。",
     "positions": [
       {
-        "formation_bonus_id": 1092,
         "x": 6,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1092
       },
       {
-        "formation_bonus_id": 1088,
         "x": 20,
-        "y": 10
+        "y": 10,
+        "formation_bonus_id": 1088
       },
       {
-        "formation_bonus_id": 1088,
         "x": 20,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1088
       },
       {
-        "formation_bonus_id": 1087,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1087
       },
       {
-        "formation_bonus_id": 1019,
         "x": 44,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1019
       }
     ]
   },
   {
-    "flavor_text": "前衛2人と中衛1人の体術技ダメージを強化する体術特化の攻撃陣形。<br>前衛の素早さ上昇と中衛・後衛の行動速度低下により、行動順をコントロールしやすい。",
-    "flavor_text_en": "Attack formation that boosts M. Arts skill damage for the front and middle. Front line gets AGI boost while the action order for middle and back is lowered. Good for controlling action order.",
-    "flavor_text_en_src": "gl",
     "id": 1029,
     "name": "飛散陣",
-    "name_en": "Scattered",
-    "name_en_src": "gl",
+    "flavor_text": "前衛2人と中衛1人の体術技ダメージを強化する体術特化の攻撃陣形。<br>前衛の素早さ上昇と中衛・後衛の行動速度低下により、行動順をコントロールしやすい。",
     "positions": [
       {
-        "formation_bonus_id": 1089,
         "x": 8,
-        "y": 20
+        "y": 20,
+        "formation_bonus_id": 1089
       },
       {
-        "formation_bonus_id": 1089,
         "x": 8,
-        "y": 30
+        "y": 30,
+        "formation_bonus_id": 1089
       },
       {
-        "formation_bonus_id": 1090,
         "x": 32,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1090
       },
       {
-        "formation_bonus_id": 1091,
         "x": 45,
-        "y": 8
+        "y": 8,
+        "formation_bonus_id": 1091
       },
       {
-        "formation_bonus_id": 1091,
         "x": 45,
-        "y": 42
+        "y": 42,
+        "formation_bonus_id": 1091
       }
     ]
   },
   {
-    "flavor_text": "前衛2人のカウンター攻撃のダメージを強化するカウンター特化陣形。前衛2人が敵の攻撃を引きつけ、中衛メンバーは知力・愛が強化されるので、役割分担がしやすい。",
-    "flavor_text_en": "A counter-specialized formation that enhances the damage of two avant-garde counter attacks. The two avant-gardes attract the enemy&#39;s attacks, and the members of the middle guard strengthen their intelligence and love, so it is easy to divide the roles.",
-    "flavor_text_en_src": "ml",
     "id": 1030,
     "name": "マルチカウンター",
-    "name_en": "Multi counter",
-    "name_en_src": "ml",
+    "flavor_text": "前衛2人のカウンター攻撃のダメージを強化するカウンター特化陣形。前衛2人が敵の攻撃を引きつけ、中衛メンバーは知力・愛が強化されるので、役割分担がしやすい。",
     "positions": [
       {
-        "formation_bonus_id": 1093,
         "x": 8,
-        "y": 12
+        "y": 12,
+        "formation_bonus_id": 1093
       },
       {
-        "formation_bonus_id": 1093,
         "x": 8,
-        "y": 38
+        "y": 38,
+        "formation_bonus_id": 1093
       },
       {
-        "formation_bonus_id": 1096,
         "x": 30,
-        "y": 12
+        "y": 12,
+        "formation_bonus_id": 1096
       },
       {
-        "formation_bonus_id": 1096,
         "x": 30,
-        "y": 38
+        "y": 38,
+        "formation_bonus_id": 1096
       },
       {
-        "formation_bonus_id": 1094,
         "x": 45,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1094
       }
     ]
   },
   {
-    "flavor_text": "アマゾンストライクの攻撃面をさらに強化した陣形。<br>剣、大剣、斧、棍棒、体術、槍を重視するパーティにおすすめ。",
-    "flavor_text_en": "Improved Amazon Raid formation that boosts attack further. For parties who mainly use Swords, G. Swords, Axes, Clubs, M. Arts and Spears.",
-    "flavor_text_en_src": "gl",
     "id": 1031,
     "name": "アマゾンストライク・改",
-    "name_en": "Amazon Raid EX",
-    "name_en_src": "gl",
+    "flavor_text": "アマゾンストライクの攻撃面をさらに強化した陣形。<br>剣、大剣、斧、棍棒、体術、槍を重視するパーティにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1098,
         "x": 8,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1098
       },
       {
-        "formation_bonus_id": 1099,
         "x": 16,
-        "y": 17
+        "y": 17,
+        "formation_bonus_id": 1099
       },
       {
-        "formation_bonus_id": 1099,
         "x": 16,
-        "y": 33
+        "y": 33,
+        "formation_bonus_id": 1099
       },
       {
-        "formation_bonus_id": 1004,
         "x": 38,
-        "y": 8
+        "y": 8,
+        "formation_bonus_id": 1004
       },
       {
-        "formation_bonus_id": 1004,
         "x": 38,
-        "y": 42
+        "y": 42,
+        "formation_bonus_id": 1004
       }
     ]
   },
   {
-    "flavor_text": "前衛・中衛の素早さがアップする速攻陣形。<br>パーティ全体の器用さが強化されるので、小剣、弓、銃を重視するパーティにおすすめ。",
-    "flavor_text_en": "A hasty formation that improves the avant-garde and middle guard&#39;s quickness.<br> It enhances the dexterity of the entire party, so it is recommended for parties that emphasize swords, bows, and guns.",
-    "flavor_text_en_src": "ml",
     "id": 1033,
     "name": "バレットシフト",
-    "name_en": "Bullet shift",
-    "name_en_src": "ml",
+    "flavor_text": "前衛・中衛の素早さがアップする速攻陣形。<br>パーティ全体の器用さが強化されるので、小剣、弓、銃を重視するパーティにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1101,
         "x": 8,
-        "y": 6
+        "y": 6,
+        "formation_bonus_id": 1101
       },
       {
-        "formation_bonus_id": 1102,
         "x": 25,
-        "y": 16
+        "y": 16,
+        "formation_bonus_id": 1102
       },
       {
-        "formation_bonus_id": 1102,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1102
       },
       {
-        "formation_bonus_id": 1102,
         "x": 25,
-        "y": 34
+        "y": 34,
+        "formation_bonus_id": 1102
       },
       {
-        "formation_bonus_id": 1103,
         "x": 42,
-        "y": 44
+        "y": 44,
+        "formation_bonus_id": 1103
       }
     ]
   },
   {
-    "flavor_text": "デザートランスの防御面をさらに強化した陣形。敵の攻撃を前衛が引きつけ、パーティ全体の生存率を上げる。被弾をコントロールしつつ戦いたい場合におすすめ。",
-    "flavor_text_en": "A formation that further strengthens the defense side of Desert Lance. The avant-garde attracts enemy attacks and increases the survival rate of the entire party. Recommended when you want to fight while controlling the impact.",
-    "flavor_text_en_src": "ml",
     "id": 1034,
     "name": "デザートランス・改",
-    "name_en": "Desert Lance / Kai",
-    "name_en_src": "ml",
+    "flavor_text": "デザートランスの防御面をさらに強化した陣形。敵の攻撃を前衛が引きつけ、パーティ全体の生存率を上げる。被弾をコントロールしつつ戦いたい場合におすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1104,
         "x": 15,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1104
       },
       {
-        "formation_bonus_id": 1043,
         "x": 40,
-        "y": 20
+        "y": 20,
+        "formation_bonus_id": 1043
       },
       {
-        "formation_bonus_id": 1043,
         "x": 40,
-        "y": 30
+        "y": 30,
+        "formation_bonus_id": 1043
       },
       {
-        "formation_bonus_id": 1043,
         "x": 30,
-        "y": 10
+        "y": 10,
+        "formation_bonus_id": 1043
       },
       {
-        "formation_bonus_id": 1043,
         "x": 30,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1043
       }
     ]
   },
   {
-    "flavor_text": "前衛・後衛の腕力・器用さ・知力がアップする攻撃陣形。<br>複数のステータス強化を必要とするスタイルにおすすめ。",
-    "flavor_text_en": "An attack formation that improves the strength, dexterity, and intelligence of the avant-garde and rearguard.<br> Recommended for styles that require multiple status enhancements.",
-    "flavor_text_en_src": "ml",
     "id": 1035,
     "name": "マギアファイト",
-    "name_en": "Magia Fight",
-    "name_en_src": "ml",
+    "flavor_text": "前衛・後衛の腕力・器用さ・知力がアップする攻撃陣形。<br>複数のステータス強化を必要とするスタイルにおすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1105,
         "x": 8,
-        "y": 44
+        "y": 44,
+        "formation_bonus_id": 1105
       },
       {
-        "formation_bonus_id": 1106,
         "x": 25,
-        "y": 34
+        "y": 34,
+        "formation_bonus_id": 1106
       },
       {
-        "formation_bonus_id": 1106,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1106
       },
       {
-        "formation_bonus_id": 1106,
         "x": 25,
-        "y": 16
+        "y": 16,
+        "formation_bonus_id": 1106
       },
       {
-        "formation_bonus_id": 1107,
         "x": 42,
-        "y": 6
+        "y": 6,
+        "formation_bonus_id": 1107
       }
     ]
   },
   {
-    "flavor_text": "前衛1人の腕力と素早さ、中衛3人の知力、後衛1人の器用さがそれぞれ強化される、術師を中心とした攻撃陣形。<br>前衛には行動後防御強化が付与され、後衛には行動前防御強化が付与される。",
-    "flavor_text_en": "An attack formation centered on a surgeon, in which the strength and quickness of one avant-garde, the intelligence of three middle guards, and the dexterity of one rearguard are strengthened.<br> The avant-garde is given post-action defense enhancement, and the rearguard is given pre-action defense enhancement.",
-    "flavor_text_en_src": "ml",
     "id": 1037,
     "name": "ハリケーン",
-    "name_en": "Hurricane",
-    "name_en_src": "ml",
+    "flavor_text": "前衛1人の腕力と素早さ、中衛3人の知力、後衛1人の器用さがそれぞれ強化される、術師を中心とした攻撃陣形。<br>前衛には行動後防御強化が付与され、後衛には行動前防御強化が付与される。",
     "positions": [
       {
-        "formation_bonus_id": 1109,
         "x": 8,
-        "y": 15
+        "y": 15,
+        "formation_bonus_id": 1109
       },
       {
-        "formation_bonus_id": 1110,
         "x": 25,
-        "y": 5
+        "y": 5,
+        "formation_bonus_id": 1110
       },
       {
-        "formation_bonus_id": 1110,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1110
       },
       {
-        "formation_bonus_id": 1110,
         "x": 25,
-        "y": 45
+        "y": 45,
+        "formation_bonus_id": 1110
       },
       {
-        "formation_bonus_id": 1111,
         "x": 42,
-        "y": 35
+        "y": 35,
+        "formation_bonus_id": 1111
       }
     ]
   },
   {
-    "flavor_text": "パーティ全体に「全員生存時防御」と「ターン開始時HP回復(全員生存時)」が付与される防御陣形。<br>長期戦におすすめ。",
-    "flavor_text_en": "A defensive formation that grants &quot;defense when all are alive&quot; and &quot;HP recovery at the start of the turn (when all are alive)&quot; to the entire party.<br> Recommended for long-term battles.",
-    "flavor_text_en_src": "ml",
     "id": 1038,
     "name": "玄武陣",
-    "name_en": "Genbujin",
-    "name_en_src": "ml",
+    "flavor_text": "パーティ全体に「全員生存時防御」と「ターン開始時HP回復(全員生存時)」が付与される防御陣形。<br>長期戦におすすめ。",
     "positions": [
       {
-        "formation_bonus_id": 1112,
         "x": 45,
-        "y": 24
+        "y": 24,
+        "formation_bonus_id": 1112
       },
       {
-        "formation_bonus_id": 1113,
         "x": 6,
-        "y": 9
+        "y": 9,
+        "formation_bonus_id": 1113
       },
       {
-        "formation_bonus_id": 1113,
         "x": 6,
-        "y": 39
+        "y": 39,
+        "formation_bonus_id": 1113
       },
       {
-        "formation_bonus_id": 1114,
         "x": 30,
-        "y": 6
+        "y": 6,
+        "formation_bonus_id": 1114
       },
       {
-        "formation_bonus_id": 1114,
         "x": 30,
-        "y": 42
+        "y": 42,
+        "formation_bonus_id": 1114
       }
     ]
   },
   {
-    "flavor_text": "マジカルシャワーの攻撃面をさらに強化した陣形。<br>後衛2人はWeak攻撃強化が付与され、行動速度が上昇する。",
-    "flavor_text_en": "A formation that further strengthens the attack surface of the magical shower.<br> The two rearguards are given Weak attack enhancement and their action speed increases.",
-    "flavor_text_en_src": "ml",
     "id": 1039,
     "name": "マジカルシャワー・改",
-    "name_en": "Magical shower / break",
-    "name_en_src": "ml",
+    "flavor_text": "マジカルシャワーの攻撃面をさらに強化した陣形。<br>後衛2人はWeak攻撃強化が付与され、行動速度が上昇する。",
     "positions": [
       {
-        "formation_bonus_id": 1116,
         "x": 20,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1116
       },
       {
-        "formation_bonus_id": 1115,
         "x": 8,
-        "y": 8
+        "y": 8,
+        "formation_bonus_id": 1115
       },
       {
-        "formation_bonus_id": 1115,
         "x": 8,
-        "y": 42
+        "y": 42,
+        "formation_bonus_id": 1115
       },
       {
-        "formation_bonus_id": 1118,
         "x": 34,
-        "y": 14
+        "y": 14,
+        "formation_bonus_id": 1118
       },
       {
-        "formation_bonus_id": 1118,
         "x": 34,
-        "y": 36
+        "y": 36,
+        "formation_bonus_id": 1118
       }
     ]
   },
   {
-    "flavor_text": "鳳天舞の陣を攻撃面・防御面共に強化した陣形。<br>中衛に被ダメージ軽減が付与され、前衛の素早さが上昇する。",
-    "flavor_text_en": "A formation that strengthens the phoenix dance team in both offensive and defensive aspects.<br> Damage reduction is given to the middle guard, and the avant-garde&#39;s quickness increases.",
-    "flavor_text_en_src": "ml",
     "id": 1040,
     "name": "鳳天舞の陣・改",
-    "name_en": "Hotenmai no Jin / Kai",
-    "name_en_src": "ml",
+    "flavor_text": "鳳天舞の陣を攻撃面・防御面共に強化した陣形。<br>中衛に被ダメージ軽減が付与され、前衛の素早さが上昇する。",
     "positions": [
       {
-        "formation_bonus_id": 1120,
         "x": 25,
-        "y": 25
+        "y": 25,
+        "formation_bonus_id": 1120
       },
       {
-        "formation_bonus_id": 1121,
         "x": 8,
-        "y": 10
+        "y": 10,
+        "formation_bonus_id": 1121
       },
       {
-        "formation_bonus_id": 1121,
         "x": 8,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1121
       },
       {
-        "formation_bonus_id": 1124,
         "x": 42,
-        "y": 10
+        "y": 10,
+        "formation_bonus_id": 1124
       },
       {
-        "formation_bonus_id": 1124,
         "x": 42,
-        "y": 40
+        "y": 40,
+        "formation_bonus_id": 1124
       }
     ]
   }

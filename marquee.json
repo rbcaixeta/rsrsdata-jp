@@ -2,316 +2,226 @@
   {
     "id": 1,
     "name": "Party_Formation_Top",
-    "name_en": "Party_Formation_Top",
-    "name_en_src": "gl",
     "text": "変更したいスタイル・装備・陣形・継承技・術を選択してください。"
   },
   {
     "id": 2,
     "name": "Party_Style_Change",
-    "name_en": "Party_Style_Change",
-    "name_en_src": "gl",
     "text": "変更したいスタイルをタップしてください。決定ボタンで変更を確定出来ます。"
   },
   {
     "id": 3,
     "name": "Party_Equipment_Change",
-    "name_en": "Party_Equipment_Change",
-    "name_en_src": "gl",
     "text": "変更したい装備品の種類（武器・主防具・副防具・装飾品）と装備品をタップしてください。決定ボタンで変更を確定出来ます。"
   },
   {
     "id": 4,
     "name": "Party_Arrangement_Change",
-    "name_en": "Party_Arrangement_Change",
-    "name_en_src": "gl",
     "text": "配置を変更したいキャラクターを選択してください。"
   },
   {
     "id": 5,
     "name": "Party_Formation_Change",
-    "name_en": "Party_Formation_Change",
-    "name_en_src": "gl",
     "text": "変更したい陣形を選択してください。"
   },
   {
     "id": 6,
     "name": "Party_InheritSkill_Change",
-    "name_en": "Party_InheritSkill_Change",
-    "name_en_src": "gl",
     "text": "継承したい技・術を選択してください。"
   },
   {
     "id": 7,
     "name": "SkillAwake_BaseStyle_Choice",
-    "name_en": "SkillAwake_BaseStyle_Choice",
-    "name_en_src": "gl",
     "text": "技・術を覚醒させたいスタイルを選択してください。"
   },
   {
     "id": 8,
     "name": "SkillAwake_MasteryfinishedSkill_Choice",
-    "name_en": "SkillAwake_MasteryfinishedSkill_Choice",
-    "name_en_src": "gl",
     "text": "覚醒させたい技・術を選択してください。"
   },
   {
     "id": 9,
     "name": "SkillAwake_MasteryPendingSkill_Choice",
-    "name_en": "SkillAwake_MasteryPendingSkill_Choice",
-    "name_en_src": "gl",
     "text": "覚醒させたい技・術を選択してください。"
   },
   {
     "id": 10,
     "name": "Player_FavoriteStyle_Set",
-    "name_en": "Player_FavoriteStyle_Set",
-    "name_en_src": "gl",
     "text": "お気に入り設定したいスタイルを選択してください。"
   },
   {
     "id": 11,
     "name": "StyleBreakthrough_Style_Choice",
-    "name_en": "StyleBreakthrough_Style_Choice",
-    "name_en_src": "gl",
     "text": "限界突破したいスタイルを選択してください。"
   },
   {
     "id": 12,
     "name": "StyleGrow_Style_Buildup",
-    "name_en": "StyleGrow_Style_Buildup",
-    "name_en_src": "gl",
     "text": "強化ボタンを長押しするとスタイルに経験値が入ります。"
   },
   {
     "id": 13,
     "name": "StyleGrow_Style_Choice",
-    "name_en": "StyleGrow_Style_Choice",
-    "name_en_src": "gl",
     "text": "強化したいスタイルを選択してください。"
   },
   {
     "id": 14,
     "name": "Item_Sell_Choice",
-    "name_en": "Item_Sell_Choice",
-    "name_en_src": "gl",
     "text": "売却したいアイテムを複数選択してください。一括売却ボタンで売却出来ます。"
   },
   {
     "id": 15,
     "name": "Smith_GrowMaterial_Choice",
-    "name_en": "Smith_GrowMaterial_Choice",
-    "name_en_src": "gl",
     "text": "強化素材を複数選択してください。強化ボタンで強化出来ます。"
   },
   {
     "id": 16,
     "name": "Smith_AfterEvolve_Choice",
-    "name_en": "Smith_AfterEvolve_Choice",
-    "name_en_src": "gl",
     "text": "進化先を選択してください。"
   },
   {
     "id": 17,
     "name": "Smith_ForkEvolve_Choice",
-    "name_en": "Smith_ForkEvolve_Choice",
-    "name_en_src": "gl",
     "text": "進化先を選択してください。"
   },
   {
     "id": 18,
     "name": "Smith_EvolveMaterial_Choice",
-    "name_en": "Smith_EvolveMaterial_Choice",
-    "name_en_src": "gl",
     "text": "タップした素材を上位レアリティ素材に変換できます。"
   },
   {
     "id": 19,
     "name": "Smith_EquipmentGrow_Choice",
-    "name_en": "Smith_EquipmentGrow_Choice",
-    "name_en_src": "gl",
     "text": "装備品を選択してください。"
   },
   {
     "id": 20,
     "name": "Smith_EquipmentSell_Choice",
-    "name_en": "Smith_EquipmentSell_Choice",
-    "name_en_src": "gl",
     "text": "売却したい装備品を選択してください。"
   },
   {
     "id": 21,
     "name": "PresentBox_Present_Top",
-    "name_en": "PresentBox_Present_Top",
-    "name_en_src": "gl",
     "text": "プレゼントボックスに届いた日から30日を過ぎると、自動で削除されます。"
   },
   {
     "id": 22,
     "name": "StyleLimitbreak_Style_Choice",
-    "name_en": "StyleLimitbreak_Style_Choice",
-    "name_en_src": "gl",
     "text": "限界突破したいスタイルを選択してください。"
   },
   {
     "id": 23,
     "name": "StyleLimitbreak_Style_Limitbreak",
-    "name_en": "StyleLimitbreak_Style_Limitbreak",
-    "name_en_src": "gl",
     "text": "限界突破ボタンタップでスタイルピースを消費して、限界突破ができます。スタイルピースが足りない場合は、万能ピース（ゴールド、シルバー、ブロンズ）が使用されます。"
   },
   {
     "id": 24,
     "name": "Expedition_Character_Choice",
-    "name_en": "Expedition_Character_Choice",
-    "name_en_src": "gl",
     "text": "遠征したいキャラクターを選択してください。"
   },
   {
     "id": 25,
     "name": "Lesson_Style_Choice",
-    "name_en": "Lesson_Style_Choice",
-    "name_en_src": "gl",
     "text": "訓練したいスタイルを選択してください。"
   },
   {
     "id": 26,
     "name": "Lesson_Style_Energy",
-    "name_en": "Lesson_Style_Energy",
-    "name_en_src": "gl",
     "text": "ENG（エネルギー）を補給して、キャラクターを選択すると、訓練を開始します。"
   },
   {
     "id": 27,
     "name": "Item_Sell_All",
-    "name_en": "Item_Sell_All",
-    "name_en_src": "gl",
     "text": "複数アイテムを選択し、一括売却ボタンタップでアイテムを売却し、オーラムを獲得できます。"
   },
   {
     "id": 28,
     "name": "Expedition_Place_Choice",
-    "name_en": "Expedition_Place_Choice",
-    "name_en_src": "gl",
     "text": "遠征先を選択してください。遠征先ごとにおすすめ能力値や獲得できるアイテムが異なります。"
   },
   {
     "id": 29,
     "name": "StyleSummon_piece_Choice",
-    "name_en": "StyleSummon_piece_Choice",
-    "name_en_src": "gl",
     "text": "専用スタイルピースを一定数消費することで、スタイルを召喚できます。"
   },
   {
     "id": 30,
     "name": "uradojo_Place_Choice",
-    "name_en": "uradojo_Place_Choice",
-    "name_en_src": "gl",
     "text": "死合ボタンタップで、死合（バトル）を行えます。"
   },
   {
     "id": 31,
     "name": "uranoryokukaihou_Skill_Choice",
-    "name_en": "uranoryokukaihou_Skill_Choice",
-    "name_en_src": "gl",
     "text": "上限解放したい裏能力値アイコンを選択してください。"
   },
   {
     "id": 32,
     "name": "uranoryokukaihou_Style_Choice",
-    "name_en": "uranoryokukaihou_Style_Choice",
-    "name_en_src": "gl",
     "text": "裏能力値を解放したいスタイルを選択してください。"
   },
   {
     "id": 33,
     "name": "dressup_Style_Choice",
-    "name_en": "dressup_Style_Choice",
-    "name_en_src": "gl",
     "text": "着せ替え可能なスタイルのみ表示されます。着せ替えしたいスタイルを選択してください。"
   },
   {
     "id": 34,
     "name": "dressup_Character_Choice",
-    "name_en": "dressup_Character_Choice",
-    "name_en_src": "gl",
     "text": "獲得した[着せ替え]のみ表示されます。"
   },
   {
     "id": 35,
     "name": "Holy_Stone_Sell_Choice",
-    "name_en": "Holy_Stone_Sell_Choice",
-    "name_en_src": "gl",
     "text": "聖石を選択してください。"
   },
   {
     "id": 36,
     "name": "Holy_Stone_Set_Choice",
-    "name_en": "Holy_Stone_Set_Choice",
-    "name_en_src": "gl",
     "text": "聖石をセットする装備品を選択してください。"
   },
   {
     "id": 37,
     "name": "SkillMastery_BaseStyle_Choice",
-    "name_en": "SkillMastery_BaseStyle_Choice",
-    "name_en_src": "gl",
     "text": "技・術を練達させたいスタイルを選択してください。"
   },
   {
     "id": 38,
     "name": "SkillMastery_MasteryfinishedSkill_Choice",
-    "name_en": "SkillMastery_MasteryfinishedSkill_Choice",
-    "name_en_src": "gl",
     "text": "練達させたい技・術を選択してください。"
   },
   {
     "id": 39,
     "name": "FarthestParty_Formation_Top",
-    "name_en": "FarthestParty_Formation_Top",
-    "name_en_src": "gl",
     "text": "変更したいスタイル・装備・陣形・継承技・術を選択してください。"
   },
   {
     "id": 40,
     "name": "FarthestParty_set_Top",
-    "name_en": "FarthestParty_set_Top",
-    "name_en_src": "gl",
     "text": "井戸に出撃するパーティを決戦用編成から選択して、セットしてください。"
   },
   {
     "id": 41,
     "name": "FavoriteArmor_set_Top",
-    "name_en": "FavoriteArmor_set_Top",
-    "name_en_src": "gl",
     "text": "リストをタップするとお気に入り編集画面に遷移します。"
   },
   {
     "id": 42,
     "name": "Smith_equipment_craft_Top",
-    "name_en": "Smith_equipment_craft_Top",
-    "name_en_src": "ml",
     "text": "素材を消費して装備品を錬成出来ます。"
   },
   {
     "id": 43,
     "name": "Shodan_Style_Choice",
-    "name_en": "Shodan_Style_Choice",
-    "name_en_src": "ml",
     "text": "昇段したいスタイルを選択してください。"
   },
   {
     "id": 44,
     "name": "Shodan_Character_Rankup",
-    "name_en": "Shodan_Character_Rankup",
-    "name_en_src": "ml",
     "text": "専用アイテムとスタイル強化EXPを消費して、対象となるキャラクターの段位を上げることができます。"
   },
   {
     "id": 45,
     "name": "main_quest_Choice",
-    "name_en": "main_quest_Choice",
-    "name_en_src": "ml",
     "text": "出撃するメインクエストを選択してください。"
   }
 ]
