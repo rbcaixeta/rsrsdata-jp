@@ -2310,7 +2310,7 @@
     "trigger_quest_id": 100105113
   },
   {
-    "description": "敵を100体討伐",
+    "description": "敵を100体討伐する（レイドバトルの退却を含む）",
     "description_en": "Defeat 100 enemies",
     "description_en_src": "gl",
     "id": 166,
@@ -2324,7 +2324,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "敵を200体討伐",
+    "description": "敵を200体討伐する（レイドバトルの退却を含む）",
     "description_en": "Defeat 200 enemies",
     "description_en_src": "gl",
     "id": 167,
@@ -2338,7 +2338,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "敵を300体討伐",
+    "description": "敵を300体討伐する（レイドバトルの退却を含む）",
     "description_en": "Defeat 300 enemies",
     "description_en_src": "gl",
     "id": 168,
@@ -2352,7 +2352,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "敵を400体討伐",
+    "description": "敵を400体討伐する（レイドバトルの退却を含む）",
     "description_en": "Defeat 400 enemies",
     "description_en_src": "gl",
     "id": 169,
@@ -2366,7 +2366,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "敵を500体討伐",
+    "description": "敵を500体討伐する（レイドバトルの退却を含む）",
     "description_en": "Defeat 500 enemies",
     "description_en_src": "gl",
     "id": 170,
@@ -2380,7 +2380,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "敵を600体討伐",
+    "description": "敵を600体討伐する（レイドバトルの退却を含む）",
     "description_en": "Defeat 600 enemies",
     "description_en_src": "gl",
     "id": 171,
@@ -2394,7 +2394,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "敵を700体討伐",
+    "description": "敵を700体討伐する（レイドバトルの退却を含む）",
     "description_en": "Defeat 700 enemies",
     "description_en_src": "gl",
     "id": 172,
@@ -2408,7 +2408,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "敵を800体討伐",
+    "description": "敵を800体討伐する（レイドバトルの退却を含む）",
     "description_en": "Defeat 800 enemies",
     "description_en_src": "gl",
     "id": 173,
@@ -2422,7 +2422,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "敵を900体討伐",
+    "description": "敵を900体討伐する（レイドバトルの退却を含む）",
     "description_en": "Defeat 900 enemies",
     "description_en_src": "gl",
     "id": 174,
@@ -2436,7 +2436,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "敵を1000体討伐する",
+    "description": "敵を1000体討伐する（レイドバトルの退却を含む）",
     "description_en": "Defeat 1,000 enemies",
     "description_en_src": "gl",
     "id": 175,
@@ -2669,7 +2669,7 @@
     "reward_quantity": 10,
     "reward_type": 2,
     "ribbon_text": "",
-    "summary": "ガチャを1回実行する",
+    "summary": "ガチャを1回実行",
     "trigger_player_rank": 0,
     "trigger_quest_id": 0
   },
@@ -2683,7 +2683,7 @@
     "reward_quantity": 60000,
     "reward_type": 1,
     "ribbon_text": "",
-    "summary": "ガチャを2回実行する",
+    "summary": "ガチャを2回実行",
     "trigger_player_rank": 0,
     "trigger_quest_id": 0
   },
@@ -2697,7 +2697,7 @@
     "reward_quantity": 10,
     "reward_type": 2,
     "ribbon_text": "",
-    "summary": "ガチャを3回実行する",
+    "summary": "ガチャを3回実行",
     "trigger_player_rank": 0,
     "trigger_quest_id": 0
   },
@@ -2711,7 +2711,7 @@
     "reward_quantity": 5,
     "reward_type": 10,
     "ribbon_text": "",
-    "summary": "ガチャを4回実行する",
+    "summary": "ガチャを4回実行",
     "trigger_player_rank": 0,
     "trigger_quest_id": 0
   },
@@ -2725,12 +2725,12 @@
     "reward_quantity": 100,
     "reward_type": 1,
     "ribbon_text": "",
-    "summary": "ガチャを5回実行する",
+    "summary": "ガチャを5回実行",
     "trigger_player_rank": 0,
     "trigger_quest_id": 0
   },
   {
-    "description": "遠征を1回実行",
+    "description": "遠征を1回実行する",
     "description_en": "Send 1 Expedition",
     "description_en_src": "gl",
     "id": 196,
@@ -2744,7 +2744,7 @@
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を2回実行",
+    "description": "遠征を2回実行する",
     "description_en": "Send 2 Expeditions",
     "description_en_src": "gl",
     "id": 197,
@@ -2758,7 +2758,7 @@
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を3回実行",
+    "description": "遠征を3回実行する",
     "description_en": "Send 3 Expeditions",
     "description_en_src": "gl",
     "id": 198,
@@ -2772,7 +2772,7 @@
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を4回実行",
+    "description": "遠征を4回実行する",
     "description_en": "Send 4 Expeditions",
     "description_en_src": "gl",
     "id": 199,
@@ -2786,7 +2786,7 @@
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を5回実行",
+    "description": "遠征を5回実行する",
     "description_en": "Send 5 Expeditions",
     "description_en_src": "gl",
     "id": 200,
@@ -2800,7 +2800,7 @@
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を6回実行",
+    "description": "遠征を6回実行する",
     "description_en": "Send 6 Expeditions",
     "description_en_src": "gl",
     "id": 201,
@@ -2814,7 +2814,7 @@
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を7回実行",
+    "description": "遠征を7回実行する",
     "description_en": "Send 7 Expeditions",
     "description_en_src": "gl",
     "id": 202,
@@ -2828,7 +2828,7 @@
     "trigger_quest_id": 100101111
   },
   {
-    "description": "訓練でエネルギーを1回補給",
+    "description": "訓練でエネルギーを1回補給する",
     "description_en": "Replenish your energy (NRG) 1 time",
     "description_en_src": "gl",
     "id": 203,
@@ -2842,7 +2842,7 @@
     "trigger_quest_id": 100103121
   },
   {
-    "description": "訓練でエネルギーを2回補給",
+    "description": "訓練でエネルギーを2回補給する",
     "description_en": "Replenish your energy (NRG) 2 times",
     "description_en_src": "gl",
     "id": 204,
@@ -2856,7 +2856,7 @@
     "trigger_quest_id": 100103121
   },
   {
-    "description": "訓練でエネルギーを3回補給",
+    "description": "訓練でエネルギーを3回補給する",
     "description_en": "Replenish your energy (NRG) 3 times",
     "description_en_src": "gl",
     "id": 205,
@@ -2870,7 +2870,7 @@
     "trigger_quest_id": 100103121
   },
   {
-    "description": "訓練でエネルギーを4回補給",
+    "description": "訓練でエネルギーを4回補給する",
     "description_en": "Replenish your energy (NRG) 4 times",
     "description_en_src": "gl",
     "id": 206,
@@ -2884,7 +2884,7 @@
     "trigger_quest_id": 100103121
   },
   {
-    "description": "訓練でエネルギーを5回補給",
+    "description": "訓練でエネルギーを5回補給する",
     "description_en": "Replenish your energy (NRG) 5 times",
     "description_en_src": "gl",
     "id": 207,
@@ -2912,7 +2912,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "魔物たっぷりの洞窟修練を2回クリア",
+    "description": "魔物たっぷりの洞窟修練を2回クリアする",
     "description_en": "Complete the Monster-filled Training Cave 2 times",
     "description_en_src": "gl",
     "id": 209,
@@ -2926,7 +2926,7 @@
     "trigger_quest_id": 100101071
   },
   {
-    "description": "ザクザク財宝収集を2回クリア",
+    "description": "ザクザク財宝収集を2回クリアする",
     "description_en": "Complete the Big Treasure Hunt 2 times",
     "description_en_src": "gl",
     "id": 210,
@@ -2940,7 +2940,7 @@
     "trigger_quest_id": 100102101
   },
   {
-    "description": "R杯を1回クリア",
+    "description": "R杯を1回クリアする",
     "description_en": "Complete the Robin Cup 1 time",
     "description_en_src": "gl",
     "id": 211,
@@ -2954,7 +2954,7 @@
     "trigger_quest_id": 100105113
   },
   {
-    "description": "裏道場を1回クリア",
+    "description": "裏道場を1回クリアする",
     "description_en": "Complete the Hidden Dojo 1 time",
     "description_en_src": "gl",
     "id": 212,
@@ -2968,7 +2968,7 @@
     "trigger_quest_id": 100103103
   },
   {
-    "description": "裏道場を2回クリア",
+    "description": "裏道場を2回クリアする",
     "description_en": "Complete the Hidden Dojo 2 times",
     "description_en_src": "gl",
     "id": 213,
@@ -2982,7 +2982,7 @@
     "trigger_quest_id": 100103103
   },
   {
-    "description": "裏道場を3回クリア",
+    "description": "裏道場を3回クリアする",
     "description_en": "Complete the Hidden Dojo 3 times",
     "description_en_src": "gl",
     "id": 214,
@@ -2996,7 +2996,7 @@
     "trigger_quest_id": 100103103
   },
   {
-    "description": "裏道場を4回クリア",
+    "description": "裏道場を4回クリアする",
     "description_en": "Complete the Hidden Dojo 4 times",
     "description_en_src": "gl",
     "id": 215,

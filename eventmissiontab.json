@@ -1464,8 +1464,8 @@
     "id": 154,
     "is_pierceily": 0,
     "name": "探索！宝物眠る洞窟",
-    "name_en": "EXPLORE! Treasure Sleeping Cave",
-    "name_en_src": "ml",
+    "name_en": "Explore! Hidden Treasure Cave",
+    "name_en_src": "gl",
     "priority": 11355,
     "start_at": 1611889200
   },
@@ -2528,5 +2528,35 @@
     "name_en_src": "ml",
     "priority": 12210,
     "start_at": 1642647600
+  },
+  {
+    "end_at": 1644260399,
+    "id": 263,
+    "is_pierceily": 1,
+    "name": "祝！旧正月2022！！開催記念デイリーミッション",
+    "name_en": "congratulations! Lunar New Year 2022!! Commemorative Daily Missions",
+    "name_en_src": "ml",
+    "priority": 12230,
+    "start_at": 1643256000
+  },
+  {
+    "end_at": 1644260399,
+    "id": 264,
+    "is_pierceily": 0,
+    "name": "祝！旧正月2022！！開催記念ミッション",
+    "name_en": "congratulations! Lunar New Year 2022!! Commemorative Missions",
+    "name_en_src": "ml",
+    "priority": 12225,
+    "start_at": 1643256000
+  },
+  {
+    "end_at": 1645297199,
+    "id": 266,
+    "is_pierceily": 0,
+    "name": "祝！旧正月2022！！幻燈竜舞祭",
+    "name_en": "congratulations! Lunar New Year 2022!! Gentoryu Dance Festival",
+    "name_en_src": "ml",
+    "priority": 12220,
+    "start_at": 1643256000
   }
 ]

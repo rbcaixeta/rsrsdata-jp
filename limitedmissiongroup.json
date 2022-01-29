@@ -455,8 +455,8 @@
     "icon": 142,
     "id": 42,
     "name": "探索！宝物眠る洞窟",
-    "name_en": "EXPLORE! Treasure Sleeping Cave",
-    "name_en_src": "ml",
+    "name_en": "Missions",
+    "name_en_src": "gl",
     "priority": 10041,
     "start_at": 1611889200,
     "total_pierceys": 1
@@ -823,5 +823,16 @@
     "priority": 10074,
     "start_at": 1642647600,
     "total_pierceys": 7
+  },
+  {
+    "end_at": 1644865199,
+    "icon": 176,
+    "id": 76,
+    "name": "祝！旧正月2022！！<br>開催記念",
+    "name_en": "congratulations! Lunar New Year 2022!! <br>Holding commemorations",
+    "name_en_src": "ml",
+    "priority": 10075,
+    "start_at": 1643252400,
+    "total_pierceys": 3
   }
 ]

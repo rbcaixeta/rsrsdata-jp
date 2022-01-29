@@ -2268,11 +2268,11 @@
     ],
     "id": 167,
     "name": "Disabled",
-    "name_en": "Disabled",
+    "name_en": "Quest_Before",
     "name_en_src": "gl",
     "size": 2,
     "title": "出撃前情報",
-    "title_en": "出撃前情報",
+    "title_en": "Quest Briefing",
     "title_en_src": "gl"
   },
   {
@@ -2282,7 +2282,7 @@
     ],
     "id": 168,
     "name": "Disabled",
-    "name_en": "Quest_Before",
+    "name_en": "Disabled",
     "name_en_src": "gl",
     "size": 2,
     "title": "出撃前情報",
@@ -5192,11 +5192,11 @@
     "id": 389,
     "name": "Quest_Event",
     "name_en": "Quest_Event",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "探索！宝物眠る洞窟",
-    "title_en": "EXPLORE! Treasure Sleeping Cave",
-    "title_en_src": "ml"
+    "title_en": "Explore! Hidden Treasure Cave",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -5239,11 +5239,11 @@
     "id": 392,
     "name": "Quest_Event",
     "name_en": "Quest_Event",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "掘りあてろ！宝物発掘",
-    "title_en": "Dig it up! Treasure excavation",
-    "title_en_src": "ml"
+    "title_en": "Dig! Treasure Excavation",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -5252,11 +5252,11 @@
     "id": 393,
     "name": "Quest_Event",
     "name_en": "Quest_Event",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "掘りあてろ！特大宝物発掘",
-    "title_en": "Dig it up! Excavation of oversized treasures",
-    "title_en_src": "ml"
+    "title_en": "Dig! Great Treasure Excavation",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -5266,11 +5266,11 @@
     "id": 394,
     "name": "Quest_Event",
     "name_en": "Quest_Event",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "聖石の洞窟-黄金-",
-    "title_en": "Sacred Stone Cave -Golden-",
-    "title_en_src": "ml"
+    "title_en": "Cave of Holy Stones (Gold)",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -5280,11 +5280,11 @@
     "id": 395,
     "name": "Quest_Event",
     "name_en": "Quest_Event",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "聖石の洞窟-聖石-",
-    "title_en": "Holy Stone Cave -Holy Stone-",
-    "title_en_src": "ml"
+    "title_en": "Cave of Holy Stones (Holy Stone)",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -5294,11 +5294,11 @@
     "id": 396,
     "name": "Quest_Event",
     "name_en": "Quest_Event",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "聖石の洞窟-聖石のかけら-",
-    "title_en": "Sacred Stone Cave -Sacred Stone Fragment-",
-    "title_en_src": "ml"
+    "title_en": "Cave of Holy Stones (Holy Stone Shard)",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -6672,24 +6672,6 @@
     "size": 3,
     "title": "DESTINY 8 超コラボBOX",
     "title_en": "DESTINY 8 Super Collaboration Box",
-    "title_en_src": "ml"
-  },
-  {
-    "banners": [
-      1006,
-      1007,
-      1011,
-      1013,
-      1012,
-      10408
-    ],
-    "id": 488,
-    "name": "Dojo_Expedition",
-    "name_en": "Dojo_Expedition",
-    "name_en_src": "ml",
-    "size": 2,
-    "title": "遠征",
-    "title_en": "expeditions",
     "title_en_src": "ml"
   },
   {
@@ -8192,6 +8174,266 @@
     "size": 3,
     "title": "ジャミルの宝物庫探索",
     "title_en": "Exploring Jamil's Treasure Trove",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10663,
+      10664,
+      10665,
+      10666
+    ],
+    "id": 600,
+    "name": "Quest_Event_1461",
+    "name_en": "Quest_Event_1461",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "祝！旧正月2022！！開春の花火大会",
+    "title_en": "congratulations! Lunar New Year 2022!! Fireworks display in spring",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10667,
+      10668,
+      10669,
+      10670,
+      10663,
+      10664,
+      10671
+    ],
+    "id": 601,
+    "name": "Quest_Event_1462",
+    "name_en": "Quest_Event_1462",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "祝！旧正月2022！！幻燈竜舞祭",
+    "title_en": "congratulations! Lunar New Year 2022!! Gentoryu Dance Festival",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      9774,
+      10666
+    ],
+    "id": 602,
+    "name": "Quest_Event_1170",
+    "name_en": "Quest_Event_1170",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "掘り出せ！鉱山洞窟",
+    "title_en": "Dig it out! Mine caves",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10561,
+      10562,
+      10666
+    ],
+    "id": 603,
+    "name": "Quest_Event_1213",
+    "name_en": "Quest_Event_1213",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "聖石の洞窟-黄金-",
+    "title_en": "Sacred Stone Cave -Golden-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10561,
+      10666
+    ],
+    "id": 604,
+    "name": "Quest_Event_1214",
+    "name_en": "Quest_Event_1214",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "聖石の洞窟-聖石-",
+    "title_en": "Holy Stone Cave -Holy Stone-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10561,
+      10666
+    ],
+    "id": 605,
+    "name": "Quest_Event_1215",
+    "name_en": "Quest_Event_1215",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "聖石の洞窟-聖石のかけら-",
+    "title_en": "Sacred Stone Cave -Sacred Stone Fragment-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 606,
+    "name": "Quest_Event_1465",
+    "name_en": "Quest_Event_1465",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・銅-1日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest - Copper -Day 1-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 614,
+    "name": "Quest_Event_1466",
+    "name_en": "Quest_Event_1466",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・銅-2日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest - Copper -Day 2-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 615,
+    "name": "Quest_Event_1467",
+    "name_en": "Quest_Event_1467",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・銀-3日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest - Silver -Day 3-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 616,
+    "name": "Quest_Event_1470",
+    "name_en": "Quest_Event_1470",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・銀-4日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest - Silver -Day 4-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 617,
+    "name": "Quest_Event_1471",
+    "name_en": "Quest_Event_1471",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・金-5日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest for Test of Strength, Friday -Day 5-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 618,
+    "name": "Quest_Event_1472",
+    "name_en": "Quest_Event_1472",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・金-6日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest for Test of Strength - Friday - Day 6",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 619,
+    "name": "Quest_Event_1473",
+    "name_en": "Quest_Event_1473",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・金-7日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest for Test of Strength, Friday -Day 7-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 620,
+    "name": "Quest_Event_1474",
+    "name_en": "Quest_Event_1474",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・金-8日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest - Friday - Day 8 -",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 621,
+    "name": "Quest_Event_1475",
+    "name_en": "Quest_Event_1475",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・金-9日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest for Test of Strength, Friday -Day 9-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 622,
+    "name": "Quest_Event_1476",
+    "name_en": "Quest_Event_1476",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・金-10日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest for Test of Strength, Friday -Day 10-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 623,
+    "name": "Quest_Event_1477",
+    "name_en": "Quest_Event_1477",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・金-11日目-",
+    "title_en": "Lunar New Year Commemorative Treasure Chest for Test of Strength, Friday -Day 11-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10672,
+      10673
+    ],
+    "id": 624,
+    "name": "Quest_Event_1478",
+    "name_en": "Quest_Event_1478",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "旧正月記念 力試しの宝箱・模擬戦",
+    "title_en": "Lunar New Year Commemorative Treasure Chest and Mock Battle",
     "title_en_src": "ml"
   }
 ]

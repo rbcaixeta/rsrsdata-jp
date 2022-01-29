@@ -933,12 +933,12 @@
   },
   {
     "flavor_text": "前衛2人のカウンター攻撃のダメージを強化するカウンター特化陣形。前衛2人が敵の攻撃を引きつけ、中衛メンバーは知力・愛が強化されるので、役割分担がしやすい。",
-    "flavor_text_en": "A counter-specialized formation that enhances the damage of counter attacks by 2 vanguards. The two avant-garde attract enemy attacks, and the middle guard members are strengthened in intelligence and love, so it is easy to divide roles.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Counter formation that raises counterattack damage for front two who draw enemy attacks. Boosts middle line's INT/LOV. Good for assigning roles.",
+    "flavor_text_en_src": "gl",
     "id": 1030,
     "name": "マルチカウンター",
-    "name_en": "Multi counter",
-    "name_en_src": "ml",
+    "name_en": "Multi-Counter",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1093,

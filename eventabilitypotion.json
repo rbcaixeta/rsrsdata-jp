@@ -117,5 +117,22 @@
     "name_en_src": "ml",
     "sort_order": 9998,
     "style_event_ability_id": 0
+  },
+  {
+    "duration_seconds": 86400,
+    "event_ability_group_id": 868,
+    "event_ability_potion_type": 2,
+    "expired_at": 1646074800,
+    "flavor_text": "[期間限定]使用から24時間、全てのキャラクターから1体選び、能力値アップ時の上昇量が2倍になる。全てのバトルクエストで使用可能。（2022/3/1 4:00まで）",
+    "flavor_text_en": "[Limited Time] Select one from all characters for 24 hours after use, and the amount of gain when the ability is increased is doubled. Can be used on all Battle Quests (until 2022/3/1 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 940001,
+    "id": 940008,
+    "max_quantity": 9999,
+    "name": "[全]能力成長アップ剤・Ⅱ[期間限定]",
+    "name_en": "[All] Ability Growth Enhancement Agents/Ⅱ [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22012701,
+    "style_event_ability_id": 0
   }
 ]

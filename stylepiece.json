@@ -1057,48 +1057,48 @@
   },
   {
     "exchange_cost": 50,
-    "flavor_text": "A[幸せを待つ日々]ディアナ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text": "A[幸せを待つ日々]ディアナ(RS1/MS)専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Days Awaiting Happiness] Diana. ",
     "flavor_text_en_src": "gl",
     "icon": 211101,
     "id": 211101,
-    "name": "Aディアナのピース",
+    "name": "Aディアナ(RS1/MS)のピース",
     "name_en": "A Diana Piece",
     "name_en_src": "gl",
     "selling_price": 40
   },
   {
     "exchange_cost": 150,
-    "flavor_text": "S[薔薇騎士の旋風]ディアナ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text": "S[薔薇騎士の旋風]ディアナ(RS1/MS)専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Rose Knight Rush] Diana. ",
     "flavor_text_en_src": "gl",
     "icon": 211102,
     "id": 211102,
-    "name": "Sディアナのピース",
+    "name": "Sディアナ(RS1/MS)のピース",
     "name_en": "S Diana Piece",
     "name_en_src": "gl",
     "selling_price": 60
   },
   {
     "exchange_cost": 150,
-    "flavor_text": "S[とっておきの衣装で]ディアナ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text": "S[とっておきの衣装で]ディアナ(RS1/MS)専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [My Favorite Swimsuit] Diana.",
     "flavor_text_en_src": "gl",
     "icon": 211103,
     "id": 211103,
-    "name": "Sディアナのピース",
+    "name": "Sディアナ(RS1/MS)のピース",
     "name_en": "S Diana Piece",
     "name_en_src": "gl",
     "selling_price": 60
   },
   {
     "exchange_cost": 250,
-    "flavor_text": "SS[忘れてしまった何か]ディアナ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text": "SS[忘れてしまった何か]ディアナ(RS1/MS)専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [I'm Forgetting Something] Diana. ",
     "flavor_text_en_src": "gl",
     "icon": 211104,
     "id": 211104,
-    "name": "SSディアナのピース",
+    "name": "SSディアナ(RS1/MS)のピース",
     "name_en": "SS Diana Piece",
     "name_en_src": "gl",
     "selling_price": 100
@@ -1910,13 +1910,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[つるぎの舞を奉じます]最終皇帝(女)専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Tsurugi no Mai will obey you] A piece dedicated to the last emperor (woman). Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Dedicating This Sabre Dance] Final Empress.",
+    "flavor_text_en_src": "gl",
     "icon": 220407,
     "id": 220407,
     "name": "SS最終皇帝(女)のピース",
-    "name_en": "Piece of SS Last Emperor (Woman)",
-    "name_en_src": "ml",
+    "name_en": "SS Final Empress Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -4394,13 +4394,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[エビ餃子、お待ち！]ボストン専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Shrimp gyoza, wait!] Pieces exclusive to Boston Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Order Up! Shrimp Gyoza!] Boston.",
+    "flavor_text_en_src": "gl",
     "icon": 232603,
     "id": 232603,
     "name": "SSボストンのピース",
-    "name_en": "SS Boston Pieces",
-    "name_en_src": "ml",
+    "name_en": "SS Boston Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -5414,13 +5414,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[笑ったら負け]奇面草専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [If you laugh, lose] A piece dedicated to bizarre grass. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [You Laugh, You Lose] Mugplant.",
+    "flavor_text_en_src": "gl",
     "icon": 239701,
     "id": 239701,
     "name": "SS奇面草のピース",
-    "name_en": "SS Strange Grass Piece",
-    "name_en_src": "ml",
+    "name_en": "SS Mugplant Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -5474,13 +5474,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[龍を舞わせてみせよう]ブルー専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Let's let the dragon dance] blue exclusive piece. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [I'll Make the Dragon Dance] Blue.",
+    "flavor_text_en_src": "gl",
     "icon": 310107,
     "id": 310107,
     "name": "SSブルーのピース",
-    "name_en": "SS blue piece",
-    "name_en_src": "ml",
+    "name_en": "SS Blue Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -6350,13 +6350,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[これが金獅子の舞いだ]金獅子姫専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [This is the Dance of the Golden Lion] A piece dedicated to Princess Golden Lion. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [My Golden Lion Dance] Princess Lion.",
+    "flavor_text_en_src": "gl",
     "icon": 313203,
     "id": 313203,
     "name": "SS金獅子姫のピース",
-    "name_en": "SS Piece of the Golden Lion",
-    "name_en_src": "ml",
+    "name_en": "SS Princess Lion Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -7657,26 +7657,38 @@
   },
   {
     "exchange_cost": 150,
-    "flavor_text": "S[話したって分からねえ]レオナルド専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text": "S[話したって分からねえ]レオナルド(SSG)専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Not Another Word] Leonard.",
     "flavor_text_en_src": "gl",
     "icon": 610201,
     "id": 610201,
-    "name": "Sレオナルドのピース",
+    "name": "Sレオナルド(SSG)のピース",
     "name_en": "S Leonard Piece",
     "name_en_src": "gl",
     "selling_price": 60
   },
   {
     "exchange_cost": 250,
-    "flavor_text": "SS[文句でもあるのか？]レオナルド専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text": "SS[文句でもあるのか？]レオナルド(SSG)専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Got a Problem?] Leonard.",
     "flavor_text_en_src": "gl",
     "icon": 610202,
     "id": 610202,
-    "name": "SSレオナルドのピース",
+    "name": "SSレオナルド(SSG)のピース",
     "name_en": "SS Leonard Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[これが獅子の舞いだ！]レオナルド(SSG)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [This is the dance of the lion!] Exclusive piece for Leonardo (SSG) Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 610204,
+    "id": 610204,
+    "name": "SSレオナルド(SSG)のピース",
+    "name_en": "Piece of SS Leonardo (SSG)",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -7705,6 +7717,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[天女じゃない、魔女よ]タリア専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [It's not a celestial maiden, I'm a witch] A piece dedicated to Thalia. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 610304,
+    "id": 610304,
+    "name": "SSタリアのピース",
+    "name_en": "SS Thalia's Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[この斧は処刑用だ]バルマンテ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Axe for Executions] Balmaint.",
     "flavor_text_en_src": "gl",
@@ -7728,6 +7752,18 @@
     "selling_price": 40
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[演じてみせよう処刑人]バルマンテ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Let's Play Executioner] A piece dedicated to Balmante. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 610403,
+    "id": 610403,
+    "name": "SSバルマンテのピース",
+    "name_en": "Pieces of SS Balmante",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[楽しんじゃおうよ]エリザベート専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Let's Have Some Fun!] Elisabeth.",
@@ -7749,6 +7785,30 @@
     "name": "SSエリザベートのピース",
     "name_en": "SS Elisabeth Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[キラーズのカーンだ]カーン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [That's Khan of the Killers] Khan's exclusive piece. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 611301,
+    "id": 611301,
+    "name": "Sカーンのピース",
+    "name_en": "S Khan's piece",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[年越しはこれに限る]カーン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [New Year's Eve is limited to this] A piece dedicated to Khan. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 611302,
+    "id": 611302,
+    "name": "SSカーンのピース",
+    "name_en": "SS Khan's Piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -7812,6 +7872,30 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 150,
+    "flavor_text": "S[身ぐるみ置いてきな]オグニアナ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [Leave Me Nigurumi] A piece dedicated to Ogniana. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 615401,
+    "id": 615401,
+    "name": "Sオグニアナのピース",
+    "name_en": "S Ogniana pieces",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ウェーイ、カンパーイ]オグニアナ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Wei, Campai] A piece dedicated to Ogniana. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 615402,
+    "id": 615402,
+    "name": "SSオグニアナのピース",
+    "name_en": "SS Ogniana Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 250,
     "flavor_text": "SS[水の精霊の化身]サーシャ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Water Faerie Incarnate] Sasha.",
@@ -7858,6 +7942,18 @@
     "name_en": "S Wach God's Piece",
     "name_en_src": "ml",
     "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[精霊が集まってるよ]ヴァッハ神専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Spirits Are Gathering] A piece dedicated to the god Vach. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 619103,
+    "id": 619103,
+    "name": "SSヴァッハ神のピース",
+    "name_en": "SS Wach God's Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
   },
   {
     "exchange_cost": 50,

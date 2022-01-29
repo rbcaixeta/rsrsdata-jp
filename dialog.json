@@ -2281,11 +2281,11 @@
     "id": 177,
     "name": "Option_NotificationSetting_Confirm",
     "name_en": "Option_NotificationSetting_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ご利用端末の設定に移動します。<br>よろしいですか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -2306,12 +2306,12 @@
     "dialog_type": 2,
     "id": 183,
     "name": "BattleFes_Retry_Confirm",
-    "name_en": "Battlefes_retry_confirm",
-    "name_en_src": "ml",
+    "name_en": "BattleFes_Retry_Confirm",
+    "name_en_src": "gl",
     "text": "再挑戦を実行しますか？<br>再挑戦を実行すると、クエストを終了し、<br>再度クエストを開始します。",
     "title": "再挑戦確認",
-    "title_en": "Confirm retry",
-    "title_en_src": "ml"
+    "title_en": "Confirm Restart",
+    "title_en_src": "gl"
   },
   {
     "button1": "リタイア",
@@ -2319,12 +2319,12 @@
     "dialog_type": 2,
     "id": 184,
     "name": "BattleFes_RetireOrRetry_Confirm",
-    "name_en": "Battlefes_RetireOrRetry_CONFIRM",
-    "name_en_src": "ml",
+    "name_en": "BattleFes_RetireOrRetry_Confirm",
+    "name_en_src": "gl",
     "text": "リタイアするとクエストは終了となります。<br>再挑戦を実行すると、クエストを終了し、<br>再度クエストを開始します。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "リタイア",
@@ -2332,12 +2332,12 @@
     "dialog_type": 2,
     "id": 185,
     "name": "BattleFes_Retire_Confirm",
-    "name_en": "Battlefes_retire_confirm",
-    "name_en_src": "ml",
+    "name_en": "BattleFes_Retire_Confirm",
+    "name_en_src": "gl",
     "text": "リタイアするとクエストは終了となります。<br>リタイアしますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2532,6 +2532,32 @@
     "text": "・裏道場1回クリアで解放",
     "title": "コンテンツ未解放",
     "title_en": "Content not released",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 202,
+    "name": "EquipmentNaming_InputText_Max",
+    "name_en": "EquipmentNaming_inputText_max",
+    "name_en_src": "ml",
+    "text": "最大文字数を超えています。<br>15文字以内で入力し直してください。",
+    "title": " エラー",
+    "title_en": " errors",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 203,
+    "name": "auto_rematch_Battle_End_8",
+    "name_en": "auto_rematch_battle_end_8",
+    "name_en_src": "ml",
+    "text": "クエスト期限が過ぎたため、<br>自動再戦を停止しました。",
+    "title": "自動再戦停止",
+    "title_en": "Stop automatic rematch",
     "title_en_src": "ml"
   },
   {

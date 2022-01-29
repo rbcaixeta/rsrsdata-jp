@@ -392,7 +392,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "遠征を1回実行",
+    "description": "遠征を1回実行する",
     "description_en": "Send one Expedition",
     "description_en_src": "gl",
     "id": 30,
@@ -406,7 +406,7 @@
     "trigger_quest_id": 100101111
   },
   {
-    "description": "訓練でエネルギーを1回補給",
+    "description": "訓練でエネルギーを1回補給する",
     "description_en": "Replenish your energy (NRG) 1 time",
     "description_en_src": "gl",
     "id": 31,
@@ -420,7 +420,7 @@
     "trigger_quest_id": 100103121
   },
   {
-    "description": "裏道場を1回クリア",
+    "description": "裏道場を1回クリアする",
     "description_en": "Complete the Hidden Dojo 1 time",
     "description_en_src": "gl",
     "id": 32,
@@ -448,7 +448,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "ザクザク財宝収集を1回クリア（サブクエスト＞デイリー＞ザクザク財宝収集から挑戦可能）",
+    "description": "ザクザク財宝収集を1回クリアする（サブクエスト＞デイリー＞ザクザク財宝収集から挑戦可能）",
     "description_en": "Complete the Big Treasure Hunt once (Quests > Daily > Big Treasure Hunt)",
     "description_en_src": "gl",
     "id": 34,
@@ -476,8 +476,8 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "魔物たっぷりの洞窟修練を1回クリア（サブクエスト＞デイリー＞魔物たっぷりの洞窟修練から挑戦可能）",
-    "description_en": "Cleared Cave Training with Lots of Monsters 1 time (Can be challenged from Subquest > Daily > Cave Training with Plenty of Monsters)",
+    "description": "魔物たっぷりの洞窟修練を1回クリアする（サブクエスト＞デイリー＞魔物たっぷりの洞窟修練から挑戦可能）",
+    "description_en": "Clear Cave Training with Lots of Monsters 1 time (Can be challenged from Subquest > Daily > Cave Training with Lots of Monsters)",
     "description_en_src": "ml",
     "id": 36,
     "priority": 88,

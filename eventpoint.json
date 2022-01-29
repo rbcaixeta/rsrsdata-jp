@@ -1432,14 +1432,14 @@
   {
     "expired_at": 1614538799,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800111,
     "id": 800111,
     "max_quantity": 99999999,
     "name": "Romancing祭メダル・3",
-    "name_en": "Romance Festival Medal 3",
-    "name_en_src": "ml",
+    "name_en": "Romancing Festival Medal XXI",
+    "name_en_src": "gl",
     "sort_order": 3080
   },
   {
@@ -2208,6 +2208,32 @@
     "name_en": "Saga Tamashii Medal 7",
     "name_en_src": "ml",
     "sort_order": 22012450
+  },
+  {
+    "expired_at": 1646506799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800172,
+    "id": 800172,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・42",
+    "name_en": "Romancing Festival Medal 42",
+    "name_en_src": "ml",
+    "sort_order": 22012750
+  },
+  {
+    "expired_at": 1646506799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800173,
+    "id": 800173,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・43",
+    "name_en": "Romancing Festival Medal/43",
+    "name_en_src": "ml",
+    "sort_order": 22012745
   },
   {
     "expired_at": 0,
@@ -5384,14 +5410,14 @@
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100448,
     "id": 1100448,
     "max_quantity": 99999999,
     "name": "安全ロープ",
-    "name_en": "Safety rope",
-    "name_en_src": "ml",
+    "name_en": "Safety Rope",
+    "name_en_src": "gl",
     "sort_order": 3077
   },
   {
@@ -5462,27 +5488,27 @@
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100453,
     "id": 1100455,
     "max_quantity": 99999999,
     "name": "旧正月福メダル",
-    "name_en": "Lunar New Year Fortune Medal",
-    "name_en_src": "ml",
+    "name_en": "Lunar New Year's Luck Medal",
+    "name_en_src": "gl",
     "sort_order": 3078
   },
   {
     "expired_at": 1615402799,
     "flavor_text": "聖石の洞窟で入手できるアイテム。交換所でアイテムと交換できる。（2021/3/11 4:00まで）",
-    "flavor_text_en": "An item that can be obtained at the Holy Stone Cave. Can be exchanged for items at the Exchange. (until 2021/3/11 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100233,
     "id": 1100456,
     "max_quantity": 99999999,
     "name": "きれいな石[期間限定]",
-    "name_en": "Beautiful Stone [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Precious Stone [Limited Time]",
+    "name_en_src": "gl",
     "sort_order": 3130
   },
   {
@@ -7473,5 +7499,31 @@
     "name_en": "Gold candlesticks",
     "name_en_src": "ml",
     "sort_order": 22012025
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100642,
+    "id": 1100642,
+    "max_quantity": 99999999,
+    "name": "旧正月の飾り",
+    "name_en": "Lunar New Year decorations",
+    "name_en_src": "ml",
+    "sort_order": 22012730
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100643,
+    "id": 1100643,
+    "max_quantity": 99999999,
+    "name": "獅子のおもちゃ",
+    "name_en": "Lion's toy",
+    "name_en_src": "ml",
+    "sort_order": 22012735
   }
 ]

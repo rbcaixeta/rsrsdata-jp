@@ -392,14 +392,14 @@
   {
     "expired_at": 1615748399,
     "flavor_text": "「祝！旧正月2021！！プラチナチケットガチャ」を引くことができるチケット。（2021/3/15 4:00まで）",
-    "flavor_text_en": "“Congratulations! Lunar New Year 2021!! A ticket that allows you to draw “Platinum Ticket Gacha”. (until 2021/3/15 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Collect 5 tickets to perform 1 Lunar New Year 2022! Platinum Ticket Summon. (Until [1648688399] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 810032,
     "id": 810032,
     "max_quantity": 999,
     "name": "祝！旧正月2021！！プラチナガチャチケット[期間限定]",
-    "name_en": "congratulations! Lunar New Year 2021!! Platinum Gacha Ticket [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Lunar New Year 2022! Platinum Ticket [Ltd. Time]",
+    "name_en_src": "gl",
     "sort_order": 2670
   },
   {
@@ -583,5 +583,18 @@
     "name_en": "Fukubukuro Gacha Ticket SEAT Edition [Limited Time]",
     "name_en_src": "ml",
     "sort_order": 21123160
+  },
+  {
+    "expired_at": 1648666799,
+    "flavor_text": "5枚集めると「祝！旧正月2022！！プラチナチケットガチャ」を1回引くことができるチケット。（2022/3/31 4:00まで）",
+    "flavor_text_en": "If you collect 5 cards, you will see “Congratulations! Lunar New Year 2022!! A ticket that allows you to draw “Platinum Ticket Gacha” once. (until 2022/3/31 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 810048,
+    "id": 810048,
+    "max_quantity": 9999,
+    "name": "祝！旧正月2022！！プラチナチケット[期間限定]",
+    "name_en": "congratulations! Lunar New Year 2022!! Platinum Ticket [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22012725
   }
 ]

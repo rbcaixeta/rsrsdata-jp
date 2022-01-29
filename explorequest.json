@@ -1961,7 +1961,7 @@
     "illust_id": 0,
     "is_guaranteed_growth": 0,
     "is_required_for_area_clear": 0,
-    "max_grind_count": 0,
+    "max_grind_count": 50,
     "max_turn": 0,
     "name": "掘り出せ！鉱山洞窟",
     "name_en": "Get diggin'! Mining Caves",
@@ -2042,7 +2042,7 @@
     "illust_id": 0,
     "is_guaranteed_growth": 0,
     "is_required_for_area_clear": 0,
-    "max_grind_count": 0,
+    "max_grind_count": 50,
     "max_turn": 0,
     "name": "一気に掘り出せ！鉱山洞窟",
     "name_en": "Get diggin'! Mining Caves Spree",
@@ -2050,6 +2050,7 @@
     "point_bonuses": [
     ],
     "prev_quest_ids": [
+      900000051
     ],
     "quest_condition_id": 0,
     "quest_ticket_id": 821075,
@@ -2060,6 +2061,88 @@
     ],
     "scenario_id": 0,
     "sort_order": 2,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100387,
+        "type": 7
+      },
+      {
+        "id": 1100262,
+        "type": 7
+      },
+      {
+        "id": 203401000,
+        "type": 16
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1170,
+    "banner": 450001,
+    "battle_id": 950006011,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 0,
+    "drop_group_ids": [
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+    ],
+    "growth_count": 1,
+    "id": 900000051,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "一気に掘り出せ！鉱山洞窟",
+    "name_en": "Dig it out at once! Mine caves",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+      900000051
+    ],
+    "quest_condition_id": 0,
+    "quest_ticket_id": 821075,
+    "quest_ticket_quantity": 50,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
     "stamina": 0,
     "twitter_button_id": 0,
     "typical_enemy_ids": [
