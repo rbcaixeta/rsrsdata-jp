@@ -5823,6 +5823,23 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "味方が全員生存している時<br>味方全体の与ダメージが上昇する( 効果小 )",
+    "flavor_text_en": "When all allies are alive, the <br>damage dealt to all allies increases (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101132,
+    "name": "攻勢結束Ⅰ",
+    "name_en": "Offensive Unity I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040530
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>味方生存者全体の毒耐性と気絶耐性を上昇させる( 効果特大 )",
     "flavor_text_en": "[Start of Turn] <br>Increases the poison resistance and stun resistance of all friendly survivors (Extra Large Effect)",
