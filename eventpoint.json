@@ -2236,6 +2236,19 @@
     "sort_order": 22012745
   },
   {
+    "expired_at": 1647284399,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800174,
+    "id": 800174,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・44",
+    "name_en": "Romancing Festival Medal: 44",
+    "name_en_src": "ml",
+    "sort_order": 22020850
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Summon Tickets and other items.",
@@ -7603,5 +7616,83 @@
     "name_en": "Lion's toy",
     "name_en_src": "ml",
     "sort_order": 22012735
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100644,
+    "id": 1100644,
+    "max_quantity": 99999999,
+    "name": "チョコ作りの教本",
+    "name_en": "A textbook on making chocolate",
+    "name_en_src": "ml",
+    "sort_order": 22020831
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100645,
+    "id": 1100645,
+    "max_quantity": 99999999,
+    "name": "ハートの金型",
+    "name_en": "Heart molds",
+    "name_en_src": "ml",
+    "sort_order": 22020832
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「みんなでお手伝い！チョコ作りチャレンジ」の集計アイテム。該当イベントで入手できる。（集計は2022/2/18 4:00まで）",
+    "flavor_text_en": "“Let's all help! A summary item of “Chocolate Making Challenge”. It can be obtained at the corresponding event. (Aggregation is until 2022/2/18 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100646,
+    "id": 1100646,
+    "max_quantity": 99999999,
+    "name": "ほろにが木の実",
+    "name_en": "Horoniga nuts",
+    "name_en_src": "ml",
+    "sort_order": 22020840
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「みんなでお手伝い！チョコ作りチャレンジ」の集計アイテム。該当イベントで入手できる。（集計は2022/2/18 4:00まで）",
+    "flavor_text_en": "“Let's all help! A summary item of “Chocolate Making Challenge”. It can be obtained at the corresponding event. (Aggregation is until 2022/2/18 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100647,
+    "id": 1100647,
+    "max_quantity": 99999999,
+    "name": "芳醇なエキス",
+    "name_en": "Rich extracts",
+    "name_en_src": "ml",
+    "sort_order": 22020835
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「みんなでお手伝い！チョコ作りチャレンジ」の集計アイテム。該当イベントで入手できる。（集計は2022/2/18 4:00まで）",
+    "flavor_text_en": "“Let's all help! A summary item of “Chocolate Making Challenge”. It can be obtained at the corresponding event. (Aggregation is until 2022/2/18 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100648,
+    "id": 1100648,
+    "max_quantity": 99999999,
+    "name": "あまい砂糖",
+    "name_en": "Sweet sugar",
+    "name_en_src": "ml",
+    "sort_order": 22020833
+  },
+  {
+    "expired_at": 1647543599,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。（2022/3/18 4:00まで）",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange. (until 2022/3/18 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100649,
+    "id": 1100649,
+    "max_quantity": 99999999,
+    "name": "チョコ材料のお礼チケット[期間限定]",
+    "name_en": "Thank you ticket for chocolate ingredients [limited time only]",
+    "name_en_src": "ml",
+    "sort_order": 22020845
   }
 ]

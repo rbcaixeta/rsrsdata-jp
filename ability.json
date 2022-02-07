@@ -4664,15 +4664,16 @@
   {
     "ability_when": 6,
     "flavor_text": "攻撃命中時<br>自身の知力を上昇( 効果中 )させ、さらに、自身のBPを回復( +1 )する",
-    "flavor_text_en": "<br>Increases your own intelligence (active) when hit, and restores your BP (+1)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "When landing an attack, increases own INT (medium effect), and recovers own BP (+1).",
+    "flavor_text_en_src": "gl",
     "icon": 4001,
     "id": 702101046,
     "name": "活性の練気Ⅰ（知力）",
-    "name_en": "Activity Neri I (Intelligence)",
-    "name_en_src": "ml",
+    "name_en": "Reinvigorate Ⅰ (INT)",
+    "name_en_src": "gl",
     "rarity": 0,
     "simple_flavor_text": "",
+    "simple_flavor_text_en_src": "gl",
     "sort_order": 0,
     "special_effect_ids": [
       802010603,
@@ -5872,6 +5873,61 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041047
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方全体の与ダメージが上昇( 効果小 )し、かつ、味方全体への被ダメージを軽減( 効果小 )する",
+    "flavor_text_en": "Increases damage dealt to all allies (less effective), and reduces damage taken to all allies (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101135,
+    "name": "希望の旗印",
+    "name_en": "The banner of hope",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041048,
+      802041049
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "回復行動時（※）<br>味方生存者全体のHPを回復( 効果極小 )し、<br>さらに、味方生存者全体の体力を上昇( 効果特大 )させる<br>※タイプが「回復」の技・術での回復を指す",
+    "flavor_text_en": "During recovery action (*) <br>Restores the HP of all allied survivors (minimum effect)<br>, and further increases the health of all allied survivors (oversized effect) <br>* Recovery with techniques and techniques of type “recovery” Pointing",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101136,
+    "name": "チョココーティング",
+    "name_en": "Chocolate coating",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011050,
+      802011051
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の器用さと愛を上昇させる( 効果小 )<br>さらに、自身のBPを回復する( +1 )",
+    "flavor_text_en": "[Start of Turn] <br>Increase your Dexterity and Love (Small <br>Effect) and heal your BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101137,
+    "name": "練気熟達Ⅰ（器用さ、愛）",
+    "name_en": "Mastery of Neri I (Dexterity, Love)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040812,
+      802011052,
+      802010856
     ]
   },
   {
@@ -12041,7 +12097,7 @@
   {
     "ability_when": 6,
     "flavor_text": "回復行動時（※）<br>対象の知力と精神を上昇させる( 効果大 )<br>※タイプが「回復」の技・術での回復を指す",
-    "flavor_text_en": "When recovery actions are made, increases target's INT and WIL (large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "flavor_text_en": "When recovery actions are made, increases target's INT/WIL (large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
     "flavor_text_en_src": "gl",
     "icon": 4001,
     "id": 702600476,
@@ -12152,7 +12208,7 @@
   {
     "ability_when": 6,
     "flavor_text": "攻撃命中時<br>自身の腕力と素早さを上昇させる( 確率中/効果特大 )",
-    "flavor_text_en": "When landing an attack, increases own STR and AGI (medium chance/very large effect).",
+    "flavor_text_en": "When landing an attack, increases own STR/AGI (medium chance/very large effect).",
     "flavor_text_en_src": "gl",
     "icon": 4001,
     "id": 702600505,

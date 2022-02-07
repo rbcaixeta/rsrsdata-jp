@@ -1277,6 +1277,23 @@
     "sprite_studio": 0
   },
   {
+    "enemy_class": 1,
+    "gender": 1,
+    "id": 101110,
+    "illust": 1011101,
+    "name": "クリプトマギ",
+    "name_en": "Cryptomagi",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      2,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 2,
     "gender": 9,
     "id": 102001,
@@ -11350,6 +11367,22 @@
     "sprite_studio": 0
   },
   {
+    "enemy_class": 15,
+    "gender": 9,
+    "id": 115047,
+    "illust": 1150471,
+    "name": "チョコレートスライム",
+    "name_en": "Chocolate slime",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 16,
     "gender": 9,
     "id": 116001,
@@ -16622,6 +16655,23 @@
       99
     ],
     "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199311,
+    "illust": 1993111,
+    "name": "ボルカノ",
+    "name_en": "Volcano",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
   },
   {
     "enemy_class": 99,

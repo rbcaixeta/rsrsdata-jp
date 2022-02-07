@@ -3486,6 +3486,12 @@
     "cueSheetName": "BGM130493"
   },
   {
+    "id": 130494,
+    "cueName": "bgm_130494",
+    "type": "BGM",
+    "cueSheetName": "BGM130494"
+  },
+  {
     "id": 130495,
     "cueName": "bgm_130495",
     "type": "BGM",
@@ -5752,6 +5758,18 @@
     "cueName": "EXPLOSIONB",
     "type": "SE",
     "cueSheetName": "SE_EXPLOSIONB"
+  },
+  {
+    "id": 230196,
+    "cueName": "TUNTUN",
+    "type": "SE",
+    "cueSheetName": "SE_TUNTUN"
+  },
+  {
+    "id": 230197,
+    "cueName": "FIRECRACKER",
+    "type": "SE",
+    "cueSheetName": "SE_FIRECRACKER"
   },
   {
     "id": 240002,
@@ -21124,6 +21142,84 @@
     "cueName": "149900175_other",
     "type": "SE",
     "cueSheetName": "SE149900175"
+  },
+  {
+    "id": 242581,
+    "cueName": "140700088_other",
+    "type": "SE",
+    "cueSheetName": "SE140700088"
+  },
+  {
+    "id": 242582,
+    "cueName": "140800121_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140800121"
+  },
+  {
+    "id": 242583,
+    "cueName": "140800121_other",
+    "type": "SE",
+    "cueSheetName": "SE140800121"
+  },
+  {
+    "id": 242584,
+    "cueName": "140500225_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500225"
+  },
+  {
+    "id": 242585,
+    "cueName": "140500226_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500226"
+  },
+  {
+    "id": 242586,
+    "cueName": "140500226_other",
+    "type": "SE",
+    "cueSheetName": "SE140500226"
+  },
+  {
+    "id": 242587,
+    "cueName": "140700089_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140700089"
+  },
+  {
+    "id": 242588,
+    "cueName": "140700089_other",
+    "type": "SE",
+    "cueSheetName": "SE140700089"
+  },
+  {
+    "id": 242600,
+    "cueName": "140800122_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140800122"
+  },
+  {
+    "id": 242601,
+    "cueName": "140800122_other",
+    "type": "SE",
+    "cueSheetName": "SE140800122"
+  },
+  {
+    "id": 242604,
+    "cueName": "149900185_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900185"
+  },
+  {
+    "id": 242606,
+    "cueName": "140800123_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140800123"
+  },
+  {
+    "id": 242607,
+    "cueName": "140800123_other",
+    "type": "SE",
+    "cueSheetName": "SE140800123"
   },
   {
     "id": 510001,
