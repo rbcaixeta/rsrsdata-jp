@@ -7746,7 +7746,7 @@
     "modifier_end": -1,
     "modifier_dex": -4,
     "modifier_agi": -4,
-    "modifier_int": -4,
+    "modifier_int": -3,
     "modifier_wil": -4,
     "modifier_lov": -4,
     "modifier_cha": 4
@@ -8106,11 +8106,11 @@
     "modifier_str": -3,
     "modifier_end": -2,
     "modifier_dex": 3,
-    "modifier_agi": -4,
-    "modifier_int": -4,
-    "modifier_wil": -4,
+    "modifier_agi": -3,
+    "modifier_int": -1,
+    "modifier_wil": -3,
     "modifier_lov": 5,
-    "modifier_cha": -4
+    "modifier_cha": -1
   },
   {
     "styleId": 235802,
@@ -14222,7 +14222,7 @@
     "modifier_char_lov": 1,
     "modifier_char_cha": 1,
     "modifier_str": -4,
-    "modifier_end": 4,
+    "modifier_end": 5,
     "modifier_dex": -4,
     "modifier_agi": -4,
     "modifier_int": -4,
