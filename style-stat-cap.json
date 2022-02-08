@@ -7733,6 +7733,25 @@
     "modifier_cha": -2
   },
   {
+    "styleId": 235108,
+    "modifier_char_str": 5,
+    "modifier_char_end": 2,
+    "modifier_char_dex": 2,
+    "modifier_char_agi": 0,
+    "modifier_char_int": -2,
+    "modifier_char_wil": 0,
+    "modifier_char_lov": 1,
+    "modifier_char_cha": 1,
+    "modifier_str": 1,
+    "modifier_end": -4,
+    "modifier_dex": -4,
+    "modifier_agi": -4,
+    "modifier_int": -4,
+    "modifier_wil": -4,
+    "modifier_lov": -4,
+    "modifier_cha": 4
+  },
+  {
     "styleId": 235201,
     "modifier_char_str": 5,
     "modifier_char_end": 2,
@@ -8073,6 +8092,25 @@
     "modifier_wil": -1,
     "modifier_lov": 0,
     "modifier_cha": 0
+  },
+  {
+    "styleId": 235703,
+    "modifier_char_str": 0,
+    "modifier_char_end": 2,
+    "modifier_char_dex": 5,
+    "modifier_char_agi": 2,
+    "modifier_char_int": 0,
+    "modifier_char_wil": -1,
+    "modifier_char_lov": 0,
+    "modifier_char_cha": 1,
+    "modifier_str": -4,
+    "modifier_end": -4,
+    "modifier_dex": 1,
+    "modifier_agi": -4,
+    "modifier_int": -4,
+    "modifier_wil": -4,
+    "modifier_lov": 4,
+    "modifier_cha": -4
   },
   {
     "styleId": 235802,
@@ -14172,6 +14210,25 @@
     "modifier_wil": -3,
     "modifier_lov": 0,
     "modifier_cha": 0
+  },
+  {
+    "styleId": 810105,
+    "modifier_char_str": 3,
+    "modifier_char_end": 3,
+    "modifier_char_dex": 1,
+    "modifier_char_agi": 2,
+    "modifier_char_int": -2,
+    "modifier_char_wil": 0,
+    "modifier_char_lov": 1,
+    "modifier_char_cha": 1,
+    "modifier_str": -4,
+    "modifier_end": 4,
+    "modifier_dex": -4,
+    "modifier_agi": -4,
+    "modifier_int": -4,
+    "modifier_wil": -4,
+    "modifier_lov": 1,
+    "modifier_cha": -4
   },
   {
     "styleId": 810203,
