@@ -6486,6 +6486,47 @@
     "typical_rewards_category": 1
   },
   {
+    "area_id": 1480,
+    "banner": 901180,
+    "battle_id": 300101011,
+    "clear_limit": 0,
+    "drop_group_ids": [
+      210001746
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 391480010,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "name": "アザミの超特訓道場",
+    "name_en": "Thistle's Super Special Training Dojo",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+    ],
+    "rewards": [
+    ],
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 960001,
+        "type": 33
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
     "area_id": 1089,
     "banner": 430007,
     "battle_id": 980007021,

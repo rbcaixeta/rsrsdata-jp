@@ -5744,6 +5744,10 @@
     "currency_items": [
       {
         "currency": 4,
+        "id": 1100652
+      },
+      {
+        "currency": 4,
         "id": 1100644
       },
       {
@@ -5818,5 +5822,26 @@
     "priority": 7027,
     "start_at": 1643857200,
     "end_at": 1646938799
+  },
+  {
+    "id": 4900403,
+    "shop_type": 4,
+    "banner": 901110,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 1100651
+      },
+      {
+        "currency": 9,
+        "id": 821028
+      }
+    ],
+    "tab_category": 1,
+    "priority": 7043,
+    "start_at": 1644894000,
+    "end_at": 1647284399
   }
 ]

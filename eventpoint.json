@@ -7694,5 +7694,31 @@
     "name_en": "Thank you ticket for chocolate ingredients [limited time only]",
     "name_en_src": "ml",
     "sort_order": 22020845
+  },
+  {
+    "expired_at": 1647284399,
+    "flavor_text": "イベント「聖石の洞窟発掘キャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2022/3/15 4:00まで）",
+    "flavor_text_en": "Items that can be obtained during the “Sacred Stone Cave Excavation Campaign” event. Can be exchanged for items at the Exchange. (until 2022/3/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100233,
+    "id": 1100651,
+    "max_quantity": 99999999,
+    "name": "きれいな石[期間限定]",
+    "name_en": "Beautiful Stone [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22021500
+  },
+  {
+    "expired_at": 1647284399,
+    "flavor_text": "「ストロベリー・バレンティーナ！交換所」で昇段の巻物などと交換できるアイテム。（2022/3/15 4:00まで）",
+    "flavor_text_en": "“Strawberry Valentina! Items that can be exchanged for Shodan Scrolls etc. at the Exchange Office. (until 2022/3/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100652,
+    "id": 1100652,
+    "max_quantity": 99999999,
+    "name": "超特訓コイン[期間限定]",
+    "name_en": "Super Special Training Coin [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22021505
   }
 ]
