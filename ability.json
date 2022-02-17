@@ -5949,6 +5949,246 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象の精神を低下させる( 確率大/効果大 )<br>攻撃命中時、自身のBPを回復する( 確率大/+2 )",
+    "flavor_text_en": "When hitting an attack, lowers the target's spirit (<br>high probability/high effect) When an attack hits, heals its own BP (probability large/+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101139,
+    "name": "弱化の練撃Ⅱ(精神)",
+    "name_en": "Ren of Weakening II (Spirit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041054,
+      802041020
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象の精神を低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Lowers the target's spirit when an attack hits (high probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101140,
+    "name": "攻撃時精神ダウン",
+    "name_en": "Mental down when attacked",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010192
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、フェイタルスティールでカウンター攻撃する( 確率大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "When attacked<br>, counter attack with Fatal Steel against a direct attack (high probability) <br>(activated by Jutsu Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101141,
+    "name": "フェイタルリベンジ",
+    "name_en": "Fatal Revenge",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041055
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象を魅了状態にする( 確率大/効果4ターン )<br>攻撃命中時、自身のBPを回復する( 確率大/+1 )",
+    "flavor_text_en": "When an attack hits, the target becomes fascinated (high probability, effect 4 turns)<br>, heals its own BP when hit (probability large/+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 3007,
+    "id": 702101142,
+    "name": "魅惑の練撃Ⅰ",
+    "name_en": "Enchanted Ren I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041019,
+      802041056
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身のBPを回復する( 確率大/+1 )",
+    "flavor_text_en": "When an attack hits, heals your own BP (probability is large/+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101143,
+    "name": "攻撃時BP回復",
+    "name_en": "BP recovery during attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040066
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン開始時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果小 )<br>バトル開始から数えて奇数ターン目の終了時、自身のBPを回復する( +1 )<br>バトル開始から数えて偶数ターン目の終了時、自身のHPを回復する( 効果小 )",
+    "flavor_text_en": "Increases your strength, health, dexterity, quickness, intelligence, spirit, love, and charm at the start of the turn (small effect) <br>At the end of the odd turn counting from the start of the battle, heal your BP (+1) <br>At the end of the even-numbered turn counting from the start of the battle, recover your own HP (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101144,
+    "name": "クィーンズボディ",
+    "name_en": "Queens body",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041059,
+      802041057,
+      802041058
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "バトル開始から数えて奇数ターン目の終了時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "At the end of the odd turn counting from the start of the battle, heal your BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101145,
+    "name": "奇数ターン終了時BP回復",
+    "name_en": "BP recovery at the end of odd turns",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040812
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "バトル開始から数えて偶数ターン目の終了時、自身のHPを回復する( 効果小 )",
+    "flavor_text_en": "At the end of the even-numbered turn counting from the start of the battle, recover your own HP (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101146,
+    "name": "偶数ターン終了時HP回復(小)",
+    "name_en": "Health recovery at the end of even-numbered turns (small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040062
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果小 )",
+    "flavor_text_en": "Increases own strength, physical strength, dexterity, quickness, intelligence, spirit, love, and charm at the start of the turn (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101147,
+    "name": "ターン開始時全能力アップ(小)",
+    "name_en": "Increase all abilities at start of turn (small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010850,
+      802010851,
+      802010852,
+      802010853,
+      802010854,
+      802010855,
+      802010856,
+      802010857
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身を挑発状態( 効果小/効果4ターン )にし、かつ、自身の精神を上昇( 効果大 )させる",
+    "flavor_text_en": "[At Start of Turn] Set <br>yourself to Provocation (Small Effect/Effect for 4 turns) and raises your own spirit (high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101148,
+    "name": "誘引熟達Ⅲ(精神)",
+    "name_en": "Attraction Mastery Ⅲ (Spirit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040602,
+      802010391
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +2 )<br>OD攻撃(※)を発動後、「雷殺斬+」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」は含まない<br><br>雷殺斬+<br>大剣/攻撃/威力SSS/直接/敵単体 ( 斬+雷 ) <br>攻撃する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "At the start of the battle, heal your own BP (+2) <br>After activating an OD Attack (*), “Lightning Killing +” will be <br>activated.* “Techniques handed down in the R Cup” and “Techniques activated by this Ability Effect” are included No <br><br>Lightning <br>Sword+Great Sword/Attack/Power SSS/Direct/Enemy Alone (Zan+Lightning) <br>Attack <br>(Activated by Gi Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101149,
+    "name": "忠義の秘剣",
+    "name_en": "The Secret Sword of Loyalty",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040322,
+      802041063
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の器用さと知力を上昇させる( 効果小 )<br>さらに、自身のBPを回復する( +1 )",
+    "flavor_text_en": "[Start of Turn] <br>Increases your dexterity and intelligence (low <br>effect) and heals your BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101151,
+    "name": "練気熟達Ⅰ（器用さ、知力）",
+    "name_en": "Mastery of Neri I (dexterity, intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040812,
+      802011062,
+      802010846
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃発動後、「雷殺斬+」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "After activating an OD attack, “Lightning Slash +” is activated <br>(activated by Gi Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101153,
+    "name": "OD攻撃時追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041064,
+      802041065,
+      802041066,
+      802041067,
+      802041068
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "[ラウンド開始時] <br>自身のHPを回復する( 確率中/効果大 )",
     "flavor_text_en": "[Start of round]<br>Recovers own HP (medium chance/large effect).",
@@ -33290,6 +33530,61 @@
     ]
   },
   {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時] <br>敵全体の腕力、器用さ、素早さを低下させる( 効果特大 )",
+    "flavor_text_en": "[Start of Round] <br>Reduces overall enemy strength, dexterity, and quickness (Extra Large Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708200156,
+    "name": "能力減衰Ⅳ(腕力、器用さ、素早さ)",
+    "name_en": "Ability Attenuation IV (Brawn, Dexterity, Quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010415,
+      808010416,
+      808010414
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身に攻撃強化を付与する( 効果極小/効果1ターン )<br>ラウンド開始から数えて偶数ターン目の開始時、自身に防御強化を付与する( 効果大/効果1ターン )",
+    "flavor_text_en": "At the start of the odd turn counting from the start of the round, grants attack strength to self (minimum effect/effect 1 turn) <br>At the start of the even-numbered turn counting from the start of the round, grant self defense boost ( (Effect large/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708200160,
+    "name": "攻防交叉",
+    "name_en": "Battle crossing",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040421,
+      808040422
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時] <br>自身に「モラルアップ(極大)」を付与する( 効果2ターン )<br>自身に攻撃強化を付与する( 効果大/効果2ターン )",
+    "flavor_text_en": "[Start of Round] <br>Give yourself “Moral Up (Extreme)” (Effect for 2 turns) <br>Grants Attack Boost to self (Large Effect/Effect for 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708200168,
+    "name": "薄命の剣",
+    "name_en": "The Sword of the Untold Life",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040431,
+      808040432
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身の腕力を上昇させる( 効果大 )",
     "flavor_text_en": "[Start of turn]<br>Increases own STR (large effect).",
@@ -33679,6 +33974,91 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身に「回避(1回)」を付与する（ 効果1ターン ）<br><br>回避(1回)<br>敵の攻撃を回避し、ダメージを無効化する( 上限回数:1回 )",
+    "flavor_text_en": "At the start of the odd turn counting from the start of the battle, inflict “Evade (1 turn)” to self (Effect 1 <br><br>turn) Evade (1 <br>turn) Evade enemy attacks and negate damage (max. : once)",
+    "flavor_text_en_src": "ml",
+    "icon": 4006,
+    "id": 708300157,
+    "name": "幽姫の幻影",
+    "name_en": "Phantom Yuhime",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040413
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身の精神を上昇させる( 効果大 )",
+    "flavor_text_en": "At the start of the even-numbered turn counting from the start of the battle, raises your own spirit (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300159,
+    "name": "偶の活性(精神)",
+    "name_en": "Coincidence activity (spirit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010418
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて偶数ターン目の開始時、自身に防御強化を付与する( 効果大/効果1ターン )",
+    "flavor_text_en": "At the beginning of the even-numbered turn counting from the start of the round, grants defensive reinforcement to self (high effect/effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300161,
+    "name": "偶数ターン防御強化",
+    "name_en": "Improved even-turn defense",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040419
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身に攻撃強化を付与する( 効果極小/効果1ターン )",
+    "flavor_text_en": "At the start of the odd turn counting from the start of the round, grants an attack boost to self (minimum effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300162,
+    "name": "奇数ターン攻撃強化",
+    "name_en": "Odd turn attack enhancement",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040420
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体のHPを回復する",
+    "flavor_text_en": "[Start of Turn] <br>Restore the health of all allied survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 708300170,
+    "name": "海の癒し",
+    "name_en": "The healing of the sea",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050423
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -34054,6 +34434,43 @@
     "special_effect_ids": [
       808040409,
       808020410
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率中 )<br>味方生存者全体のHPを回復し<br>さらに、味方生存者全体に命中アップ( 効果大/効果5ターン )と防御強化( 効果中/効果5ターン )を付与する",
+    "flavor_text_en": "[End of Turn] Has a <br>certain chance (<br><br>medium chance) to recover HP of all allied survivors, and hit all allied survivors (high effect/effect 5 turns) and strengthens defense (in effect/ Gives effect 5 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400163,
+    "name": "皇帝の指揮(防御)",
+    "name_en": "The Emperor's Command (Defense)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050423,
+      808040424,
+      808040425
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率中 )<br>味方生存者全体のHPを回復し<br>さらに、味方生存者全体に攻撃強化( 効果小/効果5ターン )を付与する",
+    "flavor_text_en": "[End of Turn] Has a <br>certain chance (medium chance) to <br>restore the health of <br>all allied survivors, and also give all friendly survivors an attack boost (small effect/effect 5 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400164,
+    "name": "皇帝の指揮(攻撃)",
+    "name_en": "The Emperor's Command (Attack)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050423,
+      808040426
     ]
   },
   {
@@ -34467,6 +34884,195 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040384
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身の素早さを上昇させる( 確率中/効果大 )",
+    "flavor_text_en": "<br>Increases its own quickness when hitting an attack (medium probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600137,
+    "name": "脅威増強Ⅱ(素早さ)",
+    "name_en": "Threat Enhancement II (Quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010394
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身の魅力を上昇させる( 確率中/効果大 )",
+    "flavor_text_en": "<br>Increases its own attractiveness when attacking (medium probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600140,
+    "name": "脅威増強Ⅱ(魅力)",
+    "name_en": "Threat Enhancement II (Attraction)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010397
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>対象の腕力を低下させる( 確率中/効果中 )",
+    "flavor_text_en": "<br>Reduces target's arm strength when attacking (probability/effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708600141,
+    "name": "能力弱体Ⅱ(腕力)",
+    "name_en": "Weak ability Ⅱ (brawn strength)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010082
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>対象の器用さを低下させる( 確率中/効果中 )",
+    "flavor_text_en": "<br>Reduces target's dexterity when hit (probability/active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708600142,
+    "name": "能力弱体Ⅱ(器用さ)",
+    "name_en": "Weak ability Ⅱ (dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010085
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>対象の素早さを低下させる( 確率中/効果中 )",
+    "flavor_text_en": "<br>Reduces the target's quickness when hitting an attack (probability/active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708600143,
+    "name": "能力弱体Ⅱ(素早さ)",
+    "name_en": "Weak ability Ⅱ (quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010398
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>対象の知力を低下させる( 確率中/効果中 )",
+    "flavor_text_en": "<br>Reduces the target's intelligence when attacking (probability/effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708600144,
+    "name": "能力弱体Ⅱ(知力)",
+    "name_en": "Weak Ability Ⅱ (Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010088
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>対象の愛を低下させる( 確率中/効果中 )",
+    "flavor_text_en": "<br>Reduces the target's love when attacking (probability/in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708600145,
+    "name": "能力弱体Ⅱ(愛)",
+    "name_en": "Ability Weakness II (Love)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010399
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>対象の魅力を低下させる( 確率中/効果中 )",
+    "flavor_text_en": "<br>Reduces the attractiveness of the target when hit (probability/active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708600146,
+    "name": "能力弱体Ⅱ(魅力)",
+    "name_en": "Weak Ability II (Charm)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010400
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃を受けた時<br>自身の腕力、体力を上昇させる( 効果極小 )<br>※攻撃が命中した時のみ発動",
+    "flavor_text_en": "<br>Increases your own strength and health when attacked (effect <br>is minimal) *Activated only when an attack hits",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600166,
+    "name": "傭兵の意地",
+    "name_en": "The meaning of mercenaries",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010411,
+      808010428
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "味方が攻撃を受けた時<br>味方生存者全体の愛、魅力を上昇させる( 効果小 )",
+    "flavor_text_en": "When an ally is attacked, it <br>increases the love and charm of all survivors (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600172,
+    "name": "海の慈愛",
+    "name_en": "Sea benevolence",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010434,
+      808010435
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃を受けた時<br>自身の腕力を上昇させる( 効果小 )<br>※攻撃が命中した時のみ発動",
+    "flavor_text_en": "<br>Increases your own strength when attacked (small effect) <br>*Activated only when an attack hits",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600179,
+    "name": "逆襲Ⅱ(腕力)",
+    "name_en": "Counterattack II (Strength)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010445
     ]
   },
   {

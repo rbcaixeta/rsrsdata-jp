@@ -16562,6 +16562,159 @@
   },
   {
     "enemy_class": 99,
+    "gender": 1,
+    "id": 199296,
+    "illust": 1992961,
+    "name": "クジンシー",
+    "name_en": "Cusincy",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199297,
+    "illust": 1992971,
+    "name": "ワグナス",
+    "name_en": "Wagnas",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199298,
+    "illust": 1992981,
+    "name": "ダンターグ",
+    "name_en": "Dantag",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 199299,
+    "illust": 1992991,
+    "name": "ロックブーケ",
+    "name_en": "Rock bouquet",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199300,
+    "illust": 1993001,
+    "name": "ボクオーン",
+    "name_en": "Bokuorn",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199301,
+    "illust": 1993011,
+    "name": "スービエ",
+    "name_en": "Souvier",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199302,
+    "illust": 1993021,
+    "name": "ノエル",
+    "name_en": "Noel",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 199303,
+    "illust": 1993031,
+    "name": "ドレッドクィーン",
+    "name_en": "Dread Queen",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 199304,
+    "illust": 1993041,
+    "name": "ドレッドクィーン",
+    "name_en": "Dread Queen",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 9,
     "id": 199305,
     "illust": 1993051,
@@ -17605,6 +17758,22 @@
   },
   {
     "enemy_class": 99,
+    "gender": 2,
+    "id": 222052,
+    "illust": 220502,
+    "name": "コッペリア",
+    "name_en": "Coppelia",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 1,
     "id": 222062,
     "illust": 220600,
@@ -17776,6 +17945,23 @@
   {
     "enemy_class": 99,
     "gender": 1,
+    "id": 222252,
+    "illust": 222581,
+    "name": "ソウジ",
+    "name_en": "Souji",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
     "id": 222253,
     "illust": 222581,
     "name": "ソウジ",
@@ -17843,6 +18029,40 @@
   },
   {
     "enemy_class": 99,
+    "gender": 1,
+    "id": 222361,
+    "illust": 223600,
+    "name": "カール",
+    "name_en": "curls",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 222381,
+    "illust": 223800,
+    "name": "キャット",
+    "name_en": "Cat",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 2,
     "id": 222382,
     "illust": 223812,
@@ -17889,6 +18109,21 @@
     "species": [
       1,
       97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 222391,
+    "illust": 223941,
+    "name": "アウ",
+    "name_en": "Aw",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
     ],
     "sprite_studio": 0
   },
@@ -17974,6 +18209,23 @@
     "species": [
       1,
       97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 222731,
+    "illust": 227300,
+    "name": "ヒラガ",
+    "name_en": "Hiraga",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
     ],
     "sprite_studio": 0
   },
@@ -18076,6 +18328,23 @@
     "name_en": "Narwhal's Daughter",
     "name_en_src": "gl",
     "pc_enemy_skill_hold_motion": 2,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      8,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 222902,
+    "illust": 229002,
+    "name": "海の主の娘",
+    "name_en": "Daughter of the Sea Lord",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
     "pc_flag": 1,
     "rank": 1,
     "species": [

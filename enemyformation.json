@@ -4508,6 +4508,34 @@
     ]
   },
   {
+    "id": 109040046,
+    "name": "4体陣形_(中4)1",
+    "name_en": "4 Formations _ (Medium 4) 1",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 35,
+        "y": 23
+      },
+      {
+        "line": 0,
+        "x": 35,
+        "y": 5
+      },
+      {
+        "line": 0,
+        "x": 35,
+        "y": 44
+      },
+      {
+        "line": 0,
+        "x": 5,
+        "y": 21
+      }
+    ]
+  },
+  {
     "id": 109050001,
     "name": "5体陣形_1",
     "name_en": "5 Member Formation_1",
@@ -6125,6 +6153,138 @@
     ]
   },
   {
+    "id": 109050053,
+    "name": "5体陣形_(小5)横",
+    "name_en": "5-body formation _ (small 5) horizontal",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 48,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 38,
+        "y": 18
+      },
+      {
+        "line": 0,
+        "x": 28,
+        "y": 32
+      },
+      {
+        "line": 0,
+        "x": 18,
+        "y": 28
+      },
+      {
+        "line": 0,
+        "x": 8,
+        "y": 33
+      }
+    ]
+  },
+  {
+    "id": 109050054,
+    "name": "5体陣形_(中5)縦",
+    "name_en": "5 Formations _ (5 in) Vertical",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 40,
+        "y": 1
+      },
+      {
+        "line": 0,
+        "x": 22,
+        "y": 12
+      },
+      {
+        "line": 0,
+        "x": 31,
+        "y": 23
+      },
+      {
+        "line": 0,
+        "x": 23,
+        "y": 34
+      },
+      {
+        "line": 0,
+        "x": 38,
+        "y": 45
+      }
+    ]
+  },
+  {
+    "id": 109050055,
+    "name": "5体陣形_(小5)横",
+    "name_en": "5-body formation _ (small 5) horizontal",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 40,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 31,
+        "y": 18
+      },
+      {
+        "line": 0,
+        "x": 22,
+        "y": 31
+      },
+      {
+        "line": 0,
+        "x": 14,
+        "y": 26
+      },
+      {
+        "line": 0,
+        "x": 5,
+        "y": 17
+      }
+    ]
+  },
+  {
+    "id": 109050056,
+    "name": "5体陣形_(中2小3)横",
+    "name_en": "5-body formation _ (medium 2 small 3) horizontal",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 45,
+        "y": 30
+      },
+      {
+        "line": 0,
+        "x": 35,
+        "y": 21
+      },
+      {
+        "line": 0,
+        "x": 12,
+        "y": 21
+      },
+      {
+        "line": 0,
+        "x": 12,
+        "y": 35
+      },
+      {
+        "line": 0,
+        "x": 2,
+        "y": 28
+      }
+    ]
+  },
+  {
     "id": 109060001,
     "name": "6体陣形_1",
     "name_en": "6 Member Formation_1",
@@ -6425,6 +6585,44 @@
         "line": 0,
         "x": 5,
         "y": 18
+      }
+    ]
+  },
+  {
+    "id": 109060010,
+    "name": "6体陣形_(大2中4)",
+    "name_en": "6 formations _ (large 2 in 4)",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 40,
+        "y": 5
+      },
+      {
+        "line": 0,
+        "x": 40,
+        "y": 45
+      },
+      {
+        "line": 0,
+        "x": 37,
+        "y": 18
+      },
+      {
+        "line": 0,
+        "x": 37,
+        "y": 32
+      },
+      {
+        "line": 0,
+        "x": 10,
+        "y": 10
+      },
+      {
+        "line": 0,
+        "x": 10,
+        "y": 35
       }
     ]
   },
@@ -6754,6 +6952,49 @@
         "line": 0,
         "x": 25,
         "y": 22
+      }
+    ]
+  },
+  {
+    "id": 109070009,
+    "name": "7体陣形_(中7)",
+    "name_en": "7 formations _ (medium 7)",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 52,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 49,
+        "y": 3
+      },
+      {
+        "line": 0,
+        "x": 49,
+        "y": 47
+      },
+      {
+        "line": 0,
+        "x": 32,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 29,
+        "y": 14
+      },
+      {
+        "line": 0,
+        "x": 29,
+        "y": 36
+      },
+      {
+        "line": 0,
+        "x": 12,
+        "y": 25
       }
     ]
   },

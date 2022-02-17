@@ -2249,6 +2249,32 @@
     "sort_order": 22020850
   },
   {
+    "expired_at": 1648061999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800175,
+    "id": 800175,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・45",
+    "name_en": "Romancing Festival Medal: 45",
+    "name_en_src": "ml",
+    "sort_order": 22021850
+  },
+  {
+    "expired_at": 1648061999,
+    "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by executing a specific Saga Soul Gacha. You can exchange items and styles at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800176,
+    "id": 800176,
+    "max_quantity": 99999999,
+    "name": "サガ魂メダル・8",
+    "name_en": "Saga Tamashii Medal 8",
+    "name_en_src": "ml",
+    "sort_order": 22021845
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Summon Tickets and other items.",
@@ -7720,5 +7746,18 @@
     "name_en": "Super Special Training Coin [Limited Time]",
     "name_en_src": "ml",
     "sort_order": 22021505
+  },
+  {
+    "expired_at": 1649962799,
+    "flavor_text": "「SaGa THE STAGE記念BOXガチャ」を引くことができるチケット。（2022/4/15 4:00まで）",
+    "flavor_text_en": "A ticket that allows you to draw “SAGA THE STAGE Commemorative BOX Gacha”. (until 2022/4/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100654,
+    "id": 1100654,
+    "max_quantity": 99999999,
+    "name": "SaGa THE STAGE記念BOXガチャチケット[期間限定]",
+    "name_en": "SAGA THE STAGE Commemorative BOX Gacha Ticket [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22021830
   }
 ]
