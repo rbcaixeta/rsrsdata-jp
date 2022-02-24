@@ -2275,6 +2275,32 @@
     "sort_order": 22021845
   },
   {
+    "expired_at": 1648925999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800177,
+    "id": 800177,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・46",
+    "name_en": "Romancing Festival Medal: 46",
+    "name_en_src": "ml",
+    "sort_order": 22022450
+  },
+  {
+    "expired_at": 1648925999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800178,
+    "id": 800178,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・47",
+    "name_en": "Romancing Festival Medal: 47",
+    "name_en_src": "ml",
+    "sort_order": 22022445
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Summon Tickets and other items.",
@@ -7748,6 +7774,19 @@
     "sort_order": 22021505
   },
   {
+    "expired_at": 0,
+    "flavor_text": "「掘り出せ！鉱山洞窟」で入手できるアイテム。交換所でSS防具と交換できる。",
+    "flavor_text_en": "“Dig it out! Items that can be obtained in “Mine Cave”. It can be exchanged for SS armor at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100653,
+    "id": 1100653,
+    "max_quantity": 99999999,
+    "name": "【SS交換用】汚れた防具III",
+    "name_en": "[SS Replacement] Dirty Armor III",
+    "name_en_src": "ml",
+    "sort_order": 22022455
+  },
+  {
     "expired_at": 1649962799,
     "flavor_text": "「SaGa THE STAGE記念BOXガチャ」を引くことができるチケット。（2022/4/15 4:00まで）",
     "flavor_text_en": "A ticket that allows you to draw “SAGA THE STAGE Commemorative BOX Gacha”. (until 2022/4/15 4:00)",
@@ -7759,5 +7798,44 @@
     "name_en": "SAGA THE STAGE Commemorative BOX Gacha Ticket [Limited Time]",
     "name_en_src": "ml",
     "sort_order": 22021830
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100655,
+    "id": 1100655,
+    "max_quantity": 99999999,
+    "name": "歓喜のステッカー",
+    "name_en": "Jubilant Stickers",
+    "name_en_src": "ml",
+    "sort_order": 22022430
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100656,
+    "id": 1100656,
+    "max_quantity": 99999999,
+    "name": "奏楽の缶バッジ",
+    "name_en": "Can badge for musical performances",
+    "name_en_src": "ml",
+    "sort_order": 22022431
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100657,
+    "id": 1100657,
+    "max_quantity": 99999999,
+    "name": "律動のレコード",
+    "name_en": "Rhythm records",
+    "name_en_src": "ml",
+    "sort_order": 22022432
   }
 ]

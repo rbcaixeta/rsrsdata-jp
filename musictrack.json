@@ -2665,7 +2665,7 @@
     "name_en": "Vorspiel",
     "name_en_src": "ml",
     "price": 1,
-    "sort_order": 5,
+    "sort_order": 10,
     "sound_id": 130424,
     "start_at": 1617181200
   },
@@ -2681,7 +2681,7 @@
     "name_en": "Praludium",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 10,
+    "sort_order": 20,
     "sound_id": 120054,
     "start_at": 0
   },
@@ -2695,7 +2695,7 @@
     "name_en": "Ausenwelt",
     "name_en_src": "ml",
     "price": 1,
-    "sort_order": 15,
+    "sort_order": 30,
     "sound_id": 130425,
     "start_at": 1617181200
   },
@@ -2711,7 +2711,7 @@
     "name_en": "Romantik",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 20,
+    "sort_order": 40,
     "sound_id": 130213,
     "start_at": 0
   },
@@ -2725,7 +2725,7 @@
     "name_en": "Majestat",
     "name_en_src": "ml",
     "price": 1,
-    "sort_order": 25,
+    "sort_order": 50,
     "sound_id": 130426,
     "start_at": 1617181200
   },
@@ -2741,7 +2741,7 @@
     "name_en": "Wunderding",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 30,
+    "sort_order": 70,
     "sound_id": 130214,
     "start_at": 0
   },
@@ -2757,7 +2757,7 @@
     "name_en": "FeldschlachtⅠ",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 40,
+    "sort_order": 80,
     "sound_id": 120017,
     "start_at": 0
   },
@@ -2773,7 +2773,7 @@
     "name_en": "FreundschaftsbeziehungⅠ",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 50,
+    "sort_order": 90,
     "sound_id": 120048,
     "start_at": 0
   },
@@ -2789,9 +2789,23 @@
     "name_en": "Trubsal",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 60,
+    "sort_order": 130,
     "sound_id": 130241,
     "start_at": 0
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10050061,
+    "is_free": 0,
+    "music_album_id": 5,
+    "name": "Rosenkranz",
+    "name_en": "Rosenkranz",
+    "name_en_src": "ml",
+    "price": 1,
+    "sort_order": 60,
+    "sound_id": 120219,
+    "start_at": 1645675200
   },
   {
     "composer": "浜渦正志",
@@ -2803,7 +2817,7 @@
     "name_en": "Abweichung",
     "name_en_src": "ml",
     "price": 1,
-    "sort_order": 62,
+    "sort_order": 140,
     "sound_id": 130427,
     "start_at": 1617181200
   },
@@ -2819,7 +2833,7 @@
     "name_en": "Heimatlose",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 70,
+    "sort_order": 170,
     "sound_id": 130172,
     "start_at": 0
   },
@@ -2835,7 +2849,7 @@
     "name_en": "Durcheinander",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 80,
+    "sort_order": 210,
     "sound_id": 130185,
     "start_at": 0
   },
@@ -2851,7 +2865,7 @@
     "name_en": "Besessenheit",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 90,
+    "sort_order": 240,
     "sound_id": 120022,
     "start_at": 0
   },
@@ -2867,7 +2881,7 @@
     "name_en": "Thema",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 100,
+    "sort_order": 250,
     "sound_id": 130178,
     "start_at": 0
   },
@@ -2883,7 +2897,7 @@
     "name_en": "Weihaltar",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 110,
+    "sort_order": 280,
     "sound_id": 130166,
     "start_at": 0
   },
@@ -2899,7 +2913,7 @@
     "name_en": "Variation",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 120,
+    "sort_order": 290,
     "sound_id": 130240,
     "start_at": 0
   },
@@ -2915,7 +2929,7 @@
     "name_en": "Dithyrambus",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 130,
+    "sort_order": 320,
     "sound_id": 130212,
     "start_at": 0
   },
@@ -2929,7 +2943,7 @@
     "name_en": "Todfeind",
     "name_en_src": "ml",
     "price": 1,
-    "sort_order": 136,
+    "sort_order": 380,
     "sound_id": 120097,
     "start_at": 1617591600
   },
@@ -2943,7 +2957,7 @@
     "name_en": "Tobel",
     "name_en_src": "ml",
     "price": 1,
-    "sort_order": 137,
+    "sort_order": 390,
     "sound_id": 130428,
     "start_at": 1617181200
   },
@@ -2959,7 +2973,7 @@
     "name_en": "FeldschlachtⅡ",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 140,
+    "sort_order": 420,
     "sound_id": 120029,
     "start_at": 0
   },
@@ -2975,7 +2989,7 @@
     "name_en": "FreundschaftsbeziehungⅡ",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 150,
+    "sort_order": 430,
     "sound_id": 120051,
     "start_at": 0
   },
@@ -2991,7 +3005,7 @@
     "name_en": "Ohnmacht",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 160,
+    "sort_order": 470,
     "sound_id": 130242,
     "start_at": 0
   },
@@ -3007,7 +3021,7 @@
     "name_en": "FreundschaftsbeziehungⅢ",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 175,
+    "sort_order": 600,
     "sound_id": 120047,
     "start_at": 1617181200
   },
@@ -3021,7 +3035,7 @@
     "name_en": "Disharmonie",
     "name_en_src": "ml",
     "price": 1,
-    "sort_order": 172,
+    "sort_order": 520,
     "sound_id": 130429,
     "start_at": 1617181200
   },
@@ -3035,7 +3049,7 @@
     "name_en": "Feldschlacht III",
     "name_en_src": "ml",
     "price": 1,
-    "sort_order": 174,
+    "sort_order": 590,
     "sound_id": 130431,
     "start_at": 1617181200
   },
@@ -3051,7 +3065,7 @@
     "name_en": "Arrangeur",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 180,
+    "sort_order": 620,
     "sound_id": 130281,
     "start_at": 0
   },
@@ -3065,7 +3079,7 @@
     "name_en": "Einsamkeit",
     "name_en_src": "ml",
     "price": 1,
-    "sort_order": 188,
+    "sort_order": 660,
     "sound_id": 130432,
     "start_at": 1617181200
   },
@@ -3079,7 +3093,7 @@
     "name_en": "Weltall",
     "name_en_src": "ml",
     "price": 1,
-    "sort_order": 189,
+    "sort_order": 670,
     "sound_id": 130430,
     "start_at": 1617181200
   },
@@ -3095,7 +3109,7 @@
     "name_en": "Zufall",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 190,
+    "sort_order": 680,
     "sound_id": 130186,
     "start_at": 0
   },
@@ -3111,7 +3125,7 @@
     "name_en": "FeldschlachtIV",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 200,
+    "sort_order": 690,
     "sound_id": 120055,
     "start_at": 0
   },
@@ -3127,7 +3141,7 @@
     "name_en": "FreundschaftsbeziehungIV",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 210,
+    "sort_order": 700,
     "sound_id": 120056,
     "start_at": 0
   },
@@ -3143,7 +3157,7 @@
     "name_en": "Andacht",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 220,
+    "sort_order": 730,
     "sound_id": 130143,
     "start_at": 0
   },
@@ -3159,9 +3173,23 @@
     "name_en": "Misgestalt",
     "name_en_src": "gl",
     "price": 1,
-    "sort_order": 230,
+    "sort_order": 740,
     "sound_id": 130287,
     "start_at": 0
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10050480,
+    "is_free": 0,
+    "music_album_id": 5,
+    "name": "Botschaft",
+    "name_en": "Botschaft",
+    "name_en_src": "ml",
+    "price": 1,
+    "sort_order": 480,
+    "sound_id": 120220,
+    "start_at": 1645675200
   },
   {
     "composer": "浜渦正志",
@@ -6178,6 +6206,20 @@
     "start_at": 1608001200
   },
   {
+    "composer": "伊藤賢治",
+    "flavor_text": "",
+    "id": 10220030,
+    "is_free": 0,
+    "music_album_id": 22,
+    "name": "死闘の果てに(Piano Trio ver.)",
+    "name_en": "At the End of the Mortal Battle (Piano Trio ver.)",
+    "name_en_src": "ml",
+    "price": 1,
+    "sort_order": 30,
+    "sound_id": 120212,
+    "start_at": 1645675200
+  },
+  {
     "composer": "笹井隆司",
     "flavor_text": "",
     "id": 10220050,
@@ -6966,6 +7008,20 @@
     "sort_order": 180,
     "sound_id": 130459,
     "start_at": 1623902400
+  },
+  {
+    "composer": "伊藤賢治",
+    "flavor_text": "",
+    "id": 10300050,
+    "is_free": 0,
+    "music_album_id": 30,
+    "name": "星神・守護者たち",
+    "name_en": "Star Gods and Guardians",
+    "name_en_src": "ml",
+    "price": 1,
+    "sort_order": 50,
+    "sound_id": 120213,
+    "start_at": 1645675200
   },
   {
     "composer": "伊藤賢治",

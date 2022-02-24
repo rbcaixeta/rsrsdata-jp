@@ -22700,6 +22700,169 @@
     ],
     "battle_probability_id": 1,
     "bg": 0,
+    "id": 200024011,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024001
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 200024021,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024002
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 200024031,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024003
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 200024041,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024004
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 200024051,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024005
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 200024061,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024006
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 200024071,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024007
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 200024081,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024008
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 200024091,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024009
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 200024101,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024010
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 200024111,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      200024001,
+      200024002,
+      200024003,
+      200024004,
+      200024005,
+      200024006,
+      200024007,
+      200024008,
+      200024009,
+      200024010
+    ],
+    "round_logic": 2,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
     "id": 200101011,
     "name": "",
     "round_count": 1,
@@ -56780,6 +56943,305 @@
       540002020
     ],
     "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001011,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      700001001
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001021,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      700001002
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001031,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      700001003
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001041,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      700001004
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001051,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      700001005
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001061,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      700001006
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001071,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      700001007
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001081,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      700001008
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001091,
+    "name": "",
+    "round_count": 1,
+    "round_ids": [
+      700001009
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001101,
+    "name": "",
+    "round_count": 2,
+    "round_ids": [
+      700001101,
+      700001102,
+      700001103,
+      700001104,
+      700001105,
+      700001106,
+      700001107,
+      700001108,
+      700001109,
+      700001110,
+      700001111
+    ],
+    "round_logic": 2,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001111,
+    "name": "",
+    "round_count": 2,
+    "round_ids": [
+      700001112,
+      700001113,
+      700001114,
+      700001115,
+      700001116,
+      700001117,
+      700001118,
+      700001119,
+      700001120,
+      700001121,
+      700001122
+    ],
+    "round_logic": 2,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001121,
+    "name": "",
+    "round_count": 2,
+    "round_ids": [
+      700001123,
+      700001124,
+      700001125,
+      700001126,
+      700001127,
+      700001128,
+      700001129,
+      700001130,
+      700001131,
+      700001132,
+      700001133
+    ],
+    "round_logic": 2,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001131,
+    "name": "",
+    "round_count": 2,
+    "round_ids": [
+      700001134,
+      700001135,
+      700001136,
+      700001137,
+      700001138,
+      700001139,
+      700001140,
+      700001141,
+      700001142,
+      700001143,
+      700001144
+    ],
+    "round_logic": 2,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001141,
+    "name": "",
+    "round_count": 2,
+    "round_ids": [
+      700001201,
+      700001201
+    ],
+    "round_logic": 2,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001151,
+    "name": "",
+    "round_count": 2,
+    "round_ids": [
+      700001202,
+      700001202
+    ],
+    "round_logic": 2,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001161,
+    "name": "",
+    "round_count": 2,
+    "round_ids": [
+      700001203,
+      700001203
+    ],
+    "round_logic": 2,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      1
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "id": 700001171,
+    "name": "",
+    "round_count": 2,
+    "round_ids": [
+      700001204,
+      700001204
+    ],
+    "round_logic": 2,
     "total_war_id": 0
   },
   {

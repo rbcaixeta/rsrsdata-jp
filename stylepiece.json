@@ -289,6 +289,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[めがみのがっき]めがみ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Megami no Kikki] A piece dedicated to eyeglasses. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 121303,
+    "id": 121303,
+    "name": "SSめがみのピース",
+    "name_en": "SS Megami no Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[八丁堀のお玉よ]おたま専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "SS [Ladle from Hatchobori] A piece exclusively for ladles. Can be used for style summoning or breaking limits.",
     "flavor_text_en_src": "ml",
@@ -396,6 +408,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[古代DJハートは未来]はにわ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Ancient DJ Heart is the Future] is a piece dedicated to haniwa. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 129403,
+    "id": 129403,
+    "name": "SSはにわのピース",
+    "name_en": "SS HANIWA'S PIECE",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[世界を救う決意]デューン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "S [Determined to Save the World] Dune Exclusive Piece Can be used for style summoning or breaking limits.",
@@ -464,6 +488,30 @@
     "id": 130902,
     "name": "SSボラージュのピース",
     "name_en": "Pieces of SS Bollage",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[時空を超える機体]ステスロス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [Aircraft Beyond Spacetime] Piece dedicated to Stess Ross. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 131001,
+    "id": 131001,
+    "name": "Sステスロスのピース",
+    "name_en": "S Stess Ross Pieces",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[音響爆撃開始！]ステスロス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Sound bombing started!] A piece dedicated to Stess Ross Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 131002,
+    "id": 131002,
+    "name": "SSステスロスのピース",
+    "name_en": "Pieces of SS Stess Ross",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -1873,6 +1921,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[締めるのは常に私だ]最終皇帝(男)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I'm always the one who tightens] A piece dedicated to the last emperor (man). Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 220308,
+    "id": 220308,
+    "name": "SS最終皇帝(男)のピース",
+    "name_en": "Piece of SS Last Emperor (Man)",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[華美に過ぎぬように]最終皇帝(女)専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [I Tried Not to Overdress] Final Empress.",
     "flavor_text_en_src": "gl",
@@ -3129,6 +3189,18 @@
     "name": "SSワグナスのピース",
     "name_en": "SS Wagnas Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[蝶の羽ばたきのごとく]ワグナス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Like Flapping Butterfly's Wings] A piece dedicated to Wagnas. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 229105,
+    "id": 229105,
+    "name": "SSワグナスのピース",
+    "name_en": "SS Wagnas piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -6589,6 +6661,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[我がビートに連携せよ]ヴァジュイール専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Cooperate with My Beat] Vajouille piece. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 313402,
+    "id": 313402,
+    "name": "SSヴァジュイールのピース",
+    "name_en": "SS VAJUIR PIECE",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[病人以外に用は無い]ヌサカーン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "SS [No use for anyone other than the sick] A piece dedicated to Nusa Khan. Can be used for style summoning or breaking limits.",
     "flavor_text_en_src": "ml",
@@ -6606,6 +6690,18 @@
     "flavor_text_en_src": "ml",
     "icon": 313603,
     "id": 313603,
+    "name": "SS時の君のピース",
+    "name_en": "Your piece at SS",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[時間よ、止まれ]時の君専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Time, Stop] A piece dedicated to the Kimi of Time. Can be used for style summoning or breaking limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 313604,
+    "id": 313604,
     "name": "SS時の君のピース",
     "name_en": "Your piece at SS",
     "name_en_src": "ml",

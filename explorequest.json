@@ -2166,6 +2166,77 @@
   {
     "adjusted_reward_group_id": 0,
     "area_control_action": 0,
+    "area_id": 1486,
+    "banner": 450002,
+    "battle_id": 950006011,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 0,
+    "drop_group_ids": [
+      400000223,
+      400000223,
+      400000223,
+      400000223,
+      400000223,
+      400000224,
+      400000224,
+      400000224,
+      400000224,
+      400000224
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+    ],
+    "growth_count": 1,
+    "id": 900000061,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 50,
+    "max_turn": 0,
+    "name": "掘り出せ！鉱山洞窟",
+    "name_en": "Dig it out! Mine caves",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_condition_id": 0,
+    "quest_ticket_id": 821154,
+    "quest_ticket_quantity": 25,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100653,
+        "type": 7
+      },
+      {
+        "id": 1100387,
+        "type": 7
+      },
+      {
+        "id": 203401000,
+        "type": 16
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
     "area_id": 976,
     "banner": 901041,
     "battle_id": 910013011,

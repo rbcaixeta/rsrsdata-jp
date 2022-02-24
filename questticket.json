@@ -1885,6 +1885,19 @@
     "sort_order": 22020641
   },
   {
+    "expired_at": 0,
+    "flavor_text": "使用することで、「掘り出せ！鉱山洞窟」に挑戦できる。",
+    "flavor_text_en": "By using it, you can say, “Dig it out! You can challenge the “Mine Cave”.",
+    "flavor_text_en_src": "ml",
+    "icon": 821154,
+    "id": 821154,
+    "max_quantity": 99999999,
+    "name": "鉱山洞窟の地図・III",
+    "name_en": "Map of Mine Cave III",
+    "name_en_src": "ml",
+    "sort_order": 22022460
+  },
+  {
     "expired_at": 1648753199,
     "flavor_text": "使用することで、「激闘 伝承の伏魔殿」に挑戦できる。（2022/04/01 4:00まで）",
     "flavor_text_en": "By using it, you can challenge the “Fighting Legend of the Fighting Demon Hall”. (until 2022/04/01 4:00)",
@@ -1896,5 +1909,31 @@
     "name_en": "Challenge Ticket for Fierce Battle Lore [Limited Time]",
     "name_en_src": "ml",
     "sort_order": 22021840
+  },
+  {
+    "expired_at": 1647716399,
+    "flavor_text": "「SaGa the Music制圧戦」のレイドバトルに挑戦可能。（2022/03/20 4:00まで）",
+    "flavor_text_en": "You can challenge the raid battles of “SaGa the Music Domination Battle”. (until 2022/03/20 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821157,
+    "id": 821157,
+    "max_quantity": 99999,
+    "name": "スペシャルパス[期間限定]",
+    "name_en": "Special Pass [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22022433
+  },
+  {
+    "expired_at": 1647543599,
+    "flavor_text": "使用することで、「轟け！熱狂のステージ」に挑戦できる。（2022/03/18 4:00まで）",
+    "flavor_text_en": "By using it, you can say “roar! You can challenge the “Enthusiasm Stage”. (until 2022/03/18 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821158,
+    "id": 821158,
+    "max_quantity": 99999,
+    "name": "熱狂への招待券[期間限定]",
+    "name_en": "Invitation Ticket to Enthusiasm [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22022440
   }
 ]

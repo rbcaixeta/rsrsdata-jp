@@ -1246,6 +1246,23 @@
   },
   {
     "enemy_class": 1,
+    "gender": 2,
+    "id": 101101,
+    "illust": 1011011,
+    "name": "女盗",
+    "name_en": "Female thief",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 1,
     "gender": 9,
     "id": 101107,
     "illust": 1011071,
@@ -1275,6 +1292,23 @@
       1
     ],
     "sprite_studio": 0
+  },
+  {
+    "enemy_class": 1,
+    "gender": 1,
+    "id": 101109,
+    "illust": 1011091,
+    "name": "シグフレイ",
+    "name_en": "Sigfrey",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
   },
   {
     "enemy_class": 1,
@@ -1740,6 +1774,54 @@
   },
   {
     "enemy_class": 2,
+    "gender": 9,
+    "id": 102030,
+    "illust": 1020301,
+    "name": "オーガ",
+    "name_en": "Ogre",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 5,
+    "species": [
+      2
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 2,
+    "gender": 9,
+    "id": 102031,
+    "illust": 1020311,
+    "name": "ゴブリンソルジャー",
+    "name_en": "Goblin Soldier",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 3,
+    "species": [
+      2
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 2,
+    "gender": 9,
+    "id": 102032,
+    "illust": 1020321,
+    "name": "ゴブリンメイジャン",
+    "name_en": "Goblin Mayjan",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 4,
+    "species": [
+      2
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 2,
     "gender": 1,
     "id": 102036,
     "illust": 1020361,
@@ -1915,6 +1997,23 @@
     "rank": 1,
     "species": [
       2
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 2,
+    "gender": 9,
+    "id": 102047,
+    "illust": 1020541,
+    "name": "シービショップ",
+    "name_en": "Sea Bishop",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      2,
+      8
     ],
     "sprite_studio": 0
   },
@@ -2156,6 +2255,54 @@
     "illust": 1020621,
     "name": "オーガ",
     "name_en": "Ogre",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 2,
+    "gender": 9,
+    "id": 102064,
+    "illust": 1020641,
+    "name": "ゴブリン",
+    "name_en": "goblins",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 2,
+    "gender": 9,
+    "id": 102065,
+    "illust": 1020651,
+    "name": "ゴブリンキャプテン",
+    "name_en": "Goblin captain",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 2,
+    "gender": 9,
+    "id": 102066,
+    "illust": 1020661,
+    "name": "イブリース",
+    "name_en": "Iblis",
     "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 0,
     "pc_flag": 0,
@@ -2765,6 +2912,55 @@
   {
     "enemy_class": 3,
     "gender": 9,
+    "id": 103039,
+    "illust": 1030391,
+    "name": "マムティ",
+    "name_en": "Mamti",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 3,
+    "gender": 9,
+    "id": 103040,
+    "illust": 1030401,
+    "name": "山おやじ",
+    "name_en": "Mountain oyaji",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 5,
+    "species": [
+      4
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 3,
+    "gender": 9,
+    "id": 103041,
+    "illust": 1030411,
+    "name": "ゲリュオン",
+    "name_en": "Geryon",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 9,
+    "species": [
+      4
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 3,
+    "gender": 9,
     "id": 103044,
     "illust": 1030441,
     "name": "ストレイシープ",
@@ -3209,6 +3405,54 @@
     "rank": 1,
     "species": [
       99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 3,
+    "gender": 9,
+    "id": 103080,
+    "illust": 1030801,
+    "name": "グッキー",
+    "name_en": "Gookie",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 3,
+    "gender": 9,
+    "id": 103081,
+    "illust": 1030811,
+    "name": "ラムビースト",
+    "name_en": "Lamb Beast",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 3,
+    "gender": 9,
+    "id": 103082,
+    "illust": 1030821,
+    "name": "ドラコラルヴァ",
+    "name_en": "Draco Ralva",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
     ],
     "sprite_studio": 0
   },
@@ -4365,6 +4609,57 @@
   {
     "enemy_class": 4,
     "gender": 9,
+    "id": 104075,
+    "illust": 1040751,
+    "name": "ツインバード",
+    "name_en": "Twin birds",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      20,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 4,
+    "gender": 9,
+    "id": 104076,
+    "illust": 1040761,
+    "name": "ホワイトウィンザー",
+    "name_en": "White windsor",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      20,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 4,
+    "gender": 9,
+    "id": 104077,
+    "illust": 1040771,
+    "name": "パラバニー",
+    "name_en": "Parabannies",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      20,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 4,
+    "gender": 9,
     "id": 104189,
     "illust": 1041891,
     "name": "雷竜",
@@ -5111,6 +5406,55 @@
       6
     ],
     "sprite_studio": 1
+  },
+  {
+    "enemy_class": 5,
+    "gender": 9,
+    "id": 105064,
+    "illust": 1050641,
+    "name": "デモンローズ",
+    "name_en": "Demon Rose",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      6
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 5,
+    "gender": 9,
+    "id": 105065,
+    "illust": 1050651,
+    "name": "フライシード",
+    "name_en": "Fly seeds",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      6,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 5,
+    "gender": 9,
+    "id": 105066,
+    "illust": 1050661,
+    "name": "霊樹サエーナ",
+    "name_en": "Reiki Saena",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      6
+    ],
+    "sprite_studio": 0
   },
   {
     "enemy_class": 6,
@@ -5893,6 +6237,119 @@
     "sprite_studio": 0
   },
   {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106054,
+    "illust": 1060541,
+    "name": "ワーカーアント",
+    "name_en": "Worker Ant",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106056,
+    "illust": 1060561,
+    "name": "ランドクラーケン",
+    "name_en": "Land Kraken",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106057,
+    "illust": 1060571,
+    "name": "ストームランサー",
+    "name_en": "Storm Lancer",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106058,
+    "illust": 1060581,
+    "name": "レイバーアント",
+    "name_en": "Labor Ant",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106060,
+    "illust": 1060601,
+    "name": "棘虫",
+    "name_en": "Spinworms",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106061,
+    "illust": 1060611,
+    "name": "食肉虫",
+    "name_en": "carnivorous",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106062,
+    "illust": 1060621,
+    "name": "マザーボーラー",
+    "name_en": "Mother borer",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 7,
     "gender": 9,
     "id": 107001,
@@ -6333,6 +6790,22 @@
   {
     "enemy_class": 7,
     "gender": 9,
+    "id": 107031,
+    "illust": 1070311,
+    "name": "コーラルクラブ",
+    "name_en": "CORAL CLUB",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
     "id": 107032,
     "illust": 1070321,
     "name": "シーバンブー",
@@ -6524,6 +6997,54 @@
     "species": [
       8,
       81
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107055,
+    "illust": 1070551,
+    "name": "ダルハーン",
+    "name_en": "Darkhan",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      11
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107056,
+    "illust": 1070561,
+    "name": "クローカー",
+    "name_en": "CROKER",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      11
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107059,
+    "illust": 1070591,
+    "name": "ウィッチクローカー",
+    "name_en": "Witchcrawker",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      11
     ],
     "sprite_studio": 0
   },
@@ -7371,6 +7892,22 @@
     "sprite_studio": 0
   },
   {
+    "enemy_class": 9,
+    "gender": 9,
+    "id": 109032,
+    "illust": 1090251,
+    "name": "ヒドラ",
+    "name_en": "Hydra",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      10
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 10,
     "gender": 9,
     "id": 110001,
@@ -7748,6 +8285,70 @@
     "species": [
       11,
       81
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 10,
+    "gender": 9,
+    "id": 110025,
+    "illust": 1100251,
+    "name": "ピットヴァイパー",
+    "name_en": "Pit Viper",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      10
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 10,
+    "gender": 9,
+    "id": 110026,
+    "illust": 1100261,
+    "name": "プテリクス",
+    "name_en": "Pteryx",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 3,
+    "species": [
+      10
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 10,
+    "gender": 9,
+    "id": 110027,
+    "illust": 1100271,
+    "name": "アビサルマローダ",
+    "name_en": "Abyssal Maroda",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 10,
+    "species": [
+      10
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 10,
+    "gender": 9,
+    "id": 110028,
+    "illust": 1100281,
+    "name": "リザードスカウト",
+    "name_en": "Lizard Scout",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 4,
+    "species": [
+      10
     ],
     "sprite_studio": 0
   },
@@ -8414,6 +9015,55 @@
   {
     "enemy_class": 11,
     "gender": 9,
+    "id": 111040,
+    "illust": 1110401,
+    "name": "幻眼虫",
+    "name_en": "Phantom eye",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 2,
+    "species": [
+      7,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 11,
+    "gender": 9,
+    "id": 111041,
+    "illust": 1110411,
+    "name": "デーモンコマンド",
+    "name_en": "Daemon commands",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 9,
+    "species": [
+      12
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 11,
+    "gender": 9,
+    "id": 111045,
+    "illust": 1110451,
+    "name": "ガーゴイル",
+    "name_en": "Gargoyles",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 4,
+    "species": [
+      12
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 11,
+    "gender": 9,
     "id": 111047,
     "illust": 1110471,
     "name": "アラストル",
@@ -8939,6 +9589,54 @@
     "species": [
       13,
       82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 12,
+    "gender": 9,
+    "id": 112033,
+    "illust": 1120331,
+    "name": "屍鬼",
+    "name_en": "Jinshiki",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 3,
+    "species": [
+      13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 12,
+    "gender": 9,
+    "id": 112034,
+    "illust": 1120341,
+    "name": "マミー",
+    "name_en": "Mommy",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 5,
+    "species": [
+      13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 12,
+    "gender": 9,
+    "id": 112036,
+    "illust": 1120361,
+    "name": "ゴースト",
+    "name_en": "Ghost",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 4,
+    "species": [
+      13
     ],
     "sprite_studio": 0
   },
@@ -9928,6 +10626,57 @@
       5,
       84,
       13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 13,
+    "gender": 9,
+    "id": 113045,
+    "illust": 1130451,
+    "name": "化石獣",
+    "name_en": "fossil",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13,
+      84
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 13,
+    "gender": 9,
+    "id": 113061,
+    "illust": 1130611,
+    "name": "スケルトンライト",
+    "name_en": "Skeleton lights",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13,
+      84
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 13,
+    "gender": 9,
+    "id": 113062,
+    "illust": 1130621,
+    "name": "スケルトンレフト",
+    "name_en": "Skeleton left",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13,
+      84
     ],
     "sprite_studio": 0
   },
@@ -11383,6 +12132,22 @@
     "sprite_studio": 0
   },
   {
+    "enemy_class": 15,
+    "gender": 9,
+    "id": 115048,
+    "illust": 1150481,
+    "name": "スライム",
+    "name_en": "slime",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 16,
     "gender": 9,
     "id": 116001,
@@ -12486,6 +13251,23 @@
     "species": [
       13,
       97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 18,
+    "gender": 9,
+    "id": 118058,
+    "illust": 1180581,
+    "name": "ゴースト",
+    "name_en": "Ghost",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13,
+      82
     ],
     "sprite_studio": 0
   },
@@ -16823,6 +17605,137 @@
     "species": [
       1,
       96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199313,
+    "illust": 1993131,
+    "name": "かみ",
+    "name_en": "bite",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      21,
+      82
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199314,
+    "illust": 1993141,
+    "name": "アポロン",
+    "name_en": "Apollon",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199315,
+    "illust": 1993151,
+    "name": "はにわ",
+    "name_en": "Haniwa",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199316,
+    "illust": 1993161,
+    "name": "サルーイン",
+    "name_en": "Saloo Inn",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199317,
+    "illust": 1993171,
+    "name": "ワグナス",
+    "name_en": "Wagnas",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199318,
+    "illust": 1993181,
+    "name": "アラケス",
+    "name_en": "Arakes",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199319,
+    "illust": 1993191,
+    "name": "フォルネウス",
+    "name_en": "Fornaeus",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      12,
+      9
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199320,
+    "illust": 1993201,
+    "name": "メタルブラック",
+    "name_en": "Metal black",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      18
     ],
     "sprite_studio": 1
   },

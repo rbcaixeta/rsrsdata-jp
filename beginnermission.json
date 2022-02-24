@@ -84,7 +84,7 @@
     "summary": "ｽﾀｲﾙLv10到達<br>(道場で強化)"
   },
   {
-    "description": "道場で、遠征即時帰還を合計2回実行する（ホーム＞道場で遠征可能）",
+    "description": "道場で、遠征即時帰還を累計2回実行する（ホーム＞道場で遠征可能）",
     "description_en": "Return instantly from 2 Expeditions at the Dojo (Home > Dojo).",
     "description_en_src": "gl",
     "id": 50008,
@@ -93,7 +93,7 @@
     "reward_quantity": 5,
     "reward_type": 8,
     "step": 1,
-    "summary": "遠征即時帰還を<br>2回実行<br>(道場で実行)"
+    "summary": "遠征即時帰還を<br>累計2回実行<br>(道場で実行)"
   },
   {
     "description": "ポルカ編1章1-2-12. 頂きの扉[Normal]をクリアする<br>またはプレイヤーRankが12に到達する",
@@ -108,7 +108,7 @@
     "summary": "ﾎﾟﾙｶ編1章<br>1-2-12クリア<br>またはﾌﾟﾚｲﾔｰRankが<br>12に到達"
   },
   {
-    "description": "道場で、遠征即時帰還を合計3回実行する（ホーム＞道場で遠征可能）",
+    "description": "道場で、遠征即時帰還を累計3回実行する（ホーム＞道場で遠征可能）",
     "description_en": "Return instantly from 3 Expeditions at the Dojo (Home > Dojo).",
     "description_en_src": "gl",
     "id": 50010,
@@ -117,7 +117,7 @@
     "reward_quantity": 1,
     "reward_type": 15,
     "step": 2,
-    "summary": "遠征即時帰還を<br>3回実行<br>(道場で実行)"
+    "summary": "遠征即時帰還を<br>累計3回実行<br>(道場で実行)"
   },
   {
     "description": "鍛冶屋で、装備品1個のLvが2に到達する（メインクエストで強化素材獲得）",
@@ -192,7 +192,7 @@
     "summary": "螺旋回廊 3階クリア"
   },
   {
-    "description": "道場で、遠征即時帰還を合計5回実行する（ホーム＞道場で遠征可能）",
+    "description": "道場で、遠征即時帰還を累計5回実行する（ホーム＞道場で遠征可能）",
     "description_en": "Return instantly from 5 Expeditions at the Dojo (Home > Dojo > Expeditions).",
     "description_en_src": "gl",
     "id": 50017,
@@ -201,7 +201,7 @@
     "reward_quantity": 10,
     "reward_type": 8,
     "step": 2,
-    "summary": "遠征即時帰還を<br>5回実行<br>(道場で実行)"
+    "summary": "遠征即時帰還を<br>累計5回実行<br>(道場で実行)"
   },
   {
     "description": "ポルカ編1章3-1-12. スカチーニの刺客[Normal]をクリアする<br>またはプレイヤーRankが18に到達する",
@@ -300,7 +300,7 @@
     "summary": "ﾎﾟﾙｶ編1章<br>1-1-1[Hard]クリア<br>またはﾌﾟﾚｲﾔｰRankが<br>26に到達"
   },
   {
-    "description": "道場で、遠征即時帰還を合計10回実行する（ホーム＞道場で遠征可能）",
+    "description": "道場で、遠征即時帰還を累計10回実行する（ホーム＞道場で遠征可能）",
     "description_en": "Return instantly from 10 Expeditions at the Dojo (Home > Dojo > Expeditions).",
     "description_en_src": "gl",
     "id": 50026,
@@ -309,7 +309,7 @@
     "reward_quantity": 10,
     "reward_type": 8,
     "step": 3,
-    "summary": "遠征即時帰還を<br>10回実行<br>(道場で実行)"
+    "summary": "遠征即時帰還を<br>累計10回実行<br>(道場で実行)"
   },
   {
     "description": "ポルカ編1章4-2-10. 朱の将軍[Normal]をクリアする<br>またはプレイヤーRankが30に到達する",
@@ -345,7 +345,7 @@
     "reward_quantity": 100,
     "reward_type": 12,
     "step": 1,
-    "summary": "遠征即時帰還<br>累計20回実行<br>(道場で実行)"
+    "summary": "遠征即時帰還を<br>累計20回実行<br>(道場で実行)"
   },
   {
     "description": "ポルカ編1章5-2-12. 魔女[Normal]をクリアする<br>またはプレイヤーRankが35に到達する",
@@ -441,7 +441,7 @@
     "reward_quantity": 20,
     "reward_type": 3,
     "step": 2,
-    "summary": "遠征即時帰還<br>累計50回実行<br>(道場で実行)"
+    "summary": "遠征即時帰還を<br>累計50回実行<br>(道場で実行)"
   },
   {
     "description": "ポルカ編1章4-2-5. 朱の将軍[Hard]をクリアする<br>またはプレイヤーRankが55に到達する",
@@ -549,7 +549,7 @@
     "reward_quantity": 30,
     "reward_type": 3,
     "step": 3,
-    "summary": "遠征即時帰還<br>累計100回<br>(道場で実行)"
+    "summary": "遠征即時帰還を<br>累計100回実行<br>(道場で実行)"
   },
   {
     "description": "道場で、スタイル限界突破を累計10回実行する（道場＞スタイル限界突破で実行可能）",
@@ -669,7 +669,7 @@
     "reward_quantity": 20,
     "reward_type": 8,
     "step": 1,
-    "summary": "遠征即時帰還<br>累計120回実行<br>(道場で実行)"
+    "summary": "遠征即時帰還を<br>累計120回実行<br>(道場で実行)"
   },
   {
     "description": "深奥の密林調査- 6層 -をクリアする（サブクエスト＞チャレンジ＞深奥の密林調査で挑戦可能）",
@@ -777,7 +777,7 @@
     "reward_quantity": 20,
     "reward_type": 8,
     "step": 2,
-    "summary": "遠征即時帰還<br>累計150回実行<br>(道場で実行)"
+    "summary": "遠征即時帰還を<br>累計150回実行<br>(道場で実行)"
   },
   {
     "description": "遺跡潜り - 三光石 - 10層をクリアする（サブクエスト＞デイリー＞遺跡潜りで挑戦可能）",
@@ -885,7 +885,7 @@
     "reward_quantity": 20,
     "reward_type": 8,
     "step": 3,
-    "summary": "遠征即時帰還<br>累計200回実行<br>(道場で実行)"
+    "summary": "遠征即時帰還を<br>累計200回実行<br>(道場で実行)"
   },
   {
     "description": "1. バルテルミーの秘密特訓 - 斬 -クリアする（サブクエスト＞イベント＞ バルテルミーの秘密特訓 - 斬 -で挑戦可能）<br>※悪鬼との戦いを全てクリアで解放",

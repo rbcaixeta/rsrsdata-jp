@@ -6190,6 +6190,275 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、味方生存者全体の素早さと知力を上昇させる( 効果小 )",
+    "flavor_text_en": "Increases the speed and intelligence of all allied survivors when an attack is hit (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101154,
+    "name": "能力波及Ⅰ(素早さ、知力)",
+    "name_en": "Ability Ripple I (Quickness, Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011069,
+      802011070
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象の素早さを低下させる( 確率大/効果大 )<br>攻撃命中時、自身のBPを回復する( 確率大/+2 )",
+    "flavor_text_en": "Reduces the target's quickness when hitting an <br>attack (high probability/high effect) heals its own BP when hitting an attack (probability large/+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101155,
+    "name": "弱化の練撃Ⅱ(素早さ)",
+    "name_en": "Weakening Ken 2 (Quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041071,
+      802041020
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象の素早さを低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Reduces the target's quickness when hitting an attack (high probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101156,
+    "name": "攻撃時素早さダウン",
+    "name_en": "Speed down when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010186
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象を石化させる( 確率大/効果5ターン )<br>攻撃命中時、自身のBPを回復する( 確率大/+2 )",
+    "flavor_text_en": "When attacking, petrify the target (high probability/effect 5 turns)<br>, heals own BP when hit (probability large/+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 3009,
+    "id": 702101157,
+    "name": "石化の練撃Ⅱ",
+    "name_en": "Petrified Strike II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041072,
+      802041020
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象を石化させる( 確率大/効果5ターン )",
+    "flavor_text_en": "Petrify the target when hit by an attack (High Chance/Effect for 5 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 3009,
+    "id": 702101158,
+    "name": "攻撃時石化",
+    "name_en": "Petrified when attacked",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802030242
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時] <br>自身に「モラルアップ(大)」を付与する( 効果3ターン )<br>自身に「ガードアップ(大)」を付与する( 効果3ターン )<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "[At the start of the round] <br>Give yourself “Moral Up (Large)” (Effect for 3 turns) <br>Give yourself “Guard Up (Large)” (Effect 3 turns) <br>Restore your BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101159,
+    "name": "ブーストシステム",
+    "name_en": "Boost system",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040754,
+      802041077,
+      802041078
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "OD攻撃の与ダメージが上昇する( 効果極大 )<br>かつ、バトル開始時、自身のBPを回復する( +3 )",
+    "flavor_text_en": "Increases damage dealt by OD attacks (maximum effect) <br>and heals own BP at the start of battle (+3)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101160,
+    "name": "闘練超撃Ⅲ",
+    "name_en": "Fighting Super Attack III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041073,
+      802040520
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "「しちしとうひとふり」を命中させた時、<br>「しちしとう」が発動する( 確率小 )<br><br>しちしとう<br>体術/攻撃/威力D/直接/敵単体 ( 斬 ) <br>ランダムな敵に攻撃する ( 4-7回 )<br>反撃を受けると中断する(攻撃時アビリティは初撃のみ発動)<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When you hit “Shichishito Hito <br>Pretend”, “Shichi-shito” is activated (probability small) <br><br>Shichishito <br>Saijutsu/Attack/Power D/Direct/Enemy alone () <br>Random Attacks enemies (4-7 times) <br>Interrupts when counterattacked (Attack ability only activates first hit) <br>(Activate with Move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101161,
+    "name": "はにわのきまぐれ",
+    "name_en": "Haniwa no Kimagure",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041074
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[HP満タン時] <br>攻撃の与ダメージが上昇( 効果大 )し、かつ、攻撃を受けた時、敵の攻撃を回避( 確率特大 )する",
+    "flavor_text_en": "[When HP <br>is full] When the damage dealt by an attack increases (high effect) and you are attacked, avoid an enemy attack (probability is extra large)",
+    "flavor_text_en_src": "ml",
+    "icon": 4006,
+    "id": 702101162,
+    "name": "勇健の構えⅢ",
+    "name_en": "Yuken's Stance Ⅲ",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040014,
+      802040958
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +3 )<br>OD攻撃(※)を発動後、「ビートウェイヴほう」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>ビートウェイヴほう<br>銃/攻撃/威力A/間接/敵全体 ( 打 ) <br>全体攻撃する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "At the start of the battle, <br>“Beatwave Hou” is activated after activating an OD Attack (*) that recovers its own BP (+3) <br>* “Techniques handed down in the R Cup” and “Techniques activated by this Ability Effect” “Jutsu” does not include “<br><br><br>Counterattack Technique by Counter Effect” Beatwave Hou Gun/Attack/Power/Indirect/Entire Enemy (Hit) <br>Attack the whole <br>(with Technique Rank1) (Activated)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101163,
+    "name": "放射型音響システム",
+    "name_en": "Radiation-type acoustic system",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802041075
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃発動後、「ビートウェイヴほう」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "After activating an OD attack, “Beatwave Hou” is activated <br>(activated with the skill Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101164,
+    "name": "OD攻撃時追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041076,
+      802041082,
+      802041083,
+      802041084
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +3 )<br>OD攻撃時、味方生存者全体のBPを回復する( +1 )",
+    "flavor_text_en": "Heal your own BP at the start of battle (+3) Restore <br>BP for all allied survivors during OD attacks (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101165,
+    "name": "ハリキリバトルチャージⅢ",
+    "name_en": "Hari Kiri-Battle Charge Ⅲ",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802041079
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃時、味方生存者全体のBPを回復する( +1 )",
+    "flavor_text_en": "During an OD attack, restore BP for all friendly survivors (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101166,
+    "name": "OD攻撃時BP回復",
+    "name_en": "BP recovery during OD attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041080
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "回復行動時（※）<br>対象に攻撃強化( 効果特大/効果3ターン )と防御強化( 効果中/効果3ターン )を付与する<br>※タイプが「回復」の技・術での回復を指す",
+    "flavor_text_en": "During recovery action (*) <br>Grants an attack boost (effect oversize/effect 3 turns) and defense enhancement (during <br>effect/effect 3 turns) to the target.",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101167,
+    "name": "てんけい",
+    "name_en": "Tenkei",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041081,
+      802041085
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時] <br>自身をステルス状態にする( 効果大/効果4ターン )<br>自身の器用さを上昇させる( 効果大 )",
+    "flavor_text_en": "[Start of Round] Set <br>yourself to Stealth (High Effect/Effect <br>for 4 turns) Increases own dexterity (High Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101168,
+    "name": "熟練隠伏Ⅲ(器用さ)",
+    "name_en": "Skilled Hidden Obushi III (Dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040951,
+      802010318
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "[ラウンド開始時] <br>自身のHPを回復する( 確率中/効果大 )",
     "flavor_text_en": "[Start of round]<br>Recovers own HP (medium chance/large effect).",

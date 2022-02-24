@@ -10044,7 +10044,113 @@
   },
   {
     "display_flag": 1,
-    "enchantment_effect_id": "",
+    "enchantment_effect_id": "145600098",
+    "flavor_text": "行動順補正値が上昇する( 効果小 )",
+    "flavor_text_en": "The action order correction value rises (effect is small)",
+    "flavor_text_en_src": "ml",
+    "id": 801041043,
+    "ignition_effect_id": "",
+    "name": "行動順補正上昇(小)",
+    "name_en": "Action order correction rise (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040109,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "行動順補正↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "行動順補正値が上昇する( 効果特大 )",
+    "flavor_text_en": "The action order correction value rises (oversized effect)",
+    "flavor_text_en_src": "ml",
+    "id": 801041044,
+    "ignition_effect_id": "",
+    "name": "行動順補正上昇(特大)",
+    "name_en": "Action order correction increase (extra large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040109,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "行動順補正↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041045,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Plane",
+    "flavor_text": "自身の狙われやすさが低下する",
+    "flavor_text_en": "The ease of being targeted by oneself decreases",
+    "flavor_text_en_src": "ml",
+    "id": 801041046,
+    "ignition_effect_id": "",
+    "name": "ステルス(中)",
+    "name_en": "Stealth (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040047,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ステルス",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵からの攻撃を回避する( 上限回数:1 )",
+    "flavor_text_en": "Avoid enemy attacks (maximum number of times: 1)",
+    "flavor_text_en_src": "ml",
+    "id": 801041047,
+    "ignition_effect_id": "",
+    "name": "回避(1回)",
+    "name_en": "Avoid (once)",
+    "name_en_src": "ml",
+    "state_change_id": 900040180,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "回避",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140500238",
     "flavor_text": "敵から受けるダメージが低下する(重複不可)",
     "flavor_text_en": "Damage received from enemies is reduced (cannot be duplicated)",
     "flavor_text_en_src": "ml",
@@ -14777,6 +14883,48 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "器用さ 知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Quickness increases",
+    "flavor_text_en_src": "ml",
+    "id": 802011069,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Quickness up",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intelligence rises",
+    "flavor_text_en_src": "ml",
+    "id": 802011070,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Boost your brainpower",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -27750,6 +27898,337 @@
     "text_color": "FFFFFF",
     "text_pop": "忠義の秘剣",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、対象の素早さを低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Reduces the target's quickness when hitting an attack (high probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041071,
+    "ignition_effect_id": "",
+    "name": "攻撃時素早さダウン",
+    "name_en": "Speed down when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101156
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、対象を石化させる( 確率大/効果5ターン )",
+    "flavor_text_en": "Petrify the target when hit by an attack (High Chance/Effect for 5 turns)",
+    "flavor_text_en_src": "ml",
+    "id": 802041072,
+    "ignition_effect_id": "",
+    "name": "攻撃時石化付与",
+    "name_en": "Granted petrification during attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101158
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "OD攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases the damage of OD attacks",
+    "flavor_text_en_src": "ml",
+    "id": 802041073,
+    "ignition_effect_id": "",
+    "name": "OD攻撃強化",
+    "name_en": "Enhancement of OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      9
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "しちしとうひとふりを命中させた時、しちしとうが発動する(確率小)",
+    "flavor_text_en": "When you hit Shichishito Pretend, Shichishito will be activated (low probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041074,
+    "ignition_effect_id": "",
+    "name": "はにわのきまぐれ",
+    "name_en": "Haniwa no Kimagure",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500189
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "はにわのきまぐれ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃時、「ビートウェイヴほう」が発動する",
+    "flavor_text_en": "“Beatwave Hou” is activated during an OD attack",
+    "flavor_text_en_src": "ml",
+    "id": 802041075,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101164
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で技2を発動後、ビートウェイヴほうで攻撃を行う",
+    "flavor_text_en": "After activating Move 2 with an OD attack, perform an attack with Beatwave's side",
+    "flavor_text_en_src": "ml",
+    "id": 802041076,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600218
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "放射型音響システム",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041077,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(大)",
+    "name_en": "Moral Up (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃 防御↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage received from enemies is reduced (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041078,
+    "ignition_effect_id": "",
+    "name": "ガードアップ(大)",
+    "name_en": "Guard Up (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040099,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃時、味方生存者全体のBPを回復する( +1 )",
+    "flavor_text_en": "During an OD attack, restore BP for all friendly survivors (+1)",
+    "flavor_text_en_src": "ml",
+    "id": 802041079,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時BP回復",
+    "name_en": "BP recovery during OD attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101166
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "OD攻撃時、味方生存者全体のBPを回復する( +1 )",
+    "flavor_text_en": "During an OD attack, restore BP for all friendly survivors (+1)",
+    "flavor_text_en_src": "ml",
+    "id": 802041080,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時BP回復",
+    "name_en": "BP recovery during OD attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      1
+    ],
+    "target_area": 3,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 802041081,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃 防御↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で技3を発動後、ビートウェイヴほうで攻撃を行う",
+    "flavor_text_en": "After activating Move 3 with an OD attack, perform an attack with the Beatwave side",
+    "flavor_text_en_src": "ml",
+    "id": 802041082,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600218
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "放射型音響システム",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で継承技を発動後、ビートウェイヴほうで攻撃を行う",
+    "flavor_text_en": "After activating a succession technique with an OD attack, perform an attack with Beatwave's side",
+    "flavor_text_en_src": "ml",
+    "id": 802041083,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600218
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "放射型音響システム",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で通常攻撃を発動後、ビートウェイヴほうで攻撃を行う",
+    "flavor_text_en": "After activating a normal attack with an OD attack, perform an attack on the Beatwave side",
+    "flavor_text_en_src": "ml",
+    "id": 802041084,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600218
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "放射型音響システム",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 802041085,
+    "ignition_effect_id": "",
+    "name": "防御",
+    "name_en": "defenses",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      80
+    ],
+    "target_area": 8,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {
@@ -43470,6 +43949,27 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intelligence rises",
+    "flavor_text_en_src": "ml",
+    "id": 809010644,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Boost your brainpower",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Debuff",
     "flavor_text": "腕力が低下する",
     "flavor_text_en": "Your arm strength decreases",
@@ -47687,6 +48187,81 @@
     "target_area": 1,
     "text_color": "FFFFFF",
     "text_pop": "捕捉",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon monsters",
+    "flavor_text_en_src": "ml",
+    "id": 809040647,
+    "ignition_effect_id": "149900129",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your buddies",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 2002,
+    "state_vars": [
+      1,
+      2,
+      2340,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon monsters",
+    "flavor_text_en_src": "ml",
+    "id": 809040648,
+    "ignition_effect_id": "149900129",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your buddies",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 2002,
+    "state_vars": [
+      2,
+      2,
+      2340,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon monsters",
+    "flavor_text_en_src": "ml",
+    "id": 809040649,
+    "ignition_effect_id": "149900129",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your buddies",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 2002,
+    "state_vars": [
+      999999,
+      1,
+      20704702,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
