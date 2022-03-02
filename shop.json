@@ -5946,5 +5946,26 @@
     "priority": 7050,
     "start_at": 1645675200,
     "end_at": 1648925999
+  },
+  {
+    "id": 4900409,
+    "shop_type": 4,
+    "banner": 901152,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 1100659
+      },
+      {
+        "currency": 4,
+        "id": 1100660
+      }
+    ],
+    "tab_category": 1,
+    "priority": 7051,
+    "start_at": 1646362800,
+    "end_at": 1649357999
   }
 ]

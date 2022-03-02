@@ -9048,6 +9048,22 @@
   {
     "enemy_class": 11,
     "gender": 9,
+    "id": 111043,
+    "illust": 1110431,
+    "name": "イフリート",
+    "name_en": "Efreet",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 10,
+    "species": [
+      12
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 11,
+    "gender": 9,
     "id": 111045,
     "illust": 1110451,
     "name": "ガーゴイル",
@@ -9933,6 +9949,23 @@
     "rank": 1,
     "species": [
       13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 12,
+    "gender": 9,
+    "id": 112069,
+    "illust": 1120691,
+    "name": "ライダーゴースト",
+    "name_en": "Rider ghost",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13,
+      82
     ],
     "sprite_studio": 0
   },

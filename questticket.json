@@ -1276,40 +1276,40 @@
   {
     "expired_at": 0,
     "flavor_text": "使用することで、「呪われし者との戦い-斬陰-」のクエストに挑戦できる。",
-    "flavor_text_en": "By using it, you can challenge the quest “Fight against the Cursed - Shade -”.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Use to attempt Battle with Cursed One (Slash/Shadow).",
+    "flavor_text_en_src": "gl",
     "icon": 821100,
     "id": 821100,
     "max_quantity": 99999999,
     "name": "呪いの鍵(紫)",
-    "name_en": "The Cursed Key (Purple)",
-    "name_en_src": "ml",
+    "name_en": "Cursed Key (Purple)",
+    "name_en_src": "gl",
     "sort_order": 3180
   },
   {
     "expired_at": 0,
     "flavor_text": "使用することで、「呪われし者との戦い-打熱陽-」のクエストに挑戦できる。",
-    "flavor_text_en": "By using it, you can challenge the quest “Fight against the Cursed: The Heat Sun”.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Use to attempt Battle with Cursed One (Blunt/Heat/Sun).",
+    "flavor_text_en_src": "gl",
     "icon": 821101,
     "id": 821101,
     "max_quantity": 99999999,
     "name": "呪いの鍵(黄)",
-    "name_en": "The Cursed Key (Yellow)",
-    "name_en_src": "ml",
+    "name_en": "Cursed Key (Yellow)",
+    "name_en_src": "gl",
     "sort_order": 3202
   },
   {
     "expired_at": 0,
     "flavor_text": "使用することで、「見捨てられた地の大連戦-バートランド-」のクエストに挑戦できる。",
-    "flavor_text_en": "By using it, you can challenge the “Battle of the Forsaken Land -Bertrand-” quest.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Use to attempt Wastelands War (Bertrand).",
+    "flavor_text_en_src": "gl",
     "icon": 821102,
     "id": 821102,
     "max_quantity": 99999999,
     "name": "呪いの鍵(赤)",
     "name_en": "Cursed Key (Red)",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "sort_order": 3214
   },
   {
@@ -1925,8 +1925,8 @@
   },
   {
     "expired_at": 1647543599,
-    "flavor_text": "使用することで、「轟け！熱狂のステージ」に挑戦できる。（2022/03/18 4:00まで）",
-    "flavor_text_en": "By using it, you can say “roar! You can challenge the “Enthusiasm Stage”. (until 2022/03/18 4:00)",
+    "flavor_text": "使用することで、「轟け！熱狂のステージ」に挑戦できる。（2022/3/18 4:00まで）",
+    "flavor_text_en": "By using it, you can say “roar! You can challenge the “Enthusiasm Stage”. (until 2022/3/18 4:00)",
     "flavor_text_en_src": "ml",
     "icon": 821158,
     "id": 821158,
@@ -1935,5 +1935,18 @@
     "name_en": "Invitation Ticket to Enthusiasm [Limited Time]",
     "name_en_src": "ml",
     "sort_order": 22022440
+  },
+  {
+    "expired_at": 1648148399,
+    "flavor_text": "使用することで、「響け！情熱のステージ」に挑戦できる。（2022/3/25 4:00まで）",
+    "flavor_text_en": "By using it, you can say, “Sound! You can challenge the “Passion Stage”. (until 2022/3/25 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821159,
+    "id": 821159,
+    "max_quantity": 99999,
+    "name": "情熱への招待券[期間限定]",
+    "name_en": "Invitation Ticket to Passion [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22030440
   }
 ]

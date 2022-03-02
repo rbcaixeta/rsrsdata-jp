@@ -1523,14 +1523,14 @@
   {
     "expired_at": 1618426799,
     "flavor_text": "特定のウルトラデラックスガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by running certain Ultra Deluxe Gacha. You can exchange items and styles at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800118,
     "id": 800118,
     "max_quantity": 99999999,
     "name": "ウルトラデラックスガチャメダル・21",
-    "name_en": "Ultra Deluxe Gacha Medal 21",
-    "name_en_src": "ml",
+    "name_en": "Ultra Deluxe Summon Medal XIX",
+    "name_en_src": "gl",
     "sort_order": 3218
   },
   {
@@ -5644,27 +5644,27 @@
   {
     "expired_at": 0,
     "flavor_text": "イベント「呪われし者との戦い-斬陰-」入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "An item that can be obtained from the event “Battle with the Cursed - Zanshin -” event. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from the Battle with Cursed One (Slash/Shadow) event. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100463,
     "id": 1100463,
     "max_quantity": 99999999,
     "name": "死灰(紫)",
-    "name_en": "Dead ash (purple)",
-    "name_en_src": "ml",
+    "name_en": "Cold Ash (Purple)",
+    "name_en_src": "gl",
     "sort_order": 3174
   },
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from the Battle with Cursed One (Slash/Shadow) event. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100464,
     "id": 1100464,
     "max_quantity": 99999999,
     "name": "ひび割れた土器(紫)",
-    "name_en": "Cracked Earthenware (Purple)",
-    "name_en_src": "ml",
+    "name_en": "Cracked Ceramic (Purple)",
+    "name_en_src": "gl",
     "sort_order": 3170
   },
   {
@@ -5722,27 +5722,27 @@
   {
     "expired_at": 0,
     "flavor_text": "イベント「呪われし者との戦い-打熱陽-」で入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "An item that can be obtained from the event “Battle against the Cursed - Heat Sun -”. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from the Battle with Cursed One (Blunt/Heat/Sun) event. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100469,
     "id": 1100469,
     "max_quantity": 99999999,
     "name": "死灰(黄)",
-    "name_en": "Dead ash (yellow)",
-    "name_en_src": "ml",
+    "name_en": "Cold Ash (Yellow)",
+    "name_en_src": "gl",
     "sort_order": 3198
   },
   {
     "expired_at": 0,
     "flavor_text": "イベント「呪われし者との戦い-打熱陽-」で入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "An item that can be obtained from the event “Battle against the Cursed - Heat Sun -”. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from the Battle with Cursed One (Blunt/Heat/Sun) event. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100470,
     "id": 1100470,
     "max_quantity": 99999999,
     "name": "ひび割れた土器(黄)",
-    "name_en": "Cracked Earthenware (Yellow)",
-    "name_en_src": "ml",
+    "name_en": "Cracked Ceramic (Yellow)",
+    "name_en_src": "gl",
     "sort_order": 3196
   },
   {
@@ -7837,5 +7837,31 @@
     "name_en": "Rhythm records",
     "name_en_src": "ml",
     "sort_order": 22022432
+  },
+  {
+    "expired_at": 1649357999,
+    "flavor_text": "「情熱メダル交換所」でスタイルなどと交換できるアイテム。（2022/4/8 4:00まで）",
+    "flavor_text_en": "Items that can be exchanged for styles etc. at the “Passion Medal Exchange”. (until 2022/4/8 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100659,
+    "id": 1100659,
+    "max_quantity": 99999999,
+    "name": "情熱メダル（赤）[期間限定]",
+    "name_en": "Passion Medal (Red) [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22030420
+  },
+  {
+    "expired_at": 1649357999,
+    "flavor_text": "「情熱メダル交換所」でスタイルなどと交換できるアイテム。（2022/4/8 4:00まで）",
+    "flavor_text_en": "Items that can be exchanged for styles etc. at the “Passion Medal Exchange”. (until 2022/4/8 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100660,
+    "id": 1100660,
+    "max_quantity": 99999999,
+    "name": "情熱メダル（青）[期間限定]",
+    "name_en": "Passion Medal (Blue) [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22030421
   }
 ]

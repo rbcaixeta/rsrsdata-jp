@@ -1534,8 +1534,8 @@
     "id": 161,
     "is_pierceily": 0,
     "name": "呪われし者との戦い-斬陰-",
-    "name_en": "Fight against the Cursed -Zanshin-",
-    "name_en_src": "ml",
+    "name_en": "Battle with Cursed One (Slash/Shadow)",
+    "name_en_src": "gl",
     "priority": 11393,
     "start_at": 1614848400
   },
@@ -1584,8 +1584,8 @@
     "id": 167,
     "is_pierceily": 0,
     "name": "呪われし者との戦い-打熱陽-",
-    "name_en": "Fight against the Cursed -Blow Yang-",
-    "name_en_src": "ml",
+    "name_en": "Battle with Cursed One (Blunt/Heat/Sun)",
+    "name_en_src": "gl",
     "priority": 11440,
     "start_at": 1615957200
   },
@@ -1604,8 +1604,8 @@
     "id": 169,
     "is_pierceily": 0,
     "name": "暗黒の巨星祭 決戦！バートランド②",
-    "name_en": "The Battle of the Dark Giant Star Festival! Bertrand ②",
-    "name_en_src": "ml",
+    "name_en": "Dark Stars Final Battle with Cursed One",
+    "name_en_src": "gl",
     "priority": 11450,
     "start_at": 1616468400
   },
@@ -2668,5 +2668,15 @@
     "name_en_src": "ml",
     "priority": 12280,
     "start_at": 1645675200
+  },
+  {
+    "end_at": 1648753199,
+    "id": 281,
+    "is_pierceily": 0,
+    "name": "熱闘！アザミの特訓道場 with Music",
+    "name_en": "The battle! Thistle's Special Training Dojo with Music",
+    "name_en_src": "ml",
+    "priority": 12287,
+    "start_at": 1646362800
   }
 ]

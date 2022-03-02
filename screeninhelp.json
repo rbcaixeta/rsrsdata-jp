@@ -5488,11 +5488,11 @@
     "id": 409,
     "name": "Quest_Event_1219",
     "name_en": "Quest_Event_1219",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "呪われし者との戦い-斬陰-",
-    "title_en": "Fight against the Cursed -Zanshin-",
-    "title_en_src": "ml"
+    "title_en": "Battle with Cursed One (Slash/Shadow)",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -5564,11 +5564,11 @@
     "id": 415,
     "name": "Quest_Event_1224",
     "name_en": "Quest_Event_1224",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "呪われし者との戦い-打熱陽-",
-    "title_en": "Fight against the Cursed -Blow Yang-",
-    "title_en_src": "ml"
+    "title_en": "Battle with Cursed One (Blunt/Heat/Sun)",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8667,6 +8667,66 @@
     "size": 3,
     "title": "SaGa the Music制圧戦",
     "title_en": "Saga the Music Domination Battle",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10712,
+      10713,
+      10715
+    ],
+    "id": 632,
+    "name": "Quest_Event_1487",
+    "name_en": "Quest_Event_1487",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "響け！情熱のステージ 第一部",
+    "title_en": "Sound it out! Passion Stage Part 1",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10712,
+      10713,
+      10715
+    ],
+    "id": 633,
+    "name": "Quest_Event_1488",
+    "name_en": "Quest_Event_1488",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "響け！情熱のステージ 第二部",
+    "title_en": "Sound it out! The Stage of Passion Part 2",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10712,
+      10713,
+      10715
+    ],
+    "id": 634,
+    "name": "Quest_Event_1489",
+    "name_en": "Quest_Event_1489",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "響け！情熱のステージ 第三部",
+    "title_en": "Sound it out! Stage of Passion Part 3",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10717,
+      10718,
+      10719
+    ],
+    "id": 635,
+    "name": "Quest_Event_1492",
+    "name_en": "Quest_Event_1492",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "熱闘！アザミの特訓道場 with Music",
+    "title_en": "The battle! Thistle's Special Training Dojo with Music",
     "title_en_src": "ml"
   },
   {
