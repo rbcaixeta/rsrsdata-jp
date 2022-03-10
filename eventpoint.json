@@ -1562,14 +1562,14 @@
   {
     "expired_at": 1621796399,
     "flavor_text": "特定のウルトラデラックスガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by running certain Ultra Deluxe Gacha. You can exchange items and styles at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800121,
     "id": 800121,
     "max_quantity": 99999999,
     "name": "ウルトラデラックスガチャメダル・23",
-    "name_en": "Ultra Deluxe Gacha Medal 23",
-    "name_en_src": "ml",
+    "name_en": "Ultra Deluxe Summon Medal XX",
+    "name_en_src": "gl",
     "sort_order": 3250
   },
   {
@@ -5761,14 +5761,14 @@
   {
     "expired_at": 0,
     "flavor_text": "「メイン2章10話」「見捨てられた地の大連戦-バートランド-」で入手できるアイテム。",
-    "flavor_text_en": "Items that can be obtained from “Main Chapter 2 Episode 10” and “Daisen in the Forsaken Land -Bertrand-”",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events.",
+    "flavor_text_en_src": "gl",
     "icon": 1100472,
     "id": 1100472,
     "max_quantity": 99999999,
     "name": "怪光の石(赤)",
-    "name_en": "Phantom Light Stone (Red)",
-    "name_en_src": "ml",
+    "name_en": "Luminous Stone (Red)",
+    "name_en_src": "gl",
     "sort_order": 3212
   },
   {
@@ -5787,14 +5787,14 @@
   {
     "expired_at": 1619636399,
     "flavor_text": "イベント「聖石の洞窟」開催中に各種イベントで入手できるアイテム。交換所でアイテムと交換できる。（2021/4/29 4:00まで）",
-    "flavor_text_en": "Items that can be obtained at various events during the “Holy Stone Cave” event. Can be exchanged for items at the Exchange. (until 2021/4/29 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items. (Until [1649033999] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 1100233,
     "id": 1100474,
     "max_quantity": 99999999,
     "name": "きれいな石[期間限定]",
-    "name_en": "Beautiful Stone [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Precious Stone [Limited Time]",
+    "name_en_src": "gl",
     "sort_order": 3206
   },
   {
@@ -5891,14 +5891,14 @@
   {
     "expired_at": 1620586799,
     "flavor_text": "「魔獣討伐出陣イベントBOXガチャ」を引くことができるチケット。（2021/5/10 4:00まで）",
-    "flavor_text_en": "A ticket that allows you to draw “Demon Beast Defeat Event BOX Gacha”. (until 2021/5/10 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "A ticket for pulling the Beast Hunt Event BOX Surprises. (Until [1648429199] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 1100483,
     "id": 1100483,
     "max_quantity": 99999999,
     "name": "魔獣討伐チケット[期間限定]",
-    "name_en": "Demon Beast Defeat Ticket [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Beast Hunt Ticket [Ltd. Time]",
+    "name_en_src": "gl",
     "sort_order": 3246
   },
   {
