@@ -623,6 +623,22 @@
   {
     "enemy_class": 1,
     "gender": 9,
+    "id": 101051,
+    "illust": 1010511,
+    "name": "ごうとう",
+    "name_en": "Goto",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 1,
+    "gender": 9,
     "id": 101052,
     "illust": 1010521,
     "name": "ガード",
@@ -9789,7 +9805,7 @@
     "sprite_studio": 0
   },
   {
-    "enemy_class": 12,
+    "enemy_class": 13,
     "gender": 9,
     "id": 112046,
     "illust": 1120461,
@@ -9822,7 +9838,7 @@
     "sprite_studio": 0
   },
   {
-    "enemy_class": 12,
+    "enemy_class": 13,
     "gender": 9,
     "id": 112048,
     "illust": 1120481,
@@ -21025,6 +21041,40 @@
   {
     "enemy_class": 99,
     "gender": 1,
+    "id": 231072,
+    "illust": 310703,
+    "name": "リュート",
+    "name_en": "lute",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 231141,
+    "illust": 311403,
+    "name": "ドール",
+    "name_en": "Dole",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
     "id": 231231,
     "illust": 312300,
     "name": "ルージュ",
@@ -22310,6 +22360,23 @@
     "name": "詩人",
     "name_en": "Minstrel",
     "name_en_src": "gl",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 281022,
+    "illust": 810207,
+    "name": "詩人",
+    "name_en": "poets",
+    "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 1,
     "pc_flag": 1,
     "rank": 1,

@@ -3204,5 +3204,33 @@
     "summary": "訓練でエネルギーを4回補給",
     "trigger_player_rank": 20,
     "trigger_quest_id": 100103121
+  },
+  {
+    "description": "最果ての決戦島を2回クリアする",
+    "description_en": "Clear the Farthest Battle Island 2 times",
+    "description_en_src": "ml",
+    "id": 230,
+    "priority": 3000,
+    "reward_id": 881003,
+    "reward_quantity": 3,
+    "reward_type": 20,
+    "ribbon_text": "追加！",
+    "summary": "最果ての決戦島を2回クリア",
+    "trigger_player_rank": 75,
+    "trigger_quest_id": 100201053
+  },
+  {
+    "description": "最果ての決戦島を3回クリアする",
+    "description_en": "Clear the Farthest Battle Island 3 times",
+    "description_en_src": "ml",
+    "id": 231,
+    "priority": 2999,
+    "reward_id": 881004,
+    "reward_quantity": 3,
+    "reward_type": 20,
+    "ribbon_text": "追加！",
+    "summary": "最果ての決戦島を3回クリア",
+    "trigger_player_rank": 75,
+    "trigger_quest_id": 100201053
   }
 ]

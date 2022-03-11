@@ -2301,6 +2301,32 @@
     "sort_order": 22022445
   },
   {
+    "expired_at": 1649357999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Romancing Festival. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800179,
+    "id": 800179,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・48",
+    "name_en": "Romancing Festival Medal 48",
+    "name_en_src": "ml",
+    "sort_order": 22031150
+  },
+  {
+    "expired_at": 1649357999,
+    "flavor_text": "特定のウルトラデラックスガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by running certain Ultra Deluxe Gacha. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800180,
+    "id": 800180,
+    "max_quantity": 99999999,
+    "name": "ウルトラデラックスガチャメダル・30",
+    "name_en": "Ultra Deluxe Gacha Medal 30",
+    "name_en_src": "ml",
+    "sort_order": 22031145
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Summon Tickets and other items.",
@@ -7840,6 +7866,19 @@
   },
   {
     "expired_at": 1649357999,
+    "flavor_text": "イベント「聖石の洞窟発掘キャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2022/4/8 4:00まで）",
+    "flavor_text_en": "Items that can be obtained during the “Holy Stone Cave Excavation Campaign” event. Can be exchanged for items at the exchange. (Until 2022/4/8 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100376,
+    "id": 1100658,
+    "max_quantity": 99999999,
+    "name": "きれいな石(黒)[期間限定]",
+    "name_en": "Beautiful Stone (Black) [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22031105
+  },
+  {
+    "expired_at": 1649357999,
     "flavor_text": "「情熱メダル交換所」でスタイルなどと交換できるアイテム。（2022/4/8 4:00まで）",
     "flavor_text_en": "Items that can be exchanged for styles etc. at the “Passion Medal Exchange”. (until 2022/4/8 4:00)",
     "flavor_text_en_src": "ml",
@@ -7863,5 +7902,44 @@
     "name_en": "Passion Medal (Blue) [Limited Time]",
     "name_en_src": "ml",
     "sort_order": 22030421
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「うつろう原石交換所」でアイテムと交換できる。",
+    "flavor_text_en": "Can be exchanged for items at the “Rough Stone Exchange”.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100661,
+    "id": 1100661,
+    "max_quantity": 99999999,
+    "name": "うつろう原石(武器聖石)",
+    "name_en": "Utero Gemstone (Weapon Holy Stone)",
+    "name_en_src": "ml",
+    "sort_order": 22031110
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100662,
+    "id": 1100662,
+    "max_quantity": 99999999,
+    "name": "Music JAMフライヤー",
+    "name_en": "Music JAM Flyer",
+    "name_en_src": "ml",
+    "sort_order": 22031135
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100663,
+    "id": 1100663,
+    "max_quantity": 99999999,
+    "name": "旋律スタンプ",
+    "name_en": "Melody stamp",
+    "name_en_src": "ml",
+    "sort_order": 22031140
   }
 ]

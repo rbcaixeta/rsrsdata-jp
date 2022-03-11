@@ -6459,6 +6459,79 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率中 )<br>味方生存者全体のHPを回復( 効果極小 )させ、かつ、味方生存者全体の状態異常をすべて解除する",
+    "flavor_text_en": "[At End of Turn] Has a <br>chance to <br>restore the health of all survivors allies (minimum effect), and remove all health abnormalities for all survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101169,
+    "name": "癒しの余韻",
+    "name_en": "Healing afterglow",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010778,
+      802040072
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「ブレイブソング」が発動する( 確率大 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>ブレイブソング<br>剣技/攻撃/威力A/間接/敵全体 ( 斬+熱 ) <br>全体攻撃する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When you hit a technique or technique (*) whose type is “Attack”, <br>“Brave Song” is activated (high probability) <br>* “Normal Attack”, “Techniques/Techniques handed down in the R Cup”, and “Techniques activated by this Ability Effect Does not include “Jutsu” and “<br><br><br>Counterattack Technique by Counter Effect” Brave Song Sword/Attack/Power A/Indirect/Whole Enemy (Zan+Heat) <br>Attack Whole <br>(Technique) (Activated with Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101170,
+    "name": "アンコールソング",
+    "name_en": "Encore song",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041087,
+      802041088,
+      802041089,
+      802041090
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br>かつ、バトル開始時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Increases damage dealt by attacks (high effect) <br>and restores own BP at the start of battle (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101171,
+    "name": "闘練烈攻Ⅱ",
+    "name_en": "Battle Assault II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802040322
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>味方生存者全体のODゲージを上昇させる( 確率大/効果小 )",
+    "flavor_text_en": "[End of Turn] <br>Increases the OD gauge of all survivors allies (Probability Large/Low Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101172,
+    "name": "戦気の波動Ⅰ",
+    "name_en": "Wave of War I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041091
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "[ラウンド開始時] <br>自身のHPを回復する( 確率中/効果大 )",
     "flavor_text_en": "[Start of round]<br>Recovers own HP (medium chance/large effect).",
@@ -32941,6 +33014,176 @@
       803040577,
       803040587,
       803040597
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "剣装備時　攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "<br>Increases damage dealt by attacks when equipped with a sword",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101037,
+    "name": "【武器聖石】剣の達人",
+    "name_en": "【Weapon Holy Stone】Master of Swords",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      803040599
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "大剣装備時　攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "<br>Increases damage dealt by attacks when equipped with a Great Sword",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101038,
+    "name": "【武器聖石】大剣の達人",
+    "name_en": "【Weapon Holy Stone】Master of Great Swords",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      803040600
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "斧装備時　攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "<br>Increases damage dealt by attacks when equipped with an axe",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101039,
+    "name": "【武器聖石】斧の達人",
+    "name_en": "[Weapon Holy Stone] Master of Axes",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      803040601
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "棍棒装備時　攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "<br>Increases damage dealt by attacks when equipped with a club",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101040,
+    "name": "【武器聖石】棍棒の達人",
+    "name_en": "【Weapon Holy Stone】Club Master",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      803040602
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体術装備時　攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "<br>Increases damage dealt when attacking Taijutsu",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101041,
+    "name": "【武器聖石】体術の達人",
+    "name_en": "【Weapon Holy Stone】Master of Taijutsu",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      803040603
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "銃装備時　攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "<br>Increases damage dealt when attacking a gun",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101042,
+    "name": "【武器聖石】銃の達人",
+    "name_en": "【Weapon Holy Stone】Gun Master",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      803040604
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "小剣装備時　攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "<br>Increases damage dealt by attacks when equipped with stilettos",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101043,
+    "name": "【武器聖石】小剣の達人",
+    "name_en": "【Weapon Holy Stone】Master of Stilettos",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      803040605
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "槍装備時　攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "<br>Increases damage dealt by attacks when equipped with a spear",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101044,
+    "name": "【武器聖石】槍の達人",
+    "name_en": "【Weapon Holy Stone】Master of Spears",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      803040606
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "弓装備時　攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "<br>Increases damage dealt by attacks when equipped with a bow",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101045,
+    "name": "【武器聖石】弓の達人",
+    "name_en": "【Weapon Holy Stone】Master of the Bow",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      803040607
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "杖装備時　攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "<br>Increases damage dealt by attacks when equipped with a cane",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101046,
+    "name": "【武器聖石】杖の達人",
+    "name_en": "【Weapon Holy Stone】Master of Cane",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      803040608
     ]
   },
   {

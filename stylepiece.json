@@ -6001,6 +6001,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[エル・マリアッチ]リュート専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece dedicated to the SS [El Mariachi] lute. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 310703,
+    "id": 310703,
+    "name": "SSリュートのピース",
+    "name_en": "SS lute pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[パトロールいちの男]ヒューズ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "A piece dedicated to the SS [Patrol Ichi no Man] fuse. Can be used for style summoning or breaking limits.",
     "flavor_text_en_src": "ml",
@@ -6069,6 +6081,18 @@
     "name": "SSドールのピース",
     "name_en": "SS Doll Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[趣味はヴァイオリン]ドール専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece dedicated to SS [my hobby is violin] dolls. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 311403,
+    "id": 311403,
+    "name": "SSドールのピース",
+    "name_en": "SS Doll Pieces",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -9224,6 +9248,18 @@
     "id": 810206,
     "name": "SS詩人のピース",
     "name_en": "SS poet's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ジャムセッションです]詩人専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [It's a jam session] A piece dedicated to poets. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 810207,
+    "id": 810207,
+    "name": "SS詩人のピース",
+    "name_en": "SS Poet's Piece",
     "name_en_src": "ml",
     "selling_price": 100
   },

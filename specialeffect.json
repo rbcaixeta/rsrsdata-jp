@@ -3506,6 +3506,28 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 801011050,
+    "ignition_effect_id": "",
+    "name": "HP回復(大)",
+    "name_en": "HP recovery (large)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      30
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "毒耐性が上昇する",
     "flavor_text_en": "Increases Poison Resistance.",
@@ -10146,6 +10168,50 @@
     "text_pop": "回避",
     "triggering_effect_condition_ids": [
       14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージを100%カットする( 上限回数:1 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Cut damage taken by 100%. (Maximum number of times: 1*Activates only when an attack is hit)",
+    "flavor_text_en_src": "ml",
+    "id": 801041049,
+    "ignition_effect_id": "",
+    "name": "ダメージブロック(1回)",
+    "name_en": "Damage Block (1 time)",
+    "name_en_src": "ml",
+    "state_change_id": 900040184,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ダメージブロック",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140100160",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041051,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(大)",
+    "name_en": "Moral Up (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -28232,6 +28298,115 @@
     ]
   },
   {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "飛翔刃を命中させた時、ブレイブソングが発動する(確率大)",
+    "flavor_text_en": "Brave Song is activated when a flying blade is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041087,
+    "ignition_effect_id": "",
+    "name": "アンコールソング",
+    "name_en": "Encore song",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100220
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "アンコールソング",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "湧き立つうたを命中させた時、ブレイブソングが発動する(確率大)",
+    "flavor_text_en": "Brave Song is activated when you hit a song that springs up (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041088,
+    "ignition_effect_id": "",
+    "name": "アンコールソング",
+    "name_en": "Encore song",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100220
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "アンコールソング",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "豪火連斬を命中させた時、ブレイブソングが発動する(確率大)",
+    "flavor_text_en": "Brave Song is activated when a heavy fire is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041089,
+    "ignition_effect_id": "",
+    "name": "アンコールソング",
+    "name_en": "Encore song",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100220
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "アンコールソング",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、ブレイブソングが発動する(確率大)",
+    "flavor_text_en": "Brave Song is activated when a succession technique is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041090,
+    "ignition_effect_id": "",
+    "name": "アンコールソング",
+    "name_en": "Encore song",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100220
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "アンコールソング",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "ODゲージが上昇する",
+    "flavor_text_en": "The OD gauge rises",
+    "flavor_text_en_src": "ml",
+    "id": 802041091,
+    "ignition_effect_id": "",
+    "name": "ODゲージアップ",
+    "name_en": "OD gauge up",
+    "name_en_src": "ml",
+    "state_change_id": 900050156,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "ODゲージ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 0,
     "enchantment_effect_id": "Buff",
     "flavor_text": "腕力が上昇する",
@@ -38250,6 +38425,226 @@
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "剣を装備時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when equipped with a sword",
+    "flavor_text_en_src": "ml",
+    "id": 803040599,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(剣)",
+    "name_en": "Damage Up (Sword)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21001
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "大剣を装備時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when equipped with a Great Sword",
+    "flavor_text_en_src": "ml",
+    "id": 803040600,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(大剣)",
+    "name_en": "Damage Up (Great Sword)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21002
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "斧を装備時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when equipped with Axe",
+    "flavor_text_en_src": "ml",
+    "id": 803040601,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(斧)",
+    "name_en": "Damage Up (Axe)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21003
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "棍棒を装備時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when equipped with a club",
+    "flavor_text_en_src": "ml",
+    "id": 803040602,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(棍棒)",
+    "name_en": "Damage Up (Club Stick)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21004
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "体術を装備時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when equipped with Taijutsu",
+    "flavor_text_en_src": "ml",
+    "id": 803040603,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(体術)",
+    "name_en": "Damage up (physical surgery)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21005
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "銃を装備時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when equipped",
+    "flavor_text_en_src": "ml",
+    "id": 803040604,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(銃)",
+    "name_en": "Damage Up (Gun)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21006
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "小剣を装備時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when equipped with stilettos",
+    "flavor_text_en_src": "ml",
+    "id": 803040605,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(小剣)",
+    "name_en": "Damage Up (Stiletto)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21007
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "槍を装備時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when equipped with a spear",
+    "flavor_text_en_src": "ml",
+    "id": 803040606,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(槍)",
+    "name_en": "Damage up (spear)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21008
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "弓を装備時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when equipped",
+    "flavor_text_en_src": "ml",
+    "id": 803040607,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(弓)",
+    "name_en": "Damage up (bow)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21009
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "杖を装備時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when equipped with a cane",
+    "flavor_text_en_src": "ml",
+    "id": 803040608,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(杖)",
+    "name_en": "Damage Up (Cane)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21010
     ]
   },
   {
@@ -48548,6 +48943,27 @@
     "target_area": 1,
     "text_color": "FFFFFF",
     "text_pop": "反撃態勢",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140100160",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 809040671,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(大)",
+    "name_en": "Moral Up (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
     ]
   },
