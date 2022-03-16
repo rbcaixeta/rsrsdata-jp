@@ -6532,6 +6532,130 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身に行動順補正上昇(大)を付与する( 効果1ターン )<br>さらに、自身に「モラルアップ(中)」を付与する( 効果1ターン )<br><br>バトル開始から数えて偶数ターン目の開始時<br>自身に「ガードアップ(大)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of the odd-numbered turn counted from the start of the battle, <br>gives itself an Order of Action Correction Increase (Large) (effect for 1 turn)<br>, and also gives self “Moral Up (Medium)” (effect for 1 turn) <br><br>At the start of the even-numbered turn counted from the start of battle, <br>give self “Large Guard Up” (Effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101173,
+    "name": "奇偶攻守",
+    "name_en": "Odd Attack Defense",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041092,
+      802041093
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身に行動順補正上昇(大)を付与する( 効果1ターン )<br>さらに、自身に「モラルアップ(中)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of the odd-numbered turn counted from the start of the battle, <br>gives itself an Order of Action Correction Increase (Large) (effect for 1 turn)<br>, and also gives self “Moral Up (Medium)” (effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101174,
+    "name": "奇数ターン開始時 行動順補正上昇・モラルアップ",
+    "name_en": "At the start of an odd turn, action order correction rise/moral up",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041094,
+      802040979
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時<br>自身に「ガードアップ(大)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of the even-numbered turn counted from the start of battle, <br>give self “Large Guard Up” (Effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101175,
+    "name": "偶数ターン開始時 ガードアップ",
+    "name_en": "Guard up at the start of even-numbered turns",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041095
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、自身の器用さと知力を上昇させる( 効果中 )<br>OD攻撃命中時、対象の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力アップ状態を解除する",
+    "flavor_text_en": "Increases your own dexterity and intelligence when attacking (active) <br>When hitting an OD attack, unlocks the ability of the target's strength, health, dexterity, quickness, intelligence, spirit, love, and charm",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101176,
+    "name": "ハリキリ激浄Ⅱ(器用さ・知力)",
+    "name_en": "Harikiri Geki Purification II (Dexterity, Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041096,
+      802041097
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身の器用さと知力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases dexterity and intelligence when hit (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101177,
+    "name": "攻撃時 器用さ・知力上昇",
+    "name_en": "Increased dexterity and intelligence during attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010082,
+      802010088
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃命中時、対象の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力アップ状態を解除する",
+    "flavor_text_en": "Unlock the ability of the target's strength, health, dexterity, quickness, intelligence, spirit, love, and charm when hit by an OD attack",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101178,
+    "name": "OD攻撃時 能力アップ状態解除",
+    "name_en": "Unlocked ability up state during OD attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041098
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、敵の攻撃を回避する( 確率中 )<br>ターン終了時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Evade an enemy attack when attacked (Chances are) <br>At the end of turn, heal your BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4006,
+    "id": 702101186,
+    "name": "回避練気Ⅰ",
+    "name_en": "Avoidance Neriki I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040311,
+      802040902
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "[ラウンド開始時] <br>自身のHPを回復する( 確率中/効果大 )",
     "flavor_text_en": "[Start of round]<br>Recovers own HP (medium chance/large effect).",

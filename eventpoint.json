@@ -2327,6 +2327,19 @@
     "sort_order": 22031145
   },
   {
+    "expired_at": 1649962799,
+    "flavor_text": "特定のウルトラデラックスガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by running certain Ultra Deluxe Gacha. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800181,
+    "id": 800181,
+    "max_quantity": 99999999,
+    "name": "ウルトラデラックスガチャメダル・31",
+    "name_en": "Ultra Deluxe Gacha Medal 31",
+    "name_en_src": "ml",
+    "sort_order": 22031750
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Summon Tickets and other items.",
@@ -7941,5 +7954,44 @@
     "name_en": "Melody stamp",
     "name_en_src": "ml",
     "sort_order": 22031140
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100664,
+    "id": 1100666,
+    "max_quantity": 99999999,
+    "name": "獣の毛皮",
+    "name_en": "Beast fur",
+    "name_en_src": "ml",
+    "sort_order": 22031725
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100665,
+    "id": 1100667,
+    "max_quantity": 99999999,
+    "name": "ライトストーン",
+    "name_en": "Light stone",
+    "name_en_src": "ml",
+    "sort_order": 22031726
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100670,
+    "id": 1100670,
+    "max_quantity": 99999999,
+    "name": "緑の秘石",
+    "name_en": "The secret stone of green",
+    "name_en_src": "ml",
+    "sort_order": 22031731
   }
 ]

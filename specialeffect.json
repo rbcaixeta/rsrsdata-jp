@@ -10216,6 +10216,28 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041053,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heats up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "140500238",
     "flavor_text": "敵から受けるダメージが低下する(重複不可)",
     "flavor_text_en": "Damage received from enemies is reduced (cannot be duplicated)",
@@ -26739,6 +26761,27 @@
     ]
   },
   {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802040979,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(中)",
+    "name_en": "Moral Up (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "銃装備時のWeak攻撃のダメージが上昇する",
@@ -28403,6 +28446,188 @@
     "target_area": 3,
     "text_color": "FFFFFF",
     "text_pop": "ODゲージ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身に行動順補正上昇(大)を付与する( 効果1ターン )<br>さらに、自身に「モラルアップ(中)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of the odd-numbered turn counted from the start of the battle, <br>gives itself an Order of Action Correction Increase (Large) (effect for 1 turn)<br>, and also gives self “Moral Up (Medium)” (effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802041092,
+    "ignition_effect_id": "",
+    "name": "奇数ターン開始時 行動順補正上昇・モラルアップ",
+    "name_en": "At the start of an odd turn, action order correction rise/moral up",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101174
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時<br>自身に「ガードアップ(大)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of the even-numbered turn counted from the start of battle, <br>give self “Large Guard Up” (Effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802041093,
+    "ignition_effect_id": "",
+    "name": "偶数ターン開始時 ガードアップ",
+    "name_en": "Guard up at the start of even-numbered turns",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101175
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "行動順補正値が上昇する( 効果大 )",
+    "flavor_text_en": "Action order correction value increases (effect is large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041094,
+    "ignition_effect_id": "",
+    "name": "行動順補正上昇(大)",
+    "name_en": "Action Order Correction Increase (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040109,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "行動順補正↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage received from enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041095,
+    "ignition_effect_id": "",
+    "name": "ガードアップ(大)",
+    "name_en": "Guard Up (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040099,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、自身の器用さと知力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases dexterity and intelligence when hit (active)",
+    "flavor_text_en_src": "ml",
+    "id": 802041096,
+    "ignition_effect_id": "",
+    "name": "攻撃時 器用さ・知力上昇",
+    "name_en": "Increased dexterity and intelligence during attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101177
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃命中時、対象の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力アップ状態を解除する",
+    "flavor_text_en": "Unlock the ability of the target's strength, health, dexterity, quickness, intelligence, spirit, love, and charm when hit by an OD attack",
+    "flavor_text_en_src": "ml",
+    "id": 802041097,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 能力アップ状態解除",
+    "name_en": "Unlocked ability up state during OD attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101178
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力アップ状態を解除する",
+    "flavor_text_en": "Unlock the ability improvement status of Brawn, Physical Strength, Dexterity, Quickness, Intelligence, Spirit, Love, and Charm",
+    "flavor_text_en_src": "ml",
+    "id": 802041098,
+    "ignition_effect_id": "",
+    "name": "能力アップ状態解除",
+    "name_en": "Ability up status canceled",
+    "name_en_src": "ml",
+    "state_change_id": 900050104,
+    "state_icon": 2002,
+    "state_vars": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "能力アップ解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041099,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(中)",
+    "name_en": "Moral Up (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
     ]
   },
