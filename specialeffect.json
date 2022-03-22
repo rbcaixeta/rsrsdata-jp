@@ -10261,6 +10261,49 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "145100007",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041055,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(小)",
+    "name_en": "Moral up (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "FFFFFF",
+    "text_pop": "魂の歌",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "At the end of the turn, heal your own HP (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "id": 801041056,
+    "ignition_effect_id": "",
+    "name": "ターン終了時HP回復(極小)",
+    "name_en": "HP recovery at end of turn (minimum)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101063
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "敵から受けるダメージが低下する(重複不可)",
     "flavor_text_en": "Damage received from enemies is reduced (cannot be duplicated)",
@@ -28628,6 +28671,28 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃を回避して、マルチウェイ+でカウンター攻撃を行う( 確率中 )",
+    "flavor_text_en": "Counter attack with MultiWay+ while avoiding direct enemy attacks (chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041100,
+    "ignition_effect_id": "",
+    "name": "マルチウェイ反撃+",
+    "name_en": "Multiway Counterattack +",
+    "name_en_src": "ml",
+    "state_change_id": 900040036,
+    "state_icon": 3001,
+    "state_vars": [
+      110100223
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },

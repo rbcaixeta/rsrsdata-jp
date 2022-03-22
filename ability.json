@@ -6642,6 +6642,23 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃を回避して、マルチウェイ+でカウンター攻撃する( 確率中 )<br><br>反撃技：マルチウェイ+<br>剣技/攻撃/威力SSS/直接/敵単体 ( 斬 ) <br>攻撃する( 技Rank1で発動 )",
+    "flavor_text_en": "When attacked<br>, avoid direct attacks and counter attack with Multiway+ (probability) <br><br>Counterattack: Multiway+ <br>Sword/Attack/Power SSS/Direct/Enemy alone ( ) <br>Attack (Activated with skill Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101179,
+    "name": "マルチウェイ反撃+",
+    "name_en": "Multiway Counterattack +",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041100
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "攻撃を受けた時、敵の攻撃を回避する( 確率中 )<br>ターン終了時、自身のBPを回復する( +1 )",
     "flavor_text_en": "Evade an enemy attack when attacked (Chances are) <br>At the end of turn, heal your BP (+1)",
     "flavor_text_en_src": "ml",
@@ -6656,6 +6673,23 @@
     "special_effect_ids": [
       802040311,
       802040902
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身のBPを回復( +3 )する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "[On Turn Start] <br>Restore your BP (+3) (Maximum number of times: 3 times in battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101192,
+    "name": "みなぎるエナジー",
+    "name_en": "Minagiru Energy",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040755
     ]
   },
   {
