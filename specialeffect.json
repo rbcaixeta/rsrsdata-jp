@@ -10373,6 +10373,73 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "140200154",
+    "flavor_text": "術攻撃を受けた時、敵から受ける被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage received from enemies when subjected to a jutsu attack (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041062,
+    "ignition_effect_id": "",
+    "name": "防御態勢(術/特大)",
+    "name_en": "Defense posture (jutsu/oversized)",
+    "name_en_src": "ml",
+    "state_change_id": 900040189,
+    "state_icon": 3001,
+    "state_vars": [
+      50
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "防御態勢",
+    "triggering_effect_condition_ids": [
+      45001
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140200156",
+    "flavor_text": "術攻撃を受けた時、敵から受ける被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage received from enemies when subjected to a jutsu attack (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041063,
+    "ignition_effect_id": "",
+    "name": "防御態勢(術/大)",
+    "name_en": "Defense Posture (Jutsu/Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040190,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "防御態勢",
+    "triggering_effect_condition_ids": [
+      45001
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "145100082",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041078,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(小)",
+    "name_en": "Moral up (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "腕力が上昇する",
     "flavor_text_en": "Increases STR.",
@@ -15061,6 +15128,28 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "SelfHarm",
+    "flavor_text": "自身の最大HPの20%を消費する",
+    "flavor_text_en": "Consumes 20% of your own maximum HP",
+    "flavor_text_en_src": "ml",
+    "id": 802011106,
+    "ignition_effect_id": "",
+    "name": "代償ダメージ(最大HP20%)",
+    "name_en": "Compensatory damage (max HP 20%)",
+    "name_en_src": "ml",
+    "state_change_id": 900050079,
+    "state_icon": 2002,
+    "state_vars": [
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "毒耐性が上昇する",
     "flavor_text_en": "Increases Poison Resistance.",
@@ -17506,6 +17595,27 @@
     "target_area": 8,
     "text_color": "FFFFFF",
     "text_pop": "石化",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "毎ターン毒によるダメージを受ける",
+    "flavor_text_en": "Take damage from poison every turn",
+    "flavor_text_en_src": "ml",
+    "id": 802031113,
+    "ignition_effect_id": "",
+    "name": "毒",
+    "name_en": "poisons",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "毒",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -28693,6 +28803,158 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "ODゲージが上昇する",
+    "flavor_text_en": "The OD gauge rises",
+    "flavor_text_en_src": "ml",
+    "id": 802041101,
+    "ignition_effect_id": "",
+    "name": "ODゲージアップ",
+    "name_en": "OD gauge up",
+    "name_en_src": "ml",
+    "state_change_id": 900050156,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ODゲージ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身に「ヒートアップ」を付与する( 効果中 )",
+    "flavor_text_en": "Grants self “Heat Up” at the start of the odd-numbered turn counting from the start of battle (active)",
+    "flavor_text_en_src": "ml",
+    "id": 802041103,
+    "ignition_effect_id": "",
+    "name": "奇数ターン開始時 ヒートアップ",
+    "name_en": "Heats up at the start of odd turns",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101184
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ディフェンスアップ」を付与する( 効果中 )",
+    "flavor_text_en": "At the start of the even-numbered turn counting from the start of the battle, give self “Defense Up” (active)",
+    "flavor_text_en_src": "ml",
+    "id": 802041104,
+    "ignition_effect_id": "",
+    "name": "偶数ターン開始時 ディフェンスアップ",
+    "name_en": "Defense up at the start of even turns",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101185
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、自身に「ヒートアップ」を付与する( 効果大 )",
+    "flavor_text_en": "Grants self “Heat Up” at the start of a turn (high effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041112,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 ヒートアップ",
+    "name_en": "Heats up at start of turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101196
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 802041116,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heats up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、自身に毒状態を付与する",
+    "flavor_text_en": "Grants poison status to self at the start of a turn",
+    "flavor_text_en_src": "ml",
+    "id": 802041119,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 毒状態付与",
+    "name_en": "Grants poison status at start of turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101203
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041157,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(中)",
+    "name_en": "Moral Up (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃 知力↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -40243,6 +40505,132 @@
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Increases strength",
+    "flavor_text_en_src": "ml",
+    "id": 808010439,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increases strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力 素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Quickness increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010440,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Improve quickness",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Increases dexterity",
+    "flavor_text_en_src": "ml",
+    "id": 808010441,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "器用さ 知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intelligence increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010442,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "腕力が低下する",
+    "flavor_text_en": "Strength decreases",
+    "flavor_text_en_src": "ml",
+    "id": 808010443,
+    "ignition_effect_id": "",
+    "name": "腕力ダウン",
+    "name_en": "Strength down",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "腕力 器用さ↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが低下する",
+    "flavor_text_en": "Dexterity decreases",
+    "flavor_text_en_src": "ml",
+    "id": 808010444,
+    "ignition_effect_id": "",
+    "name": "器用さダウン",
+    "name_en": "Dexterity down",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
     "flavor_text_en": "Increases arm strength",
     "flavor_text_en_src": "ml",
     "id": 808010445,
@@ -42339,6 +42727,27 @@
     "text_pop": "",
     "triggering_effect_condition_ids": [
       4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "攻撃の命中率が上昇する",
+    "flavor_text_en": "Increases the hit rate of attacks",
+    "flavor_text_en_src": "ml",
+    "id": 808040437,
+    "ignition_effect_id": "",
+    "name": "攻撃命中アップ",
+    "name_en": "Attack hit up",
+    "name_en_src": "ml",
+    "state_change_id": 900040056,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "命中↑",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -44739,6 +45148,48 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intelligence increases",
+    "flavor_text_en_src": "ml",
+    "id": 809010659,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "知力 精神↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 809010661,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Upgrade your spirit",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Debuff",
     "flavor_text": "腕力が低下する",
     "flavor_text_en": "Your arm strength decreases",
@@ -44755,6 +45206,48 @@
     "target_area": 8,
     "text_color": "FF0000",
     "text_pop": "腕力↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intelligence increases",
+    "flavor_text_en_src": "ml",
+    "id": 809010672,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "知力 精神↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 809010673,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Upgrade your spirit",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -45914,6 +46407,27 @@
     "target_area": 8,
     "text_color": "FFFFFF",
     "text_pop": "魅了",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "行動不能になる<br>ターン経過で自然回復する",
+    "flavor_text_en": "Become unable to act, <br>heal spontaneously with the passage of turns",
+    "flavor_text_en_src": "ml",
+    "id": 809030660,
+    "ignition_effect_id": "",
+    "name": "石化",
+    "name_en": "petrified",
+    "name_en_src": "ml",
+    "state_change_id": 900030006,
+    "state_icon": 1036,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FFFFFF",
+    "text_pop": "石化",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -48618,6 +49132,106 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon monsters",
+    "flavor_text_en_src": "ml",
+    "id": 809040528,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      2,
+      2314,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon monsters",
+    "flavor_text_en_src": "ml",
+    "id": 809040529,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      4,
+      2,
+      2314,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon monsters",
+    "flavor_text_en_src": "ml",
+    "id": 809040530,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      2,
+      3327,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon monsters",
+    "flavor_text_en_src": "ml",
+    "id": 809040531,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      3,
+      2,
+      3327,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "敵に与えるダメージが上昇する",
     "flavor_text_en": "Increases damage dealt to enemies",
@@ -49058,6 +49672,28 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "知力のアップ状態を解除する",
+    "flavor_text_en": "Unlock the intelligence up state",
+    "flavor_text_en_src": "ml",
+    "id": 809040658,
+    "ignition_effect_id": "",
+    "name": "知力アップ状態解除",
+    "name_en": "Intelligence up state canceled",
+    "name_en_src": "ml",
+    "state_change_id": 900050104,
+    "state_icon": 2002,
+    "state_vars": [
+      5
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "敵の直接攻撃に対して、荒獅子でカウンター攻撃を行う<br>さらに被ダメージが低下する",
@@ -49254,6 +49890,51 @@
     "target_area": 3,
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵から受ける被ダメージが低下する",
+    "flavor_text_en": "Reduces damage received from enemies",
+    "flavor_text_en_src": "ml",
+    "id": 809040674,
+    "ignition_effect_id": "",
+    "name": "防御強化(超極大)",
+    "name_en": "Defense Strengthening (Super Maximum)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      30
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "素早さのアップ状態を解除する",
+    "flavor_text_en": "Unlock the quickness up state",
+    "flavor_text_en_src": "ml",
+    "id": 809040676,
+    "ignition_effect_id": "",
+    "name": "素早さアップ状態解除",
+    "name_en": "Quickness up state is canceled",
+    "name_en_src": "ml",
+    "state_change_id": 900050104,
+    "state_icon": 2002,
+    "state_vars": [
+      4
+    ],
+    "target_area": 10,
+    "text_color": "FF0000",
+    "text_pop": "強化解除",
     "triggering_effect_condition_ids": [
     ]
   },

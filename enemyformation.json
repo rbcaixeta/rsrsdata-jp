@@ -4536,6 +4536,118 @@
     ]
   },
   {
+    "id": 109040047,
+    "name": "4体陣形_(小4)縦1",
+    "name_en": "4 body formation _ (small 4) vertical 1",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 28,
+        "y": 0
+      },
+      {
+        "line": 0,
+        "x": 25,
+        "y": 15
+      },
+      {
+        "line": 0,
+        "x": 28,
+        "y": 30
+      },
+      {
+        "line": 0,
+        "x": 25,
+        "y": 45
+      }
+    ]
+  },
+  {
+    "id": 109040049,
+    "name": "4体陣形_(中2小2)縦1",
+    "name_en": "4 body formation _ (medium 2 small 2) vertical 1",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 28,
+        "y": 17
+      },
+      {
+        "line": 0,
+        "x": 28,
+        "y": 27
+      },
+      {
+        "line": 0,
+        "x": 25,
+        "y": 0
+      },
+      {
+        "line": 0,
+        "x": 25,
+        "y": 45
+      }
+    ]
+  },
+  {
+    "id": 109040050,
+    "name": "4体陣形_(小4)横1",
+    "name_en": "4 body formation _ (small 4) horizontal 1",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 48,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 29,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 10,
+        "y": 19
+      },
+      {
+        "line": 0,
+        "x": 10,
+        "y": 31
+      }
+    ]
+  },
+  {
+    "id": 109040051,
+    "name": "4体陣形_(中2小2)横1",
+    "name_en": "4 body formation _ (medium 2 small 2) horizontal 1",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 48,
+        "y": 27
+      },
+      {
+        "line": 0,
+        "x": 30,
+        "y": 20
+      },
+      {
+        "line": 0,
+        "x": 23,
+        "y": 30
+      },
+      {
+        "line": 0,
+        "x": 5,
+        "y": 23
+      }
+    ]
+  },
+  {
     "id": 109050001,
     "name": "5体陣形_1",
     "name_en": "5 Member Formation_1",
@@ -6281,6 +6393,72 @@
         "line": 0,
         "x": 2,
         "y": 28
+      }
+    ]
+  },
+  {
+    "id": 109050057,
+    "name": "5体陣形_(中3小2)横",
+    "name_en": "5 body formation _ (medium 3 small 2) horizontal",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 48,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 35,
+        "y": 18
+      },
+      {
+        "line": 0,
+        "x": 22,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 35,
+        "y": 32
+      },
+      {
+        "line": 0,
+        "x": 7,
+        "y": 25
+      }
+    ]
+  },
+  {
+    "id": 109050058,
+    "name": "5体陣形_(小5)横2",
+    "name_en": "5 body formation _ (small 5) horizontal 2",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 48,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 36,
+        "y": 20
+      },
+      {
+        "line": 0,
+        "x": 24,
+        "y": 30
+      },
+      {
+        "line": 0,
+        "x": 18,
+        "y": 20
+      },
+      {
+        "line": 0,
+        "x": 6,
+        "y": 30
       }
     ]
   },

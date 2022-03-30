@@ -7021,6 +7021,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[運命の刻が来た]ギュスターヴ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [The Time of Fate Has Arrived] A piece dedicated to Gustave. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 320110,
+    "id": 320110,
+    "name": "SSギュスターヴのピース",
+    "name_en": "Pieces by SS Gustave",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[若き日のタイクーン]ウィル専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Tycoon in His Youth] Wil. ",
     "flavor_text_en_src": "gl",
@@ -7136,6 +7148,18 @@
     "id": 320304,
     "name": "SSリッチのピース",
     "name_en": "SS Rich Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[外には行かせないぞ]リッチ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I won't let you go outside] A piece dedicated to Rich. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 320305,
+    "id": 320305,
+    "name": "SSリッチのピース",
+    "name_en": "SS Rich's Piece",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -7352,6 +7376,18 @@
     "id": 321604,
     "name": "SSヨハンのピース",
     "name_en": "Pieces of SS Johan",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[もう少しだけ待て]ヨハン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [wait a little longer] A piece dedicated to Johan. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 321605,
+    "id": 321605,
+    "name": "SSヨハンのピース",
+    "name_en": "SS Johan's piece",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -7642,6 +7678,30 @@
     "name_en": "SS Gustaf Piece",
     "name_en_src": "gl",
     "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[エッグを取りなさい]ミスティ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Take the Egg] A piece dedicated to Misty. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 323601,
+    "id": 323601,
+    "name": "SSミスティのピース",
+    "name_en": "SS Misty's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[ウィルは殺すよ]ミスティ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [Will Will Kill] A piece dedicated to Misty. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 323602,
+    "id": 323602,
+    "name": "Sミスティのピース",
+    "name_en": "S Misty's Piece",
+    "name_en_src": "ml",
+    "selling_price": 60
   },
   {
     "exchange_cost": 50,

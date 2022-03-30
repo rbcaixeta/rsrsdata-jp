@@ -6658,6 +6658,96 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のHPを回復する( 効果極小 )<br>自身のBPを回復する( +1 )<br>自身のODゲージを上昇させる( 効果小 )",
+    "flavor_text_en": "[At End of Turn] <br>Restore own HP (Minimum Effect) <br>Restore own BP (+1) <br>Increase own OD Gauge (Effect Small)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101181,
+    "name": "エッグの記憶",
+    "name_en": "Egg's Memory",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040812,
+      802040901,
+      802041101
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「モラルアップ(中)」を付与する( 効果1ターン )<br>自身の知力を上昇させる( 効果中 )",
+    "flavor_text_en": "[On Turn Start] <br>Give self “Moral Up (Medium)” (Effect 1 turn) <br>Increases Own Intelligence (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101182,
+    "name": "破竹の活性Ⅱ(知力)",
+    "name_en": "Activity of Hatchiku II (Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041157,
+      802010510
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br><br>バトル開始から数えて奇数ターン目の開始時、自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )<br>バトル開始から数えて偶数ターン目の開始時、自身に「ディフェンスアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
+    "flavor_text_en": "Increases damage dealt by attacks (High Effect) <br><br>At the start of the odd-numbered turn counting from the start of battle, give self “Heat Up” (active) (max.: 5 times during battle) <br>At the start of the even-numbered turn counted from the start of the battle, grants a “Defense Up” (active) (maximum number of times: 5 times during battle) <br><br>Heat-Up <br>Attack Increases Damage (Permanent During Effect Battle) <br><br>Defense Up <br>Reduces Damage Taken (Effect Permanent During Battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101183,
+    "name": "黒きアニマ",
+    "name_en": "Black anima",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802041103,
+      802041104
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "At the start of the odd-numbered turn counting from the start of battle, give self “Heat Up” (active) (up to 5 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101184,
+    "name": "奇数ターン開始時 ヒートアップ",
+    "name_en": "Heats up at the start of odd turns",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040934
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ディフェンスアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "At the start of the even-numbered turn counted from the start of the battle, give the player “Defense Up” (active) (up to 5 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101185,
+    "name": "偶数ターン開始時 ディフェンスアップ",
+    "name_en": "Defense up at the start of even turns",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041036
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "攻撃を受けた時、敵の攻撃を回避する( 確率中 )<br>ターン終了時、自身のBPを回復する( +1 )",
     "flavor_text_en": "Evade an enemy attack when attacked (Chances are) <br>At the end of turn, heal your BP (+1)",
@@ -6676,6 +6766,24 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身に「ヒートアップ」( 効果大 )を付与する( 上限回数:バトル中5回 )<br>自身を毒状態にする( 効果4ターン )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "[<br>On Turn Start] Grants self “Heat Up” (High Effect) (Maximum Number of Times: 5 Times During Battle) <br>Poisoned (Effect 4 Turns) <br><br>Heat Up <br>Increases damage dealt by attacks (perpetual during effect battles)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101187,
+    "name": "サソリの毒",
+    "name_en": "Poison for scorpions",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041112,
+      802041119
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身のBPを回復( +3 )する( 上限回数:バトル中3回 )",
     "flavor_text_en": "[On Turn Start] <br>Restore your BP (+3) (Maximum number of times: 3 times in battle)",
@@ -6690,6 +6798,40 @@
     "sort_order": 0,
     "special_effect_ids": [
       802040755
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「ヒートアップ」( 効果大 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "[At Turn Start] <br>Give self “Heat Up” (High Effect) (Maximum Number of Times: 5 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101196,
+    "name": "ターン開始時 ヒートアップ",
+    "name_en": "Heats up at start of turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041116
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身を毒状態にする( 効果4ターン )",
+    "flavor_text_en": "[Turn Start] <br>Poisonous (Effect for 4 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 3001,
+    "id": 702101203,
+    "name": "ターン開始時 毒状態付与",
+    "name_en": "Grants poison status at start of turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802031113
     ]
   },
   {
@@ -34736,6 +34878,76 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] 特定ターン毎に、敵全体の素早さを低下( 効果特大 )させる",
+    "flavor_text_en": "[On Turn Start] Decreases the quickness of all enemies (extra effect) for each specific turn",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708300173,
+    "name": "凄惨な威圧(素早さ)",
+    "name_en": "Terrible intimidation (quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010112
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の命中率を上昇させる( 効果特大/効果10ターン )",
+    "flavor_text_en": "[On Turn Start] <br>Increases self accuracy (Extra Large Effect/Effect for 10 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300174,
+    "name": "精細Ⅳ",
+    "name_en": "Definition IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040437
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の腕力を上昇させる( 効果特大 )<br>自身の素早さを上昇させる( 効果中 )",
+    "flavor_text_en": "[On Turn Start] <br>Increases self strength (Extra Large Effect) <br>Increases own Quickness (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300176,
+    "name": "腕速上昇",
+    "name_en": "Arm speed up",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010439,
+      808010440
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の器用さと知力を上昇させる( 効果中 )",
+    "flavor_text_en": "[On Turn Start] <br>Increases dexterity and intelligence (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300177,
+    "name": "器知上昇",
+    "name_en": "Increased dexterity",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010441,
+      808010442
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -35733,6 +35945,24 @@
     "special_effect_ids": [
       808010434,
       808010435
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象の腕力と器用さを低下させる( 効果特大 )",
+    "flavor_text_en": "Reduces target's strength and dexterity when hit (Extra Large Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708600178,
+    "name": "腕器減衰",
+    "name_en": "Arm attenuation",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010443,
+      808010444
     ]
   },
   {

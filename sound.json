@@ -1584,6 +1584,12 @@
     "cueSheetName": "BGM120255"
   },
   {
+    "id": 120256,
+    "cueName": "bgm_120256",
+    "type": "BGM",
+    "cueSheetName": "BGM120256"
+  },
+  {
     "id": 130102,
     "cueName": "bgm_130102",
     "type": "BGM",
@@ -3798,6 +3804,54 @@
     "cueSheetName": "BGM130496"
   },
   {
+    "id": 130498,
+    "cueName": "bgm_130498",
+    "type": "BGM",
+    "cueSheetName": "BGM130498"
+  },
+  {
+    "id": 130502,
+    "cueName": "bgm_130502",
+    "type": "BGM",
+    "cueSheetName": "BGM130502"
+  },
+  {
+    "id": 130503,
+    "cueName": "bgm_130503",
+    "type": "BGM",
+    "cueSheetName": "BGM130503"
+  },
+  {
+    "id": 130504,
+    "cueName": "bgm_130504",
+    "type": "BGM",
+    "cueSheetName": "BGM130504"
+  },
+  {
+    "id": 131000,
+    "cueName": "bgm_130497",
+    "type": "BGM",
+    "cueSheetName": "BGM130497"
+  },
+  {
+    "id": 131002,
+    "cueName": "bgm_130499",
+    "type": "BGM",
+    "cueSheetName": "BGM130499"
+  },
+  {
+    "id": 131003,
+    "cueName": "bgm_130500",
+    "type": "BGM",
+    "cueSheetName": "BGM130500"
+  },
+  {
+    "id": 131004,
+    "cueName": "bgm_130501",
+    "type": "BGM",
+    "cueSheetName": "BGM130501"
+  },
+  {
     "id": 200001,
     "cueName": "se_game_start",
     "type": "SE",
@@ -4786,6 +4840,18 @@
     "cueName": "se_ruled_trial_result_whitenoise",
     "type": "SE",
     "cueSheetName": "SE_RULED_TRIAL"
+  },
+  {
+    "id": 210193,
+    "cueName": "199324_other",
+    "type": "SE",
+    "cueSheetName": "SE199324"
+  },
+  {
+    "id": 210195,
+    "cueName": "199330_other",
+    "type": "SE",
+    "cueSheetName": "SE199330"
   },
   {
     "id": 220001,
@@ -6064,6 +6130,42 @@
     "cueName": "FIRECRACKER",
     "type": "SE",
     "cueSheetName": "SE_FIRECRACKER"
+  },
+  {
+    "id": 230198,
+    "cueName": "EGG_ENC",
+    "type": "SE",
+    "cueSheetName": "SE_EGG_ENC"
+  },
+  {
+    "id": 230199,
+    "cueName": "MISTY_STAB",
+    "type": "SE",
+    "cueSheetName": "SE_MISTY_STAB"
+  },
+  {
+    "id": 230200,
+    "cueName": "EGG_MIST",
+    "type": "SE",
+    "cueSheetName": "SE_EGG_MIST"
+  },
+  {
+    "id": 230202,
+    "cueName": "ANIMA_1",
+    "type": "SE",
+    "cueSheetName": "SE_ANIMA_1"
+  },
+  {
+    "id": 230203,
+    "cueName": "ANIMA_2",
+    "type": "SE",
+    "cueSheetName": "SE_ANIMA_2"
+  },
+  {
+    "id": 230204,
+    "cueName": "EGG_HIT",
+    "type": "SE",
+    "cueSheetName": "SE_EGG_HIT"
   },
   {
     "id": 240002,
@@ -22294,6 +22396,336 @@
     "cueName": "149900189_other",
     "type": "SE",
     "cueSheetName": "SE149900189"
+  },
+  {
+    "id": 242733,
+    "cueName": "149900191_other",
+    "type": "SE",
+    "cueSheetName": "SE149900191"
+  },
+  {
+    "id": 242734,
+    "cueName": "149900191_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900191"
+  },
+  {
+    "id": 242735,
+    "cueName": "149900201_other",
+    "type": "SE",
+    "cueSheetName": "SE149900201"
+  },
+  {
+    "id": 242736,
+    "cueName": "149900201_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900201"
+  },
+  {
+    "id": 242737,
+    "cueName": "149900202_other",
+    "type": "SE",
+    "cueSheetName": "SE149900202"
+  },
+  {
+    "id": 242738,
+    "cueName": "149900202_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900202"
+  },
+  {
+    "id": 242739,
+    "cueName": "140200156_other",
+    "type": "SE",
+    "cueSheetName": "SE140200156"
+  },
+  {
+    "id": 242740,
+    "cueName": "140200156_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140200156"
+  },
+  {
+    "id": 242741,
+    "cueName": "140500239_other",
+    "type": "SE",
+    "cueSheetName": "SE140500239"
+  },
+  {
+    "id": 242742,
+    "cueName": "140500239_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500239"
+  },
+  {
+    "id": 242743,
+    "cueName": "140500244_other",
+    "type": "SE",
+    "cueSheetName": "SE140500244"
+  },
+  {
+    "id": 242744,
+    "cueName": "140500244_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500244"
+  },
+  {
+    "id": 242745,
+    "cueName": "145100082_other",
+    "type": "SE",
+    "cueSheetName": "SE145100082"
+  },
+  {
+    "id": 242746,
+    "cueName": "145100082_hit1",
+    "type": "SE",
+    "cueSheetName": "SE145100082"
+  },
+  {
+    "id": 242747,
+    "cueName": "140200154_other",
+    "type": "SE",
+    "cueSheetName": "SE140200154"
+  },
+  {
+    "id": 242748,
+    "cueName": "140200154_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140200154"
+  },
+  {
+    "id": 242749,
+    "cueName": "140500241_other",
+    "type": "SE",
+    "cueSheetName": "SE140500241"
+  },
+  {
+    "id": 242750,
+    "cueName": "140500241_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500241"
+  },
+  {
+    "id": 242751,
+    "cueName": "140500243_other",
+    "type": "SE",
+    "cueSheetName": "SE140500243"
+  },
+  {
+    "id": 242752,
+    "cueName": "140500243_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500243"
+  },
+  {
+    "id": 242753,
+    "cueName": "140200155_other",
+    "type": "SE",
+    "cueSheetName": "SE140200155"
+  },
+  {
+    "id": 242754,
+    "cueName": "140200155_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140200155"
+  },
+  {
+    "id": 242755,
+    "cueName": "140500245_other",
+    "type": "SE",
+    "cueSheetName": "SE140500245"
+  },
+  {
+    "id": 242756,
+    "cueName": "140500245_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500245"
+  },
+  {
+    "id": 242757,
+    "cueName": "149900190_other",
+    "type": "SE",
+    "cueSheetName": "SE149900190"
+  },
+  {
+    "id": 242758,
+    "cueName": "149900190_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900190"
+  },
+  {
+    "id": 242759,
+    "cueName": "149900200_other",
+    "type": "SE",
+    "cueSheetName": "SE149900200"
+  },
+  {
+    "id": 242760,
+    "cueName": "149900200_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900200"
+  },
+  {
+    "id": 242761,
+    "cueName": "149900211_other",
+    "type": "SE",
+    "cueSheetName": "SE149900211"
+  },
+  {
+    "id": 242762,
+    "cueName": "149900211_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900211"
+  },
+  {
+    "id": 242763,
+    "cueName": "140500242_other",
+    "type": "SE",
+    "cueSheetName": "SE140500242"
+  },
+  {
+    "id": 242764,
+    "cueName": "140500242_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500242"
+  },
+  {
+    "id": 242765,
+    "cueName": "149900193_other",
+    "type": "SE",
+    "cueSheetName": "SE149900193"
+  },
+  {
+    "id": 242766,
+    "cueName": "149900193_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900193"
+  },
+  {
+    "id": 242767,
+    "cueName": "149900195_other",
+    "type": "SE",
+    "cueSheetName": "SE149900195"
+  },
+  {
+    "id": 242768,
+    "cueName": "149900195_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900195"
+  },
+  {
+    "id": 242769,
+    "cueName": "149900197_other",
+    "type": "SE",
+    "cueSheetName": "SE149900197"
+  },
+  {
+    "id": 242770,
+    "cueName": "149900198_other",
+    "type": "SE",
+    "cueSheetName": "SE149900198"
+  },
+  {
+    "id": 242771,
+    "cueName": "149900198_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900198"
+  },
+  {
+    "id": 242772,
+    "cueName": "149900199_other",
+    "type": "SE",
+    "cueSheetName": "SE149900199"
+  },
+  {
+    "id": 242773,
+    "cueName": "149900199_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900199"
+  },
+  {
+    "id": 242774,
+    "cueName": "140500240_other",
+    "type": "SE",
+    "cueSheetName": "SE140500240"
+  },
+  {
+    "id": 242775,
+    "cueName": "140500240_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500240"
+  },
+  {
+    "id": 242776,
+    "cueName": "199324_other",
+    "type": "SE",
+    "cueSheetName": "SE199324"
+  },
+  {
+    "id": 242777,
+    "cueName": "199330_other",
+    "type": "SE",
+    "cueSheetName": "SE199330"
+  },
+  {
+    "id": 242796,
+    "cueName": "149900188_other",
+    "type": "SE",
+    "cueSheetName": "SE149900188"
+  },
+  {
+    "id": 242797,
+    "cueName": "149900188_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900188"
+  },
+  {
+    "id": 242798,
+    "cueName": "140500245_other",
+    "type": "SE",
+    "cueSheetName": "SE140500245"
+  },
+  {
+    "id": 242799,
+    "cueName": "140500245_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500245"
+  },
+  {
+    "id": 242800,
+    "cueName": "149900209_other",
+    "type": "SE",
+    "cueSheetName": "SE149900209"
+  },
+  {
+    "id": 242801,
+    "cueName": "149900209_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900209"
+  },
+  {
+    "id": 242802,
+    "cueName": "140500239_other",
+    "type": "SE",
+    "cueSheetName": "SE140500239"
+  },
+  {
+    "id": 242803,
+    "cueName": "140500239_hit1",
+    "type": "SE",
+    "cueSheetName": "SE140500239"
+  },
+  {
+    "id": 242804,
+    "cueName": "149900210_other",
+    "type": "SE",
+    "cueSheetName": "SE149900210"
+  },
+  {
+    "id": 242805,
+    "cueName": "149900210_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900210"
   },
   {
     "id": 510001,

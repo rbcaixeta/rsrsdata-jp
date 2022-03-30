@@ -6271,6 +6271,57 @@
   {
     "enemy_class": 6,
     "gender": 9,
+    "id": 106051,
+    "illust": 1060511,
+    "name": "メガリスワーム",
+    "name_en": "Megalith worm",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106052,
+    "illust": 1060521,
+    "name": "リーディング",
+    "name_en": "Leading",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106053,
+    "illust": 1060531,
+    "name": "ハンターアント",
+    "name_en": "Hunter Ant",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
     "id": 106054,
     "illust": 1060541,
     "name": "ワーカーアント",
@@ -6323,6 +6374,22 @@
     "illust": 1060581,
     "name": "レイバーアント",
     "name_en": "Labor Ant",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106059,
+    "illust": 1060591,
+    "name": "デビルスパイダー",
+    "name_en": "Devil Spider",
     "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 0,
     "pc_flag": 0,
@@ -16423,6 +16490,22 @@
   {
     "enemy_class": 99,
     "gender": 9,
+    "id": 199209,
+    "illust": 1992091,
+    "name": "獣の将魔",
+    "name_en": "The Beast Shogun",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
     "id": 199211,
     "illust": 1992111,
     "name": "ナイトハルト",
@@ -17243,6 +17326,54 @@
   },
   {
     "enemy_class": 99,
+    "gender": 9,
+    "id": 199279,
+    "illust": 1992791,
+    "name": "石の将魔",
+    "name_en": "The Stone Shouma",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      83
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199280,
+    "illust": 1992801,
+    "name": "樹の将魔",
+    "name_en": "Tree Shouma",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      6
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199281,
+    "illust": 1992811,
+    "name": "音の将魔",
+    "name_en": "Sound Shouma",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
     "gender": 2,
     "id": 199283,
     "illust": 1992831,
@@ -17849,6 +17980,166 @@
     "rank": 1,
     "species": [
       18
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199321,
+    "illust": 1993211,
+    "name": "エッグ",
+    "name_en": "Egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199322,
+    "illust": 1993211,
+    "name": "エッグ",
+    "name_en": "Egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199323,
+    "illust": 1993211,
+    "name": "エッグ",
+    "name_en": "Egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199324,
+    "illust": 1993211,
+    "name": "エッグ",
+    "name_en": "Egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199325,
+    "illust": 1993251,
+    "name": "エッグ",
+    "name_en": "Egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199326,
+    "illust": 1993261,
+    "name": "エッグ",
+    "name_en": "Egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199327,
+    "illust": 1993211,
+    "name": "エッグ",
+    "name_en": "Egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      83
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199328,
+    "illust": 1993211,
+    "name": "エッグ",
+    "name_en": "Egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      6
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199329,
+    "illust": 1993291,
+    "name": "エッグ",
+    "name_en": "Egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199330,
+    "illust": 1993301,
+    "name": "エッグ",
+    "name_en": "Egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
     ],
     "sprite_studio": 1
   },

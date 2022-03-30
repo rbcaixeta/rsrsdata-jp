@@ -2353,6 +2353,19 @@
     "sort_order": 22032350
   },
   {
+    "expired_at": 1652036399,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Romancing Festival. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800183,
+    "id": 800183,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・49",
+    "name_en": "Romancing Festival Medal 49",
+    "name_en_src": "ml",
+    "sort_order": 22033050
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Summon Tickets and other items.",
@@ -7967,6 +7980,32 @@
     "name_en": "Melody stamp",
     "name_en_src": "ml",
     "sort_order": 22031140
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100668,
+    "id": 1100664,
+    "max_quantity": 99999999,
+    "name": "石のツノ",
+    "name_en": "Stone horns",
+    "name_en_src": "ml",
+    "sort_order": 22033005
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100669,
+    "id": 1100665,
+    "max_quantity": 99999999,
+    "name": "レッドシェル",
+    "name_en": "Red shell",
+    "name_en_src": "ml",
+    "sort_order": 22033010
   },
   {
     "expired_at": 0,

@@ -46917,6 +46917,17 @@
     ]
   },
   {
+    "id": 5469,
+    "ribbon": "SSリッチのピースドロップ中！",
+    "campaign_type": 9,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21009744
+    ]
+  },
+  {
     "id": 5470,
     "ribbon": "探検マップドロップ中！",
     "campaign_type": 5,
@@ -46936,6 +46947,54 @@
     "reward_id": 0,
     "drop_group_ids": [
       21009745
+    ]
+  },
+  {
+    "id": 5472,
+    "ribbon": "石のツノ・レッドシェルドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21009624,
+      21009664
+    ]
+  },
+  {
+    "id": 5473,
+    "ribbon": "石のツノ・レッドシェルドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21009634,
+      21009674
+    ]
+  },
+  {
+    "id": 5474,
+    "ribbon": "石のツノ・レッドシェルドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21009644,
+      21009684
+    ]
+  },
+  {
+    "id": 5475,
+    "ribbon": "石のツノ・レッドシェルドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21009654,
+      21009694
     ]
   },
   {
@@ -47124,5 +47183,32 @@
     "drop_group_ids": [
       21008953
     ]
+  },
+  {
+    "id": 5602,
+    "ribbon": "スタイル強化EXP5倍ｷｬﾝﾍﾟｰﾝ中!",
+    "campaign_type": 8,
+    "rate": 5,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": []
+  },
+  {
+    "id": 5603,
+    "ribbon": "ドロップ5倍中！",
+    "campaign_type": 3,
+    "rate": 5,
+    "reward_type": 1,
+    "reward_id": 100003,
+    "drop_group_ids": []
+  },
+  {
+    "id": 5604,
+    "ribbon": "報酬2倍中！",
+    "campaign_type": 7,
+    "rate": 2,
+    "reward_type": 7,
+    "reward_id": 860004,
+    "drop_group_ids": []
   }
 ]
