@@ -1005,12 +1005,12 @@
   },
   {
     "flavor_text": "前衛・中衛の素早さがアップする速攻陣形。<br>パーティ全体の器用さが強化されるので、小剣、弓、銃を重視するパーティにおすすめ。",
-    "flavor_text_en": "A haste formation that improves the quickness of the avant-garde and middle-guard. <br>Recommended for parties that value stilettos, bows, and guns, as it enhances the overall dexterity of the party.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Quick-strike formation that boosts the front and middle lines' AGI. Enhances the entire party's DEX. For parties who mainly use S. Swords, Bows, and Guns.",
+    "flavor_text_en_src": "gl",
     "id": 1033,
     "name": "バレットシフト",
     "name_en": "Bullet Shift",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1101,
@@ -1041,12 +1041,12 @@
   },
   {
     "flavor_text": "デザートランスの防御面をさらに強化した陣形。敵の攻撃を前衛が引きつけ、パーティ全体の生存率を上げる。被弾をコントロールしつつ戦いたい場合におすすめ。",
-    "flavor_text_en": "A formation that further strengthens the defensive surface of Desert Lance. The vanguard attracts enemy attacks and increases the survival rate of the whole party. Recommended when you want to fight while controlling the hit.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Improved Desert Lance formation that boosts defense further. The front draws enemy attacks, improving party survival. Good for mitigating damage.",
+    "flavor_text_en_src": "gl",
     "id": 1034,
     "name": "デザートランス・改",
-    "name_en": "Desert Reims Kai",
-    "name_en_src": "ml",
+    "name_en": "Desert Lance EX",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1104,
@@ -1077,12 +1077,12 @@
   },
   {
     "flavor_text": "前衛・後衛の腕力・器用さ・知力がアップする攻撃陣形。<br>複数のステータス強化を必要とするスタイルにおすすめ。",
-    "flavor_text_en": "An attack formation that improves the strength, dexterity, and intelligence of the vanguard and rear guard. <br>Recommended for styles that require multiple status enhancements.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Attack formation that boosts STR/DEX/INT for the front and back. For parties with Styles that require multiple stat boosts.",
+    "flavor_text_en_src": "gl",
     "id": 1035,
     "name": "マギアファイト",
     "name_en": "Magia Fight",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1105,

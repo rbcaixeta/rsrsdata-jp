@@ -15,7 +15,7 @@
   {
     "expired_at": 0,
     "flavor_text": "深奥の密林調査に必要なチケット。",
-    "flavor_text_en": "A ticket for exploring the Forest of Mystery. *Inventory limit: 10",
+    "flavor_text_en": "A ticket for exploring the Forest of Mystery.",
     "flavor_text_en_src": "gl",
     "icon": 821001,
     "id": 821001,
@@ -1432,14 +1432,14 @@
   {
     "expired_at": 1621796399,
     "flavor_text": "「激闘！ルートヴィッヒ」のイベントクエストに挑戦可能。（2021/5/24 4:00まで）",
-    "flavor_text_en": "“Fierce battle! You can challenge the “Ludwig” event quest. (until 2021/5/24 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Use to attempt Clash! Ludwig event quests. (Until [1650416399] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 821113,
     "id": 821113,
     "max_quantity": 99999999,
     "name": "鎧の欠片[期間限定]",
-    "name_en": "Armor Shard [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Armor Shard [Ltd. Time]",
+    "name_en_src": "gl",
     "sort_order": 3380
   },
   {

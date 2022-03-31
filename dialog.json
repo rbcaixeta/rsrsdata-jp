@@ -2293,12 +2293,12 @@
     "dialog_type": 1,
     "id": 182,
     "name": "CharacterList_Favorite_Change",
-    "name_en": "Characterlist_favorite_change",
-    "name_en_src": "ml",
+    "name_en": "CharacterList_Favorite_Change",
+    "name_en_src": "gl",
     "text": "スタイルのグループ設定状態を更新しました。",
     "title": "変更完了",
-    "title_en": "Change complete",
-    "title_en_src": "ml"
+    "title_en": "Changed",
+    "title_en_src": "gl"
   },
   {
     "button1": "再挑戦",
@@ -2346,11 +2346,11 @@
     "id": 186,
     "name": "FieldMap_Battle_Change",
     "name_en": "FieldMap_Battle_Change",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "このエリアの状態が変化したため、<br>バトルが開始できません。",
     "title": "状態変化",
-    "title_en": "State changes",
-    "title_en_src": "ml"
+    "title_en": "Status Change",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2358,12 +2358,12 @@
     "dialog_type": 1,
     "id": 187,
     "name": "Present_SecretKeyword_Copy",
-    "name_en": "Present_secretKeyword_copy",
-    "name_en_src": "ml",
+    "name_en": "Present_SecretKeyword_Copy",
+    "name_en_src": "gl",
     "text": "秘密のキーワードを<br>クリップボードにコピーしました。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2372,11 +2372,11 @@
     "id": 188,
     "name": "FieldMap_Dominated_Change",
     "name_en": "FieldMap_Dominated_Change",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "このエリアは制圧完了しているため、<br>バトルを開始できません。",
     "title": "制圧完了",
-    "title_en": "Domination complete",
-    "title_en_src": "ml"
+    "title_en": "Conquered",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2553,12 +2553,12 @@
     "dialog_type": 1,
     "id": 203,
     "name": "auto_rematch_Battle_End_8",
-    "name_en": "auto_rematch_battle_end_8",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_End_8",
+    "name_en_src": "gl",
     "text": "クエスト期限が過ぎたため、<br>自動再戦を停止しました。",
     "title": "自動再戦停止",
-    "title_en": "Stop automatic rematch",
-    "title_en_src": "ml"
+    "title_en": "Auto Rematch Stopped",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
