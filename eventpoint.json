@@ -2366,6 +2366,32 @@
     "sort_order": 22033050
   },
   {
+    "expired_at": 1652554799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Romancing Festival. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800184,
+    "id": 800184,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・50",
+    "name_en": "Romancing Festival Medal 50",
+    "name_en_src": "ml",
+    "sort_order": 22040850
+  },
+  {
+    "expired_at": 1652554799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Romancing Festival. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800185,
+    "id": 800185,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・51",
+    "name_en": "Romancing Festival Medal 51",
+    "name_en_src": "ml",
+    "sort_order": 22040845
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -8071,5 +8097,18 @@
     "name_en": "The secret stone of green",
     "name_en_src": "ml",
     "sort_order": 22031731
+  },
+  {
+    "expired_at": 1652554799,
+    "flavor_text": "「ヒーロー見参BOXガチャ」を引くことができるチケット。（2022/5/15 4:00まで）",
+    "flavor_text_en": "A ticket that allows you to draw “Hero Kenzan BOX Gacha”. (Until 2022/5/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100671,
+    "id": 1100671,
+    "max_quantity": 99999999,
+    "name": "ヒーロー見参BOXガチャチケット[期間限定]",
+    "name_en": "Hero Kenzan BOX Gacha Ticket [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22040805
   }
 ]

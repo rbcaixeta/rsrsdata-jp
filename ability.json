@@ -6809,6 +6809,78 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>かつ、ターン終了時、自身の状態異常をすべて解除する",
+    "flavor_text_en": "Increases damage dealt by attacks (Extra Large Effect)<br>, and at the end of the turn, unlocks all status abnormalities",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101188,
+    "name": "デトックスハイテンション",
+    "name_en": "Detox high tension",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802041107
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身の状態異常をすべて解除する",
+    "flavor_text_en": "[At End of Turn] <br>Clear all status anomalies for yourself",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101189,
+    "name": "ターン終了時 全状態異常解除",
+    "name_en": "Clear all state abnormalities at the end of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040310
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：人間、メカ]になる<br>Critical攻撃の与ダメージが上昇する( 効果特大 )",
+    "flavor_text_en": "All of your attacks become [Special: Human, Mech] <br>Increases damage dealt by Critical Attacks (Extra Large Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101190,
+    "name": "必殺の心得Ⅳ(人間・メカ)",
+    "name_en": "Hissatsu no Kind IV (Human/Mecha)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040999,
+      802040960,
+      802041108
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>一定の確率で( 確率特大 )<br>自身の素早さを上昇( 効果特大 )させ、<br>かつ、自身のBPを回復( +2 )する",
+    "flavor_text_en": "[On Turn Start] <br><br>Increases (Extra Large Stochastic) own Quickness (Extra Large Effect) with a fixed chance<br>, and restores (+2) its own BP",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101191,
+    "name": "練気闘法Ⅱ(素早さ)",
+    "name_en": "Neriki Fighting Method II (Quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011158,
+      802040754
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身のBPを回復( +3 )する( 上限回数:バトル中3回 )",
     "flavor_text_en": "[On Turn Start] <br>Restore your BP (+3) (Maximum number of times: 3 times in battle)",
@@ -6843,6 +6915,94 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "カウンター攻撃の与ダメージが上昇する( 効果特大 )<br>OD攻撃時、自身に「ベルヴァリベンジ」を付与する( 効果1ターン )<br><br>ベルヴァリベンジ<br>攻撃を受けた時 <br>打属性を含むダメージを無効化する<br>さらに、直接攻撃に対してベルヴァアッパーで反撃をする<br>( パリイを使用したターンは反撃しない )<br><br>反撃技：ベルヴァアッパー<br>体術技/攻撃/威力SSS/直接/敵単体 ( 打 ) <br>攻撃する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "Increases damage dealt by counter <br>attacks (Extra Large Effect) Grants “Velva Revenge” to self during an OD <br><br><br>attack (effect for 1 turn) Belva Revenge was attacked <br>Negates damage, including punctuation<br>, and counterattacks a direct attack with Velva Upper <br>(does not counterattack on turns using Parii) <br><br>Counterattack: Velva Upper <br>Physical Technique/Attack/Power <br>SSS/Direct/Attack Enemy Alone (Hit) <br>(Activated with Move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101198,
+    "name": "巨人の武闘",
+    "name_en": "Battle of the Giants",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040012,
+      802041114
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃時、自身に「ベルヴァリベンジ」を付与する( 効果1ターン )<br><br>ベルヴァリベンジ<br>攻撃を受けた時 <br>打属性を含むダメージを無効化する<br>さらに、直接攻撃に対してベルヴァアッパーで反撃をする<br>( パリイを使用したターンは反撃しない )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "Grants “Velva Revenge” to self during an OD attack (effect for 1 turn) <br><br><br><br>Negates damage, including striking attributes, when attacked by Velva Revenge<br>, and Counterattack with Velva Upper against a direct attack <br>(does not counterattack on turns using Parii) <br>(Activates with Rank1 move)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101199,
+    "name": "OD攻撃時 ベルヴァリベンジ",
+    "name_en": "Bellva Revenge during OD Attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041115
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身のHPを回復する( 確率大/効果大 )",
+    "flavor_text_en": "<br>Restores your own HP when hit by an attack (probability large/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101200,
+    "name": "吸収猛奪",
+    "name_en": "Absorption Takeover",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040515
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体の器用さと知力を上昇させる( 確率中/効果大 )",
+    "flavor_text_en": "[Turn Start] <br>Increases Dexterity and Intelligence of all survivors allies (Chance/High Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101201,
+    "name": "能力伝達Ⅲ(器用さ・知力)",
+    "name_en": "Ability Transmission III (Dexterity/Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041117,
+      802041118
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>一定の確率で( 確率中 )<br>味方生存者全体のHPを回復( 効果極小 )させ、かつ、味方生存者全体の器用さを上昇( 効果中 )させる",
+    "flavor_text_en": "[Turn Start] Has a <br>fixed chance (in chance) to <br>restore the HP of all allied survivors (minimal effect), and increase the dexterity of all allied survivors (during effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101202,
+    "name": "エンチャントヒーリングⅡ(器用さ)",
+    "name_en": "Enchantment Healing II (Dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010778,
+      802010672
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身を毒状態にする( 効果4ターン )",
     "flavor_text_en": "[Turn Start] <br>Poisonous (Effect for 4 turns)",
@@ -6857,6 +7017,70 @@
     "sort_order": 0,
     "special_effect_ids": [
       802031113
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "HPが満タンの時、<br>自身への攻撃を回避する( 確率中 )<br>HPが満タンではない時、<br>与ダメージが上昇( 効果特大 )し、かつ、被ダメージを軽減( 効果大 )する",
+    "flavor_text_en": "When HP is full, <br>avoid attacking itself (Chance) <br>When HP is not full, <br>damage dealt increases (effect extra large) and damage taken (large effect) is reduced (effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101211,
+    "name": "達人の構え",
+    "name_en": "Guru's stance",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041125,
+      802040608,
+      802041126
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「クロービット強襲」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "After the next turn granted, after activating Attack (*), “Clawbit Assault” activates (maximum number of times: 3 times) <br>(Activated with Move Rank1) <br>*\"Techniques/Techniques activated by Special State effects.” Does not include “counterattack techniques and techniques by counter effects” and “techniques handed down in the R Cup”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101212,
+    "name": "クロービット強襲(3回)",
+    "name_en": "Clovit Assault (3 times)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      801041068,
+      801041069,
+      801041070,
+      801041071,
+      801041072
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果小 )",
+    "flavor_text_en": "Increases your strength, physical strength, dexterity, quickness, intelligence, spirit, love, and attractiveness when attacked (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101214,
+    "name": "闘気錬磨Ⅰ(全)",
+    "name_en": "Battle Renma I (All)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011132,
+      802011133,
+      802011134,
+      802011135,
+      802011136,
+      802011137,
+      802011138,
+      802011139
     ]
   },
   {
@@ -34507,6 +34731,23 @@
   },
   {
     "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の器用さを上昇させる( 効果大 )",
+    "flavor_text_en": "[At Start of Turn] <br>Increases self dexterity (High Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300013,
+    "name": "能力強化(器用さ)",
+    "name_en": "Ability enhancement (dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010013
+    ]
+  },
+  {
+    "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身の素早さを上昇させる( 確率中/効果大 )",
     "flavor_text_en": "[Start of turn]<br>Increases own AGI (medium chance/large effect).",
     "flavor_text_en_src": "gl",
@@ -36077,6 +36318,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808010445
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃を受けた時<br>自身の器用さを上昇させる( 効果小 )<br>※攻撃が命中した時のみ発動",
+    "flavor_text_en": "<br>Increases dexterity when attacked (<br>low effect) *Activates only when an attack is hit",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600180,
+    "name": "逆襲Ⅱ(器用さ)",
+    "name_en": "Counterattack II (dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010446
     ]
   },
   {

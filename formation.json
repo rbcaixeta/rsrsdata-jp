@@ -1254,5 +1254,41 @@
         "y": 40
       }
     ]
+  },
+  {
+    "flavor_text": "前衛3人に行動後防御強化を付与し、敵の攻撃を引き受ける防御陣形。<br>パーティ全体の素早さが強化されるので、先手を取りつつ被弾をコントロールしたい場合におすすめ。",
+    "flavor_text_en": "A defensive formation that grants defense enhancement to 3 avant-gardes after action and takes on enemy attacks. <br>The quickness of the whole party is enhanced, so it is recommended when you want to control the hit while taking the first move.",
+    "flavor_text_en_src": "ml",
+    "id": 1041,
+    "name": "ワールウインド",
+    "name_en": "Whirlwind",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1125,
+        "x": 18,
+        "y": 25
+      },
+      {
+        "formation_bonus_id": 1126,
+        "x": 8,
+        "y": 14
+      },
+      {
+        "formation_bonus_id": 1126,
+        "x": 8,
+        "y": 36
+      },
+      {
+        "formation_bonus_id": 1127,
+        "x": 34,
+        "y": 8
+      },
+      {
+        "formation_bonus_id": 1127,
+        "x": 34,
+        "y": 42
+      }
+    ]
   }
 ]

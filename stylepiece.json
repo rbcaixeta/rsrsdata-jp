@@ -5833,6 +5833,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[これが正義の鉄拳だ]アルカイザー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [This is Tekken of Justice] A piece dedicated to Alkaiser. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 310409,
+    "id": 310409,
+    "name": "SSアルカイザーのピース",
+    "name_en": "SS Alkaiser pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[絶対、許さない！]エミリア専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [I'll Never Forgive You!] Emelia.",
     "flavor_text_en_src": "gl",
@@ -6237,6 +6249,18 @@
     "name": "SSメタルブラックのピース",
     "name_en": "SS M Black Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ヒーローを超える時]メタルアルカイザー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [When Beyond Hero] Metal Alkaiser exclusive piece. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 312002,
+    "id": 312002,
+    "name": "SSメタルアルカイザーのピース",
+    "name_en": "SS Metal Alkaiser pieces",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -6877,6 +6901,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[いつも見守っているぞ]アルカール専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I'm always watching over you] A piece dedicated to Alcar. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 314803,
+    "id": 314803,
+    "name": "SSアルカールのピース",
+    "name_en": "SS Alkar pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[変革の年にするのだ]ラスタバン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "SS [It's a Year of Transformation] A piece dedicated to Rastavan. Can be used for style summoning or breaking limits.",
     "flavor_text_en_src": "ml",
@@ -6898,6 +6934,42 @@
     "name_en": "S Rasta Bang piece",
     "name_en_src": "ml",
     "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ごゆっくりどうぞ]シンディ・キャンベル専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Please take your time] A piece dedicated to Cindy Campbell. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 317701,
+    "id": 317701,
+    "name": "SSシンディ・キャンベルのピース",
+    "name_en": "SS Cindy Campbell's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[全力を出せるぜ]ベルヴァ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I can do my best] A piece dedicated to Velva. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 317801,
+    "id": 317801,
+    "name": "SSベルヴァのピース",
+    "name_en": "SS Velva pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[叫び声を上げろ]シュウザー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Raise Your Scream] A piece dedicated to Schuther. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 318201,
+    "id": 318201,
+    "name": "SSシュウザーのピース",
+    "name_en": "SS Schuther pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
   },
   {
     "exchange_cost": 150,
