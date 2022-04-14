@@ -18821,6 +18821,23 @@
   {
     "enemy_class": 99,
     "gender": 1,
+    "id": 221153,
+    "illust": 211505,
+    "name": "ゲラ＝ハ",
+    "name_en": "Gerra-ha",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      10,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
     "id": 221241,
     "illust": 212404,
     "name": "ナイトハルト",
@@ -21461,6 +21478,40 @@
   },
   {
     "enemy_class": 99,
+    "gender": 2,
+    "id": 231182,
+    "illust": 311806,
+    "name": "アニー",
+    "name_en": "Annie",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 231192,
+    "illust": 311903,
+    "name": "ライザ",
+    "name_en": "Liza",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 1,
     "id": 231231,
     "illust": 312300,
@@ -22711,6 +22762,23 @@
     "gender": 1,
     "id": 271191,
     "illust": 711901,
+    "name": "ダリアス",
+    "name_en": "Darius",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 271192,
+    "illust": 711900,
     "name": "ダリアス",
     "name_en": "Darius",
     "name_en_src": "ml",

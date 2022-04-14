@@ -2392,6 +2392,19 @@
     "sort_order": 22040845
   },
   {
+    "expired_at": 1653332399,
+    "flavor_text": "特定のウルトラデラックスガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by running certain Ultra Deluxe Gacha. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800186,
+    "id": 800186,
+    "max_quantity": 99999999,
+    "name": "ウルトラデラックスガチャメダル・32",
+    "name_en": "Ultra Deluxe Gacha Medal 32",
+    "name_en_src": "ml",
+    "sort_order": 22041550
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -8110,5 +8123,96 @@
     "name_en": "Hero Kenzan BOX Gacha Ticket [Limited Time Offer]",
     "name_en_src": "ml",
     "sort_order": 22040805
+  },
+  {
+    "expired_at": 1653332399,
+    "flavor_text": "「リアム編第4話公開記念コイン交換所」でSS斧武器「メカニカルアクス」などと交換できるアイテム。（2022/5/24 4:00まで）",
+    "flavor_text_en": "An item that can be exchanged for SS axe weapons such as “Mechanical Axe” at “Liam Edition Episode 4 Release Commemorative Coin Exchange”. (Until 2022/5/24 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100672,
+    "id": 1100672,
+    "max_quantity": 99999999,
+    "name": "リアム編第4話公開記念コイン[期間限定]",
+    "name_en": "Liam Hen Episode 4 Release Commemorative Coin [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22041505
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "Materials required to create specific refinement equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100673,
+    "id": 1100673,
+    "max_quantity": 99999999,
+    "name": "翠緑の金属片",
+    "name_en": "A piece of green-green metal",
+    "name_en_src": "ml",
+    "sort_order": 22041530
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Great Sword] Material required to create specific forged equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100675,
+    "id": 1100675,
+    "max_quantity": 99999999,
+    "name": "翠緑の大剣の鋳型の破片",
+    "name_en": "Green Great Sword Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22041526
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Axe] Material required to create specific forged equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100676,
+    "id": 1100676,
+    "max_quantity": 99999999,
+    "name": "翠緑の斧の鋳型の破片",
+    "name_en": "Green Axe Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22041524
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Club] Materials required to create specific refinement equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100677,
+    "id": 1100677,
+    "max_quantity": 99999999,
+    "name": "翠緑の戦棍の鋳型の破片",
+    "name_en": "Fragment of the Green Warrior Mold",
+    "name_en_src": "ml",
+    "sort_order": 22041522
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Taijutsu] Materials required to create specific forged equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100678,
+    "id": 1100678,
+    "max_quantity": 99999999,
+    "name": "翠緑の手甲の鋳型の破片",
+    "name_en": "Green Armor Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22041520
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Spear] Material required to create specific forged equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100681,
+    "id": 1100681,
+    "max_quantity": 99999999,
+    "name": "翠緑の槍の鋳型の破片",
+    "name_en": "Green Spear Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22041514
   }
 ]

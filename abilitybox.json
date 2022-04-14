@@ -457,5 +457,56 @@
         "rate": 5200
       }
     ]
+  },
+  {
+    "id": 100050001,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100050001,
+        "rate": 1300
+      },
+      {
+        "ability_deck_id": 100050002,
+        "rate": 3500
+      },
+      {
+        "ability_deck_id": 100050003,
+        "rate": 5200
+      }
+    ]
+  },
+  {
+    "id": 100050002,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100050004,
+        "rate": 1300
+      },
+      {
+        "ability_deck_id": 100050005,
+        "rate": 3500
+      },
+      {
+        "ability_deck_id": 100050006,
+        "rate": 5200
+      }
+    ]
+  },
+  {
+    "id": 100050003,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100050007,
+        "rate": 1300
+      },
+      {
+        "ability_deck_id": 100050008,
+        "rate": 3500
+      },
+      {
+        "ability_deck_id": 100050009,
+        "rate": 5200
+      }
+    ]
   }
 ]

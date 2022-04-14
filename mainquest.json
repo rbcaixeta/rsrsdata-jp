@@ -81809,5 +81809,2334 @@
     "typical_rewards": [
     ],
     "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 10210401,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104011,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-1. 広がる不安",
+    "name_en": "4-1-1. Spreading anxiety",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120103171
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10304001,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000040,
+    "battle_id": 100304012,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001136,
+      870001131,
+      870001134,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104012,
+    "illust_category": 2,
+    "illust_id": 1040521,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-1. 南の砂漠へ１",
+    "name_en": "4-1-1. To the Southern Desert 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104171,
+      120103102
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000040,
+    "battle_id": 100304013,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001142,
+      870001137,
+      870001140,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104013,
+    "illust_category": 2,
+    "illust_id": 1040521,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-1. 南の砂漠へ１",
+    "name_en": "4-1-1. To the Southern Desert 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104102,
+      120103103
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000040,
+    "battle_id": 100304011,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001130,
+      870001125,
+      870001128,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104021,
+    "illust_category": 2,
+    "illust_id": 1040521,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-2. 南の砂漠へ１",
+    "name_en": "4-1-2. To the Southern Desert 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104011
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000022,
+    "battle_id": 100304022,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001136,
+      870001135,
+      870001132,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104022,
+    "illust_category": 2,
+    "illust_id": 1140321,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-2. 南の砂漠へ２",
+    "name_en": "4-1-2. To the Southern Desert 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104012
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000022,
+    "battle_id": 100304023,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001142,
+      870001141,
+      870001138,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104023,
+    "illust_category": 2,
+    "illust_id": 1140321,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-2. 南の砂漠へ２",
+    "name_en": "4-1-2. To the Southern Desert 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104013
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000022,
+    "battle_id": 100304021,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001130,
+      870001129,
+      870001126,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104031,
+    "illust_category": 2,
+    "illust_id": 1140321,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-3. 南の砂漠へ２",
+    "name_en": "4-1-3. To the Southern Desert 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104021
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000007,
+    "battle_id": 100304032,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001136,
+      870001133,
+      870001131,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104032,
+    "illust_category": 2,
+    "illust_id": 1150081,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-3. 砂煙の先へ１",
+    "name_en": "4-1-3. Beyond Sand Smoke 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104022
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000007,
+    "battle_id": 100304033,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001142,
+      870001139,
+      870001137,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104033,
+    "illust_category": 2,
+    "illust_id": 1150081,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-3. 砂煙の先へ１",
+    "name_en": "4-1-3. Beyond Sand Smoke 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104023
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 10210401,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104041,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-4. 神王教団",
+    "name_en": "4-1-4. Jinno Kyodan",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104031
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10304010,
+    "sort_order": 4,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000007,
+    "battle_id": 100304042,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001136,
+      870001134,
+      870001135,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104042,
+    "illust_category": 2,
+    "illust_id": 1060361,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-4. 砂煙の先へ２",
+    "name_en": "4-1-4. Beyond Sand Smoke 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104032
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000007,
+    "battle_id": 100304043,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001142,
+      870001140,
+      870001141,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104043,
+    "illust_category": 2,
+    "illust_id": 1060361,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-4. 砂煙の先へ２",
+    "name_en": "4-1-4. Beyond Sand Smoke 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104033
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000007,
+    "battle_id": 100304031,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001130,
+      870001127,
+      870001125,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104051,
+    "illust_category": 2,
+    "illust_id": 1150081,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-5. 砂煙の先へ１",
+    "name_en": "4-1-5. Beyond Sand Smoke 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104041
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000138,
+    "battle_id": 100304052,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001136,
+      870001132,
+      870001133,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104052,
+    "illust_category": 2,
+    "illust_id": 1040531,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-5. 神王の塔・始まりの町１",
+    "name_en": "4-1-5. Tower of the God-King: The Beginning Town 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104042
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000138,
+    "battle_id": 100304053,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001142,
+      870001138,
+      870001139,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104053,
+    "illust_category": 2,
+    "illust_id": 1040531,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-5. 神王の塔・始まりの町１",
+    "name_en": "4-1-5. Tower of the God-King: The Beginning Town 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104043
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000007,
+    "battle_id": 100304041,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001130,
+      870001128,
+      870001129,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104061,
+    "illust_category": 2,
+    "illust_id": 1060361,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-6. 砂煙の先へ２",
+    "name_en": "4-1-6. Beyond Sand Smoke 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104051
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304062,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001136,
+      870001131,
+      870001134,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104062,
+    "illust_category": 2,
+    "illust_id": 1170041,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-1. 神王の塔・始まりの町２",
+    "name_en": "4-2-1. Tower of the God-King: The Town of Beginnings 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104052
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304063,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001142,
+      870001137,
+      870001140,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104063,
+    "illust_category": 2,
+    "illust_id": 1170041,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-1. 神王の塔・始まりの町２",
+    "name_en": "4-2-1. Tower of the God-King: The Town of Beginnings 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104053
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 10210401,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104071,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-7. 信仰の証",
+    "name_en": "4-1-7. Proof of faith",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104061
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10304020,
+    "sort_order": 7,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304072,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001136,
+      870001135,
+      870001132,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104072,
+    "illust_category": 2,
+    "illust_id": 1040241,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-2. 神王の塔・始まりの町３",
+    "name_en": "4-2-2. Tower of the God-King: The Town of Beginnings 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104062
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304073,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001142,
+      870001141,
+      870001138,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104073,
+    "illust_category": 2,
+    "illust_id": 1040241,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-2. 神王の塔・始まりの町３",
+    "name_en": "4-2-2. Tower of the God-King: The Town of Beginnings 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104063
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 169,
+    "banner": 700000138,
+    "battle_id": 100304051,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001130,
+      870001126,
+      870001127,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104081,
+    "illust_category": 2,
+    "illust_id": 1040531,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-1-8. 神王の塔・始まりの町１",
+    "name_en": "4-1-8. Tower of the God-King: The Beginning Town 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104071
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304082,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001136,
+      870001133,
+      870001131,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104082,
+    "illust_category": 2,
+    "illust_id": 1060461,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-3. 神王の塔・始まりの町４",
+    "name_en": "4-2-3. Tower of the God-King: The Beginning Town 4",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104072
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304083,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001142,
+      870001139,
+      870001137,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104083,
+    "illust_category": 2,
+    "illust_id": 1060461,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-3. 神王の塔・始まりの町４",
+    "name_en": "4-2-3. Tower of the God-King: The Beginning Town 4",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104073
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304061,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001130,
+      870001125,
+      870001128,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104091,
+    "illust_category": 2,
+    "illust_id": 1170041,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-1. 神王の塔・始まりの町２",
+    "name_en": "4-2-1. Tower of the God-King: The Town of Beginnings 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104081
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304092,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001136,
+      870001134,
+      870001135,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104092,
+    "illust_category": 2,
+    "illust_id": 1150401,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-4. 神王の塔・始まりの町５",
+    "name_en": "4-2-4. Tower of the God-King: The Beginning Town 5",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104082
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304093,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001142,
+      870001140,
+      870001141,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104093,
+    "illust_category": 2,
+    "illust_id": 1150401,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-4. 神王の塔・始まりの町５",
+    "name_en": "4-2-4. Tower of the God-King: The Beginning Town 5",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104083
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 10210401,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104101,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-2. 理想と現実",
+    "name_en": "4-2-2. Ideals and Reality",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104091
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10304030,
+    "sort_order": 10,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304102,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001136,
+      870001132,
+      870001133,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104102,
+    "illust_category": 2,
+    "illust_id": 1990541,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-5. 神王の塔・始まりの町６",
+    "name_en": "4-2-5. Tower of the God-King: The Beginning Town 6",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104092
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304103,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001142,
+      870001138,
+      870001139,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104103,
+    "illust_category": 2,
+    "illust_id": 1990541,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-5. 神王の塔・始まりの町６",
+    "name_en": "4-2-5. Tower of the God-King: The Beginning Town 6",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104093
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304071,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001130,
+      870001129,
+      870001126,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104111,
+    "illust_category": 2,
+    "illust_id": 1040241,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-3. 神王の塔・始まりの町３",
+    "name_en": "4-2-3. Tower of the God-King: The Town of Beginnings 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104101
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 11,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304081,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001130,
+      870001127,
+      870001125,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104121,
+    "illust_category": 2,
+    "illust_id": 1060461,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-4. 神王の塔・始まりの町４",
+    "name_en": "4-2-4. Tower of the God-King: The Beginning Town 4",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104111
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 12,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 10210401,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104131,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-5. 僕の最優先任務",
+    "name_en": "4-2-5. My top priority mission",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104121
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10304040,
+    "sort_order": 13,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 10210401,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104141,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-6. 求める者には救いを",
+    "name_en": "4-2-6. Salvation for those who seek",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104131
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10304050,
+    "sort_order": 14,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304091,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001130,
+      870001128,
+      870001129,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104151,
+    "illust_category": 2,
+    "illust_id": 1150401,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-7. 神王の塔・始まりの町５",
+    "name_en": "4-2-7. Tower of the God-King: The Beginning Town 5",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104141
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 15,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 700000138,
+    "battle_id": 100304101,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001130,
+      870001126,
+      870001127,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104161,
+    "illust_category": 2,
+    "illust_id": 1990541,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-8. 神王の塔・始まりの町６",
+    "name_en": "4-2-8. Tower of the God-King: The Beginning Town 6",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104151
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 16,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 170,
+    "banner": 10210401,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 311903,
+        "quantity": 1,
+        "type": 14
+      },
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120104171,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "4-2-9. はじまりの時",
+    "name_en": "4-2-9. The time of the beginning",
+    "name_en_src": "ml",
+    "number_of_story_banner": 4,
+    "prev_quest_ids": [
+      120104161
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10304060,
+    "sort_order": 17,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
   }
 ]

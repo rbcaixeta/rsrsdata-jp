@@ -7021,6 +7021,76 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "斧装備時<br>攻撃の与ダメージが上昇( 効果特大 )し、<br>Weak攻撃の場合、さらに与ダメージが上昇( 効果特大 )する",
+    "flavor_text_en": "<br>Damage dealt by attacks when equipped with axe increases (extra effect), and <br>when attacking weak, further increases damage (extra effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101204,
+    "name": "斧の秘奥Ⅳ",
+    "name_en": "The Secret of the Axe IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040947,
+      802041120
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>自身のBPを回復する( 確率中/+6 )",
+    "flavor_text_en": "[At End of Turn] <br>Restore your BP (Chance/+6)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101205,
+    "name": "練気活性Ⅵ",
+    "name_en": "Neriki activity VI",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041121
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象をスタンさせる( 確率大 )<br>攻撃命中時、自身のBPを回復する( 確率大/+1 )",
+    "flavor_text_en": "When an attack is hit, stuns the target (<br>high probability) When an attack is hit, heals its own BP (probability large/+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 3003,
+    "id": 702101206,
+    "name": "不意の練撃Ⅰ",
+    "name_en": "Unexpected Rengeki I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041122,
+      802041056
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象をスタンさせる( 確率大 )",
+    "flavor_text_en": "Stuns the target when an attack is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 3003,
+    "id": 702101207,
+    "name": "攻撃時 スタン付与",
+    "name_en": "Grant stun when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802030239
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "HPが満タンの時、<br>自身への攻撃を回避する( 確率中 )<br>HPが満タンではない時、<br>与ダメージが上昇( 効果特大 )し、かつ、被ダメージを軽減( 効果大 )する",
     "flavor_text_en": "When HP is full, <br>avoid attacking itself (Chance) <br>When HP is not full, <br>damage dealt increases (effect extra large) and damage taken (large effect) is reduced (effective)",
     "flavor_text_en_src": "ml",
@@ -7081,6 +7151,24 @@
       802011137,
       802011138,
       802011139
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )させ、かつ、自身のBPを回復( +1 )する",
+    "flavor_text_en": "[At End of Turn] Has a <br>fixed chance (during chance) to <br>restore your own HP (low effect), and restore your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101223,
+    "name": "練気再生Ⅰ",
+    "name_en": "Neriki Regeneration I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040062,
+      802040812
     ]
   },
   {

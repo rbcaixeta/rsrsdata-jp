@@ -29501,6 +29501,73 @@
   {
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "斧装備時のWeak攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases damage from Weak attacks when equipped with an axe",
+    "flavor_text_en_src": "ml",
+    "id": 802041120,
+    "ignition_effect_id": "",
+    "name": "斧装備時 Weak攻撃強化",
+    "name_en": "Strengthens weak attack when equipped with axe",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      10,
+      21003
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Will my BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041121,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      6
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、対象をスタンさせる( 確率大 )",
+    "flavor_text_en": "Stuns the target when an attack is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041122,
+    "ignition_effect_id": "",
+    "name": "攻撃時 スタン付与",
+    "name_en": "Grant stun when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101207
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "HP満タン状態のとき、敵からの攻撃を回避する( 確率中 )",
     "flavor_text_en": "Avoid attacks from enemies when HP is full (chance)",
     "flavor_text_en_src": "ml",
@@ -48155,6 +48222,28 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 809040296,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      10
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "敵から受けるダメージが低下する(重複不可)",
     "flavor_text_en": "Decreases damage taken (can't stack).",
@@ -50628,6 +50717,27 @@
     "target_area": 8,
     "text_color": "FF0000",
     "text_pop": "防御↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140300069",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Increases strength",
+    "flavor_text_en_src": "ml",
+    "id": 809040678,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increases strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "腕力↑",
     "triggering_effect_condition_ids": [
     ]
   },
