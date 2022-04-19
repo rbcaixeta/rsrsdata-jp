@@ -7091,6 +7091,25 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>大剣装備時、さらに与ダメージが上昇する( 効果特大 )<br>ただしバトル開始時、自身を「氷漬け」にする<br><br>氷漬け<br>自身を石化させる( 効果1ターン )",
+    "flavor_text_en": "Increases damage dealt by attacks (Extra Large Effect) <br>Increases damage dealt when equipped with a Great Sword (Extra Large Effect) <br>However, at the start of battle, it makes itself “<br><br>Ice Zuke” <br>Petrify itself (effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101210,
+    "name": "氷漬けの守護者",
+    "name_en": "Guardian of ice pickles",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802040752,
+      802031124
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "HPが満タンの時、<br>自身への攻撃を回避する( 確率中 )<br>HPが満タンではない時、<br>与ダメージが上昇( 効果特大 )し、かつ、被ダメージを軽減( 効果大 )する",
     "flavor_text_en": "When HP is full, <br>avoid attacking itself (Chance) <br>When HP is not full, <br>damage dealt increases (effect extra large) and damage taken (large effect) is reduced (effective)",
     "flavor_text_en_src": "ml",
@@ -7131,6 +7150,26 @@
   },
   {
     "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「エナジースティール+」が発動する( 確率特大 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>エナジースティール+<br>闇術/攻撃/威力B/間接/敵単体 ( 陰 ) <br>攻撃する<br>攻撃命中時、自身のHPを回復する( 効果小 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "When you hit a technique or technique (*) whose type is “Attack”, <br>“Energy Steel+” is activated (probability extra large) <br>* “Normal Attack”, “Techniques/Techniques handed down in the R Cup”, “Due to this ability effect Does not include “Activated Techniques/Techniques” and “<br><br><br>Counterattack Techniques by Counter Effect” Energy Steel+ Dark Jutsu /Attack/Power B/Indirect/Enemy Alone (Yin) <br><br>Attack Attack Restores own HP when hit (small effect) <br>(activated with Jutsu Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101213,
+    "name": "吸命魔道",
+    "name_en": "Suckling Mage",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041128,
+      802041129,
+      802041130,
+      802041131
+    ]
+  },
+  {
+    "ability_when": 6,
     "flavor_text": "攻撃命中時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果小 )",
     "flavor_text_en": "Increases your strength, physical strength, dexterity, quickness, intelligence, spirit, love, and attractiveness when attacked (small effect)",
     "flavor_text_en_src": "ml",
@@ -7151,6 +7190,41 @@
       802011137,
       802011138,
       802011139
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]気絶している場合<br>自身のHPを回復( 効果特大 )する( 上限回数:1回 )<br>(毒ダメージで気絶したターンには発動しない) ",
+    "flavor_text_en": "[At End of <br>Turn] Restores your own HP if stunned (Extra Effect) (Maximum Number of Times: 1) <br>(Does not activate on the turn stunned due to Poison Damage) ",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101215,
+    "name": "ターン終了時HP回復(気絶時)(特大/1回)",
+    "name_en": "HP recovery at end of turn (stun) (overlarge/1 times)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041140
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>対象の精神を低下( 効果小 )させ、さらに、自身のBPを回復( +1 )する",
+    "flavor_text_en": "When attacking<br>, lowers the target's spirit (less effective), and restores its own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101216,
+    "name": "虚脱の練撃Ⅰ(精神)",
+    "name_en": "Fallen Strike I (Spirit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011149,
+      802040742
     ]
   },
   {

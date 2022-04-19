@@ -1452,6 +1452,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[火のルビーと共に]フラーマ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Together with Fire Ruby] A piece dedicated to Frama. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 212503,
+    "id": 212503,
+    "name": "SSフラーマのピース",
+    "name_en": "SS Frama pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[生き抜くために]アルドラ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [For Survival] Aldora.",
@@ -1520,6 +1532,18 @@
     "id": 213204,
     "name": "SSダークのピース",
     "name_en": "Piece of SS Dark",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[黒曜石剣との歳月]フリーレ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Time with the Obsidian Sword] piece dedicated to Freire. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 213401,
+    "id": 213401,
+    "name": "SSフリーレのピース",
+    "name_en": "SS Freele's piece",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -1617,6 +1641,18 @@
     "name": "SSストライフのピース",
     "name_en": "SS Strife Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[赤魔道士をよろしく]赤魔道士専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Give My Regards to the Red Mage] A piece dedicated to the Red Mage. Can be used for Style Summons or Limit Breaks.",
+    "flavor_text_en_src": "ml",
+    "icon": 217805,
+    "id": 217805,
+    "name": "SS赤魔道士のピース",
+    "name_en": "SS Red Mage Piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

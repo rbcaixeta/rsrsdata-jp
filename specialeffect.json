@@ -10681,6 +10681,79 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン終了時]気絶している場合<br>自身のHPを回復( 効果特大 )する( 上限回数:1回 )<br>(毒ダメージで気絶したターンには発動しない) ",
+    "flavor_text_en": "[At End of <br>Turn] Restores your own HP if stunned (Extra Effect) (Maximum Number of Times: 1) <br>(Does not activate on the turn stunned due to Poison Damage) ",
+    "flavor_text_en_src": "ml",
+    "id": 801041079,
+    "ignition_effect_id": "",
+    "name": "ターン終了時HP回復(気絶時)(特大/1回)",
+    "name_en": "HP recovery at end of turn (stun) (overlarge/1 times)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101215
+    ],
+    "target_area": 10,
+    "text_color": "FFFFFF",
+    "text_pop": "リヴァイヴァ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力アップ状態を解除する",
+    "flavor_text_en": "Unlock the ability improvement status of Brawn, Physical Strength, Dexterity, Quickness, Intelligence, Spirit, Love, and Charm",
+    "flavor_text_en_src": "ml",
+    "id": 801041088,
+    "ignition_effect_id": "",
+    "name": "能力アップ状態解除",
+    "name_en": "Ability up status canceled",
+    "name_en_src": "ml",
+    "state_change_id": 900050104,
+    "state_icon": 2002,
+    "state_vars": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "能力アップ解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041143,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heats up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "腕力が上昇する",
     "flavor_text_en": "Increases STR.",
@@ -15559,6 +15632,27 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "精神が低下する",
+    "flavor_text_en": "Mental decline",
+    "flavor_text_en_src": "ml",
+    "id": 802011149,
+    "ignition_effect_id": "",
+    "name": "精神ダウン",
+    "name_en": "Mental down",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "精神↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "素早さが上昇する",
     "flavor_text_en": "Quickness increases",
@@ -18046,6 +18140,27 @@
     "target_area": 1,
     "text_color": "FFFFFF",
     "text_pop": "毒",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "145200112",
+    "flavor_text": "行動不能になる<br>ターン経過で自然回復する( 効果1ターン )",
+    "flavor_text_en": "<br>Becomes incapable of action Heals spontaneously after turn elapses (effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802031124,
+    "ignition_effect_id": "",
+    "name": "石化",
+    "name_en": "petrified",
+    "name_en_src": "ml",
+    "state_change_id": 900030006,
+    "state_icon": 1036,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "氷漬け",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -29631,6 +29746,116 @@
     "target_area": 1,
     "text_color": "FFFFFF",
     "text_pop": "クロービット強襲",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "ペイン+を命中させた時、エナジースティール+が発動する(確率特大)",
+    "flavor_text_en": "Energy Steel+ activates when you hit Payne+ (chance extra large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041128,
+    "ignition_effect_id": "",
+    "name": "吸命魔道",
+    "name_en": "Suckling Mage",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125600251
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "吸命魔道",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "イーヴルウィスパーを命中させた時、エナジースティール+が発動する(確率特大)",
+    "flavor_text_en": "Energy Steel+ activates when you hit Evil Whisper (chance extra large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041129,
+    "ignition_effect_id": "",
+    "name": "吸命魔道",
+    "name_en": "Suckling Mage",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125600251
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "吸命魔道",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "ダークスフィア+を命中させた時、エナジースティール+が発動する(確率特大)",
+    "flavor_text_en": "Energy Steel+ activates when you hit Darksphere+ (chance extra large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041130,
+    "ignition_effect_id": "",
+    "name": "吸命魔道",
+    "name_en": "Suckling Mage",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125600251
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "吸命魔道",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、エナジースティール+が発動する(確率特大)",
+    "flavor_text_en": "Energy Steel+ activates when you hit a succession move (chance extra large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041131,
+    "ignition_effect_id": "",
+    "name": "吸命魔道",
+    "name_en": "Suckling Mage",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125600251
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "吸命魔道",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "気絶している場合、自身のHPを回復する",
+    "flavor_text_en": "If you are stunned, recover your own HP",
+    "flavor_text_en_src": "ml",
+    "id": 802041140,
+    "ignition_effect_id": "",
+    "name": "ターン終了時HP回復(気絶時)(特大/1回)",
+    "name_en": "HP recovery at end of turn (stun) (overlarge/1 times)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      40
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
