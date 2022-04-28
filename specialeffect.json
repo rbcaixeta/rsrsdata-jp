@@ -10703,6 +10703,166 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage received from enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041080,
+    "ignition_effect_id": "",
+    "name": "ガードアップ(中)",
+    "name_en": "Guard up (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040076,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "UVバースト",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "熱属性を含む攻撃を受けた時、敵から受ける被ダメージが低下する",
+    "flavor_text_en": "Reduces damage taken by enemies when attacked with a heat attribute",
+    "flavor_text_en_src": "ml",
+    "id": 801041081,
+    "ignition_effect_id": "",
+    "name": "熱属性防御強化",
+    "name_en": "Strengthened thermal defenses",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      23004
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "陽属性を含む攻撃を受けた時、敵から受ける被ダメージが低下する",
+    "flavor_text_en": "Reduces damage taken by enemies when attacked with positive attributes",
+    "flavor_text_en_src": "ml",
+    "id": 801041082,
+    "ignition_effect_id": "",
+    "name": "陽属性防御強化",
+    "name_en": "Strengthening positive defenses",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      23007
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "ウォール効果で、術ダメージ、または熱属性ダメージを軽減する。<BR>術かつ熱属性のダメージを特に軽減する。",
+    "flavor_text_en": "Reduces jutsu damage or heat damage with a wall effect. <BR>Particularly reduces damage to jutsu and heat attributes.",
+    "flavor_text_en_src": "ml",
+    "id": 801041083,
+    "ignition_effect_id": "",
+    "name": "プレミアムアイス",
+    "name_en": "Premium ice",
+    "name_en_src": "ml",
+    "state_change_id": 900040046,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      4,
+      99,
+      15
+    ],
+    "target_area": 8,
+    "text_color": "FFFFFF",
+    "text_pop": "ウォール",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、自身のBPを回復する( +4 )",
+    "flavor_text_en": "Heal own BP at the end of turn (+4)",
+    "flavor_text_en_src": "ml",
+    "id": 801041085,
+    "ignition_effect_id": "",
+    "name": "ターン終了時BP回復(+4)",
+    "name_en": "BP Heal at End of Turn (+4)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101222
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "至福の一杯",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "行動順補正値が低下する( 効果小 )",
+    "flavor_text_en": "Action order correction value decreases (effect small)",
+    "flavor_text_en_src": "ml",
+    "id": 801041086,
+    "ignition_effect_id": "",
+    "name": "行動順補正低下(小)",
+    "name_en": "Decreased behavioral order correction (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040109,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "行動順補正↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140500256",
+    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage received from enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041087,
+    "ignition_effect_id": "",
+    "name": "ガードアップ(特大)",
+    "name_en": "Guard up (oversized)",
+    "name_en_src": "ml",
+    "state_change_id": 900040075,
+    "state_icon": 3001,
+    "state_vars": [
+      50
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Debuff",
     "flavor_text": "腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力アップ状態を解除する",
     "flavor_text_en": "Unlock the ability improvement status of Brawn, Physical Strength, Dexterity, Quickness, Intelligence, Spirit, Love, and Charm",
@@ -10750,6 +10910,27 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140700092",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041148,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(小)",
+    "name_en": "Moral up (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -15627,6 +15808,27 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Increases intelligence",
+    "flavor_text_en_src": "ml",
+    "id": 802011143,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -29861,6 +30063,50 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "キュアファイアを命中させた時、乱れファイアボールが発動する",
+    "flavor_text_en": "Disrupted Fireball is activated when Cure Fire is hit",
+    "flavor_text_en_src": "ml",
+    "id": 802041141,
+    "ignition_effect_id": "",
+    "name": "追い乱れ火球",
+    "name_en": "Disrupted fireball",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125100225
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "追い乱れ火球",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "冷属性攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases damage from Cold Attacks",
+    "flavor_text_en_src": "ml",
+    "id": 802041142,
+    "ignition_effect_id": "",
+    "name": "冷攻撃強化",
+    "name_en": "Cold Attack Strengthening",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "冷攻撃↑",
+    "triggering_effect_condition_ids": [
+      22005
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
     "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
@@ -29877,6 +30123,124 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "攻撃 知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "BPが回復する",
+    "flavor_text_en": "Will BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041202,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      4
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "気絶被弾時、HP50%でふんばる",
+    "flavor_text_en": "When hit by a stun, it's fluffy with 50% HP",
+    "flavor_text_en_src": "ml",
+    "id": 802041203,
+    "ignition_effect_id": "Plane",
+    "name": "勇猛不撓",
+    "name_en": "Brave and furious",
+    "name_en_src": "ml",
+    "state_change_id": 900040059,
+    "state_icon": 3001,
+    "state_vars": [
+      0,
+      50
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "勇猛不撓",
+    "triggering_effect_condition_ids": [
+      16
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自分のHPを回復する",
+    "flavor_text_en": "Recover your own HP",
+    "flavor_text_en_src": "ml",
+    "id": 802041204,
+    "ignition_effect_id": "",
+    "name": "HP回復(極小)",
+    "name_en": "HP recovery (extremely small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身の状態異常を解除する",
+    "flavor_text_en": "Resolve your own state abnormalities",
+    "flavor_text_en_src": "ml",
+    "id": 802041206,
+    "ignition_effect_id": "",
+    "name": "異常回復",
+    "name_en": "Abnormal recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050058,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "異常解除<br>能力ダウン解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "Unlock your own strength, physical strength, dexterity, quickness, intelligence, spirit, love, charm ability down",
+    "flavor_text_en_src": "ml",
+    "id": 802041207,
+    "ignition_effect_id": "",
+    "name": "能力ダウン解除",
+    "name_en": "Ability down unlocked",
+    "name_en_src": "ml",
+    "state_change_id": 900050067,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -50963,6 +51327,71 @@
     "target_area": 3,
     "text_color": "65D2FF",
     "text_pop": "腕力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 809040682,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      40
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 809040683,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(小)",
+    "name_en": "Moral up (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 809040686,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      10
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },

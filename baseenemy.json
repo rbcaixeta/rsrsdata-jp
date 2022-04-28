@@ -18820,6 +18820,23 @@
   },
   {
     "enemy_class": 99,
+    "gender": 2,
+    "id": 221143,
+    "illust": 211408,
+    "name": "ミリアム",
+    "name_en": "Miriam",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 2,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 1,
     "id": 221153,
     "illust": 211505,
@@ -20988,6 +21005,23 @@
   },
   {
     "enemy_class": 99,
+    "gender": 2,
+    "id": 223303,
+    "illust": 233008,
+    "name": "ウンディーネ",
+    "name_en": "Undine",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 2,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 1,
     "id": 223321,
     "illust": 233200,
@@ -21079,6 +21113,23 @@
     "name": "ファティーマ",
     "name_en": "Fatima",
     "name_en_src": "gl",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 223432,
+    "illust": 234305,
+    "name": "ファティーマ",
+    "name_en": "Fatima",
+    "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 1,
     "pc_flag": 1,
     "rank": 1,
@@ -21243,12 +21294,45 @@
   },
   {
     "enemy_class": 99,
+    "gender": 1,
+    "id": 231014,
+    "illust": 310108,
+    "name": "ブルー",
+    "name_en": "blue",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 2,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 9,
     "id": 231021,
     "illust": 310200,
     "name": "クーン",
     "name_en": "Riki",
     "name_en_src": "gl",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 231023,
+    "illust": 310205,
+    "name": "クーン",
+    "name_en": "Kuhn",
+    "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 1,
     "pc_flag": 1,
     "rank": 1,
@@ -21519,6 +21603,23 @@
     "name_en": "Rouge",
     "name_en_src": "gl",
     "pc_enemy_skill_hold_motion": 2,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 231243,
+    "illust": 312405,
+    "name": "ゲン",
+    "name_en": "Gen",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
     "pc_flag": 1,
     "rank": 1,
     "species": [

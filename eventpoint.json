@@ -2418,6 +2418,32 @@
     "sort_order": 22042050
   },
   {
+    "expired_at": 1654196399,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
+    "flavor_text_en_src": "ml",
+    "icon": 800188,
+    "id": 800188,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・52",
+    "name_en": "Romancing Festival Medal 52",
+    "name_en_src": "ml",
+    "sort_order": 22042865
+  },
+  {
+    "expired_at": 1654196399,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
+    "flavor_text_en_src": "ml",
+    "icon": 800189,
+    "id": 800189,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・53",
+    "name_en": "Romance Festival Medal 53",
+    "name_en_src": "ml",
+    "sort_order": 22042860
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -8240,5 +8266,31 @@
     "name_en": "Saga Soul Memorial Cracker",
     "name_en_src": "ml",
     "sort_order": 22042045
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100686,
+    "id": 1100686,
+    "max_quantity": 99999999,
+    "name": "トロピカルフラワー",
+    "name_en": "Tropical flowers",
+    "name_en_src": "ml",
+    "sort_order": 22042805
+  },
+  {
+    "expired_at": 1654023599,
+    "flavor_text": "「GW記念！はにわのゴールデンBOXガチャ」を引くことができるチケット。（2022/6/1 4:00まで）",
+    "flavor_text_en": "“GW commemoration! A ticket that allows you to draw “Haniwa no Golden Box Gacha”. (Until 2022/6/1 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100687,
+    "id": 1100687,
+    "max_quantity": 99999999,
+    "name": "はにわのゴールデンBOXガチャチケット[期間限定]",
+    "name_en": "Haniwa's Golden Box Gacha Ticket [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22042855
   }
 ]

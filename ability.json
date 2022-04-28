@@ -7228,6 +7228,111 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "「キュアファイア」を命中させた時、<br>「乱れファイアボール」が発動する( 確率大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "When “Cure Fire” is hit, <br>“Disturbed Fireball” is activated (high probability) <br>(activated with Jutsu Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101217,
+    "name": "追い乱れ火球",
+    "name_en": "Disrupted fireball",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041141
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率特大 )<br>自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態とすべての状態異常を解除し、かつ、自身のBPを回復( +2 )する",
+    "flavor_text_en": "[At the end of turn] <br>With a certain probability (probability extra large) <br>own strength, physical strength, dexterity, quickness, intelligence, spirit, love, charm ability down state and all state abnormalities, and recover own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101218,
+    "name": "練気除病Ⅱ",
+    "name_en": "Neri Extermination II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041206,
+      802041207,
+      802040754
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "冷属性攻撃の<br>与ダメージが上昇する( 効果特大 )",
+    "flavor_text_en": "<br>Increases damage dealt by Cold Attacks (Extra Large Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101219,
+    "name": "冷気増幅Ⅳ",
+    "name_en": "Cold Air Amplification IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041142
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )させ、かつ、自身のBPを回復( +2 )する",
+    "flavor_text_en": "[At the end of turn] Has a <br>certain chance (in probability) to <br>restore its own HP (small effect) and heals its own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101220,
+    "name": "練気再生Ⅱ",
+    "name_en": "Neriki Regeneration II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040062,
+      802040754
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>味方生存者全体の知力を上昇させる( 確率中/効果中 )",
+    "flavor_text_en": "[Start of Turn] <br>Increases the intelligence of all allied survivors (Medium Chance/Active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101221,
+    "name": "能力伝達Ⅱ(知力)",
+    "name_en": "Ability Transfer II (Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011143
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のBPを回復する( +4/効果3ターン )",
+    "flavor_text_en": "[End of Turn] <br>Heal your BP (+4/effect for 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101222,
+    "name": "ターン終了時 BP回復(+4)",
+    "name_en": "BP Heal at End of Turn (+4)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041202
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )させ、かつ、自身のBPを回復( +1 )する",
     "flavor_text_en": "[At End of Turn] Has a <br>fixed chance (during chance) to <br>restore your own HP (low effect), and restore your own BP (+1)",
@@ -7243,6 +7348,60 @@
     "special_effect_ids": [
       802040062,
       802040812
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "OD攻撃の与ダメージが上昇する( 効果極大 )<br>かつ、バトル開始から数えて偶数ターン目の開始時、自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "Increases damage dealt by OD attacks (maximum effect) <br>and grants “Heat Up” (active) to self at the start of the even-numbered turn counting from the start of battle (maximum number of times: 5 times during battle) <br><br><br>Increases damage dealt by heat-up attacks (persists during effect battles)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101224,
+    "name": "超撃加熱",
+    "name_en": "Super Attack Heated",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041073,
+      802040935
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身のHPを回復( 効果極小 )し、かつ、自身の腕力を上昇( 効果中 )させる",
+    "flavor_text_en": "[At the start of <br>turn] Restores own HP (effect is minimal) and increases its own strength (during effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101225,
+    "name": "療養活性Ⅱ(腕力)",
+    "name_en": "Recuperation Activity II (Brain Strength)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041204,
+      802010858
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br>攻撃を受けてHP0になる時、最大HPの50%でふみとどまる( 上限回数:バトル中1回 )",
+    "flavor_text_en": "Increases damage dealt <br>by attacks (high effect) When attacked and becomes HP 0, it stays at 50% of maximum HP (maximum number of times: 1 time during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101234,
+    "name": "勇猛不撓",
+    "name_en": "Brave and furious",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041203,
+      802040001
     ]
   },
   {
