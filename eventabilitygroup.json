@@ -10089,6 +10089,32 @@
   },
   {
     "applies_to_all_styles": 0,
+    "event_ability_category_id": 572,
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased in the main is doubled",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 918,
+    "name": "[期間限定] メインリアム編第5話公開記念・SaGaRS",
+    "name_en": "[Limited Time Offer] Main Liam Hen Episode 5 Release Commemoration · SAGars",
+    "name_en_src": "ml",
+    "priority": 2740
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 573,
+    "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased in the main is doubled",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 919,
+    "name": "[期間限定] メインリアム編第5話公開記念・突",
+    "name_en": "[Limited Time Offer] Main Liam Hen Episode 5 Release Memorial · Collision",
+    "name_en_src": "ml",
+    "priority": 2735
+  },
+  {
+    "applies_to_all_styles": 0,
     "event_ability_category_id": 574,
     "flavor_text": "・GW記念！はにわのゴールデンBOXで能力値アップ時の上昇量が2倍<br>・メインで能力値アップ時の上昇量が2倍",
     "flavor_text_en": "・GW commemoration! The amount of increase when the ability value is increased is doubled in Haniwa's Golden BOX, <br>and the amount of increase when the ability value is increased is doubled in the main",
@@ -10190,5 +10216,31 @@
     "name_en": "[Limited Time] Saga Soul 1st Anniversary Training Support, Stiletto, Spear, Bow, Cane",
     "name_en_src": "ml",
     "priority": 2694
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 583,
+    "flavor_text": "・GOLDEN VACATION-縦一列-、GOLDEN VACATION-横一列-で能力値アップ時の上昇量が2倍",
+    "flavor_text_en": "・GOLDEN VACATION - vertical row -, GOLDEN VACATION - horizontal row - doubled the amount of increase when the capacity value is increased",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 928,
+    "name": "[期間限定] GW記念！GOLDEN VACATION・SaGaRS",
+    "name_en": "[Limited Time Offer] Golden Week Commemoration! GOLDEN VACATION SAGARS",
+    "name_en_src": "ml",
+    "priority": 2734
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 584,
+    "flavor_text": "・GOLDEN VACATION-縦一列-、GOLDEN VACATION-横一列-で能力値アップ時の上昇量が2倍",
+    "flavor_text_en": "・GOLDEN VACATION - vertical row -, GOLDEN VACATION - horizontal row - doubled the amount of increase when the capacity value is increased",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 929,
+    "name": "[期間限定] GW記念！GOLDEN VACATION・突",
+    "name_en": "[Limited Time Offer] Golden Week Commemoration! GOLDEN VACATION",
+    "name_en_src": "ml",
+    "priority": 2733
   }
 ]

@@ -84138,5 +84138,2375 @@
     "typical_rewards": [
     ],
     "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 10210501,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105011,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-1. 黒い星",
+    "name_en": "5-1-1. black star",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120104171
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10305001,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000009,
+    "battle_id": 100305012,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001155,
+      870001153,
+      870001151,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105012,
+    "illust_category": 2,
+    "illust_id": 1010031,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-1. ランスへの道１",
+    "name_en": "5-1-1. Road to Reims 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105181,
+      120104102
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000009,
+    "battle_id": 100305013,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001162,
+      870001160,
+      870001158,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105013,
+    "illust_category": 2,
+    "illust_id": 1010031,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-1. ランスへの道１",
+    "name_en": "5-1-1. Road to Reims 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105102,
+      120104103
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000009,
+    "battle_id": 100305011,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001148,
+      870001146,
+      870001144,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105021,
+    "illust_category": 2,
+    "illust_id": 1010031,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-2. ランスへの道１",
+    "name_en": "5-1-2. Road to Reims 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105011
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000036,
+    "battle_id": 100305022,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001156,
+      870001151,
+      870001154,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105022,
+    "illust_category": 2,
+    "illust_id": 1020161,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-2. ランスへの道２",
+    "name_en": "5-1-2. Road to Reims 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105012
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000036,
+    "battle_id": 100305023,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001163,
+      870001158,
+      870001161,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105023,
+    "illust_category": 2,
+    "illust_id": 1020161,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-2. ランスへの道２",
+    "name_en": "5-1-2. Road to Reims 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105013
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000036,
+    "battle_id": 100305021,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001149,
+      870001144,
+      870001147,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105031,
+    "illust_category": 2,
+    "illust_id": 1020161,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-3. ランスへの道２",
+    "name_en": "5-1-3. Road to Reims 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105021
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000036,
+    "battle_id": 100305032,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001156,
+      870001154,
+      870001152,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105032,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-3. ランスへの道３",
+    "name_en": "5-1-3. Road to Reims 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105022
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000036,
+    "battle_id": 100305033,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001163,
+      870001161,
+      870001159,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105033,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-3. ランスへの道３",
+    "name_en": "5-1-3. Road to Reims 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105023
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000036,
+    "battle_id": 100305031,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001149,
+      870001147,
+      870001145,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105041,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-4. ランスへの道３",
+    "name_en": "5-1-4. Road to Reims 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105031
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000018,
+    "battle_id": 100305042,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001155,
+      870001152,
+      870001150,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105042,
+    "illust_category": 2,
+    "illust_id": 1100031,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-4. 極寒の地１",
+    "name_en": "5-1-4. Frigid land 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105032
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000018,
+    "battle_id": 100305043,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001162,
+      870001159,
+      870001157,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105043,
+    "illust_category": 2,
+    "illust_id": 1100031,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-4. 極寒の地１",
+    "name_en": "5-1-4. Frigid land 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105033
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 10210501,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105051,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-5. 星読みと予言",
+    "name_en": "5-1-5. Star reading and prophecy",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105041
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10305010,
+    "sort_order": 5,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000006,
+    "battle_id": 100305052,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001155,
+      870001150,
+      870001153,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105052,
+    "illust_category": 2,
+    "illust_id": 1060051,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-5. 極寒の地２",
+    "name_en": "5-1-5. Frigid Land 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105042
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000006,
+    "battle_id": 100305053,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001162,
+      870001157,
+      870001160,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105053,
+    "illust_category": 2,
+    "illust_id": 1060051,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-5. 極寒の地２",
+    "name_en": "5-1-5. Frigid Land 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105043
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000018,
+    "battle_id": 100305041,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001148,
+      870001145,
+      870001143,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105061,
+    "illust_category": 2,
+    "illust_id": 1100031,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-6. 極寒の地１",
+    "name_en": "5-1-6. Frigid land 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105051
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000036,
+    "battle_id": 100305062,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001155,
+      870001153,
+      870001151,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105062,
+    "illust_category": 2,
+    "illust_id": 1120331,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-1. モンスター退治１",
+    "name_en": "5-2-1. Monster Extermination 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105052
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000036,
+    "battle_id": 100305063,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001162,
+      870001160,
+      870001158,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105063,
+    "illust_category": 2,
+    "illust_id": 1120331,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-1. モンスター退治１",
+    "name_en": "5-2-1. Monster Extermination 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105053
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 700000006,
+    "battle_id": 100305051,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001148,
+      870001143,
+      870001146,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105071,
+    "illust_category": 2,
+    "illust_id": 1060051,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-7. 極寒の地２",
+    "name_en": "5-1-7. Frigid Land 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105061
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000036,
+    "battle_id": 100305072,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001156,
+      870001151,
+      870001154,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105072,
+    "illust_category": 2,
+    "illust_id": 1010411,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-2. モンスター退治２",
+    "name_en": "5-2-2. Monster Extermination 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105062
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000036,
+    "battle_id": 100305073,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001163,
+      870001158,
+      870001161,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105073,
+    "illust_category": 2,
+    "illust_id": 1010411,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-2. モンスター退治２",
+    "name_en": "5-2-2. Monster Extermination 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105063
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 10210501,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105081,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-8. 一面の銀世界",
+    "name_en": "5-1-8. One side of the silver world",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105071
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10305020,
+    "sort_order": 8,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000140,
+    "battle_id": 100305082,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001156,
+      870001154,
+      870001152,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105082,
+    "illust_category": 2,
+    "illust_id": 1150521,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-3. 輝ける湖１",
+    "name_en": "5-2-3. Shining Lake 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105072
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000140,
+    "battle_id": 100305083,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001163,
+      870001161,
+      870001159,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105083,
+    "illust_category": 2,
+    "illust_id": 1150521,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-3. 輝ける湖１",
+    "name_en": "5-2-3. Shining Lake 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105073
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 171,
+    "banner": 10210501,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105091,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-1-9. 異国の物語",
+    "name_en": "5-1-9. A story from a foreign country",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105081
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10305030,
+    "sort_order": 9,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000140,
+    "battle_id": 100305092,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001155,
+      870001152,
+      870001150,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105092,
+    "illust_category": 2,
+    "illust_id": 1110421,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-4. 輝ける湖２",
+    "name_en": "5-2-4. Shining Lake 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105082
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000140,
+    "battle_id": 100305093,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001162,
+      870001159,
+      870001157,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105093,
+    "illust_category": 2,
+    "illust_id": 1110421,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-4. 輝ける湖２",
+    "name_en": "5-2-4. Shining Lake 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105083
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000036,
+    "battle_id": 100305061,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001148,
+      870001146,
+      870001144,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105101,
+    "illust_category": 2,
+    "illust_id": 1120331,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-1. モンスター退治１",
+    "name_en": "5-2-1. Monster Extermination 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105091
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000140,
+    "battle_id": 100305102,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001155,
+      870001150,
+      870001153,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105102,
+    "illust_category": 2,
+    "illust_id": 1070301,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-5. 輝ける湖３",
+    "name_en": "5-2-5. Shining Lake 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105092
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000140,
+    "battle_id": 100305103,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001162,
+      870001157,
+      870001160,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105103,
+    "illust_category": 2,
+    "illust_id": 1070301,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-5. 輝ける湖３",
+    "name_en": "5-2-5. Shining Lake 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105093
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000036,
+    "battle_id": 100305071,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001149,
+      870001144,
+      870001147,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105111,
+    "illust_category": 2,
+    "illust_id": 1010411,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-2. モンスター退治２",
+    "name_en": "5-2-2. Monster Extermination 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105101
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 11,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 10210501,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105121,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-3. 異国の少年",
+    "name_en": "5-2-3. A boy from a foreign country",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105111
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10305040,
+    "sort_order": 12,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 10210501,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105131,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-4. 大切な仲間",
+    "name_en": "5-2-4. An important companion",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105121
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10305050,
+    "sort_order": 13,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 10210501,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105141,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-5. 私の道、私の運命",
+    "name_en": "5-2-5. My path, my destiny",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105131
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10305060,
+    "sort_order": 14,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000140,
+    "battle_id": 100305081,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001149,
+      870001147,
+      870001145,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105151,
+    "illust_category": 2,
+    "illust_id": 1150521,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-6. 輝ける湖１",
+    "name_en": "5-2-6. Shining Lake 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105141
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 15,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100683,
+        "type": 7
+      },
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000140,
+    "battle_id": 100305091,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001148,
+      870001145,
+      870001143,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105161,
+    "illust_category": 2,
+    "illust_id": 1110421,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-7. 輝ける湖２",
+    "name_en": "5-2-7. Shining Lake 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105151
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 16,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 700000140,
+    "battle_id": 100305101,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001148,
+      870001143,
+      870001146,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105171,
+    "illust_category": 2,
+    "illust_id": 1070301,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-8. 輝ける湖３",
+    "name_en": "5-2-8. Shining Lake 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105161
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 17,
+    "stamina": 7,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 172,
+    "banner": 10210501,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120105181,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "5-2-9. 光のゆく道",
+    "name_en": "5-2-9. The Path of Light",
+    "name_en_src": "ml",
+    "number_of_story_banner": 5,
+    "prev_quest_ids": [
+      120105171
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10305070,
+    "sort_order": 18,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
   }
 ]

@@ -8191,6 +8191,19 @@
   },
   {
     "expired_at": 0,
+    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Sword] Material required to create specific refinement equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100674,
+    "id": 1100674,
+    "max_quantity": 99999999,
+    "name": "翠緑の剣の鋳型の破片",
+    "name_en": "Green Sword Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22041528
+  },
+  {
+    "expired_at": 0,
     "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
     "flavor_text_en": "[Weapon Type/Great Sword] Material required to create specific forged equipment. It can be obtained at events, etc.",
     "flavor_text_en_src": "ml",
@@ -8243,6 +8256,32 @@
   },
   {
     "expired_at": 0,
+    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Gun] Materials required to create specific refinement equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100679,
+    "id": 1100679,
+    "max_quantity": 99999999,
+    "name": "翠緑の銃の鋳型の破片",
+    "name_en": "Green Green Gun Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22041518
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Stiletto] Material required to create specific refinement equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100680,
+    "id": 1100680,
+    "max_quantity": 99999999,
+    "name": "翠緑の小剣の鋳型の破片",
+    "name_en": "Green Green Stiletto Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22041516
+  },
+  {
+    "expired_at": 0,
     "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
     "flavor_text_en": "[Weapon Type/Spear] Material required to create specific forged equipment. It can be obtained at events, etc.",
     "flavor_text_en_src": "ml",
@@ -8253,6 +8292,32 @@
     "name_en": "Green Spear Mold Fragment",
     "name_en_src": "ml",
     "sort_order": 22041514
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Bow] Material required to create specific refinement equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100682,
+    "id": 1100682,
+    "max_quantity": 99999999,
+    "name": "翠緑の弓の鋳型の破片",
+    "name_en": "Green Green Bow Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22041512
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Cane] Material required to create specific refinement equipment. It can be obtained at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100683,
+    "id": 1100683,
+    "max_quantity": 99999999,
+    "name": "翠緑の杖の鋳型の破片",
+    "name_en": "Green Green Cane Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22041510
   },
   {
     "expired_at": 0,
@@ -8292,5 +8357,31 @@
     "name_en": "Haniwa's Golden Box Gacha Ticket [Limited Time Offer]",
     "name_en_src": "ml",
     "sort_order": 22042855
+  },
+  {
+    "expired_at": 1655146799,
+    "flavor_text": "イベント「聖石の洞窟発掘キャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2022/6/14 4:00まで）",
+    "flavor_text_en": "Items that can be obtained during the “Sacred Stone Cave Excavation Campaign” event. Can be exchanged for items at the exchange office. (Until 2022/6/14 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100233,
+    "id": 1100688,
+    "max_quantity": 99999999,
+    "name": "きれいな石[期間限定]",
+    "name_en": "Beautiful Stone [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22051010
+  },
+  {
+    "expired_at": 1655146799,
+    "flavor_text": "「リアム編第5話公開記念コイン交換所」で白金のつるはし(武器聖石)などと交換できるアイテム。（2022/6/14 4:00まで）",
+    "flavor_text_en": "Items that can be exchanged for platinum pickaxes (weapon sacred stones) etc. at the “Liam Edition Episode 5 Release Commemorative Coin Exchange”. (Until 2022/6/14 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100689,
+    "id": 1100689,
+    "max_quantity": 99999999,
+    "name": "リアム編第5話公開記念コイン[期間限定]",
+    "name_en": "Liam Hen Episode 5 Commemorative Coin [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22051015
   }
 ]

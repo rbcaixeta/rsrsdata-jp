@@ -9195,6 +9195,23 @@
   {
     "enemy_class": 11,
     "gender": 9,
+    "id": 111042,
+    "illust": 1110421,
+    "name": "ピー",
+    "name_en": "P",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 3,
+    "species": [
+      12,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 11,
+    "gender": 9,
     "id": 111043,
     "illust": 1110431,
     "name": "イフリート",
@@ -9269,6 +9286,23 @@
     "rank": 1,
     "species": [
       12
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 11,
+    "gender": 9,
+    "id": 111059,
+    "illust": 1110591,
+    "name": "ジャム",
+    "name_en": "jams",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      12,
+      82
     ],
     "sprite_studio": 0
   },
@@ -12316,6 +12350,38 @@
     "gender": 9,
     "id": 115048,
     "illust": 1150481,
+    "name": "スライム",
+    "name_en": "slime",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 15,
+    "gender": 9,
+    "id": 115051,
+    "illust": 1150511,
+    "name": "スライム",
+    "name_en": "slime",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 15,
+    "gender": 9,
+    "id": 115052,
+    "illust": 1150521,
     "name": "スライム",
     "name_en": "slime",
     "name_en_src": "ml",
