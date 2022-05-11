@@ -7689,10 +7689,10 @@
     "modifier_end": -3,
     "modifier_dex": -2,
     "modifier_agi": -1,
-    "modifier_int": 2,
+    "modifier_int": 3,
     "modifier_wil": 5,
     "modifier_lov": -2,
-    "modifier_cha": -1
+    "modifier_cha": 0
   },
   {
     "styleId": 233201,
@@ -10006,7 +10006,7 @@
     "modifier_str": 5,
     "modifier_end": -3,
     "modifier_dex": 3,
-    "modifier_agi": -1,
+    "modifier_agi": 0,
     "modifier_int": -1,
     "modifier_wil": -1,
     "modifier_lov": -3,
@@ -11468,7 +11468,7 @@
     "modifier_char_cha": 1,
     "modifier_str": -4,
     "modifier_end": 3,
-    "modifier_dex": -4,
+    "modifier_dex": -3,
     "modifier_agi": -4,
     "modifier_int": -4,
     "modifier_wil": 5,
