@@ -240,8 +240,8 @@
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧からランダムでアイテムが出現します。（2021/7/29 4:00まで）",
-    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item will randomly appear from the reward list. (Until 2021/7/29 4:00)",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You will get random items from Rewards. (Until [1656032399] <tz>)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       102252,
       102252,
@@ -259,8 +259,8 @@
     "id": 900020,
     "max_quantity": 9999,
     "name": "アビスの財宝[期間限定]",
-    "name_en": "Treasures of the Abyss [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Treasure of Abyss [Ltd. Time]",
+    "name_en_src": "gl",
     "rarity": 5,
     "sort_order": 1080
   },
