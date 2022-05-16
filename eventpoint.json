@@ -2444,6 +2444,19 @@
     "sort_order": 22042860
   },
   {
+    "expired_at": 1655233199,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
+    "flavor_text_en_src": "ml",
+    "icon": 800190,
+    "id": 800190,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・54",
+    "name_en": "Romancing Festival Medal・54",
+    "name_en_src": "ml",
+    "sort_order": 22051750
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -8383,5 +8396,57 @@
     "name_en": "Liam Hen Episode 5 Commemorative Coin [Limited Time Offer]",
     "name_en_src": "ml",
     "sort_order": 22051015
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100690,
+    "id": 1100690,
+    "max_quantity": 99999999,
+    "name": "ふわふわカップケーキ",
+    "name_en": "Fluffy cupcakes",
+    "name_en_src": "ml",
+    "sort_order": 22051713
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100691,
+    "id": 1100691,
+    "max_quantity": 99999999,
+    "name": "パーティふうせん",
+    "name_en": "Party Fusen",
+    "name_en_src": "ml",
+    "sort_order": 22051715
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「みんなで挑戦！わくわくチャレンジ」の集計アイテム。該当イベントで入手できる。（集計は2022/5/24 4:00まで）",
+    "flavor_text_en": "“Challenge everyone! Aggregated items from “Wakuwaku Challenge”. It can be obtained at the relevant event. (Aggregation is until 2022/5/24 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100692,
+    "id": 1100692,
+    "max_quantity": 99999999,
+    "name": "手づくりのおもちゃ",
+    "name_en": "Handmade toys",
+    "name_en_src": "ml",
+    "sort_order": 22051720
+  },
+  {
+    "expired_at": 1655233199,
+    "flavor_text": "「わんぱくメダル交換所」でスタイルなどと交換できるアイテム。（2022/6/15 4:00まで）",
+    "flavor_text_en": "Items that can be exchanged for styles etc. at the “Wanpaku Medal Exchange”. (Until 2022/6/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100709,
+    "id": 1100709,
+    "max_quantity": 99999999,
+    "name": "わんぱくメダル[期間限定]",
+    "name_en": "Naughty Medal [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22051710
   }
 ]

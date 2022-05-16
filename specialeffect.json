@@ -3570,6 +3570,90 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "140400090",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Increases health",
+    "flavor_text_en_src": "ml",
+    "id": 801011091,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Improve your physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011095,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Spirit up",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "愛が上昇する",
+    "flavor_text_en": "Love rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011096,
+    "ignition_effect_id": "",
+    "name": "愛アップ",
+    "name_en": "Love up",
+    "name_en_src": "ml",
+    "state_change_id": 900010018,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が上昇する",
+    "flavor_text_en": "The attractiveness rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011097,
+    "ignition_effect_id": "",
+    "name": "魅力アップ",
+    "name_en": "Attractiveness",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "毒耐性が上昇する",
     "flavor_text_en": "Increases Poison Resistance.",
@@ -4825,6 +4909,216 @@
     "target_area": 8,
     "text_color": "FF0000",
     "text_pop": "気絶耐性↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "毒耐性が上昇する",
+    "flavor_text_en": "Poison resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021098,
+    "ignition_effect_id": "",
+    "name": "毒耐性アップ",
+    "name_en": "Increased poison resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020020,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "異常耐性↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "暗闇耐性が上昇する",
+    "flavor_text_en": "Increases darkness tolerance",
+    "flavor_text_en_src": "ml",
+    "id": 801021099,
+    "ignition_effect_id": "",
+    "name": "暗闇耐性アップ",
+    "name_en": "Increased resistance to darkness",
+    "name_en_src": "ml",
+    "state_change_id": 900020021,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "スタン耐性が上昇する",
+    "flavor_text_en": "Increases stun resistance",
+    "flavor_text_en_src": "ml",
+    "id": 801021100,
+    "ignition_effect_id": "",
+    "name": "スタン耐性アップ",
+    "name_en": "Increased stun resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020022,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "マヒ耐性が上昇する",
+    "flavor_text_en": "Mahi resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021101,
+    "ignition_effect_id": "",
+    "name": "マヒ耐性アップ",
+    "name_en": "Increased resistance to mahi",
+    "name_en_src": "ml",
+    "state_change_id": 900020023,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "眠り耐性が上昇する",
+    "flavor_text_en": "Sleep tolerance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021102,
+    "ignition_effect_id": "",
+    "name": "眠り耐性アップ",
+    "name_en": "Increases sleep tolerance",
+    "name_en_src": "ml",
+    "state_change_id": 900020024,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "石化耐性が上昇する",
+    "flavor_text_en": "Petrification resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021103,
+    "ignition_effect_id": "",
+    "name": "石化耐性アップ",
+    "name_en": "Increased petrification resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020025,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "混乱耐性が上昇する",
+    "flavor_text_en": "Increases tolerance for confusion",
+    "flavor_text_en_src": "ml",
+    "id": 801021104,
+    "ignition_effect_id": "",
+    "name": "混乱耐性アップ",
+    "name_en": "Increased tolerance for confusion",
+    "name_en_src": "ml",
+    "state_change_id": 900020026,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅了耐性が上昇する",
+    "flavor_text_en": "Increases fascination resistance",
+    "flavor_text_en_src": "ml",
+    "id": 801021105,
+    "ignition_effect_id": "",
+    "name": "魅了耐性アップ",
+    "name_en": "Increased fascination resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020027,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "狂戦士耐性が上昇する",
+    "flavor_text_en": "Increases Berserker Resistance",
+    "flavor_text_en_src": "ml",
+    "id": 801021106,
+    "ignition_effect_id": "",
+    "name": "狂戦士耐性アップ",
+    "name_en": "Berserker Resistance Up",
+    "name_en_src": "ml",
+    "state_change_id": 900020028,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "気絶耐性が上昇する",
+    "flavor_text_en": "Increases stun tolerance",
+    "flavor_text_en_src": "ml",
+    "id": 801021107,
+    "ignition_effect_id": "",
+    "name": "気絶耐性アップ",
+    "name_en": "Increased resistance to fainting",
+    "name_en_src": "ml",
+    "state_change_id": 900020029,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -9270,6 +9564,27 @@
     "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
     "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
     "flavor_text_en_src": "ml",
+    "id": 801040968,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(中)",
+    "name_en": "Moral up (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
     "id": 801040969,
     "ignition_effect_id": "",
     "name": "モラルアップ(中)",
@@ -10896,6 +11211,27 @@
     "flavor_text": "敵に与えるダメージが上昇する",
     "flavor_text_en": "Increases damage dealt to enemies",
     "flavor_text_en_src": "ml",
+    "id": 801041089,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
     "id": 801041143,
     "ignition_effect_id": "",
     "name": "ヒートアップ",
@@ -10930,6 +11266,72 @@
     "target_area": 3,
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage received from enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041152,
+    "ignition_effect_id": "",
+    "name": "ガードアップ(中)",
+    "name_en": "Guard up (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040076,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140400091",
+    "flavor_text": "すべての状態異常を解除する",
+    "flavor_text_en": "Clear all state anomalies",
+    "flavor_text_en_src": "ml",
+    "id": 801041214,
+    "ignition_effect_id": "",
+    "name": "異常解除",
+    "name_en": "Resolve abnormalities",
+    "name_en_src": "ml",
+    "state_change_id": 900050058,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "5BFF24",
+    "text_pop": "異常解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140400092",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 801041215,
+    "ignition_effect_id": "",
+    "name": "HP回復(極小)",
+    "name_en": "HP recovery (extremely small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -15850,6 +16252,48 @@
     "target_area": 8,
     "text_color": "FF0000",
     "text_pop": "精神↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Increases dexterity",
+    "flavor_text_en_src": "ml",
+    "id": 802011150,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "器用さ 魅力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が上昇する",
+    "flavor_text_en": "The attractiveness rises",
+    "flavor_text_en_src": "ml",
+    "id": 802011151,
+    "ignition_effect_id": "",
+    "name": "魅力アップ",
+    "name_en": "Attractiveness",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -30103,6 +30547,116 @@
     "text_pop": "冷攻撃↑",
     "triggering_effect_condition_ids": [
       22005
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )",
+    "flavor_text_en": "Increases your OD gauge at the end of a turn (small effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041152,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 ODゲージ上昇(小)",
+    "name_en": "OD Gauge Up at End of Turn (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101230
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃時、「タイムのなかまたち」が発動する",
+    "flavor_text_en": "During an OD attack, “Time Nakamatachi” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041153,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101231
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で技3を発動後、タイムのなかまたちで攻撃を行う",
+    "flavor_text_en": "After activating Move 3 with an OD attack, attack in the middle of time",
+    "flavor_text_en_src": "ml",
+    "id": 802041154,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400220
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "フレンズソウル",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で継承技を発動後、タイムのなかまたちで攻撃を行う",
+    "flavor_text_en": "After activating the inheritance technique in an OD attack, perform an attack in the middle of time",
+    "flavor_text_en_src": "ml",
+    "id": 802041155,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400220
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "フレンズソウル",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で通常攻撃を発動後、タイムのなかまたちで攻撃を行う",
+    "flavor_text_en": "After activating a normal attack with an OD attack, perform an attack in the middle of time",
+    "flavor_text_en_src": "ml",
+    "id": 802041156,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400220
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "フレンズソウル",
+    "triggering_effect_condition_ids": [
     ]
   },
   {

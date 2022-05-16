@@ -3756,6 +3756,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[遊びに行っておいで]ミカエル専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Go Play] A piece dedicated to Mikael. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 230308,
+    "id": 230308,
+    "name": "SSミカエルのピース",
+    "name_en": "SS Mikael's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[トルネード]ハリード専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Tornado] Khalid.",
@@ -4076,6 +4088,18 @@
     "id": 230712,
     "name": "SSモニカのピース",
     "name_en": "Pieces of SS Monica",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[お兄様と遊びたい]モニカ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I want to play with my brother] A piece dedicated to Monica. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 230714,
+    "id": 230714,
+    "name": "SSモニカのピース",
+    "name_en": "SS Monica piece",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -7161,6 +7185,18 @@
     "name": "SSオルロワージュのピース",
     "name_en": "SS Orlouge Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ボクが隊長だ！]タイム専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I'm the captain!] A piece dedicated to time Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 319701,
+    "id": 319701,
+    "name": "SSタイムのピース",
+    "name_en": "SS Time piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

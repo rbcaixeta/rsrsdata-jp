@@ -7387,6 +7387,78 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体の器用さと魅力を上昇させる( 確率中/効果大 )",
+    "flavor_text_en": "[Start of Turn] <br>Increases dexterity and attractiveness of all allied survivors (Medium Chance/High Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101227,
+    "name": "能力伝達Ⅲ(器用さ・魅力)",
+    "name_en": "Ability Transmission III (Dexterity, Attractiveness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011150,
+      802011151
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「タイムのなかまたち」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>タイムのなかまたち<br>棍棒/攻撃/威力B/間接/敵全体 ( 打+斬 ) <br>全体攻撃する<br>味方生存者全体のHPを回復( 効果極小 )し、さらに、味方生存者全体のすべての状態異常耐性を上昇( 効果中 )させる<br>( 技Rank1で発動 )",
+    "flavor_text_en": "At the end of the turn, <br>after activating an OD attack (*) that raises your own OD gauge (small effect), “Time Nakamatachi” will be <br>activated.*Due to “Techniques/Techniques handed down in the R Cup” and “This ability effect Does not include “techniques and tricks to be activated” <br><br>and “counterattack techniques/techniques by counter effects” Attack the <br>entire time club/attack/power B/indirect/enemy (<br>hit+attack) <br> Restores the HP of all allied survivors (minimal effect), and also increases the state resistance of all allied survivors (during effect) <br>(activated with Move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101229,
+    "name": "フレンズソウル",
+    "name_en": "Friends Seoul",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041152,
+      802041153
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>自身のODゲージを上昇させる( 効果小 )",
+    "flavor_text_en": "[End of Turn] <br>Raises your OD gauge (Small Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101230,
+    "name": "ターン終了時 ODゲージ上昇(小)",
+    "name_en": "OD Gauge Up at End of Turn (Small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041101
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃発動後、「タイムのなかまたち」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "After activating an OD attack, “Time Nakamatachi” is activated <br>(activated with Move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101231,
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041154,
+      802041155,
+      802041156
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br>攻撃を受けてHP0になる時、最大HPの50%でふみとどまる( 上限回数:バトル中1回 )",
     "flavor_text_en": "Increases damage dealt <br>by attacks (high effect) When attacked and becomes HP 0, it stays at 50% of maximum HP (maximum number of times: 1 time during battle)",
