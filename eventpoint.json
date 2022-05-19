@@ -1783,14 +1783,14 @@
   {
     "expired_at": 1628967599,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800139,
     "id": 800139,
     "max_quantity": 99999999,
     "name": "Romancing祭メダル・18",
-    "name_en": "Romancing Festival Medal 18",
-    "name_en_src": "ml",
+    "name_en": "Romancing Festival Medal 34",
+    "name_en_src": "gl",
     "sort_order": 3625
   },
   {
@@ -6437,14 +6437,14 @@
   {
     "expired_at": 1624474799,
     "flavor_text": "イベント「聖石の洞窟 発掘キャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2021/6/24 4:00まで）",
-    "flavor_text_en": "Items that can be obtained during the “Sacred Stone Cave Excavation Campaign” event. Can be exchanged for items at the Exchange. (until 2021/6/24 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items. (Until [1655168399] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 1100376,
     "id": 1100514,
     "max_quantity": 99999999,
     "name": "きれいな石(黒)[期間限定]",
-    "name_en": "Beautiful Stone (Black) [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Precious Stone [Limited Time]",
+    "name_en_src": "gl",
     "sort_order": 3500
   },
   {
@@ -6489,14 +6489,14 @@
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100518,
     "id": 1100518,
     "max_quantity": 99999999,
     "name": "ヴァジュイール挑戦の証",
-    "name_en": "Proof of Vajuire Challenge",
-    "name_en_src": "ml",
+    "name_en": "Virgil Challenge Badge",
+    "name_en_src": "gl",
     "sort_order": 3600
   },
   {
