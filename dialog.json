@@ -2572,5 +2572,18 @@
     "title": "月次報酬",
     "title_en": "Monthly remuneration",
     "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 208,
+    "name": "auto_rematch_Battle_End_9",
+    "name_en": "Auto_rematch_battle_end_9",
+    "name_en_src": "ml",
+    "text": "このエリアの状況が変化したため、<br>自動再戦を停止しました。",
+    "title": "自動再戦停止",
+    "title_en": "Auto rematch stop",
+    "title_en_src": "ml"
   }
 ]

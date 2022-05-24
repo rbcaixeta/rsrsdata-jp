@@ -2570,6 +2570,20 @@
   },
   {
     "banners": [
+      1206,
+      1210
+    ],
+    "id": 193,
+    "name": "Organization_InheritSkill",
+    "name_en": "Organization_inheritSkill",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "技・術管理",
+    "title_en": "Technique management",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
       9476
     ],
     "id": 194,
@@ -2969,7 +2983,7 @@
       1210
     ],
     "id": 222,
-    "name": "Organization_InheritSkill",
+    "name": "Disabled",
     "name_en": "Organization_InheritSkill",
     "name_en_src": "gl",
     "size": 3,
@@ -3612,7 +3626,7 @@
       1215
     ],
     "id": 269,
-    "name": "Organization_Party",
+    "name": "Disabled",
     "name_en": "Organization_Party",
     "name_en_src": "gl",
     "size": 3,
@@ -8895,6 +8909,21 @@
   },
   {
     "banners": [
+      1213,
+      1214,
+      1215
+    ],
+    "id": 648,
+    "name": "Organization_Party",
+    "name_en": "Organization_Party",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "パーティ編成",
+    "title_en": "Party organization",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
       10744,
       10745,
       10746,
@@ -9214,6 +9243,40 @@
     "size": 3,
     "title": "とびだせ！わくわくフェスティバル",
     "title_en": "Jump it out! Wakuwaku Festival",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10805,
+      10806,
+      10807
+    ],
+    "id": 668,
+    "name": "Quest_Event_1521",
+    "name_en": "Quest_Event_1521",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "激闘！ジェノサイドハート",
+    "title_en": "Fierce battle! Genocide Heart",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10812,
+      10813,
+      10814,
+      10815,
+      10887,
+      10807,
+      10743
+    ],
+    "id": 670,
+    "name": "Quest_Event_1530",
+    "name_en": "Quest_Event_1530",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "INTRUDER",
+    "title_en": "INTRUDER",
     "title_en_src": "ml"
   },
   {

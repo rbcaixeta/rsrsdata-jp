@@ -7460,6 +7460,45 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「ラ・ビットレーザー」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "After the next turn it was granted, “La Bit Laser” will be activated after activating an attack (*) (maximum number of times: 3 times) <br>(activated with Move Rank1) <br>* “Moves/tricks activated by special state effects “Counterattack techniques and techniques by counter effects” and “techniques handed down in the R Cup” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101232,
+    "name": "ラ・ビット支援攻撃(3回)",
+    "name_en": "Rabbit Support Attack (3 times)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      801041114,
+      801041115,
+      801041116,
+      801041117,
+      801041118
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身の状態異常をすべて解除し、<br>かつ、自身のBPを回復する( +1 )<br>さらに、バトル開始時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "At the end of the turn, clear all of <br>your health anomalies and heal your BP (+1) and <br>recover your BP at the start of battle (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101233,
+    "name": "デトックスフォースチャージⅡ",
+    "name_en": "Detox Force Charge II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040322,
+      802041159
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br>攻撃を受けてHP0になる時、最大HPの50%でふみとどまる( 上限回数:バトル中1回 )",
     "flavor_text_en": "Increases damage dealt <br>by attacks (high effect) When attacked and becomes HP 0, it stays at 50% of maximum HP (maximum number of times: 1 time during battle)",
@@ -7475,6 +7514,297 @@
     "special_effect_ids": [
       802041203,
       802040001
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>一定の確率で( 確率中 )<br>自身に「ダメージブロック」( 効果1ターン )を付与し、<br>さらに、自身のHPを回復( 効果小 )し、自身のBPを回復( +2 )する<br><br>ダメージブロック<br>被ダメージを100%カットする",
+    "flavor_text_en": "[At the start of turn] <br><br>Grants “Damage Block” (effect 1 turn) to itself with a certain probability (during probability), and <br>also restores its own HP (small effect), and increases its own BP Heals (+2) <br><br>Damage Block <br>Cuts 100% of damage taken",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101235,
+    "name": "安全確保Ⅱ",
+    "name_en": "Ensuring Safety II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040966,
+      802040062,
+      802040754
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、多段斬りでカウンター攻撃する( 確率大 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "<br>Counter attack with multistage slash against direct attack when attacked (high probability) <br>(Activated with move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101236,
+    "name": "多段反撃システム",
+    "name_en": "Multi-stage counterattack system",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041160
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>自身の状態異常をすべて解除する<br>自身のHPを回復する( 効果極小 )<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "[End of Turn] <br>Clear all status abnormalities on <br>your own Restore your own HP (Minimal Effect) <br>Restore your BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101238,
+    "name": "デトックスヒール&フォース",
+    "name_en": "Detox Heel & Force",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040310,
+      802010689,
+      802040812
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃の、与ダメージが上昇する( 効果特大 )<br>かつ、Resist攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "Increases damage dealt by Weak attacks (Extra Large Effect) <br>and reduces damage taken when receiving a Resist attack (Extra Large Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101239,
+    "name": "対抗集中Ⅳ",
+    "name_en": "Opposition Concentration IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040347,
+      802041163
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Resist攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br>ターン終了時、自身の状態異常をすべて解除する",
+    "flavor_text_en": "Reduces damage taken when subjected to a Resist attack (Extra Large Effect) <br>Unlocks all of its own health abnormalities at the end of the turn",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101241,
+    "name": "デトックスアーマー",
+    "name_en": "Detox armor",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041163,
+      802041107
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "回復行動時(※)<br>自身と対象のBPを回復( +2 )し、<br>さらに、自身と対象の器用さを上昇( 効果大 )させる<br>※タイプが「回復」の技・術での回復を指す",
+    "flavor_text_en": "During recovery action (*) <br>recovers the BP of oneself and the <br>target (+2), and also increases the dexterity of oneself and the target (great effect) <br>*Type refers to recovery with techniques and techniques of “recovery”",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101242,
+    "name": "ヒールエンハンス(器用さ)",
+    "name_en": "Heel Enhance (Dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041165,
+      802041166,
+      802011167,
+      802011168
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇( 効果極大 )し、さらに、<br>自身の連携攻撃とOD攻撃の与ダメージが上昇( 効果大 )する<br>( OD連携攻撃の場合は、連携攻撃強化とOD攻撃強化の効果が共に発揮される )",
+    "flavor_text_en": "The damage dealt by the attack increases (maximum effect), and the damage <br>dealt by the own cooperative attack and the OD attack increases (effective) (in the <br>case of an OD cooperative attack, strengthens cooperative attacks and strengthens OD attacks (The effects are demonstrated together)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101243,
+    "name": "オーバーグレートテンション",
+    "name_en": "Overgrated tension",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802040007,
+      802040006
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>かつ、バトル開始時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Increases damage dealt by attacks (maximum effect) <br>and restores own BP at the start of battle (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101244,
+    "name": "バトルグレートテンション",
+    "name_en": "Battle Great Tension",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802040323
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br><br>バトル開始から数えて3の倍数のターン開始時、自身のHPを回復( 効果小 )し、さらに、自身に「ヒートアップ」( 効果中 )と「ディフェンスアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
+    "flavor_text_en": "Increases damage dealt by attacks (high effect) <br><br>At the start of a turn that is a multiple of 3 counted from the start of the battle, heals own HP (small effect), and also “heats up” (active) to oneself Grants “Defense Up” (active) (up to 5 times in battle) <br><br><br>Increases damage dealt by heat-up attacks (effects persist during battles) <br><br> DEFENSE UP <br>Reduces damage taken (Permanent during effect battles)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101245,
+    "name": "カラミティプログラム",
+    "name_en": "Calamity Program",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802041169,
+      802041170,
+      802041171
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身のHPを回復( 効果小 )する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "Restores your own HP (small effect) at the start of a turn that is a multiple of 3 from the start of the battle (maximum number of times: 5 times in battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101246,
+    "name": "3の倍数のターン開始時 HP回復(小)",
+    "name_en": "Restore HP at the start of a turn that is a multiple of 3 (small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040062
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "Grants self “Heat Up” (active) at the start of a turn that is a multiple of 3 from the start of battle (maximum number of times: 5 times in battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101247,
+    "name": "3の倍数のターン開始時 ヒートアップ",
+    "name_en": "Heats up at the start of a turn in multiples of 3",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040934
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「ディフェンスアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "Grants “Defense Up” (active) to self at the start of a turn that is a multiple of 3 from the start of battle (maximum number of times: 5 times in battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101248,
+    "name": "3の倍数のターン開始時 ディフェンスアップ",
+    "name_en": "Defense up at the start of a turn that is a multiple of 3",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041036
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時] <br>自身に行動順補正上昇(中)を付与する( 効果1ターン )<br>自身の素早さを上昇する( 効果大 )",
+    "flavor_text_en": "[At the start of round] <br>Grants self Action Order Correction Increase (Medium) (Effect 1 turn) <br>Increases self's Quickness (Great Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101249,
+    "name": "機先Ⅲ(素早さ)",
+    "name_en": "Opportunity III (quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010389,
+      802040941
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身の腕力と知力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases brawn and intelligence when hit by an attack (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101250,
+    "name": "闘気激化Ⅰ(腕力・知力)",
+    "name_en": "Battle Intensification I (Brawn, Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010076,
+      802010088
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身の状態異常をすべて解除し、<br>かつ、自身のHPを回復する( 効果極小 )<br>さらに、バトル開始時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "At the end of the turn, unlocks all of <br>its own state abnormalities and restores its own HP (effect is minimal)<br>, and heals its own BP at the start of battle (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101271,
+    "name": "デトックスヒールチャージⅡ",
+    "name_en": "Detox Heel Charge II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040322,
+      802041205
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身の状態異常をすべて解除し、さらに、自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "[End of Turn] Clears <br>all of its own state anomalies and restores its own health (effect is minimal)",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101272,
+    "name": "ターン終了時 全状態異常解除・HP回復(極小)",
+    "name_en": "All state abnormalities canceled at the end of the turn, HP recovery (minimal)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040310,
+      802010689
     ]
   },
   {
@@ -35670,6 +36000,23 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>ダメージを無効にする( 効果1ターン )",
+    "flavor_text_en": "[Start of Turn] <br>Negate damage (Effect takes 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 708300194,
+    "name": "プロテクトウォール",
+    "name_en": "Protected wall",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040106
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -36087,6 +36434,24 @@
     "special_effect_ids": [
       808050423,
       808040426
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "[End of Turn] <br>Unlock your own Strength, Health, Dexterity, Quickness, Intelligence, Spirit, Love, and Charm abilities Down",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400184,
+    "name": "ウィークキャンセラー",
+    "name_en": "Week canceller",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040451,
+      808040452
     ]
   },
   {

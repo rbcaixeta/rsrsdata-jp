@@ -192,6 +192,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[性能アップです！]メカ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Performance is up!] A piece dedicated to mecha. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 120503,
+    "id": 120503,
+    "name": "SSメカのピース",
+    "name_en": "SS mecha piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[そうか　いくのか]せんせい専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Oh? Is It Time?] Sensei.",
@@ -5460,6 +5472,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[決勝レース直前]ナハトズィーガー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [just before the final race] a piece dedicated to Nachtziger. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 237202,
+    "id": 237202,
+    "name": "SSナハトズィーガーのピース",
+    "name_en": "Pieces by SS Nacht Zieger",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[わたしが町長です]キドラントの町長専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [I Am the Mayor] Kyrdlund's Mayor. ",
@@ -5905,6 +5929,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[V-MAX発動！]T260G専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [V-MAX activated!] A piece dedicated to the T260G Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 310305,
+    "id": 310305,
+    "name": "SST260Gのピース",
+    "name_en": "Piece of SST260G",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[アルカイザー、見参！]アルカイザー専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Alkaiser's on the Scene!] Alkaiser. ",
     "flavor_text_en_src": "gl",
@@ -6262,6 +6298,18 @@
     "name_en": "S Rabbit Piece",
     "name_en_src": "gl",
     "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ビット射出します！]ラビット(SF1)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Bit injection!] A piece dedicated to Rabbit (SF1) Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 311503,
+    "id": 311503,
+    "name": "SSラビット(SF1)のピース",
+    "name_en": "Piece of SS Rabbit (SF1)",
+    "name_en_src": "ml",
+    "selling_price": 100
   },
   {
     "exchange_cost": 250,
@@ -7033,6 +7081,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[すべて異常なし、です]BJ&K専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [everything is abnormal, is] a piece dedicated to BJ&K. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 314401,
+    "id": 314401,
+    "name": "SSBJ&Kのピース",
+    "name_en": "SSBJ&K pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[花火大会上空で～す]ナカジマ零式専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "SS [in the sky above the fireworks display] Nakajima Zero type dedicated piece. Can be used for style summoning or breaking limits.",
     "flavor_text_en_src": "ml",
@@ -7040,6 +7100,30 @@
     "id": 314502,
     "name": "SSナカジマ零式のピース",
     "name_en": "Piece of SS Nakajima Zero",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[空気が薄くていい！]ナカジマ零式専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [It's okay if the air is thin!] A piece dedicated to Nakajima Type 0. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 314503,
+    "id": 314503,
+    "name": "SSナカジマ零式のピース",
+    "name_en": "SS Nakajima Type 0 piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[掘り出し物があるかな]pzkwV専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Do you have bargains] A piece dedicated to PzKWV. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 314601,
+    "id": 314601,
+    "name": "SSpzkwVのピース",
+    "name_en": "Pieces of SSPzKWV",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -7065,6 +7149,18 @@
     "name": "SS特殊工作車のピース",
     "name_en": "SS Engineer Car Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[特殊戦闘車です]特殊工作車専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Special Combat Vehicle] A piece dedicated to Special Craft Vehicles. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 314703,
+    "id": 314703,
+    "name": "SS特殊工作車のピース",
+    "name_en": "Pieces of SS special craft cars",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -7114,6 +7210,30 @@
     "name_en": "S Rasta Bang piece",
     "name_en_src": "ml",
     "selling_price": 60
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[トリニティの天才]レオナルド(SF1)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece dedicated to S [Trinity Genius] Leonardo (SF1) Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 315001,
+    "id": 315001,
+    "name": "Sレオナルド(SF1)のピース",
+    "name_en": "S Leonardo (SF1) piece",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[メカでも問題なしです]レオナルド(SF1)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [There is no problem with mecha] A piece dedicated to Leonardo (SF1). Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 315002,
+    "id": 315002,
+    "name": "SSレオナルド(SF1)のピース",
+    "name_en": "Piece of SS Leonardo (SF1)",
+    "name_en_src": "ml",
+    "selling_price": 100
   },
   {
     "exchange_cost": 250,
@@ -9692,6 +9812,18 @@
     "id": 810301,
     "name": "SSITOKENのピース",
     "name_en": "SSITOKEN pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[死をもたらすモノ]デスマシーン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Things That Brings Death] A piece dedicated to the Death Machine. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 810401,
+    "id": 810401,
+    "name": "SSデスマシーンのピース",
+    "name_en": "SS Death Machine Pieces",
     "name_en_src": "ml",
     "selling_price": 100
   }

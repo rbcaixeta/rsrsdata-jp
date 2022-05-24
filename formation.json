@@ -1290,5 +1290,41 @@
         "y": 42
       }
     ]
+  },
+  {
+    "flavor_text": "前衛1人の知力と素早さ、中衛3人の器用さ、後衛1人の腕力がそれぞれ強化される、小剣、弓、銃を中心とした攻撃陣形。<br>前衛には行動後防御強化が付与され、後衛には行動前防御強化が付与される。",
+    "flavor_text_en": "An attack formation centered on stilettos, bows, and guns, where the intelligence and quickness of one avant-garde, the dexterity of the three middle guards, and the strength of one rear guard are strengthened, respectively. <br>The avant-garde is given a post-action defense reinforcement, and the rear guard is granted a pre-action defense enhancement.",
+    "flavor_text_en_src": "ml",
+    "id": 1042,
+    "name": "インバースハリケーン",
+    "name_en": "Inverse hurricane",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1128,
+        "x": 8,
+        "y": 35
+      },
+      {
+        "formation_bonus_id": 1129,
+        "x": 25,
+        "y": 5
+      },
+      {
+        "formation_bonus_id": 1129,
+        "x": 25,
+        "y": 25
+      },
+      {
+        "formation_bonus_id": 1129,
+        "x": 25,
+        "y": 45
+      },
+      {
+        "formation_bonus_id": 1130,
+        "x": 42,
+        "y": 15
+      }
+    ]
   }
 ]

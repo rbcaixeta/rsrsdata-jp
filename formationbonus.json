@@ -1543,5 +1543,50 @@
     "subayasa_coefficient": 125,
     "tairyoku_coefficient": 100,
     "wanryoku_coefficient": 100
+  },
+  {
+    "ability_id": 750101003,
+    "ai_coefficient": 100,
+    "chiryoku_coefficient": 150,
+    "flavor_text": "知力・素早さが50%上昇する。狙われやすさが上昇する。",
+    "flavor_text_en": "Increases intelligence and quickness by 50%. The ease of being targeted increases.",
+    "flavor_text_en_src": "ml",
+    "id": 1128,
+    "kiyousa_coefficient": 100,
+    "miryoku_coefficient": 100,
+    "seishin_coefficient": 100,
+    "subayasa_coefficient": 150,
+    "tairyoku_coefficient": 100,
+    "wanryoku_coefficient": 100
+  },
+  {
+    "ability_id": 0,
+    "ai_coefficient": 100,
+    "chiryoku_coefficient": 100,
+    "flavor_text": "器用さが25%上昇するが、体力が50%低下する。",
+    "flavor_text_en": "Increases dexterity by 25%, but decreases health by 50%.",
+    "flavor_text_en_src": "ml",
+    "id": 1129,
+    "kiyousa_coefficient": 125,
+    "miryoku_coefficient": 100,
+    "seishin_coefficient": 100,
+    "subayasa_coefficient": 100,
+    "tairyoku_coefficient": 50,
+    "wanryoku_coefficient": 100
+  },
+  {
+    "ability_id": 750101002,
+    "ai_coefficient": 100,
+    "chiryoku_coefficient": 100,
+    "flavor_text": "腕力が50%上昇するが、素早さが50%低下する。狙われやすさが低下する。",
+    "flavor_text_en": "Increases brawn strength by 50%, but reduces quickness by 50%. The ease of being targeted decreases.",
+    "flavor_text_en_src": "ml",
+    "id": 1130,
+    "kiyousa_coefficient": 100,
+    "miryoku_coefficient": 100,
+    "seishin_coefficient": 100,
+    "subayasa_coefficient": 50,
+    "tairyoku_coefficient": 100,
+    "wanryoku_coefficient": 150
   }
 ]
