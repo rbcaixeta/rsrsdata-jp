@@ -185,5 +185,22 @@
     "name_en_src": "ml",
     "sort_order": 22042001,
     "style_event_ability_id": 0
+  },
+  {
+    "duration_seconds": 3600,
+    "event_ability_group_id": 953,
+    "event_ability_potion_type": 1,
+    "expired_at": 1654394400,
+    "flavor_text": "[期間限定]使用から1時間、全てのバトルクエストで全てのスタイルの能力値アップ時の上昇量が5倍になるアイテム（2022/6/5 11:00まで）",
+    "flavor_text_en": "[Limited Time Offer] An item that increases the amount of abilities of all styles increased by 5 times in all Battle Quests for 1 hour from use (until 2022/6/5 11:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 940017,
+    "id": 940017,
+    "max_quantity": 9999,
+    "name": "[6/5 11:00まで][全]3.5周年記念鍛錬極意書",
+    "name_en": "[6/5 until 11:00] [All] 3.5th Anniversary Training Secret",
+    "name_en_src": "ml",
+    "sort_order": 22053103,
+    "style_event_ability_id": 0
   }
 ]

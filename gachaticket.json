@@ -442,7 +442,7 @@
     "sort_order": 3350
   },
   {
-    "expired_at": 0,
+    "expired_at": 1655665199,
     "flavor_text": "5枚集めると螺旋ガチャ（2021/5/20 12:00開始）を1回引くことができるチケット。",
     "flavor_text_en": "If you collect 5 tickets, you can draw a spiral gacha (2021/5/20 12:00 start) once.",
     "flavor_text_en_src": "ml",
@@ -648,5 +648,31 @@
     "name_en": "GW commemoration! Super crunchy golden festival! Platinum Ticket [Limited Time Offer]",
     "name_en_src": "ml",
     "sort_order": 22042804
+  },
+  {
+    "expired_at": 1660503599,
+    "flavor_text": "5枚集めると「3.5周年記念-赤の少女- プラチナチケットガチャ」を1回引くことができるチケット。（2022/8/15 4:00まで）",
+    "flavor_text_en": "If you collect 5 tickets, you can draw “3.5 Anniversary - Red Girl - Platinum Ticket Gacha” once. (Until 2022/8/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 810053,
+    "id": 810053,
+    "max_quantity": 9999,
+    "name": "3.5周年記念-赤の少女- プラチナチケット[期間限定]",
+    "name_en": "3.5th Anniversary - Girl in Red - Platinum Ticket [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22053128
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "5枚集めると螺旋ガチャ（2022/5/31 12:00開始）を1回引くことができるチケット。",
+    "flavor_text_en": "If you collect 5 cards, you can draw a spiral gacha (2022/5/31 12:00 start) once.",
+    "flavor_text_en_src": "ml",
+    "icon": 810054,
+    "id": 810054,
+    "max_quantity": 9999,
+    "name": "螺旋ガチャチケット・Ⅴ",
+    "name_en": "Spiral Gacha Ticket V",
+    "name_en_src": "ml",
+    "sort_order": 22053125
   }
 ]

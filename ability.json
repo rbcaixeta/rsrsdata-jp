@@ -7774,6 +7774,271 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "単体攻撃(※)を発動後、「アタックチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "After activating a single attack (*), “Attack Chaser” is activated <br>(activated with Move Rank1) <br>* “Techniques activated by “Pursuit”, “Counterattack Techniques/Techniques with Counter Effects”, “Legacy in R Cup Does not include “techniques and techniques that have been done”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101251,
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      801041126,
+      801041127,
+      801041128,
+      801041129,
+      801041130,
+      801041131,
+      801041132,
+      801041133,
+      801041134
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時] <br>味方生存者全体のBPを回復する( +1 )",
+    "flavor_text_en": "[At Battle Start] <br>Restore the BP of all survivors allies (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101252,
+    "name": "マスパワーチャージⅠ",
+    "name_en": "Mass Power Charge I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041213
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時] <br>味方生存者全体のBPを回復する( +1 )<br>味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "[At Round Start] <br>Restores BP to all allied survivors (+1) and <br>increases strength, health, dexterity, quickness, intelligence, spirit, love, and attractiveness of all allied survivors (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101253,
+    "name": "不思議な絆Ⅰ",
+    "name_en": "Mysterious Bonds I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040745,
+      802011172,
+      802011173,
+      802011174,
+      802011175,
+      802011176,
+      802011177,
+      802011178,
+      802011179
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "小剣装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+    "flavor_text_en": "Increases damage dealt by attack when equipped with stilettos (extra effect) <br>Reduces damage taken when receiving a <br>Resist attack (maximum effect) Avoids enemy attacks when attacked by Resist (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101254,
+    "name": "小剣の天稟Ⅳ",
+    "name_en": "Tensho of Stilettos IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040738,
+      802041212,
+      802041181
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の<br>与ダメージが上昇する( 効果超極大 )",
+    "flavor_text_en": "<br>Increases damage dealt by attacks (super extreme effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101255,
+    "name": "テンションアップⅦ",
+    "name_en": "Tension up",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041182
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「モラルアップ(中)」を付与する( 効果1ターン )<br>自身の器用さを上昇させる( 効果中 )",
+    "flavor_text_en": "[Start of Turn] <br>Grants “Moral Up (Medium)” to self (effect 1 turn) <br>Increases own dexterity (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101256,
+    "name": "破竹の活性Ⅱ(器用さ)",
+    "name_en": "Activity of Hatchiku II (Dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041183,
+      802010771
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象の器用さを低下させる( 確率大/効果大 )<br>攻撃命中時、自身のBPを回復する( 確率大/+2 )",
+    "flavor_text_en": "Reduces target's dexterity when hit by <br>attack (high probability/high effect) Recovers own BP when hit by attack (large probability/+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101257,
+    "name": "弱化の練撃Ⅱ(器用さ)",
+    "name_en": "Dexterity of Weakening II (Dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041184,
+      802041020
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象の器用さを低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Reduces the target's dexterity when hit by an attack (high probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101258,
+    "name": "攻撃時 器用さダウン",
+    "name_en": "Dexterity down when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010183
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象を混乱させる( 確率大/効果4ターン )<br>攻撃命中時、自身のBPを回復する( 確率大/+2 )",
+    "flavor_text_en": "Confuses the target when hit (high probability/effect 4 turns) <br>heals own BP when hit (large probability/+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 3006,
+    "id": 702101259,
+    "name": "混乱の練撃Ⅱ",
+    "name_en": "Confusion Practice II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041185,
+      802041020
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象を混乱させる( 確率大/効果4ターン )",
+    "flavor_text_en": "Confuses the target when hit by an attack (high probability/effect 4 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 3006,
+    "id": 702101260,
+    "name": "攻撃時 混乱付与",
+    "name_en": "Adds confusion when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802030243
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>ODゲージが満タンの場合、自身に「モラルアップ(特大)」を付与する( 効果1ターン )<br>ODゲージが満タンでない場合、自身に「ガードアップ(中)」を付与する( 効果1ターン )",
+    "flavor_text_en": "[Start <br>of Turn] Grants “Moral Up (Extra Large)” to self when OD gauge is full (effect 1 turn) <br>If OD gauge is not full, “Guard Up (Medium)” to self Grant (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101261,
+    "name": "オーバーシフトⅣ",
+    "name_en": "Overshift IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041186,
+      802041187
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "OD攻撃の与ダメージが上昇する( 効果極大 )<br>かつ、ターン終了時、自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "Increases damage dealt by OD attacks (maximum effect)<br>, and at the end of the turn, unlocks the downed state of own strength, health, dexterity, quickness, intelligence, spirit, love, and charm",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101262,
+    "name": "超撃除厄Ⅴ",
+    "name_en": "Super Kill Yakuyaku V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041073,
+      802041188
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "At the end of the turn, unlocks the ability of own Strength, Health, Dexterity, Quickness, Intelligence, Spirit, Love, and Charm down",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101263,
+    "name": "ターン終了時 能力ダウン状態解除",
+    "name_en": "Ability down state unlocked at the end of turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040497
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「ファイアボール+」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "When a technique or technique (*) whose type is “Attack” is hit, <br>“Fireball +” is activated (<br>Chance Extra Large) (Activated with Move Rank1) <br>* “Techniques handed down in the R Cup” and “Books “Techniques activated by ability effects” and “counterattack techniques by counter effects” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101270,
+    "name": "追い火球",
+    "name_en": "Chasing fireballs",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041198,
+      802041199,
+      802041200,
+      802041201,
+      802041217
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "ターン終了時、自身の状態異常をすべて解除し、<br>かつ、自身のHPを回復する( 効果極小 )<br>さらに、バトル開始時、自身のBPを回復する( +2 )",
     "flavor_text_en": "At the end of the turn, unlocks all of <br>its own state abnormalities and restores its own HP (effect is minimal)<br>, and heals its own BP at the start of battle (+2)",
@@ -7807,6 +8072,25 @@
     "special_effect_ids": [
       802040310,
       802010689
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身の腕力と知力を上昇させる( 効果中 )<br>攻撃対象を倒した時、自身のBPを回復する( 倒した数によらず回復量は+5 )",
+    "flavor_text_en": "Increases your strength and intelligence when hit <br>by an attack (in effect) When you defeat an attack target, heals your own BP (+5 recovery amount regardless of the number of defeats)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101299,
+    "name": "昇練撃破Ⅱ(腕力・知力)",
+    "name_en": "Promotion Defeat II (Brawn, Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010076,
+      802010088,
+      802040664
     ]
   },
   {
@@ -35438,6 +35722,24 @@
     ]
   },
   {
+    "ability_when": 2,
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに陰属性攻撃強化( 効果特大/効果1ターン )を付与する<br>ラウンド開始から数えて偶数ターン目の開始時、自身にウォールを付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of the odd-numbered turn, counting from the start of the round, increases its own intelligence (large effect), and also grants negative attack enhancement (effect oversize/effect 1 turn). <br>Even turns counted from the start of the round Grants a wall to self at the start of the eye (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708200185,
+    "name": "交叉魔術",
+    "name_en": "Crossing magic",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040454,
+      808040453
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身の腕力を上昇させる( 効果大 )",
     "flavor_text_en": "[Start of turn]<br>Increases own STR (large effect).",
@@ -35999,6 +36301,41 @@
     "special_effect_ids": [
       808010441,
       808010442
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて偶数ターン目の開始時、自身にウォールを付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of the even turn, counting from the start of the round, grant a wall to self (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300186,
+    "name": "交叉魔術",
+    "name_en": "Crossing magic",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040402
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに陰属性攻撃強化( 効果特大/効果1ターン )を付与する",
+    "flavor_text_en": "At the start of the odd-numbered turn, counting from the start of the round, increases its own intelligence (large effect), and gives it a negative attack enhancement (extra large/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300187,
+    "name": "交叉魔術",
+    "name_en": "Crossing magic",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010408,
+      808040403
     ]
   },
   {

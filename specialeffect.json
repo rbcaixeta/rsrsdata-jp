@@ -11577,6 +11577,289 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵に与えるダメージが低下する",
+    "flavor_text_en": "Damage dealt to enemies is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 801041124,
+    "ignition_effect_id": "",
+    "name": "攻撃弱化(小)",
+    "name_en": "Attack Weakening (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "攻撃↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "単体攻撃を発動後、「アタックチェイサー」が発動する",
+    "flavor_text_en": "“Attack Chaser” is activated after activating a single attack",
+    "flavor_text_en_src": "ml",
+    "id": 801041125,
+    "ignition_effect_id": "",
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3001,
+    "state_vars": [
+      702101251
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "追撃装填",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1(敵単体)を発動後、アタックチェイサーで攻撃を行う",
+    "flavor_text_en": "Attack with Attack Chaser after activating Move 1 (enemy alone)",
+    "flavor_text_en_src": "ml",
+    "id": 801041126,
+    "ignition_effect_id": "",
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600248
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2(敵単体)を発動後、アタックチェイサーで攻撃を行う",
+    "flavor_text_en": "Attack with Attack Chaser after activating Move 2 (enemy alone)",
+    "flavor_text_en_src": "ml",
+    "id": 801041127,
+    "ignition_effect_id": "",
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600248
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3(敵単体)を発動後、アタックチェイサーで攻撃を行う",
+    "flavor_text_en": "Attack with Attack Chaser after activating Move 3 (enemy alone)",
+    "flavor_text_en_src": "ml",
+    "id": 801041128,
+    "ignition_effect_id": "",
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600248
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵単体)を発動後、アタックチェイサーで攻撃を行う",
+    "flavor_text_en": "Attack with the Attack Chaser after activating the Inheritance Move (enemy alone)",
+    "flavor_text_en_src": "ml",
+    "id": 801041129,
+    "ignition_effect_id": "",
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600248
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を発動後、アタックチェイサーで攻撃を行う",
+    "flavor_text_en": "Attack with Attack Chaser after activating a normal attack",
+    "flavor_text_en_src": "ml",
+    "id": 801041130,
+    "ignition_effect_id": "",
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600248
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1(敵ランダム)を発動後、アタックチェイサーで攻撃を行う",
+    "flavor_text_en": "Attack with Attack Chaser after activating Move 1 (Random Enemy)",
+    "flavor_text_en_src": "ml",
+    "id": 801041131,
+    "ignition_effect_id": "",
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600248
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2(敵ランダム)を発動後、アタックチェイサーで攻撃を行う",
+    "flavor_text_en": "Attack with Attack Chaser after activating Move 2 (Random Enemy)",
+    "flavor_text_en_src": "ml",
+    "id": 801041132,
+    "ignition_effect_id": "",
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600248
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3(敵ランダム)を発動後、アタックチェイサーで攻撃を行う",
+    "flavor_text_en": "Attack with Attack Chaser after activating Move 3 (Random Enemy)",
+    "flavor_text_en_src": "ml",
+    "id": 801041133,
+    "ignition_effect_id": "",
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600248
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵ランダム)を発動後、アタックチェイサーで攻撃を行う",
+    "flavor_text_en": "Attack with Attack Chaser after activating the Inheritance Move (Random Enemy)",
+    "flavor_text_en_src": "ml",
+    "id": 801041134,
+    "ignition_effect_id": "",
+    "name": "追撃(アタックチェイサー)",
+    "name_en": "Chase (Attack Chaser)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600248
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041135,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵から受けるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage received from enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041136,
+    "ignition_effect_id": "",
+    "name": "ガードダウン(中)",
+    "name_en": "Guard down (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040152,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "防御↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "敵に与えるダメージが上昇する",
     "flavor_text_en": "Increases damage dealt to enemies",
@@ -11595,6 +11878,29 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵から受ける被ダメージが低下する",
+    "flavor_text_en": "Reduces damage taken by enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041146,
+    "ignition_effect_id": "",
+    "name": "防御強化(大)",
+    "name_en": "Defense Enhancement (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {
@@ -11680,6 +11986,50 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "暗闇状態を解除する",
+    "flavor_text_en": "Unlock the Darkness",
+    "flavor_text_en_src": "ml",
+    "id": 801041207,
+    "ignition_effect_id": "",
+    "name": "暗闇解除",
+    "name_en": "Unlock the darkness",
+    "name_en_src": "ml",
+    "state_change_id": 900050153,
+    "state_icon": 3001,
+    "state_vars": [
+      32
+    ],
+    "target_area": 10,
+    "text_color": "5BFF24",
+    "text_pop": "暗闇解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "石化状態を解除する",
+    "flavor_text_en": "Unlock the petrified state",
+    "flavor_text_en_src": "ml",
+    "id": 801041208,
+    "ignition_effect_id": "",
+    "name": "石化解除",
+    "name_en": "Deconstruct",
+    "name_en_src": "ml",
+    "state_change_id": 900050153,
+    "state_icon": 3001,
+    "state_vars": [
+      36
+    ],
+    "target_area": 10,
+    "text_color": "5BFF24",
+    "text_pop": "石化解除",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -16748,6 +17098,174 @@
     "target_area": 8,
     "text_color": "65D2FF",
     "text_pop": "器用さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Increases brawn strength",
+    "flavor_text_en_src": "ml",
+    "id": 802011172,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increased strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Increases health",
+    "flavor_text_en_src": "ml",
+    "id": 802011173,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Improve your physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Increases dexterity",
+    "flavor_text_en_src": "ml",
+    "id": 802011174,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Increases quickness",
+    "flavor_text_en_src": "ml",
+    "id": 802011175,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Improve your quickness",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Increases intelligence",
+    "flavor_text_en_src": "ml",
+    "id": 802011176,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 802011177,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Spirit up",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "愛が上昇する",
+    "flavor_text_en": "Love rises",
+    "flavor_text_en_src": "ml",
+    "id": 802011178,
+    "ignition_effect_id": "",
+    "name": "愛アップ",
+    "name_en": "Love up",
+    "name_en_src": "ml",
+    "state_change_id": 900010018,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が上昇する",
+    "flavor_text_en": "The attractiveness rises",
+    "flavor_text_en_src": "ml",
+    "id": 802011179,
+    "ignition_effect_id": "",
+    "name": "魅力アップ",
+    "name_en": "Attractiveness",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -31291,6 +31809,269 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "Resist攻撃被弾時、敵からの攻撃を回避する( 確率大 )",
+    "flavor_text_en": "When hit by a Resist attack, avoid an attack from the enemy (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041181,
+    "ignition_effect_id": "",
+    "name": "Resist攻撃被弾時回避",
+    "name_en": "Resist attack hit avoidance",
+    "name_en_src": "ml",
+    "state_change_id": 900040032,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "回避",
+    "triggering_effect_condition_ids": [
+      11
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 802041182,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041183,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(中)",
+    "name_en": "Moral up (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃 器用さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、対象の器用さを低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Reduces the target's dexterity when hit by an attack (high probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041184,
+    "ignition_effect_id": "",
+    "name": "攻撃時 器用さダウン",
+    "name_en": "Dexterity down when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101258
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、対象を混乱させる( 確率大/効果4ターン )",
+    "flavor_text_en": "Confuses the target when hit by an attack (high probability/effect 4 turns)",
+    "flavor_text_en_src": "ml",
+    "id": 802041185,
+    "ignition_effect_id": "",
+    "name": "攻撃時 混乱付与",
+    "name_en": "Adds confusion when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101260
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041186,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(特大)",
+    "name_en": "Moral up (oversized)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage received from enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041187,
+    "ignition_effect_id": "",
+    "name": "ガードアップ(中)",
+    "name_en": "Guard up (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040076,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "At the end of the turn, unlocks the ability of own Strength, Health, Dexterity, Quickness, Intelligence, Spirit, Love, and Charm down",
+    "flavor_text_en_src": "ml",
+    "id": 802041188,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 能力ダウン解除",
+    "name_en": "Ability reduction unlocked at the end of turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101263
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1を命中させた時、ファイアボール+が発動する(確率特大)",
+    "flavor_text_en": "Fireball+ is activated when Move 1 is hit (Chance Extra Large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041198,
+    "ignition_effect_id": "",
+    "name": "追い火球",
+    "name_en": "Chasing fireballs",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110200258
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "追い火球",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を命中させた時、ファイアボール+が発動する(確率特大)",
+    "flavor_text_en": "Fireball+ is activated when Move 2 is hit (Chance Extra Large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041199,
+    "ignition_effect_id": "",
+    "name": "追い火球",
+    "name_en": "Chasing fireballs",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110200258
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "追い火球",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を命中させた時、ファイアボール+が発動する(確率特大)",
+    "flavor_text_en": "Fireball+ is activated when Move 3 is hit (Chance Extra Large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041200,
+    "ignition_effect_id": "",
+    "name": "追い火球",
+    "name_en": "Chasing fireballs",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110200258
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "追い火球",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、ファイアボール+が発動する(確率特大)",
+    "flavor_text_en": "Fireball+ is activated when the Succession move is hit (Chance Extra Large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041201,
+    "ignition_effect_id": "",
+    "name": "追い火球",
+    "name_en": "Chasing fireballs",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110200258
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "追い火球",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "BPが回復する",
@@ -31427,6 +32208,73 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "Resist攻撃被弾時、被ダメージが低下する",
+    "flavor_text_en": "Reduces damage taken when hit by a Resist attack",
+    "flavor_text_en_src": "ml",
+    "id": 802041212,
+    "ignition_effect_id": "",
+    "name": "Resist攻撃被弾時防御",
+    "name_en": "Resist Attack Hit Defense",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      60
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      11
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "味方生存者全体のBPが回復する",
+    "flavor_text_en": "The BP of all allied survivors will be restored",
+    "flavor_text_en_src": "ml",
+    "id": 802041213,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      1
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を命中させた時、ファイアボール+が発動する(確率特大)",
+    "flavor_text_en": "Fireball+ is activated when a normal attack is hit (Chance Extra Large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041217,
+    "ignition_effect_id": "",
+    "name": "追い火球",
+    "name_en": "Chasing fireballs",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110200258
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "追い火球",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -45315,6 +46163,50 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ラウンド開始から数えて偶数ターン目の開始時、自身にウォールを付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of the even turn, counting from the start of the round, grant a wall to self (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 808040453,
+    "ignition_effect_id": "",
+    "name": "交叉魔術",
+    "name_en": "Crossing magic",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      708300186
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに陰属性攻撃強化( 効果特大/効果1ターン )を付与する",
+    "flavor_text_en": "At the start of the odd-numbered turn, counting from the start of the round, increases its own intelligence (large effect), and gives it a negative attack enhancement (extra large/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 808040454,
+    "ignition_effect_id": "",
+    "name": "交叉魔術",
+    "name_en": "Crossing magic",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      708300187
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "HPを回復する",
@@ -52674,6 +53566,56 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "スケルトンライトを呼び出す",
+    "flavor_text_en": "Recall skeleton lights",
+    "flavor_text_en_src": "ml",
+    "id": 809040684,
+    "ignition_effect_id": "149900129",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      11306101,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "スケルトンレフトを呼び出す",
+    "flavor_text_en": "Recall skeleton left",
+    "flavor_text_en_src": "ml",
+    "id": 809040685,
+    "ignition_effect_id": "149900129",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      11306201,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "HPを回復する",
     "flavor_text_en": "Recover your HP",
@@ -52691,6 +53633,116 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージを100%カットする",
+    "flavor_text_en": "Cut damage taken by 100%",
+    "flavor_text_en_src": "ml",
+    "id": 809040687,
+    "ignition_effect_id": "",
+    "name": "ダメージブロック",
+    "name_en": "Damage block",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ダメージブロック",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 809040688,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      100
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 809040689,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      200
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 809040690,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      70
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵に与えるダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 809040691,
+    "ignition_effect_id": "",
+    "name": "モラルダウン(小)",
+    "name_en": "Moral down (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040114,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "攻撃↓",
     "triggering_effect_condition_ids": [
     ]
   },

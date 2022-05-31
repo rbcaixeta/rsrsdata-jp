@@ -398,5 +398,30 @@
     "required_quest_id": 120102103,
     "sort_order": 84,
     "ticket_cost": 66
+  },
+  {
+    "background_id": 700000138,
+    "close_at": 0,
+    "difficulty": 4,
+    "drop_group_ids": [
+      880000034,
+      880000035
+    ],
+    "flavor_text": "HP1450まで、各能力値135までのキャラを推奨",
+    "flavor_text_en": "Characters up to HP 1450 and each ability value up to 135 are recommended",
+    "flavor_text_en_src": "ml",
+    "growth_difficulty": 133,
+    "id": 6700018,
+    "jewel_cost": 0,
+    "name": "荒れ果てた地",
+    "name_en": "A desolate land",
+    "name_en_src": "ml",
+    "open_at": 0,
+    "recommended_status": 135,
+    "required_hours": 21,
+    "required_player_rank": 170,
+    "required_quest_id": 120103103,
+    "sort_order": 83,
+    "ticket_cost": 70
   }
 ]

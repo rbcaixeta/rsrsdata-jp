@@ -10271,6 +10271,19 @@
   },
   {
     "applies_to_all_styles": 0,
+    "event_ability_category_id": 603,
+    "flavor_text": "・全てのバトルクエストで能力値アップ時の上昇量が5倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased is 5 times in all Battle Quests",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 953,
+    "name": "[期間限定] 3.5周年記念鍛錬極意書",
+    "name_en": "[Limited Time Offer] 3.5 Anniversary Training Secret",
+    "name_en_src": "ml",
+    "priority": 10000
+  },
+  {
+    "applies_to_all_styles": 0,
     "event_ability_category_id": 604,
     "flavor_text": "・INTRUDERで能力値アップ時の上昇量が2倍＆【プログラムチップ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
     "flavor_text_en": "· INTRUDER doubles the amount of increase when the ability value is increased & [Program Chip] is added drop <br>· The amount of increase when the ability value is increased is doubled in the main",
@@ -10294,5 +10307,83 @@
     "name_en": "[Limited Time Offer] INTRUDER, Uchi/Yin",
     "name_en_src": "ml",
     "priority": 2760
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 608,
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased in the main is tripled",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 956,
+    "name": "[期間限定] 3.5周年記念",
+    "name_en": "[Limited Time Offer] 3.5 Anniversary",
+    "name_en_src": "ml",
+    "priority": 2777
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 609,
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased in the main is tripled",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 957,
+    "name": "[期間限定] 3.5周年記念Romancing祭 2018-2021①",
+    "name_en": "[Limited Time Offer] 3.5th Anniversary Romance Festival 2018-2021 ①",
+    "name_en_src": "ml",
+    "priority": 2775
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 610,
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased in the main is tripled",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 958,
+    "name": "[期間限定] 3.5周年記念 サガ魂",
+    "name_en": "[Limited Time] 3.5 Anniversary Saga Soul",
+    "name_en_src": "ml",
+    "priority": 2778
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 611,
+    "flavor_text": "・メイン（Normal/Hard）で能力値アップ時の上昇量が5倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased in the main (Normal/Hard) is 5 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 961,
+    "name": "[期間限定] 3.5周年記念スタートダッシュ育成応援",
+    "name_en": "[Limited Time] 3.5 Anniversary Start Dash Training Support",
+    "name_en_src": "ml",
+    "priority": 2767
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 615,
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased in the main is tripled",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 965,
+    "name": "[期間限定] 3.5周年記念Romancing祭 2018-2021②",
+    "name_en": "[Limited Time Offer] 3.5th Anniversary Romance Festival 2018-2021 ②",
+    "name_en_src": "ml",
+    "priority": 2774
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 616,
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased in the main is tripled",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 966,
+    "name": "[期間限定] 3.5周年記念Romancing祭 2018-2021③",
+    "name_en": "[Limited Time Offer] 3.5th Anniversary Romance Festival 2018-2021 ③",
+    "name_en_src": "ml",
+    "priority": 2773
   }
 ]

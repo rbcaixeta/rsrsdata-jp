@@ -6921,6 +6921,22 @@
   {
     "enemy_class": 7,
     "gender": 9,
+    "id": 107033,
+    "illust": 1070331,
+    "name": "アーマージェリー",
+    "name_en": "Armor Jerry",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 6,
+    "species": [
+      8
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
     "id": 107037,
     "illust": 1070371,
     "name": "雨虎",
@@ -7194,6 +7210,22 @@
       81
     ],
     "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107064,
+    "illust": 1070361,
+    "name": "ゴーストシップ",
+    "name_en": "ghost ship",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8
+    ],
+    "sprite_studio": 1
   },
   {
     "enemy_class": 8,
@@ -7563,6 +7595,23 @@
     "species": [
       9,
       96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 8,
+    "gender": 9,
+    "id": 108039,
+    "illust": 1080391,
+    "name": "マグナムフィッシュ",
+    "name_en": "Magnum fish",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 32,
+    "species": [
+      8,
+      9
     ],
     "sprite_studio": 0
   },
@@ -12390,6 +12439,23 @@
     "rank": 1,
     "species": [
       99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 15,
+    "gender": 9,
+    "id": 115055,
+    "illust": 1150551,
+    "name": "水の結晶体",
+    "name_en": "Water crystals",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      15,
+      82
     ],
     "sprite_studio": 0
   },
@@ -18334,6 +18400,22 @@
     "rank": 1,
     "species": [
       18
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199342,
+    "illust": 1993421,
+    "name": "イヴェリス",
+    "name_en": "Iveris",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
     ],
     "sprite_studio": 1
   },

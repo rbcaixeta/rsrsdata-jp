@@ -50,5 +50,18 @@
     "name_en": "Automatic Rematch Ticket 2 [Limited Time Offer]",
     "name_en_src": "ml",
     "sort_order": 22040800
+  },
+  {
+    "expired_at": 1673722799,
+    "flavor_text": "[期間限定]一部クエストで自動再戦を実行できるチケット（2023/1/15 4:00まで）",
+    "flavor_text_en": "[Limited Time Offer] Ticket that allows automatic rematch on certain quests (until 2023/1/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 950005,
+    "id": 950005,
+    "max_quantity": 999999,
+    "name": "自動再戦チケット（2023/1/15 4:00まで）",
+    "name_en": "Auto rematch ticket (until 2023/1/15 4:00)",
+    "name_en_src": "ml",
+    "sort_order": 22053100
   }
 ]
