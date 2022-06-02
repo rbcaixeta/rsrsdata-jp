@@ -5243,15 +5243,16 @@
   {
     "ability_when": 1,
     "flavor_text": "味方が全員生存している時<br>味方全体の与ダメージが上昇する( 効果中 )",
-    "flavor_text_en": "When all <br>allies are alive, the damage dealt to all allies increases (active)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "When all allies are still surviving, increases attack damage for all allies (medium effect).",
+    "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101089,
     "name": "攻勢結束Ⅱ",
-    "name_en": "Offensive Cohesion II",
-    "name_en_src": "ml",
+    "name_en": "Offensive Union Ⅱ",
+    "name_en_src": "gl",
     "rarity": 0,
     "simple_flavor_text": "",
+    "simple_flavor_text_en_src": "gl",
     "sort_order": 0,
     "special_effect_ids": [
       802040989
