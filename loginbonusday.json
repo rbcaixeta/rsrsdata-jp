@@ -78483,6 +78483,20 @@
     ]
   },
   {
+    "id": 5302,
+    "login_bonus_id": 11227,
+    "day": 1,
+    "message": "",
+    "thumbnail_image_path": "",
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 1,
+        "quantity": 3000
+      }
+    ]
+  },
+  {
     "id": 5303,
     "login_bonus_id": 11217,
     "day": 2,
@@ -78875,6 +78889,107 @@
         "id": 840173,
         "type": 12,
         "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 5342,
+    "login_bonus_id": 11232,
+    "day": 1,
+    "message": "",
+    "thumbnail_image_path": "",
+    "rewards": [
+      {
+        "id": 821179,
+        "type": 10,
+        "quantity": 300
+      },
+      {
+        "id": 810053,
+        "type": 8,
+        "quantity": 15
+      },
+      {
+        "id": 840173,
+        "type": 12,
+        "quantity": 50
+      },
+      {
+        "id": 830017,
+        "type": 11,
+        "quantity": 250
+      }
+    ]
+  },
+  {
+    "id": 5343,
+    "login_bonus_id": 11232,
+    "day": 2,
+    "message": "",
+    "thumbnail_image_path": "",
+    "rewards": [
+      {
+        "id": 821179,
+        "type": 10,
+        "quantity": 300
+      },
+      {
+        "id": 810053,
+        "type": 8,
+        "quantity": 15
+      },
+      {
+        "id": 840173,
+        "type": 12,
+        "quantity": 50
+      },
+      {
+        "id": 830017,
+        "type": 11,
+        "quantity": 250
+      }
+    ]
+  },
+  {
+    "id": 5344,
+    "login_bonus_id": 11232,
+    "day": 3,
+    "message": "",
+    "thumbnail_image_path": "",
+    "rewards": [
+      {
+        "id": 821179,
+        "type": 10,
+        "quantity": 300
+      },
+      {
+        "id": 810053,
+        "type": 8,
+        "quantity": 20
+      },
+      {
+        "id": 840173,
+        "type": 12,
+        "quantity": 50
+      },
+      {
+        "id": 830017,
+        "type": 11,
+        "quantity": 250
+      }
+    ]
+  },
+  {
+    "id": 5348,
+    "login_bonus_id": 11240,
+    "day": 1,
+    "message": "",
+    "thumbnail_image_path": "",
+    "rewards": [
+      {
+        "id": 100002,
+        "type": 1,
+        "quantity": 200
       }
     ]
   },

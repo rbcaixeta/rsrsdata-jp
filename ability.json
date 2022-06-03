@@ -35741,6 +35741,23 @@
     ]
   },
   {
+    "ability_when": 2,
+    "flavor_text": "攻撃を受けた時 <br>熱属性を含むダメージを無効化する<br>さらに、直接攻撃に対して熱属性の反撃をする",
+    "flavor_text_en": "<br>Negates damage, including heat, when attacked<br>, and performs a thermal counterattack against direct attacks",
+    "flavor_text_en_src": "ml",
+    "icon": 2001,
+    "id": 708200188,
+    "name": "セルフバーニング",
+    "name_en": "Self Burning",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040029
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身の腕力を上昇させる( 効果大 )",
     "flavor_text_en": "[Start of turn]<br>Increases own STR (large effect).",

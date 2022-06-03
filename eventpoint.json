@@ -2509,6 +2509,32 @@
     "sort_order": 22060350
   },
   {
+    "expired_at": 1659034799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
+    "flavor_text_en_src": "ml",
+    "icon": 800195,
+    "id": 800195,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・58",
+    "name_en": "Romancing Festival Medal・58",
+    "name_en_src": "ml",
+    "sort_order": 22060660
+  },
+  {
+    "expired_at": 1659034799,
+    "flavor_text": "特定のウルトラデラックスガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Ultra Deluxe Gacha. Can be exchanged for items and styles at exchange offices.",
+    "flavor_text_en_src": "ml",
+    "icon": 800196,
+    "id": 800196,
+    "max_quantity": 99999999,
+    "name": "ウルトラデラックスガチャメダル・33",
+    "name_en": "Ultra Deluxe Gacha Medal 33",
+    "name_en_src": "ml",
+    "sort_order": 22060655
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -8578,6 +8604,45 @@
     "name_en": "3.5th Anniversary Coin [Limited Time Offer]",
     "name_en_src": "ml",
     "sort_order": 22053132
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100711,
+    "id": 1100711,
+    "max_quantity": 99999999,
+    "name": "魔獣の爪",
+    "name_en": "Demon Beast Claw",
+    "name_en_src": "ml",
+    "sort_order": 22060605
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100712,
+    "id": 1100712,
+    "max_quantity": 99999999,
+    "name": "エレメントストーン",
+    "name_en": "Element Stone",
+    "name_en_src": "ml",
+    "sort_order": 22060610
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100713,
+    "id": 1100713,
+    "max_quantity": 99999999,
+    "name": "詩の破片",
+    "name_en": "Fragment of a poem",
+    "name_en_src": "ml",
+    "sort_order": 22060615
   },
   {
     "expired_at": 0,
