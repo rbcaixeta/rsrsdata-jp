@@ -3675,6 +3675,27 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵から受けるダメージが上昇する",
+    "flavor_text_en": "Increases damage received from enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801011139,
+    "ignition_effect_id": "",
+    "name": "防御弱化(中)",
+    "name_en": "Weakened Defense (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040103,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "防御↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "SelfHarm",
     "flavor_text": "攻撃時、自身の最大HPの40%を消費する",
     "flavor_text_en": "Consumes 40% of your max HP when attacking",
@@ -5223,6 +5244,216 @@
     "state_vars": [
     ],
     "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "毒耐性が上昇する",
+    "flavor_text_en": "Poison resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021162,
+    "ignition_effect_id": "",
+    "name": "毒耐性アップ",
+    "name_en": "Increased poison resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020020,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "異常耐性↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "暗闇耐性が上昇する",
+    "flavor_text_en": "Increases darkness tolerance",
+    "flavor_text_en_src": "ml",
+    "id": 801021163,
+    "ignition_effect_id": "",
+    "name": "暗闇耐性アップ",
+    "name_en": "Increased resistance to darkness",
+    "name_en_src": "ml",
+    "state_change_id": 900020021,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "スタン耐性が上昇する",
+    "flavor_text_en": "Increases stun resistance",
+    "flavor_text_en_src": "ml",
+    "id": 801021164,
+    "ignition_effect_id": "",
+    "name": "スタン耐性アップ",
+    "name_en": "Increased stun resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020022,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "マヒ耐性が上昇する",
+    "flavor_text_en": "Mahi resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021165,
+    "ignition_effect_id": "",
+    "name": "マヒ耐性アップ",
+    "name_en": "Increased resistance to mahi",
+    "name_en_src": "ml",
+    "state_change_id": 900020023,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "眠り耐性が上昇する",
+    "flavor_text_en": "Sleep tolerance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021166,
+    "ignition_effect_id": "",
+    "name": "眠り耐性アップ",
+    "name_en": "Increases sleep tolerance",
+    "name_en_src": "ml",
+    "state_change_id": 900020024,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "石化耐性が上昇する",
+    "flavor_text_en": "Petrification resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021167,
+    "ignition_effect_id": "",
+    "name": "石化耐性アップ",
+    "name_en": "Increased petrification resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020025,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "混乱耐性が上昇する",
+    "flavor_text_en": "Increases tolerance for confusion",
+    "flavor_text_en_src": "ml",
+    "id": 801021168,
+    "ignition_effect_id": "",
+    "name": "混乱耐性アップ",
+    "name_en": "Increased tolerance for confusion",
+    "name_en_src": "ml",
+    "state_change_id": 900020026,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅了耐性が上昇する",
+    "flavor_text_en": "Increases fascination resistance",
+    "flavor_text_en_src": "ml",
+    "id": 801021169,
+    "ignition_effect_id": "",
+    "name": "魅了耐性アップ",
+    "name_en": "Increased fascination resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020027,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "狂戦士耐性が上昇する",
+    "flavor_text_en": "Increases Berserker Resistance",
+    "flavor_text_en_src": "ml",
+    "id": 801021170,
+    "ignition_effect_id": "",
+    "name": "狂戦士耐性アップ",
+    "name_en": "Berserker Resistance Up",
+    "name_en_src": "ml",
+    "state_change_id": 900020028,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "気絶耐性が上昇する",
+    "flavor_text_en": "Increases stun tolerance",
+    "flavor_text_en_src": "ml",
+    "id": 801021171,
+    "ignition_effect_id": "",
+    "name": "気絶耐性アップ",
+    "name_en": "Increased resistance to fainting",
+    "name_en_src": "ml",
+    "state_change_id": 900020029,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
@@ -11861,6 +12092,74 @@
   {
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "行動順補正値が上昇する( 効果小 )",
+    "flavor_text_en": "Action order correction value increases (effect small)",
+    "flavor_text_en_src": "ml",
+    "id": 801041140,
+    "ignition_effect_id": "",
+    "name": "行動順補正上昇(小)",
+    "name_en": "Action Order Correction Increase (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040109,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "行動順補正↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "BPを回復する",
+    "flavor_text_en": "Recover BP",
+    "flavor_text_en_src": "ml",
+    "id": 801041141,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      4,
+      6
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃に対して、アスラリベンジャーでカウンター攻撃を行う<br>さらに被ダメージが低下する",
+    "flavor_text_en": "Counter attacks with Asura Revenger against enemy direct <br>attacks, and reduces damage taken",
+    "flavor_text_en_src": "ml",
+    "id": 801041142,
+    "ignition_effect_id": "",
+    "name": "カウンター",
+    "name_en": "counters",
+    "name_en_src": "ml",
+    "state_change_id": 900040035,
+    "state_icon": 3001,
+    "state_vars": [
+      110500297,
+      75
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "反撃態勢",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "敵に与えるダメージが上昇する",
     "flavor_text_en": "Increases damage dealt to enemies",
     "flavor_text_en_src": "ml",
@@ -11986,6 +12285,96 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "カウントがスタートする( カウント2 )<br>カウントはターン終了時に1減少し、<br>0になった次回の行動が、一回限り「雅氷花」となる",
+    "flavor_text_en": "The count starts (count 2) <br>The count decreases by 1 at the end of the turn, and the <br>next action that reaches 0 becomes “Ya Hyoka” only once",
+    "flavor_text_en_src": "ml",
+    "id": 801041159,
+    "ignition_effect_id": "ChargeAttack",
+    "name": "溜め状態",
+    "name_en": "Reservoir state",
+    "name_en_src": "ml",
+    "state_change_id": 900040102,
+    "state_icon": 3002,
+    "state_vars": [
+      2,
+      110200261,
+      10
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "豪斧一閃で攻撃後、デンジャラススピンで攻撃を行う",
+    "flavor_text_en": "Attack with Dangerous Spin after attacking with one flash of a large axe",
+    "flavor_text_en_src": "ml",
+    "id": 801041160,
+    "ignition_effect_id": "",
+    "name": "豪斧一閃",
+    "name_en": "One big axe",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110300227
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140800133",
+    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage received from enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041161,
+    "ignition_effect_id": "",
+    "name": "ガードアップ(大)",
+    "name_en": "Guard up (large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040099,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵に与えるダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041172,
+    "ignition_effect_id": "",
+    "name": "モラルダウン(中)",
+    "name_en": "Moral down (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040154,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "攻撃↓",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -17266,6 +17655,27 @@
     "target_area": 3,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 802011282,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Spirit up",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "精神↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -31984,6 +32394,180 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身を回避カウンター状態にする( 効果1ターン )",
+    "flavor_text_en": "Counting from the start of battle, turns <br>itself into evasion counter state at the start of the odd-numbered turn (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802041189,
+    "ignition_effect_id": "",
+    "name": "奇数ターン開始時 回避カウンター状態",
+    "name_en": "Evasion counter state at the start of an odd turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101265
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時<br>自身をステルス状態にする( 効果大/効果1ターン )",
+    "flavor_text_en": "Set <br>self to stealth at the start of the even-numbered turn, counting from the start of battle (large effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802041190,
+    "ignition_effect_id": "",
+    "name": "偶数ターン開始時 ステルス(大)",
+    "name_en": "Stealth at the start of even turns (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101266
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃を回避して、スミレ返しでカウンター攻撃を行う",
+    "flavor_text_en": "Counter attack with Violet Turner by avoiding direct enemy attacks",
+    "flavor_text_en_src": "ml",
+    "id": 802041191,
+    "ignition_effect_id": "",
+    "name": "カウンター回避",
+    "name_en": "Counter avoidance",
+    "name_en_src": "ml",
+    "state_change_id": 900040036,
+    "state_icon": 3001,
+    "state_vars": [
+      110100238
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "反撃態勢",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Plane",
+    "flavor_text": "自身の狙われやすさが上昇する",
+    "flavor_text_en": "Increases the ease of being targeted by oneself",
+    "flavor_text_en_src": "ml",
+    "id": 802041192,
+    "ignition_effect_id": "",
+    "name": "挑発(中)",
+    "name_en": "Taunt (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040047,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "挑発",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Plane",
+    "flavor_text": "自身の狙われやすさが低下する",
+    "flavor_text_en": "The ease of being targeted by oneself decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802041193,
+    "ignition_effect_id": "",
+    "name": "ステルス(大)",
+    "name_en": "Stealth (large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040047,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ステルス",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃命中時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Heals own BP when hit by a weak attack (+2)",
+    "flavor_text_en_src": "ml",
+    "id": 802041194,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 BP回復",
+    "name_en": "BP recovery during weak attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101268
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 802041195,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Will my BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041196,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      2
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "技1を命中させた時、ファイアボール+が発動する(確率特大)",
@@ -32214,6 +32798,28 @@
   {
     "display_flag": 0,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "大剣装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases attack damage when equipped with the Great Sword",
+    "flavor_text_en_src": "ml",
+    "id": 802041208,
+    "ignition_effect_id": "",
+    "name": "大剣攻撃強化",
+    "name_en": "Enhanced Great Sword Attack",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21002
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "Resist攻撃被弾時、被ダメージが低下する",
     "flavor_text_en": "Reduces damage taken when hit by a Resist attack",
     "flavor_text_en_src": "ml",
@@ -32275,6 +32881,117 @@
     "target_area": 1,
     "text_color": "FFFFFF",
     "text_pop": "追い火球",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身を挑発状態にする( 効果中/効果1ターン )",
+    "flavor_text_en": "<br>Taunt itself at the start of the odd-numbered turn, counting from the start of battle (in effect/1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802041239,
+    "ignition_effect_id": "",
+    "name": "奇数ターン開始時 挑発(中)",
+    "name_en": "Odd Turn Start Taunt (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101297
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Will my BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041263,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      4
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 802041264,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃 防御↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 802041265,
+    "ignition_effect_id": "",
+    "name": "防御",
+    "name_en": "defenses",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃命中時、自身に「攻撃強化」を付与する( 効果大/効果2ターン )",
+    "flavor_text_en": "Grants “Attack Enhancement” to self when a Weak Attack is hit (Large Effect/Effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "id": 802041266,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 攻撃強化",
+    "name_en": "Strengthening attacks during weak attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101319
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -44135,6 +44852,27 @@
     "target_area": 8,
     "text_color": "FFFFFF",
     "text_pop": "毒",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ラウンド開始時に自身を睡眠状態にする",
+    "flavor_text_en": "Put yourself into sleep at the start of a round",
+    "flavor_text_en_src": "ml",
+    "id": 808030455,
+    "ignition_effect_id": "",
+    "name": "眠り付与",
+    "name_en": "Grant sleep",
+    "name_en_src": "ml",
+    "state_change_id": 900030005,
+    "state_icon": 1035,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },

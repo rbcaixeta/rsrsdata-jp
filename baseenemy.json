@@ -18415,6 +18415,22 @@
   },
   {
     "enemy_class": 99,
+    "gender": 9,
+    "id": 199282,
+    "illust": 1992821,
+    "name": "メガリスドラゴン",
+    "name_en": "Megalith Dragon",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      5
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
     "gender": 2,
     "id": 199283,
     "illust": 1992831,
@@ -19454,6 +19470,22 @@
     "species": [
       5,
       82
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199353,
+    "illust": 1993531,
+    "name": "刀鬼",
+    "name_en": "Kataoni",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13
     ],
     "sprite_studio": 1
   },

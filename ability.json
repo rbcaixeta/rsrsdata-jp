@@ -8019,6 +8019,95 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃命中時、自身に「攻撃強化」を付与する( 効果大/効果2ターン )<br><br>バトル開始から数えて奇数ターン目の開始時<br>自身を回避カウンター状態にする( 効果1ターン )<br>さらに、自身を挑発状態にする( 効果中/効果1ターン )<br><br>バトル開始から数えて偶数ターン目の開始時<br>自身をステルス状態にする( 効果大/効果1ターン )<br><br>反撃技：スミレ返し<br>剣技/攻撃/威力C/直接/敵単体 ( 斬 )<br>攻撃する<br>自身のBPを回復する( +1 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When a weak attack hits, grants “Attack Enhancement” to self (Large Effect/Effect 2 turns) Sets <br><br><br>itself to Evade Counter State at the start of the odd turn counted from the start of the battle (Effect 1) <br>Turn) Also Taunt self (Effect/Effect 1 turn) Set <br><br><br>self to stealth at the start of the even-numbered turn counting from the start of battle (Effect/Effect 1) Turn) <br><br><br>Counterattack: Violet Return Sword Move/Attack/Power <br>C/Direct/Attack Enemy Alone () <br>Restore Own BP (+1) <br>(Move Rank1 (Activated)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101264,
+    "name": "鬼ごっこ戦法",
+    "name_en": "Tag tactics",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041189,
+      802041190,
+      802041239,
+      802041266
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身を回避カウンター状態にする( 効果1ターン )<br><br>反撃技：スミレ返し<br>剣技/攻撃/威力C/直接/敵単体 ( 斬 ) <br>攻撃する<br>自身のBPを回復する( +1 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "Counting from the start of battle, sets <br>itself to evasion counter state at the start of the odd-numbered turn (effect 1 turn) <br><br><br>Counterattack: Violet Return Sword Move/Attack/Power C/Direct/Enemy Single ( ) <br><br>Restore your own BP to attack (+1) <br>(Activated with Move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101265,
+    "name": "奇数ターン開始時 回避カウンター状態",
+    "name_en": "Evasion counter state at the start of an odd turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041191
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時<br>自身をステルス状態にする( 効果大/効果1ターン )",
+    "flavor_text_en": "Set <br>self to stealth at the start of the even-numbered turn, counting from the start of battle (large effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101266,
+    "name": "偶数ターン開始時 ステルス(大)",
+    "name_en": "Stealth at the start of even turns (Large)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041193
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃の、与ダメージが上昇( 効果大 )し、<br>さらに、Weak攻撃命中時、自身のBPを回復( +2 )する",
+    "flavor_text_en": "Increases damage dealt by Weak attacks (greater effect), and <br>restores own BP (+2) when a Weak attack hits",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101267,
+    "name": "練気集中Ⅱ",
+    "name_en": "Concentration of kneading II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040309,
+      802041194
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "Weak攻撃命中時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Heals own BP when hit by a weak attack (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101268,
+    "name": "Weak攻撃時 BP回復",
+    "name_en": "BP recovery during weak attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041196
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「ファイアボール+」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When a technique or technique (*) whose type is “Attack” is hit, <br>“Fireball +” is activated (<br>Chance Extra Large) (Activated with Move Rank1) <br>* “Techniques handed down in the R Cup” and “Books “Techniques activated by ability effects” and “counterattack techniques by counter effects” are not included",
@@ -8076,6 +8165,59 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "味方生存者全体の大剣装備時の与ダメージが上昇する( 効果大 )",
+    "flavor_text_en": "Increases damage dealt to all allied survivors when equipped with the Great Sword (Great Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101273,
+    "name": "大剣の教示Ⅲ",
+    "name_en": "Teaching the Great Sword III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041208
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>バトル開始から数えて奇数ターン目の終了時、自身のBPを回復する( +1 )<br>バトル開始から数えて偶数ターン目の終了時、自身のHPを回復する( 効果小 )",
+    "flavor_text_en": "Increases attack damage (Extra Large Effect) Heals <br>own BP at the end of the odd turn counting from the start of the <br>battle (+1) At the end of the even-numbered turn counting from the start of the battle, own Recover HP (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101275,
+    "name": "母なるニーサ",
+    "name_en": "Mother Nyssa",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802041057,
+      802041058
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身を挑発状態にする( 効果中/効果1ターン )",
+    "flavor_text_en": "<br>Taunt itself at the start of the odd-numbered turn, counting from the start of battle (in effect/1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4009,
+    "id": 702101297,
+    "name": "奇数ターン開始時 挑発(中)",
+    "name_en": "Odd Turn Start Taunt (Medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041192
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "攻撃命中時、自身の腕力と知力を上昇させる( 効果中 )<br>攻撃対象を倒した時、自身のBPを回復する( 倒した数によらず回復量は+5 )",
     "flavor_text_en": "Increases your strength and intelligence when hit <br>by an attack (in effect) When you defeat an attack target, heals your own BP (+5 recovery amount regardless of the number of defeats)",
@@ -8092,6 +8234,96 @@
       802010076,
       802010088,
       802040664
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>一定の確率で( 確率特大 )<br>自身に「攻撃強化」を付与する( 効果大/2ターン )<br>自身に「防御強化」を付与する( 効果大/2ターン )<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "[Start of Turn] <br><br>Grants “Attack Enhancement” to itself with a certain chance (Large Effect/2 turns) <br>Grants “Defense Strengthening” to itself (Higher Effect/2 turns) <br>Recover your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101316,
+    "name": "闘士の力Ⅱ",
+    "name_en": "Warrior's Power II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041264,
+      802041265,
+      802040754
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )させ、かつ、自身のBPを回復( +4 )する",
+    "flavor_text_en": "[At the end of turn] Has a <br>certain chance (in probability) to <br>restore its own HP (small effect) and heals its own BP (+4)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101318,
+    "name": "練気再生Ⅳ",
+    "name_en": "Neriki Regeneration IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040062,
+      802041263
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "Weak攻撃命中時、自身に「攻撃強化」を付与する( 効果大/効果2ターン )",
+    "flavor_text_en": "Grants “Attack Enhancement” to self when a Weak Attack is hit (Large Effect/Effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101319,
+    "name": "Weak攻撃時 攻撃強化",
+    "name_en": "Strengthening attacks during weak attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041195
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身のHPを回復( 効果極小 )し、かつ、自身の精神を上昇( 効果中 )させる",
+    "flavor_text_en": "[Start of <br>Turn] Restores your own HP (effect is minimal) and raises your spirit (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101321,
+    "name": "療養活性Ⅱ(精神)",
+    "name_en": "Recuperation Activity II (Spirit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041204,
+      802011282
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃の、与ダメージが上昇する( 効果特大 )<br>かつ、ターン終了時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Increases damage dealt by Weak attacks (Extra Large Effect) <br>and heals own BP at the end of turn (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101327,
+    "name": "瑕攻練気Ⅰ",
+    "name_en": "Defective Attack Neriki I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040347,
+      802040902
     ]
   },
   {
@@ -35755,6 +35987,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040029
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時] <br>自身を眠り状態にする( 効果99ターン )",
+    "flavor_text_en": "[Start of Round] <br>Put self into sleep state (effect 99 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 3005,
+    "id": 708200189,
+    "name": "眠り",
+    "name_en": "slumber",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808030455
     ]
   },
   {

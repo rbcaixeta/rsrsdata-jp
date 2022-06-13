@@ -792,6 +792,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[主は俺か、刀か]グレイ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Is the Lord Me or the Sword] A piece dedicated to Gray. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 210309,
+    "id": 210309,
+    "name": "SSグレイのピース",
+    "name_en": "SS gray piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[風を捕まえろ！]ホーク(RS1/MS)専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Ride the Wind!] Hawke. ",
@@ -837,6 +849,18 @@
     "name": "SSホーク(RS1/MS)のピース",
     "name_en": "SS Hawke Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[こんな嵐にビビるな！]ホーク(RS1/MS)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Don't be scared by such a storm!] A piece dedicated to Hawk (RS1/MS) Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 210407,
+    "id": 210407,
+    "name": "SSホーク(RS1/MS)のピース",
+    "name_en": "Piece of SS Hawk (RS1/MS)",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -897,6 +921,18 @@
     "name": "SSアイシャのピース",
     "name_en": "SS Aisha Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ニーサ神の心を得て]アイシャ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Get the Heart of God Nisa] A piece dedicated to Aisha. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 210507,
+    "id": 210507,
+    "name": "SSアイシャのピース",
+    "name_en": "SS Aisha's piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -1077,6 +1113,18 @@
     "name": "SSバーバラのピース",
     "name_en": "SS Barbara Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[さあハートを燃やして]バーバラ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Burn Your Heart] Barbara's exclusive piece Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 210708,
+    "id": 210708,
+    "name": "SSバーバラのピース",
+    "name_en": "SS Barbara's piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -4104,6 +4152,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[エレン、パーンチ！]エレン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Ellen, Punch!] A piece dedicated to Ellen. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 230611,
+    "id": 230611,
+    "name": "SSエレンのピース",
+    "name_en": "SS Ellen's Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[ロアーヌ侯の妹]モニカ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Sister of the Marquis] Monika. ",
@@ -5602,6 +5662,18 @@
     "name_en": "A Asura Piece",
     "name_en_src": "gl",
     "selling_price": 40
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[よく来たな、修行者よ]アスラ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [You often came, ascetic practitioners] A piece dedicated to Asura. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 238102,
+    "id": 238102,
+    "name": "SSアスラのピース",
+    "name_en": "SS Asura's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
   },
   {
     "exchange_cost": 250,
@@ -9825,6 +9897,18 @@
     "name": "SS東の悪しき魔女のピース",
     "name_en": "SS Wicked Witch Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[まだ、いけるよね！]スミレ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [You can still go!] A piece dedicated to violets. Can be used to summon a style or break through the limit.",
+    "flavor_text_en_src": "ml",
+    "icon": 716102,
+    "id": 716102,
+    "name": "SSスミレのピース",
+    "name_en": "SS violet piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
