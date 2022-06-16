@@ -54486,6 +54486,48 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "行動順補正値が上昇する( 効果小 )",
+    "flavor_text_en": "Action order correction value increases (effect small)",
+    "flavor_text_en_src": "ml",
+    "id": 809040693,
+    "ignition_effect_id": "",
+    "name": "行動順補正上昇(小)",
+    "name_en": "Action Order Correction Increase (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040109,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "行動順補正↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵から受けるダメージが上昇する",
+    "flavor_text_en": "Increases damage received from enemies",
+    "flavor_text_en_src": "ml",
+    "id": 809040694,
+    "ignition_effect_id": "",
+    "name": "防御弱化(中)",
+    "name_en": "Weakened Defense (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040103,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "防御↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "149900213",
     "flavor_text": "一定確率で敵からの攻撃を回避する(0%)",
     "flavor_text_en": "Has a chance to avoid an enemy attack (0%)",
