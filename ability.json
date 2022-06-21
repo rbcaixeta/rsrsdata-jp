@@ -8202,6 +8202,130 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、自身の腕力と素早さを上昇させる( 効果小 )<br>OD攻撃命中時、対象の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力アップ状態を解除する",
+    "flavor_text_en": "Increases your own strength and quickness when hit by an attack (small effect) <br>When hitting an OD attack, unlocks the ability increase state of the target's strength, physical strength, dexterity, quickness, intelligence, spirit, love, and charm",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101278,
+    "name": "ハリキリ激浄Ⅰ(腕力・素早さ)",
+    "name_en": "Harikiri Geki Purification I (Brawn, Quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041214,
+      802041097
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身の腕力と素早さを上昇させる( 効果小 )",
+    "flavor_text_en": "Increases your strength and quickness when hit by an attack (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101279,
+    "name": "攻撃時 腕力・素早さ上昇",
+    "name_en": "Increased strength and quickness when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011271,
+      802011272
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方が攻撃を受ける時<br>味方への攻撃を身代わりで受け、被ダメージを軽減する( 確率小 )",
+    "flavor_text_en": "When an ally is attacked<br>, takes an attack on an ally as a substitute and reduces damage taken (low probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101280,
+    "name": "ボディガード",
+    "name_en": "bodyguard",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041215
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>味方生存者全体のHPを回復する( 確率小/効果極小 )",
+    "flavor_text_en": "[End of Turn] <br>Restores the HP of all allied survivors (Small Chance/Minimal Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101281,
+    "name": "癒しの予兆",
+    "name_en": "Signs of healing",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010778
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>一定の確率で( 確率小 )<br>味方生存者全体のすべての状態異常と腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "[At End of Turn] Has a <br>chance to <br>unlock all health abnormalities and abilities of all survivors of all allied survivors and their abilities down for strength, health, dexterity, quickness, intelligence, spirit, love, and charm",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101282,
+    "name": "健気な祈り",
+    "name_en": "Healthy prayers",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040848,
+      802040849
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>一定の確率で( 確率中 )<br>味方生存者全体のHPを回復( 効果極小 )させ、かつ、味方生存者全体の精神を上昇( 効果中 )させる",
+    "flavor_text_en": "[Start of Turn] Has a <br>certain chance (medium chance) to <br>restore the HP of all allied survivors (minimal effect), and raises the spirit of all allied survivors (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101283,
+    "name": "エンチャントヒーリングⅡ(精神)",
+    "name_en": "Enchantment Healing II (Spirit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010778,
+      802010465
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>一定の確率で( 確率大 )<br>味方生存者全体に「防御強化」( 効果大/効果1ターン )を付与し、かつ、味方生存者全体の体力を上昇( 効果中 )させる",
+    "flavor_text_en": "[Start of Turn] Has <br>a certain chance of <br>giving all survivors “Defense Enhancement” (High Effect/Effect 1 Turn), and Increases Health (Active) to all Survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101284,
+    "name": "防衛の策",
+    "name_en": "Measures of defense",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011216,
+      802040730
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身を挑発状態にする( 効果中/効果1ターン )",
     "flavor_text_en": "<br>Taunt itself at the start of the odd-numbered turn, counting from the start of battle (in effect/1 turn)",
@@ -36624,6 +36748,23 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "味方が攻撃を受ける時<br>味方への攻撃を身代わりで受ける( 確率大 )",
+    "flavor_text_en": "When an ally is attacked, receive an <br>attack on an ally as a substitute (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300195,
+    "name": "ガード",
+    "name_en": "guarding",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040102
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -37059,6 +37200,78 @@
     "special_effect_ids": [
       808040451,
       808040452
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "特定ターン終了毎に、名もなき剣を呼び出す",
+    "flavor_text_en": "Invokes the Nameless Sword at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "icon": 4014,
+    "id": 708400190,
+    "name": "名もなき剣",
+    "name_en": "Nameless Sword",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040456,
+      808040457
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "特定ターン終了毎に、名もなき槍を呼び出す",
+    "flavor_text_en": "Call the Nameless Spear at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "icon": 4014,
+    "id": 708400191,
+    "name": "名もなき槍",
+    "name_en": "Nameless spear",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040458,
+      808040459
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "特定ターン終了毎に、名もなき斧を呼び出す",
+    "flavor_text_en": "Call the Nameless Axe at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "icon": 4014,
+    "id": 708400192,
+    "name": "名もなき斧",
+    "name_en": "Nameless axe",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040460,
+      808040461
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "特定ターン終了毎に、名もなき盾を呼び出す",
+    "flavor_text_en": "Invokes Nameless Shield at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "icon": 4014,
+    "id": 708400193,
+    "name": "名もなき盾",
+    "name_en": "Nameless Shield",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040462,
+      808040463
     ]
   },
   {

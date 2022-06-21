@@ -3781,6 +3781,153 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "buff",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Increases health",
+    "flavor_text_en_src": "ml",
+    "id": 801011153,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Improve your physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "体力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011154,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Spirit up",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "精神↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140100181",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Increases brawn strength",
+    "flavor_text_en_src": "ml",
+    "id": 801011156,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increased strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Increases dexterity",
+    "flavor_text_en_src": "ml",
+    "id": 801011157,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Increases quickness",
+    "flavor_text_en_src": "ml",
+    "id": 801011158,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Improve your quickness",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "愛が上昇する",
+    "flavor_text_en": "Love rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011177,
+    "ignition_effect_id": "",
+    "name": "愛アップ",
+    "name_en": "Love up",
+    "name_en_src": "ml",
+    "state_change_id": 900010018,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が上昇する",
+    "flavor_text_en": "The attractiveness rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011239,
+    "ignition_effect_id": "",
+    "name": "魅力アップ",
+    "name_en": "Attractiveness",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "毒耐性が上昇する",
     "flavor_text_en": "Increases Poison Resistance.",
@@ -12379,6 +12526,118 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵から受けるダメージが低下する",
+    "flavor_text_en": "Reduces damage received from enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041174,
+    "ignition_effect_id": "",
+    "name": "防御強化(小)",
+    "name_en": "Defense Enhancement (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      85
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "味方が攻撃を受ける時<br>味方への攻撃を身代わりで受け、被ダメージを軽減する( 確率特大 )",
+    "flavor_text_en": "When an ally is attacked<br>, it takes an attack on the ally as a substitute and reduces damage taken (Extra Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 801041175,
+    "ignition_effect_id": "",
+    "name": "かばう（防御）",
+    "name_en": "Kabou (defense)",
+    "name_en_src": "ml",
+    "state_change_id": 900040038,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "守護の誓い",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041176,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(中)",
+    "name_en": "Moral up (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "FFFFFF",
+    "text_pop": "プロミスブーケ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージを100%カットする( 上限回数:1 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Cut 100% of damage taken. (Maximum number of times: 1*Activate only when an attack is hit)",
+    "flavor_text_en_src": "ml",
+    "id": 801041178,
+    "ignition_effect_id": "",
+    "name": "ダメージブロック(1回)",
+    "name_en": "Damage block (1 time)",
+    "name_en_src": "ml",
+    "state_change_id": 900040184,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 8,
+    "text_color": "FFFFFF",
+    "text_pop": "ダメージブロック",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "術攻撃を受けた時、敵から受ける被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage taken by enemies when attacked by jutsu (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041179,
+    "ignition_effect_id": "",
+    "name": "防御態勢(術/中)",
+    "name_en": "Defense posture (jutsu/middle)",
+    "name_en_src": "ml",
+    "state_change_id": 900040191,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 8,
+    "text_color": "FFFFFF",
+    "text_pop": "防御態勢",
+    "triggering_effect_condition_ids": [
+      45001
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "暗闇状態を解除する",
@@ -17655,6 +17914,69 @@
     "target_area": 3,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Increases health",
+    "flavor_text_en_src": "ml",
+    "id": 802011216,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Improve your physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "体力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Increases brawn strength",
+    "flavor_text_en_src": "ml",
+    "id": 802011271,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increased strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Increases quickness",
+    "flavor_text_en_src": "ml",
+    "id": 802011272,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Improve your quickness",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "素早さ↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -32863,6 +33185,50 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、自身の腕力と素早さを上昇させる( 効果小 )",
+    "flavor_text_en": "Increases your strength and quickness when hit by an attack (small effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041214,
+    "ignition_effect_id": "",
+    "name": "攻撃時 腕力・素早さ上昇",
+    "name_en": "Increased strength and quickness when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101279
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "仲間の被弾時に、身代わりに攻撃を受ける<br>さらに身代わり時の被ダメージが低下する(確率発動)",
+    "flavor_text_en": "When a comrade is hit, it will be attacked in place of being attacked, and <br>the damage taken when substituting is reduced (probability activated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041215,
+    "ignition_effect_id": "",
+    "name": "かばう（防御）",
+    "name_en": "Kabou (defense)",
+    "name_en_src": "ml",
+    "state_change_id": 900040038,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "通常攻撃を命中させた時、ファイアボール+が発動する(確率特大)",
@@ -46937,6 +47303,206 @@
     "state_icon": 3003,
     "state_vars": [
       708300187
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき剣を呼び出す",
+    "flavor_text_en": "Invokes the Nameless Sword at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040456,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904003,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき剣を呼び出す",
+    "flavor_text_en": "Invokes the Nameless Sword at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040457,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904003,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき槍を呼び出す",
+    "flavor_text_en": "Call the Nameless Spear at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040458,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904103,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき槍を呼び出す",
+    "flavor_text_en": "Call the Nameless Spear at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040459,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904103,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき斧を呼び出す",
+    "flavor_text_en": "Call the Nameless Axe at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040460,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904203,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき斧を呼び出す",
+    "flavor_text_en": "Call the Nameless Axe at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040461,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904203,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき盾を呼び出す",
+    "flavor_text_en": "Invokes Nameless Shield at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040462,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904303,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき盾を呼び出す",
+    "flavor_text_en": "Invokes Nameless Shield at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040463,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904303,
+      1
     ],
     "target_area": 1,
     "text_color": "",

@@ -2574,6 +2574,45 @@
     "sort_order": 22061475
   },
   {
+    "expired_at": 1659466799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
+    "flavor_text_en_src": "ml",
+    "icon": 800200,
+    "id": 800200,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・62",
+    "name_en": "Romancing Festival Medal/62",
+    "name_en_src": "ml",
+    "sort_order": 22062260
+  },
+  {
+    "expired_at": 1659466799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
+    "flavor_text_en_src": "ml",
+    "icon": 800201,
+    "id": 800201,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・63",
+    "name_en": "Romancing Festival Medal・63",
+    "name_en_src": "ml",
+    "sort_order": 22062255
+  },
+  {
+    "expired_at": 1659466799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
+    "flavor_text_en_src": "ml",
+    "icon": 800202,
+    "id": 800202,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・64",
+    "name_en": "Romancing Festival Medal・64",
+    "name_en_src": "ml",
+    "sort_order": 22062250
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -8747,5 +8786,31 @@
     "name_en": "A rare mold piece of Hakko (sword)",
     "name_en_src": "ml",
     "sort_order": 22053137
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100719,
+    "id": 1100719,
+    "max_quantity": 99999999,
+    "name": "二輪の白花",
+    "name_en": "White flower on two wheels",
+    "name_en_src": "ml",
+    "sort_order": 22062205
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100720,
+    "id": 1100720,
+    "max_quantity": 99999999,
+    "name": "騎士の飾り",
+    "name_en": "Knight Ornament",
+    "name_en_src": "ml",
+    "sort_order": 22062210
   }
 ]
