@@ -316,11 +316,11 @@
     "modifier_str": 5,
     "modifier_end": -2,
     "modifier_dex": 2,
-    "modifier_agi": -4,
+    "modifier_agi": -2,
     "modifier_int": -4,
     "modifier_wil": -2,
     "modifier_lov": -1,
-    "modifier_cha": -1
+    "modifier_cha": 0
   },
   {
     "styleId": 121101,
@@ -2555,14 +2555,14 @@
     "modifier_char_wil": 1,
     "modifier_char_lov": 0,
     "modifier_char_cha": 1,
-    "modifier_str": -4,
-    "modifier_end": 1,
-    "modifier_dex": -4,
-    "modifier_agi": 1,
+    "modifier_str": -2,
+    "modifier_end": 3,
+    "modifier_dex": -2,
+    "modifier_agi": 3,
     "modifier_int": -4,
-    "modifier_wil": 1,
-    "modifier_lov": -4,
-    "modifier_cha": -4
+    "modifier_wil": 3,
+    "modifier_lov": -2,
+    "modifier_cha": -2
   },
   {
     "styleId": 212803,
@@ -2574,14 +2574,14 @@
     "modifier_char_wil": 1,
     "modifier_char_lov": 0,
     "modifier_char_cha": 1,
-    "modifier_str": 4,
+    "modifier_str": 5,
     "modifier_end": 1,
-    "modifier_dex": -4,
+    "modifier_dex": -2,
     "modifier_agi": -4,
-    "modifier_int": -4,
+    "modifier_int": -2,
     "modifier_wil": -4,
-    "modifier_lov": -4,
-    "modifier_cha": -4
+    "modifier_lov": -2,
+    "modifier_cha": -2
   },
   {
     "styleId": 213101,
@@ -2822,10 +2822,10 @@
     "modifier_char_lov": 2,
     "modifier_char_cha": 2,
     "modifier_str": -4,
-    "modifier_end": -4,
+    "modifier_end": -2,
     "modifier_dex": 1,
     "modifier_agi": -4,
-    "modifier_int": 4,
+    "modifier_int": 5,
     "modifier_wil": -4,
     "modifier_lov": -4,
     "modifier_cha": -4
@@ -2840,14 +2840,14 @@
     "modifier_char_wil": 0,
     "modifier_char_lov": 2,
     "modifier_char_cha": 2,
-    "modifier_str": -4,
+    "modifier_str": -2,
     "modifier_end": -4,
     "modifier_dex": -4,
     "modifier_agi": -4,
-    "modifier_int": 1,
-    "modifier_wil": 4,
-    "modifier_lov": -4,
-    "modifier_cha": -4
+    "modifier_int": 3,
+    "modifier_wil": 5,
+    "modifier_lov": -2,
+    "modifier_cha": -2
   },
   {
     "styleId": 216301,
@@ -9836,7 +9836,7 @@
     "modifier_end": 5,
     "modifier_dex": -4,
     "modifier_agi": 0,
-    "modifier_int": -4,
+    "modifier_int": -3,
     "modifier_wil": -1,
     "modifier_lov": -2,
     "modifier_cha": -1
@@ -10080,13 +10080,13 @@
     "modifier_char_lov": -1,
     "modifier_char_cha": 2,
     "modifier_str": -4,
-    "modifier_end": -4,
-    "modifier_dex": 1,
+    "modifier_end": -2,
+    "modifier_dex": 2,
     "modifier_agi": -4,
-    "modifier_int": 4,
+    "modifier_int": 5,
     "modifier_wil": -4,
-    "modifier_lov": -4,
-    "modifier_cha": -4
+    "modifier_lov": 0,
+    "modifier_cha": -1
   },
   {
     "styleId": 310701,
@@ -11314,14 +11314,14 @@
     "modifier_char_wil": 3,
     "modifier_char_lov": 4,
     "modifier_char_cha": -1,
-    "modifier_str": 4,
+    "modifier_str": 5,
     "modifier_end": -4,
-    "modifier_dex": 1,
-    "modifier_agi": -4,
-    "modifier_int": -4,
-    "modifier_wil": -4,
+    "modifier_dex": 2,
+    "modifier_agi": -3,
+    "modifier_int": -2,
+    "modifier_wil": -1,
     "modifier_lov": -4,
-    "modifier_cha": -4
+    "modifier_cha": -1
   },
   {
     "styleId": 313401,
@@ -12095,7 +12095,7 @@
     "modifier_char_cha": 1,
     "modifier_str": -4,
     "modifier_end": 3,
-    "modifier_dex": -3,
+    "modifier_dex": -1,
     "modifier_agi": -3,
     "modifier_int": -4,
     "modifier_wil": 5,
@@ -15671,7 +15671,7 @@
     "modifier_agi": 0,
     "modifier_int": 0,
     "modifier_wil": -4,
-    "modifier_lov": -1,
+    "modifier_lov": 0,
     "modifier_cha": 0
   },
   {
