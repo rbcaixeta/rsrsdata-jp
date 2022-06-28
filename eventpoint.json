@@ -2613,6 +2613,32 @@
     "sort_order": 22062250
   },
   {
+    "expired_at": 1659898799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800203,
+    "id": 800203,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・65",
+    "name_en": "Romancing Festival Medal 65",
+    "name_en_src": "ml",
+    "sort_order": 22062855
+  },
+  {
+    "expired_at": 1659898799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800204,
+    "id": 800204,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・66",
+    "name_en": "Romancing Festival Medal 66",
+    "name_en_src": "ml",
+    "sort_order": 22062850
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -8812,5 +8838,44 @@
     "name_en": "Knight Ornament",
     "name_en_src": "ml",
     "sort_order": 22062210
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100721,
+    "id": 1100721,
+    "max_quantity": 99999999,
+    "name": "きれいな貝殻",
+    "name_en": "Beautiful seashells",
+    "name_en_src": "ml",
+    "sort_order": 22062835
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100722,
+    "id": 1100722,
+    "max_quantity": 99999999,
+    "name": "プロジェクターの破片",
+    "name_en": "Projector shards",
+    "name_en_src": "ml",
+    "sort_order": 22062840
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「みんなで応援！熱闘コロシアム」の集計アイテム。該当イベントで入手できる。（集計は2022/7/7 4:00まで）",
+    "flavor_text_en": "“Everyone cheers! An aggregated item from “Enthusiast Colosseum”. You can get it at the corresponding event. (Aggregation is until 2022/7/7 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100723,
+    "id": 1100723,
+    "max_quantity": 99999999,
+    "name": "熱闘バルーン",
+    "name_en": "Enthusiast Balloon",
+    "name_en_src": "ml",
+    "sort_order": 22062845
   }
 ]

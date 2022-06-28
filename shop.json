@@ -2647,18 +2647,23 @@
   {
     "id": 4900187,
     "shop_type": 4,
-    "banner": 901065,
-    "currency": 4,
-    "currency_item_ids": [
-      1100351,
-      1100352,
-      1100353
+    "banner": 901175,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 1100351
+      },
+      {
+        "currency": 4,
+        "id": 1100352
+      }
     ],
-    "currency_items": [],
     "tab_category": 1,
-    "priority": 6525,
-    "start_at": 1596078000,
-    "end_at": 1598641199
+    "priority": 7117,
+    "start_at": 1656385200,
+    "end_at": 1659898799
   },
   {
     "id": 4900188,
@@ -6575,8 +6580,8 @@
         "id": 1100705
       }
     ],
-    "tab_category": 1,
-    "priority": 7090,
+    "tab_category": 2,
+    "priority": 6607,
     "start_at": 1653364800,
     "end_at": 1893423599
   },
@@ -6820,6 +6825,61 @@
     "priority": 10206,
     "start_at": 1655866800,
     "end_at": 1659466799
+  },
+  {
+    "id": 4900455,
+    "shop_type": 4,
+    "banner": 901176,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 1100721
+      },
+      {
+        "currency": 4,
+        "id": 1100722
+      }
+    ],
+    "tab_category": 1,
+    "priority": 7120,
+    "start_at": 1656385200,
+    "end_at": 1659898799
+  },
+  {
+    "id": 4900456,
+    "shop_type": 4,
+    "banner": 1000210,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 800203
+      }
+    ],
+    "tab_category": 1,
+    "priority": 10210,
+    "start_at": 1656385200,
+    "end_at": 1659898799
+  },
+  {
+    "id": 4900457,
+    "shop_type": 4,
+    "banner": 1000211,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 800204
+      }
+    ],
+    "tab_category": 1,
+    "priority": 10209,
+    "start_at": 1656385200,
+    "end_at": 1659898799
   },
   {
     "id": 4900459,

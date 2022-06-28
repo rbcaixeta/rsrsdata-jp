@@ -8326,6 +8326,204 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「アースライザー+」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>アースライザー+<br>風術/攻撃/威力A/間接/敵全体 ( 斬 ) <br>全体攻撃する<br>自身に「防御強化」を付与する( 効果大/効果2ターン )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "At the end of the turn, <br>after activating an OD attack (*) that raises your OD gauge (less effective), “Earth <br>Riser +” activates. * “Techniques and techniques handed down in the R Cup” and “Activated by this ability effect Does not include “techniques and techniques to do” or “counterattack techniques and techniques by counter effects” <br><br><br>Earthriser+Wind Jutsu/Attack/Power A/Indirect/Entire Enemy (Attack) Attack the Whole Enemy (<br>Attack) <br>to Yourself” Grants “Defense Up” (High Effect/Effect for 2 turns) <br>(Activate with Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101285,
+    "name": "ライザードライヴ",
+    "name_en": "Riser Drive",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041152,
+      802041218
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃発動後、「アースライザー+」が発動する<br>( 術Rank1で発動 )",
+    "flavor_text_en": "After an OD attack is activated, “Earth Riser+” is activated <br>(activated with Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101286,
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attack during OD attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041219,
+      802041220,
+      802041221,
+      802041222
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身のHPを回復する( 効果極小 )<br>バトル開始から数えて奇数ターン目の開始時、自身のBPを回復する( +2 )<br>バトル開始から数えて偶数ターン目の開始時、自身の素早さ・知力・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "At the end of turn, recovers own HP (minimal effect) At the <br>start of the odd turn counting from the start of battle, recovers own BP (+2) At the <br>start of the even-numbered turn counting from the start of battle Increases one's quickness, intelligence, and attractiveness (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101287,
+    "name": "エレメントヒールⅡ(素早さ・知力・魅力)",
+    "name_en": "Element Heel II (Quickness, Intelligence, Charm)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041224,
+      802041225,
+      802041226
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "At the end of turn, restore own HP (Minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101288,
+    "name": "ターン終了時 HP回復",
+    "name_en": "HP recovery at end of turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041204
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "At the start of the odd turn counting from the start of battle, restore your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101289,
+    "name": "奇数ターン開始時 BP回復",
+    "name_en": "BP recovery at the start of an odd turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040754
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身の素早さ・知力・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases your own quickness, intelligence, and attractiveness at the start of the even-numbered turn counting from the start of battle (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101290,
+    "name": "偶数ターン開始時 素早さ・知力・魅力アップ",
+    "name_en": "Improves quickness, intelligence, and attractiveness at the start of an even-numbered turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011275,
+      802010773,
+      802010776
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +2 )<br>OD攻撃時、味方生存者全体のHPを回復する( 効果中 )",
+    "flavor_text_en": "At the start of battle, heal your own BP (+2). <br>When attacking OD, restore the HP of all allied survivors (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101291,
+    "name": "ハリキリ練癒Ⅱ",
+    "name_en": "Harikiri Ren Healing II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040322,
+      802041053
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>味方生存者全体のマヒ耐性と混乱耐性を上昇させる( 効果特大 )",
+    "flavor_text_en": "[Start of Turn] <br>Increases Mahi Resistance and Confusion Resistance of all allied Survivors (Super Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101292,
+    "name": "免疫分配Ⅳ(マヒ・混乱)",
+    "name_en": "Immune Distribution IV (Mahi/Confusion)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802021227,
+      802021228
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象の精神を低下させる( 確率小/効果大 )<br>攻撃命中時、自身のBPを回復する( 確率小/+2 )",
+    "flavor_text_en": "When an attack is hit, lowers the target's spirit (low probability/high effect). <br>When an attack is hit, restores own BP (small probability/+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101294,
+    "name": "微弱化の練撃Ⅱ(精神)",
+    "name_en": "Weakening Jerk II (Spirit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041229,
+      802041230
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象の精神を低下させる( 確率小/効果大 )",
+    "flavor_text_en": "Reduces target's spirit when hit by an attack (low chance/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101295,
+    "name": "攻撃時 精神ダウン",
+    "name_en": "Mental down when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010192
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身のBPを回復する( 確率小/+2 )",
+    "flavor_text_en": "Recovers own BP when an attack is hit (small chance/+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101296,
+    "name": "攻撃時 BP回復",
+    "name_en": "BP recovery during attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040961
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身を挑発状態にする( 効果中/効果1ターン )",
     "flavor_text_en": "<br>Taunt itself at the start of the odd-numbered turn, counting from the start of battle (in effect/1 turn)",
@@ -8378,6 +8576,23 @@
       802041264,
       802041265,
       802040754
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時] <br>自身の体力を上昇させる( 効果大 )",
+    "flavor_text_en": "[Start of Round] <br>Increases your own health (Great Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101317,
+    "name": "体力充填Ⅲ",
+    "name_en": "Stamina charge Ⅲ",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011281
     ]
   },
   {

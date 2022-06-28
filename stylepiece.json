@@ -2292,6 +2292,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[メイド人形改・潜水型]コッペリア専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Maid Doll Kai, Diving Type] A piece dedicated to Coppelia. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 220506,
+    "id": 220506,
+    "name": "SSコッペリアのピース",
+    "name_en": "SS Coppelia pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[これが流し斬りだ！]ヴィクトール専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Behold, Flowing Slash!] Victor. ",
@@ -5208,6 +5220,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[海でも天才！]教授専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Genius even at sea!] A piece dedicated to professors. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 234104,
+    "id": 234104,
+    "name": "SS教授のピース",
+    "name_en": "Professor SS's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[朱鳥術士ボルカノ]ボルカノ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Shucho Mage Volcano] Volcano. ",
@@ -5852,6 +5876,18 @@
     "id": 239205,
     "name": "SSビューネイのピース",
     "name_en": "Pieces of SS Viewnei",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[天空の風を肌で感じて]ビューネイ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Feel the Wind in the Sky with Your Skin] A piece dedicated to Buenay. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 239206,
+    "id": 239206,
+    "name": "SSビューネイのピース",
+    "name_en": "SS Buenay's piece",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -6673,6 +6709,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[これから仕事なの？！]ライザ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Are you going to work from now on?!] A piece dedicated to Liza. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 311905,
+    "id": 311905,
+    "name": "SSライザのピース",
+    "name_en": "SS riser pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[もののふは孤独だ]メタルブラック専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [A Warrior's Solitude] M Black.",
     "flavor_text_en_src": "gl",
@@ -7476,6 +7524,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 150,
+    "flavor_text": "S[御待ち兼ねの罰ゲーム]ロッキー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [The Waiting Punishment Game] A piece dedicated to Rocky. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 315101,
+    "id": 315101,
+    "name": "Sロッキーのピース",
+    "name_en": "S Rocky piece",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
     "exchange_cost": 250,
     "flavor_text": "SS[ごゆっくりどうぞ]シンディ・キャンベル専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "SS [Please take your time] A piece dedicated to Cindy Campbell. Can be used for Style Summons or Limit Breaks.",
@@ -7880,6 +7940,18 @@
     "id": 321203,
     "name": "SSレスリーのピース",
     "name_en": "SS Leslie's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[束の間の休息]レスリー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Rest for a while] A piece dedicated to Leslie. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 321204,
+    "id": 321204,
+    "name": "SSレスリーのピース",
+    "name_en": "SS Leslie pieces",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -8324,6 +8396,18 @@
     "id": 323602,
     "name": "Sミスティのピース",
     "name_en": "S Misty's Piece",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[全速力だヨ]ペッグ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece dedicated to the S [Full Speed Yo] peg. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 323701,
+    "id": 323701,
+    "name": "Sペッグのピース",
+    "name_en": "S peg piece",
     "name_en_src": "ml",
     "selling_price": 60
   },
@@ -9824,6 +9908,18 @@
     "id": 711802,
     "name": "SSキャンディのピース",
     "name_en": "SS Candy Pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[癒しの動物王国？]キャンディ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Healing animal kingdom?] A piece dedicated to candy. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 711803,
+    "id": 711803,
+    "name": "SSキャンディのピース",
+    "name_en": "SS candy pieces",
     "name_en_src": "ml",
     "selling_price": 100
   },
