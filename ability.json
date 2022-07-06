@@ -8542,6 +8542,27 @@
   },
   {
     "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「ドライヴエナジーショット」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "When you hit a skill/jut* whose type is “Attack”, <br>“Drive Energy Shot” is activated (with a chance) <br>(activated with move Rank 1) <br>* “Techniques handed down in the R Cup” “Techniques and techniques activated by this ability effect” and “counterattack techniques and techniques by counter effects” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101298,
+    "name": "執念の追撃",
+    "name_en": "Pursuit of Obsession",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041248,
+      802041249,
+      802041250,
+      802041251,
+      802041293
+    ]
+  },
+  {
+    "ability_when": 6,
     "flavor_text": "攻撃命中時、自身の腕力と知力を上昇させる( 効果中 )<br>攻撃対象を倒した時、自身のBPを回復する( 倒した数によらず回復量は+5 )",
     "flavor_text_en": "Increases your strength and intelligence when hit <br>by an attack (in effect) When you defeat an attack target, heals your own BP (+5 recovery amount regardless of the number of defeats)",
     "flavor_text_en_src": "ml",
@@ -8557,6 +8578,129 @@
       802010076,
       802010088,
       802040664
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身の状態異常をすべて解除する( 確率大 )<br>味方が全員生存している時、自身への攻撃を回避する( 確率特大 )",
+    "flavor_text_en": "At the end of turn, clear all caster status abnormalities (High chance) <br>When all allies are alive, avoid attacking caster (High chance)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101300,
+    "name": "ハイドアンドシーク",
+    "name_en": "HYDE AND SEEK",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040676,
+      802041241
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身の状態異常をすべて解除する( 確率大 )",
+    "flavor_text_en": "[End of Turn] <br>Clear all of your state abnormalities (high chance)",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101301,
+    "name": "ターン終了時 全状態異常解除",
+    "name_en": "Unlock all status abnormalities at the end of turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040310
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃の、与ダメージが上昇する( 効果極大 )<br><br>[Weak攻撃命中時]<br>自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )<br>自身のBPを回復する( +1 )<br>ただし、自身に「防御弱化」を付与する( 効果小/効果2ターン )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "Increases damage dealt by Weak attacks (maximum effect) <br><br>[When Weak Attack hits] <br>Grants “Heat Up” (during effect) to self (maximum number of times: 5 times in battle) <br>Recovers own BP (+1)<br>, however, grants “Defense Weakening” to caster (Low Effect/Effect for 2 turns) <br><br><br>Increases damage dealt by Heatup Attacks ( (Persistent during effect battles)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101302,
+    "name": "ルナティック",
+    "name_en": "Lunatic",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040802,
+      802041242,
+      802041243,
+      802041244
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "Weak攻撃命中時、自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "Grants “Heat Up” (active) to self when hit by a Weak Attack (maximum: 5 times in battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101303,
+    "name": "Weak攻撃時 ヒートアップ",
+    "name_en": "Heats up during weak attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041273
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "Weak攻撃命中時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Heals own BP when hit by a weak attack (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101304,
+    "name": "Weak攻撃時 BP回復",
+    "name_en": "BP recovery during a weak attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041245
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "Weak攻撃命中時、自身に「防御弱化」を付与する( 効果小/効果2ターン )",
+    "flavor_text_en": "When hit by a Weak attack, grant “Weak Defense” to caster (Low Effect/Effect for 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101305,
+    "name": "Weak攻撃時 防御弱化",
+    "name_en": "Weak weakens defense when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011246
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、被ダメージを軽減し無骨殴打でカウンター攻撃する<br><br>反撃技：無骨殴打<br>棍棒技/攻撃/威力B/直接/敵単体 ( 打 )<br>攻撃する<br>攻撃命中時に確率で、対象の知力を低下させる( 効果小 )<br>攻撃命中時、対象をマヒさせる( 確率小/効果4ターン )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "Counterattack <br><br><br><br>technique that reduces damage taken and counterattacks with a rugged beating against a direct attack when attacked: rugged beating club move/attack/power B/direct/enemy alone (hit) <br>Attack <br>Attack Chance to reduce target's intelligence when <br>hit (low effect) When attacking, paralyzes target (low chance/effect for 4 turns) <br>(Activated with Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101306,
+    "name": "捜査敢行",
+    "name_en": "Dare to investigate",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041247
     ]
   },
   {

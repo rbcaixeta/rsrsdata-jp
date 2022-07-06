@@ -6822,6 +6822,28 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "行動選択ができなくなる<br>ターン経過で自然回復する",
+    "flavor_text_en": "You will not be able to choose an action It <br>will recover spontaneously as the turn",
+    "flavor_text_en_src": "ml",
+    "id": 801031211,
+    "ignition_effect_id": "",
+    "name": "狂戦士",
+    "name_en": "Berserker",
+    "name_en_src": "ml",
+    "state_change_id": 900030009,
+    "state_icon": 1039,
+    "state_vars": [
+      50
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "狂戦士",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "敵に与えるダメージが上昇する",
     "flavor_text_en": "Increases damage dealt to enemies.",
@@ -13190,6 +13212,27 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "140600122",
+    "flavor_text": "ODゲージが上昇する",
+    "flavor_text_en": "The OD gauge rises",
+    "flavor_text_en_src": "ml",
+    "id": 801041206,
+    "ignition_effect_id": "",
+    "name": "ODゲージアップ",
+    "name_en": "OD gauge up",
+    "name_en_src": "ml",
+    "state_change_id": 900050156,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 12,
+    "text_color": "FFFFFF",
+    "text_pop": "ODゲージ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "暗闇状態を解除する",
     "flavor_text_en": "Unlock the Darkness",
@@ -13229,6 +13272,49 @@
     "target_area": 10,
     "text_color": "5BFF24",
     "text_pop": "石化解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041212,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵に与えるダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage dealt to enemies is reduced (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041213,
+    "ignition_effect_id": "",
+    "name": "モラルダウン(中)",
+    "name_en": "Moral Down (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040154,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "攻撃↓",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -18486,6 +18572,27 @@
     "target_area": 3,
     "text_color": "65D2FF",
     "text_pop": "体力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵から受けるダメージが上昇する",
+    "flavor_text_en": "Increases damage received from enemies",
+    "flavor_text_en_src": "ml",
+    "id": 802011246,
+    "ignition_effect_id": "",
+    "name": "防御弱化(小)",
+    "name_en": "Defense Weakened (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040103,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "防御↓",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -34128,6 +34235,227 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、自身の状態異常をすべて解除する(確率大)",
+    "flavor_text_en": "At the end of turn, clear all caster status abnormalities (high chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041241,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 全状態異常解除",
+    "name_en": "Unlock all status abnormalities at the end of turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101301
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃命中時、自身に「ヒートアップ」を付与する( 効果中 )",
+    "flavor_text_en": "Grants “Heat Up” to self when hit by a Weak Attack (Active)",
+    "flavor_text_en_src": "ml",
+    "id": 802041242,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 ヒートアップ",
+    "name_en": "Heats up during weak attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101303
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃命中時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Heals own BP when hit by a weak attack (+1)",
+    "flavor_text_en_src": "ml",
+    "id": 802041243,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 BP回復",
+    "name_en": "BP recovery during a weak attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101304
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃命中時、自身に「防御弱化」を付与する( 効果小/効果2ターン )",
+    "flavor_text_en": "When hit by a Weak attack, grant “Weak Defense” to caster (Low Effect/Effect for 2 turns)",
+    "flavor_text_en_src": "ml",
+    "id": 802041244,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 防御弱化",
+    "name_en": "Weak weakens defense when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101305
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Will my own BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041245,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      1
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃に対して、無骨殴打でカウンター攻撃を行う<br>さらに被ダメージが低下する",
+    "flavor_text_en": "Perform a counter attack with a rugged beating against an enemy's direct attack<br>, and damage taken is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 802041247,
+    "ignition_effect_id": "",
+    "name": "捜査敢行",
+    "name_en": "Dare to investigate",
+    "name_en_src": "ml",
+    "state_change_id": 900040035,
+    "state_icon": 3001,
+    "state_vars": [
+      110400226,
+      65
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1を命中させた時、ドライヴエナジーショットが発動する(確率中)",
+    "flavor_text_en": "When you hit Move 1, a Drive Energy Shot is activated (medium chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041248,
+    "ignition_effect_id": "",
+    "name": "執念の追撃",
+    "name_en": "Pursuit of Obsession",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600257
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "執念の追撃",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を命中させた時、ドライヴエナジーショットが発動する(確率中)",
+    "flavor_text_en": "When you hit Move 2, a Drive Energy Shot is activated (medium chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041249,
+    "ignition_effect_id": "",
+    "name": "執念の追撃",
+    "name_en": "Pursuit of Obsession",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600257
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "執念の追撃",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を命中させた時、ドライヴエナジーショットが発動する(確率中)",
+    "flavor_text_en": "When you hit Move 3, a Drive Energy Shot is activated (medium chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041250,
+    "ignition_effect_id": "",
+    "name": "執念の追撃",
+    "name_en": "Pursuit of Obsession",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600257
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "執念の追撃",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、ドライヴエナジーショットが発動する(確率中)",
+    "flavor_text_en": "When you hit an Inherit move, a Drive Energy Shot is activated (with a medium chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041251,
+    "ignition_effect_id": "",
+    "name": "執念の追撃",
+    "name_en": "Pursuit of Obsession",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600257
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "執念の追撃",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "自身のBPが回復する",
@@ -34213,6 +34541,50 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 802041273,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を命中させた時、ドライヴエナジーショットが発動する(確率中)",
+    "flavor_text_en": "When a normal attack is hit, a drive energy shot is activated (medium chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041293,
+    "ignition_effect_id": "",
+    "name": "執念の追撃",
+    "name_en": "Pursuit of Obsession",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600257
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "執念の追撃",
     "triggering_effect_condition_ids": [
     ]
   },

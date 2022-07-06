@@ -1326,5 +1326,41 @@
         "y": 15
       }
     ]
+  },
+  {
+    "flavor_text": "様々なメンバーの個性を活かす攻撃陣形。<br>前衛の攻撃面が大きく強化されるのが特長。<br>短期戦におすすめ。",
+    "flavor_text_en": "An attacking formation that makes use of the individuality of various members. The <br>feature is that the attack surface of the avant-garde is greatly strengthened. <br>Recommended for short-term games.",
+    "flavor_text_en_src": "ml",
+    "id": 1044,
+    "name": "波状の陣",
+    "name_en": "Wavy Siege",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1134,
+        "x": 8,
+        "y": 14
+      },
+      {
+        "formation_bonus_id": 1134,
+        "x": 8,
+        "y": 36
+      },
+      {
+        "formation_bonus_id": 1135,
+        "x": 34,
+        "y": 8
+      },
+      {
+        "formation_bonus_id": 1137,
+        "x": 34,
+        "y": 25
+      },
+      {
+        "formation_bonus_id": 1135,
+        "x": 34,
+        "y": 42
+      }
+    ]
   }
 ]

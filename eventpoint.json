@@ -2639,6 +2639,19 @@
     "sort_order": 22062850
   },
   {
+    "expired_at": 1660503599,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800205,
+    "id": 800205,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・67",
+    "name_en": "Romancing Festival Medal 67",
+    "name_en_src": "ml",
+    "sort_order": 22070750
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -8877,5 +8890,57 @@
     "name_en": "Enthusiast Balloon",
     "name_en_src": "ml",
     "sort_order": 22062845
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100727,
+    "id": 1100724,
+    "max_quantity": 99999999,
+    "name": "カラフルドロップ",
+    "name_en": "Colorful drops",
+    "name_en_src": "ml",
+    "sort_order": 22070705
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100728,
+    "id": 1100725,
+    "max_quantity": 99999999,
+    "name": "金のコイン",
+    "name_en": "Gold coins",
+    "name_en_src": "ml",
+    "sort_order": 22070710
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「みんなでジョーカー追跡チャレンジ-追跡者の記憶-」の集計アイテム。該当イベントで入手できる。（集計は2022/7/15 4:00まで）",
+    "flavor_text_en": "An aggregate item for “Everybody's Joker Chase Challenge -Tracker's Memory-”. You can get it at the corresponding event. (Aggregation is until 2022/7/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100729,
+    "id": 1100726,
+    "max_quantity": 99999999,
+    "name": "ミスティックアイ",
+    "name_en": "Mystic Eye",
+    "name_en_src": "ml",
+    "sort_order": 22070755
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「みんなでジョーカー追跡チャレンジ-仮面の記憶-」の集計アイテム。該当ミッションで入手できる。（集計は2022/7/15 4:00まで）",
+    "flavor_text_en": "An aggregate item from “Everybody's Joker Chase Challenge -Kamen no Memories-”. Can be obtained in the corresponding mission. (Aggregation is until 2022/7/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100730,
+    "id": 1100727,
+    "max_quantity": 99999999,
+    "name": "暗紅の飾り",
+    "name_en": "Crimson Ornament",
+    "name_en_src": "ml",
+    "sort_order": 22071105
   }
 ]
