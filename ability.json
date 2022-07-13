@@ -8793,6 +8793,23 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>味方生存者全体のBPを回復する( 確率小/+1 )",
+    "flavor_text_en": "[End of Turn] <br>Restore BP to all allied Survivors (Small Chance/+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101325,
+    "name": "練気の波紋Ⅰ",
+    "name_en": "Ripple of Neriki I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040745
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "Weak攻撃の、与ダメージが上昇する( 効果特大 )<br>かつ、ターン終了時、自身のBPを回復する( +1 )",
     "flavor_text_en": "Increases damage dealt by Weak attacks (Extra Large Effect) <br>and heals own BP at the end of turn (+1)",
@@ -38276,6 +38293,40 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "穿命剣(※)を発動後、「穿命剣」が発動する<br>※「”チェイン”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After activating the Sword of Death (*), “Lifebreaking Sword” is <br>activated.*Does not include “Techniques and techniques activated by “Chain” or “Counterattack Techniques and Jutsu by Counter Effect”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708600210,
+    "name": "チェイン(穿命剣)",
+    "name_en": "Chain (sword of death)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040492
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "穿命槍(※)を発動後、「穿命槍」が発動する<br>※「”チェイン”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After activating Lifespear (*), “<br>Deadshot Spear” is activated.*Does not include “Techniques and techniques activated by “Chain” or “Counterattack Techniques and Jutsu by Counter Effect”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708600211,
+    "name": "チェイン(穿命槍)",
+    "name_en": "Chain (piercing spear)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040494
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "斬属性で敵を攻撃時　敵に与えるダメージが33%上昇する",
     "flavor_text_en": "Increases damage dealt to enemies by 33% when attacking an enemy with a slash attribute",
@@ -38730,6 +38781,25 @@
     "sort_order": 290000045,
     "special_effect_ids": [
       811040032
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "常時　特効攻撃ダメージが39%上昇する",
+    "flavor_text_en": "Increases permanent special attack damage by 39%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100033,
+    "name": "特効＋",
+    "name_en": "Special effect+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "特効＋ 39%",
+    "simple_flavor_text_en": "Special effect + 39%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000015,
+    "special_effect_ids": [
+      811040033
     ]
   },
   {
@@ -39229,6 +39299,25 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "常時　特効攻撃ダメージが26%上昇する",
+    "flavor_text_en": "Increases permanent special attack damage by 26%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100114,
+    "name": "特効＋",
+    "name_en": "Special effect+",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "特効＋ 26%",
+    "simple_flavor_text_en": "Special effect + 26%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000014,
+    "special_effect_ids": [
+      811040114
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "常時　連携攻撃ダメージが30%上昇する",
     "flavor_text_en": "Always-on Coordinated Attack Damage is increased by 30%",
     "flavor_text_en_src": "ml",
@@ -39720,6 +39809,25 @@
     "sort_order": 290000043,
     "special_effect_ids": [
       811040194
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "常時　特効攻撃ダメージが13%上昇する",
+    "flavor_text_en": "Increases permanent special attack damage by 13%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100195,
+    "name": "特効＋",
+    "name_en": "Special effect+",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "特効＋ 13%",
+    "simple_flavor_text_en": "Special effect + 13%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000013,
+    "special_effect_ids": [
+      811040195
     ]
   },
   {
@@ -41069,6 +41177,306 @@
     "sort_order": 150000023,
     "special_effect_ids": [
       811040402
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：人間・男性・女性・巨人]になる<br>さらに、人間または男性または女性または巨人の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "All of your attacks become [Special <br>Effect: Human/Male/Female/Giant], and increases damage dealt to enemies by 42% when attacking a human or male or female or giant enemy.",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100403,
+    "name": "種族特効+(人間・男性・女性・巨人)",
+    "name_en": "Race Special Effect+ (Human/Male/Female/Giant)",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "種族特効+(人間・男性・女性・巨人) 42%",
+    "simple_flavor_text_en": "Race Special Benefit+ (Human/Male/Female/Giant) 42%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000395,
+    "special_effect_ids": [
+      811040403,
+      811040412
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：メカ・岩石]になる<br>さらに、メカまたは岩石の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Mech Rock<br>], and damage dealt to Mech or Rock enemies is increased by 42%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100404,
+    "name": "種族特効+(メカ・岩石)",
+    "name_en": "Race Special Effect+ (Mech/Rock)",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "種族特効+(メカ・岩石) 42%",
+    "simple_flavor_text_en": "Race Special Benefit+ (Mech/Rock) 42%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000385,
+    "special_effect_ids": [
+      811040404,
+      811040423
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：獣人・獣]になる<br>さらに、獣人または獣の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "All of your attacks become [Special <br>Effect: Beastman/Beast]. Also increases damage dealt to Beastman or Beast enemies by 42%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100405,
+    "name": "種族特効+(獣人・獣)",
+    "name_en": "Race Special Effect+ (Beast Man/Beast)",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "種族特効+(獣人・獣) 42%",
+    "simple_flavor_text_en": "Race Special Benefit+ (Beast Man/Beast) 42%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000375,
+    "special_effect_ids": [
+      811040405,
+      811040424
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：竜・爬虫類]になる<br>さらに、竜または爬虫類の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: <br>Dragon/Reptile], and damage dealt to dragon or reptile enemies is increased by 42%.",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100406,
+    "name": "種族特効+(竜・爬虫類)",
+    "name_en": "Race Special Benefit+ (Dragon/Reptile)",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "種族特効+(竜・爬虫類) 42%",
+    "simple_flavor_text_en": "Race Special Benefit+ (Dragon/Reptile) 42%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000365,
+    "special_effect_ids": [
+      811040406,
+      811040430
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：植物・虫]になる<br>さらに、植物または虫の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "All of your attacks become [Special <br>Effect: Plants/Bugs], and increases damage dealt to enemies by 42% when attacking a Plant or Bug",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100407,
+    "name": "種族特効+(植物・虫)",
+    "name_en": "Race Special Benefit+ (Plant/Insect)",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "種族特効+(植物・虫) 42%",
+    "simple_flavor_text_en": "Race Special Benefit+ (Plant/Insect) 42%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000355,
+    "special_effect_ids": [
+      811040407,
+      811040435
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：人間・男性・女性・巨人]になる<br>さらに、人間または男性または女性または巨人の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "All of your attacks become [Special <br>Effect: Human/Male/Female/Giant], and when attacking a human or male or female or Giant enemy, deals 28% more damage to enemies",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100412,
+    "name": "種族特効+(人間・男性・女性・巨人)",
+    "name_en": "Race Special Effect+ (Human/Male/Female/Giant)",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "種族特効+(人間・男性・女性・巨人) 28%",
+    "simple_flavor_text_en": "Race Special Effect+ (Human/Man/Female/Giant) 28%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000394,
+    "special_effect_ids": [
+      811040403,
+      811040460
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：メカ・岩石]になる<br>さらに、メカまたは岩石の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Mech/Rock<br>], and damage dealt to Mech or Rock enemies is increased by 28%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100413,
+    "name": "種族特効+(メカ・岩石)",
+    "name_en": "Race Special Effect+ (Mech/Rock)",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "種族特効+(メカ・岩石) 28%",
+    "simple_flavor_text_en": "Race Special Effect+ (Mech/Rock) 28%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000384,
+    "special_effect_ids": [
+      811040404,
+      811040465
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：獣人・獣]になる<br>さらに、獣人または獣の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "All of your attacks become [Special <br>Effect: Beastman/Beast], and damage dealt to Beastman or Beast enemies is increased by 28%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100414,
+    "name": "種族特効+(獣人・獣)",
+    "name_en": "Race Special Effect+ (Beast Man/Beast)",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "種族特効+(獣人・獣) 28%",
+    "simple_flavor_text_en": "Type Special Effect+ (Beastman/Beast) 28%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000374,
+    "special_effect_ids": [
+      811040405,
+      811040470
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：竜・爬虫類]になる<br>さらに、竜または爬虫類の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: <br>Dragon/Reptile], and damage dealt to dragon or reptile enemies is increased by 28%.",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100415,
+    "name": "種族特効+(竜・爬虫類)",
+    "name_en": "Race Special Benefit+ (Dragon/Reptile)",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "種族特効+(竜・爬虫類) 28%",
+    "simple_flavor_text_en": "Race Special Benefit+ (Dragon/Reptile) 28%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000364,
+    "special_effect_ids": [
+      811040406,
+      811040475
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：植物・虫]になる<br>さらに、植物または虫の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "All of your attacks become [Special <br>Effect: Plants/Bugs] and increases damage dealt to enemies by 28% when attacking a Plant or Bug",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100416,
+    "name": "種族特効+(植物・虫)",
+    "name_en": "Race Special Benefit+ (Plant/Insect)",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "種族特効+(植物・虫) 28%",
+    "simple_flavor_text_en": "Race Special Benefit+ (Plants/Insects) 28%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000354,
+    "special_effect_ids": [
+      811040407,
+      811040480
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：人間・男性・女性・巨人]になる<br>さらに、人間または男性または女性または巨人の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Human/Male/Female/Giant]<br>, and increases damage dealt to enemies by 14% when attacking a human or male or female or giant enemy",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100421,
+    "name": "種族特効+(人間・男性・女性・巨人)",
+    "name_en": "Race Special Effect+ (Human/Male/Female/Giant)",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "種族特効+(人間・男性・女性・巨人) 14%",
+    "simple_flavor_text_en": "Race Special Effect+ (Human/Male/Female/Giant) 14%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000393,
+    "special_effect_ids": [
+      811040403,
+      811040505
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：メカ・岩石]になる<br>さらに、メカまたは岩石の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Mech Rock<br>], and damage dealt to Mech or Rock enemies is increased by 14%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100422,
+    "name": "種族特効+(メカ・岩石)",
+    "name_en": "Race Special Effect+ (Mech/Rock)",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "種族特効+(メカ・岩石) 14%",
+    "simple_flavor_text_en": "Race Special Effect+ (Mech/Rock) 14%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000383,
+    "special_effect_ids": [
+      811040404,
+      811040510
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：獣人・獣]になる<br>さらに、獣人または獣の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "All of your attacks become [Special <br>Effect: Beastman/Beast]. Also deals 14% more damage to Beastman or Beast enemies when attacking them",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100423,
+    "name": "種族特効+(獣人・獣)",
+    "name_en": "Race Special Effect+ (Beast Man/Beast)",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "種族特効+(獣人・獣) 14%",
+    "simple_flavor_text_en": "Type Special Benefit+ (Beastman/Beast) 14%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000373,
+    "special_effect_ids": [
+      811040405,
+      811040515
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：竜・爬虫類]になる<br>さらに、竜または爬虫類の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: <br>Dragon/Reptile], and damage dealt to dragon or reptile enemies is increased by 14%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100424,
+    "name": "種族特効+(竜・爬虫類)",
+    "name_en": "Race Special Benefit+ (Dragon/Reptile)",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "種族特効+(竜・爬虫類) 14%",
+    "simple_flavor_text_en": "Race Special Benefit+ (Dragon/Reptile) 14%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000363,
+    "special_effect_ids": [
+      811040406,
+      811040520
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：植物・虫]になる<br>さらに、植物または虫の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "All of your attacks become [Special <br>Effect: Plants/Bugs] and increases damage dealt to enemies by 14% when attacking plants or bugs",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100425,
+    "name": "種族特効+(植物・虫)",
+    "name_en": "Race Special Benefit+ (Plant/Insect)",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "種族特効+(植物・虫) 14%",
+    "simple_flavor_text_en": "Race Special Benefit+ (Plant/Insect) 14%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000353,
+    "special_effect_ids": [
+      811040407,
+      811040525
     ]
   },
   {

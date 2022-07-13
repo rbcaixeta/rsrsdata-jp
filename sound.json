@@ -1668,6 +1668,12 @@
     "cueSheetName": "BGM120269"
   },
   {
+    "id": 120270,
+    "cueName": "bgm_120270",
+    "type": "BGM",
+    "cueSheetName": "BGM120270"
+  },
+  {
     "id": 130102,
     "cueName": "bgm_130102",
     "type": "BGM",
@@ -6376,6 +6382,18 @@
     "cueName": "TOUJOUA",
     "type": "SE",
     "cueSheetName": "SE_TOUJOUA"
+  },
+  {
+    "id": 230213,
+    "cueName": "PANIC",
+    "type": "SE",
+    "cueSheetName": "SE_PANIC"
+  },
+  {
+    "id": 230214,
+    "cueName": "VOMIT",
+    "type": "SE",
+    "cueSheetName": "SE_VOMIT"
   },
   {
     "id": 230215,
@@ -25186,6 +25204,24 @@
     "cueName": "140400096_hit1",
     "type": "SE",
     "cueSheetName": "SE140400096"
+  },
+  {
+    "id": 243175,
+    "cueName": "149900241_other",
+    "type": "SE",
+    "cueSheetName": "SE149900241"
+  },
+  {
+    "id": 243176,
+    "cueName": "149900242_other",
+    "type": "SE",
+    "cueSheetName": "SE149900242"
+  },
+  {
+    "id": 243177,
+    "cueName": "149900242_hit1",
+    "type": "SE",
+    "cueSheetName": "SE149900242"
   },
   {
     "id": 243190,

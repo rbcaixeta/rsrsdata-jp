@@ -8633,6 +8633,84 @@
   },
   {
     "expired_at": 0,
+    "flavor_text": "特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "A material required to craft specific crafting equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100693,
+    "id": 1100693,
+    "max_quantity": 9999999,
+    "name": "瑠璃の金属片",
+    "name_en": "Metal Fragment of Ruri",
+    "name_en_src": "ml",
+    "sort_order": 22071590
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Greatsword] A material required to craft specific crafting equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100695,
+    "id": 1100695,
+    "max_quantity": 9999999,
+    "name": "瑠璃の大剣の鋳型の破片",
+    "name_en": "Fragment of the mold of Ruri no Oken",
+    "name_en_src": "ml",
+    "sort_order": 22071586
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Axe] A material required to craft specific Refinement Equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100696,
+    "id": 1100696,
+    "max_quantity": 9999999,
+    "name": "瑠璃の斧の鋳型の破片",
+    "name_en": "Fragment of the Ruri Axe mold",
+    "name_en_src": "ml",
+    "sort_order": 22071584
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Stiletto] A material required to craft specific crafting equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100700,
+    "id": 1100700,
+    "max_quantity": 9999999,
+    "name": "瑠璃の小剣の鋳型の破片",
+    "name_en": "Ruri's Stiletto Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22071576
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Spear] A material required to craft specific Refinement Equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100701,
+    "id": 1100701,
+    "max_quantity": 9999999,
+    "name": "瑠璃の槍の鋳型の破片",
+    "name_en": "Fragment of the Ruri no Spear mold",
+    "name_en_src": "ml",
+    "sort_order": 22071574
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Staff] Material required to craft specific Refinement Equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100703,
+    "id": 1100703,
+    "max_quantity": 9999999,
+    "name": "瑠璃の杖の鋳型の破片",
+    "name_en": "Fragment of the Ruri no Cane mold",
+    "name_en_src": "ml",
+    "sort_order": 22071570
+  },
+  {
+    "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
     "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
     "flavor_text_en_src": "ml",
@@ -8942,5 +9020,18 @@
     "name_en": "Crimson Ornament",
     "name_en_src": "ml",
     "sort_order": 22071105
+  },
+  {
+    "expired_at": 1660503599,
+    "flavor_text": "「リアム編第7話公開記念コイン交換所」で装備メダルなどと交換できるアイテム。（2022/8/15 4:00まで）",
+    "flavor_text_en": "An item that can be exchanged for equipment medals, etc. at the “Liam Edition Episode 7 Release Commemorative Coin Exchange”. (Until 2022/8/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100726,
+    "id": 1100729,
+    "max_quantity": 99999999,
+    "name": "リアム編第7話公開記念コイン[期間限定]",
+    "name_en": "Liam Hen Episode 7 Public Commemorative Coin [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22071500
   }
 ]

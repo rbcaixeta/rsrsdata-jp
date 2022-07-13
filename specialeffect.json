@@ -48759,6 +48759,94 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "穿命剣を発動後、穿命剣が発動する",
+    "flavor_text_en": "After activating Tsurumeiken, the Tsurumeiken is activated",
+    "flavor_text_en_src": "ml",
+    "id": 808040492,
+    "ignition_effect_id": "",
+    "name": "チェイン(穿命剣)",
+    "name_en": "Chain (sword of death)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      901157903
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "穿命剣を発動後、「穿命剣」が発動する",
+    "flavor_text_en": "After activating Tsurumeiken, “Tsurumeiken” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 808040493,
+    "ignition_effect_id": "",
+    "name": "チェイン(穿命剣)",
+    "name_en": "Chain (sword of death)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3001,
+    "state_vars": [
+      708600210
+    ],
+    "target_area": 10,
+    "text_color": "FFFFFF",
+    "text_pop": "チェイン",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "穿命槍を発動後、穿命槍が発動する",
+    "flavor_text_en": "After activating a spear of death, a spear of death is activated",
+    "flavor_text_en_src": "ml",
+    "id": 808040494,
+    "ignition_effect_id": "",
+    "name": "チェイン(穿命槍)",
+    "name_en": "Chain (piercing spear)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      908100903
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "穿命槍を発動後、「穿命槍」が発動する",
+    "flavor_text_en": "After activating Mythering Spear, “Deadly Spear” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 808040495,
+    "ignition_effect_id": "",
+    "name": "チェイン(穿命槍)",
+    "name_en": "Chain (piercing spear)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3001,
+    "state_vars": [
+      708600211
+    ],
+    "target_area": 10,
+    "text_color": "FFFFFF",
+    "text_pop": "チェイン",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "HPを回復する",
@@ -50857,6 +50945,48 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Increases brawn strength",
+    "flavor_text_en_src": "ml",
+    "id": 809010497,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Boost your strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "腕力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Increases brawn strength",
+    "flavor_text_en_src": "ml",
+    "id": 809010501,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Boost your strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -56363,6 +56493,27 @@
     ]
   },
   {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "腕力が低下する",
+    "flavor_text_en": "Your brawn strength decreases",
+    "flavor_text_en_src": "ml",
+    "id": 809040696,
+    "ignition_effect_id": "",
+    "name": "腕力ダウン",
+    "name_en": "Brawn strength down",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "腕力↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 0,
     "enchantment_effect_id": "Buff",
     "flavor_text": "敵から受ける被ダメージが低下する",
@@ -56913,6 +57064,28 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       4
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "特効攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases the damage of special effects",
+    "flavor_text_en_src": "ml",
+    "id": 811040033,
+    "ignition_effect_id": "",
+    "name": "[SS]特効攻撃強化",
+    "name_en": "[SS] Special Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      12
     ]
   },
   {
@@ -57492,6 +57665,28 @@
   {
     "display_flag": 0,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "特効攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases the damage of special effects",
+    "flavor_text_en_src": "ml",
+    "id": 811040114,
+    "ignition_effect_id": "",
+    "name": "[S]特効攻撃強化",
+    "name_en": "[S] Special Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      12
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "連携攻撃のダメージが上昇する",
     "flavor_text_en": "Increases damage from cooperative attacks",
     "flavor_text_en_src": "ml",
@@ -58061,6 +58256,28 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       4
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "特効攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases the damage of special effects",
+    "flavor_text_en_src": "ml",
+    "id": 811040195,
+    "ignition_effect_id": "",
+    "name": "[A]特効攻撃強化",
+    "name_en": "[A] Special Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      12
     ]
   },
   {
@@ -59719,6 +59936,446 @@
     "text_pop": "防御↑",
     "triggering_effect_condition_ids": [
       21010
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：人間、男性、女性、巨人]になる",
+    "flavor_text_en": "All of your attacks become [Special Effects: Human, Male, Female, Giant]",
+    "flavor_text_en_src": "ml",
+    "id": 811040403,
+    "ignition_effect_id": "",
+    "name": "特効付与(人男女巨)",
+    "name_en": "Special benefits granted (people men and women)",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50049
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：メカ、岩石]になる",
+    "flavor_text_en": "All of your attacks become [Special Effect: Mech, Rock]",
+    "flavor_text_en_src": "ml",
+    "id": 811040404,
+    "ignition_effect_id": "",
+    "name": "特効付与(メ岩)",
+    "name_en": "Special effects granted (meiwa)",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50050
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：獣人、獣]になる",
+    "flavor_text_en": "All of your attacks become [Special Effect: Beast Man, Beast]",
+    "flavor_text_en_src": "ml",
+    "id": 811040405,
+    "ignition_effect_id": "",
+    "name": "特効付与(獣獣)",
+    "name_en": "Special effects granted (Beast Beast)",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50051
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：竜、爬虫類]になる",
+    "flavor_text_en": "All of your attacks become [Special Effect: Dragons, Reptiles]",
+    "flavor_text_en_src": "ml",
+    "id": 811040406,
+    "ignition_effect_id": "",
+    "name": "特効付与(竜爬)",
+    "name_en": "Special effects granted (dragon scavenging)",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50052
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：植物、虫]になる",
+    "flavor_text_en": "All of your attacks become [Special Effect: Plants, Bugs]",
+    "flavor_text_en_src": "ml",
+    "id": 811040407,
+    "ignition_effect_id": "",
+    "name": "特効付与(植虫)",
+    "name_en": "Special effects granted (plants)",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50053
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "人間または男性または女性または巨人の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "Increases damage dealt to human, male, female, or giant enemies by 42%",
+    "flavor_text_en_src": "ml",
+    "id": 811040412,
+    "ignition_effect_id": "",
+    "name": "[SS]種族ダメージアップ(人男女巨)",
+    "name_en": "[SS] Race Damage Up (People, Men, Women, and Men)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50049
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "メカまたは岩石の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "Increases damage dealt to Mech or Rock enemies by 42%",
+    "flavor_text_en_src": "ml",
+    "id": 811040423,
+    "ignition_effect_id": "",
+    "name": "[SS]種族ダメージアップ(メ岩)",
+    "name_en": "[SS] Race Damage Up (Meteorite)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50050
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "獣人または獣の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "Increases damage dealt to Beastman or Beast enemies by 42%",
+    "flavor_text_en_src": "ml",
+    "id": 811040424,
+    "ignition_effect_id": "",
+    "name": "[SS]種族ダメージアップ(獣獣)",
+    "name_en": "[SS] Race Damage Up (Beast)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50051
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "竜または爬虫類の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "Increases damage dealt to dragon or reptile enemies by 42% when attacking enemies",
+    "flavor_text_en_src": "ml",
+    "id": 811040430,
+    "ignition_effect_id": "",
+    "name": "[SS]種族ダメージアップ(竜爬)",
+    "name_en": "[SS] Race Damage Up (Dragoon)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50052
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "植物または虫の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies by 42% when attacking plants or bugs",
+    "flavor_text_en_src": "ml",
+    "id": 811040435,
+    "ignition_effect_id": "",
+    "name": "[SS]種族ダメージアップ(植虫)",
+    "name_en": "[SS] Race Damage Up (Plant Insect)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50053
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "人間または男性または女性または巨人の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies by 28% when attacking a human, male, female, or giant enemy",
+    "flavor_text_en_src": "ml",
+    "id": 811040460,
+    "ignition_effect_id": "",
+    "name": "[S]種族ダメージアップ(人男女巨)",
+    "name_en": "[S] Race Damage Up (People, Men, Women, and Men)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50049
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "メカまたは岩石の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "Increases damage dealt to Mech or Rock enemies by 28%",
+    "flavor_text_en_src": "ml",
+    "id": 811040465,
+    "ignition_effect_id": "",
+    "name": "[S]種族ダメージアップ(メ岩)",
+    "name_en": "[S] Race Damage Up (Meteorite)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50050
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "獣人または獣の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "Increases damage dealt to Beastman or Beast enemies by 28%",
+    "flavor_text_en_src": "ml",
+    "id": 811040470,
+    "ignition_effect_id": "",
+    "name": "[S]種族ダメージアップ(獣獣)",
+    "name_en": "[S] Race Damage Up (Beast)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50051
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "竜または爬虫類の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "Increases damage dealt to dragon or reptile enemies by 28% when attacking them",
+    "flavor_text_en_src": "ml",
+    "id": 811040475,
+    "ignition_effect_id": "",
+    "name": "[S]種族ダメージアップ(竜爬)",
+    "name_en": "[S] Race Damage Up (Dragoon)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50052
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "植物または虫の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "Increases damage dealt to plant or bug enemies by 28% when attacking them",
+    "flavor_text_en_src": "ml",
+    "id": 811040480,
+    "ignition_effect_id": "",
+    "name": "[S]種族ダメージアップ(植虫)",
+    "name_en": "[S] Race Damage Up (Insect)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50053
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "人間または男性または女性または巨人の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies by 14% when attacking a human, male, female, or giant enemy",
+    "flavor_text_en_src": "ml",
+    "id": 811040505,
+    "ignition_effect_id": "",
+    "name": "[A]種族ダメージアップ(人男女巨)",
+    "name_en": "[A] Race Damage Up (People, Men, Women, and Men)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50049
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "メカまたは岩石の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "Increases damage dealt to Mech or Rock enemies by 14% when attacking them",
+    "flavor_text_en_src": "ml",
+    "id": 811040510,
+    "ignition_effect_id": "",
+    "name": "[A]種族ダメージアップ(メ岩)",
+    "name_en": "[A] Race Damage Up (Meteorite)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50050
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "獣人または獣の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "Increases damage dealt to Beastman or Beast enemies by 14% when attacking enemies",
+    "flavor_text_en_src": "ml",
+    "id": 811040515,
+    "ignition_effect_id": "",
+    "name": "[A]種族ダメージアップ(獣獣)",
+    "name_en": "[A] Race Damage Up (Beast)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50051
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "竜または爬虫類の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "Increases damage dealt to dragon or reptile enemies by 14% when attacking them",
+    "flavor_text_en_src": "ml",
+    "id": 811040520,
+    "ignition_effect_id": "",
+    "name": "[A]種族ダメージアップ(竜爬)",
+    "name_en": "[A] Race Damage Up (Dragoon)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50052
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "植物または虫の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies by 14% when attacking plants or bugs",
+    "flavor_text_en_src": "ml",
+    "id": 811040525,
+    "ignition_effect_id": "",
+    "name": "[A]種族ダメージアップ(植虫)",
+    "name_en": "[A] Race Damage Up (Vegetation)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50053
     ]
   },
   {

@@ -2427,6 +2427,22 @@
   {
     "enemy_class": 2,
     "gender": 9,
+    "id": 102071,
+    "illust": 1020711,
+    "name": "人狼",
+    "name_en": "Werewolf",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 2,
+    "gender": 9,
     "id": 102169,
     "illust": 1021691,
     "name": "オーガウォリアー",
@@ -4946,6 +4962,40 @@
     "rank": 1,
     "species": [
       20
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 4,
+    "gender": 9,
+    "id": 104082,
+    "illust": 1040821,
+    "name": "不死鳥",
+    "name_en": "phoenix",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      20,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 4,
+    "gender": 9,
+    "id": 104083,
+    "illust": 1040831,
+    "name": "ブラックウイング",
+    "name_en": "Black wing",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      20,
+      82
     ],
     "sprite_studio": 0
   },
@@ -7680,6 +7730,40 @@
       8
     ],
     "sprite_studio": 1
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107065,
+    "illust": 1070481,
+    "name": "カエル衛士",
+    "name_en": "Frog Eji",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8,
+      81
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107066,
+    "illust": 1070661,
+    "name": "カエル兵士",
+    "name_en": "Frog Soldier",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8,
+      81
+    ],
+    "sprite_studio": 0
   },
   {
     "enemy_class": 8,
@@ -19528,6 +19612,38 @@
     "illust": 1993561,
     "name": "ビューネイ",
     "name_en": "Buenay",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      97
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 199358,
+    "illust": 1993581,
+    "name": "メロト",
+    "name_en": "Meloto",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      97
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 199359,
+    "illust": 1993591,
+    "name": "セロイ",
+    "name_en": "Selloy",
     "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 0,
     "pc_flag": 0,
