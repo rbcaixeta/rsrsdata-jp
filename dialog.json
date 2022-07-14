@@ -308,7 +308,7 @@
     "name_en_src": "gl",
     "text": "キャッシュを削除しました。<br>タイトル画面に移動後、データの修復を行います。",
     "title": "キャッシュ削除完了",
-    "title_en": "Data Successfully Deleted",
+    "title_en": "Cache Cleared",
     "title_en_src": "gl"
   },
   {
@@ -2384,12 +2384,12 @@
     "dialog_type": 1,
     "id": 190,
     "name": "Smith_equipment_craft_Deadline",
-    "name_en": "smith_equipment_craft_deadline",
-    "name_en_src": "ml",
+    "name_en": "Smith_equipment_craft_Deadline",
+    "name_en_src": "gl",
     "text": "錬成できる期間が過ぎています。<br>錬成選択画面へ戻ります。",
     "title": "期間切れ",
-    "title_en": "Expired",
-    "title_en_src": "ml"
+    "title_en": "Ended",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2398,11 +2398,11 @@
     "id": 191,
     "name": "Quest_Information_Confirm",
     "name_en": "Quest_Information_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "初回クリア後にまとめて戦闘可能になります。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2410,12 +2410,12 @@
     "dialog_type": 1,
     "id": 192,
     "name": "Battle_Retire_impossible_2",
-    "name_en": "Battle_retire_impossible_2",
-    "name_en_src": "ml",
+    "name_en": "Battle_Retire_impossible_2",
+    "name_en_src": "gl",
     "text": "勝利の確定したバトルのリタイアはできません。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -2528,11 +2528,11 @@
     "id": 201,
     "name": "Dojo_UraDojoUnreleased_Confirm",
     "name_en": "Dojo_UraDojoUnreleased_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "・裏道場1回クリアで解放",
     "title": "コンテンツ未解放",
-    "title_en": "Content not released",
-    "title_en_src": "ml"
+    "title_en": "Content Unavailable",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2567,11 +2567,11 @@
     "id": 204,
     "name": "RuledTrial_MonthlyReward_Confirm",
     "name_en": "RuledTrial_MonthlyReward_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "毎月の集計日時に達したため、<br>クリア状況に応じた報酬を付与します。<br><br>※進行状況は継続になります。",
     "title": "月次報酬",
-    "title_en": "Monthly remuneration",
-    "title_en_src": "ml"
+    "title_en": "Monthly Rewards",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",

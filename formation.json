@@ -1113,12 +1113,12 @@
   },
   {
     "flavor_text": "前衛1人の腕力と素早さ、中衛3人の知力、後衛1人の器用さがそれぞれ強化される、術師を中心とした攻撃陣形。<br>前衛には行動後防御強化が付与され、後衛には行動前防御強化が付与される。",
-    "flavor_text_en": "An attacking formation centered on an engineer, where the strength and quickness of one avant-garde, the intelligence of the three middle guards, and the dexterity of one rear guard are strengthened, respectively. The <br>vanguard is given a post-action defense reinforcement, and the rear guard is given a pre-action defense reinforcement.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Attack formation for mages which boosts the front line's STR/AGI, the middle line's INT, and the back line's DEX. The front line gains a Post-Action Defense Boost, and the back line gains a Pre-Action Defense Boost.",
+    "flavor_text_en_src": "gl",
     "id": 1037,
     "name": "ハリケーン",
-    "name_en": "hurricanes",
-    "name_en_src": "ml",
+    "name_en": "Hurricane",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1109,
@@ -1149,12 +1149,12 @@
   },
   {
     "flavor_text": "パーティ全体に「全員生存時防御」と「ターン開始時HP回復(全員生存時)」が付与される防御陣形。<br>長期戦におすすめ。",
-    "flavor_text_en": "A defensive formation that grants “All Survived Defense” and “Turn Start Health Recovery (When Everyone is Alive)” to the entire party. <br>Recommended for long-term battles.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Defensive formation that grants the entire party \"All Allies Surviving Defense\" and \"Turn Start: Recover HP (all surviving)\". For sustained battles.",
+    "flavor_text_en_src": "gl",
     "id": 1038,
     "name": "玄武陣",
-    "name_en": "Genmu",
-    "name_en_src": "ml",
+    "name_en": "Tortoise Shell",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1112,
@@ -1185,12 +1185,12 @@
   },
   {
     "flavor_text": "マジカルシャワーの攻撃面をさらに強化した陣形。<br>後衛2人はWeak攻撃強化が付与され、行動速度が上昇する。",
-    "flavor_text_en": "A formation that further strengthens the attack surface of the Magical Shower. <br>The two rear guards are given a Weak Attack Strength, and their action speed increases.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Improved Magical Shower formation that boosts attack further. Grants the two back line member a Weak Attack Boost and increases their action order.",
+    "flavor_text_en_src": "gl",
     "id": 1039,
     "name": "マジカルシャワー・改",
-    "name_en": "Magical Shower Kai",
-    "name_en_src": "ml",
+    "name_en": "Magical Shower EX",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1116,
@@ -1221,12 +1221,12 @@
   },
   {
     "flavor_text": "鳳天舞の陣を攻撃面・防御面共に強化した陣形。<br>中衛に被ダメージ軽減が付与され、前衛の素早さが上昇する。",
-    "flavor_text_en": "A formation that strengthens both the attacking and defensive sides of the Hori-tenmai camp. <br>Damage reduction is granted to the middle guard, and the quickness of the vanguard increases.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Improved Rising Phoenix formation that boosts attack and defense. Grants the middle Reduce Damage Taken, and boosts the front line's AGI.",
+    "flavor_text_en_src": "gl",
     "id": 1040,
     "name": "鳳天舞の陣・改",
-    "name_en": "Otori Tenmai no Jin Kai",
-    "name_en_src": "ml",
+    "name_en": "Rising Phoenix EX",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1120,
