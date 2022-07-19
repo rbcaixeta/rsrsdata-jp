@@ -1328,6 +1328,42 @@
     ]
   },
   {
+    "flavor_text": "龍陣の前衛メンバーをさらに強化した陣形。<br>先頭メンバーの能力がさらに強化され、ターン終了時BP回復を付与する。パーティ全体の行動順をコントロールしやすい。",
+    "flavor_text_en": "A formation that further strengthened the avant-garde members of the Dragon Team. The <br>abilities of the first member are further enhanced, and BP recovery is granted at the end of the turn. It is easy to control the order of action of the whole party.",
+    "flavor_text_en_src": "ml",
+    "id": 1043,
+    "name": "龍陣・改",
+    "name_en": "Ryujin Kai",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1131,
+        "x": 8,
+        "y": 22
+      },
+      {
+        "formation_bonus_id": 1132,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "formation_bonus_id": 1023,
+        "x": 25,
+        "y": 17
+      },
+      {
+        "formation_bonus_id": 1136,
+        "x": 33,
+        "y": 26
+      },
+      {
+        "formation_bonus_id": 1133,
+        "x": 42,
+        "y": 35
+      }
+    ]
+  },
+  {
     "flavor_text": "様々なメンバーの個性を活かす攻撃陣形。<br>前衛の攻撃面が大きく強化されるのが特長。<br>短期戦におすすめ。",
     "flavor_text_en": "An attacking formation that makes use of the individuality of various members. The <br>feature is that the attack surface of the avant-garde is greatly strengthened. <br>Recommended for short-term games.",
     "flavor_text_en_src": "ml",

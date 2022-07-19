@@ -3906,6 +3906,49 @@
     ]
   },
   {
+    "display_flag": 1,
+    "enchantment_effect_id": "SelfHarm",
+    "flavor_text": "攻撃時、自身以外の味方全体の最大HPの30%を消費する",
+    "flavor_text_en": "When attacking, consumes 30% of the maximum HP of all allies other than the caster",
+    "flavor_text_en_src": "ml",
+    "id": 801011218,
+    "ignition_effect_id": "",
+    "name": "代償ダメージ(最大HP30%)",
+    "name_en": "Damage Compensated (30% Max HP)",
+    "name_en_src": "ml",
+    "state_change_id": 900050079,
+    "state_icon": 2002,
+    "state_vars": [
+      1
+    ],
+    "target_area": 12,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140700108",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011219,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Mentality up",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "精神↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "魅力が上昇する",
@@ -13363,6 +13406,50 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵に与えるダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage dealt to enemies is reduced (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041216,
+    "ignition_effect_id": "",
+    "name": "モラルダウン(小)",
+    "name_en": "Moral down (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040114,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "攻撃↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵から受ける被ダメージが低下する",
+    "flavor_text_en": "Reduces damage taken from enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041222,
+    "ignition_effect_id": "",
+    "name": "防御強化(大)",
+    "name_en": "Defense reinforcement (large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "腕力が上昇する",
     "flavor_text_en": "Increases STR.",
@@ -18602,6 +18689,27 @@
     "flavor_text": "腕力が上昇する",
     "flavor_text_en": "Increases brawn strength",
     "flavor_text_en_src": "ml",
+    "id": 802011262,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Boost your strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "腕力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Increases brawn strength",
+    "flavor_text_en_src": "ml",
     "id": 802011271,
     "ignition_effect_id": "",
     "name": "腕力アップ",
@@ -18698,6 +18806,27 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "精神↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "知力が低下する",
+    "flavor_text_en": "Decreased intelligence",
+    "flavor_text_en_src": "ml",
+    "id": 802011338,
+    "ignition_effect_id": "",
+    "name": "知力ダウン",
+    "name_en": "Decrease in intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "知力↓",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -34456,6 +34585,226 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "When an attack is hit, recovers its own HP (effect is minimal)",
+    "flavor_text_en_src": "ml",
+    "id": 802041252,
+    "ignition_effect_id": "",
+    "name": "攻撃時 HP回復(極小)",
+    "name_en": "HP recovery during attack (very small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101308
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃を命中させた時、「烈攻交叉剣」が発動する",
+    "flavor_text_en": "When you hit a Weak attack, “Attack Crossover Sword” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041253,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 追加攻撃",
+    "name_en": "Additional attack during a weak attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101309
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃で技1を命中させた時、烈攻交叉剣が発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 1 with a Weak attack, Attack Crosssword is activated (Extra High Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041254,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 追加攻撃",
+    "name_en": "Additional attack during a weak attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100250
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "民を護る剣",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃で技2を命中させた時、烈攻交叉剣が発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 2 with a Weak attack, Attack Crosssword is activated (Extra High Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041255,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 追加攻撃",
+    "name_en": "Additional attack during a weak attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100250
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "民を護る剣",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃で技3を命中させた時、烈攻交叉剣が発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 3 with a Weak attack, Attack Crosssword is activated (Extra High Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041256,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 追加攻撃",
+    "name_en": "Additional attack during a weak attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100250
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "民を護る剣",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃で継承技を命中させた時、烈攻交叉剣が発動する(確率特大)",
+    "flavor_text_en": "When you hit an inheritance move with a weak attack, the Attack Crossed Sword is activated (Extra High Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041257,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 追加攻撃",
+    "name_en": "Additional attack during a weak attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100250
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "民を護る剣",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "Weak攻撃で通常攻撃を命中させた時、烈攻交叉剣が発動する(確率特大)",
+    "flavor_text_en": "When a normal attack is hit with a weak attack, the Onslaught Crossed Sword is activated (Extra High Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041258,
+    "ignition_effect_id": "",
+    "name": "Weak攻撃時 追加攻撃",
+    "name_en": "Additional attack during a weak attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100250
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "民を護る剣",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時<br>自身を挑発状態にする( 効果中/効果4ターン )",
+    "flavor_text_en": "<br>Taunt self at start of turn (During effect/effect for 4 turns)",
+    "flavor_text_en_src": "ml",
+    "id": 802041259,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 挑発(中)",
+    "name_en": "Taunt at Start of Turn (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101311
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時<br>味方生存者全体の毒状態を解除する",
+    "flavor_text_en": "<br>Unlock the poison status of all allied survivors at end of turn",
+    "flavor_text_en_src": "ml",
+    "id": 802041260,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 毒状態解除",
+    "name_en": "Poison status removed at end of turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101312
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "毒状態を解除する",
+    "flavor_text_en": "Unlock the poison state",
+    "flavor_text_en_src": "ml",
+    "id": 802041261,
+    "ignition_effect_id": "",
+    "name": "毒解除",
+    "name_en": "Detoxification",
+    "name_en_src": "ml",
+    "state_change_id": 900050153,
+    "state_icon": 3001,
+    "state_vars": [
+      31
+    ],
+    "target_area": 3,
+    "text_color": "5BFF24",
+    "text_pop": "毒解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "自身のBPが回復する",
@@ -34547,6 +34896,29 @@
   {
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "術攻撃を受けた時、敵から受ける被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Reduces damage taken from enemies when receiving a jutsu attack (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041269,
+    "ignition_effect_id": "",
+    "name": "防御態勢(術/中)",
+    "name_en": "Defensive posture (jut/medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040191,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "防御態勢",
+    "triggering_effect_condition_ids": [
+      45001
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "敵に与えるダメージが上昇する",
     "flavor_text_en": "Increases damage dealt to enemies",
     "flavor_text_en_src": "ml",
@@ -34586,6 +34958,28 @@
     "text_color": "FFFFFF",
     "text_pop": "執念の追撃",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "大剣装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases attack damage when equipped with a large sword",
+    "flavor_text_en_src": "ml",
+    "id": 802041294,
+    "ignition_effect_id": "",
+    "name": "大剣攻撃強化",
+    "name_en": "Enhanced Great Sword Attack",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21002
     ]
   },
   {
@@ -46323,6 +46717,69 @@
   {
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Increases brawn strength",
+    "flavor_text_en_src": "ml",
+    "id": 808010466,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Boost your strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力↑ 器用さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Increases dexterity",
+    "flavor_text_en_src": "ml",
+    "id": 808010467,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Increases intelligence",
+    "flavor_text_en_src": "ml",
+    "id": 808010496,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "魅了耐性が上昇する",
     "flavor_text_en": "Increases Charm Resistance.",
     "flavor_text_en_src": "gl",
@@ -48755,6 +49212,627 @@
     "target_area": 3,
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "攻撃の命中率が上昇する",
+    "flavor_text_en": "Increases the accuracy rate of attacks",
+    "flavor_text_en_src": "ml",
+    "id": 808040465,
+    "ignition_effect_id": "",
+    "name": "攻撃命中アップ",
+    "name_en": "Attack hit up",
+    "name_en_src": "ml",
+    "state_change_id": 900040056,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "命中↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき剣を呼び出す",
+    "flavor_text_en": "Summons the Nameless Sword at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040468,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904004,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき剣を呼び出す",
+    "flavor_text_en": "Summons the Nameless Sword at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040469,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904004,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき槍を呼び出す",
+    "flavor_text_en": "Summons the Nameless Spear at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040470,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904104,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき槍を呼び出す",
+    "flavor_text_en": "Summons the Nameless Spear at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040471,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904104,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき斧を呼び出す",
+    "flavor_text_en": "Summons the Nameless Axe at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040472,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904204,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき斧を呼び出す",
+    "flavor_text_en": "Summons the Nameless Axe at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040473,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904204,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき盾を呼び出す",
+    "flavor_text_en": "Summons Nameless Shield at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040474,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904304,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき盾を呼び出す",
+    "flavor_text_en": "Summons Nameless Shield at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040475,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904304,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき剣を呼び出す",
+    "flavor_text_en": "Summons the Nameless Sword at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040476,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904005,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき剣を呼び出す",
+    "flavor_text_en": "Summons the Nameless Sword at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040477,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904005,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき槍を呼び出す",
+    "flavor_text_en": "Summons the Nameless Spear at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040478,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904105,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき槍を呼び出す",
+    "flavor_text_en": "Summons the Nameless Spear at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040479,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904105,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき斧を呼び出す",
+    "flavor_text_en": "Summons the Nameless Axe at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040480,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904205,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき斧を呼び出す",
+    "flavor_text_en": "Summons the Nameless Axe at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040481,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904205,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき盾を呼び出す",
+    "flavor_text_en": "Summons Nameless Shield at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040482,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904305,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき盾を呼び出す",
+    "flavor_text_en": "Summons Nameless Shield at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040483,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904305,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき剣を呼び出す",
+    "flavor_text_en": "Summons the Nameless Sword at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040484,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904006,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき剣を呼び出す",
+    "flavor_text_en": "Summons the Nameless Sword at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040485,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904006,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき槍を呼び出す",
+    "flavor_text_en": "Summons the Nameless Spear at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040486,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904106,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき槍を呼び出す",
+    "flavor_text_en": "Summons the Nameless Spear at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040487,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904106,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき斧を呼び出す",
+    "flavor_text_en": "Summons the Nameless Axe at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040488,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904206,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき斧を呼び出す",
+    "flavor_text_en": "Summons the Nameless Axe at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040489,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904206,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき盾を呼び出す",
+    "flavor_text_en": "Summons Nameless Shield at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040490,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      21904306,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、名もなき盾を呼び出す",
+    "flavor_text_en": "Summons Nameless Shield at the end of a specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040491,
+    "ignition_effect_id": "",
+    "name": "召喚",
+    "name_en": "summonses",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      21904306,
+      1
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -60755,6 +61833,71 @@
     "text_pop": "防御↑",
     "triggering_effect_condition_ids": [
       14
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、BPを回復する( +1 )",
+    "flavor_text_en": "At end of turn, restore BP (+1)",
+    "flavor_text_en_src": "ml",
+    "id": 850040910,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 BP回復",
+    "name_en": "BP recovery at end of turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      750101332
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "BPが回復する",
+    "flavor_text_en": "Will BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 850040911,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      1
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "行動順補正値が低下する( 効果特大 )",
+    "flavor_text_en": "Action order correction value decreases (effect oversized)",
+    "flavor_text_en_src": "ml",
+    "id": 850040912,
+    "ignition_effect_id": "",
+    "name": "行動順補正低下(特大)",
+    "name_en": "Decreased order of action correction (extra large)",
+    "name_en_src": "ml",
+    "state_change_id": 950040078,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
     ]
   }
 ]
