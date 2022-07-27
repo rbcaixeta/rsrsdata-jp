@@ -6011,6 +6011,24 @@
   },
   {
     "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身のHPを回復( 効果極小 )し、かつ、腕力を上昇( 効果中 )させる",
+    "flavor_text_en": "When an attack is hit, restores one's own HP (effect is minimal) and increases brawn strength (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101113,
+    "name": "再生累加(腕力)",
+    "name_en": "Regeneration Accumulation (Brawn Strength)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040622,
+      802010076
+    ]
+  },
+  {
+    "ability_when": 6,
     "flavor_text": "攻撃命中時、対象を魅了状態にする( 確率大/効果4ターン )",
     "flavor_text_en": "When landing an attack, inflicts charm on target (high chance/4 turn(s)).",
     "flavor_text_en_src": "gl",
@@ -9394,6 +9412,44 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "味方生存者全体の剣装備時の与ダメージが上昇する( 効果大 )",
+    "flavor_text_en": "Increases damage dealt when equipped with swords for all allied Survivors (High Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101328,
+    "name": "剣の教示Ⅲ",
+    "name_en": "Teaching of the Sword III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041274
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「ピコッとハンマー」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "When you hit a skill/jutsu (*) whose type is “Attack”, <br>“<br>Pikotto Hammer” is activated (extra chance) (activated with move Rank 1) <br>* “Techniques handed down in the R Cup” “Book “Techniques and techniques activated by ability effects” and “counterattack techniques and techniques by counter effects” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101330,
+    "name": "ピコッとおかわり",
+    "name_en": "Pikotto refill",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041276,
+      802041277,
+      802041278,
+      802041279,
+      802041280
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "行動順補正値が低下する( 効果特大 )",
     "flavor_text_en": "Action order correction value decreases (effect oversized)",
     "flavor_text_en_src": "ml",
@@ -9445,6 +9501,25 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "剣装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+    "flavor_text_en": "Increases damage dealt by attacks when equipped with a sword (special effect) <br>Reduces damage taken when receiving a Resist attack (maximum effect) Evades <br>enemy attacks when receiving a Resist attack ( (Probability is large)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101369,
+    "name": "剣の天稟Ⅳ",
+    "name_en": "Heavenly Decision of the Sword IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040736,
+      802041212,
+      802041181
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "攻撃命中時<br>対象の知力を低下( 効果小 )させ、さらに、自身のBPを回復( +1 )する",
     "flavor_text_en": "Reduces the <br>target's intelligence (less effective) when hit by an attack, and restores (+1) its own BP",
@@ -9460,6 +9535,66 @@
     "special_effect_ids": [
       802011338,
       802040742
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "単体攻撃を命中させた時、<br>「青風の刃」が発動する( 確率特大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "When you hit a single attack, <br>“Blade of the Blue Wind” is activated (Extra Chance) <br>(Activated with Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101377,
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041345,
+      802041346,
+      802041347,
+      802041348,
+      802041349,
+      802041376,
+      802041377,
+      802041378,
+      802041370
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>単体攻撃(※)を命中させた時、「青風の刃」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "At the end of the turn, when you <br>hit a single attack (*) that increases your OD gauge (low effect), “Blade of the Blue Wind” is activated (extra chance) <br>(activated with Jutsu Rank 1) <br>* “R Does not include “techniques and techniques handed down in cups,” “techniques and techniques activated by this ability effect,” and “counterattack techniques and techniques with counter effects.”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101378,
+    "name": "夕闇のマドンナ",
+    "name_en": "Madonna in the Twilight",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041355,
+      802041152
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方生存者全体の突属性攻撃の与ダメージが上昇する( 効果中 )",
+    "flavor_text_en": "Increases damage dealt by Sudden Attacks for all allied Survivors (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101396,
+    "name": "突の隆盛",
+    "name_en": "Sudden prosperity",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041373
     ]
   },
   {
@@ -39356,6 +39491,24 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「ヒートアップ」( 効果中 )を付与し、さらに自身に「防御弱化」( 効果特大/効果1ターン )を付与する<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "At the start of a turn that is a multiple of 3 from the start of battle, grant caster “Heat Up” (in effect), and grant caster “Defense Down” (Oversized Effect/Effect for 1 turn) <br><br> <br>Increases damage dealt by heat-up attacks (lasts during effect battles)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300216,
+    "name": "攻撃本能",
+    "name_en": "Attack instinct",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      809040706,
+      809040705
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -40113,6 +40266,25 @@
     "special_effect_ids": [
       808040490,
       808040491
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>特定ターン毎に味方全体の状態異常を全て解除する<br>味方全体に喝を入れ混乱耐性と魅了耐性を上昇させる",
+    "flavor_text_en": "[End of Turn] <br>Unlock all state abnormalities for all allies every specific turn <br>Add blackmail to all allies and increase Confusion Resistance and Enchantment Resistance",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400214,
+    "name": "ドマファの威喝",
+    "name_en": "Domafa's blackmail",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040409,
+      808020498,
+      808020499
     ]
   },
   {

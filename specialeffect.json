@@ -3949,6 +3949,28 @@
     ]
   },
   {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover HP",
+    "flavor_text_en_src": "ml",
+    "id": 801011220,
+    "ignition_effect_id": "",
+    "name": "HP回復(中)",
+    "name_en": "HP recovery (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      20
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "魅力が上昇する",
@@ -13426,6 +13448,28 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "雷光十文字で攻撃後、縦技一列で範囲攻撃を行う",
+    "flavor_text_en": "After attacking with Lightning Cross, perform a ranged attack with a row of vertical moves",
+    "flavor_text_en_src": "ml",
+    "id": 801041221,
+    "ignition_effect_id": "",
+    "name": "雷光十文字",
+    "name_en": "Raiko Jumonji",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100268
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "敵から受ける被ダメージが低下する",
@@ -13444,6 +13488,29 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージを100%カットする( 上限回数:1 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Cuts 100% of damage taken. (Maximum number of times: 1*Activated only when an attack is hit)",
+    "flavor_text_en_src": "ml",
+    "id": 801041264,
+    "ignition_effect_id": "",
+    "name": "ダメージブロック(1回)",
+    "name_en": "Damage block (1 time)",
+    "name_en_src": "ml",
+    "state_change_id": 900040192,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ダメージブロック",
     "triggering_effect_condition_ids": [
       14
     ]
@@ -34939,6 +35006,138 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "剣装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases the damage of attacks when equipped with a sword",
+    "flavor_text_en_src": "ml",
+    "id": 802041274,
+    "ignition_effect_id": "",
+    "name": "剣攻撃強化",
+    "name_en": "Sword Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21001
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1を命中させた時、ピコッとハンマーが発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 1, Pikotto Hammer is activated (Extra High Probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041276,
+    "ignition_effect_id": "",
+    "name": "ピコッとおかわり",
+    "name_en": "Pikotto refill",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400228
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ピコッとおかわり",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を命中させた時、ピコッとハンマーが発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 2, Pikotto Hammer is activated (Extra High Probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041277,
+    "ignition_effect_id": "",
+    "name": "ピコッとおかわり",
+    "name_en": "Pikotto refill",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400228
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ピコッとおかわり",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を命中させた時、ピコッとハンマーが発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 3, Pikotto Hammer is activated (Extra High Probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041278,
+    "ignition_effect_id": "",
+    "name": "ピコッとおかわり",
+    "name_en": "Pikotto refill",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400228
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ピコッとおかわり",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、ピコッとハンマーが発動する(確率特大)",
+    "flavor_text_en": "When you hit an inheritance move, a hammer is activated (extra high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041279,
+    "ignition_effect_id": "",
+    "name": "ピコッとおかわり",
+    "name_en": "Pikotto refill",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400228
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ピコッとおかわり",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を命中させた時、ピコッとハンマーが発動する(確率特大)",
+    "flavor_text_en": "When a normal attack is hit, a hammer is activated (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041280,
+    "ignition_effect_id": "",
+    "name": "ピコッとおかわり",
+    "name_en": "Pikotto refill",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400228
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ピコッとおかわり",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "通常攻撃を命中させた時、ドライヴエナジーショットが発動する(確率中)",
@@ -34980,6 +35179,248 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       21002
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1(敵単体)を命中させた時、青風の刃が発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 1 (enemy alone), Blue Wind Blade is activated (Extra Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041345,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125400216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夕闇のマドンナ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2(敵単体)を命中させた時、青風の刃が発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 2 (enemy alone), Blue Wind Blade is activated (Extra Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041346,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125400216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夕闇のマドンナ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3(敵単体)を命中させた時、青風の刃が発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 3 (enemy alone), Blue Wind Blade is activated (Extra Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041347,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125400216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夕闇のマドンナ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵単体)を命中させた時、青風の刃が発動する(確率特大)",
+    "flavor_text_en": "When you hit an Inheritance Move (enemy alone), Blue Wind Blade is activated (Extra Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041348,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125400216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夕闇のマドンナ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を命中させた時、青風の刃が発動する(確率特大)",
+    "flavor_text_en": "When you hit a normal attack, Blue Wind Blade is activated (Extra Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041349,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125400216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夕闇のマドンナ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "単体攻撃を命中させた時、「青風の刃」が発動する",
+    "flavor_text_en": "When you hit a single attack, “Blade of the Blue Wind” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041355,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101377
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵ランダム)を命中させた時、青風の刃が発動する(確率特大)",
+    "flavor_text_en": "When you hit an Inheritance Move (Random Enemy), Blue Wind Blade is activated (Extra High Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041370,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125400216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夕闇のマドンナ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "突属性で敵を攻撃時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies when attacking enemies with the Sudden attribute",
+    "flavor_text_en_src": "ml",
+    "id": 802041373,
+    "ignition_effect_id": "",
+    "name": "突攻撃強化",
+    "name_en": "Assault Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "突攻撃↑",
+    "triggering_effect_condition_ids": [
+      22003
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1(敵ランダム)を命中させた時、青風の刃が発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 1 (Random Enemy), Blue Wind Blade is activated (Extra Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041376,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125400216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夕闇のマドンナ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2(敵ランダム)を命中させた時、青風の刃が発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 2 (Random Enemy), Blue Wind Blade is activated (Extra Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041377,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125400216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夕闇のマドンナ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3(敵ランダム)を命中させた時、青風の刃が発動する(確率特大)",
+    "flavor_text_en": "When you hit Move 3 (Random Enemy), Blue Wind Blade activates (Extra Chance)",
+    "flavor_text_en_src": "ml",
+    "id": 802041378,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attack during a single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125400216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夕闇のマドンナ",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -46799,6 +47240,48 @@
     ]
   },
   {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "混乱耐性が上昇する",
+    "flavor_text_en": "Confusion tolerance increases",
+    "flavor_text_en_src": "ml",
+    "id": 808020498,
+    "ignition_effect_id": "",
+    "name": "混乱耐性アップ",
+    "name_en": "Confusion tolerance up",
+    "name_en_src": "ml",
+    "state_change_id": 900020026,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "混乱耐性 魅了耐性↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅了耐性が上昇する",
+    "flavor_text_en": "Increases fascination resistance",
+    "flavor_text_en_src": "ml",
+    "id": 808020499,
+    "ignition_effect_id": "",
+    "name": "魅了耐性アップ",
+    "name_en": "Increased fascination resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020027,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "バトル開始時に自身を睡眠状態にする",
@@ -52511,6 +52994,48 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "混乱耐性が低下する",
+    "flavor_text_en": "Confusion tolerance decreases",
+    "flavor_text_en_src": "ml",
+    "id": 809020703,
+    "ignition_effect_id": "",
+    "name": "混乱耐性ダウン",
+    "name_en": "Confusion tolerance down",
+    "name_en_src": "ml",
+    "state_change_id": 900020026,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "混乱耐性 魅了耐性↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅了耐性が低下する",
+    "flavor_text_en": "The resistance to fascination decreases",
+    "flavor_text_en_src": "ml",
+    "id": 809020704,
+    "ignition_effect_id": "",
+    "name": "魅了耐性ダウン",
+    "name_en": "Fascinated resistance down",
+    "name_en_src": "ml",
+    "state_change_id": 900020027,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "毎ターン毒によるダメージを受ける",
     "flavor_text_en": "Causes poison damage every turn.",
@@ -53686,6 +54211,27 @@
     "target_area": 8,
     "text_color": "FFFFFF",
     "text_pop": "気絶",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "行動不能状態。HP回復で復帰可能。LPがなくなると戦線復帰できなくなる",
+    "flavor_text_en": "A state of inability to act. It is possible to return by recovering HP. If you run out of LP, you won't be able to return to the front",
+    "flavor_text_en_src": "ml",
+    "id": 809030707,
+    "ignition_effect_id": "",
+    "name": "撤退",
+    "name_en": "withdrawing",
+    "name_en_src": "ml",
+    "state_change_id": 900030010,
+    "state_icon": 1040,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "撤退",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -57588,6 +58134,135 @@
     "target_area": 1,
     "text_color": "FF0000",
     "text_pop": "腕力↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover HP",
+    "flavor_text_en_src": "ml",
+    "id": 809040698,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      20
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "行動順補正値が上昇する( 効果特大 )",
+    "flavor_text_en": "Action order correction value increases (effect oversized)",
+    "flavor_text_en_src": "ml",
+    "id": 809040699,
+    "ignition_effect_id": "",
+    "name": "行動順補正上昇(特大)",
+    "name_en": "Action Order Correction Increase (Extra Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040109,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "行動順補正↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵から受ける被ダメージが低下する",
+    "flavor_text_en": "Reduces damage taken from enemies",
+    "flavor_text_en_src": "ml",
+    "id": 809040700,
+    "ignition_effect_id": "",
+    "name": "防御強化(特大)",
+    "name_en": "Enhanced Defense (Extra Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      50
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵からの攻撃を回避する",
+    "flavor_text_en": "Avoiding enemy attacks",
+    "flavor_text_en_src": "ml",
+    "id": 809040701,
+    "ignition_effect_id": "",
+    "name": "回避",
+    "name_en": "evasion",
+    "name_en_src": "ml",
+    "state_change_id": 900040032,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "回避",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵から受けるダメージが上昇する",
+    "flavor_text_en": "Increases damage received from enemies",
+    "flavor_text_en_src": "ml",
+    "id": 809040705,
+    "ignition_effect_id": "",
+    "name": "防御弱化(特大)",
+    "name_en": "Weakened Defense (Extra Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040103,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "防御↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 809040706,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
     ]
   },

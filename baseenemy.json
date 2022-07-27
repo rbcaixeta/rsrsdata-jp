@@ -7766,6 +7766,70 @@
     "sprite_studio": 0
   },
   {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107068,
+    "illust": 1070681,
+    "name": "ウィッチクローカー",
+    "name_en": "Witchcroaker",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      11
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107069,
+    "illust": 1070691,
+    "name": "キャンサー",
+    "name_en": "Cancer",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107070,
+    "illust": 1070701,
+    "name": "ビーナスジェリー",
+    "name_en": "Venus Jerry",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107071,
+    "illust": 1070711,
+    "name": "げんせいちゅう",
+    "name_en": "Genseichu",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 8,
     "gender": 9,
     "id": 108001,
@@ -19650,6 +19714,22 @@
     "rank": 1,
     "species": [
       97
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199361,
+    "illust": 1993611,
+    "name": "スービエ",
+    "name_en": "Souvier",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8
     ],
     "sprite_studio": 1
   },

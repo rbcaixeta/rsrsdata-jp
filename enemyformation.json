@@ -3409,6 +3409,29 @@
     ]
   },
   {
+    "id": 109030060,
+    "name": "3体陣形縦一列・ボスあり_(大1、中2)",
+    "name_en": "3-body formation, 1 vertical row, with boss _ (large 1, medium 2)",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 33,
+        "y": 24
+      },
+      {
+        "line": 0,
+        "x": 31,
+        "y": 0
+      },
+      {
+        "line": 0,
+        "x": 31,
+        "y": 49
+      }
+    ]
+  },
+  {
     "id": 109030099,
     "name": "塔_最上階用陣形",
     "name_en": "Tower_Top Floor Formation",
@@ -7640,6 +7663,59 @@
         "line": 0,
         "x": 5,
         "y": 25
+      }
+    ]
+  },
+  {
+    "id": 109090003,
+    "name": "9体陣形_3(ファーゴ案件)",
+    "name_en": "9 body formation _3 (Fargo case)",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 50,
+        "y": 11
+      },
+      {
+        "line": 0,
+        "x": 50,
+        "y": 26
+      },
+      {
+        "line": 0,
+        "x": 50,
+        "y": 41
+      },
+      {
+        "line": 0,
+        "x": 25,
+        "y": 11
+      },
+      {
+        "line": 0,
+        "x": 25,
+        "y": 26
+      },
+      {
+        "line": 0,
+        "x": 25,
+        "y": 41
+      },
+      {
+        "line": 0,
+        "x": 1,
+        "y": 11
+      },
+      {
+        "line": 0,
+        "x": 1,
+        "y": 26
+      },
+      {
+        "line": 0,
+        "x": 1,
+        "y": 41
       }
     ]
   },

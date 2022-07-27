@@ -290,19 +290,19 @@
   {
     "id": 406,
     "title_name": "武器進化",
-    "marquee_id": 16,
+    "marquee_id": 53,
     "help_id": 0
   },
   {
     "id": 407,
     "title_name": "主防具進化",
-    "marquee_id": 16,
+    "marquee_id": 53,
     "help_id": 0
   },
   {
     "id": 408,
     "title_name": "副防具進化",
-    "marquee_id": 16,
+    "marquee_id": 53,
     "help_id": 0
   },
   {
@@ -328,6 +328,18 @@
     "title_name": "聖石選択",
     "marquee_id": 35,
     "help_id": 95
+  },
+  {
+    "id": 413,
+    "title_name": "装備品選択",
+    "marquee_id": 47,
+    "help_id": 693
+  },
+  {
+    "id": 414,
+    "title_name": "錬成確認",
+    "marquee_id": 0,
+    "help_id": 0
   },
   {
     "id": 501,
@@ -453,6 +465,54 @@
     "id": 1104,
     "title_name": "閲覧キャラ選択",
     "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 1105,
+    "title_name": "シネマ",
+    "marquee_id": 0,
+    "help_id": 691
+  },
+  {
+    "id": 1106,
+    "title_name": "ミュージアム",
+    "marquee_id": 46,
+    "help_id": 692
+  },
+  {
+    "id": 1107,
+    "title_name": "バトルカスタム",
+    "marquee_id": 0,
+    "help_id": 695
+  },
+  {
+    "id": 1108,
+    "title_name": "味方選択",
+    "marquee_id": 48,
+    "help_id": 0
+  },
+  {
+    "id": 1109,
+    "title_name": "敵選択",
+    "marquee_id": 49,
+    "help_id": 0
+  },
+  {
+    "id": 1110,
+    "title_name": "技・術選択",
+    "marquee_id": 50,
+    "help_id": 0
+  },
+  {
+    "id": 1111,
+    "title_name": "背景選択",
+    "marquee_id": 51,
+    "help_id": 0
+  },
+  {
+    "id": 1112,
+    "title_name": "陣形設定",
+    "marquee_id": 52,
     "help_id": 0
   },
   {
