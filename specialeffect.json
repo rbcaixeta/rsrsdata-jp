@@ -58290,6 +58290,28 @@
     ]
   },
   {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover HP",
+    "flavor_text_en_src": "ml",
+    "id": 809050713,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      20
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 0,
     "enchantment_effect_id": "Buff",
     "flavor_text": "斬属性で敵を攻撃時 敵に与えるダメージが上昇する",

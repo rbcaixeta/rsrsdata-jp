@@ -10934,6 +10934,32 @@
   },
   {
     "applies_to_all_styles": 0,
+    "event_ability_category_id": 658,
+    "flavor_text": "・魅惑のビーチサイドナイトで能力値アップ時の上昇量が3倍＆【ピカピカサンゴ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased by 3 times in the fascinating beachside night & the additional drop of [Shiny Coral] <br>・The amount of increase when the ability value is increased in the main is 3 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1008,
+    "name": "[期間限定] 魅惑のビーチサイドナイト",
+    "name_en": "[Limited Time Offer] Fascinating Beachside Night",
+    "name_en_src": "ml",
+    "priority": 2925
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 659,
+    "flavor_text": "・魅惑のビーチサイドナイトで能力値アップ時の上昇量が3倍＆【ピカピカサンゴ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・The amount of increase when the ability value is increased by 3 times in the fascinating beachside night & the additional drop of [Shiny Coral] <br>・The amount of increase when the ability value is increased in the main is 3 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1009,
+    "name": "[期間限定] 魅惑のビーチサイドナイト・弓・打",
+    "name_en": "[Limited Time Offer] Fascinating Beachside Night, Bow, Strike",
+    "name_en_src": "ml",
+    "priority": 2920
+  },
+  {
+    "applies_to_all_styles": 0,
     "event_ability_category_id": 660,
     "flavor_text": "・ユラニウス家の超武芸稽古で能力値アップ時の上昇量が3倍＆【高質砥石】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
     "flavor_text_en": "・The amount of increase when the ability value is increased by 3 times in the super martial arts practice of the Ulanius family & the additional drop of [High Quality Whetstone] <br>・The amount of increase when the ability value is increased in the main is 3 times",
@@ -10944,5 +10970,18 @@
     "name_en": "[Limited Time] Super Martial Arts Practice of the Juranius Family",
     "name_en_src": "ml",
     "priority": 2887
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 668,
+    "flavor_text": "・魅惑のビーチサイドナイト、きらきら！サマーナイトパーティーBOXで能力値アップ時の上昇量が3倍！魅惑のビーチサイドナイトで【ピカピカサンゴ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が３倍",
+    "flavor_text_en": "・Fascinating beachside night, sparkling! The amount of increase when the ability value is increased in the Summer Night Party BOX is tripled! An additional drop of [Shiny Coral] on a fascinating beachside night <br>・The amount of increase when the ability value is increased in the main is tripled",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1018,
+    "name": "[期間限定] 復刻イベントスタイル",
+    "name_en": "[Limited Time] Reprint Event Style",
+    "name_en_src": "ml",
+    "priority": 2918
   }
 ]

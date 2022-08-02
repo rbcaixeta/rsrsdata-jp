@@ -42137,6 +42137,66 @@
     "currency_items": [
       {
         "currency": 4,
+        "id": 1100734
+      }
+    ],
+    "daily_clear_limit": 0,
+    "daily_rewards": [
+    ],
+    "display_cinema_start_at": 0,
+    "enabled_sns_share": 0,
+    "end_at": 1661367599,
+    "event_ability_potion_target": 1,
+    "event_box_gacha_id": 0,
+    "event_mission_tab_id": 336,
+    "event_point_id": 1100734,
+    "field_map_icon_id": 0,
+    "fixed_status_id": 0,
+    "id": 1558,
+    "last_previous_synopsis_id": 0,
+    "list_banner": 901265,
+    "lock_text": "",
+    "name": "魅惑のビーチサイドナイト",
+    "name_en": "An enchanting beachside night",
+    "name_en_src": "ml",
+    "open_pierceys_of_week": [
+    ],
+    "overflow_jewel": 0,
+    "overflow_limit": 0,
+    "part_id": 0,
+    "purchase_rewards": [
+    ],
+    "quest_category": 2,
+    "quest_key_id": 0,
+    "quest_key_open_seconds": 0,
+    "quest_key_quantity": 0,
+    "quest_sub_category_id": 20,
+    "required_currency": 0,
+    "required_quantity": 0,
+    "reset_returned_floor_number": 0,
+    "rule_screen_in_help_id": 0,
+    "rule_summary": "",
+    "screen_in_help_id": 785,
+    "shop_id": 4900468,
+    "sort_order": 2975,
+    "start_at": 1659495600,
+    "sub_text": "",
+    "symbol_id": 0
+  },
+  {
+    "add_cinema_start_at": 0,
+    "after_effect": 0,
+    "after_symbol_id": 0,
+    "appears_on_open": 1,
+    "area_map_change_set_id": 0,
+    "auto_rematch_enabled": 1,
+    "bgm": 0,
+    "chapter_id": 0,
+    "cinema_banner_id": 0,
+    "closed_text": "",
+    "currency_items": [
+      {
+        "currency": 4,
         "id": 1100265
       }
     ],
