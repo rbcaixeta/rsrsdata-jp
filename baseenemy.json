@@ -19885,6 +19885,23 @@
   },
   {
     "enemy_class": 99,
+    "gender": 2,
+    "id": 212151,
+    "illust": 121502,
+    "name": "おたま",
+    "name_en": "Ladle",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 1,
     "id": 213011,
     "illust": 130100,
@@ -21249,6 +21266,24 @@
     "name": "ヴァンパイアレディ",
     "name_en": "Vampire Lady",
     "name_en_src": "gl",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      13,
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 222815,
+    "illust": 228107,
+    "name": "ヴァンパイアレディ",
+    "name_en": "vampire lady",
+    "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 1,
     "pc_flag": 1,
     "rank": 1,
@@ -23409,6 +23444,23 @@
   },
   {
     "enemy_class": 99,
+    "gender": 1,
+    "id": 231381,
+    "illust": 313802,
+    "name": "済王",
+    "name_en": "King Zei",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      13,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 9,
     "id": 231411,
     "illust": 314100,
@@ -23485,6 +23537,23 @@
     "rank": 1,
     "species": [
       99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 231831,
+    "illust": 318300,
+    "name": "ナイトスケルトン",
+    "name_en": "Night Skeleton",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      13,
+      96
     ],
     "sprite_studio": 0
   },

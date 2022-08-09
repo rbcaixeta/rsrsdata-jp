@@ -10973,6 +10973,71 @@
   },
   {
     "applies_to_all_styles": 0,
+    "event_ability_category_id": 661,
+    "flavor_text": "・肝試し特別訓練-ひやひやコース-・熱・冷・雷・陽・陰で能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・Liver Test Special Training - Hiyahiya Course - ・The amount of increase when ability value is increased by 3 times in heat, cold, lightning, yang, and yin",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1011,
+    "name": "[期間限定] 肝試し特別訓練-ひやひやコース-",
+    "name_en": "[Limited Time] Liver Test Special Training -Hiyahiya Course-",
+    "name_en_src": "ml",
+    "priority": 2935
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 662,
+    "flavor_text": "・肝試し特別訓練-どきどきコース-・突・熱・陽で能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・Liver Test Special Training - Pounding Course - ・The amount of increase when ability value is increased by 3 times due to sudden, heat, and sun",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1012,
+    "name": "[期間限定] 肝試し特別訓練-どきどきコース-",
+    "name_en": "[Limited Time] Liver Test Special Training -Pounding Course-",
+    "name_en_src": "ml",
+    "priority": 2940
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 663,
+    "flavor_text": "・肝試し特別訓練-ほねほねコース-・斬・打・熱・陽で能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・Liver Test Special Training - Honehone Course - ・The amount of increase when ability value is increased by 3 times in slash, hit, heat, and yang",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1013,
+    "name": "[期間限定] 肝試し特別訓練-ほねほねコース-",
+    "name_en": "[Limited Time] Liver Test Special Training -Honehone Course-",
+    "name_en_src": "ml",
+    "priority": 2945
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 664,
+    "flavor_text": "・納涼！ヒヤッと肝試しで能力値アップ時の上昇量が3倍＆【オバケちょうちん】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・Noryo! The amount of increase when the ability value is increased by 3 times in the test of the liver & the additional drop of [ghost lantern] <br>· The amount of increase when the ability value is increased in the main is 3 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1014,
+    "name": "[期間限定] 納涼！ヒヤッと肝試し",
+    "name_en": "[Limited Time Offer] Cool! Test your liver with a jerk",
+    "name_en_src": "ml",
+    "priority": 2930
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 665,
+    "flavor_text": "・納涼！ヒヤッと肝試しで能力値アップ時の上昇量が3倍＆【オバケちょうちん】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・Noryo! The amount of increase when the ability value is increased by 3 times in the test of the liver & the additional drop of [ghost lantern] <br>· The amount of increase when the ability value is increased in the main is 3 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1015,
+    "name": "[期間限定] 納涼！ヒヤッと肝試し・熱・陽",
+    "name_en": "[Limited Time Offer] Cool! Hiyatto liver test, heat, sun",
+    "name_en_src": "ml",
+    "priority": 2928
+  },
+  {
+    "applies_to_all_styles": 0,
     "event_ability_category_id": 668,
     "flavor_text": "・魅惑のビーチサイドナイト、きらきら！サマーナイトパーティーBOXで能力値アップ時の上昇量が3倍！魅惑のビーチサイドナイトで【ピカピカサンゴ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が３倍",
     "flavor_text_en": "・Fascinating beachside night, sparkling! The amount of increase when the ability value is increased in the Summer Night Party BOX is tripled! An additional drop of [Shiny Coral] on a fascinating beachside night <br>・The amount of increase when the ability value is increased in the main is tripled",
@@ -10983,5 +11048,18 @@
     "name_en": "[Limited Time] Reprint Event Style",
     "name_en_src": "ml",
     "priority": 2918
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 669,
+    "flavor_text": "・戦慄！肝試し特別訓練で能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・Battle! The amount of increase when the ability value is increased by 3 times in the liver test special training",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1019,
+    "name": "[期間限定] 戦慄！肝試し特別訓練",
+    "name_en": "[Limited Time] Battle Fighter! Liver test special training",
+    "name_en_src": "ml",
+    "priority": 2950
   }
 ]

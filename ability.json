@@ -9376,6 +9376,41 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象の知力を低下させる( 確率大/効果大 )<br>攻撃命中時、自身のBPを回復する( 確率大/+2 )",
+    "flavor_text_en": "Reduces target's intelligence when an attack is hit (high probability/high effect) <br>When an attack is hit, restores own BP (high probability/+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101323,
+    "name": "弱化の練撃Ⅱ(知力)",
+    "name_en": "Weakening Blitz II (Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041270,
+      802041020
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象の知力を低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Reduces target's intelligence when hit by an attack (high probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101324,
+    "name": "攻撃時 知力ダウン",
+    "name_en": "Decrease intelligence when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010189
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>味方生存者全体のBPを回復する( 確率小/+1 )",
     "flavor_text_en": "[End of Turn] <br>Restore BP to all allied Survivors (Small Chance/+1)",
@@ -9446,6 +9481,80 @@
       802041278,
       802041279,
       802041280
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身と、ランダムな味方生存者1体のHPを回復( 効果極小 )し、自身と、ランダムな味方生存者1体のBPを回復( +1 )する",
+    "flavor_text_en": "<br>Restores HP (minimal effect) to self and 1 random ally survivor on attack hit, and restores (+1) the BP of self and 1 random ally survivor",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101333,
+    "name": "ヴァンパイアチェイン",
+    "name_en": "Vampire Chain",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040622,
+      802041283,
+      802040742,
+      802041284
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +10 )<br>ただし毎ターン開始時、自身の体力と魅力を低下させる( 効果特大 )",
+    "flavor_text_en": "At the start of battle, recover your own BP (+10), <br>but at the start of every turn, reduce your own health and attractiveness (special effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101334,
+    "name": "シュライクの大王",
+    "name_en": "The Great King of Shrike",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041285,
+      802041286
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身の体力と魅力を低下させる( 効果特大 )",
+    "flavor_text_en": "At the start of a turn, reduce your own health and attractiveness (Extra Large)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101335,
+    "name": "ターン開始時 体力・魅力ダウン",
+    "name_en": "Health and attractiveness decrease at the start of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011287,
+      802011288
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果中 )<br>攻撃を受けてHP0になる時、最大HPの100%でふみとどまる( 上限回数:バトル中1回 )",
+    "flavor_text_en": "Increases damage dealt by attacks (active) <br>When attacked and reaches 0 HP, Fumi stays at 100% of Max HP (maximum number of times: 1 time in battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101336,
+    "name": "勇壮不屈",
+    "name_en": "Be brave and unyielding",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040002,
+      802041314
     ]
   },
   {
@@ -9578,6 +9687,24 @@
     "special_effect_ids": [
       802041355,
       802041152
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>一定の確率で( 確率中 )<br>自身を回避状態( 効果1ターン )にし、<br>さらに、自身の器用さを上昇( 効果中 )させる",
+    "flavor_text_en": "[Start of Turn] Has <br>a certain chance (during chance) to <br>dodge itself (effect 1 turn), and <br>increase caster's dexterity (during effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101380,
+    "name": "直観Ⅱ(器用さ)",
+    "name_en": "Intuition II (Dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040624,
+      802011357
     ]
   },
   {

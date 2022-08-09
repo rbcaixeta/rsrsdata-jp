@@ -13494,6 +13494,71 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "140700109",
+    "flavor_text": "BPが回復する",
+    "flavor_text_en": "Will BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 801041223,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      2
+    ],
+    "target_area": 3,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140200173",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041224,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(特大)",
+    "name_en": "Moral up (extra large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041246,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "被ダメージを100%カットする( 上限回数:1 ※攻撃が命中した時のみ発動 )",
     "flavor_text_en": "Cuts 100% of damage taken. (Maximum number of times: 1*Activated only when an attack is hit)",
@@ -13513,6 +13578,27 @@
     "text_pop": "ダメージブロック",
     "triggering_effect_condition_ids": [
       14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041290,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -18879,6 +18965,48 @@
   {
     "display_flag": 1,
     "enchantment_effect_id": "Debuff",
+    "flavor_text": "体力が低下する",
+    "flavor_text_en": "Your physical strength decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802011287,
+    "ignition_effect_id": "",
+    "name": "体力ダウン",
+    "name_en": "Physical strength down",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "体力 魅力↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が低下する",
+    "flavor_text_en": "Attractiveness decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802011288,
+    "ignition_effect_id": "",
+    "name": "魅力ダウン",
+    "name_en": "Glamour down",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
     "flavor_text": "知力が低下する",
     "flavor_text_en": "Decreased intelligence",
     "flavor_text_en_src": "ml",
@@ -18894,6 +19022,27 @@
     "target_area": 8,
     "text_color": "FF0000",
     "text_pop": "知力↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Increases dexterity",
+    "flavor_text_en_src": "ml",
+    "id": 802011357,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "器用さ↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -34984,6 +35133,28 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、対象の知力を低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Reduces target's intelligence when hit by an attack (high probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041270,
+    "ignition_effect_id": "",
+    "name": "攻撃時 知力ダウン",
+    "name_en": "Decrease intelligence when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101324
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "敵に与えるダメージが上昇する",
@@ -35139,6 +35310,94 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "ランダムな味方生存者1体のHPを回復する",
+    "flavor_text_en": "Restore the HP of a random friendly Survivor",
+    "flavor_text_en_src": "ml",
+    "id": 802041283,
+    "ignition_effect_id": "",
+    "name": "味方1体HP回復",
+    "name_en": "HP recovery for 1 ally",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 2,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "ランダムな味方生存者1体のBPを回復する",
+    "flavor_text_en": "Recover BP for a random allied survivor",
+    "flavor_text_en_src": "ml",
+    "id": 802041284,
+    "ignition_effect_id": "",
+    "name": "味方1体BP回復",
+    "name_en": "BP recovery for 1 ally",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      1
+    ],
+    "target_area": 2,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Will my own BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041285,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      10
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、自身の体力と魅力を低下させる( 効果特大 )",
+    "flavor_text_en": "At the start of a turn, reduce your own health and attractiveness (Extra Large)",
+    "flavor_text_en_src": "ml",
+    "id": 802041286,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 体力・魅力ダウン",
+    "name_en": "Health and attractiveness decrease at the start of the turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101335
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "通常攻撃を命中させた時、ドライヴエナジーショットが発動する(確率中)",
     "flavor_text_en": "When a normal attack is hit, a drive energy shot is activated (medium chance)",
@@ -35179,6 +35438,30 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       21002
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "気絶被弾時、HP100%でふんばる",
+    "flavor_text_en": "When hit by a stun, it is fluffy with 100% HP",
+    "flavor_text_en_src": "ml",
+    "id": 802041314,
+    "ignition_effect_id": "Plane",
+    "name": "勇壮不屈",
+    "name_en": "Be brave and unyielding",
+    "name_en_src": "ml",
+    "state_change_id": 900040059,
+    "state_icon": 3001,
+    "state_vars": [
+      0,
+      100
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "勇壮不屈",
+    "triggering_effect_condition_ids": [
+      16
     ]
   },
   {
@@ -50404,6 +50687,70 @@
     "target_area": 10,
     "text_color": "FFFFFF",
     "text_pop": "チェイン",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover HP",
+    "flavor_text_en_src": "ml",
+    "id": 808040502,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      10
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 808040503,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵から受けるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage received from enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 808040504,
+    "ignition_effect_id": "",
+    "name": "ガードダウン(小)",
+    "name_en": "guard down (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040152,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "防御↓",
     "triggering_effect_condition_ids": [
     ]
   },
