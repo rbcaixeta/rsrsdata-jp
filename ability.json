@@ -9575,6 +9575,85 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "単体攻撃(※)を発動後、「フロストレビン」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "After activating a single attack (*), “Frost Levin” is activated <br>(activated with move Rank 1) <br>* “Techniques and techniques activated by “Chase”, “Counterattack techniques and techniques with counter effects”, “Moves handed down in the R Cup Does not include “jutsu”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101338,
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      801041228,
+      801041229,
+      801041230,
+      801041231,
+      801041232,
+      801041233,
+      801041234,
+      801041235,
+      801041236
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身に「追撃(フロストレビン)」( 効果バトル中永続 )を付与し、さらに、自身に「ヒートアップ」( 効果大 )を付与する<br>※ただし、自身が代償LPダメージを2受ける<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "At the start of the battle, grant yourself “Chase (Frost Levin)” (permanent during the effect battle), and also grant “Heat Up” (high effect) to the caster. <br>*However, you will receive 2 compensated LP damage <br><br><br>Increases damage dealt by heatup attacks received (lasts during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101339,
+    "name": "竜心",
+    "name_en": "Ryushin",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041289,
+      802041116,
+      801041227
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "通常攻撃を命中させた時、<br>「鎧斬り」が発動する<br><br>鎧斬り<br>斧技/攻撃/威力C/直接/敵単体 ( 斬 ) <br>攻撃する<br>攻撃命中時に確率で、対象の体力を低下させる( 効果小 )<br>攻撃命中時に確率で、対象の精神を低下させる( 効果小 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When a normal attack is hit, <br>“Yorokiri” is activated <br><br>Yorokiri <br>Axe Move/Attack/Power C/Direct/Enemy Alone (<br>Attack) Attack <br>Attack There is a probability that the target's Reduces health (low effect) <br>Chance to lower target's spirit on hit (low effect) <br>(Activated with Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101341,
+    "name": "追い鎧斬り",
+    "name_en": "Chase Yoroi Kiri",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041291
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時<br>被ダメージを軽減する( 効果特大 )<br>HP満タン時、さらに被ダメージを軽減する( 効果大 )",
+    "flavor_text_en": "<br>Reduces damage taken when attacked (Special Effect) <br>Reduces damage taken when HP is full (Great Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101342,
+    "name": "ロバストハイプロテクト",
+    "name_en": "ROBUST HIGH PROTECT",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040448,
+      802040864
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "大剣装備時 攻撃の<br>与ダメージが上昇する( 効果極大 )",
     "flavor_text_en": "<br>Increases damage dealt by attacks when equipped with a large sword (maximum effect)",
@@ -9705,6 +9784,42 @@
     "special_effect_ids": [
       802040624,
       802011357
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>一定の確率で( 確率特大 )<br>自身に「攻撃強化」( 効果特大/効果3ターン )を付与し、<br>かつ、自身のBPを回復( +2 )する",
+    "flavor_text_en": "[Turn Start] Has <br>a certain chance (Extra Chance) <br>to grant caster “Attack Boost” (Oversized Effect/Effect for 3 <br>turns) and restore (+2) own BP",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101388,
+    "name": "勇士の力Ⅱ",
+    "name_en": "The Power of the Brave II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041365,
+      802040754
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身のHPを回復( 効果極小 )し、かつ、体力を上昇( 効果中 )させる",
+    "flavor_text_en": "When an attack is hit, restores one's own HP (effect is minimal) and increases health (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101394,
+    "name": "再生累加(体力)",
+    "name_en": "Regeneration Accumulation (Health)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040622,
+      802010079
     ]
   },
   {
@@ -41114,6 +41229,57 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040494
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身の腕力を上昇させる( 確率中/効果中 )",
+    "flavor_text_en": "Increases caster<br>'s strength on attack hit (probability/in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600219,
+    "name": "闘気増強Ⅰ(腕力)",
+    "name_en": "Battle Boost I (Strength)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010507
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身の素早さを上昇させる( 確率中/効果中 )",
+    "flavor_text_en": "<br>Increases your own quickness when hitting an attack (Chance/in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600220,
+    "name": "闘気増強Ⅰ(素早さ)",
+    "name_en": "Battle Enhancement I (Quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010508
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身の知力を上昇させる( 確率中/効果中 )",
+    "flavor_text_en": "Increases caster<br>'s intelligence when hit by an attack (probability/in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600221,
+    "name": "闘気増強Ⅰ(知力)",
+    "name_en": "Battle Boost I (Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010509
     ]
   },
   {

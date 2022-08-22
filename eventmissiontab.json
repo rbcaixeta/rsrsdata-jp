@@ -3280,6 +3280,16 @@
     "start_at": 1660100400
   },
   {
+    "end_at": 1661799599,
+    "id": 339,
+    "is_pierceily": 1,
+    "name": "海に漕ぎ出せ！大航海祭デイリーミッション",
+    "name_en": "Paddle out into the sea! The Great Voyage Festival Daily Mission",
+    "name_en_src": "ml",
+    "priority": 12530,
+    "start_at": 1661281200
+  },
+  {
     "end_at": 1661972399,
     "id": 340,
     "is_pierceily": 0,
@@ -3288,5 +3298,15 @@
     "name_en_src": "ml",
     "priority": 12526,
     "start_at": 1660532400
+  },
+  {
+    "end_at": 1662749999,
+    "id": 341,
+    "is_pierceily": 0,
+    "name": "海に潜む脅威！ディープテンタクラー",
+    "name_en": "A threat lurking in the ocean! Deep Tentacler",
+    "name_en_src": "ml",
+    "priority": 12529,
+    "start_at": 1661223600
   }
 ]

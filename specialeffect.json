@@ -13537,6 +13537,291 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041226,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(極大)",
+    "name_en": "Moral up (maximum)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "単体攻撃を発動後、「フロストレビン」が発動する",
+    "flavor_text_en": "After activating a single attack, “Frost Levin” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 801041227,
+    "ignition_effect_id": "",
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3001,
+    "state_vars": [
+      702101338
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "追撃態勢",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵単体)を発動後、フロストレビンで攻撃を行う",
+    "flavor_text_en": "Attack with Frostlevin after activating the Inheritance Move (enemy alone)",
+    "flavor_text_en_src": "ml",
+    "id": 801041228,
+    "ignition_effect_id": "",
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500313
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1(敵単体)を発動後、フロストレビンで攻撃を行う",
+    "flavor_text_en": "Attack with Frostlevin after activating Move 1 (enemy alone)",
+    "flavor_text_en_src": "ml",
+    "id": 801041229,
+    "ignition_effect_id": "",
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500313
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2(敵単体)を発動後、フロストレビンで攻撃を行う",
+    "flavor_text_en": "Attack with Frostlevin after activating Move 2 (enemy alone)",
+    "flavor_text_en_src": "ml",
+    "id": 801041230,
+    "ignition_effect_id": "",
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500313
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3(敵単体)を発動後、フロストレビンで攻撃を行う",
+    "flavor_text_en": "Attack with Frostlevin after activating Move 3 (enemy alone)",
+    "flavor_text_en_src": "ml",
+    "id": 801041231,
+    "ignition_effect_id": "",
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500313
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を発動後、フロストレビンで攻撃を行う",
+    "flavor_text_en": "Attack with Frostlevin after activating a normal attack",
+    "flavor_text_en_src": "ml",
+    "id": 801041232,
+    "ignition_effect_id": "",
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500313
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵ランダム)を発動後、フロストレビンで攻撃を行う",
+    "flavor_text_en": "Attack with Frostlevin after activating the Inheritance Move (random enemy)",
+    "flavor_text_en_src": "ml",
+    "id": 801041233,
+    "ignition_effect_id": "",
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500313
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1(敵ランダム)を発動後、フロストレビンで攻撃を行う",
+    "flavor_text_en": "Attack with Frost Levin after activating Move 1 (random enemy)",
+    "flavor_text_en_src": "ml",
+    "id": 801041234,
+    "ignition_effect_id": "",
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500313
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2(敵ランダム)を発動後、フロストレビンで攻撃を行う",
+    "flavor_text_en": "Attack with Frost Levin after activating Move 2 (random enemy)",
+    "flavor_text_en_src": "ml",
+    "id": 801041235,
+    "ignition_effect_id": "",
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500313
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3(敵ランダム)を発動後、フロストレビンで攻撃を行う",
+    "flavor_text_en": "Attack with Frost Levin after activating Move 3 (Random Enemy)",
+    "flavor_text_en_src": "ml",
+    "id": 801041236,
+    "ignition_effect_id": "",
+    "name": "追撃(フロストレビン)",
+    "name_en": "Chase (Frost Levin)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500313
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "BPが回復する",
+    "flavor_text_en": "Will BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 801041237,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      4
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵からの攻撃を回避する",
+    "flavor_text_en": "Avoiding enemy attacks",
+    "flavor_text_en_src": "ml",
+    "id": 801041238,
+    "ignition_effect_id": "",
+    "name": "回避",
+    "name_en": "evasion",
+    "name_en_src": "ml",
+    "state_change_id": 900040080,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "回避",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "敵に与えるダメージが上昇する",
     "flavor_text_en": "Increases damage dealt to enemies",
@@ -25744,7 +26029,7 @@
     "name": "銀の壁",
     "name_en": "Silver Wall",
     "name_en_src": "gl",
-    "state_change_id": 900040062,
+    "state_change_id": 900040192,
     "state_icon": 3001,
     "state_vars": [
       0
@@ -29236,7 +29521,7 @@
     "name": "霊銀の壁",
     "name_en": "Mithril Wall",
     "name_en_src": "gl",
-    "state_change_id": 900040062,
+    "state_change_id": 900040192,
     "state_icon": 3001,
     "state_vars": [
       0
@@ -30795,7 +31080,7 @@
     "name": "ダメージブロック",
     "name_en": "Damage Block",
     "name_en_src": "gl",
-    "state_change_id": 900040062,
+    "state_change_id": 900040195,
     "state_icon": 3001,
     "state_vars": [
       0
@@ -35398,6 +35683,49 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "SelfHarm",
+    "flavor_text": "代償LPダメージを受ける",
+    "flavor_text_en": "Will you receive compensatory LP damage",
+    "flavor_text_en_src": "ml",
+    "id": 802041289,
+    "ignition_effect_id": "",
+    "name": "代償LPダメージ",
+    "name_en": "Compensated LP damage",
+    "name_en_src": "ml",
+    "state_change_id": 900050112,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を命中させた時、鎧斬りが発動する",
+    "flavor_text_en": "When you hit a normal attack, Yorokiri is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041291,
+    "ignition_effect_id": "",
+    "name": "追い鎧斬り",
+    "name_en": "Chase Yoroi Kiri",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110300231
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "追い鎧斬り",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "通常攻撃を命中させた時、ドライヴエナジーショットが発動する(確率中)",
     "flavor_text_en": "When a normal attack is hit, a drive energy shot is activated (medium chance)",
@@ -35594,6 +35922,28 @@
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 802041365,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
     ]
   },
   {
@@ -47504,6 +47854,69 @@
   {
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Increases brawn strength",
+    "flavor_text_en_src": "ml",
+    "id": 808010507,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Boost your strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Increases quickness",
+    "flavor_text_en_src": "ml",
+    "id": 808010508,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Improve your quickness",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Increases intelligence",
+    "flavor_text_en_src": "ml",
+    "id": 808010509,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "魅了耐性が上昇する",
     "flavor_text_en": "Increases Charm Resistance.",
     "flavor_text_en_src": "gl",
@@ -58611,6 +59024,50 @@
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 809040710,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 809040711,
+    "ignition_effect_id": "",
+    "name": "ディフェンスアップ",
+    "name_en": "Defense up",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      85
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {

@@ -2717,6 +2717,19 @@
     "sort_order": 22081060
   },
   {
+    "expired_at": 1663959599,
+    "flavor_text": "特定のウルトラデラックスガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Ultra Deluxe gacha. Can be exchanged for items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800211,
+    "id": 800211,
+    "max_quantity": 99999999,
+    "name": "ウルトラデラックスガチャメダル・34",
+    "name_en": "Ultra Deluxe Gacha Medal 34",
+    "name_en_src": "ml",
+    "sort_order": 22082360
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -9254,5 +9267,31 @@
     "name_en": "Proof of liver test special training",
     "name_en_src": "ml",
     "sort_order": 22081525
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100744,
+    "id": 1100744,
+    "max_quantity": 99999999,
+    "name": "魔獣の触手",
+    "name_en": "Demon Beast Tentacle",
+    "name_en_src": "ml",
+    "sort_order": 22082316
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100745,
+    "id": 1100745,
+    "max_quantity": 99999999,
+    "name": "古びた操舵輪",
+    "name_en": "An old steering wheel",
+    "name_en_src": "ml",
+    "sort_order": 22082318
   }
 ]
