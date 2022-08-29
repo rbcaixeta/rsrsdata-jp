@@ -3993,6 +3993,27 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵から受けるダメージが上昇する",
+    "flavor_text_en": "Increases damage received from enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801011241,
+    "ignition_effect_id": "",
+    "name": "防御弱化(小)",
+    "name_en": "Defense Weakened (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040103,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "防御↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "140500263",
     "flavor_text": "HPを回復する",
     "flavor_text_en": "Recover HP",
@@ -13822,6 +13843,27 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt to enemies (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041242,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(特大)",
+    "name_en": "Moral up (extra large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "敵に与えるダメージが上昇する",
     "flavor_text_en": "Increases damage dealt to enemies",
@@ -13884,6 +13926,29 @@
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵から受ける被ダメージが低下する",
+    "flavor_text_en": "Reduces damage taken from enemies",
+    "flavor_text_en_src": "ml",
+    "id": 801041300,
+    "ignition_effect_id": "",
+    "name": "防御強化(中)",
+    "name_en": "Defense reinforcement (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      80
+    ],
+    "target_area": 8,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {
@@ -19291,6 +19356,50 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover HP",
+    "flavor_text_en_src": "ml",
+    "id": 802011302,
+    "ignition_effect_id": "",
+    "name": "HP回復(極小)",
+    "name_en": "HP recovery (very small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover HP",
+    "flavor_text_en_src": "ml",
+    "id": 802011312,
+    "ignition_effect_id": "",
+    "name": "HP回復(小)",
+    "name_en": "HP recovery (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      2
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Debuff",
     "flavor_text": "知力が低下する",
     "flavor_text_en": "Decreased intelligence",
@@ -21862,6 +21971,28 @@
     "target_area": 1,
     "text_color": "FFFFFF",
     "text_pop": "氷漬け",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "行動選択ができなくなる<br>ターン経過で自然回復する",
+    "flavor_text_en": "You will not be able to choose an action It <br>will recover spontaneously as the turn",
+    "flavor_text_en_src": "ml",
+    "id": 802031311,
+    "ignition_effect_id": "",
+    "name": "狂戦士",
+    "name_en": "Berserker",
+    "name_en_src": "ml",
+    "state_change_id": 900030009,
+    "state_icon": 1039,
+    "state_vars": [
+      50
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "狂戦士",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -35771,6 +35902,205 @@
   {
     "display_flag": 1,
     "enchantment_effect_id": "",
+    "flavor_text": "技1を使用した時、タービュランスほうが発動する",
+    "flavor_text_en": "When using Move 1, Turbulence is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041295,
+    "ignition_effect_id": "",
+    "name": "奇数ターン攻撃時 追加攻撃",
+    "name_en": "Extra Attack When Attacking Odd Turns",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100272
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ステスロスの支援",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を使用した時、タービュランスほうが発動する",
+    "flavor_text_en": "When using Move 2, Turbulence is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041296,
+    "ignition_effect_id": "",
+    "name": "奇数ターン攻撃時 追加攻撃",
+    "name_en": "Extra Attack When Attacking Odd Turns",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100272
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ステスロスの支援",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を使用した時、タービュランスほうが発動する",
+    "flavor_text_en": "When using Move 3, Turbulence is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041297,
+    "ignition_effect_id": "",
+    "name": "奇数ターン攻撃時 追加攻撃",
+    "name_en": "Extra Attack When Attacking Odd Turns",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100272
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ステスロスの支援",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を使用した時、タービュランスほうが発動する",
+    "flavor_text_en": "When using an inheritance move, Turbulence is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041298,
+    "ignition_effect_id": "",
+    "name": "奇数ターン攻撃時 追加攻撃",
+    "name_en": "Extra Attack When Attacking Odd Turns",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100272
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ステスロスの支援",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を使用した時、タービュランスほうが発動する",
+    "flavor_text_en": "When using a normal attack, Turbulence is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041299,
+    "ignition_effect_id": "",
+    "name": "奇数ターン攻撃時 追加攻撃",
+    "name_en": "Extra Attack When Attacking Odd Turns",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100272
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ステスロスの支援",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Will my own BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041303,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      2
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターンに自身がHPダメージを受けていなかった場合、ターン終了時に自身のBPを回復する( +3 )",
+    "flavor_text_en": "If you didn't take HP damage during the turn, heal your BP at the end of the turn (+3)",
+    "flavor_text_en_src": "ml",
+    "id": 802041307,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 BP回復(被ダメージが0の時)",
+    "name_en": "BP recovery at end of turn (when damage taken is 0)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101350
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Will my own BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041308,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      3
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "Resist攻撃被弾時、被ダメージが低下する",
+    "flavor_text_en": "Damage taken is reduced when hit by a Resist attack",
+    "flavor_text_en_src": "ml",
+    "id": 802041313,
+    "ignition_effect_id": "",
+    "name": "Resist攻撃被弾時防御",
+    "name_en": "Resist Attack Defense when hit",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      11
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
     "flavor_text": "気絶被弾時、HP100%でふんばる",
     "flavor_text_en": "When hit by a stun, it is fluffy with 100% HP",
     "flavor_text_en_src": "ml",
@@ -35970,6 +36300,50 @@
   },
   {
     "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて奇数ターン目に攻撃時、「タービュランスほう」が発動する",
+    "flavor_text_en": "When attacking on the odd turn from the start of battle, “Turbulence Hou” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041371,
+    "ignition_effect_id": "",
+    "name": "奇数ターン攻撃時 追加攻撃",
+    "name_en": "Extra Attack When Attacking Odd Turns",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101393
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "杖装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases the damage of attacks when equipped with a cane",
+    "flavor_text_en_src": "ml",
+    "id": 802041372,
+    "ignition_effect_id": "",
+    "name": "杖攻撃強化",
+    "name_en": "Strengthen cane attack",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21010
+    ]
+  },
+  {
+    "display_flag": 0,
     "enchantment_effect_id": "Buff",
     "flavor_text": "突属性で敵を攻撃時 敵に与えるダメージが上昇する",
     "flavor_text_en": "Increases damage dealt to enemies when attacking enemies with the Sudden attribute",
@@ -36053,6 +36427,139 @@
     "target_area": 1,
     "text_color": "FFFFFF",
     "text_pop": "夕闇のマドンナ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 802041379,
+    "ignition_effect_id": "",
+    "name": "防御",
+    "name_en": "defenses",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "HP満タン状態のとき、攻撃のダメージが上昇する",
+    "flavor_text_en": "Attack damage increases when HP is full",
+    "flavor_text_en_src": "ml",
+    "id": 802041382,
+    "ignition_effect_id": "",
+    "name": "HP満タン時攻撃強化",
+    "name_en": "Attack enhancement when HP is full",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      1,
+      4
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "棍棒装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases attack damage when equipped with a club",
+    "flavor_text_en_src": "ml",
+    "id": 802041389,
+    "ignition_effect_id": "",
+    "name": "棍棒攻撃強化",
+    "name_en": "Stronger stick attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      21004
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies",
+    "flavor_text_en_src": "ml",
+    "id": 802041392,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "回復時、味方生存者全体のBPが回復する( +1 )",
+    "flavor_text_en": "When healing, BP for all allied Survivors is restored (+1)",
+    "flavor_text_en_src": "ml",
+    "id": 802041398,
+    "ignition_effect_id": "",
+    "name": "回復時BP回復",
+    "name_en": "BP recovery at the time of recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      1
+    ],
+    "target_area": 3,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "行動不能になる<br>ターン経過で自然回復する",
+    "flavor_text_en": "Becomes incapacitated <br>recovers spontaneously over the course of turns",
+    "flavor_text_en_src": "ml",
+    "id": 802041437,
+    "ignition_effect_id": "",
+    "name": "マヒ",
+    "name_en": "Mahi",
+    "name_en_src": "ml",
+    "state_change_id": 900030004,
+    "state_icon": 1034,
+    "state_vars": [
+    ],
+    "target_area": 5,
+    "text_color": "FFFFFF",
+    "text_pop": "マヒ",
     "triggering_effect_condition_ids": [
     ]
   },

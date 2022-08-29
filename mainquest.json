@@ -91345,5 +91345,2421 @@
     "typical_rewards": [
     ],
     "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000143,
+    "battle_id": 100308011,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001190,
+      870001186,
+      870001187,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108011,
+    "illust_category": 2,
+    "illust_id": 1020481,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-1. 戦闘訓練",
+    "name_en": "8-1-1. Combat training",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120107201
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000143,
+    "battle_id": 100308012,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001196,
+      870001192,
+      870001193,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108012,
+    "illust_category": 2,
+    "illust_id": 1020481,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-1. 戦闘訓練",
+    "name_en": "8-1-1. Combat training",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108191,
+      120107102
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 11,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000143,
+    "battle_id": 100308013,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001202,
+      870001198,
+      870001199,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108013,
+    "illust_category": 2,
+    "illust_id": 1020481,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-1. 戦闘訓練",
+    "name_en": "8-1-1. Combat training",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108102,
+      120107103
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 10210801,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108021,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-2. ３つめの光",
+    "name_en": "8-1-2. The third light",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108011
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10308001,
+    "sort_order": 2,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308022,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001196,
+      870001193,
+      870001191,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108022,
+    "illust_category": 2,
+    "illust_id": 1020491,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-2. 異郷の地１",
+    "name_en": "8-1-2. A foreign land 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108012
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 11,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308023,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001202,
+      870001199,
+      870001197,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108023,
+    "illust_category": 2,
+    "illust_id": 1020491,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-2. 異郷の地１",
+    "name_en": "8-1-2. A foreign land 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108013
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 10210801,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108031,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-3. おにいちゃんとおねえちゃん",
+    "name_en": "8-1-3. Onii-chan and sister",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108021
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10308010,
+    "sort_order": 3,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308032,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001196,
+      870001191,
+      870001194,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108032,
+    "illust_category": 2,
+    "illust_id": 1010391,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-3. 異郷の地２",
+    "name_en": "8-1-3. A Foreign Land 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108022
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 11,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308033,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001202,
+      870001197,
+      870001200,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108033,
+    "illust_category": 2,
+    "illust_id": 1010391,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-3. 異郷の地２",
+    "name_en": "8-1-3. A Foreign Land 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108023
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308021,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001190,
+      870001187,
+      870001185,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108041,
+    "illust_category": 2,
+    "illust_id": 1020491,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-4. 異郷の地１",
+    "name_en": "8-1-4. A foreign land 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108031
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308042,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001196,
+      870001194,
+      870001195,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108042,
+    "illust_category": 2,
+    "illust_id": 1160161,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-4. 異郷の地３",
+    "name_en": "8-1-4. Land in a foreign land 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108032
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 11,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308043,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001202,
+      870001200,
+      870001201,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108043,
+    "illust_category": 2,
+    "illust_id": 1160161,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-4. 異郷の地３",
+    "name_en": "8-1-4. Land in a foreign land 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108033
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308031,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001190,
+      870001185,
+      870001188,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108051,
+    "illust_category": 2,
+    "illust_id": 1010391,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-5. 異郷の地２",
+    "name_en": "8-1-5. A Foreign Land 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108041
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308052,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001196,
+      870001195,
+      870001192,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108052,
+    "illust_category": 2,
+    "illust_id": 1070671,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-5. 異郷の地４",
+    "name_en": "8-1-5. A Foreign Land 4",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108042
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 11,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308053,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001202,
+      870001201,
+      870001198,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108053,
+    "illust_category": 2,
+    "illust_id": 1070671,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-5. 異郷の地４",
+    "name_en": "8-1-5. A Foreign Land 4",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108043
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 10210801,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108061,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-6. ステスロス",
+    "name_en": "8-1-6. STETH ROSS",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108051
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10308020,
+    "sort_order": 6,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000003,
+    "battle_id": 100308062,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001196,
+      870001192,
+      870001193,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108062,
+    "illust_category": 2,
+    "illust_id": 1060641,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-1. 異郷の地５",
+    "name_en": "8-2-1. A foreign land 5",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108052
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 11,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000003,
+    "battle_id": 100308063,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001202,
+      870001198,
+      870001199,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108063,
+    "illust_category": 2,
+    "illust_id": 1060641,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-1. 異郷の地５",
+    "name_en": "8-2-1. A foreign land 5",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108053
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308041,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001190,
+      870001188,
+      870001189,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108071,
+    "illust_category": 2,
+    "illust_id": 1160161,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-7. 異郷の地３",
+    "name_en": "8-1-7. Land in a foreign land 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108061
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308072,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001196,
+      870001193,
+      870001191,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108072,
+    "illust_category": 2,
+    "illust_id": 1130321,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-2. 異郷の地６",
+    "name_en": "8-2-2. A Foreign Land 6",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108062
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 11,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308073,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001202,
+      870001199,
+      870001197,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108073,
+    "illust_category": 2,
+    "illust_id": 1130321,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-2. 異郷の地６",
+    "name_en": "8-2-2. A Foreign Land 6",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108063
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 700000002,
+    "battle_id": 100308051,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001190,
+      870001189,
+      870001186,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108081,
+    "illust_category": 2,
+    "illust_id": 1070671,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-8. 異郷の地４",
+    "name_en": "8-1-8. A Foreign Land 4",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108071
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308082,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001196,
+      870001191,
+      870001194,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108082,
+    "illust_category": 2,
+    "illust_id": 1011111,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-3. 暴走する少女",
+    "name_en": "8-2-3. Runaway Girl",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108072
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 11,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308083,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001202,
+      870001197,
+      870001200,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108083,
+    "illust_category": 2,
+    "illust_id": 1011111,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-3. 暴走する少女",
+    "name_en": "8-2-3. Runaway Girl",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108073
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 177,
+    "banner": 10210801,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108091,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-1-9. 過去の世界",
+    "name_en": "8-1-9. Past Worlds",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108081
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10308030,
+    "sort_order": 9,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308092,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001196,
+      870001194,
+      870001195,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108092,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-4. 操られた魔獣",
+    "name_en": "8-2-4. Manipulated Demon Beast",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108082
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 11,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308093,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001202,
+      870001200,
+      870001201,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108093,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-4. 操られた魔獣",
+    "name_en": "8-2-4. Manipulated Demon Beast",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108083
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000003,
+    "battle_id": 100308061,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001190,
+      870001186,
+      870001187,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108101,
+    "illust_category": 2,
+    "illust_id": 1060641,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-1. 異郷の地５",
+    "name_en": "8-2-1. A foreign land 5",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308102,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001196,
+      870001195,
+      870001192,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108102,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-5. 突破せよ！",
+    "name_en": "8-2-5. Break through!",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108092
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 11,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308103,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001202,
+      870001201,
+      870001198,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108103,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-5. 突破せよ！",
+    "name_en": "8-2-5. Break through!",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108093
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308071,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001190,
+      870001187,
+      870001185,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108111,
+    "illust_category": 2,
+    "illust_id": 1130321,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-2. 異郷の地６",
+    "name_en": "8-2-2. A Foreign Land 6",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108101
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 11,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100698,
+        "type": 7
+      },
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 10210801,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108121,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-3. 時を超える冒険者",
+    "name_en": "8-2-3. Adventurer beyond time",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108111
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10308040,
+    "sort_order": 12,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308081,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001190,
+      870001185,
+      870001188,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108131,
+    "illust_category": 2,
+    "illust_id": 1011111,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-4. 暴走する少女",
+    "name_en": "8-2-4. Runaway Girl",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108121
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 13,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100694,
+        "type": 7
+      },
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 10210801,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108141,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-5. 二つの翼",
+    "name_en": "8-2-5. Two Wings",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108131
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10308050,
+    "sort_order": 14,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308091,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001190,
+      870001188,
+      870001189,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108151,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-6. 操られた魔獣",
+    "name_en": "8-2-6. Manipulated Demon Beast",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108141
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 15,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100699,
+        "type": 7
+      },
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 10210801,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108161,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-7. 命のつかい方",
+    "name_en": "8-2-7. How to use life",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108151
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10308060,
+    "sort_order": 16,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000005,
+    "battle_id": 100308101,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001190,
+      870001189,
+      870001186,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108171,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-8. 突破せよ！",
+    "name_en": "8-2-8. Break through!",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108161
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 17,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100702,
+        "type": 7
+      },
+      {
+        "id": 1100697,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 700000146,
+    "battle_id": 100308111,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108181,
+    "illust_category": 2,
+    "illust_id": 1993601,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-9. オルレット",
+    "name_en": "8-2-9. Orlette",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108171
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 18,
+    "stamina": 8,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 178,
+    "banner": 10210801,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120108191,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "8-2-10. 望むなら乞い願え",
+    "name_en": "8-2-10. If you want, beg, please",
+    "name_en_src": "ml",
+    "number_of_story_banner": 8,
+    "prev_quest_ids": [
+      120108181
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10308070,
+    "sort_order": 19,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
   }
 ]

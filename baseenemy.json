@@ -1344,6 +1344,23 @@
     "sprite_studio": 0
   },
   {
+    "enemy_class": 1,
+    "gender": 2,
+    "id": 101111,
+    "illust": 1011111,
+    "name": "フレイヤ",
+    "name_en": "Freya",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 2,
     "gender": 9,
     "id": 102001,
@@ -2437,6 +2454,24 @@
     "rank": 1,
     "species": [
       2
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 2,
+    "gender": 9,
+    "id": 102073,
+    "illust": 1020491,
+    "name": "バタフライ",
+    "name_en": "Butterfly",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      2,
+      16,
+      82
     ],
     "sprite_studio": 0
   },
@@ -6872,6 +6907,22 @@
     "sprite_studio": 0
   },
   {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106064,
+    "illust": 1060641,
+    "name": "いもむし",
+    "name_en": "Cattail",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 7,
     "gender": 9,
     "id": 107001,
@@ -7778,6 +7829,22 @@
     "species": [
       8,
       81
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107067,
+    "illust": 1070671,
+    "name": "サハギン",
+    "name_en": "Sahagin",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8
     ],
     "sprite_studio": 0
   },
@@ -19703,6 +19770,22 @@
   },
   {
     "enemy_class": 99,
+    "gender": 9,
+    "id": 199357,
+    "illust": 1993571,
+    "name": "ドグラ",
+    "name_en": "Dogra",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 2,
     "id": 199358,
     "illust": 1993581,
@@ -19724,6 +19807,22 @@
     "illust": 1993591,
     "name": "セロイ",
     "name_en": "Selloy",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      97
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 199360,
+    "illust": 1993601,
+    "name": "オルレット",
+    "name_en": "Orlette",
     "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 0,
     "pc_flag": 0,

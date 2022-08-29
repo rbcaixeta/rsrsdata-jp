@@ -2730,6 +2730,32 @@
     "sort_order": 22082360
   },
   {
+    "expired_at": 1665255599,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800212,
+    "id": 800212,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・72",
+    "name_en": "Romancing Festival Medal 72",
+    "name_en_src": "ml",
+    "sort_order": 22083060
+  },
+  {
+    "expired_at": 1665255599,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800213,
+    "id": 800213,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・73",
+    "name_en": "Romancing Festival Medal 73",
+    "name_en_src": "ml",
+    "sort_order": 22083055
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -8724,6 +8750,19 @@
   },
   {
     "expired_at": 0,
+    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Sword] Material required to craft specific Refinement Equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100694,
+    "id": 1100694,
+    "max_quantity": 99999999,
+    "name": "瑠璃の剣の鋳型の破片",
+    "name_en": "Ruri no Sword Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22071588
+  },
+  {
+    "expired_at": 0,
     "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
     "flavor_text_en": "[Weapon Type/Greatsword] A material required to craft specific crafting equipment. You can get it at events, etc.",
     "flavor_text_en_src": "ml",
@@ -8750,6 +8789,45 @@
   },
   {
     "expired_at": 0,
+    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Club] A material required to craft specific crafting equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100697,
+    "id": 1100697,
+    "max_quantity": 99999999,
+    "name": "瑠璃の槌の鋳型の破片",
+    "name_en": "Fragment of the Ruri no Tsuchi mold",
+    "name_en_src": "ml",
+    "sort_order": 22071582
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapons/Taijutsu] Materials required to craft specific Refinement Equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100698,
+    "id": 1100698,
+    "max_quantity": 99999999,
+    "name": "瑠璃の手甲の鋳型の破片",
+    "name_en": "Fragment of the mold for Ruri's Hand",
+    "name_en_src": "ml",
+    "sort_order": 22071580
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapons/Guns] Materials required to craft specific Refinement Equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100699,
+    "id": 1100699,
+    "max_quantity": 99999999,
+    "name": "瑠璃の銃の鋳型の破片",
+    "name_en": "Ruri's Gun Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22071578
+  },
+  {
+    "expired_at": 0,
     "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
     "flavor_text_en": "[Weapon Type/Stiletto] A material required to craft specific crafting equipment. You can get it at events, etc.",
     "flavor_text_en_src": "ml",
@@ -8773,6 +8851,19 @@
     "name_en": "Fragment of the Ruri no Spear mold",
     "name_en_src": "ml",
     "sort_order": 22071574
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Type/Bow] Material required to craft specific crafting equipment. You can get it at events, etc.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100702,
+    "id": 1100702,
+    "max_quantity": 99999999,
+    "name": "瑠璃の弓の鋳型の破片",
+    "name_en": "Fragment of the Ruri Bow mold",
+    "name_en_src": "ml",
+    "sort_order": 22071572
   },
   {
     "expired_at": 0,
@@ -9293,5 +9384,18 @@
     "name_en": "An old steering wheel",
     "name_en_src": "ml",
     "sort_order": 22082318
+  },
+  {
+    "expired_at": 1664391599,
+    "flavor_text": "「リアム編第8話公開記念コイン交換所」でSS主防具「トラベラースーツ」などと交換できるアイテム。（2022/9/29 4:00まで）",
+    "flavor_text_en": "Items that can be exchanged for SS main armor “Traveler Suit” etc. at the “Liam Edition Episode 8 Release Commemorative Coin Exchange”. (Until 2022/9/29 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100746,
+    "id": 1100746,
+    "max_quantity": 99999999,
+    "name": "リアム編第8話公開記念コイン[期間限定]",
+    "name_en": "Liam Edition Episode 8 Public Commemorative Coin [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22083000
   }
 ]

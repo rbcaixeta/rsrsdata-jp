@@ -468,6 +468,66 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[聖剣を手にして]デューン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [With the Holy Sword in Your Hand] Dune exclusive piece. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 130103,
+    "id": 130103,
+    "name": "SSデューンのピース",
+    "name_en": "SS Dune Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[おとこともだち]ポルナレフ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [Otomotodachi] A piece dedicated to Polnareff. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 130201,
+    "id": 130201,
+    "name": "Sポルナレフのピース",
+    "name_en": "S Polnareff piece",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[面倒くさすぎんだろう]ポルナレフ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [That's too troublesome, isn't it?] A piece dedicated to Polnareff. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 130202,
+    "id": 130202,
+    "name": "SSポルナレフのピース",
+    "name_en": "SS Polnareff pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[おんなともだち]ミルフィー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [Onna Friend] A piece dedicated to Milfy. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 130301,
+    "id": 130301,
+    "name": "Sミルフィーのピース",
+    "name_en": "S Milfy piece",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[人を幸せにするために]ミルフィー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [To make people happy] A piece dedicated to Milfy. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 130302,
+    "id": 130302,
+    "name": "SSミルフィーのピース",
+    "name_en": "SS Milfy piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[おいていかないで！]シリュー専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Don't Leave Me!] Sharon.",
@@ -489,6 +549,42 @@
     "name": "SSシリューのピース",
     "name_en": "SS Sharon Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[やっぱり人間ね！]シリュー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [After all, it's human!] A piece dedicated to Shiryu. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 130403,
+    "id": 130403,
+    "name": "SSシリューのピース",
+    "name_en": "SS Shiryu piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[ウー　ガウ　ウー]フレイヤ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece dedicated to the S [Woo Gow] Freya. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 130601,
+    "id": 130601,
+    "name": "Sフレイヤのピース",
+    "name_en": "S Freya piece",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[もう、ここでいい]フレイヤ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece dedicated to SS [already good here] Freya. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 130602,
+    "id": 130602,
+    "name": "SSフレイヤのピース",
+    "name_en": "SS Freya pieces",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -536,6 +632,18 @@
     "id": 131002,
     "name": "SSステスロスのピース",
     "name_en": "Pieces of SS Stess Ross",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[援護射撃開始！]ステスロス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Support Shooting Starts!] A piece dedicated to Steth Ross. Can be used for Style Summon or Limit Break.",
+    "flavor_text_en_src": "ml",
+    "icon": 131003,
+    "id": 131003,
+    "name": "SSステスロスのピース",
+    "name_en": "SS STETH ROSS PIECE",
     "name_en_src": "ml",
     "selling_price": 100
   },

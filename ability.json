@@ -9672,6 +9672,187 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "バトル開始から数えて奇数ターン目に、タイプが「攻撃」である技・術(※)を使用した時、「タービュランスほう」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>バトル開始から数えて偶数ターン目の終了時、自身のHPを回復する( 効果小 )<br><br>タービュランスほう<br>剣技/攻撃/威力A/間接/敵単体 ( 斬 )<br>攻撃する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "On the odd-numbered turn counting from the start of battle, when using a skill/art (*) whose type is “Attack”, “Turbulence Hou” is <br>activated* “Techniques handed down in the R Cup” and “Activated by this ability effect Does not include “techniques and techniques to do” and “counterattack techniques and techniques with counter effects” <br><br>Recovers one's own HP at the end of the even-numbered turn counted from the start of the battle (low effect) <br><br>Turbulence <br>Sword Move/Attack/Power <br>A/Indirect/Attack the enemy alone (Kill) <br>(Activated with Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101345,
+    "name": "ステスロスの支援",
+    "name_en": "Support for STETH ROSS",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041371,
+      802041058
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "冷属性攻撃時、自身に「防御強化」( 効果小/効果3ターン )を付与し、さらに、自身のHPを回復( 効果極小 )する<br>雷属性攻撃時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Grants “Defense Up” (low effect/effect for 3 turns) to self during a Cold Attack, and restores own HP (effect is minimal) <br>during a Lightning Attack, restores own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101347,
+    "name": "アトリビュートスイッチⅡ(冷・雷)",
+    "name_en": "Attribute Switch II (Cold/Lightning)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011302,
+      802041379,
+      802041303
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +2 )<br>ターン終了時、そのターンに自身がダメージを受けていなかった場合、自身のBPを回復する( +3 )",
+    "flavor_text_en": "At the start of battle, heal your own BP (+2) <br>At the end of the turn, if you didn't take damage that turn, restore your own BP (+3)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101349,
+    "name": "影の立役者Ⅱ",
+    "name_en": "The Leading Actor in the Shadows II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040322,
+      802041307
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、そのターンに自身がHPダメージを受けていなかった場合、ターン終了時に自身のBPを回復する( +3 )",
+    "flavor_text_en": "At end of turn, if you didn't take HP damage that turn, heal your BP at end of turn (+3)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101350,
+    "name": "ターン終了時 BP回復(被ダメージが0の時)",
+    "name_en": "BP recovery at end of turn (when damage taken is 0)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041308
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "回復行動時(※)<br>味方生存者全体のHPを回復( 効果極小 )し、<br>さらに、味方生存者全体のBPを回復( +1 )する<br>※タイプが「回復」の技・術での回復を指す",
+    "flavor_text_en": "During recovery action (*) restores the <br>HP of all allied survivors (minimal effect), and <br>also restores (+1) the BP of all allied survivors (+1) <br>*Type refers to recovery with the technique or technique of “recovery”",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101351,
+    "name": "パワーヒーリングⅠ",
+    "name_en": "Power Healing I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011050,
+      802041398
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、敵の攻撃を回避する( 確率大 )<br>ただしバトル開始時、自身を狂戦士状態にする( 効果4ターン )",
+    "flavor_text_en": "Increases damage dealt by attacks (maximum effect) <br>When attacked, dodges enemy attacks (high chance), <br>but at the start of battle, change self to Berserker status (Effect for 4 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101352,
+    "name": "ドグラの呪縛",
+    "name_en": "Dogra's Spell",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802040765,
+      802031311
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>そのターンに自身がダメージを受けていなかった場合、自身のHPを回復( 効果小 )し、かつ、自身のBPを回復( +3 )する",
+    "flavor_text_en": "[End of Turn] <br>If you didn't take damage that turn, restore your own HP (less effective) and restore your own BP (+3)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101353,
+    "name": "安息の呼吸Ⅲ",
+    "name_en": "Breathing of Rest III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011312,
+      802041308
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率中 )<br>自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態とすべての状態異常を解除し、かつ、自身のBPを回復( +2 )する",
+    "flavor_text_en": "[End of Turn] Has a <br>certain chance (during probability) to <br>clear your own brawn strength, health, dexterity, quickness, intelligence, spirit, love, and charm abilities down state and all state abnormalities, and recover your own BP ( +2) Do",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101354,
+    "name": "練気快然Ⅱ",
+    "name_en": "Neriki Kaisen II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041206,
+      802040754,
+      802041207
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>味方生存者全体のODゲージを上昇させる( 確率小/効果小 )",
+    "flavor_text_en": "[End of Turn] <br>Increase the OD gauge of all allied Survivors (Low Chance/Low Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101355,
+    "name": "戦気の波紋Ⅰ",
+    "name_en": "Ripple of War I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041091
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃の、与ダメージが上昇する( 効果中 )<br>かつ、Resist攻撃を受けた時、被ダメージを軽減する( 効果中 )",
+    "flavor_text_en": "Increases damage dealt by Weak attacks (active) <br>and reduces damage taken when subjected to a Resist attack (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101356,
+    "name": "対抗集中Ⅱ",
+    "name_en": "Opposition Concentration II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040005,
+      802041313
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果中 )<br>かつ、バトル開始時、自身のBPを回復する( +1 )",
     "flavor_text_en": "Reduces damage taken when attacked (active) <br>and restores own BP at the start of battle (+1)",
     "flavor_text_en_src": "ml",
@@ -9806,6 +9987,27 @@
   },
   {
     "ability_when": 6,
+    "flavor_text": "バトル開始から数えて奇数ターン目に、タイプが「攻撃」である技・術を使用した時、「タービュランスほう」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "On the odd-numbered turn from the start of battle, when using a move or jutsu whose type is “Attack”, “Turbulence Hou” is activated <br>(Activated with Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101393,
+    "name": "奇数ターン攻撃時 追加攻撃",
+    "name_en": "Extra Attack When Attacking Odd Turns",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041295,
+      802041296,
+      802041297,
+      802041298,
+      802041299
+    ]
+  },
+  {
+    "ability_when": 6,
     "flavor_text": "攻撃命中時、自身のHPを回復( 効果極小 )し、かつ、体力を上昇( 効果中 )させる",
     "flavor_text_en": "When an attack is hit, restores one's own HP (effect is minimal) and increases health (in effect)",
     "flavor_text_en_src": "ml",
@@ -9824,6 +10026,23 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "味方生存者全体の杖装備時の与ダメージが上昇する( 効果大 )",
+    "flavor_text_en": "Increases damage dealt when equipped with canes for all allied Survivors (Great Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101395,
+    "name": "杖の教示Ⅲ",
+    "name_en": "Teaching of the Cane III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041372
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "味方生存者全体の突属性攻撃の与ダメージが上昇する( 効果中 )",
     "flavor_text_en": "Increases damage dealt by Sudden Attacks for all allied Survivors (in effect)",
     "flavor_text_en_src": "ml",
@@ -9837,6 +10056,111 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041373
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[HP満タン時] <br>与ダメージが上昇する( 効果超極大 )",
+    "flavor_text_en": "[When HP <br>is full] Damage dealt increases (Super Maximum Effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101401,
+    "name": "勇健強撃Ⅵ",
+    "name_en": "Yuken Assault V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041382
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>HP満タン時、さらに与ダメージが上昇する( 効果大 )",
+    "flavor_text_en": "Increases damage dealt by attacks (maximum effect) <br>When HP is full, damage dealt increases further (high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101402,
+    "name": "ロバストグレートテンション",
+    "name_en": "Robust great tension",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802040014
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "棍棒装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+    "flavor_text_en": "Increases damage dealt by attacks when equipped with a club (Extra Effect) <br>Reduces damage taken when receiving a Resist attack (Maximum effect) Evades <br>enemy attacks when receiving a Resist attack (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101405,
+    "name": "棍棒の天稟Ⅳ",
+    "name_en": "Clubs' Tensho IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041389,
+      802041212,
+      802041181
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時] <br>自身に「攻撃強化」を付与する( 効果大/効果1ターン )",
+    "flavor_text_en": "[Round Start] Give <br>caster “Attack Boost” (High Effect/Effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101408,
+    "name": "強襲Ⅱ",
+    "name_en": "Assault II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041392
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "剣装備時 攻撃の<br>与ダメージが上昇する( 効果極大 )",
+    "flavor_text_en": "<br>Increases damage dealt by attacks when equipped with a sword (maximum effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101425,
+    "name": "剣の秘訣Ⅴ",
+    "name_en": "The Secret of the Sword V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040805
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時] <br>敵全体をマヒさせる( 確率中/効果4ターン )",
+    "flavor_text_en": "[Round Start] <br>Paralyze all enemies (Chance/Effect for 4 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 3004,
+    "id": 702101437,
+    "name": "痺れの伝染",
+    "name_en": "Infection of numbness",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041437
     ]
   },
   {
