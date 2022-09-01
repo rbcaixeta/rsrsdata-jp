@@ -40075,6 +40075,23 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「ディフェンスアップ」を付与する( 効果小 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
+    "flavor_text_en": "[At Start of Turn] <br>Grants “Defense Up” to self (Low Effect) <br><br>Defense Up <br>Reduces damage taken (Persistent during Effect Battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 708300217,
+    "name": "メビウスバリア",
+    "name_en": "Mobius barrier",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040505
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",

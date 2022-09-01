@@ -7426,11 +7426,11 @@
     "id": 541,
     "name": "Quest_Event_1400",
     "name_en": "Quest_Event_1400",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "彼方へ~失われた魔王記",
-    "title_en": "To the other side ~ The Lost Demon King",
-    "title_en_src": "ml"
+    "title_en": "Beyond - The Lost Archfiend Chronicles",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -7634,11 +7634,11 @@
     "id": 556,
     "name": "Quest_Event_2017",
     "name_en": "Quest_Event_2017",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "七英雄襲来！暗闇の制圧戦",
-    "title_en": "Seven Heroes Invade! Domination of the Darkness",
-    "title_en_src": "ml"
+    "title_en": "Seven Heroes Attack! Darkness Conquest",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8150,11 +8150,11 @@
     "id": 597,
     "name": "Quest_Event_2017",
     "name_en": "Quest_Event_2017",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "七英雄襲来！暗闇の制圧戦",
-    "title_en": "Seven Heroes Invade! Domination of the Darkness",
-    "title_en_src": "ml"
+    "title_en": "Seven Heroes Attack! Darkness Conquest",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -9999,6 +9999,73 @@
     "size": 3,
     "title": "きらきら！サマーナイトパーティーBOX",
     "title_en": "Sparkling! Summer Night Party Box",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10969,
+      10970,
+      10971
+    ],
+    "id": 792,
+    "name": "Quest_Event_1563",
+    "name_en": "Quest_Event_1563",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "ラグナ神との戦い",
+    "title_en": "Battle with the god Laguna",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10973
+    ],
+    "id": 793,
+    "name": "Quest_Event_1564",
+    "name_en": "Quest_Event_1564",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "おたのしみカウントダウンクエスト - あと4日 -",
+    "title_en": "Fun Countdown Quest - 4 more days -",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10998
+    ],
+    "id": 798,
+    "name": "Quest_Event_1564",
+    "name_en": "Quest_Event_1564",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "おたのしみカウントダウンクエスト - あと3日 -",
+    "title_en": "Fun Countdown Quest - 3 Days to Go -",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10999
+    ],
+    "id": 799,
+    "name": "Quest_Event_1564",
+    "name_en": "Quest_Event_1564",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "おたのしみカウントダウンクエスト - あと2日 -",
+    "title_en": "Fun Countdown Quest - 2 more days -",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      10800
+    ],
+    "id": 800,
+    "name": "Quest_Event_1564",
+    "name_en": "Quest_Event_1564",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "おたのしみカウントダウンクエスト - あと1日 -",
+    "title_en": "Fun Countdown Quest - 1 more day -",
     "title_en_src": "ml"
   }
 ]

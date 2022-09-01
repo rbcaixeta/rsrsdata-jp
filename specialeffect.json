@@ -51676,6 +51676,29 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 808040505,
+    "ignition_effect_id": "",
+    "name": "ディフェンスアップ",
+    "name_en": "Defense up",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "HPを回復する",
     "flavor_text_en": "Recover your HP",
@@ -54210,6 +54233,28 @@
     "state_change_id": 900010017,
     "state_icon": 2001,
     "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の最大HPの3%を消費する",
+    "flavor_text_en": "Consumes 3% of your maximum HP",
+    "flavor_text_en_src": "ml",
+    "id": 809010712,
+    "ignition_effect_id": "",
+    "name": "自傷ダメージ",
+    "name_en": "Self-harm damage",
+    "name_en_src": "ml",
+    "state_change_id": 900050079,
+    "state_icon": 2002,
+    "state_vars": [
+      1
     ],
     "target_area": 1,
     "text_color": "",
