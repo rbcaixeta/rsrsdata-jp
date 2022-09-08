@@ -1887,14 +1887,14 @@
   {
     "expired_at": 1634237999,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800147,
     "id": 800147,
     "max_quantity": 99999999,
     "name": "Romancing祭メダル・23",
-    "name_en": "Romancing Festival Medal 23",
-    "name_en_src": "ml",
+    "name_en": "Romancing Festival Medal 52",
+    "name_en_src": "gl",
     "sort_order": 21082740
   },
   {
@@ -2030,14 +2030,14 @@
   {
     "expired_at": 1642532399,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800158,
     "id": 800158,
     "max_quantity": 99999999,
     "name": "Romancing祭メダル・32",
-    "name_en": "Romancing Festival Medal 32",
-    "name_en_src": "ml",
+    "name_en": "Romancing Festival Medal 53",
+    "name_en_src": "gl",
     "sort_order": 21112745
   },
   {
@@ -7607,27 +7607,27 @@
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100599,
     "id": 1100599,
     "max_quantity": 99999999,
     "name": "ミラクルデイパス",
     "name_en": "Miracle Day Pass",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "sort_order": 21120380
   },
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100600,
     "id": 1100600,
     "max_quantity": 99999999,
     "name": "ミラクルスイーツ",
-    "name_en": "Miracle Suites",
-    "name_en_src": "ml",
+    "name_en": "Miracle Candy",
+    "name_en_src": "gl",
     "sort_order": 21120385
   },
   {
