@@ -9853,6 +9853,79 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +1 )<br>ターン終了時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Heals own BP at the start of battle (+1). <br>At the end of turn, heal BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101357,
+    "name": "強者の決意",
+    "name_en": "Determination of the strong",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040323,
+      802041315
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "[End of Turn] <br>Restore own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101358,
+    "name": "ターン終了時 BP回復",
+    "name_en": "BP recovery at end of turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040754
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "陰属性攻撃時、自身に「攻撃強化」( 効果大/効果3ターン )を付与し、さらに、自身のBPを回復( +1 )する<br>雷属性攻撃時、自身に「防御強化」( 効果小/効果3ターン )を付与し、さらに、自身のHPを回復( 効果極小 )する",
+    "flavor_text_en": "Grants “Attack Enhancement” (high effect/effect 3 turns) to self during a negative attack, and <br>when attacking a lightning attribute that restores (+1) its own BP, “Defense Enhancement” (low effect/effect 3 turns) to itself Grants it, and also restores one's own HP (effect is minimal)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101359,
+    "name": "スボカキスイッチ",
+    "name_en": "SUBOKAKI SWITCH",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041397,
+      802041316,
+      802041403,
+      802011404
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +2 )<br>Weak攻撃命中時、自身のHPを回復( 効果極小 )し、さらに、自身のBPを回復( +1 )する",
+    "flavor_text_en": "At the start of battle, recovers own BP (+2) <br>When a Weak attack is hit, restores own HP (effect is minimal), and also restores (+1) own BP",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101361,
+    "name": "天啓の一閃Ⅱ",
+    "name_en": "One Flash of Heaven II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041336,
+      802040322
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果中 )<br>かつ、バトル開始時、自身のBPを回復する( +1 )",
     "flavor_text_en": "Reduces damage taken when attacked (active) <br>and restores own BP at the start of battle (+1)",
     "flavor_text_en_src": "ml",
@@ -9867,6 +9940,103 @@
     "special_effect_ids": [
       802041018,
       802040323
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "杖装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+    "flavor_text_en": "Increases damage dealt by attacks when equipped with a cane (special effect) <br>Reduces damage taken when receiving a Resist attack (maximum effect) Evades <br>enemy attacks when receiving a Resist attack ( (Probability is large)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101363,
+    "name": "杖の天稟Ⅳ",
+    "name_en": "Cane no Tensho IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041319,
+      802041212,
+      802041181
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "OD攻撃(※)を発動後、「クリムゾンサンフレア」が発動する<br><br>タイプが「攻撃」である技・術(※)を命中させた時、「クリムゾンフレア+」が発動する( 確率中 )<br><br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>クリムゾンサンフレア<br>火術/攻撃/威力S/間接/敵全体 ( 熱+陽 ) <br>全体攻撃する<br>( 術Rank1で発動 )<br><br>クリムゾンフレア+<br>火術/攻撃/威力SSS/間接/敵単体 ( 熱+陽 ) <br>攻撃する<br>( 術Rank1で発動 )",
+    "flavor_text_en": "After activating OD Attack (*), “Crimson Sunflare” activates <br><br>when you hit a skill/jut* whose type is “Attack”, “Crimson Flare+” is activated (with a medium chance). <br> <br>* Does not include “techniques and techniques handed down in the R Cup,” “techniques and techniques activated by this ability effect,” and “<br><br><br>counterattack techniques and techniques with counter effects,” Crimson Sunflare Firework/Attack/Power S /Indirect/Entire enemy (heat+yang) <br>Attack the whole enemy <br>(activate with Jutsu Rank1) <br><br>Crimson Flare+ <br>Fire/Attack/Power SSS/Indirect/Enemy alone (Heat+Yang) <br>Attack <br>(Activated by Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101364,
+    "name": "魔術神の気まぐれ",
+    "name_en": "The whims of the god of magic",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041320,
+      802041321
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃発動後、「クリムゾンサンフレア」が発動する<br>( 術Rank1で発動 )",
+    "flavor_text_en": "“Crimson Sunflare” is activated after an OD attack is activated <br>(activated with Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101365,
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attack during OD attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041322,
+      802041323,
+      802041359,
+      802041324,
+      802041325
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、<br>「クリムゾンフレア+」が発動する( 確率中 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "When you hit a move/jutsu whose type is “Attack”, <br>“Crimson Flare+” is activated (with chance) <br>(Activated with Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101366,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack during attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041326,
+      802041327,
+      802041328,
+      802041329,
+      802041330
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "Weak攻撃命中時、自身のHPを回復( 効果極小 )し、さらに、自身のBPを回復( +1 )する",
+    "flavor_text_en": "When a Weak attack is hit, restores own HP (effect is minimal), and also restores (+1) own BP",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101367,
+    "name": "Weak攻撃時 HP回復・BP回復",
+    "name_en": "HP recovery/BP recovery during a weak attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011318,
+      802041317
     ]
   },
   {
@@ -9904,6 +10074,117 @@
     "special_effect_ids": [
       802011338,
       802040742
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のHPを回復する( 効果極小/効果3ターン )",
+    "flavor_text_en": "[End of Turn] <br>Recover own HP (Effect Minimum/Effect for 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101371,
+    "name": "ターン終了時 HP回復(極小)",
+    "name_en": "HP recovery at end of turn (very small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040901
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果大 )<br>バトル開始時、自身に「火炎防陣」を付与する( 効果バトル中永続 )<br><br>火炎防陣<br>攻撃を受けた時 <br>熱属性を含むダメージを無効化する<br>さらに、直接攻撃に対して熱属性の火術で反撃をする<br>( パリイを使用したターンは反撃しない )",
+    "flavor_text_en": "Reduces damage taken when attacked (Great effect) <br>Grants “Fire Defense” to self at the start of battle (effect lasts during battle) <br><br><br>When Fire Defense is attacked <br> Negates damage that includes heat<br>, and counterattacks with thermal fire against direct attacks <br>(does not counterattack on turns using Parii)",
+    "flavor_text_en_src": "ml",
+    "icon": 2001,
+    "id": 702101372,
+    "name": "炎堅防陣",
+    "name_en": "Flame-resistant defense",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040361,
+      802040349
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身のHPを回復( 効果極小 )し、かつ、自身のBPを回復( +1 )する<br>回復行動時(※)、自身に「ターン終了時HP回復」を付与する( 効果極小/効果5ターン )<br>※タイプが「回復」の技・術での回復を指す",
+    "flavor_text_en": "When an attack is hit, restores own HP (effect is minimal), and during <br>recovery action (*) to restore own BP (+1), grant “HP recovery at end of turn” to self (effect minimum/effect 5 turns <br>*Type refers to recovery with the technique or technique of “recovery”",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101373,
+    "name": "倹約の教え",
+    "name_en": "The teachings of thrift",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041339,
+      802040622,
+      802040742
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果大 )<br>バトル開始時、自身に「冷気防陣」を付与する( 効果バトル中永続 )<br><br>冷気防陣<br>攻撃を受けた時 <br>冷属性を含むダメージを無効化する<br>さらに、直接攻撃に対して冷属性の水術で反撃をする<br>( パリイを使用したターンは反撃しない )",
+    "flavor_text_en": "Reduces damage taken when attacked (Great effect) <br>Grants “Cold Air Defense” to self at the start of battle (effect lasts during battle) <br><br>Cold Air Defense <br>When attacked <br> Negates damage that includes cold attributes<br>, and counterattacks with cold water jutsu against direct attacks <br>(does not counterattack on turns using Parii)",
+    "flavor_text_en_src": "ml",
+    "icon": 2003,
+    "id": 702101374,
+    "name": "冷堅防陣",
+    "name_en": "Cold defense",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040361,
+      802040357
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃時、自身のBPを回復する( +1 )<br>技攻撃時、自身の器用さと知力を上昇させる( 効果大 )<br>術攻撃時、自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "When attacking, restores own BP (+1) <br>Increases own dexterity and intelligence when attacking (great effect) <br>Recovers own HP during a jutsu attack (effect is minimal)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101375,
+    "name": "テクニカルスイッチ",
+    "name_en": "Technical switch",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041401,
+      802041340,
+      802011341,
+      802011342
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のODゲージを満タンにする<br><br>[ターン開始時]<br>ODゲージが満タンの場合、自身に「モラルアップ(特大)」を付与する( 効果1ターン )<br>ODゲージが満タンでない場合、自身に「ガードアップ(大)」を付与する( 効果1ターン )",
+    "flavor_text_en": "[Battle Start] <br>Fill up your OD Gauge <br><br>[Turn Start] <br>If your OD Gauge is full, give yourself “Moral Up (Extra Large)” (Effect 1 turn) <br>If the OD Gauge is not full, grant “Guard Up (Large)” to self (Effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101376,
+    "name": "クライマックス",
+    "name_en": "climax",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041344,
+      802041399,
+      802041402
     ]
   },
   {
@@ -10113,6 +10394,25 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "行動順補正値が上昇する( 効果小 )<br>HP満タン時、与ダメージが上昇する( 効果極大 )<br>HPが満タンではない時、被ダメージを軽減する( 効果中 )",
+    "flavor_text_en": "Action order correction value increases (low effect) <br>Damage dealt increases when HP is full (maximum effect) <br>When HP is not full, reduces damage taken (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101407,
+    "name": "臨機応変",
+    "name_en": "Be flexible",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040813,
+      802041391,
+      802040475
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "[ラウンド開始時] <br>自身に「攻撃強化」を付与する( 効果大/効果1ターン )",
     "flavor_text_en": "[Round Start] Give <br>caster “Attack Boost” (High Effect/Effect for 1 turn)",
@@ -10127,6 +10427,40 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041392
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、ODゲージが満タンの場合、自身に「モラルアップ(特大)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of turn, if the OD Gauge is full, grant “Moral Up (Extra Large)” to self (Effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101409,
+    "name": "ターン開始時 モラルアップ( ODゲージが満タンの場合/特大 )",
+    "name_en": "Moral up at start of turn (when OD gauge is full/extra large)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041186
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、ODゲージが満タンでない場合、自身に「ガードアップ(大)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of turn, if the OD Gauge is not full, grant “Guard Up (Large)” to self (Effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101410,
+    "name": "ターン開始時 ガードアップ( ODゲージが満タンでない場合/大 )",
+    "name_en": "Guard up at start of turn (when OD gauge is not full/large)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041343
     ]
   },
   {
@@ -10147,6 +10481,76 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果大 )<br>ターン開始時、自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "Reduces damage taken when attacked (Great effect) <br>At the beginning of the turn, grant “Heat Up” (active) to self (maximum number of times: 5 times during battle) <br><br>Heat up <br>Increases damage dealt by attacks (lasts during effect battles)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101428,
+    "name": "大器晩成・攻",
+    "name_en": "Large pottery late, major",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040361,
+      802041423
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "At the start of turn, give caster “Heat Up” (active). (Maximum number of times: 5 times in battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101429,
+    "name": "ターン開始時 ヒートアップ",
+    "name_en": "Heat up at the start of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040934
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>ターン開始時、自身に「ディフェンスアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
+    "flavor_text_en": "Increases damage dealt by attacks (Super Effect) <br>At the beginning of turn, grant “Defense Up” (active) to self (max.: 5 times during battle) <br><br>Defense Up <br>Reduces damage taken (lasts during effect battles)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101430,
+    "name": "大器晩成・防",
+    "name_en": "Large pottery late growth/defense",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802041424
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「ディフェンスアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "At the start of your turn, grant yourself “Defense Up” (active). (Maximum number of times: 5 times in battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101431,
+    "name": "ターン開始時 ディフェンスアップ",
+    "name_en": "Defense up at the start of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041036
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "[ラウンド開始時] <br>敵全体をマヒさせる( 確率中/効果4ターン )",
     "flavor_text_en": "[Round Start] <br>Paralyze all enemies (Chance/Effect for 4 turns)",
@@ -10161,6 +10565,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041437
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のHPを回復する( 効果極小/効果5ターン )",
+    "flavor_text_en": "[End of Turn] <br>Recover own HP (Effect Minimum/Effect for 5 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101462,
+    "name": "ターン終了時 HP回復(極小)",
+    "name_en": "HP recovery at end of turn (very small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040901
     ]
   },
   {
@@ -41720,6 +42141,25 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "雷属性で敵を攻撃時　敵に与えるダメージが33%上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies by 33% when attacking enemies with Lightning",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100006,
+    "name": "雷＋",
+    "name_en": "Lightning +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "雷＋ 33%",
+    "simple_flavor_text_en": "Lightning + 33%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 270000035,
+    "special_effect_ids": [
+      811040006
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "陽属性で敵を攻撃時　敵に与えるダメージが33%上昇する",
     "flavor_text_en": "Sun attacks' damage increases by 33%.",
     "flavor_text_en_src": "gl",
@@ -42139,6 +42579,25 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "常時　Weak攻撃ダメージが33%上昇する",
+    "flavor_text_en": "Always-on Weak attack damage increased by 33%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100036,
+    "name": "弱点＋",
+    "name_en": "Weaknesses +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "弱点＋ 33%",
+    "simple_flavor_text_en": "Weaknesses + 33%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000015,
+    "special_effect_ids": [
+      811040036
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "斬属性で敵を攻撃時　敵に与えるダメージが22%上昇する",
     "flavor_text_en": "Slash attacks' damage increases by 22%.",
     "flavor_text_en_src": "gl",
@@ -42230,6 +42689,25 @@
     "sort_order": 270000044,
     "special_effect_ids": [
       811040086
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "雷属性で敵を攻撃時　敵に与えるダメージが22%上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies by 22% when attacking enemies with Lightning",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100087,
+    "name": "雷＋",
+    "name_en": "Lightning +",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "雷＋ 22%",
+    "simple_flavor_text_en": "Lightning +22%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 270000034,
+    "special_effect_ids": [
+      811040087
     ]
   },
   {
@@ -42653,6 +43131,25 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "常時　Weak攻撃ダメージが22%上昇する",
+    "flavor_text_en": "Always-on Weak attack damage increased by 22%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100117,
+    "name": "弱点＋",
+    "name_en": "Weaknesses +",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "弱点＋ 22%",
+    "simple_flavor_text_en": "Weaknesses + 22%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000014,
+    "special_effect_ids": [
+      811040117
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "斬属性で敵を攻撃時　敵に与えるダメージが11%上昇する",
     "flavor_text_en": "Slash attacks' damage increases by 11%.",
     "flavor_text_en_src": "gl",
@@ -42744,6 +43241,25 @@
     "sort_order": 270000043,
     "special_effect_ids": [
       811040167
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "雷属性で敵を攻撃時　敵に与えるダメージが11%上昇する",
+    "flavor_text_en": "Increases damage dealt to enemies by 11% when attacking enemies with Lightning",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100168,
+    "name": "雷＋",
+    "name_en": "Lightning +",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "雷＋ 11%",
+    "simple_flavor_text_en": "Lightning + 11%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 270000033,
+    "special_effect_ids": [
+      811040168
     ]
   },
   {
@@ -43163,6 +43679,25 @@
     "sort_order": 210000013,
     "special_effect_ids": [
       811040197
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "常時　Weak攻撃ダメージが11%上昇する",
+    "flavor_text_en": "Increases damage from Weak attacks by 11% at all times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100198,
+    "name": "弱点＋",
+    "name_en": "Weaknesses +",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "弱点＋ 11%",
+    "simple_flavor_text_en": "Weaknesses + 11%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000013,
+    "special_effect_ids": [
+      811040198
     ]
   },
   {

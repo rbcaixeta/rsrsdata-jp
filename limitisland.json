@@ -967,5 +967,22 @@
       1177
     ],
     "limit_island_reward_set_id": 1004
+  },
+  {
+    "id": 1070,
+    "area_id": 920001,
+    "start_at": 1663527600,
+    "end_at": 1664132399,
+    "rule_summary": "初期BP10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1184,
+      1185,
+      1186
+    ],
+    "limit_island_reward_set_id": 1004
   }
 ]

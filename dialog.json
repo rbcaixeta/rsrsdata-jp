@@ -2637,5 +2637,31 @@
     "title": "リセット",
     "title_en": "resetting",
     "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 213,
+    "name": "PanelShop_ItemExchange_End",
+    "name_en": "PanelShop_ItemExchange_END",
+    "name_en_src": "ml",
+    "text": "全てのパネル報酬を交換しました。<br>以降パネル報酬は交換はできません。",
+    "title": "全パネル報酬交換終了",
+    "title_en": "End of all panel reward exchanges",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 216,
+    "name": "PanelShop_Expired_Confirm",
+    "name_en": "PanelShop_expired_confirm",
+    "name_en_src": "ml",
+    "text": "パネル交換所の有効期限が切れました。<br>\nホーム画面に戻ります。",
+    "title": "有効期限切れ",
+    "title_en": "Expired",
+    "title_en_src": "ml"
   }
 ]

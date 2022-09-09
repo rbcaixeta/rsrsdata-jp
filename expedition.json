@@ -423,5 +423,30 @@
     "required_quest_id": 120103103,
     "sort_order": 83,
     "ticket_cost": 70
+  },
+  {
+    "background_id": 700000095,
+    "close_at": 0,
+    "difficulty": 4,
+    "drop_group_ids": [
+      880000036,
+      880000037
+    ],
+    "flavor_text": "HP1600まで、各能力値150までのキャラを推奨",
+    "flavor_text_en": "Characters up to HP1600 and each ability value up to 150 are recommended",
+    "flavor_text_en_src": "ml",
+    "growth_difficulty": 148,
+    "id": 6700019,
+    "jewel_cost": 0,
+    "name": "湖畔",
+    "name_en": "Lakeside",
+    "name_en_src": "ml",
+    "open_at": 0,
+    "recommended_status": 150,
+    "required_hours": 21,
+    "required_player_rank": 180,
+    "required_quest_id": 120104103,
+    "sort_order": 82,
+    "ticket_cost": 74
   }
 ]

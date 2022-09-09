@@ -831,5 +831,107 @@
         "rate": 5200
       }
     ]
+  },
+  {
+    "id": 100080001,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100080001,
+        "rate": 600
+      },
+      {
+        "ability_deck_id": 100080002,
+        "rate": 700
+      },
+      {
+        "ability_deck_id": 100080003,
+        "rate": 3500
+      },
+      {
+        "ability_deck_id": 100080004,
+        "rate": 5200
+      }
+    ]
+  },
+  {
+    "id": 100080002,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100080005,
+        "rate": 4600
+      },
+      {
+        "ability_deck_id": 100080006,
+        "rate": 5400
+      }
+    ]
+  },
+  {
+    "id": 100080003,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100080007,
+        "rate": 600
+      },
+      {
+        "ability_deck_id": 100080008,
+        "rate": 700
+      },
+      {
+        "ability_deck_id": 100080009,
+        "rate": 3500
+      },
+      {
+        "ability_deck_id": 100080010,
+        "rate": 5200
+      }
+    ]
+  },
+  {
+    "id": 100080004,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100080011,
+        "rate": 4600
+      },
+      {
+        "ability_deck_id": 100080012,
+        "rate": 5400
+      }
+    ]
+  },
+  {
+    "id": 100080005,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100080013,
+        "rate": 600
+      },
+      {
+        "ability_deck_id": 100080014,
+        "rate": 700
+      },
+      {
+        "ability_deck_id": 100080015,
+        "rate": 3500
+      },
+      {
+        "ability_deck_id": 100080016,
+        "rate": 5200
+      }
+    ]
+  },
+  {
+    "id": 100080006,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100080017,
+        "rate": 4600
+      },
+      {
+        "ability_deck_id": 100080018,
+        "rate": 5400
+      }
+    ]
   }
 ]

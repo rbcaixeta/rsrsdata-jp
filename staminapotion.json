@@ -2406,5 +2406,47 @@
     "name_en_src": "ml",
     "sort_order": 22082315,
     "value": 90
+  },
+  {
+    "expired_at": 1670612399,
+    "flavor_text": "[期間限定]スタミナを30回復させるアイテム（2022/12/10 4:00まで）",
+    "flavor_text_en": "[Limited Time Offer] Item that restores 30 stamina (until 2022 12/10 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 840187,
+    "id": 840187,
+    "max_quantity": 99999,
+    "name": "Romancing佐賀グランドツアー2022！スタミナ回復剤(小)[期間限定]",
+    "name_en": "Romancing Saga Grand Tour 2022! Stamina Recovery Agent (Small) [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22090905,
+    "value": 30
+  },
+  {
+    "expired_at": 1670612399,
+    "flavor_text": "[期間限定]スタミナを60回復させるアイテム（2022/12/10 4:00まで）",
+    "flavor_text_en": "[Limited Time Offer] Item that restores 60 stamina (until 2022/12/10 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 840188,
+    "id": 840188,
+    "max_quantity": 99999,
+    "name": "Romancing佐賀グランドツアー2022！スタミナ回復剤(中)[期間限定]",
+    "name_en": "Romancing Saga Grand Tour 2022! Stamina Recovery Agent (Medium) [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22090910,
+    "value": 60
+  },
+  {
+    "expired_at": 1670612399,
+    "flavor_text": "[期間限定]スタミナを90回復させるアイテム（2022/12/10 4:00まで）",
+    "flavor_text_en": "[Limited Time Offer] Item that restores 90 stamina (until 2022 12/10 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 840189,
+    "id": 840189,
+    "max_quantity": 99999,
+    "name": "Romancing佐賀グランドツアー2022！スタミナ回復剤(大)[期間限定]",
+    "name_en": "Romancing Saga Grand Tour 2022! Stamina Recovery Agent (Large) [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22090915,
+    "value": 90
   }
 ]
