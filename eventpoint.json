@@ -2782,6 +2782,32 @@
     "sort_order": 22090965
   },
   {
+    "expired_at": 1667415599,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800216,
+    "id": 800216,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・76",
+    "name_en": "Romancing festival medal 76",
+    "name_en_src": "ml",
+    "sort_order": 22091660
+  },
+  {
+    "expired_at": 1667415599,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800217,
+    "id": 800217,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・77",
+    "name_en": "Romancing Festival Medal 77",
+    "name_en_src": "ml",
+    "sort_order": 22091655
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -9527,5 +9553,44 @@
     "name_en": "Rare mold piece of Zhu Heki (cane)",
     "name_en_src": "ml",
     "sort_order": 22090955
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. You can exchange it for an item at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100755,
+    "id": 1100755,
+    "max_quantity": 99999999,
+    "name": "弓野人形",
+    "name_en": "Yumino puppet",
+    "name_en_src": "ml",
+    "sort_order": 22091605
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. You can exchange it for an item at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100756,
+    "id": 1100756,
+    "max_quantity": 99999999,
+    "name": "肥前びーどろの盃",
+    "name_en": "Hizen Vidro no Kai",
+    "name_en_src": "ml",
+    "sort_order": 22091610
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. You can exchange it for an item at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100757,
+    "id": 1100757,
+    "max_quantity": 99999999,
+    "name": "佐賀の反物",
+    "name_en": "Saga cloth",
+    "name_en_src": "ml",
+    "sort_order": 22091615
   }
 ]

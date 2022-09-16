@@ -7704,6 +7704,39 @@
   {
     "enemy_class": 7,
     "gender": 9,
+    "id": 107057,
+    "illust": 1070571,
+    "name": "クラブマン",
+    "name_en": "Clubman",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      11
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107058,
+    "illust": 1070581,
+    "name": "アスピドケロン",
+    "name_en": "aspirocerone",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      11,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
     "id": 107059,
     "illust": 1070591,
     "name": "ウィッチクローカー",
@@ -7911,6 +7944,22 @@
       8
     ],
     "sprite_studio": 0
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107073,
+    "illust": 1070731,
+    "name": "呼子イカ",
+    "name_en": "Yobuko squid",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8
+    ],
+    "sprite_studio": 1
   },
   {
     "enemy_class": 8,
@@ -10155,6 +10204,54 @@
   {
     "enemy_class": 11,
     "gender": 9,
+    "id": 111056,
+    "illust": 1110561,
+    "name": "式魔",
+    "name_en": "Shikimo",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      12
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 11,
+    "gender": 9,
+    "id": 111057,
+    "illust": 1110571,
+    "name": "魔本・入門篇",
+    "name_en": "Introduction to Demon Books",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      12
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 11,
+    "gender": 9,
+    "id": 111058,
+    "illust": 1110581,
+    "name": "サタナキア",
+    "name_en": "Satanakia",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      12
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 11,
+    "gender": 9,
     "id": 111059,
     "illust": 1110591,
     "name": "ジャム",
@@ -11098,6 +11195,70 @@
   {
     "enemy_class": 12,
     "gender": 9,
+    "id": 112064,
+    "illust": 1120641,
+    "name": "ハミットアイ",
+    "name_en": "Hamit eye",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 12,
+    "gender": 9,
+    "id": 112066,
+    "illust": 1120661,
+    "name": "ピー",
+    "name_en": "P",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 12,
+    "gender": 9,
+    "id": 112067,
+    "illust": 1120671,
+    "name": "グール",
+    "name_en": "Ghoul",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 12,
+    "gender": 9,
+    "id": 112068,
+    "illust": 1120681,
+    "name": "スカルクロウラー",
+    "name_en": "skull crawler",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 12,
+    "gender": 9,
     "id": 112069,
     "illust": 1120691,
     "name": "ライダーゴースト",
@@ -11832,6 +11993,23 @@
     "rank": 1,
     "species": [
       5,
+      84,
+      13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 13,
+    "gender": 9,
+    "id": 113044,
+    "illust": 1130441,
+    "name": "スケルトン",
+    "name_en": "skeletons",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
       84,
       13
     ],
@@ -13343,6 +13521,38 @@
     "enemy_class": 15,
     "gender": 9,
     "id": 115048,
+    "illust": 1150481,
+    "name": "スライム",
+    "name_en": "slime",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 15,
+    "gender": 9,
+    "id": 115049,
+    "illust": 1150481,
+    "name": "スライム",
+    "name_en": "slime",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 15,
+    "gender": 9,
+    "id": 115050,
     "illust": 1150481,
     "name": "スライム",
     "name_en": "slime",
@@ -19845,6 +20055,70 @@
     "rank": 1,
     "species": [
       8
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199362,
+    "illust": 1993621,
+    "name": "アラケス",
+    "name_en": "Arakes",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199363,
+    "illust": 1993631,
+    "name": "フォルネウス",
+    "name_en": "Fornaeus",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 199364,
+    "illust": 1993641,
+    "name": "ビューネイ",
+    "name_en": "Beeney",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      97
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199365,
+    "illust": 1993651,
+    "name": "アウナス",
+    "name_en": "Aunas",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      96
     ],
     "sprite_studio": 1
   },

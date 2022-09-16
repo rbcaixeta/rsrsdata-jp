@@ -313,6 +313,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[最終防衛システム？]めがみ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [final defense system?] A special piece for eyeglasses. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 121304,
+    "id": 121304,
+    "name": "SSめがみのピース",
+    "name_en": "SS eyeglass piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[八丁堀のお玉よ]おたま専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Hana of Hatchobori] Hana.",
     "flavor_text_en_src": "gl",
@@ -3720,6 +3732,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[研ぎ澄ました心で]ノエル専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [With a Sharpened Heart] Noel's exclusive piece. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 229209,
+    "id": 229209,
+    "name": "SSノエルのピース",
+    "name_en": "SS Noel's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[うるさい人はキライよ]ロックブーケ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [I Hate Annoying People] Rocbouquet.",
@@ -4524,6 +4548,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[たまには休息を]モニカ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Take a break once in a while] Monica's exclusive piece. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 230715,
+    "id": 230715,
+    "name": "SSモニカのピース",
+    "name_en": "SS Monica's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[マスカレイド]カタリナ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Masquerade] Katarina. ",
@@ -4617,6 +4653,18 @@
     "name": "SSカタリナのピース",
     "name_en": "SS Katarina Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[神前の誓]カタリナ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Oath of the Shinto] Katarina exclusive piece. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 230812,
+    "id": 230812,
+    "name": "SSカタリナのピース",
+    "name_en": "SS Katarina's Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -7909,6 +7957,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[針の城にも劣るまい]オルロワージュ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [not inferior to Castle of the Needles] Orloige exclusive piece. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 319604,
+    "id": 319604,
+    "name": "SSオルロワージュのピース",
+    "name_en": "SS Horloige pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[ボクが隊長だ！]タイム専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "SS [I'm the captain!] A piece dedicated to time Can be used to summon a style or break through the limit.",
     "flavor_text_en_src": "ml",
@@ -8012,6 +8072,18 @@
     "id": 320110,
     "name": "SSギュスターヴのピース",
     "name_en": "Pieces by SS Gustave",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[俺のは手作業だぞ]ギュスターヴ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [mine is hand made] piece exclusive to Gustave. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 320112,
+    "id": 320112,
+    "name": "SSギュスターヴのピース",
+    "name_en": "SS Gustave's piece",
     "name_en_src": "ml",
     "selling_price": 100
   },

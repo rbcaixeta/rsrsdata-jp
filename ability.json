@@ -10249,6 +10249,119 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br><br>[ターン開始時] <br>自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 確率大/効果特大 )<br>自身に「攻撃強化」を付与する( 確率大/効果極大/効果3ターン )<br>自身を回避状態にする( 確率大/効果1ターン )",
+    "flavor_text_en": "Increases damage dealt by attacks (extra effective) <br><br>[at start of turn] <br>Increases one's strength, strength, dexterity, intelligence, spirit, love, and attractiveness (high probability/great effect) <br>Give yourself an “attack boost” (high probability/maximum effect/effect for 3 turns) and <br>evade yourself (high probability/effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101382,
+    "name": "妖魔の矜持",
+    "name_en": "Youma's Pride",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041360,
+      802041361,
+      802041362,
+      802040346
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 確率大/効果特大 )",
+    "flavor_text_en": "At the start of a turn, increase your own strength, strength, dexterity, quickness, intelligence, spirit, love, and attractiveness (high probability/great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101383,
+    "name": "ターン開始時 全能力アップ(特大)",
+    "name_en": "All abilities increased at the start of a turn (extra large)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011406,
+      802011430,
+      802011431,
+      802011432,
+      802011433,
+      802011434,
+      802011435,
+      802011436
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「攻撃強化」を付与する( 確率大/効果極大/効果3ターン )",
+    "flavor_text_en": "At the start of a turn, give yourself an “Attack Boost” (High Probility/Maximum Effect/Effect for 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101384,
+    "name": "ターン開始時 攻撃強化",
+    "name_en": "Attack enhancement at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041363
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身を回避状態にする( 確率大/効果1ターン )",
+    "flavor_text_en": "At the start of a turn, evade yourself (high probability/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4006,
+    "id": 702101385,
+    "name": "ターン開始時 回避状態",
+    "name_en": "Evasion state at start of turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041407
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方生存者全体の弓装備時の与ダメージが上昇する( 効果大 )",
+    "flavor_text_en": "Damage dealt by all allied survivors when equipped with a bow is increased (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101386,
+    "name": "弓の教示Ⅲ",
+    "name_en": "The Teach of the Bow III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041364
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の知力を上昇させる( 効果中 )<br>さらに、自身のBPを回復する( +1 )",
+    "flavor_text_en": "[Start of turn] <br>Increases your own intelligence (in effect<br>) and restores your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101387,
+    "name": "練気熟達Ⅱ(知力)",
+    "name_en": "Neriki Jutatsu II (Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010601,
+      802040812
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>一定の確率で( 確率特大 )<br>自身に「攻撃強化」( 効果特大/効果3ターン )を付与し、<br>かつ、自身のBPを回復( +2 )する",
     "flavor_text_en": "[Turn Start] Has <br>a certain chance (Extra Chance) <br>to grant caster “Attack Boost” (Oversized Effect/Effect for 3 <br>turns) and restore (+2) own BP",
@@ -10264,6 +10377,77 @@
     "special_effect_ids": [
       802041365,
       802040754
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身の腕力を上昇させる( 効果中 )<br>さらに、自身に「攻撃強化」を付与する( 効果特大/効果3ターン )<br><br>ただし、バトル開始から数えて偶数ターン目の開始時<br>自身に「防御弱化」を付与する( 効果小/効果1ターン )",
+    "flavor_text_en": "<br>Increases one's own strength at the start of the odd-numbered turn counting from the start of the battle (in effect)<br>, and grants “attack enhancement” to itself (effect oversize/effect for 3 turns), <br><br>however <br>Give yourself “Defense Weakening” at the start of an even-numbered turn counting from the start of the battle (small effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101389,
+    "name": "勇往邁進Ⅱ(腕力)",
+    "name_en": "Courage and Propulsion II (Strength)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041366,
+      802041367
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時<br>自身の腕力を上昇させる( 効果中 )<br>さらに、自身に「攻撃強化」を付与する( 効果特大/効果3ターン )",
+    "flavor_text_en": "<br>Increases your own strength at the start of the odd-numbered turn counting from the start of the battle (in effect)<br>, and grants “Attack Enhancement” to yourself (effect oversize/effect for 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101390,
+    "name": "奇数ターン開始時 腕力アップ・攻撃強化",
+    "name_en": "Increases strength and attacks at the start of odd-numbered turns",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010858,
+      802041365
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時<br>自身に「防御弱化」を付与する( 効果小/効果1ターン )",
+    "flavor_text_en": "<br>Give yourself “Defense Weakening” at the start of an even-numbered turn counting from the start of the battle (small effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101391,
+    "name": "偶数ターン開始時 防御弱化",
+    "name_en": "Defense weakens when starting an even-numbered turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011369
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br>攻撃命中時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Damage dealt by attacks is increased (high effect) <br>When an attack is hit, it restores its own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101392,
+    "name": "賦活の練気Ⅲ",
+    "name_en": "Activation Neriki III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802041462
     ]
   },
   {
@@ -10565,6 +10749,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041437
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "<br>Recover your own BP when hit by an attack (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101455,
+    "name": "攻撃時 BP回復",
+    "name_en": "BP recovery during attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040742
     ]
   },
   {
