@@ -2043,14 +2043,14 @@
   {
     "expired_at": 1642532399,
     "flavor_text": "特定のウルトラデラックスガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by running certain Ultra Deluxe Gacha. You can exchange items and styles at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800159,
     "id": 800159,
     "max_quantity": 99999999,
     "name": "ウルトラデラックスガチャメダル・28",
-    "name_en": "Ultra Deluxe Gacha Medal 28",
-    "name_en_src": "ml",
+    "name_en": "Ultra Deluxe Summon Medal 26",
+    "name_en_src": "gl",
     "sort_order": 21120645
   },
   {
@@ -2082,14 +2082,14 @@
   {
     "expired_at": 1642964399,
     "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "An item that can be obtained by executing a specific Saga Soul Gacha. You can exchange items and styles at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800162,
     "id": 800162,
     "max_quantity": 99999999,
     "name": "サガ魂メダル・6",
-    "name_en": "Saga Tamashii Medal 6",
-    "name_en_src": "ml",
+    "name_en": "SaGa Soul Medal 6",
+    "name_en_src": "gl",
     "sort_order": 21121045
   },
   {
@@ -7737,27 +7737,27 @@
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100608,
     "id": 1100608,
     "max_quantity": 99999999,
     "name": "ワンダーナイトパス",
     "name_en": "Wonder Night Pass",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "sort_order": 21121605
   },
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the corresponding event. Can be exchanged for items at the Exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100609,
     "id": 1100609,
     "max_quantity": 99999999,
     "name": "ワンダーチョコ",
-    "name_en": "Wonder chocolate",
-    "name_en_src": "ml",
+    "name_en": "Wonder Chocolate",
+    "name_en_src": "gl",
     "sort_order": 21121610
   },
   {
