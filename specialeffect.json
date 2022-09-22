@@ -14541,6 +14541,28 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "BPが回復する",
+    "flavor_text_en": "Will BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 801041322,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      10
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "腕力が上昇する",
     "flavor_text_en": "Increases STR.",
@@ -20132,6 +20154,27 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "愛が上昇する",
+    "flavor_text_en": "Love will rise",
+    "flavor_text_en_src": "ml",
+    "id": 802011405,
+    "ignition_effect_id": "",
+    "name": "愛アップ",
+    "name_en": "Love up",
+    "name_en_src": "ml",
+    "state_change_id": 900010018,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "愛↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -37558,6 +37601,28 @@
     ]
   },
   {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃時、アイスの山風が発動する",
+    "flavor_text_en": "When attacking, the ice cream Yamakaze is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041356,
+    "ignition_effect_id": "",
+    "name": "おかわりアイス",
+    "name_en": "Refill ice cream",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110200285
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "おかわりアイス",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "OD攻撃で技3を発動後、クリムゾンサンフレアで攻撃を行う",
@@ -53398,6 +53463,28 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 808040511,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "HPを回復する",
     "flavor_text_en": "Recover your HP",
@@ -65571,6 +65658,29 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       50053
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "大剣を装備時 冷属性攻撃で敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies with cold attacks increases when equipped with a large sword",
+    "flavor_text_en_src": "ml",
+    "id": 811040564,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(大剣・冷)",
+    "name_en": "Damage up (big sword, cold)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21002,
+      22005
     ]
   },
   {

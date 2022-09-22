@@ -10231,6 +10231,23 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "攻撃時、「アイスの山風」が発動する( 上限回数:ラウンド中1回 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When attacking, “Ice Mountain Breeze” is activated (maximum number of times: 1 in a round) <br>(activated with move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101379,
+    "name": "おかわりアイス",
+    "name_en": "Refill ice cream",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041356
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>一定の確率で( 確率中 )<br>自身を回避状態( 効果1ターン )にし、<br>さらに、自身の器用さを上昇( 効果中 )させる",
     "flavor_text_en": "[Start of Turn] Has <br>a certain chance (during chance) to <br>dodge itself (effect 1 turn), and <br>increase caster's dexterity (during effect)",
@@ -10645,6 +10662,24 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041343
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身を挑発状態( 効果小/効果4ターン )にし、かつ、自身の愛を上昇( 効果中 )させる",
+    "flavor_text_en": "[At the start of turn] Set <br>yourself to a provocative state (small effect/effect for 4 turns) and increase your love (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101411,
+    "name": "ゆずれぬ想い",
+    "name_en": "Undisturbed feelings",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040257,
+      802011405
     ]
   },
   {
@@ -38919,6 +38954,23 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "大剣装備時　冷属性攻撃の<br>与ダメージが上昇する",
+    "flavor_text_en": "The <br>damage dealt by the Great Sword Equipment Time Cold Attack is increased",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 703101048,
+    "name": "【武器聖石】アイス大剣の達人",
+    "name_en": "[Weapon Sacred Stone] Master of the Ice Sword",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      811040564
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "攻撃命中時<br>対象の毒耐性を低下させる( 確率中 )",
     "flavor_text_en": "When landing an attack, reduces target's poison resistance (medium chance).",
@@ -40711,6 +40763,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040505
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ヒートアップ」を付与する( 効果小 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "At the start of an even-numbered turn counting from the start of the battle, <br><br><br>damage dealt by heat-up attacks that give yourself “heat-up” (small effect) increases (effect lasts during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300222,
+    "name": "偶の奮起Ⅰ",
+    "name_en": "The Accidental Uprising I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040511
     ]
   },
   {

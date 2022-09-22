@@ -1428,6 +1428,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 150,
+    "flavor_text": "S[新しいイメージで]ガラハド専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [with new image] Galahad exclusive piece. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 211302,
+    "id": 211302,
+    "name": "Sガラハドのピース",
+    "name_en": "S Galahad's piece",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
     "exchange_cost": 250,
     "flavor_text": "SS[アイスソードの真価]ガラハド専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [The Ice Sword's True Powers] Galahad.",
@@ -1437,6 +1449,18 @@
     "name": "SSガラハドのピース",
     "name_en": "SS Galahad Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[念願のアイス！？]ガラハド専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [the ice cream I've been longing for!?] A piece dedicated to Galahad. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 211304,
+    "id": 211304,
+    "name": "SSガラハドのピース",
+    "name_en": "SS GALAHAD'S PEACE",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
