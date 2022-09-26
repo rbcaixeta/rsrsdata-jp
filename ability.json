@@ -4346,7 +4346,7 @@
   {
     "ability_when": 1,
     "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の知力を上昇させる( 効果特大 )<br>バトル開始から数えて偶数ターン目の開始時、自身の素早さを上昇させる( 効果特大 )",
-    "flavor_text_en": "On odd turns counting from the start of battle, increases own INT (very large effect).<br>On even turns, increases own AGI (very large effect).",
+    "flavor_text_en": "On odd turns counting from the start of battle, increases own INT (very large effect).<br>On even turns counting from the start of battle, increases own AGI (very large effect).",
     "flavor_text_en_src": "gl",
     "icon": 4001,
     "id": 702100757,
@@ -4366,7 +4366,7 @@
   {
     "ability_when": 1,
     "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の素早さを上昇させる( 効果特大 )<br>バトル開始から数えて偶数ターン目の開始時、自身の腕力を上昇させる( 効果特大 )",
-    "flavor_text_en": "On odd turns counting from the start of battle, increases own AGI (very large effect).<br>On even turns, increases own STR (very large effect).",
+    "flavor_text_en": "On odd turns counting from the start of battle, increases own AGI (very large effect).<br>On even turns counting from the start of battle, increases own STR (very large effect).",
     "flavor_text_en_src": "gl",
     "icon": 4001,
     "id": 702100760,
@@ -13107,7 +13107,7 @@
   {
     "ability_when": 3,
     "flavor_text": "バトル開始から数えて奇数ターン目の開始時、知力が上昇する( 効果特大 )",
-    "flavor_text_en": "On odd turns counting from the start of battle, increases  INT (very large effect).",
+    "flavor_text_en": "On odd turns counting from the start of battle, increases INT (very large effect).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702300755,
@@ -13164,7 +13164,7 @@
   {
     "ability_when": 3,
     "flavor_text": "バトル開始から数えて奇数ターン目の開始時、素早さが上昇する( 効果特大 )",
-    "flavor_text_en": "On odd turns counting from the start of battle, increases  AGI (very large effect).",
+    "flavor_text_en": "On odd turns counting from the start of battle, increases AGI (very large effect).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702300759,
@@ -39753,7 +39753,7 @@
   {
     "ability_when": 1,
     "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに陰属性攻撃強化( 効果特大/効果1ターン )を付与する<br>バトル開始から数えて偶数ターン目の開始時、自身にウォールを付与する( 効果1ターン )",
-    "flavor_text_en": "On odd turns counting from the start of battle, increases own INT (large effect) and grants oneself a shadow attack boost (very large effect/1 turn(s)).<br>On even turns, grants oneself Barrier (1 turn(s)).",
+    "flavor_text_en": "On odd turns counting from the start of battle, increases own INT (large effect) and grants oneself a shadow attack boost (very large effect/1 turn(s)).<br>On even turns counting from the start of battle, grants oneself Barrier (1 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 708100148,
