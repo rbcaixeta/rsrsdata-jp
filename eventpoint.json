@@ -2821,6 +2821,19 @@
     "sort_order": 22092360
   },
   {
+    "expired_at": 1667415599,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800219,
+    "id": 800219,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・78",
+    "name_en": "Romancing Festival Medal 78",
+    "name_en_src": "ml",
+    "sort_order": 22093060
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -9631,5 +9644,18 @@
     "name_en": "Black Mont Blanc BOX Gacha Ticket [Limited Time Offer] ",
     "name_en_src": "ml",
     "sort_order": 22092300
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. You can exchange it for an item at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100761,
+    "id": 1100761,
+    "max_quantity": 99999999,
+    "name": "ロマ佐賀ポストカード",
+    "name_en": "Roma Saga Postcard",
+    "name_en_src": "ml",
+    "sort_order": 22093020
   }
 ]

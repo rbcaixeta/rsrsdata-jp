@@ -10595,6 +10595,25 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>一定の確率で( 確率小 )<br>自身に「ダメージブロック」( 効果1ターン )を付与し、<br>さらに、自身のHPを回復( 効果小 )し、自身のBPを回復( +2 )する<br><br>ダメージブロック<br>被ダメージを100%カットする",
+    "flavor_text_en": "[At the start of a turn] There is a <br>certain chance (low probability) that <br>you will receive a “damage block” (effect 1 turn)<br>, and also restore your own HP (small effect), and gain your own BP Heal (+2) <br><br>damage block <br>Cut damage taken by 100%",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101406,
+    "name": "安全確保Ⅰ",
+    "name_en": "Ensuring Safety I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040966,
+      802040062,
+      802040754
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "行動順補正値が上昇する( 効果小 )<br>HP満タン時、与ダメージが上昇する( 効果極大 )<br>HPが満タンではない時、被ダメージを軽減する( 効果中 )",
     "flavor_text_en": "Action order correction value increases (low effect) <br>Damage dealt increases when HP is full (maximum effect) <br>When HP is not full, reduces damage taken (in effect)",
@@ -10680,6 +10699,221 @@
     "special_effect_ids": [
       802040257,
       802011405
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ラウンド開始時]<br>自身に「ヒートアップ」( 効果大 )を付与する( 上限回数:バトル中10回 )<br>敵全体に「ディフェンスダウン」を付与する( 効果中 )<br><br>[バトル開始から数えて3の倍数のターン開始時]<br>味方生存者全体の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )<br><br>ディフェンスダウン<br>被ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "[At the start of a round] <br>Give yourself a “heat up” (great effect) (maximum number of times: 10 times during battle), and <br>grant “defense down” to all enemies (in effect) <br> <br>[At the start of a turn that is a multiple of 3 counting from the start of the battle] <br><br><br>Heat-up unlocks the strength, health, dexterity, quickness, intelligence, spirit, love, and charm abilities of all allied survivors <br>Damage dealt by attacks is increased (permanent during effect battles), <br><br>defense down, <br>damage taken increases (permanent during effect battles)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101412,
+    "name": "魔海侯の領域",
+    "name_en": "The Realm of Mahaishou",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041408,
+      802041409,
+      802041410
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "ラウンド開始時、自身に「ヒートアップ」( 効果大 )を付与する( 上限回数:バトル中10回 )",
+    "flavor_text_en": "At the start of a round, give yourself a “heat up” (great effect) (maximum number of times: 10 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101413,
+    "name": "ラウンド開始時 ヒートアップ",
+    "name_en": "Heats up at the start of a round",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041116
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "ラウンド開始時、敵全体に「ディフェンスダウン」を付与する( 効果中 )",
+    "flavor_text_en": "At the start of a round, grant “Defense Down” to all enemies (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101414,
+    "name": "ラウンド開始時 ディフェンスダウン",
+    "name_en": "Defense down at the start of the round",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041411
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、味方生存者全体の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "At the start of a turn that is a multiple of 3 counting from the start of the battle, unlock the strength, health, dexterity, quickness, intelligence, spirit, love, and charm of all allied survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101415,
+    "name": "3の倍数のターン開始時 能力ダウン解除",
+    "name_en": "Unlock ability reduction at the start of a turn that is a multiple of 3",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041412
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身のHPを回復する( 効果極小 )<br>バトル開始から数えて奇数ターン目の開始時、自身のBPを回復する( +2 )<br>バトル開始から数えて偶数ターン目の開始時、自身の腕力・体力・精神を上昇させる( 効果中 )",
+    "flavor_text_en": "At the end of a turn, recover your own HP (minimal effect) <br><br>At the start of an odd-numbered turn counting from the start of the battle, recover your own BP (+2) at the start of an even-numbered turn counting from the start of the battle Increases one's own strength, physical strength, and spirit (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101416,
+    "name": "エレメントヒールⅡ(腕力・体力・精神)",
+    "name_en": "Element Heel II (Strength, Strength, Spirit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041224,
+      802041225,
+      802041413
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身の腕力・体力・精神を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases your strength, health, and spirit at the start of an even-numbered turn counting from the start of the battle (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101417,
+    "name": "偶数ターン開始時 腕力・体力・精神アップ",
+    "name_en": "Strength, strength, and spirit increase at the start of an even-numbered turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010769,
+      802010770,
+      802010774
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：人間、植物]になる<br>Critical攻撃の与ダメージが上昇する( 効果特大 )",
+    "flavor_text_en": "<br>Damage dealt by critical attacks where all of your attacks become [special effect: human, plant] is increased (extra effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101418,
+    "name": "必殺の心得Ⅳ(人間・植物)",
+    "name_en": "Hissatsu no Teach IV (Human/Plant)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040999,
+      802041414,
+      802040960
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、熱属性を含むダメージを無効化する<br>Critical攻撃の与ダメージが上昇する( 効果極大 )",
+    "flavor_text_en": "When attacked, damage dealt by critical <br>attacks that negate damage including heat attributes is increased (maximum effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101419,
+    "name": "魔炎長の風格",
+    "name_en": "The style of Magical Fire",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040473,
+      802041471
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>Critical攻撃の場合、さらに与ダメージが上昇する( 効果特大 )",
+    "flavor_text_en": "Damage dealt by attacks is increased (maximum effect) In <br>the case of critical attacks, damage dealt is further increased (extra effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101421,
+    "name": "リーサルグレートテンション",
+    "name_en": "Lethal Great Tension",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802040960
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "直接攻撃命中時、自身の腕力を上昇させる( 効果大 )<br>直接攻撃を受けた時、自身に「ヒートアップ」( 効果大 )を付与する( 上限回数:バトル中10回 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "When hit by a direct attack, it increases one's own strength (great effect). <br>When directly attacked, grants itself a “heat up” (high effect) (maximum number of times: 10 times during battle) <br><br> <br>The damage dealt by heat-up attacks is increased (effect lasts during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101422,
+    "name": "魔戦士公の業",
+    "name_en": "The work of the Demon Warrior",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041418,
+      802041419
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "直接攻撃を受けた時、自身に「ヒートアップ」( 効果大 )を付与する( 上限回数:バトル中10回 )",
+    "flavor_text_en": "When directly attacked, give yourself a “heat up” (great effect) (maximum number of times: 10 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101423,
+    "name": "直接攻撃被弾時 ヒートアップ",
+    "name_en": "Heats up when hit by direct attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041417
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "直接攻撃命中時、自身の腕力を上昇させる( 効果大 )",
+    "flavor_text_en": "Increases your own strength when hit by a direct attack (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101424,
+    "name": "直接攻撃時 腕力アップ",
+    "name_en": "Strength increases during direct attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011416
     ]
   },
   {
@@ -10818,6 +11052,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       802040901
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃を回避して、やきしちしとうでカウンター攻撃する( 確率小 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When attacked<br>, evade a direct attack and counter attack with a jerk (small chance) <br>(activated with move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101481,
+    "name": "やきしちしとう反撃",
+    "name_en": "Yakishichishito counterattack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041481
     ]
   },
   {

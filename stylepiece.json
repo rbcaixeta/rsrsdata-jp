@@ -456,6 +456,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[はにわ、磁器化します]はにわ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [porcelain, porcelain] is a piece dedicated to chickens. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 129404,
+    "id": 129404,
+    "name": "SSはにわのピース",
+    "name_en": "SS is a Japanese piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[世界を救う決意]デューン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [To Save the World] Arthur.",
@@ -6133,6 +6145,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[魔戦公能く猛牛を御す]アラケス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece exclusive to SS [Magical Battle: Goshu Kugaku Goshu] Arakez. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 239104,
+    "id": 239104,
+    "name": "SSアラケスのピース",
+    "name_en": "SS Arakez Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[魔龍公の降臨]ビューネイ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Lord of the Dragons] Byunei. ",
     "flavor_text_en_src": "gl",
@@ -6252,6 +6276,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[蟹よ、定めを知れ！]アウナス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [crab, know the rules!] A special piece for Aunas. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 239305,
+    "id": 239305,
+    "name": "SSアウナスのピース",
+    "name_en": "SS Aunas Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[海の支配者]フォルネウス専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Ruler of the Sea] Forneus.",
@@ -6297,6 +6333,18 @@
     "name": "SSフォルネウスのピース",
     "name_en": "SS Forneus Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[豊穣の海を手にすべし]フォルネウス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [You Should Get the Sea of Fertility] Fornaeus exclusive piece. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 239405,
+    "id": 239405,
+    "name": "SSフォルネウスのピース",
+    "name_en": "SS Fornaeus Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
