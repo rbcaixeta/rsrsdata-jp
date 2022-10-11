@@ -1704,6 +1704,12 @@
     "cueSheetName": "BGM120282"
   },
   {
+    "id": 120283,
+    "cueName": "bgm_120283",
+    "type": "BGM",
+    "cueSheetName": "BGM120283"
+  },
+  {
     "id": 130102,
     "cueName": "bgm_130102",
     "type": "BGM",
@@ -6448,6 +6454,12 @@
     "cueName": "TOUJOUB",
     "type": "SE",
     "cueSheetName": "SE_TOUJOUB"
+  },
+  {
+    "id": 230220,
+    "cueName": "LAB_FLASH",
+    "type": "SE",
+    "cueSheetName": "SE_LAB_FLASH"
   },
   {
     "id": 240002,
@@ -26784,6 +26796,48 @@
     "cueSheetName": "SE145100096"
   },
   {
+    "id": 243419,
+    "cueName": "145500047_other",
+    "type": "SE",
+    "cueSheetName": "SE145500047"
+  },
+  {
+    "id": 243420,
+    "cueName": "145500049_other",
+    "type": "SE",
+    "cueSheetName": "SE145500049"
+  },
+  {
+    "id": 243421,
+    "cueName": "145500049_hit",
+    "type": "SE",
+    "cueSheetName": "SE145500049"
+  },
+  {
+    "id": 243422,
+    "cueName": "145600113_other",
+    "type": "SE",
+    "cueSheetName": "SE145600113"
+  },
+  {
+    "id": 243423,
+    "cueName": "145600113_hit",
+    "type": "SE",
+    "cueSheetName": "SE145600113"
+  },
+  {
+    "id": 243424,
+    "cueName": "140500278_other",
+    "type": "SE",
+    "cueSheetName": "SE140500278"
+  },
+  {
+    "id": 243425,
+    "cueName": "140500278_hit",
+    "type": "SE",
+    "cueSheetName": "SE140500278"
+  },
+  {
     "id": 243428,
     "cueName": "149900271_other",
     "type": "SE",
@@ -26806,6 +26860,54 @@
     "cueName": "149900270_hit",
     "type": "SE",
     "cueSheetName": "SE149900270"
+  },
+  {
+    "id": 243432,
+    "cueName": "145500048_other",
+    "type": "SE",
+    "cueSheetName": "SE145500048"
+  },
+  {
+    "id": 243433,
+    "cueName": "145500048_hit",
+    "type": "SE",
+    "cueSheetName": "SE145500048"
+  },
+  {
+    "id": 243438,
+    "cueName": "145600114_other",
+    "type": "SE",
+    "cueSheetName": "SE145600114"
+  },
+  {
+    "id": 243439,
+    "cueName": "145600114_hit",
+    "type": "SE",
+    "cueSheetName": "SE145600114"
+  },
+  {
+    "id": 243440,
+    "cueName": "149900264_other",
+    "type": "SE",
+    "cueSheetName": "SE149900264"
+  },
+  {
+    "id": 243441,
+    "cueName": "149900265_other",
+    "type": "SE",
+    "cueSheetName": "SE149900265"
+  },
+  {
+    "id": 243442,
+    "cueName": "149900265_hit",
+    "type": "SE",
+    "cueSheetName": "SE149900265"
+  },
+  {
+    "id": 243443,
+    "cueName": "149900266_hit",
+    "type": "SE",
+    "cueSheetName": "SE149900266"
   },
   {
     "id": 510001,

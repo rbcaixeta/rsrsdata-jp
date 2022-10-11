@@ -10935,6 +10935,41 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "ターン開始時、味方生存者全体に「エレメントガード(陰/小)」を付与する( 効果1ターン )<br>さらにターン終了時、自身のBPを回復する( +2 )<br><br>エレメントガード(陰/小)<br>陰属性の攻撃を受けた時、被ダメージを軽減する( 効果小 )",
+    "flavor_text_en": "<br><br>An element that grants “Element Guard (Shade/Small)” to all allied survivors <br>at the start of a turn (effect 1 turn) and restores their own BP at the end of the turn (+2) Guard (shade/small) <br>Reduces damage taken when attacked by a shadow attribute (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101426,
+    "name": "キングダムの教え",
+    "name_en": "The teachings of Kingdom",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041470,
+      802041315
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方が全員生存している時<br>味方全体の与ダメージが上昇する( 効果大 )",
+    "flavor_text_en": "When all allies are alive, <br>damage dealt to all allies is increased (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101427,
+    "name": "攻勢結束Ⅲ",
+    "name_en": "Offensive Unity III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041422
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果大 )<br>ターン開始時、自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
     "flavor_text_en": "Reduces damage taken when attacked (Great effect) <br>At the beginning of the turn, grant “Heat Up” (active) to self (maximum number of times: 5 times during battle) <br><br>Heat up <br>Increases damage dealt by attacks (lasts during effect battles)",
     "flavor_text_en_src": "ml",
@@ -11004,6 +11039,76 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "味方全体への被ダメージを軽減する( 効果小 )<br>味方全体の行動順補正値が上昇する( 効果小 )",
+    "flavor_text_en": "Reduces damage taken to all allies (small effect) <br>Increases the action order correction value for all allies (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101432,
+    "name": "時術の恩恵",
+    "name_en": "The benefits of jitsu",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041049,
+      802041427
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方生存者全体の体術装備時の与ダメージが上昇する( 効果中 )",
+    "flavor_text_en": "Damage dealt by all allied survivors when equipped with taijutsu is increased (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101434,
+    "name": "体術の教示Ⅱ",
+    "name_en": "Teaching of Taijutsu II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041428
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃の、与ダメージが上昇する( 効果大 )<br>かつ、Resist攻撃を受けた時、被ダメージを軽減する( 効果大 )",
+    "flavor_text_en": "Damage dealt by Weak attacks is increased (great effect) <br>and damage taken is reduced when receiving a resist attack (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101435,
+    "name": "対抗集中Ⅲ",
+    "name_en": "Opposition Concentration III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040309,
+      802041429
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "バトル開始から数えて3の倍数のターン終了時、味方生存者全体の状態異常をすべて解除する",
+    "flavor_text_en": "At the end of a turn that is a multiple of 3 counting from the start of the battle, unlock all state abnormalities for all allied survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101436,
+    "name": "退病の心得",
+    "name_en": "Tips for getting rid of illness",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040072
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "[ラウンド開始時] <br>敵全体をマヒさせる( 確率中/効果4ターン )",
     "flavor_text_en": "[Round Start] <br>Paralyze all enemies (Chance/Effect for 4 turns)",
@@ -11052,6 +11157,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       802040901
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、味方生存者全体に「エレメントガード(陰/小)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of a turn, give “Element Guard (Shade/Small)” to all allied survivors (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101469,
+    "name": "ターン開始時 エレメントガード(陰/小)",
+    "name_en": "Element guard at start of turn (shade/small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041421
     ]
   },
   {
@@ -40059,6 +40181,24 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の腕力を上昇させる( 効果中 )<br>バトル開始から数えて偶数ターン目の開始時、自身の知力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases your own strength at the start of the odd-numbered turn counting from the start of the <br>battle (in effect). At the start of the even-numbered turn counting from the start of the battle, increase your own intelligence (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708100224,
+    "name": "クロックスイッチ",
+    "name_en": "clock switch",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040520,
+      808040519
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "Weak攻撃の<br>与ダメージが上昇する( 効果特大 )",
     "flavor_text_en": "Weak attacks' damage increases (very large effect).",
@@ -41034,6 +41174,58 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>敵全体の素早さの能力アップ状態を解除する<br>自身に行動順補正上昇(小)を付与する( 効果5ターン )",
+    "flavor_text_en": "[At the start of turn] <br>Unlock all enemy quickness power-ups, and <br>grant yourself a behavior order correction increase (small) (effect 5 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300223,
+    "name": "タイムリブート",
+    "name_en": "Time reboot",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040512,
+      808040513
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身の知力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases your own intelligence at the start of an even-numbered turn counting from the start of the battle (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300227,
+    "name": "クロックスイッチ",
+    "name_en": "clock switch",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010518
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の腕力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases your own strength at the start of the odd-numbered turn counting from the start of the battle (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300228,
+    "name": "クロックスイッチ",
+    "name_en": "clock switch",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010517
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -41810,6 +42002,23 @@
       808040409,
       808020498,
       808020499
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "バトル開始から数えて3の倍数のターン終了時、敵全体の精神の能力アップ状態を解除する",
+    "flavor_text_en": "At the end of a turn that is a multiple of 3 counting from the start of the battle, unlock the mental ability upgrade state of all enemies",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400229,
+    "name": "マインドリセット",
+    "name_en": "mind reset",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040521
     ]
   },
   {
@@ -45634,6 +45843,86 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：水棲、魚、両棲類、カエル]になる<br>さらに、水棲または魚または両棲類またはカエルの敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Aquatic, Fish, Amphibian, Frog]<br>, and damage dealt to enemies when attacking aquatic or fish or amphibians or frogs is increased by 42%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100408,
+    "name": "種族特効+(水棲/魚/両棲類/カエル)",
+    "name_en": "Species Specification+ (Aquatic/Fish/Amphibians/Frogs)",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "種族特効+ 42%(水棲/魚/両棲類/カエル)",
+    "simple_flavor_text_en": "Species effect + 42% (aquatic/fish/amphibians/frogs)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000345,
+    "special_effect_ids": [
+      811040408,
+      811040440
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：不死、骨、悪魔]になる<br>さらに、不死または骨または悪魔の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Immortal, Bone, Demon], and <br>when attacking an immortal, bone, or demon enemy, the damage dealt to the enemy is increased by 42%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100409,
+    "name": "種族特効+(不死/骨/悪魔)",
+    "name_en": "Race Special Effect+ (Immortal/Bone/Demon)",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "種族特効+ 42%(不死/骨/悪魔)",
+    "simple_flavor_text_en": "+ 42% tribal effect (immortal/bone/demon)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000335,
+    "special_effect_ids": [
+      811040409,
+      811040445
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：火精、水精、風精、土精]になる<br>さらに、火精または水精または風精または土精の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Fire, Water, Wind, Earth]<br>, and when attacking an enemy with Fire or Water or Wind or Earth, the damage dealt to the enemy is increased by 42%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100410,
+    "name": "種族特効+(火精/水精/風精/土精)",
+    "name_en": "Species Special Effects+ (Fire, Water, Wind, Earth)",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "種族特効+ 42%(火精/水精/風精/土精)",
+    "simple_flavor_text_en": "Tribal Special Effects + 42% (Fire, Water, Wind, Earth)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000325,
+    "special_effect_ids": [
+      811040410,
+      811040450
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：鳥、浮遊]になる<br>さらに、鳥または浮遊の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Bird, Floating]<br>, and damage dealt to enemies when attacking birds or floating enemies is increased by 42%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100411,
+    "name": "種族特効+(鳥/浮遊)",
+    "name_en": "Race Special Effects+ (Bird/Floating)",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "種族特効+ 42%(鳥/浮遊)",
+    "simple_flavor_text_en": "Tribal Special Effect + 42% (Bird/Floating)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000315,
+    "special_effect_ids": [
+      811040411,
+      811040455
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "自身の全ての攻撃が[特効：人間、男性、女性、巨人]になる<br>さらに、人間または男性または女性または巨人の敵への攻撃時　敵に与えるダメージが28%上昇する",
     "flavor_text_en": "All of your attacks become [Special: Human, Male, Female, Giant]<br>, and when attacking a human or male or female or Giant enemy, deals 28% more damage to enemies",
     "flavor_text_en_src": "ml",
@@ -45734,6 +46023,86 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：水棲、魚、両棲類、カエル]になる<br>さらに、水棲または魚または両棲類またはカエルの敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Aquatic, Fish, Amphibian, Frog]<br>, and damage dealt to enemies when attacking aquatic or fish or amphibians or frogs is increased by 28%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100417,
+    "name": "種族特効+(水棲/魚/両棲類/カエル)",
+    "name_en": "Species Specification+ (Aquatic/Fish/Amphibians/Frogs)",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "種族特効+ 28%(水棲/魚/両棲類/カエル)",
+    "simple_flavor_text_en": "Species effect + 28% (aquatic/fish/amphibians/frogs)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000344,
+    "special_effect_ids": [
+      811040408,
+      811040485
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：不死、骨、悪魔]になる<br>さらに、不死または骨または悪魔の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Immortal, Bone, Demon]<br>, and damage dealt to enemies when attacking immortal, bone, or demon enemies is increased by 28%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100418,
+    "name": "種族特効+(不死/骨/悪魔)",
+    "name_en": "Race Special Effect+ (Immortal/Bone/Demon)",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "種族特効+ 28%(不死/骨/悪魔)",
+    "simple_flavor_text_en": "+ 28% tribal effect (immortal/bone/demon)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000334,
+    "special_effect_ids": [
+      811040409,
+      811040490
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：火精、水精、風精、土精]になる<br>さらに、火精または水精または風精または土精の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Fire, Water, Wind, Earth]<br>, and when attacking an enemy of Fire or Water or Wind or Earth, the damage dealt to the enemy is increased by 28%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100419,
+    "name": "種族特効+(火精/水精/風精/土精)",
+    "name_en": "Species Special Effects+ (Fire, Water, Wind, Earth)",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "種族特効+ 28%(火精/水精/風精/土精)",
+    "simple_flavor_text_en": "Tribal Special Effects + 28% (Fire, Water, Wind, Earth)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000324,
+    "special_effect_ids": [
+      811040410,
+      811040495
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：鳥、浮遊]になる<br>さらに、鳥または浮遊の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Bird, Floating]<br>, and damage dealt to enemies when attacking birds or floating enemies is increased by 28%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100420,
+    "name": "種族特効+(鳥/浮遊)",
+    "name_en": "Race Special Effects+ (Bird/Floating)",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "種族特効+ 28%(鳥/浮遊)",
+    "simple_flavor_text_en": "Tribal Special Effect +28% (Bird/Floating)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000314,
+    "special_effect_ids": [
+      811040411,
+      811040500
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "自身の全ての攻撃が[特効：人間、男性、女性、巨人]になる<br>さらに、人間または男性または女性または巨人の敵への攻撃時　敵に与えるダメージが14%上昇する",
     "flavor_text_en": "All of your attacks become [Special: Human, Male, Female, Giant]<br>, and increases damage dealt to enemies by 14% when attacking a human or male or female or giant enemy",
     "flavor_text_en_src": "ml",
@@ -45830,6 +46199,86 @@
     "special_effect_ids": [
       811040407,
       811040525
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：水棲、魚、両棲類、カエル]になる<br>さらに、水棲または魚または両棲類またはカエルの敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Aquatic, Fish, Amphibian, Frog]<br>, and damage dealt to enemies when attacking aquatic or fish or amphibians or frogs is increased by 14%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100426,
+    "name": "種族特効+(水棲/魚/両棲類/カエル)",
+    "name_en": "Species Specification+ (Aquatic/Fish/Amphibians/Frogs)",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "種族特効+ 14%(水棲/魚/両棲類/カエル)",
+    "simple_flavor_text_en": "Species effect + 14% (aquatic/fish/amphibians/frogs)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000343,
+    "special_effect_ids": [
+      811040408,
+      811040530
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：不死、骨、悪魔]になる<br>さらに、不死または骨または悪魔の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Immortal, Bone, Demon], and <br>when attacking an immortal, bone, or demon enemy, the damage dealt to the enemy is increased by 14%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100427,
+    "name": "種族特効+(不死/骨/悪魔)",
+    "name_en": "Race Special Effect+ (Immortal/Bone/Demon)",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "種族特効+ 14%(不死/骨/悪魔)",
+    "simple_flavor_text_en": "Tribal Effects + 14% (Immortality/Bone/Demon)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000333,
+    "special_effect_ids": [
+      811040409,
+      811040535
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：火精、水精、風精、土精]になる<br>さらに、火精または水精または風精または土精の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Fire, Water, Wind, Earth]<br>, and when attacking an enemy with Fire or Water or Wind or Earth, the damage dealt to the enemy is increased by 14%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100428,
+    "name": "種族特効+(火精/水精/風精/土精)",
+    "name_en": "Species Special Effects+ (Fire, Water, Wind, Earth)",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "種族特効+ 14%(火精/水精/風精/土精)",
+    "simple_flavor_text_en": "Tribal Special Effects + 14% (Fire, Water, Wind, Earth)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000323,
+    "special_effect_ids": [
+      811040410,
+      811040540
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "自身の全ての攻撃が[特効：鳥、浮遊]になる<br>さらに、鳥または浮遊の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "All of your attacks become [Special: Bird, Floating]<br>, and damage dealt to enemies when attacking birds or floating enemies is increased by 14%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100429,
+    "name": "種族特効+(鳥/浮遊)",
+    "name_en": "Race Special Effects+ (Bird/Floating)",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "simple_flavor_text": "種族特効+ 14%(鳥/浮遊)",
+    "simple_flavor_text_en": "Tribal Effects + 14% (Bird/Floating)",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 260000313,
+    "special_effect_ids": [
+      811040411,
+      811040545
     ]
   },
   {
@@ -46176,6 +46625,41 @@
     "sort_order": 0,
     "special_effect_ids": [
       850040911
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "被ダメージ軽減が付与される( 効果大 )<br>行動順補正値が低下する( 効果特大 )",
+    "flavor_text_en": "Damage taken reduction is granted (large effect), <br>action order correction value is lowered (effect is huge)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 750101471,
+    "name": "被ダメージ軽減(大)＋行動順補正低下(特大)",
+    "name_en": "Damage Reduction (Large) +Action Order Correction Reduction (Extra Large)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      850040909,
+      850040912
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "被ダメージ軽減が付与される( 効果中 )",
+    "flavor_text_en": "Damage taken reduction is granted (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 750101474,
+    "name": "被ダメージ軽減(中)",
+    "name_en": "Damage taken reduction (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      850040913
     ]
   },
   {

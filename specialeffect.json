@@ -4247,6 +4247,48 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011305,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011306,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "140700112",
     "flavor_text": "HPを回復する",
     "flavor_text_en": "Recover HP",
@@ -4285,6 +4327,49 @@
     "target_area": 10,
     "text_color": "65D2FF",
     "text_pop": "体力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011344,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover HP",
+    "flavor_text_en_src": "ml",
+    "id": 801011349,
+    "ignition_effect_id": "",
+    "name": "HP回復(極小)",
+    "name_en": "HP recovery (minimal)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -14586,6 +14671,28 @@
   {
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "術攻撃時、与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases during jutsu attacks",
+    "flavor_text_en_src": "ml",
+    "id": 801041304,
+    "ignition_effect_id": "",
+    "name": "エンハンスソーサリー",
+    "name_en": "ENHANCE SOURCY",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "65D2FF",
+    "text_pop": "術攻撃↑",
+    "triggering_effect_condition_ids": [
+      6
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "敵から受けるダメージが低下する(重複不可)",
     "flavor_text_en": "Reduces damage taken from enemies (cannot be duplicated)",
     "flavor_text_en_src": "ml",
@@ -14604,6 +14711,57 @@
     "text_pop": "防御↑",
     "triggering_effect_condition_ids": [
       14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "145600114",
+    "flavor_text": "敵からの攻撃を回避する( 上限回数:1 )",
+    "flavor_text_en": "Evade enemy attacks (max: 1)",
+    "flavor_text_en_src": "ml",
+    "id": 801041308,
+    "ignition_effect_id": "",
+    "name": "回避(1回)",
+    "name_en": "Evade (1 time)",
+    "name_en_src": "ml",
+    "state_change_id": 900040151,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "回避",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "Unlock reduced abilities for strength, stamina, dexterity, quickness, intelligence, spirit, love, and charm",
+    "flavor_text_en_src": "ml",
+    "id": 801041309,
+    "ignition_effect_id": "",
+    "name": "能力ダウン解除",
+    "name_en": "Unlock ability downtimes",
+    "name_en_src": "ml",
+    "state_change_id": 900050067,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "target_area": 3,
+    "text_color": "5BFF24",
+    "text_pop": "能力ダウン解除",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -38599,6 +38757,52 @@
     ]
   },
   {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "陰属性を含む攻撃を受けた時、敵から受ける被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken from enemies is reduced when attacked with shadows (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041421,
+    "ignition_effect_id": "",
+    "name": "エレメントガード(陰/小)",
+    "name_en": "element guard (shade/small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040197,
+    "state_icon": 3001,
+    "state_vars": [
+      88
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "エレメントガード",
+    "triggering_effect_condition_ids": [
+      23008
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "味方が全員生存している時、攻撃のダメージが上昇する",
+    "flavor_text_en": "Attack damage increases when all allies are alive",
+    "flavor_text_en_src": "ml",
+    "id": 802041422,
+    "ignition_effect_id": "",
+    "name": "全員生存時攻撃強化",
+    "name_en": "Enhanced attack when everyone survives",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      45,
+      4
+    ]
+  },
+  {
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "ターン開始時、自身に「ヒートアップ」を付与する( 効果中 )",
@@ -38643,6 +38847,72 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "行動順補正値が上昇する( 効果小 )",
+    "flavor_text_en": "Action order correction value increases (small effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041427,
+    "ignition_effect_id": "",
+    "name": "行動順補正上昇(小)",
+    "name_en": "Action Order Correction Increase (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040109,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "体術装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Attack damage when equipped with taijutsu is increased",
+    "flavor_text_en_src": "ml",
+    "id": 802041428,
+    "ignition_effect_id": "",
+    "name": "体術攻撃強化",
+    "name_en": "Taijutsu Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21005
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "Resist攻撃被弾時、被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases when hit by a resist attack",
+    "flavor_text_en_src": "ml",
+    "id": 802041429,
+    "ignition_effect_id": "",
+    "name": "Resist攻撃被弾時防御",
+    "name_en": "Resist attack, hit defense",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      11
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "行動不能になる<br>ターン経過で自然回復する",
@@ -38678,6 +38948,28 @@
     "state_icon": 3003,
     "state_vars": [
       702101455
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、味方生存者全体に「エレメントガード(陰/小)」を付与する（効果1ターン）",
+    "flavor_text_en": "At the start of a turn, give “Element Guard (Shade/Small)” to all allied survivors (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802041470,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 エレメントガード(陰/小)",
+    "name_en": "Element guard at start of turn (shade/small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101469
     ],
     "target_area": 1,
     "text_color": "",
@@ -50613,6 +50905,48 @@
   {
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010517,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Improve your strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010518,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "魅了耐性が上昇する",
     "flavor_text_en": "Increases Charm Resistance.",
     "flavor_text_en_src": "gl",
@@ -53906,6 +54240,115 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "素早さのアップ状態を解除する",
+    "flavor_text_en": "Unlock the quickness upgrade state",
+    "flavor_text_en_src": "ml",
+    "id": 808040512,
+    "ignition_effect_id": "",
+    "name": "素早さアップ状態解除",
+    "name_en": "Unlock the quickness up state",
+    "name_en_src": "ml",
+    "state_change_id": 900050104,
+    "state_icon": 2002,
+    "state_vars": [
+      4
+    ],
+    "target_area": 5,
+    "text_color": "FF0000",
+    "text_pop": "素早さアップ解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "行動順補正値が上昇する( 効果小 )",
+    "flavor_text_en": "Action order correction value increases (small effect)",
+    "flavor_text_en_src": "ml",
+    "id": 808040513,
+    "ignition_effect_id": "",
+    "name": "行動順補正上昇(小)",
+    "name_en": "Action Order Correction Increase (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040109,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "行動順補正↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身の知力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases your own intelligence at the start of an even-numbered turn counting from the start of the battle (in effect)",
+    "flavor_text_en_src": "ml",
+    "id": 808040519,
+    "ignition_effect_id": "",
+    "name": "クロックスイッチ",
+    "name_en": "clock switch",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      708300227
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の腕力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases your own strength at the start of the odd-numbered turn counting from the start of the battle (in effect)",
+    "flavor_text_en_src": "ml",
+    "id": 808040520,
+    "ignition_effect_id": "",
+    "name": "クロックスイッチ",
+    "name_en": "clock switch",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      708300228
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "精神のアップ状態を解除する",
+    "flavor_text_en": "Unlock the mental state",
+    "flavor_text_en_src": "ml",
+    "id": 808040521,
+    "ignition_effect_id": "",
+    "name": "精神アップ状態解除",
+    "name_en": "Unlock mental state",
+    "name_en_src": "ml",
+    "state_change_id": 900050104,
+    "state_icon": 2002,
+    "state_vars": [
+      6
+    ],
+    "target_area": 5,
+    "text_color": "FF0000",
+    "text_pop": "精神アップ解除",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -62152,6 +62595,28 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵からの直接攻撃を回避して、ブロークングラスでカウンター攻撃を行う( 上限回数:1 )",
+    "flavor_text_en": "Perform counter attacks with Broken Glass while evading direct attacks from enemies (maximum number of times: 1)",
+    "flavor_text_en_src": "ml",
+    "id": 809040732,
+    "ignition_effect_id": "",
+    "name": "硝子の盾",
+    "name_en": "glass shield",
+    "name_en_src": "ml",
+    "state_change_id": 900040036,
+    "state_icon": 3001,
+    "state_vars": [
+      956357405
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "器用さが上昇する",
     "flavor_text_en": "Dexterity increases",
@@ -65907,6 +66372,94 @@
   },
   {
     "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：水棲、魚、両棲類、カエル]になる",
+    "flavor_text_en": "All of your attacks become [Special Effects: Aquatic, Fish, Amphibians, Frogs]",
+    "flavor_text_en_src": "ml",
+    "id": 811040408,
+    "ignition_effect_id": "",
+    "name": "特効付与(水魚両カ)",
+    "name_en": "Special effect grant (both aquatic fish)",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50054
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：不死、骨、悪魔]になる",
+    "flavor_text_en": "All of your attacks become [Special Effects: Immortal, Bone, Demon]",
+    "flavor_text_en_src": "ml",
+    "id": 811040409,
+    "ignition_effect_id": "",
+    "name": "特効付与(不骨悪)",
+    "name_en": "Special effect grant (unruly)",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50055
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：火精、水精、風精、土精]になる",
+    "flavor_text_en": "All of your attacks become [Special Effects: Fire, Water, Wind, Earth]",
+    "flavor_text_en_src": "ml",
+    "id": 811040410,
+    "ignition_effect_id": "",
+    "name": "特効付与(火水風土)",
+    "name_en": "Special effect grant (fire, water, climate)",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50056
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：鳥、浮遊]になる",
+    "flavor_text_en": "All of your attacks become [Special Effect: Bird, Floating]",
+    "flavor_text_en_src": "ml",
+    "id": 811040411,
+    "ignition_effect_id": "",
+    "name": "特効付与(鳥浮)",
+    "name_en": "Special effect grant (bird float)",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50057
+    ]
+  },
+  {
+    "display_flag": 0,
     "enchantment_effect_id": "Buff",
     "flavor_text": "人間または男性または女性または巨人の敵への攻撃時　敵に与えるダメージが42%上昇する",
     "flavor_text_en": "Increases damage dealt to human, male, female, or giant enemies by 42%",
@@ -66013,6 +66566,94 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       50053
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "水棲または魚または両棲類またはカエルの敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "When attacking an aquatic, fish, amphibian, or frog enemy, the damage dealt to the enemy is increased by 42%",
+    "flavor_text_en_src": "ml",
+    "id": 811040440,
+    "ignition_effect_id": "",
+    "name": "[SS]種族ダメージアップ(水魚両カ)",
+    "name_en": "[SS] Race Damage Up (Both Water Fish)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50054
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "不死または骨または悪魔の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "When attacking an immortal, bone, or demon enemy, the damage dealt to the enemy is increased by 42%",
+    "flavor_text_en_src": "ml",
+    "id": 811040445,
+    "ignition_effect_id": "",
+    "name": "[SS]種族ダメージアップ(不骨悪)",
+    "name_en": "[SS] Race Damage Up (Unruly)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50055
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "火精または水精または風精または土精の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "Damage dealt to enemies by Fire or Mercury or Wind or Earth is increased by 42%",
+    "flavor_text_en_src": "ml",
+    "id": 811040450,
+    "ignition_effect_id": "",
+    "name": "[SS]種族ダメージアップ(火水風土)",
+    "name_en": "[SS] Race Damage Up (Fire, Water, Climate)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50056
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "鳥または浮遊の敵への攻撃時　敵に与えるダメージが42%上昇する",
+    "flavor_text_en": "When attacking birds or floating enemies, damage dealt to enemies is increased by 42%",
+    "flavor_text_en_src": "ml",
+    "id": 811040455,
+    "ignition_effect_id": "",
+    "name": "[SS]種族ダメージアップ(鳥浮)",
+    "name_en": "[SS] Race Damage Up (Bird Flute)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50057
     ]
   },
   {
@@ -66128,6 +66769,94 @@
   {
     "display_flag": 0,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "水棲または魚または両棲類またはカエルの敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "When attacking an aquatic, fish, amphibian, or frog enemy, the damage dealt to the enemy is increased by 28%",
+    "flavor_text_en_src": "ml",
+    "id": 811040485,
+    "ignition_effect_id": "",
+    "name": "[S]種族ダメージアップ(水魚両カ)",
+    "name_en": "[S] Race Damage Up (Both Water Fish)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50054
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "不死または骨または悪魔の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "When attacking an immortal, bone, or demon enemy, damage dealt to the enemy is increased by 28%",
+    "flavor_text_en_src": "ml",
+    "id": 811040490,
+    "ignition_effect_id": "",
+    "name": "[S]種族ダメージアップ(不骨悪)",
+    "name_en": "[S] Race Damage Up (Unruly)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50055
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "火精または水精または風精または土精の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "Damage dealt to enemies of Fire or Water or Wind or Earth is increased by 28% when attacking an enemy",
+    "flavor_text_en_src": "ml",
+    "id": 811040495,
+    "ignition_effect_id": "",
+    "name": "[S]種族ダメージアップ(火水風土)",
+    "name_en": "[S] Race Damage Up (Fire, Water, Climate)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50056
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "鳥または浮遊の敵への攻撃時　敵に与えるダメージが28%上昇する",
+    "flavor_text_en": "Damage dealt to enemies when attacking birds or floating enemies is increased by 28%",
+    "flavor_text_en_src": "ml",
+    "id": 811040500,
+    "ignition_effect_id": "",
+    "name": "[S]種族ダメージアップ(鳥浮)",
+    "name_en": "[S] Race Damage Up (Bird Flute)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50057
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "人間または男性または女性または巨人の敵への攻撃時　敵に与えるダメージが14%上昇する",
     "flavor_text_en": "Increases damage dealt to enemies by 14% when attacking a human, male, female, or giant enemy",
     "flavor_text_en_src": "ml",
@@ -66233,6 +66962,94 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       50053
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "水棲または魚または両棲類またはカエルの敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "When attacking an aquatic, fish, or amphibian or frog enemy, the damage dealt to the enemy is increased by 14%",
+    "flavor_text_en_src": "ml",
+    "id": 811040530,
+    "ignition_effect_id": "",
+    "name": "[A]種族ダメージアップ(水魚両カ)",
+    "name_en": "[A] Race damage increase (both aquatic fish)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50054
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "不死または骨または悪魔の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "When attacking an immortal or bone or demon enemy, damage dealt to the enemy is increased by 14%",
+    "flavor_text_en_src": "ml",
+    "id": 811040535,
+    "ignition_effect_id": "",
+    "name": "[A]種族ダメージアップ(不骨悪)",
+    "name_en": "[A] Race Damage Increase (Unruly)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50055
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "火精または水精または風精または土精の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "When attacking an enemy with Fire or Water, Wind, or Earth, the damage dealt to the enemy is increased by 14%",
+    "flavor_text_en_src": "ml",
+    "id": 811040540,
+    "ignition_effect_id": "",
+    "name": "[A]種族ダメージアップ(火水風土)",
+    "name_en": "[A] Race Damage Increase (Fire, Water, Climate)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50056
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "鳥または浮遊の敵への攻撃時　敵に与えるダメージが14%上昇する",
+    "flavor_text_en": "Damage dealt to enemies when attacking birds or floating enemies is increased by 14%",
+    "flavor_text_en_src": "ml",
+    "id": 811040545,
+    "ignition_effect_id": "",
+    "name": "[A]種族ダメージアップ(鳥浮)",
+    "name_en": "[A] Race Damage Up (Bird Flute)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50057
     ]
   },
   {
@@ -66700,6 +67517,29 @@
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する( 効果中 )",
+    "flavor_text_en": "Damage taken is reduced (in effect)",
+    "flavor_text_en_src": "ml",
+    "id": 850040913,
+    "ignition_effect_id": "",
+    "name": "被ダメージ軽減(中)",
+    "name_en": "Damage taken reduction (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
     ]
   }
 ]

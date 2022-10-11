@@ -1693,5 +1693,50 @@
     "subayasa_coefficient": 100,
     "tairyoku_coefficient": 100,
     "wanryoku_coefficient": 100
+  },
+  {
+    "ability_id": 750101471,
+    "ai_coefficient": 100,
+    "chiryoku_coefficient": 150,
+    "flavor_text": "知力・精神が50%上昇する。狙われやすさが低下する。",
+    "flavor_text_en": "Intellect and spirit are increased by 50%. The ease of being targeted decreases.",
+    "flavor_text_en_src": "ml",
+    "id": 1138,
+    "kiyousa_coefficient": 100,
+    "miryoku_coefficient": 100,
+    "seishin_coefficient": 150,
+    "subayasa_coefficient": 100,
+    "tairyoku_coefficient": 100,
+    "wanryoku_coefficient": 100
+  },
+  {
+    "ability_id": 750101003,
+    "ai_coefficient": 100,
+    "chiryoku_coefficient": 100,
+    "flavor_text": "素早さが50%、精神が25%上昇する。",
+    "flavor_text_en": "Increases quickness by 50% and mentality by 25%.",
+    "flavor_text_en_src": "ml",
+    "id": 1139,
+    "kiyousa_coefficient": 100,
+    "miryoku_coefficient": 100,
+    "seishin_coefficient": 125,
+    "subayasa_coefficient": 150,
+    "tairyoku_coefficient": 100,
+    "wanryoku_coefficient": 100
+  },
+  {
+    "ability_id": 750101474,
+    "ai_coefficient": 100,
+    "chiryoku_coefficient": 100,
+    "flavor_text": "精神が25%上昇する。",
+    "flavor_text_en": "Mentality increases by 25%.",
+    "flavor_text_en_src": "ml",
+    "id": 1140,
+    "kiyousa_coefficient": 100,
+    "miryoku_coefficient": 100,
+    "seishin_coefficient": 125,
+    "subayasa_coefficient": 100,
+    "tairyoku_coefficient": 100,
+    "wanryoku_coefficient": 100
   }
 ]

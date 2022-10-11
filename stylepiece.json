@@ -110,13 +110,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[おいてくつもりか？]そうちょう専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Are you going to leave?] A piece dedicated to Socho. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Leaving Us Behind?] So-Cho.",
+    "flavor_text_en_src": "gl",
     "icon": 110501,
     "id": 110501,
     "name": "SSそうちょうのピース",
-    "name_en": "SS Socho piece",
-    "name_en_src": "ml",
+    "name_en": "SS So-Cho Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -266,13 +266,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[訳ありなんだ]ふくめん専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "A piece dedicated to SS [there is a translation] Fukumen. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [I Have My Reasons] Mask.",
+    "flavor_text_en_src": "gl",
     "icon": 121203,
     "id": 121203,
     "name": "SSふくめんのピース",
-    "name_en": "SS Fukumen piece",
-    "name_en_src": "ml",
+    "name_en": "SS Mask Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -2942,13 +2942,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[仕留めた！]クリームヒルト専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [I finished it!] A piece dedicated to Creamhill. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [You're Mine!] Kriemhild.",
+    "flavor_text_en_src": "gl",
     "icon": 222721,
     "id": 222721,
     "name": "SSクリームヒルトのピース",
-    "name_en": "Piece of SS Cream HILT",
-    "name_en_src": "ml",
+    "name_en": "SS Kriemhild Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -3422,13 +3422,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[あたしが相手だ！]アザミ専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [I'm the other party!] A piece dedicated to thistles. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [I'm Your Opponent!] Azami.",
+    "flavor_text_en_src": "gl",
     "icon": 224416,
     "id": 224416,
     "name": "SSアザミのピース",
-    "name_en": "SS thistle piece",
-    "name_en_src": "ml",
+    "name_en": "SS Azami Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -6432,6 +6432,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[新たな術のイメージ]ブルー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [New Jutsu Image] Blue exclusive piece. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 310109,
+    "id": 310109,
+    "name": "SSブルーのピース",
+    "name_en": "SS blue peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[ラモックスのクーン]クーン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Riki the Lummox] Riki. ",
@@ -6674,13 +6686,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[空中殺法！]ピンクタイガー専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Killing in the air!] A piece exclusively for the Pink Tiger. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Aerial Kill!] Pink Tiger.",
+    "flavor_text_en_src": "gl",
     "icon": 310512,
     "id": 310512,
     "name": "SSピンクタイガーのピース",
-    "name_en": "SS Pink Tiger piece",
-    "name_en_src": "ml",
+    "name_en": "SS Pink Tiger Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -6969,6 +6981,18 @@
     "name": "SSコットンのピース",
     "name_en": "SS Cotton Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[光ってるよな、オレ]コットン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [It's glowing, I'm] cotton exclusive piece. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 311603,
+    "id": 311603,
+    "name": "SSコットンのピース",
+    "name_en": "SS cotton pieces",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -7645,6 +7669,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[この注射一本で]ヌサカーン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [with this one injection] a piece dedicated to Nusa Khan. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 313503,
+    "id": 313503,
+    "name": "SSヌサカーンのピース",
+    "name_en": "SS Nusa Khan's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[なぜ私の時を動かした]時の君専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Why Did You Turn My Clock On?] Time Lord.",
     "flavor_text_en_src": "gl",
@@ -7664,6 +7700,18 @@
     "id": 313604,
     "name": "SS時の君のピース",
     "name_en": "Your piece at SS",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[時間を操る者]時の君専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Time Manipulator] A piece dedicated to Toki no Kimi. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 313605,
+    "id": 313605,
+    "name": "SS時の君のピース",
+    "name_en": "SS Toki no Kimi no Peace",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -9218,13 +9266,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[これぞ無刀の奥義！]ウルピナ専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [This is the mystery of no sword!] A piece dedicated to Ulpina. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Now That's Zero Wielding!] Urpina.",
+    "flavor_text_en_src": "gl",
     "icon": 610109,
     "id": 610109,
     "name": "SSウルピナのピース",
-    "name_en": "SS Ulpina's Piece",
-    "name_en_src": "ml",
+    "name_en": "SS Urpina Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {

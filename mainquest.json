@@ -93761,5 +93761,2329 @@
     "typical_rewards": [
     ],
     "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 10210901,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109011,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-1. 変化する世界",
+    "name_en": "9-1-1. A changing world",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10309001,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000088,
+    "battle_id": 100309012,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001215,
+      870001211,
+      870001213,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109012,
+    "illust_category": 2,
+    "illust_id": 1041891,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-1. 見覚えのある街１",
+    "name_en": "9-1-1. A town that looks familiar 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109171,
+      120108102
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000088,
+    "battle_id": 100309013,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001222,
+      870001218,
+      870001220,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109013,
+    "illust_category": 2,
+    "illust_id": 1041891,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-1. 見覚えのある街１",
+    "name_en": "9-1-1. A town that looks familiar 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109102,
+      120108103
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000088,
+    "battle_id": 100309011,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001208,
+      870001204,
+      870001206,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109021,
+    "illust_category": 2,
+    "illust_id": 1041891,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-2. 見覚えのある街１",
+    "name_en": "9-1-2. A town that looks familiar 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109011
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000088,
+    "battle_id": 100309022,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001215,
+      870001213,
+      870001212,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109022,
+    "illust_category": 2,
+    "illust_id": 1120111,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-2. 見覚えのある街２",
+    "name_en": "9-1-2. A town that looks familiar 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109012
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000088,
+    "battle_id": 100309023,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001222,
+      870001220,
+      870001219,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109023,
+    "illust_category": 2,
+    "illust_id": 1120111,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-2. 見覚えのある街２",
+    "name_en": "9-1-2. A town that looks familiar 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109013
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000088,
+    "battle_id": 100309021,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001208,
+      870001206,
+      870001205,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109031,
+    "illust_category": 2,
+    "illust_id": 1120111,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-3. 見覚えのある街２",
+    "name_en": "9-1-3. A town that looks familiar 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109021
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309032,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001215,
+      870001212,
+      870001210,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109032,
+    "illust_category": 2,
+    "illust_id": 1170081,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-3. 生命科学研究所１",
+    "name_en": "9-1-3. Institute of Life Sciences 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109022
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309033,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001222,
+      870001219,
+      870001217,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109033,
+    "illust_category": 2,
+    "illust_id": 1170081,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-3. 生命科学研究所１",
+    "name_en": "9-1-3. Institute of Life Sciences 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109023
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 10210901,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109041,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-4. 必要な犠牲",
+    "name_en": "9-1-4. Necessary sacrifices",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109031
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10309010,
+    "sort_order": 4,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309042,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001216,
+      870001210,
+      870001214,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109042,
+    "illust_category": 2,
+    "illust_id": 1190021,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-4. 生命科学研究所２",
+    "name_en": "9-1-4. Institute of Life Sciences 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109032
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309043,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001223,
+      870001217,
+      870001221,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109043,
+    "illust_category": 2,
+    "illust_id": 1190021,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-4. 生命科学研究所２",
+    "name_en": "9-1-4. Institute of Life Sciences 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109033
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309031,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001208,
+      870001205,
+      870001203,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109051,
+    "illust_category": 2,
+    "illust_id": 1170081,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-5. 生命科学研究所１",
+    "name_en": "9-1-5. Institute of Life Sciences 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109041
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309052,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001216,
+      870001214,
+      870001211,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109052,
+    "illust_category": 2,
+    "illust_id": 1050231,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-5. 生命科学研究所３",
+    "name_en": "9-1-5. Institute of Life Sciences 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109042
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309053,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001223,
+      870001221,
+      870001218,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109053,
+    "illust_category": 2,
+    "illust_id": 1050231,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-5. 生命科学研究所３",
+    "name_en": "9-1-5. Institute of Life Sciences 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109043
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309041,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001209,
+      870001203,
+      870001207,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109061,
+    "illust_category": 2,
+    "illust_id": 1190021,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-6. 生命科学研究所２",
+    "name_en": "9-1-6. Institute of Life Sciences 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109051
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309062,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001215,
+      870001211,
+      870001213,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109062,
+    "illust_category": 2,
+    "illust_id": 1060451,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-6. 生命科学研究所４",
+    "name_en": "9-1-6. Institute of Life Sciences 4",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109052
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309063,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001222,
+      870001218,
+      870001220,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109063,
+    "illust_category": 2,
+    "illust_id": 1060451,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-6. 生命科学研究所４",
+    "name_en": "9-1-6. Institute of Life Sciences 4",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109053
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 10210901,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109071,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-7. 実験",
+    "name_en": "9-1-7. experiments",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109061
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10309020,
+    "sort_order": 7,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000088,
+    "battle_id": 100309072,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001215,
+      870001213,
+      870001212,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109072,
+    "illust_category": 2,
+    "illust_id": 1160031,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-1. 少女を追って１",
+    "name_en": "9-2-1. Follow the girl 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109062
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000088,
+    "battle_id": 100309073,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001222,
+      870001220,
+      870001219,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109073,
+    "illust_category": 2,
+    "illust_id": 1160031,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-1. 少女を追って１",
+    "name_en": "9-2-1. Follow the girl 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109063
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309051,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001209,
+      870001207,
+      870001204,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109081,
+    "illust_category": 2,
+    "illust_id": 1050231,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-8. 生命科学研究所３",
+    "name_en": "9-1-8. Institute of Life Sciences 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109071
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000088,
+    "battle_id": 100309082,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001215,
+      870001212,
+      870001210,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109082,
+    "illust_category": 2,
+    "illust_id": 1160141,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-2. 少女を追って２",
+    "name_en": "9-2-2. Follow the girl 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109072
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000088,
+    "battle_id": 100309083,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001222,
+      870001219,
+      870001217,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109083,
+    "illust_category": 2,
+    "illust_id": 1160141,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-2. 少女を追って２",
+    "name_en": "9-2-2. Follow the girl 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109073
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 179,
+    "banner": 700000099,
+    "battle_id": 100309061,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001208,
+      870001204,
+      870001206,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109091,
+    "illust_category": 2,
+    "illust_id": 1060451,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-1-9. 生命科学研究所４",
+    "name_en": "9-1-9. Institute of Life Sciences 4",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109081
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000019,
+    "battle_id": 100309092,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001216,
+      870001210,
+      870001214,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109092,
+    "illust_category": 2,
+    "illust_id": 1991941,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-3. 少女を追って３",
+    "name_en": "9-2-3. Follow the girl 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109082
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000019,
+    "battle_id": 100309093,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001223,
+      870001217,
+      870001221,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109093,
+    "illust_category": 2,
+    "illust_id": 1991941,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-3. 少女を追って３",
+    "name_en": "9-2-3. Follow the girl 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109083
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 10210901,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109101,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-1. どんな未来でも",
+    "name_en": "9-2-1. No matter what kind of future",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10309030,
+    "sort_order": 10,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000150,
+    "battle_id": 100309102,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001216,
+      870001214,
+      870001211,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109102,
+    "illust_category": 2,
+    "illust_id": 1170151,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-4. 時を動かすとき",
+    "name_en": "9-2-4. When you move time",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109092
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000150,
+    "battle_id": 100309103,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001223,
+      870001221,
+      870001218,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109103,
+    "illust_category": 2,
+    "illust_id": 1170151,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-4. 時を動かすとき",
+    "name_en": "9-2-4. When you move time",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109093
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000088,
+    "battle_id": 100309071,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001208,
+      870001206,
+      870001205,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109111,
+    "illust_category": 2,
+    "illust_id": 1160031,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-2. 少女を追って１",
+    "name_en": "9-2-2. Follow the girl 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109101
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 11,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100772,
+        "type": 7
+      },
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000088,
+    "battle_id": 100309081,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001208,
+      870001205,
+      870001203,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109121,
+    "illust_category": 2,
+    "illust_id": 1160141,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-3. 少女を追って２",
+    "name_en": "9-2-3. Follow the girl 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109111
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 12,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100769,
+        "type": 7
+      },
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 10210901,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109131,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-4. ゾズマの気まぐれ",
+    "name_en": "9-2-4. Zozuma's whims",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109121
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10309040,
+    "sort_order": 13,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000019,
+    "battle_id": 100309091,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001209,
+      870001203,
+      870001207,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109141,
+    "illust_category": 2,
+    "illust_id": 1991941,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-5. 少女を追って３",
+    "name_en": "9-2-5. Follow the girl 3",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109131
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 14,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100764,
+        "type": 7
+      },
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 10210901,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109151,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-6. 時の君",
+    "name_en": "9-2-6. The Kimi of",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109141
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10309050,
+    "sort_order": 15,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 700000150,
+    "battle_id": 100309101,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001209,
+      870001207,
+      870001204,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109161,
+    "illust_category": 2,
+    "illust_id": 1170151,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-7. 時を動かすとき",
+    "name_en": "9-2-7. When you move time",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109151
+    ],
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 16,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100773,
+        "type": 7
+      },
+      {
+        "id": 1100768,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 180,
+    "banner": 10210901,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120109171,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "9-2-8. 私の旅が始まる",
+    "name_en": "9-2-8. My Journey Begins",
+    "name_en_src": "ml",
+    "number_of_story_banner": 9,
+    "prev_quest_ids": [
+      120109161
+    ],
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10309060,
+    "sort_order": 17,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
   }
 ]

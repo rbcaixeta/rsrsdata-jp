@@ -1398,5 +1398,41 @@
         "y": 42
       }
     ]
+  },
+  {
+    "flavor_text": "パワーレイズの全てのメンバーをさらに強化した陣形。<br>全体的に防御面が強化されているので、パーティ全体の生存率を上げたい場合におすすめ。",
+    "flavor_text_en": "A formation that further strengthens all members of the Power Rays. The <br>overall defensive surface has been strengthened, so it is recommended if you want to increase the survival rate of the whole party.",
+    "flavor_text_en_src": "ml",
+    "id": 1045,
+    "name": "パワーレイズ・改",
+    "name_en": "Power Raise Kai",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1138,
+        "x": 42,
+        "y": 25
+      },
+      {
+        "formation_bonus_id": 1139,
+        "x": 17,
+        "y": 8
+      },
+      {
+        "formation_bonus_id": 1139,
+        "x": 17,
+        "y": 42
+      },
+      {
+        "formation_bonus_id": 1140,
+        "x": 32,
+        "y": 16
+      },
+      {
+        "formation_bonus_id": 1140,
+        "x": 32,
+        "y": 34
+      }
+    ]
   }
 ]

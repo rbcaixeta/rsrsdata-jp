@@ -19,7 +19,7 @@
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムを一定確率で獲得可能。<br>報酬：SS[最果ての島から]ボストンのスタイル、SS[最果ての島から]ボストンのピース、強者の称号・二の段、強者の称号・一の段、宝珠メダル、スタミナ回復薬(大)など",
-    "description_en": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 2, Testaments of the Mighty: Rank 1, Orb Medals, Stamina Potions (Large), and more.",
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Orb Medals, Stamina Potions (Large), and more.",
     "description_en_src": "gl",
     "drop_group_ids": [
       400000070,
@@ -465,8 +465,8 @@
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムを一定確率で獲得可能。<br>報酬：SS[最果ての島から]ボストンのピース、シルバーピース、宝珠メダルなど",
-    "description_en": "Can be opened from Items > Treasure Chest If you open the box, you can get the following items with a certain chance. <br>Reward: SS [From the Farthest Island] Boston Piece, Silver Piece, Orb Medal, etc.",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Orb Medals, and more.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       400000068,
       400000069,
@@ -477,15 +477,15 @@
     "id": 900030,
     "max_quantity": 9999,
     "name": "最果ての秘宝Ⅱ・小",
-    "name_en": "The Farthest Hidden Treasure Ⅱ, Small",
-    "name_en_src": "ml",
+    "name_en": "The Final Treasure II - Small",
+    "name_en_src": "gl",
     "rarity": 4,
     "sort_order": 49999005
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムを一定確率で獲得可能。<br>報酬：SS[最果ての島から]ボストンのスタイル、SS[最果ての島から]ボストンのピース、強者の称号・二の段、強者の称号・一の段、宝珠メダル、スタミナ回復薬(大)など",
-    "description_en": "Can be opened from Items > Treasure Chest If you open the box, you can get the following items with a certain chance. <br>Reward: SS [From the Farthest Island] Boston Style, SS [From the Farthest Island] Boston Piece, Title 2 of the Strong, Title of Strong, 1 Stage, Orb Medal, Stamina Recovery Pill (Large), etc.",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Orb Medals, Stamina Potions (Large), and more.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       400000070,
       400000071,
@@ -497,8 +497,8 @@
     "id": 900031,
     "max_quantity": 9999,
     "name": "最果ての秘宝Ⅱ・大",
-    "name_en": "The Farthest Hidden Treasure II, Large",
-    "name_en_src": "ml",
+    "name_en": "The Final Treasure II - Large",
+    "name_en_src": "gl",
     "rarity": 5,
     "sort_order": 49999010
   },
