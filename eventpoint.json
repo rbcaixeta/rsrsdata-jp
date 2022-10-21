@@ -2847,6 +2847,32 @@
     "sort_order": 22101299
   },
   {
+    "expired_at": 1668884399,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800221,
+    "id": 800221,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・79",
+    "name_en": "Romancing festival medal 79",
+    "name_en_src": "ml",
+    "sort_order": 22102165
+  },
+  {
+    "expired_at": 1668884399,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800222,
+    "id": 800222,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・80",
+    "name_en": "Romancing festival medal 80",
+    "name_en_src": "ml",
+    "sort_order": 22102160
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -4512,13 +4538,13 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "練達の証。交換所でアイテムと交換できる。",
+    "flavor_text": "練達に必要な素材。道場で使用できる。",
     "flavor_text_en": "Can be exchanged for items.",
     "flavor_text_en_src": "gl",
     "icon": 1100322,
     "id": 1100322,
-    "max_quantity": 999,
-    "name": "練達の証",
+    "max_quantity": 9999,
+    "name": "練達の巻物",
     "name_en": "Amplification Badge",
     "name_en_src": "gl",
     "sort_order": 49999525
@@ -9761,5 +9787,31 @@
     "name_en": "Fragment of a tan cane mold",
     "name_en_src": "ml",
     "sort_order": 22101205
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. You can exchange it for an item at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100775,
+    "id": 1100775,
+    "max_quantity": 99999999,
+    "name": "いたずらキャンディ",
+    "name_en": "Naughty Candy",
+    "name_en_src": "ml",
+    "sort_order": 22102125
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. You can exchange it for an item at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100776,
+    "id": 1100776,
+    "max_quantity": 99999999,
+    "name": "カボチャのリース",
+    "name_en": "pumpkin wreath",
+    "name_en_src": "ml",
+    "sort_order": 22102130
   }
 ]

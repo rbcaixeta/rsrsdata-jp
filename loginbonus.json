@@ -8,7 +8,7 @@
     "name_en_src": "gl"
   },
   {
-    "display_priority": 9000,
+    "display_priority": 900000,
     "id": 10002,
     "login_bonus_type": 1,
     "name": "スタートダッシュログインボーナス",
@@ -24,7 +24,7 @@
     "name_en_src": "ml"
   },
   {
-    "display_priority": 9500,
+    "display_priority": 950000,
     "id": 10005,
     "login_bonus_type": 4,
     "name": "カムバックログインボーナス",
@@ -1240,7 +1240,7 @@
     "name_en_src": "ml"
   },
   {
-    "display_priority": 10000,
+    "display_priority": 1000000,
     "id": 10162,
     "login_bonus_type": 1,
     "name": "スタートダッシュミッション実装記念！超スタートダッシュログインボーナス",
@@ -9624,11 +9624,99 @@
     "name_en_src": "ml"
   },
   {
+    "display_priority": 8875,
+    "id": 11375,
+    "login_bonus_type": 1,
+    "name": "スタイル強化EXP10倍!!キャンペーンログインボーナス",
+    "name_en": "10 times more style enhancement EXP!! Campaign login bonus",
+    "name_en_src": "ml"
+  },
+  {
+    "display_priority": 8882,
+    "id": 11376,
+    "login_bonus_type": 1,
+    "name": "Halloween2022 Sa・Gaキャンペーン開催記念ログインボーナス",
+    "name_en": "Halloween 2022 Sa Ga Campaign Commemorative Login Bonus",
+    "name_en_src": "ml"
+  },
+  {
+    "display_priority": 8855,
+    "id": 11377,
+    "login_bonus_type": 1,
+    "name": "サガロード実装記念ログインボーナス",
+    "name_en": "Saga Road implementation commemorative login bonus",
+    "name_en_src": "ml"
+  },
+  {
+    "display_priority": 8883,
+    "id": 11378,
+    "login_bonus_type": 1,
+    "name": "サガ公式YouTubeチャンネル登録者数10万人達成記念ログインボーナス",
+    "name_en": "Saga official YouTube channel 100,000 subscribers commemorative login bonus",
+    "name_en_src": "ml"
+  },
+  {
     "display_priority": 8632,
     "id": 11380,
     "login_bonus_type": 1,
     "name": "聖戦士ガラハドとブラックモンブランBOX育成応援キャンペーンログインボーナス",
     "name_en": "Holy Warrior Galahad and Black Mont Blanc BOX Training Support Campaign Login Bonus",
+    "name_en_src": "ml"
+  },
+  {
+    "display_priority": 8845,
+    "id": 11381,
+    "login_bonus_type": 1,
+    "name": "装備メダル交換所装備品追加記念ログインボーナス",
+    "name_en": "Equipment Medal Exchange Equipment Addition Commemorative Login Bonus",
+    "name_en_src": "ml"
+  },
+  {
+    "display_priority": 8880,
+    "id": 11382,
+    "login_bonus_type": 1,
+    "name": "ハロウィンバトル！-かみとの戦い-開催記念ログインボーナス",
+    "name_en": "Halloween battle! - Battle of Kamito - Event Commemorative Login Bonus",
+    "name_en_src": "ml"
+  },
+  {
+    "display_priority": 8850,
+    "id": 11385,
+    "login_bonus_type": 1,
+    "name": "GBSaGaシリーズ 育成応援キャンペーンログインボーナス",
+    "name_en": "GBSaga Series Training Support Campaign Login Bonus",
+    "name_en_src": "ml"
+  },
+  {
+    "display_priority": 8860,
+    "id": 11386,
+    "login_bonus_type": 1,
+    "name": "激闘！最終防衛システム in ハロウィン開催記念ログインボーナス",
+    "name_en": "Fierce fighting! Final Defense System in Halloween Commemorative Login Bonus",
+    "name_en_src": "ml"
+  },
+  {
+    "display_priority": 8865,
+    "id": 11389,
+    "login_bonus_type": 1,
+    "name": "どきどき！ホーンテッドショー開催記念ログインボーナス",
+    "name_en": "Pounding! Horned Show Commemorative Login Bonus",
+    "name_en_src": "ml"
+  },
+  {
+    "display_priority": 8852,
+    "id": 11417,
+    "login_bonus_type": 1,
+    "name": "ガチャPick UPスタイル育成応援キャンペーン開始記念ログインボーナス",
+    "name_en": "Gacha Pick UP Style Development Support Campaign Launch Commemorative Login Bonus",
+    "name_en_src": "ml"
+  },
+  {
+    "display_priority": 8857,
+    "id": 11421,
+    "login_bonus_type": 1,
+    "name": "クエスト一括クリア機能追加記念ログインボーナス",
+    "name_en": "Added the ability to clear quests in bulk, commemorative login bonus",
     "name_en_src": "ml"
   }
 ]

@@ -11126,6 +11126,246 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身に「ダメージブロック(1回)」を付与する( 効果1ターン )<br>自身のBPを回復する( +1 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「ねんどうりき」が発動する( 確率特大 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない<br><br>ねんどうりき<br>火術/攻撃/威力B/間接/敵単体 ( 熱+陰 )<br>攻撃する<br>味方生存者全体のHPを回復する( 効果極小 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "[At the start of turn] <br>Grant “Damage Block (1 turn)” to yourself (effect 1 turn) <br>Recover your own BP (+1) <br><br>[Technique/Art whose type is “Attack” (*) [When hit] <br>“Nendoriki” is activated (extra high probability) <br>* Includes “Techniques/techniques activated by this ability effect,” “counterattack techniques and techniques with counter effects,” and “techniques handed down in the R Cup.” No <br><br>Nendoriki <br>Fire Jutsu/Attack/Power B/Indirect/Enemy Single Unit (Heat+Shade) <br>Attacks Restore <br>HP of All Allied Survivors (Minimal Effect) <br>(Jutsu (Activated by Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101440,
+    "name": "てんさいエスパー",
+    "name_en": "Ladyboy Esper",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041440,
+      801041446
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「ねんどうりき」が発動する( 確率特大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "“Nendoriki” is activated when a move or jutsu whose type is “attack” is hit (high probability) <br>(activated by jutsu rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101441,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041441,
+      802041442,
+      802041443,
+      802041444,
+      802041445
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>味方生存者全体の素早さを上昇させる( 確率中/効果中 )",
+    "flavor_text_en": "[At the start of turn] <br>Increases the quickness of all allied survivors (during probability/during effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101443,
+    "name": "能力伝達Ⅱ(素早さ)",
+    "name_en": "Ability Transfer II (Quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011447
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>一定の確率で( 確率小 )<br>味方生存者全体のHPを回復( 効果極小 )させ、かつ、味方生存者全体の精神を上昇( 効果中 )させる",
+    "flavor_text_en": "[At the start of turn] Has <br><br>a certain chance (low probability) to restore the HP of all allied survivors (minimal effect), and boosts the spirit of all allied survivors (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101444,
+    "name": "チアヒーリングⅡ(精神)",
+    "name_en": "Cheer Healing II (Mental)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010778,
+      802011537
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、「おうだんかぼちゃ」が発動する( 確率大 )<br>タイプが「攻撃」である技・術(※)を命中させた時、「じゅうだんかぼちゃ」が発動する( 確率大 )<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない<br><br>おうだんかぼちゃ<br>体術技/攻撃/威力SS/間接/敵横一列 ( 打 ) ※体術技特殊タイプ(知)<br>範囲攻撃する<br>( 技Rank1で発動 )<br><br>じゅうだんかぼちゃ<br>体術技/攻撃/威力SS/間接/敵縦一列 ( 打 ) ※体術技特殊タイプ(知)<br>範囲攻撃する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When you hit a technique or jutsu (*) whose type is “attack”, “Odan Pumpkin” <br>is activated (high probability) When you hit a move or jutsu (*) whose type is “Attack”, “Judan Pumpkin” is activated <br><br><br>Do (high probability) * Does not include “normal attacks,” “techniques and techniques activated by this ability effect,” “counterattack techniques and techniques with counter effects,” and “techniques and techniques handed down in the R Cup.” <br>Taijutsu <br><br>Movement/Attack/Power SS/Indirect/Enemy Horizontal Line (Strike) *Taijutsu Special Type (Knowledge) Attack Range Attack (<br><br>Activated by Move Rank 1) Judan Pumpkin <br> Taijutsu <br><br>Movement/Attack/Power SS/Indirect/Enemy Vertical Row (Strike) *Attack Taijutsu Special Type (Knowledge) Range Attack (Activated by Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101445,
+    "name": "かぼちゃのおしおき",
+    "name_en": "Pumpkin shioki",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041456,
+      802041457
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「おうだんかぼちゃ」が発動する( 確率大 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When a move or jutsu whose type is “Attack” is hit, “Odan Pumpkin” is activated (high probability) <br>(activated with move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101446,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041448,
+      802041449,
+      802041450,
+      802041451
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「じゅうだんかぼちゃ」が発動する( 確率大 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When a move or jutsu whose type is “Attack” is hit, “Judan Pumpkin” is activated (high probability) <br>(activated with move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101447,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041452,
+      802041453,
+      802041454,
+      802041455
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、味方生存者全体の知力を上昇させる( 効果中 )",
+    "flavor_text_en": "When an attack is hit, increases the intelligence of all allied survivors (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101448,
+    "name": "能力波及Ⅱ(知力)",
+    "name_en": "Competence Influence II (Intellect)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011472
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時] <br>自身のBPを回復する( +4 )",
+    "flavor_text_en": "[When Battle Begins<br>] Recover Your BP (+4)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101450,
+    "name": "パワーチャージⅣ",
+    "name_en": "POWER CHARGE IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041534
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体術装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+    "flavor_text_en": "Increases damage dealt by attacks when equipped with physical arts (extra effective) <br>Reduces damage taken when receiving a resist attack (maximum effect) <br>When receiving a resist attack, evades enemy attacks (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101451,
+    "name": "体術の天稟Ⅳ",
+    "name_en": "The Tensho of Taijutsu IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040909,
+      802041212,
+      802041181
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、被ダメージを軽減しあめだまバズーカ乱射でカウンター攻撃する<br><br>反撃技：あめだまバズーカ乱射<br>銃技/攻撃/威力D/間接/敵単体 ( 打 ) <br>ランダムな敵に攻撃する ( 1-3回 )<br>反撃を受けると中断する(攻撃時アビリティは初撃のみ発動)<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When attacked<br>, counterattack that reduces damage taken and counterattacks with an amedama bazooka <br><br>shootout against a direct attack: amedama bazooka shooting <br>gunwork/attack/power D/indirect/enemy Single unit (hit) <br>Attacks random enemies (1-3 times) <br>Interrupts when receiving a counterattack (when attacking, only the first hit ability is activated) <br>(activated with move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101452,
+    "name": "あめだまリベンジ",
+    "name_en": "Amedama Revenge",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041460
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃を受けた時<br>自身の体力と器用さと精神を上昇させる( 効果大 )",
+    "flavor_text_en": "<br>Increases one's own health, dexterity, and spirit when attacked (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101453,
+    "name": "テクニカルファイター",
+    "name_en": "Technical fighter",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011461,
+      802010783,
+      802010784
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>カウンター攻撃の場合、さらに与ダメージが上昇する( 効果特大 )<br>かつ、バトル開始時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "The damage dealt by the attack increases (extra effective). In the <br>case of a counter attack, the damage dealt is further increased (extra effective)<br>, and at the start of the battle, you recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101454,
+    "name": "バトルカウンターハイテンション",
+    "name_en": "Battle counter high tension",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802040012,
+      802040323
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "攻撃命中時<br>自身のBPを回復する( +1 )",
     "flavor_text_en": "<br>Recover your own BP when hit by an attack (+1)",
@@ -11140,6 +11380,43 @@
     "sort_order": 0,
     "special_effect_ids": [
       802040742
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身に「モラルアップ(小)」を付与する( 効果1ターン )<br>自身に「ガードアップ(小)」を付与する( 効果1ターン )<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "[Start of turn] <br>Give yourself a “Moral Up (Small)” (Effect 1 turn) Give <br>yourself a “Guard Up (Small)” (Effect 1 turn) <br>Recover your own BP ( +2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101456,
+    "name": "逸材",
+    "name_en": "Talented material",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041463,
+      802041464,
+      802040754
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身の知力を上昇させる( 効果特大 )<br>自身に「防御強化」を付与する( 効果特大/効果1ターン )",
+    "flavor_text_en": "[At the start of turn] <br>Increases your own intelligence (super effective) and <br>grants yourself “Defense Boost” (effect oversized, effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101457,
+    "name": "稀代の大魔力",
+    "name_en": "A rare magic power",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041480,
+      802011433
     ]
   },
   {
@@ -11178,6 +11455,42 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "杖装備時<br>攻撃の与ダメージが上昇( 効果極大 )し、<br>Weak攻撃の場合、さらに与ダメージが上昇( 効果特大 )する",
+    "flavor_text_en": "When equipped <br>with a cane, damage dealt by attacks is increased (maximum effect), and in the <br>case of weak attacks, damage dealt is further increased (extra effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101479,
+    "name": "杖の秘奥Ⅴ",
+    "name_en": "The Secret Secret of the Cane V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041479,
+      802041482
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>一定の確率で( 確率中 )<br>味方生存者全体のBPを回復( +1 )し、<br>かつ、味方生存者全体に「防御強化」( 効果大/効果1ターン )を付与する",
+    "flavor_text_en": "[At the start of a turn] <br><br><br>There is a certain chance (during probability) that all allied survivors will recover (+1) the BP of all allied survivors, and give all allied survivors a “defensive boost” (big effect/1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101480,
+    "name": "練壁守護",
+    "name_en": "Nerikabe Shugo",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040745,
+      802040730
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "攻撃を受けた時 <br>直接攻撃を回避して、やきしちしとうでカウンター攻撃する( 確率小 )<br>( 技Rank1で発動 )",
     "flavor_text_en": "When attacked<br>, evade a direct attack and counter attack with a jerk (small chance) <br>(activated with move Rank 1)",
     "flavor_text_en_src": "ml",
@@ -11191,6 +11504,60 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041481
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "熱属性攻撃の与ダメージが上昇する( 効果特大 )<br>熱属性攻撃時、自身のBPを回復する( +2 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果大 )",
+    "flavor_text_en": "Increases damage dealt by heat attacks (extra effective) <br>heals own BP during heat attacks (+2) <br>reduces damage taken when receiving resist attacks (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101482,
+    "name": "バーニングオーラ",
+    "name_en": "Burning Aura",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040971,
+      802041429,
+      802041483
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "熱属性攻撃時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Recover your own BP when attacking heat (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101483,
+    "name": "熱属性攻撃時 BP回復",
+    "name_en": "BP recovery during heat attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041484
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「ダメージブロック(1回)」を付与する( 効果1ターン )<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "[Start of Turn] <br>Give yourself a “Damage Block (1 time)” (effect 1 turn) and <br>restore your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101484,
+    "name": "ターン開始時 ダメージブロック(1回)・BP回復",
+    "name_en": "Block damage at start of turn (1 time) and restore BP",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041485,
+      802040812
     ]
   },
   {
@@ -41226,6 +41593,23 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の知力を上昇させる( 効果中 )",
+    "flavor_text_en": "[At the start of turn] <br>Increase your own intelligence (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300230,
+    "name": "能力向上(知力)",
+    "name_en": "Improved ability (intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010531
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -44432,7 +44816,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "シリーズがSaGa1・SaGa2・SaGa3であるキャラクターの場合<br>敵に与えるダメージが36%上昇する",
+    "flavor_text": "シリーズがGBSaGaであるキャラクターの場合<br>敵に与えるダメージが36%上昇する",
     "flavor_text_en": "SaGa1/SaGa2/SaGa3 characters' attack damage increases by 36%.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -44451,7 +44835,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "シリーズがSaGa1・SaGa2・SaGa3であるキャラクターの場合<br>敵に与えるダメージが24%上昇する",
+    "flavor_text": "シリーズがGBSaGaであるキャラクターの場合<br>敵に与えるダメージが24%上昇する",
     "flavor_text_en": "SaGa1/SaGa2/SaGa3 characters' attack damage increases by 24%.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -44470,7 +44854,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "シリーズがSaGa1・SaGa2・SaGa3であるキャラクターの場合<br>敵に与えるダメージが12%上昇する",
+    "flavor_text": "シリーズがGBSaGaであるキャラクターの場合<br>敵に与えるダメージが12%上昇する",
     "flavor_text_en": "SaGa1/SaGa2/SaGa3 characters' attack damage increases by 12%.",
     "flavor_text_en_src": "gl",
     "icon": 4010,

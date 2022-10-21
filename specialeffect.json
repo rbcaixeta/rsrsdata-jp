@@ -4375,6 +4375,27 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011361,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Mentality up",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "精神↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "毒耐性が上昇する",
     "flavor_text_en": "Increases Poison Resistance.",
@@ -14765,6 +14786,49 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ネコアタックで攻撃後、ネコのツメで攻撃を行う",
+    "flavor_text_en": "Attack with a cat attack, then attack with the cat's claws",
+    "flavor_text_en_src": "ml",
+    "id": 801041311,
+    "ignition_effect_id": "",
+    "name": "ネコアタック",
+    "name_en": "cat attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500088
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Plane",
+    "flavor_text": "自身の狙われやすさが低下する",
+    "flavor_text_en": "Your own ease of being targeted decreases",
+    "flavor_text_en_src": "ml",
+    "id": 801041312,
+    "ignition_effect_id": "",
+    "name": "ステルス(中)",
+    "name_en": "stealth (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040047,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FFFFFF",
+    "text_pop": "ステルス",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "BPが回復する",
@@ -14828,6 +14892,72 @@
     "text_pop": "防御↑",
     "triggering_effect_condition_ids": [
       14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 801041329,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover HP",
+    "flavor_text_en_src": "ml",
+    "id": 801041331,
+    "ignition_effect_id": "",
+    "name": "HP回復(特大)",
+    "name_en": "HP recovery (extra large)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      40
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン開始時]<br>自身に「ダメージブロック(1回)」を付与する( 効果1ターン )<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "[Start of Turn] <br>Give yourself a “Damage Block (1 time)” (effect 1 turn) and <br>restore your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "id": 801041446,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 ダメージブロック(1回)・BP回復",
+    "name_en": "Block damage at start of turn (1 time) and restore BP",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101484
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -20633,6 +20763,90 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Your quickness will increase",
+    "flavor_text_en_src": "ml",
+    "id": 802011447,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Improve your quickness",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 802011461,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve your dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect increases",
+    "flavor_text_en_src": "ml",
+    "id": 802011472,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 802011537,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Mentality up",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "精神↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -38936,6 +39150,381 @@
   {
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、<br>「ねんどうりき」が発動する(確率特大)",
+    "flavor_text_en": "“<br>Nendoriki” is activated when a technique or jutsu whose type is “attack” is hit (very high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041440,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101441
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1を命中させた時、ねんどうりきが発動する(確率特大)",
+    "flavor_text_en": "When you hit move 1, Nendoriki is activated (very high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041441,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125100242
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "てんさいエスパー",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を命中させた時、ねんどうりきが発動する(確率特大)",
+    "flavor_text_en": "When you hit move 2, Nendoriki is activated (very high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041442,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125100242
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "てんさいエスパー",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を命中させた時、ねんどうりきが発動する(確率特大)",
+    "flavor_text_en": "When you hit move 3, Nendoriki is activated (very high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041443,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125100242
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "てんさいエスパー",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、ねんどうりきが発動する(確率特大)",
+    "flavor_text_en": "When you hit an inheritance move, Nendoriki is activated (extra large probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041444,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125100242
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "てんさいエスパー",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を命中させた時、ねんどうりきが発動する(確率特大)",
+    "flavor_text_en": "When a normal attack is hit, Nendoriki is activated (very high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041445,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125100242
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "てんさいエスパー",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1を命中させた時、おうだんかぼちゃが発動する(確率大)",
+    "flavor_text_en": "When you hit move 1, Odan Pumpkin is activated (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041448,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500329
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を命中させた時、おうだんかぼちゃが発動する(確率大)",
+    "flavor_text_en": "When you hit move 2, Odan Pumpkin is activated (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041449,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500329
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を命中させた時、おうだんかぼちゃが発動する(確率大)",
+    "flavor_text_en": "When you hit move 3, Odan Pumpkin is activated (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041450,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500329
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、おうだんかぼちゃが発動する(確率大)",
+    "flavor_text_en": "When you hit an inheritance move, Odan Pumpkin is activated (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041451,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500329
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1を命中させた時、じゅうだんかぼちゃが発動する(確率大)",
+    "flavor_text_en": "When you hit move 1, Judan Pumpkin is activated (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041452,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500330
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を命中させた時、じゅうだんかぼちゃが発動する(確率大)",
+    "flavor_text_en": "When you hit move 2, Judan Pumpkin is activated (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041453,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500330
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を命中させた時、じゅうだんかぼちゃが発動する(確率大)",
+    "flavor_text_en": "When you hit move 3, Judan Pumpkin is activated (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041454,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500330
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、じゅうだんかぼちゃが発動する(確率大)",
+    "flavor_text_en": "When you hit an inheritance move, Judan Pumpkin is activated (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041455,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500330
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「おうだんかぼちゃ」が発動する( 確率大 )",
+    "flavor_text_en": "When a technique or jutsu whose type is “Attack” is hit, “Odan Pumpkin” is activated (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041456,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101446
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「じゅうだんかぼちゃ」が発動する( 確率大 )",
+    "flavor_text_en": "“Judan Pumpkin” is activated when a technique or jutsu whose type is “Attack” is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041457,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101447
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃に対して、あめだまバズーカ乱射でカウンター攻撃を行う<br>さらに被ダメージが低下する",
+    "flavor_text_en": "Perform a counter attack with an amedama bazooka attack against an enemy's direct attack, and <br>damage taken is further reduced",
+    "flavor_text_en_src": "ml",
+    "id": 802041460,
+    "ignition_effect_id": "",
+    "name": "あめだまリベンジ",
+    "name_en": "Amedama Revenge",
+    "name_en_src": "ml",
+    "state_change_id": 900040035,
+    "state_icon": 3001,
+    "state_vars": [
+      110600263,
+      65
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "攻撃を命中させた時、自身のBPが回復する( +1 )",
     "flavor_text_en": "When you hit an attack, your BP is restored (+1)",
     "flavor_text_en_src": "ml",
@@ -38953,6 +39542,50 @@
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Damage dealt to enemies is increased (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041463,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(小)",
+    "name_en": "Moral up (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃 防御↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage received from enemies is reduced (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041464,
+    "ignition_effect_id": "",
+    "name": "ガードアップ(小)",
+    "name_en": "guard up (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040101,
+    "state_icon": 3001,
+    "state_vars": [
+      88
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {
@@ -39003,6 +39636,51 @@
   {
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "杖装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Attack damage when equipped with a cane increases",
+    "flavor_text_en_src": "ml",
+    "id": 802041479,
+    "ignition_effect_id": "",
+    "name": "杖攻撃強化",
+    "name_en": "Improved cane attack",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      21010
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 802041480,
+    "ignition_effect_id": "",
+    "name": "防御",
+    "name_en": "defenses",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      70
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "知力 防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "敵の直接攻撃を回避して、やきしちしとうでカウンター攻撃を行う( 確率小 )",
     "flavor_text_en": "Avoid direct enemy attacks and perform counter attacks with yakishichishito (low probability)",
     "flavor_text_en_src": "ml",
@@ -39020,6 +39698,96 @@
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "杖装備時のWeak攻撃のダメージが上昇する",
+    "flavor_text_en": "Damage from Weak attacks when equipped with a cane increases",
+    "flavor_text_en_src": "ml",
+    "id": 802041482,
+    "ignition_effect_id": "",
+    "name": "杖装備時Weak攻撃強化",
+    "name_en": "Weak attack enhancement when equipped with a cane",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      10,
+      21010
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "熱属性攻撃時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Recover your own BP when attacking heat (+2)",
+    "flavor_text_en_src": "ml",
+    "id": 802041483,
+    "ignition_effect_id": "",
+    "name": "熱属性攻撃時 BP回復",
+    "name_en": "BP recovery during heat attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101483
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Will my BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041484,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      2
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージを100%カットする( 上限回数:1 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Cut damage taken by 100% (maximum number of times: 1 ※ only active when an attack hits)",
+    "flavor_text_en_src": "ml",
+    "id": 802041485,
+    "ignition_effect_id": "",
+    "name": "ダメージブロック(1回)",
+    "name_en": "Damage block (1 time)",
+    "name_en_src": "ml",
+    "state_change_id": 900040184,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ダメージブロック",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {
@@ -39042,6 +39810,28 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       21008
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Will my BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041534,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      4
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -50930,6 +51720,27 @@
     "flavor_text_en": "Intellect increases",
     "flavor_text_en_src": "ml",
     "id": 808010518,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve your intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010531,
     "ignition_effect_id": "",
     "name": "知力アップ",
     "name_en": "Improve your intelligence",

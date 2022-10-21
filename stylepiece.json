@@ -36,6 +36,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[連続発射だ！]にんげんおとこ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [continuous firing!] A special piece for green beans and men. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 110104,
+    "id": 110104,
+    "name": "SSにんげんおとこのピース",
+    "name_en": "SS Green Bean Man's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[どこまでも登れるわ]にんげんおんな専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Expert Climber] Human Female.",
@@ -72,6 +84,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[白魔女戦闘モード！]にんげんおんな専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [White Witch Battle Mode!] A special piece for green beans and women. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 110205,
+    "id": 110205,
+    "name": "SSにんげんおんなのピース",
+    "name_en": "SS Green Beans Onna no Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[魔法使いじゃないのよ]エスパーギャル専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [I'm Not a Mage!] Esper Girl.",
@@ -105,6 +129,18 @@
     "name": "SSエスパーギャルのピース",
     "name_en": "SS Esper Girl Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[一緒に乗ってく？]エスパーガール専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Shall we ride with you?] An exclusive piece for Esper Girl. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 110405,
+    "id": 110405,
+    "name": "SSエスパーガールのピース",
+    "name_en": "SS Esper Girl Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -165,6 +201,18 @@
     "name": "SSかみのピース",
     "name_en": "SS Creator Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[かみのカボチャ！]かみ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Kami no Pumpkin!] A piece dedicated to chewing. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 119106,
+    "id": 119106,
+    "name": "SSかみのピース",
+    "name_en": "SS Kami no Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -237,6 +285,18 @@
     "name": "SSせんせいのピース",
     "name_en": "SS Sensei Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[美女の血が呼んでいる]せんせい専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Beauty's Blood Is Calling] is a piece dedicated to Sensei. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 121104,
+    "id": 121104,
+    "name": "SSせんせいのピース",
+    "name_en": "SS teacher's piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -384,6 +444,18 @@
     "selling_price": 60
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ハロウィンバスター！]最終防衛システム専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Halloween Buster!] A piece dedicated to the final defense system. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 129103,
+    "id": 129103,
+    "name": "SS最終防衛システムのピース",
+    "name_en": "SS Final Defense System Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[あたらしきかみ]アポロン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [A New God] Apollo.",
@@ -417,6 +489,18 @@
     "name": "SSアポロンのピース",
     "name_en": "SS Apollo Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[死者を迎えに来たぞ]アポロン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [We Came to Pick Up the Dead] A piece exclusive to Apollon. Can be used for style summons or limit breakthroughs.",
+    "flavor_text_en_src": "ml",
+    "icon": 129204,
+    "id": 129204,
+    "name": "SSアポロンのピース",
+    "name_en": "SS Apollon Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

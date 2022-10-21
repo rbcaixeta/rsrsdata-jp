@@ -20340,6 +20340,40 @@
   },
   {
     "enemy_class": 99,
+    "gender": 9,
+    "id": 199388,
+    "illust": 1993881,
+    "name": "かみ",
+    "name_en": "Kami",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      21,
+      82
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199389,
+    "illust": 1993891,
+    "name": "最終防衛システム",
+    "name_en": "The final defense system",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      18,
+      82
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
     "gender": 1,
     "id": 211011,
     "illust": 110100,
