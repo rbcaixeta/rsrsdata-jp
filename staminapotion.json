@@ -2490,5 +2490,47 @@
     "name_en_src": "ml",
     "sort_order": 22102115,
     "value": 90
+  },
+  {
+    "expired_at": 1674932399,
+    "flavor_text": "[期間限定]スタミナを30回復させるアイテム（2023/1/29 4:00まで）",
+    "flavor_text_en": "[Limited time] Item that restores 30 stamina (until 4:00 on 2023/1/29)",
+    "flavor_text_en_src": "ml",
+    "icon": 840193,
+    "id": 840193,
+    "max_quantity": 99999,
+    "name": "侯国大学文化祭！開幕記念スタミナ回復剤(小)[期間限定]",
+    "name_en": "Hōguk University Cultural Festival! Opening Memorial Stamina Recovery Agent (Small) [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22102805,
+    "value": 30
+  },
+  {
+    "expired_at": 1674932399,
+    "flavor_text": "[期間限定]スタミナを60回復させるアイテム（2023/1/29 4:00まで）",
+    "flavor_text_en": "[Limited time offer] Items that restore 60 stamina (until 2023/1/29 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 840194,
+    "id": 840194,
+    "max_quantity": 99999,
+    "name": "侯国大学文化祭！開幕記念スタミナ回復剤(中)[期間限定]",
+    "name_en": "Hōguk University Cultural Festival! Opening Memorial Stamina Recovery Agent (Medium) [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22102810,
+    "value": 60
+  },
+  {
+    "expired_at": 1674932399,
+    "flavor_text": "[期間限定]スタミナを90回復させるアイテム（2023/1/29 4:00まで）",
+    "flavor_text_en": "[Limited time offer] Item that restores 90 stamina (until 2023/1/29 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 840195,
+    "id": 840195,
+    "max_quantity": 99999,
+    "name": "侯国大学文化祭！開幕記念スタミナ回復剤(大)[期間限定]",
+    "name_en": "Hōguk University Cultural Festival! Opening Memorial Stamina Recovery Agent (Large) [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22102815,
+    "value": 90
   }
 ]

@@ -48940,6 +48940,33 @@
     ]
   },
   {
+    "id": 5767,
+    "ribbon": "ドロップ10倍中！",
+    "campaign_type": 3,
+    "rate": 10,
+    "reward_type": 1,
+    "reward_id": 100003,
+    "drop_group_ids": []
+  },
+  {
+    "id": 5768,
+    "ribbon": "報酬3倍",
+    "campaign_type": 6,
+    "rate": 3,
+    "reward_type": 7,
+    "reward_id": 882001,
+    "drop_group_ids": []
+  },
+  {
+    "id": 5769,
+    "ribbon": "報酬3倍",
+    "campaign_type": 6,
+    "rate": 3,
+    "reward_type": 7,
+    "reward_id": 882002,
+    "drop_group_ids": []
+  },
+  {
     "id": 5770,
     "ribbon": "きれいな石・つるはし・魔石ドロップ中！",
     "campaign_type": 5,
@@ -49527,6 +49554,75 @@
       21012597,
       21012598,
       21012601
+    ]
+  },
+  {
+    "id": 5808,
+    "ribbon": "文化祭の思い出ドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21012663
+    ]
+  },
+  {
+    "id": 5809,
+    "ribbon": "文化祭の思い出ドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21012663,
+      21012663
+    ]
+  },
+  {
+    "id": 5815,
+    "ribbon": "模擬店チケットドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21012728
+    ]
+  },
+  {
+    "id": 5816,
+    "ribbon": "模擬店チケットドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21012729
+    ]
+  },
+  {
+    "id": 5817,
+    "ribbon": "模擬店チケットドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21012728,
+      21012728
+    ]
+  },
+  {
+    "id": 5818,
+    "ribbon": "模擬店チケットドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21012729,
+      21012729
     ]
   }
 ]

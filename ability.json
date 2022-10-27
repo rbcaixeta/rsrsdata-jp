@@ -11420,6 +11420,58 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃命中時、自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中5回 )<br>Resist攻撃を受けた時、自身に「ディフェンスアップ」( 効果中 )を付与する( 上限回数:バトル中5回 ※攻撃が命中した時のみ発動 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
+    "flavor_text_en": "Give yourself a “heat up” (in effect) when hit by a weak attack (maximum number of times: 5 times during battle). <br>When receiving a resist attack, give yourself a “defense up” (in effect) Do (maximum number of times: 5 times during battle*Activated only when an <br><br><br>attack is hit) Heat-up increases damage dealt by attacks (effect lasts during battle) <br><br>Defense <br>Ups reduce damage taken (lasts during effect battles)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101458,
+    "name": "気焔戦守Ⅱ",
+    "name_en": "Kien Senshu II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041242,
+      802041465
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "Resist攻撃を受けた時、自身に「ディフェンスアップ」( 効果中 )を付与する( 上限回数:バトル中5回 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "When attacked by Resist, grant yourself a “Defense Up” (in effect) (maximum number of times: 5 times during battle*Activated only when an attack hits)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101459,
+    "name": "Resist攻撃被弾時 ディフェンスアップ",
+    "name_en": "Defense up when hit by a resist attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041466
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方生存者全体の打属性攻撃の与ダメージが上昇する( 効果中 )",
+    "flavor_text_en": "Damage dealt by hitting attacks of all allied survivors is increased (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101461,
+    "name": "打の隆盛",
+    "name_en": "The prosperity of hitting",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041467
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時]<br>自身のHPを回復する( 効果極小/効果5ターン )",
     "flavor_text_en": "[End of Turn] <br>Recover own HP (Effect Minimum/Effect for 5 turns)",
@@ -11451,6 +11503,25 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041421
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方全体の与ダメージが上昇する( 効果小 )<br>味方全体への被ダメージを軽減する( 効果小 )<br><br>味方全体の体術装備時の与ダメージが上昇する( 効果中 )",
+    "flavor_text_en": "Damage dealt to all allies increases (small effect) <br>Reduces damage taken to all allies (small effect) Increases damage dealt to all <br><br>allies when equipped with taijutsu (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101478,
+    "name": "体術の伝授Ⅱ",
+    "name_en": "Teaching Taijutsu II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041048,
+      802041049,
+      802041428
     ]
   },
   {
@@ -11558,6 +11629,94 @@
     "special_effect_ids": [
       802041485,
       802040812
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身に「攻撃強化」を付与する( 効果極大/効果1ターン )",
+    "flavor_text_en": "At the start of the odd-numbered turn counting from the start of the battle, give yourself “Attack Boost” (maximum effect/effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101490,
+    "name": "奇数ターン開始時 攻撃強化",
+    "name_en": "Attack enhancement at the start of an odd turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041034
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身に「攻撃強化」を付与する( 効果極大/効果1ターン )<br>バトル開始から数えて偶数ターン目の開始時、味方生存者全体に「攻撃強化」を付与する( 効果大/効果1ターン )",
+    "flavor_text_en": "At the start of the odd-numbered turn counting from the start of the battle, give yourself “Attack Enhancement” (Maximum Effect/Effect 1 turn) <br>When starting an even-numbered turn counting from the start of the battle, “Attack Boost” to all allied survivors Grant (big effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101491,
+    "name": "奇偶激攻 ",
+    "name_en": "Parity Attack ",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041493,
+      802041494
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、味方生存者全体に「攻撃強化」を付与する( 効果大/効果1ターン )",
+    "flavor_text_en": "At the start of an even-numbered turn counting from the start of the battle, grant “Attack Boost” to all allied survivors (large effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101496,
+    "name": "偶数ターン開始時 攻撃強化",
+    "name_en": "Attack enhancement at the start of an even-numbered turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041551
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>一定の確率で( 確率中 )<br>味方生存者全体のBPを回復( +1 )し、<br>さらに、味方生存者全体に「攻撃強化」( 効果大/効果1ターン )を付与する",
+    "flavor_text_en": "[At the start of a turn] There is a <br>certain chance (during probability) that all <br>allied survivors will recover (+1) BP<br>, and also give all allied survivors an “attack boost” (big effect/effect 1 turn) does",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101502,
+    "name": "練攻の檄Ⅰ",
+    "name_en": "The first one of the training",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040745,
+      802041512
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身のHPを回復( 効果極小 )し、かつ、自身の器用さを上昇( 効果中 )させる",
+    "flavor_text_en": "[At the start of turn] <br>Heals your own HP (minimal effect) and increases your own dexterity (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101503,
+    "name": "療養活性Ⅱ(器用さ)",
+    "name_en": "Recuperative Activity II (Dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041204,
+      802011513
     ]
   },
   {
@@ -40566,6 +40725,24 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[ターン終了時]<br>特定ターン毎に、野盗を呼び出す",
+    "flavor_text_en": "[At the end of <br>turn] Summon a thief every specific turn",
+    "flavor_text_en_src": "ml",
+    "icon": 4014,
+    "id": 708100237,
+    "name": "野盗招集",
+    "name_en": "Call for Thieves",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040527,
+      808040528
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "Weak攻撃の<br>与ダメージが上昇する( 効果特大 )",
     "flavor_text_en": "Weak attacks' damage increases (very large effect).",
@@ -40783,6 +40960,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040465
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "攻撃を受けた時<br>被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "<br>Reduces damage taken when attacked (extra effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 708200225,
+    "name": "鉄壁の守りⅤ",
+    "name_en": "Ironclad Defender V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040514
     ]
   },
   {
@@ -42390,6 +42584,24 @@
   },
   {
     "ability_when": 4,
+    "flavor_text": "バトル開始から数えて2ターン目終了時に野盗を呼び出す。その後3ターン経過毎の終了時に、再度野盗を呼び出す。",
+    "flavor_text_en": "Call the thief at the end of the 2nd turn counting from the start of the battle. Then, at the end of every 3 turns elapsed, the thief is called again.",
+    "flavor_text_en_src": "ml",
+    "icon": 4014,
+    "id": 708400226,
+    "name": "野盗招集",
+    "name_en": "Call for Thieves",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040515,
+      808040516
+    ]
+  },
+  {
+    "ability_when": 4,
     "flavor_text": "バトル開始から数えて3の倍数のターン終了時、敵全体の精神の能力アップ状態を解除する",
     "flavor_text_en": "At the end of a turn that is a multiple of 3 counting from the start of the battle, unlock the mental ability upgrade state of all enemies",
     "flavor_text_en_src": "ml",
@@ -42403,6 +42615,24 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040521
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "バトル開始から数えて3ターン目終了時に野盗を呼び出す。その後3ターン経過毎の終了時に、再度野盗を呼び出す。",
+    "flavor_text_en": "Call the thief at the end of the 3rd turn counting from the start of the battle. Then, at the end of every 3 turns elapsed, the thief is called again.",
+    "flavor_text_en_src": "ml",
+    "icon": 4014,
+    "id": 708400231,
+    "name": "野盗招集",
+    "name_en": "Call for Thieves",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040522,
+      808040523
     ]
   },
   {
@@ -43156,6 +43386,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808010509
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃を受けた時 <br>自身に「ヒートアップ」を付与する( 効果中 )<br>※攻撃が命中した時のみ発動<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "Gives <br>itself a “heat up” when attacked (effective) <br>*Activates only when an attack is hit <br><br>Heat-up <br>increases damage dealt by the attack (effect battle (Medium permanent)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600232,
+    "name": "逆上",
+    "name_en": "frenzy",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040524
     ]
   },
   {

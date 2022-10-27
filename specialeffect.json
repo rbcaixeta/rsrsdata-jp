@@ -4332,6 +4332,48 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "愛が低下する",
+    "flavor_text_en": "Love declines",
+    "flavor_text_en_src": "ml",
+    "id": 801011335,
+    "ignition_effect_id": "",
+    "name": "愛ダウン",
+    "name_en": "Love down",
+    "name_en_src": "ml",
+    "state_change_id": 900010018,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "FF0000",
+    "text_pop": "愛 魅力↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が低下する",
+    "flavor_text_en": "Attractiveness decreases",
+    "flavor_text_en_src": "ml",
+    "id": 801011336,
+    "ignition_effect_id": "",
+    "name": "魅力ダウン",
+    "name_en": "Attractiveness down",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "知力が上昇する",
     "flavor_text_en": "Intellect increases",
@@ -4391,6 +4433,27 @@
     "target_area": 3,
     "text_color": "65D2FF",
     "text_pop": "精神↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140400109",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011379,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Improve your strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "腕力↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -14830,6 +14893,28 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "BPが回復する",
+    "flavor_text_en": "Will BP recover",
+    "flavor_text_en_src": "ml",
+    "id": 801041319,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      10
+    ],
+    "target_area": 12,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "BPが回復する",
     "flavor_text_en": "Will BP recover",
@@ -14917,6 +15002,28 @@
     ]
   },
   {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "高翔び蹴りで攻撃後、まわしげりで攻撃を行う",
+    "flavor_text_en": "Attack with a high-flying kick, then attack with a mawashigeri",
+    "flavor_text_en_src": "ml",
+    "id": 801041330,
+    "ignition_effect_id": "",
+    "name": "高翔び蹴り",
+    "name_en": "Takashobi kick",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500341
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "HPを回復する",
@@ -14935,6 +15042,69 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 801041343,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "敵に与えるダメージが低下する",
+    "flavor_text_en": "Damage dealt to enemies is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 801041351,
+    "ignition_effect_id": "",
+    "name": "攻撃弱化(極大)",
+    "name_en": "Attack weakening (maximum)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "攻撃↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Damage dealt to enemies is increased (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041366,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(小)",
+    "name_en": "Moral up (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -20826,6 +20996,27 @@
     "target_area": 3,
     "text_color": "65D2FF",
     "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 802011513,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve your dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "器用さ↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -39591,6 +39782,73 @@
   {
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "Resist攻撃を受けた時、自身に「ディフェンスアップ」( 効果中 )を付与する( ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Give yourself a “Defense Up” (in effect) when attacked by Resist (*Activates only when an attack hits)",
+    "flavor_text_en_src": "ml",
+    "id": 802041465,
+    "ignition_effect_id": "",
+    "name": "Resist攻撃被弾時 ディフェンスアップ",
+    "name_en": "Defense up when hit by a resist attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101459
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 802041466,
+    "ignition_effect_id": "",
+    "name": "ディフェンスアップ",
+    "name_en": "Defense up",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "打属性で敵を攻撃時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to an enemy increases when attacking an enemy with a striking attribute",
+    "flavor_text_en_src": "ml",
+    "id": 802041467,
+    "ignition_effect_id": "",
+    "name": "打攻撃強化",
+    "name_en": "Attack enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "打攻撃↑",
+    "triggering_effect_condition_ids": [
+      22002
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "ターン開始時、味方生存者全体に「エレメントガード(陰/小)」を付与する（効果1ターン）",
     "flavor_text_en": "At the start of a turn, give “Element Guard (Shade/Small)” to all allied survivors (effect 1 turn)",
     "flavor_text_en_src": "ml",
@@ -39815,6 +40073,72 @@
   {
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身に「攻撃強化」を付与する( 効果極大/効果1ターン )",
+    "flavor_text_en": "At the start of the odd-numbered turn counting from the start of the battle, give yourself “Attack Boost” (maximum effect/effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802041493,
+    "ignition_effect_id": "",
+    "name": "奇数ターン開始時 攻撃強化",
+    "name_en": "Attack enhancement at the start of an odd turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101490
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、味方生存者全体に「攻撃強化」を付与する( 効果大/効果1ターン )",
+    "flavor_text_en": "At the start of an even-numbered turn counting from the start of the battle, grant “Attack Boost” to all allied survivors (large effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802041494,
+    "ignition_effect_id": "",
+    "name": "偶数ターン開始時 攻撃強化",
+    "name_en": "Attack enhancement at the start of an even-numbered turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101496
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 802041512,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "自身のBPが回復する",
     "flavor_text_en": "Will my BP recover",
     "flavor_text_en_src": "ml",
@@ -39832,6 +40156,28 @@
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 802041551,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
     ]
   },
   {
@@ -55098,6 +55444,79 @@
   },
   {
     "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 808040514,
+    "ignition_effect_id": "",
+    "name": "防御",
+    "name_en": "defenses",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      70
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、野盗を呼び出す",
+    "flavor_text_en": "Call a thief at the end of each specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040515,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      20101712,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、野盗を呼び出す",
+    "flavor_text_en": "Call a thief at the end of each specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040516,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      20101713,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身の知力を上昇させる( 効果中 )",
     "flavor_text_en": "Increases your own intelligence at the start of an even-numbered turn counting from the start of the battle (in effect)",
@@ -55159,6 +55578,122 @@
     "target_area": 5,
     "text_color": "FF0000",
     "text_pop": "精神アップ解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、野盗を呼び出す",
+    "flavor_text_en": "Call a thief at the end of each specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040522,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      1,
+      20101712,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "特定ターン終了毎に、野盗を呼び出す",
+    "flavor_text_en": "Call a thief at the end of each specific turn",
+    "flavor_text_en_src": "ml",
+    "id": 808040523,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Call your friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      1,
+      20101713,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 808040524,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて2ターン目終了時に野盗を呼び出す。その後3ターン経過毎の終了時に、再度野盗を呼び出す。",
+    "flavor_text_en": "Call the thief at the end of the 2nd turn counting from the start of the battle. Then, at the end of every 3 turns elapsed, the thief is called again.",
+    "flavor_text_en_src": "ml",
+    "id": 808040527,
+    "ignition_effect_id": "",
+    "name": "野盗招集",
+    "name_en": "Call for Thieves",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      708400226
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて3ターン目終了時に野盗を呼び出す。その後3ターン経過毎の終了時に、再度野盗を呼び出す。",
+    "flavor_text_en": "Call the thief at the end of the 3rd turn counting from the start of the battle. Then, at the end of every 3 turns elapsed, the thief is called again.",
+    "flavor_text_en_src": "ml",
+    "id": 808040528,
+    "ignition_effect_id": "",
+    "name": "野盗招集",
+    "name_en": "Call for Thieves",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      708400231
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },

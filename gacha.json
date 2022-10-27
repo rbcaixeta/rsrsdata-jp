@@ -9328,9 +9328,9 @@
     "name_en": "Platinum gacha",
     "name_en_src": "ml",
     "new_badge_illust": 10004,
-    "object_dot_id": 1000003,
-    "object_offset_x": 10000,
-    "object_offset_y": 10000
+    "object_dot_id": 0,
+    "object_offset_x": 0,
+    "object_offset_y": 0
   },
   {
     "bgm": 0,
@@ -9345,9 +9345,9 @@
     "name_en": "Platinum ticket gacha",
     "name_en_src": "ml",
     "new_badge_illust": 10004,
-    "object_dot_id": 1000003,
-    "object_offset_x": 10000,
-    "object_offset_y": 10000
+    "object_dot_id": 0,
+    "object_offset_x": 0,
+    "object_offset_y": 0
   },
   {
     "bgm": 0,
@@ -9583,6 +9583,125 @@
     "name_en": "Halloween 2022 Sa Ga Romancing Festival Esper Girl Edition",
     "name_en_src": "ml",
     "new_badge_illust": 10001,
+    "object_dot_id": 1000003,
+    "object_offset_x": 10000,
+    "object_offset_y": 10000
+  },
+  {
+    "bgm": 130285,
+    "clear_stamp": 1,
+    "directing_group_id": 0,
+    "display_on_hour": 0,
+    "gacha_banner": 0,
+    "gacha_banner_dot_ids": [
+    ],
+    "id": 1000585,
+    "name": "開幕！侯国大学文化祭！Romancing祭 セルマ編",
+    "name_en": "Opening! Hōguk University Cultural Festival! Romancing festival Selma edition",
+    "name_en_src": "ml",
+    "new_badge_illust": 10001,
+    "object_dot_id": 1000003,
+    "object_offset_x": 10000,
+    "object_offset_y": 10000
+  },
+  {
+    "bgm": 130285,
+    "clear_stamp": 0,
+    "directing_group_id": 0,
+    "display_on_hour": 0,
+    "gacha_banner": 1000995,
+    "gacha_banner_dot_ids": [
+    ],
+    "id": 1000586,
+    "name": "開幕！侯国大学文化祭！Romancing祭 セルマ編",
+    "name_en": "Opening! Hōguk University Cultural Festival! Romancing festival Selma edition",
+    "name_en_src": "ml",
+    "new_badge_illust": 10001,
+    "object_dot_id": 1000003,
+    "object_offset_x": 10000,
+    "object_offset_y": 10000
+  },
+  {
+    "bgm": 0,
+    "clear_stamp": 1,
+    "directing_group_id": 0,
+    "display_on_hour": 0,
+    "gacha_banner": 0,
+    "gacha_banner_dot_ids": [
+    ],
+    "id": 1000587,
+    "name": "開幕！侯国大学文化祭！Romancing祭 レッド編",
+    "name_en": "Opening! Hōguk University Cultural Festival! Romancing festival red edition",
+    "name_en_src": "ml",
+    "new_badge_illust": 10001,
+    "object_dot_id": 1000003,
+    "object_offset_x": 10000,
+    "object_offset_y": 10000
+  },
+  {
+    "bgm": 0,
+    "clear_stamp": 0,
+    "directing_group_id": 0,
+    "display_on_hour": 0,
+    "gacha_banner": 1000997,
+    "gacha_banner_dot_ids": [
+    ],
+    "id": 1000588,
+    "name": "開幕！侯国大学文化祭！Romancing祭 レッド編",
+    "name_en": "Opening! Hōguk University Cultural Festival! Romancing festival red edition",
+    "name_en_src": "ml",
+    "new_badge_illust": 10001,
+    "object_dot_id": 1000003,
+    "object_offset_x": 10000,
+    "object_offset_y": 10000
+  },
+  {
+    "bgm": 0,
+    "clear_stamp": 0,
+    "directing_group_id": 0,
+    "display_on_hour": 0,
+    "gacha_banner": 9000080,
+    "gacha_banner_dot_ids": [
+    ],
+    "id": 1000589,
+    "name": "侯国大学文化祭！開幕記念 プラチナチケットガチャ",
+    "name_en": "Hōguk University Cultural Festival! Opening commemorative platinum ticket gacha",
+    "name_en_src": "ml",
+    "new_badge_illust": 10004,
+    "object_dot_id": 1000003,
+    "object_offset_x": 10000,
+    "object_offset_y": 10000
+  },
+  {
+    "bgm": 0,
+    "clear_stamp": 0,
+    "directing_group_id": 0,
+    "display_on_hour": 1,
+    "gacha_banner": 1000999,
+    "gacha_banner_dot_ids": [
+    ],
+    "id": 1000590,
+    "name": "プラチナガチャ",
+    "name_en": "Platinum gacha",
+    "name_en_src": "ml",
+    "new_badge_illust": 10004,
+    "object_dot_id": 1000003,
+    "object_offset_x": 10000,
+    "object_offset_y": 10000
+  },
+  {
+    "bgm": 0,
+    "clear_stamp": 0,
+    "directing_group_id": 0,
+    "display_on_hour": 1,
+    "gacha_banner": 9000079,
+    "gacha_banner_dot_ids": [
+    ],
+    "id": 1000591,
+    "name": "プラチナチケットガチャ",
+    "name_en": "Platinum ticket gacha",
+    "name_en_src": "ml",
+    "new_badge_illust": 10004,
     "object_dot_id": 1000003,
     "object_offset_x": 10000,
     "object_offset_y": 10000

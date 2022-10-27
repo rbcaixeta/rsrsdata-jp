@@ -2873,6 +2873,32 @@
     "sort_order": 22102160
   },
   {
+    "expired_at": 1669575599,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800223,
+    "id": 800223,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・81",
+    "name_en": "Romancing Festival Medal 81",
+    "name_en_src": "ml",
+    "sort_order": 22102865
+  },
+  {
+    "expired_at": 1669575599,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by performing certain Romancing festivals. You can exchange items and styles at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 800224,
+    "id": 800224,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・82",
+    "name_en": "Romancing festival medal 82",
+    "name_en_src": "ml",
+    "sort_order": 22102860
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -9813,5 +9839,44 @@
     "name_en": "pumpkin wreath",
     "name_en_src": "ml",
     "sort_order": 22102130
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. You can exchange it for an item at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100777,
+    "id": 1100777,
+    "max_quantity": 99999999,
+    "name": "屋台メシ",
+    "name_en": "Street food",
+    "name_en_src": "ml",
+    "sort_order": 22102817
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the corresponding event. You can exchange it for an item at the exchange office.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100778,
+    "id": 1100778,
+    "max_quantity": 99999999,
+    "name": "バルーンペッグ",
+    "name_en": "balloon pegs",
+    "name_en_src": "ml",
+    "sort_order": 22102818
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「遊び尽くせ！文化祭協力ミッション」の集計アイテム。該当イベントで入手できる。（集計は2022/11/14 4:00まで）",
+    "flavor_text_en": "“Play to the fullest! Aggregate items for “Cultural Festival Cooperation Missions”. It can be obtained at the relevant event. (Aggregation is until 02/11/14 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100779,
+    "id": 1100779,
+    "max_quantity": 99999999,
+    "name": "文化祭の思い出",
+    "name_en": "Memories of the school festival",
+    "name_en_src": "ml",
+    "sort_order": 22102819
   }
 ]
