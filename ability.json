@@ -6628,7 +6628,7 @@
   {
     "ability_when": 1,
     "flavor_text": "バトル開始時、自身のBPを回復する( +2 )<br>OD攻撃(※)を発動後、「雷殺斬+」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」は含まない<br><br>雷殺斬+<br>大剣/攻撃/威力SSS/直接/敵単体 ( 斬+雷 ) <br>攻撃する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "[Start of battle]<br>Recovers own BP (+2).<br><br>After activating an OD attack, Jolting Slash+ will be activated.<br>*Skills/Spells transmitted in Robin Cup and Skills/Spells activated by this Ability are not considered OD attacks.<br><br>Jolting Slash+<br>G. Sword/Attack/Power: SSS/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "[Start of battle]<br>Recovers own BP (+2).<br><br>After activating an OD attack, Jolting Slash+ will be activated.<br>*Skills/Spells transmitted in Robin Cup and Skills/Spells activated by this Ability are not considered OD attacks.<br><br>Jolting Slash+<br>G. Sword skill/Attack/Power: SSS/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101149,
@@ -6831,7 +6831,7 @@
   {
     "ability_when": 6,
     "flavor_text": "「しちしとうひとふり」を命中させた時、<br>「しちしとう」が発動する( 確率小 )<br><br>しちしとう<br>体術/攻撃/威力D/直接/敵単体 ( 斬 ) <br>ランダムな敵に攻撃する ( 4-7回 )<br>反撃を受けると中断する(攻撃時アビリティは初撃のみ発動)<br>( 技Rank1で発動 )",
-    "flavor_text_en": "When landing an attack with Seven Swords Swing, Seven Swords will be activated (low chance).<br><br>Seven Swords<br>M. Arts/Attack/Power: D/Direct/Single Foe (Slash)<br>Attack.<br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "When landing an attack with Seven Swords Swing, Seven Swords will be activated (low chance).<br><br>Seven Swords<br>M. Arts skill/Attack/Power: D/Direct/Single Foe (Slash)<br>Attack.<br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101161,
@@ -6870,7 +6870,7 @@
   {
     "ability_when": 1,
     "flavor_text": "バトル開始時、自身のBPを回復する( +3 )<br>OD攻撃(※)を発動後、「ビートウェイヴほう」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>ビートウェイヴほう<br>銃/攻撃/威力A/間接/敵全体 ( 打 ) <br>全体攻撃する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "[Start of battle]<br>Recovers own BP (+3).<br><br>After activating an OD attack, Beat Wave Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Beat Wave Cannon<br>Gun/Attack/Power: A/Indirect/All Foes (Blunt) <br>All range attack.<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "[Start of battle]<br>Recovers own BP (+3).<br><br>After activating an OD attack, Beat Wave Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Beat Wave Cannon<br>Gun skill/Attack/Power: A/Indirect/All Foes (Blunt) <br>All range attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101163,
@@ -8011,7 +8011,7 @@
   {
     "ability_when": 1,
     "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「タイムのなかまたち」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>タイムのなかまたち<br>棍棒/攻撃/威力B/間接/敵全体 ( 打+斬 ) <br>全体攻撃する<br>味方生存者全体のHPを回復( 効果極小 )し、さらに、味方生存者全体のすべての状態異常耐性を上昇( 効果中 )させる<br>( 技Rank1で発動 )",
-    "flavor_text_en": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Thyme's Friends<br>Club/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (very small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Thyme's Friends<br>Club skill/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (very small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101229,
