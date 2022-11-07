@@ -2899,6 +2899,32 @@
     "sort_order": 22102860
   },
   {
+    "expired_at": 1670266799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Romancing Festival. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800225,
+    "id": 800225,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・83",
+    "name_en": "Romancing Festival Medal · 83",
+    "name_en_src": "ml",
+    "sort_order": 22110865
+  },
+  {
+    "expired_at": 1670266799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Romancing Festival. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800226,
+    "id": 800226,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・84",
+    "name_en": "Romancing Festival Medal 84",
+    "name_en_src": "ml",
+    "sort_order": 22110860
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -9813,6 +9839,19 @@
     "name_en": "Fragment of a tan cane mold",
     "name_en_src": "ml",
     "sort_order": 22101205
+  },
+  {
+    "expired_at": 1670266799,
+    "flavor_text": "10枚集めると「モウゼスの術士たち-ウンディーネの依頼-BOXガチャ」か「モウゼスの術士たち-ボルカノの依頼-BOXガチャ」を1回引くことができるチケット。（2022/12/6 4:00まで）",
+    "flavor_text_en": "If you collect 10 cards, you can draw “The Sorcerers of Muses - Undine's Request - Box Gacha” or “The Sorcerers of the Muses - Volcano's Request - Box Gacha” once. (until 2022/12/6 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100774,
+    "id": 1100774,
+    "max_quantity": 99999999,
+    "name": "モウゼスの術士たちBOXガチャチケット[期間限定]",
+    "name_en": "The Sorcerers of Muses BOX Gacha Ticket [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22110805
   },
   {
     "expired_at": 0,

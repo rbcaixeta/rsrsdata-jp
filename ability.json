@@ -11674,6 +11674,78 @@
   },
   {
     "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「モラルアップ(中)」を付与する( 効果1ターン )<br>自身の腕力を上昇させる( 効果中 )",
+    "flavor_text_en": "[At turn start] <br>Grant “Moral Up (Medium)” to yourself (effect 1 turn) <br>Increase your own strength (during effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101465,
+    "name": "破竹の活性Ⅱ(腕力)",
+    "name_en": "Hatchiku Activity II (Strength)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041500,
+      802040831
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃の、与ダメージが上昇する( 効果極大 )<br>かつ、バトル開始時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Weak attacks increase damage (maximum effect) and <br>restore your own BP at the start of battle (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101466,
+    "name": "闘練専心Ⅱ",
+    "name_en": "Battle Concentration II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040802,
+      802040322
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "斧装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+    "flavor_text_en": "When equipped with an axe, the damage dealt by the attack increases (special effect) <br>When receiving a Resist attack, reduces damage taken (maximum effect) <br>When receiving a Resist attack, it avoids enemy attacks ( (Probability is high)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101467,
+    "name": "斧の天稟Ⅳ",
+    "name_en": "Tenshin the Axe IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040947,
+      802041212,
+      802041181
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "熱属性攻撃の<br>与ダメージが上昇する( 効果極大 )",
+    "flavor_text_en": "<br>Damage dealt by thermal attacks is increased (maximum effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101468,
+    "name": "火炎増幅Ⅴ",
+    "name_en": "Fire Amplifier V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041469
+    ]
+  },
+  {
+    "ability_when": 3,
     "flavor_text": "ターン開始時、味方生存者全体に「エレメントガード(陰/小)」を付与する( 効果1ターン )",
     "flavor_text_en": "At the start of a turn, give “Element Guard (Shade/Small)” to all allied survivors (effect 1 turn)",
     "flavor_text_en_src": "ml",
@@ -11687,6 +11759,61 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041421
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方生存者全体の冷属性攻撃の与ダメージが上昇する( 効果中 )",
+    "flavor_text_en": "Increases damage dealt by cold attacks on all allied survivors (during effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101472,
+    "name": "冷の隆盛",
+    "name_en": "Cold prosperity",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041473
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身のHPを回復する( 効果極小 )<br>バトル開始から数えて奇数ターン目の開始時、自身のBPを回復する( +2 )<br>バトル開始から数えて偶数ターン目の開始時、自身の体力・素早さ・知力を上昇させる( 効果中 )",
+    "flavor_text_en": "At the end of the turn, restore your own HP (minimal effect) At the <br>beginning of an odd number turn counting from the start of the <br>battle, restore your own BP (+2) At the beginning of an even-numbered turn counting from the start of the battle Increases one's physical strength, quickness, and intelligence (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101473,
+    "name": "エレメントヒールⅡ(体力・素早さ・知力)",
+    "name_en": "Element Heal II (Stamina, Quickness, Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041224,
+      802041225,
+      802041474
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身の体力・素早さ・知力を上昇させる( 効果中 )",
+    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of the battle, it increases your own physical strength, quickness, and intelligence (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101476,
+    "name": "偶数ターン開始時 体力・素早さ・知力アップ",
+    "name_en": "Improves physical strength, quickness, and intelligence at the beginning of an even-numbered turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041477,
+      802010772,
+      802010773
     ]
   },
   {
@@ -11816,6 +11943,104 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +2 )<br>Weak攻撃命中時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "At the start of battle, restore your own BP (+2) <br>When a weak attack is hit, restore your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101485,
+    "name": "強者の練心Ⅱ",
+    "name_en": "Strong Man's Practice II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040322,
+      802041194
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "槍装備時、攻撃の与ダメージが上昇する( 効果大 )<br><br>バトル開始から数えて3の倍数のターン目に、単体攻撃(※)を命中させた時、「ラウンドスライサー」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "When equipped with a spear, the damage dealt by the attack increases (great effect) <br><br>When a single attack (*) is hit on a turn that is a multiple of 3 counting from the start of the battle, a “round slicer” is activated <br>( (Activated <br>by Move Rank 1) * Does not include “Techniques/Jutsu Activated by this Ability Effect,” “Counterattack Techniques/Jutsu with Counter Effect,” and “Technique or Technique Passed Down in the R Cup”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101486,
+    "name": "銀の手を得し者",
+    "name_en": "The one who got the silver hand",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040438,
+      802041486
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "槍装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+    "flavor_text_en": "When equipped with a spear, the damage dealt by the attack increases (extra effect) <br>When receiving a Resist attack, reduces damage taken (maximum effect) <br>When receiving a Resist attack, it avoids enemy attacks ( (Probability is high)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101487,
+    "name": "槍の天稟Ⅳ",
+    "name_en": "Tenshin of the Spear IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041487,
+      802041212,
+      802041181
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "バトル開始から数えて3の倍数のターン目に、単体攻撃を命中させた時、<br>「ラウンドスライサー」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When a single attack is hit on a turn that is a multiple of 3 counting from the start of the battle, <br>“Round Slicer” is activated <br>(activated with move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101488,
+    "name": "3の倍数のターン単体攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking alone for turns that is a multiple of 3",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041488,
+      802041489,
+      802041490,
+      802041491,
+      802041492,
+      802041579,
+      802041580,
+      802041581,
+      802041582
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br>ターン終了時、自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "When attacked, reduces damage taken (extra large effect) <br>At the end of the turn, restore your own HP (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101489,
+    "name": "プロテクトヒーリング",
+    "name_en": "PROTECT HEALING",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040448,
+      802041224
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身に「攻撃強化」を付与する( 効果極大/効果1ターン )",
     "flavor_text_en": "At the start of the odd-numbered turn counting from the start of the battle, give yourself “Attack Boost” (maximum effect/effect for 1 turn)",
@@ -11848,6 +12073,59 @@
     "special_effect_ids": [
       802041493,
       802041494
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象を眠り状態にする( 確率大/効果4ターン )<br>攻撃命中時、自身のBPを回復する( 確率大/+2 )",
+    "flavor_text_en": "When an attack is hit, the target falls asleep (high probability/effect for 4 turns) <br>When an attack is hit, it restores its own BP (high probability/+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 3005,
+    "id": 702101492,
+    "name": "睡眠の練撃Ⅱ",
+    "name_en": "Sleep Assault II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041499,
+      802041020
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象を眠り状態にする( 確率大/効果4ターン )",
+    "flavor_text_en": "When an attack hits, the target falls asleep (high probability/effect for 4 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 3005,
+    "id": 702101493,
+    "name": "攻撃時 眠り付与",
+    "name_en": "Asks sleep when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802030241
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>かつ、バトル開始時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Attack damage is increased (extra effective), and at <br>the start of battle, your own BP is restored (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101494,
+    "name": "闘練猛攻Ⅱ",
+    "name_en": "Battle Onslaught II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802040322
     ]
   },
   {
@@ -41192,6 +41470,23 @@
     ]
   },
   {
+    "ability_when": 2,
+    "flavor_text": "間接攻撃を受けた時、被ダメージを軽減する( 効果極大 )",
+    "flavor_text_en": "Reduces damage taken when receiving indirect attacks (maximum effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 708200233,
+    "name": "リダクションⅥ(間接)",
+    "name_en": "Reduction VI (indirect)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040525
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身の腕力を上昇させる( 効果大 )",
     "flavor_text_en": "[Start of turn]<br>Increases own STR (large effect).",
@@ -42036,6 +42331,60 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ディフェンスアップ」( 効果小 )を付与し、さらに自身の精神を上昇( 効果中 )させる<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
+    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of the battle, you will be given a “defense up” (low effect) to yourself, and a <br><br>defense up <br>cover that will further raise your own spirit (active) Reduces damage (effect lasts during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 708300234,
+    "name": "玄武の恩恵Ⅱ",
+    "name_en": "The Benefits of Genbu II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040505,
+      808010526
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「ヒートアップ」( 効果極小 )を付与し、さらに自身の知力を上昇( 効果中 )させる<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "At the start of a turn which is a multiple of 3 counting from the start of the battle, it grants a “heat-up” (extremely low effect) to oneself, and a <br><br>heat-up <br>attack that further increases one's own intelligence (during effect) Damage increases (effect lasts during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300236,
+    "name": "朱鳥の恩恵Ⅰ",
+    "name_en": "The Benefits of Red Bird I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040532,
+      808010518
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「ヒートアップ」( 効果小 )を付与し、さらに自身の知力を上昇( 効果中 )させる<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "At the start of a turn that is a multiple of 3 counting from the start of the battle, it grants “heats up” (effect small) to oneself, and also grants a <br><br>heatup <br>attack that increases one's own intelligence (during effect) Damage increases (effect lasts during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300240,
+    "name": "朱鳥の恩恵Ⅱ",
+    "name_en": "The Benefits of Vermilion Bird II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040511,
+      808010518
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -42869,6 +43218,23 @@
     "special_effect_ids": [
       808040522,
       808040523
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>自身の知力、精神の能力ダウン状態を解除する",
+    "flavor_text_en": "[At end <br>of turn] Unlock the state where your own intelligence and mental abilities are down",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400235,
+    "name": "術法回帰",
+    "name_en": "Technique regression",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050525
     ]
   },
   {
