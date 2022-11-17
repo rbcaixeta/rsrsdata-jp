@@ -2342,27 +2342,27 @@
   {
     "expired_at": 1650740399,
     "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "An item that can be obtained by performing a specific Saga Soul Gacha. You can exchange items and styles at the exchange office.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800182,
     "id": 800182,
     "max_quantity": 99999999,
     "name": "サガ魂メダル・9",
-    "name_en": "Saga Soul Medal 9",
-    "name_en_src": "ml",
+    "name_en": "SaGa Soul Medal 10",
+    "name_en_src": "gl",
     "sort_order": 22032350
   },
   {
     "expired_at": 1652036399,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "An item that can be obtained by running a specific Romancing Festival. You can exchange items and styles at the exchange office.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800183,
     "id": 800183,
     "max_quantity": 99999999,
     "name": "Romancing祭メダル・49",
-    "name_en": "Romancing Festival Medal 49",
-    "name_en_src": "ml",
+    "name_en": "Romancing Festival Medal 60",
+    "name_en_src": "gl",
     "sort_order": 22033050
   },
   {
@@ -2923,6 +2923,19 @@
     "name_en": "Romancing Festival Medal 84",
     "name_en_src": "ml",
     "sort_order": 22110860
+  },
+  {
+    "expired_at": 1670612399,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Romancing Festival. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800227,
+    "id": 800227,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・85",
+    "name_en": "Romancing Festival Medals · 85",
+    "name_en_src": "ml",
+    "sort_order": 22111860
   },
   {
     "expired_at": 0,
@@ -8543,27 +8556,27 @@
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100668,
     "id": 1100664,
     "max_quantity": 99999999,
     "name": "石のツノ",
-    "name_en": "Stone horns",
-    "name_en_src": "ml",
+    "name_en": "Rock Horn",
+    "name_en_src": "gl",
     "sort_order": 22033005
   },
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100669,
     "id": 1100665,
     "max_quantity": 99999999,
     "name": "レッドシェル",
-    "name_en": "Red shell",
-    "name_en_src": "ml",
+    "name_en": "Red Shell",
+    "name_en_src": "gl",
     "sort_order": 22033010
   },
   {
@@ -8595,27 +8608,27 @@
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100666,
     "id": 1100668,
     "max_quantity": 99999999,
     "name": "若木の枝",
-    "name_en": "A branch of a young tree",
-    "name_en_src": "ml",
+    "name_en": "Sapling Branch",
+    "name_en_src": "gl",
     "sort_order": 22032310
   },
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100667,
     "id": 1100669,
     "max_quantity": 99999999,
     "name": "鮮やかな葉",
-    "name_en": "Vivid leaves",
-    "name_en_src": "ml",
+    "name_en": "Colorful Leaves",
+    "name_en_src": "gl",
     "sort_order": 22032315
   },
   {
@@ -9917,5 +9930,18 @@
     "name_en": "Memories of the school festival",
     "name_en_src": "ml",
     "sort_order": 22102819
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant events. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100780,
+    "id": 1100780,
+    "max_quantity": 99999999,
+    "name": "超鍛錬の手ぬぐい",
+    "name_en": "Super Toughened Hand Towel",
+    "name_en_src": "ml",
+    "sort_order": 22111800
   }
 ]

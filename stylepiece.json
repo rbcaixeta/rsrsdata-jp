@@ -5833,6 +5833,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[我が宝を奪う気か！]グゥエイン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Are You Going to Take My Treasure!] A piece dedicated to Gwain. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 234404,
+    "id": 234404,
+    "name": "SSグゥエインのピース",
+    "name_en": "SS Guain's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[打倒！　四魔貴族]聖王専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Vanquish the Sinistrals!] Matriarch.",
     "flavor_text_en_src": "gl",
@@ -6241,6 +6253,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[巨竜の反逆]ドーラ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Dragon Rebellion] A piece exclusive to Dora. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 238203,
+    "id": 238203,
+    "name": "SSドーラのピース",
+    "name_en": "SS Dora's Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[嘘じゃないから]バーニィ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [It's Not a Lie] Bunnie.",
     "flavor_text_en_src": "gl",
@@ -6392,6 +6416,18 @@
     "id": 239206,
     "name": "SSビューネイのピース",
     "name_en": "SS Buenay's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[我が真の姿は龍なるぞ]ビューネイ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [My True Appearance Is a Dragon] A special piece for Bueney. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 239207,
+    "id": 239207,
+    "name": "SSビューネイのピース",
+    "name_en": "SS Bueney's piece",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -8378,13 +8414,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[運命の刻が来た]ギュスターヴ専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [The Time of Fate Has Arrived] A piece dedicated to Gustave. Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [The Fated Hour Comes] Gustave.",
+    "flavor_text_en_src": "gl",
     "icon": 320110,
     "id": 320110,
     "name": "SSギュスターヴのピース",
-    "name_en": "Pieces by SS Gustave",
-    "name_en_src": "ml",
+    "name_en": "SS Gustave Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -8534,13 +8570,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[外には行かせないぞ]リッチ専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [I won't let you go outside] A piece dedicated to Rich. Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Can't Let You Go Outside] Rich.",
+    "flavor_text_en_src": "gl",
     "icon": 320305,
     "id": 320305,
     "name": "SSリッチのピース",
-    "name_en": "SS Rich's Piece",
-    "name_en_src": "ml",
+    "name_en": "SS Rich Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -8786,13 +8822,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[もう少しだけ待て]ヨハン専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [wait a little longer] A piece dedicated to Johan. Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Just a Little Longer] Johan.",
+    "flavor_text_en_src": "gl",
     "icon": 321605,
     "id": 321605,
     "name": "SSヨハンのピース",
-    "name_en": "SS Johan's piece",
-    "name_en_src": "ml",
+    "name_en": "SS Johan Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -8966,37 +9002,37 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[お帰りなさい！]ディアナ(SF2)専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Welcome home!] A piece dedicated to Diana (SF2). Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Welcome Home!] Diana (SF2).",
+    "flavor_text_en_src": "gl",
     "icon": 322801,
     "id": 322801,
     "name": "SSディアナ(SF2)のピース",
-    "name_en": "Pieces of SS Diana (SF2)",
-    "name_en_src": "ml",
+    "name_en": "SS Diana (SF2) Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
     "exchange_cost": 250,
     "flavor_text": "SS[夢に見た虹を]ユリア専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [The Rainbow I Saw in a Dream] A piece dedicated to Yulia. Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Rainbow of My Dreams] Julia.",
+    "flavor_text_en_src": "gl",
     "icon": 322901,
     "id": 322901,
     "name": "SSユリアのピース",
-    "name_en": "SS Yulia's Piece",
-    "name_en_src": "ml",
+    "name_en": "SS Julia Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
     "exchange_cost": 250,
     "flavor_text": "SS[私を頼ればいいのよ]エレノア専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [You Should Rely On Me] A piece dedicated to Eleanor. Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [You Can Rely on Me] Eleanor.",
+    "flavor_text_en_src": "gl",
     "icon": 323001,
     "id": 323001,
     "name": "SSエレノアのピース",
-    "name_en": "SS Eleanor's Piece",
-    "name_en_src": "ml",
+    "name_en": "SS Eleanor Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -9110,25 +9146,25 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[エッグを取りなさい]ミスティ専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Take the Egg] A piece dedicated to Misty. Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Take the Egg] Misty.",
+    "flavor_text_en_src": "gl",
     "icon": 323601,
     "id": 323601,
     "name": "SSミスティのピース",
-    "name_en": "SS Misty's piece",
-    "name_en_src": "ml",
+    "name_en": "SS Misty Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
     "exchange_cost": 150,
     "flavor_text": "S[ウィルは殺すよ]ミスティ専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "S [Will Will Kill] A piece dedicated to Misty. Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [I Will Kill Wil] Misty.",
+    "flavor_text_en_src": "gl",
     "icon": 323602,
     "id": 323602,
     "name": "Sミスティのピース",
-    "name_en": "S Misty's Piece",
-    "name_en_src": "ml",
+    "name_en": "S Misty Piece",
+    "name_en_src": "gl",
     "selling_price": 60
   },
   {
@@ -10644,6 +10680,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ジョセフィンの守護者]玄竜専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Josephine's Guardian] A piece dedicated to Genryu. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711205,
+    "id": 711205,
+    "name": "SS玄竜のピース",
+    "name_en": "SS Genryu piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[魔王の落胤]バートランド専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Archfiend's Illegitimate Son] Bertrand.",
@@ -10713,6 +10761,18 @@
     "name": "SS玄竜【氷雪】のピース",
     "name_en": "SS Genryu (Snowy) Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[バートランドの守護者]玄竜【氷雪】専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A special piece for SS [Guardian of Bertrand] Genryu [Ice and Snow]. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711405,
+    "id": 711405,
+    "name": "SS玄竜【氷雪】のピース",
+    "name_en": "SS Genryu [Ice and Snow] piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

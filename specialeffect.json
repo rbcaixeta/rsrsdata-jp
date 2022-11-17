@@ -4500,6 +4500,69 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Your physical strength will increase",
+    "flavor_text_en_src": "ml",
+    "id": 801011345,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Increase physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intelligence increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011346,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Intelligence improvement",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011347,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Mental improvement",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "HPを回復する",
     "flavor_text_en": "Recover HP",
@@ -4559,6 +4622,28 @@
     "target_area": 3,
     "text_color": "65D2FF",
     "text_pop": "腕力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "140500303",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Restores HP",
+    "flavor_text_en_src": "ml",
+    "id": 801011407,
+    "ignition_effect_id": "",
+    "name": "HP回復(極小)",
+    "name_en": "HP recovery (minimal)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -15262,6 +15347,51 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 801041348,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heats up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージを100%カットする( 上限回数:1 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Cut 100% of damage taken (Maximum number of times: 1 (Activates only when an attack is hit)",
+    "flavor_text_en_src": "ml",
+    "id": 801041350,
+    "ignition_effect_id": "",
+    "name": "ダメージブロック(1回)",
+    "name_en": "Damage Block (1 time)",
+    "name_en_src": "ml",
+    "state_change_id": 900040184,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "ダメージブロック",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Debuff",
     "flavor_text": "敵に与えるダメージが低下する",
     "flavor_text_en": "Damage dealt to enemies is reduced",
@@ -15346,6 +15476,50 @@
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 801041392,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 801041409,
+    "ignition_effect_id": "",
+    "name": "ディフェンスアップ",
+    "name_en": "Defense up",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      80
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {
@@ -38558,6 +38732,28 @@
     ]
   },
   {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Your own BP will recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041358,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      4
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "OD攻撃で技3を発動後、クリムゾンサンフレアで攻撃を行う",
@@ -40622,6 +40818,182 @@
     "flavor_text": "敵に与えるダメージが上昇する",
     "flavor_text_en": "Damage dealt to enemies increases",
     "flavor_text_en_src": "ml",
+    "id": 802041501,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Damage up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Your own BP will recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041502,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      1
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃時、「サブリメーションツイスター」が発動する",
+    "flavor_text_en": "When attacking OD, “Sublimation Twister” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041506,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101501
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で技1を発動後、サブリメーションツイスターで攻撃を行う",
+    "flavor_text_en": "Activate move 1 in an OD attack, then attack with a sublimation twister",
+    "flavor_text_en_src": "ml",
+    "id": 802041507,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500370
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ホワイトストリーム",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で技2を発動後、サブリメーションツイスターで攻撃を行う",
+    "flavor_text_en": "Activate Move 2 with OD Attack, then attack with Sublimation Twister",
+    "flavor_text_en_src": "ml",
+    "id": 802041508,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500370
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ホワイトストリーム",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で技3を発動後、サブリメーションツイスターで攻撃を行う",
+    "flavor_text_en": "Activate move 3 in an OD attack, then attack with a sublimation twister",
+    "flavor_text_en_src": "ml",
+    "id": 802041509,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500370
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ホワイトストリーム",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で継承技を発動後、サブリメーションツイスターで攻撃を行う",
+    "flavor_text_en": "Activate an inheritance move in an OD attack, then attack with a sublimation twister",
+    "flavor_text_en_src": "ml",
+    "id": 802041510,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500370
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ホワイトストリーム",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃で通常攻撃を発動後、サブリメーションツイスターで攻撃を行う",
+    "flavor_text_en": "Activate a normal attack with an OD attack, then attack with a sublimation twister",
+    "flavor_text_en_src": "ml",
+    "id": 802041511,
+    "ignition_effect_id": "",
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500370
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ホワイトストリーム",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
     "id": 802041512,
     "ignition_effect_id": "",
     "name": "ダメージアップ",
@@ -40658,6 +41030,94 @@
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "全体攻撃のダメージが上昇する",
+    "flavor_text_en": "All attack damage is increased",
+    "flavor_text_en_src": "ml",
+    "id": 802041538,
+    "ignition_effect_id": "",
+    "name": "全体攻撃強化",
+    "name_en": "Overall Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "全体攻撃↑",
+    "triggering_effect_condition_ids": [
+      25
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "縦一列攻撃のダメージが上昇する",
+    "flavor_text_en": "Damage from vertical row attacks is increased",
+    "flavor_text_en_src": "ml",
+    "id": 802041539,
+    "ignition_effect_id": "",
+    "name": "縦攻撃強化",
+    "name_en": "Vertical Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "縦攻撃↑",
+    "triggering_effect_condition_ids": [
+      27
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "横一列攻撃のダメージが上昇する",
+    "flavor_text_en": "Damage from a horizontal row of attacks is increased",
+    "flavor_text_en_src": "ml",
+    "id": 802041540,
+    "ignition_effect_id": "",
+    "name": "横攻撃強化",
+    "name_en": "Side Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "横攻撃↑",
+    "triggering_effect_condition_ids": [
+      26
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 802041550,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heats up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
     ]
   },
   {
@@ -52714,6 +53174,69 @@
   },
   {
     "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "腕力が低下する",
+    "flavor_text_en": "Strength decreases",
+    "flavor_text_en_src": "ml",
+    "id": 808010536,
+    "ignition_effect_id": "",
+    "name": "腕力ダウン",
+    "name_en": "Decreased strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 5,
+    "text_color": "FF0000",
+    "text_pop": "腕力 器用さ 素早さ↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが低下する",
+    "flavor_text_en": "Dexterity decreases",
+    "flavor_text_en_src": "ml",
+    "id": 808010537,
+    "ignition_effect_id": "",
+    "name": "器用さダウン",
+    "name_en": "Dexterity down",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 5,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが低下する",
+    "flavor_text_en": "quickness decreases",
+    "flavor_text_en_src": "ml",
+    "id": 808010538,
+    "ignition_effect_id": "",
+    "name": "素早さダウン",
+    "name_en": "Quickness down",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 5,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "魅了耐性が上昇する",
     "flavor_text_en": "Increases Charm Resistance.",
@@ -56338,6 +56861,49 @@
     "flavor_text_en": "Damage dealt to enemies increases",
     "flavor_text_en_src": "ml",
     "id": 808040532,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heats up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 808040534,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(大)",
+    "name_en": "Attack Enhancement (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies increases",
+    "flavor_text_en_src": "ml",
+    "id": 808040539,
     "ignition_effect_id": "",
     "name": "ヒートアップ",
     "name_en": "Heats up",

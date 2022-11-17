@@ -8859,11 +8859,11 @@
     "id": 644,
     "name": "Quest_Event_1494",
     "name_en": "Quest_Event_1494",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "あの空をもう一度",
-    "title_en": "Play that sky again",
-    "title_en_src": "ml"
+    "title_en": "Under the Sky Once More",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8933,11 +8933,11 @@
     "id": 649,
     "name": "Quest_Event_1507",
     "name_en": "Quest_Event_1507",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "樹精との戦い",
-    "title_en": "Fight against tree sperm",
-    "title_en_src": "ml"
+    "title_en": "Battle with Treefolk",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8949,11 +8949,11 @@
     "id": 650,
     "name": "Quest_Event_1501",
     "name_en": "Quest_Event_1501",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "宿命の死闘-エッグとの戦い-（10形態)",
-    "title_en": "Fated Fight to the Death -Battle with Eggs- (10 forms)",
-    "title_en_src": "ml"
+    "title_en": "Fated Deathmatch: Battle with Egg (10 Forms)",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8964,11 +8964,11 @@
     "id": 651,
     "name": "Quest_Event_1508",
     "name_en": "Quest_Event_1508",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "ギュスターヴの剣",
     "title_en": "Gustave's Sword",
-    "title_en_src": "ml"
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8980,11 +8980,11 @@
     "id": 652,
     "name": "Quest_Event_1502",
     "name_en": "Quest_Event_1502",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "宿命の死闘-エッグとの戦い-（9形態）",
-    "title_en": "Fated Fight to the Death - Battle with Egg - (9 forms)",
-    "title_en_src": "ml"
+    "title_en": "Fated Deathmatch: Battle with Egg (9 Forms)",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8996,11 +8996,11 @@
     "id": 653,
     "name": "Quest_Event_1503",
     "name_en": "Quest_Event_1503",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "宿命の死闘-エッグとの戦い-（8形態）",
-    "title_en": "Fated Fight to the Death - Battle with Egg - (8 forms)",
-    "title_en_src": "ml"
+    "title_en": "Fated Deathmatch: Battle with Egg (8 Forms)",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -9012,11 +9012,11 @@
     "id": 654,
     "name": "Quest_Event_1504",
     "name_en": "Quest_Event_1504",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "宿命の死闘-エッグとの戦い-（7形態）",
-    "title_en": "Fated Fight to the Death - Battle with Egg - (7 forms)",
-    "title_en_src": "ml"
+    "title_en": "Fated Deathmatch: Battle with Egg (7 Forms)",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -9028,11 +9028,11 @@
     "id": 655,
     "name": "Quest_Event_1505",
     "name_en": "Quest_Event_1505",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "宿命の死闘-エッグとの戦い-（6形態）",
-    "title_en": "Fated Fight to the Death - Battle with Eggs - (6 forms)",
-    "title_en_src": "ml"
+    "title_en": "Fated Deathmatch: Battle with Egg (6 Forms)",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -9055,11 +9055,11 @@
     "id": 657,
     "name": "Quest_Event_1500",
     "name_en": "Quest_Event_1500",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "激闘！将魔との戦い",
-    "title_en": "Fierce battle! Battle with Shōma",
-    "title_en_src": "ml"
+    "title_en": "Clash! Battle with Lords",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -10497,6 +10497,37 @@
     "size": 3,
     "title": "モウゼスの術士たち-ボルカノの依頼-",
     "title_en": "The Sorcerers of Moses -Volcano's Request-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11065
+    ],
+    "id": 826,
+    "name": "Quest_Event_1581",
+    "name_en": "Quest_Event_1581",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "巨竜たちとの戦い-グゥエイン＆ドーラ-",
+    "title_en": "Battle with the Giant Dragons -Gwain & Dora-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11067,
+      11068,
+      11101,
+      11069,
+      11070,
+      11071
+    ],
+    "id": 827,
+    "name": "Quest_Event_1582",
+    "name_en": "Quest_Event_1582",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "4周年直前！超鍛錬道場",
+    "title_en": "Just before the 4th anniversary! Super Training Dojo",
     "title_en_src": "ml"
   }
 ]

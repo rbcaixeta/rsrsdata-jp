@@ -10450,6 +10450,23 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>そのターンに自身がダメージを受けていなかった場合、自身のBPを回復する( +4 )",
+    "flavor_text_en": "[At End of <br>Turn] If you don't take damage that turn, restore your own BP (+4)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101381,
+    "name": "安息の練気Ⅳ",
+    "name_en": "Serenity of Rest IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041358
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br><br>[ターン開始時] <br>自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 確率大/効果特大 )<br>自身に「攻撃強化」を付与する( 確率大/効果極大/効果3ターン )<br>自身を回避状態にする( 確率大/効果1ターン )",
     "flavor_text_en": "Increases damage dealt by attacks (extra effective) <br><br>[at start of turn] <br>Increases one's strength, strength, dexterity, intelligence, spirit, love, and attractiveness (high probability/great effect) <br>Give yourself an “attack boost” (high probability/maximum effect/effect for 3 turns) and <br>evade yourself (high probability/effect for 1 turn)",
@@ -10722,6 +10739,24 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041373
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>Weak攻撃の場合、さらに与ダメージが上昇する( 効果大 )",
+    "flavor_text_en": "Attack damage increases (maximum effect) In the <br>case of a weak attack, damage dealt increases further (high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101400,
+    "name": "ウィークグレートテンション",
+    "name_en": "Week Great Tension",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802040309
     ]
   },
   {
@@ -12146,6 +12181,85 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "斬属性攻撃時、自身に「攻撃強化」( 効果大/効果3ターン )を付与し、さらに、自身のBPを回復( +1 )する<br>雷属性攻撃時、自身に「防御強化」( 効果小/効果3ターン )を付与し、さらに、自身のHPを回復( 効果極小 )する",
+    "flavor_text_en": "During a slash attack, grant “Attack Boost” (large effect/effect 3 turns) to <br>yourself, and during a lightning attack that restores your own BP (+1), grants yourself “Defense Enhancement” (low effect/effect 3 turns), and also restores your own HP (effect is minimal).",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101498,
+    "name": "ドラゴンスイッチ",
+    "name_en": "dragon switch",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041501,
+      802041502,
+      802041403,
+      802011404
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇( 効果大 )し、さらに、<br>全体攻撃および範囲攻撃の与ダメージが上昇( 効果特大 )する<br>( 全体攻撃および範囲攻撃の場合は、攻撃の与ダメージ上昇と全体攻撃および範囲攻撃の与ダメージ上昇の効果が共に発揮される )",
+    "flavor_text_en": "Attack damage is increased (high effect), and <br>damage dealt by overall attacks and ranged attacks is increased (special effect) (in the <br>case of overall attacks and ranged attacks, the effects of increasing damage of attacks and increasing damage dealt by both total and ranged attacks are demonstrated)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101499,
+    "name": "殲滅者",
+    "name_en": "Annihilator",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802041538,
+      802041539,
+      802041540
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「サブリメーションツイスター」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "At the end of the turn, “Sublimation Twister” is activated <br>after activating an OD attack (*) that raises your OD gauge (effect is small), and “Sublimation Twister” is activated <br>(<br>activated with Move Rank 1) * “Skills and Jutsu Activated by this Ability Effect,” “Counterattack Techniques/Jutsu with Counter Effects,” and “Skills Passed Down in R Cups” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101500,
+    "name": "ホワイトストリーム",
+    "name_en": "white stream",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041152,
+      802041506
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃発動後、「サブリメーションツイスター」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "After triggering an OD attack, “Sublimation Twister” is activated <br>(activated with Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101501,
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041507,
+      802041508,
+      802041509,
+      802041510,
+      802041511
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>一定の確率で( 確率中 )<br>味方生存者全体のBPを回復( +1 )し、<br>さらに、味方生存者全体に「攻撃強化」( 効果大/効果1ターン )を付与する",
     "flavor_text_en": "[At the start of a turn] There is a <br>certain chance (during probability) that all <br>allied survivors will recover (+1) BP<br>, and also give all allied survivors an “attack boost” (big effect/effect 1 turn) does",
@@ -12179,6 +12293,59 @@
     "special_effect_ids": [
       802041204,
       802011513
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「ヒートアップ」( 効果極大 )を付与する( 上限回数:バトル中5回 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "[At turn start] <br>Grant “Heat-Up” (maximum effect) to yourself (maximum number of times: 5 times during battle) <br><br><br>Increases damage dealt by heat-up attacks (effect lasts during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101534,
+    "name": "マキシマムボルテージ",
+    "name_en": "maximum voltage",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041550
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "Weak攻撃命中時、自身のHPを回復( 効果極小 )し、さらに、自身のBPを回復( +2 )する",
+    "flavor_text_en": "When a weak attack is hit, your own HP is restored (the effect is minimal), and your own BP is also restored (+2).",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101536,
+    "name": "練気軽快Ⅱ",
+    "name_en": "Neri casualization Ⅱ",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041196,
+      802011318
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br>ターン終了時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Damage dealt by attacks increases (great effect), and <br>at the end of the turn, restore your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101547,
+    "name": "テンションフォースⅡ",
+    "name_en": "Tension Force II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802041315
     ]
   },
   {
@@ -42382,6 +42549,59 @@
     "special_effect_ids": [
       808040511,
       808010518
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>敵全体の腕力、器用さ、素早さを低下させる( 効果小 )",
+    "flavor_text_en": "[At start of turn] <br>Reduces the strength, dexterity, and quickness of all enemies (small effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708300243,
+    "name": "能力虚脱I(腕力、器用さ、素早さ)",
+    "name_en": "Loss of ability I (strength, dexterity, quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010536,
+      808010537,
+      808010538
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ヒートアップ」を付与する( 効果中 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of the battle, grant “heat up” to yourself (during the effect), <br><br><br>and the damage dealt by the heat up attack increases (effect lasts for the duration of the battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300244,
+    "name": "イーブンヒートⅢ",
+    "name_en": "EVEN HEAT III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040539
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて3ターン目以降、奇数ターン目の開始時、自身に「ヒートアップ」を付与する( 効果中 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "After the 3rd turn counting from the start of the battle, at the start of the odd number turn, grant “heat up” to yourself (during effect), <br><br><br>damage dealt by heat-up attacks will increase (effect lasts for the duration of the battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300245,
+    "name": "オッドヒートⅢ",
+    "name_en": "Odd Heat III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040539
     ]
   },
   {

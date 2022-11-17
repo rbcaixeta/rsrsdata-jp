@@ -2704,8 +2704,8 @@
     "id": 279,
     "is_pierceily": 0,
     "name": "SF2発売日記念第２弾ミッション",
-    "name_en": "SF2 Release Date Commemorative Vol.2 Mission",
-    "name_en_src": "ml",
+    "name_en": "Battle with Treefolk",
+    "name_en_src": "gl",
     "priority": 12315,
     "start_at": 1648004400
   },
@@ -2784,8 +2784,8 @@
     "id": 287,
     "is_pierceily": 0,
     "name": "あの空をもう一度",
-    "name_en": "Play that sky again",
-    "name_en_src": "ml",
+    "name_en": "Under the Sky Once More",
+    "name_en_src": "gl",
     "priority": 12338,
     "start_at": 1648609200
   },
@@ -3440,6 +3440,16 @@
     "start_at": 1667934000
   },
   {
+    "end_at": 1669402799,
+    "id": 355,
+    "is_pierceily": 1,
+    "name": "4周年直前！超ドラゴン祭！記念デイリーミッション",
+    "name_en": "Just before the 4th anniversary! Super Dragon Festival! Commemorative Daily Missions",
+    "name_en_src": "ml",
+    "priority": 12626,
+    "start_at": 1668798000
+  },
+  {
     "end_at": 1667674799,
     "id": 357,
     "is_pierceily": 0,
@@ -3478,5 +3488,15 @@
     "name_en_src": "ml",
     "priority": 12589,
     "start_at": 1665543600
+  },
+  {
+    "end_at": 1669402799,
+    "id": 363,
+    "is_pierceily": 0,
+    "name": "4周年直前！超鍛錬道場",
+    "name_en": "Just before the 4th anniversary! Super Training Dojo",
+    "name_en_src": "ml",
+    "priority": 12625,
+    "start_at": 1668740400
   }
 ]
