@@ -2126,6 +2126,24 @@
     ]
   },
   {
+    "id": 109020044,
+    "name": "2体陣形_38",
+    "name_en": "2-body formation_38",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 42,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 13,
+        "y": 25
+      }
+    ]
+  },
+  {
     "id": 109020045,
     "name": "2体陣形_ボルカノ&ウンディーネ",
     "name_en": "2-body formation _ Volcano & Undine",
@@ -6991,6 +7009,44 @@
         "line": 0,
         "x": 13,
         "y": 20
+      }
+    ]
+  },
+  {
+    "id": 109060007,
+    "name": "6体陣形_(大1中2小3)",
+    "name_en": "6-body formation_ (large 1 medium 2 small 3)",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 50,
+        "y": 5
+      },
+      {
+        "line": 0,
+        "x": 50,
+        "y": 45
+      },
+      {
+        "line": 0,
+        "x": 35,
+        "y": 25
+      },
+      {
+        "line": 0,
+        "x": 20,
+        "y": 13
+      },
+      {
+        "line": 0,
+        "x": 20,
+        "y": 37
+      },
+      {
+        "line": 0,
+        "x": 7,
+        "y": 25
       }
     ]
   },
