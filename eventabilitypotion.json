@@ -73,14 +73,14 @@
     "event_ability_potion_type": 1,
     "expired_at": 1622862000,
     "flavor_text": "[期間限定]使用から1時間、全てのバトルクエストで全てのスタイルの能力値アップ時の上昇量が8倍になるアイテム（2021/6/5 12:00まで）",
-    "flavor_text_en": "[Limited Time] Item that grants 5x attribute gains for all Styles in all battle quests for 1 hour after use. (Until [1651625999] <tz>)",
-    "flavor_text_en_src": "gl",
+    "flavor_text_en": "[Limited Time] An item that increases the amount of abilities in all Battle Quests by 8 times for 1 hour after use (until 2021/6/5 12:00)",
+    "flavor_text_en_src": "ml",
     "icon": 940007,
     "id": 940005,
     "max_quantity": 9999,
     "name": "[6/5 12:00まで][全]ヴァルドーの鍛錬極意書",
-    "name_en": "Valdor's Training Secrets [Ltd. Time]",
-    "name_en_src": "gl",
+    "name_en": "[6/5 until 12:00] [All] The Essentials of Valdo's Discipline",
+    "name_en_src": "ml",
     "sort_order": 9998,
     "style_event_ability_id": 0
   },
@@ -303,6 +303,23 @@
     "name_en": "[All] Capacity Growth Enhancer III (until 11/30 4:00)",
     "name_en_src": "ml",
     "sort_order": 22110201,
+    "style_event_ability_id": 0
+  },
+  {
+    "duration_seconds": 86400,
+    "event_ability_group_id": 986,
+    "event_ability_potion_type": 2,
+    "expired_at": 1673981999,
+    "flavor_text": "[期間限定]使用から24時間、全てのキャラクターから1体選び、能力値アップ時の上昇量を3倍にする。全てのバトルクエストで使用可能。（2023/1/18 4:00まで）",
+    "flavor_text_en": "[Limited Time Offer] For 24 hours after use, choose 1 body from all characters, and increase the amount of increase when the ability level is increased by 3 times. Can be used in all battle quests. (until 2023/1/18 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 940001,
+    "id": 940025,
+    "max_quantity": 9999,
+    "name": "[全]能力成長アップ剤・Ⅲ（1/18 4:00まで）",
+    "name_en": "[All] Capacity Growth Enhancer III (until 1/18 4:00)",
+    "name_en_src": "ml",
+    "sort_order": 22112601,
     "style_event_ability_id": 0
   }
 ]
