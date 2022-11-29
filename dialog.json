@@ -5,12 +5,12 @@
     "dialog_type": 1,
     "id": 1,
     "name": "Formation_EquipmentChange_Complete",
-    "name_en": "Formation_equipmentChange_complete",
-    "name_en_src": "ml",
+    "name_en": "Formation_EquipmentChange_Complete",
+    "name_en_src": "gl",
     "text": "装備品を変更しました。",
     "title": "装備品変更完了",
-    "title_en": "Equipment change complete",
-    "title_en_src": "ml"
+    "title_en": "Equipment Changed",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -18,12 +18,12 @@
     "dialog_type": 1,
     "id": 2,
     "name": "Formation_InputText_Ng",
-    "name_en": "formation_inputtext_ng",
-    "name_en_src": "ml",
+    "name_en": "Formation_InputText_Ng",
+    "name_en_src": "gl",
     "text": "不適切な文字が含まれています。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -31,12 +31,12 @@
     "dialog_type": 1,
     "id": 3,
     "name": "Formation_InputText_Max",
-    "name_en": "formation_inputtext_max",
-    "name_en_src": "ml",
+    "name_en": "Formation_InputText_Max",
+    "name_en_src": "gl",
     "text": "最大文字数を超えています。<br>10文字以内で入力し直してください。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "付け替える",
@@ -44,12 +44,12 @@
     "dialog_type": 2,
     "id": 4,
     "name": "Formation_EquipmentChange_Confirm",
-    "name_en": "Formation_equipmentChange_confirm",
-    "name_en_src": "ml",
+    "name_en": "Formation_EquipmentChange_Confirm",
+    "name_en_src": "gl",
     "text": "選択した装備品はすでに他キャラクターが装備済みです。<br>装備品を付け替えますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -57,12 +57,12 @@
     "dialog_type": 1,
     "id": 5,
     "name": "Formation_SkillRemove_Complete",
-    "name_en": "Formation_skillRemove_complete",
-    "name_en_src": "ml",
+    "name_en": "Formation_SkillRemove_Complete",
+    "name_en_src": "gl",
     "text": "異なるキャラクターのスタイルを編成したため、継承技・術を外しました。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -70,12 +70,12 @@
     "dialog_type": 1,
     "id": 6,
     "name": "Formation_SameCharacter_Confirm",
-    "name_en": "formation_sameCharacter_confirm",
-    "name_en_src": "ml",
+    "name_en": "Formation_SameCharacter_Confirm",
+    "name_en_src": "gl",
     "text": "同一キャラクターが編成されています。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -83,12 +83,12 @@
     "dialog_type": 1,
     "id": 7,
     "name": "Formation_WeaponRemove_Complete",
-    "name_en": "Formation_WeaponRemove_complete",
-    "name_en_src": "ml",
+    "name_en": "Formation_WeaponRemove_Complete",
+    "name_en_src": "gl",
     "text": "武器種が異なるスタイルを編成したため、武器を外しました。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -96,12 +96,12 @@
     "dialog_type": 1,
     "id": 8,
     "name": "Smith_EquipmentSale_Shortage",
-    "name_en": "Smith_EquipmentSale_Outfit",
-    "name_en_src": "ml",
+    "name_en": "Smith_EquipmentSale_Shortage",
+    "name_en_src": "gl",
     "text": "該当する装備品がありません。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -109,12 +109,12 @@
     "dialog_type": 1,
     "id": 9,
     "name": "Smith_MaterialChange_impossible",
-    "name_en": "Smith_MaterialChange_Impossible",
-    "name_en_src": "ml",
+    "name_en": "Smith_MaterialChange_impossible",
+    "name_en_src": "gl",
     "text": "変換できない素材です。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "補給する",
@@ -122,12 +122,12 @@
     "dialog_type": 2,
     "id": 10,
     "name": "Training_Food_Shortage",
-    "name_en": "Training_Food_Foods",
-    "name_en_src": "ml",
+    "name_en": "Training_Food_Shortage",
+    "name_en_src": "gl",
     "text": "エネルギーがなくなりました。<br>訓練するにはエネルギーを補給してください。",
     "title": "エネルギー不足",
-    "title_en": "lack of energy",
-    "title_en_src": "ml"
+    "title_en": "Not Enough Energy",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -136,11 +136,11 @@
     "id": 11,
     "name": "Training_Food_Max",
     "name_en": "Training_Food_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "これ以上エネルギーを補給できません。",
     "title": "補給量上限",
-    "title_en": "Replenishment limit",
-    "title_en_src": "ml"
+    "title_en": "Replenishment Limit",
+    "title_en_src": "gl"
   },
   {
     "button1": "リトライ",
@@ -148,12 +148,12 @@
     "dialog_type": 2,
     "id": 13,
     "name": "Load_Dl_Shortage",
-    "name_en": "Load_Dl_Loads",
-    "name_en_src": "ml",
+    "name_en": "Load_Dl_Shortage",
+    "name_en_src": "gl",
     "text": "ダウンロードに必要な容量が不足しています。<br>空き容量をご確認ください。<br>※リトライでダウンロードを再開します。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -162,11 +162,11 @@
     "id": 14,
     "name": "Present_Receipt_Deadline",
     "name_en": "Present_Receipt_Deadline",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "受け取り期限が過ぎたため<br>獲得できませんでした。",
     "title": "期限切れ",
-    "title_en": "expiring",
-    "title_en_src": "ml"
+    "title_en": "Expired",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -174,12 +174,12 @@
     "dialog_type": 1,
     "id": 15,
     "name": "Player_InputText_Ng",
-    "name_en": "Player_inputtext_ng",
-    "name_en_src": "ml",
+    "name_en": "Player_InputText_Ng",
+    "name_en_src": "gl",
     "text": "使用できない文言が含まれています。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -188,11 +188,11 @@
     "id": 16,
     "name": "Daily_Frequency_Max",
     "name_en": "Daily_Frequency_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "挑戦回数の増加回数が上限に達しました。<br>また明日お越しください。",
     "title": "挑戦回数増加上限",
-    "title_en": "Challenge count increase limit",
-    "title_en_src": "ml"
+    "title_en": "Extra Attempt Limit",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -200,12 +200,12 @@
     "dialog_type": 1,
     "id": 17,
     "name": "Shop_StaminaRecover_Max",
-    "name_en": "SHOP_STAMINARECOVER_MAX",
-    "name_en_src": "ml",
+    "name_en": "Shop_StaminaRecover_Max",
+    "name_en_src": "gl",
     "text": "スタミナが上限に達しています。",
     "title": "スタミナ回復",
-    "title_en": "Stamina recovery",
-    "title_en_src": "ml"
+    "title_en": "Recover Stamina",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -214,11 +214,11 @@
     "id": 18,
     "name": "Shop_Buy_Deadline",
     "name_en": "Shop_Buy_Deadline",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "商品の購入期限がきれています。",
     "title": "購入エラー",
-    "title_en": "Purchase errors",
-    "title_en_src": "ml"
+    "title_en": "Purchase Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -227,11 +227,11 @@
     "id": 19,
     "name": "Shop_Renew_Complete",
     "name_en": "Shop_Renew_Complete",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "商品一覧を更新しました。",
     "title": "商品更新完了",
-    "title_en": "Product update complete",
-    "title_en_src": "ml"
+    "title_en": "Items Updated",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -240,11 +240,11 @@
     "id": 20,
     "name": "Shop_Profile_Ng",
     "name_en": "Shop_Profile_Ng",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "年または月が不正です。",
     "title": "生年月設定",
-    "title_en": "Birthdate settings",
-    "title_en_src": "ml"
+    "title_en": "Set date of birth",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -253,11 +253,11 @@
     "id": 21,
     "name": "Shop_Profile_Complete",
     "name_en": "Shop_Profile_Complete",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "生年月を設定しました。",
     "title": "生年月設定",
-    "title_en": "Birthdate settings",
-    "title_en_src": "ml"
+    "title_en": "Set date of birth",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -265,12 +265,12 @@
     "dialog_type": 1,
     "id": 22,
     "name": "Shop_BuyCancel_Complete",
-    "name_en": "SHOP_BUYCancel_complete",
-    "name_en_src": "ml",
+    "name_en": "Shop_BuyCancel_Complete",
+    "name_en_src": "gl",
     "text": "購入処理がキャンセルされました。",
     "title": "購入キャンセル",
-    "title_en": "Cancelling a purchase",
-    "title_en_src": "ml"
+    "title_en": "Purchase Canceled",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -278,12 +278,12 @@
     "dialog_type": 1,
     "id": 23,
     "name": "Shop_StaminaRecover_impossible",
-    "name_en": "shop_StaminaRecover_Impossible",
-    "name_en_src": "ml",
+    "name_en": "Shop_StaminaRecover_impossible",
+    "name_en_src": "gl",
     "text": "回復上限に達しているため、<br>これ以上回復できません。",
     "title": "スタミナ回復",
-    "title_en": "Stamina recovery",
-    "title_en_src": "ml"
+    "title_en": "Recover Stamina",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -291,12 +291,12 @@
     "dialog_type": 2,
     "id": 24,
     "name": "Gacha_Jewel_Shortage",
-    "name_en": "Gacha_Jewel_Braces",
-    "name_en_src": "ml",
+    "name_en": "Gacha_Jewel_Shortage",
+    "name_en_src": "gl",
     "text": "有償ジュエルが不足しているため、ガチャを実行出来ません。<br>ジュエルを購入しますか？",
     "title": "ジュエル不足",
-    "title_en": "Jewel shortage",
-    "title_en_src": "ml"
+    "title_en": "Not Enough Jewels",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -304,12 +304,12 @@
     "dialog_type": 1,
     "id": 25,
     "name": "Option_DataDelete_Complete",
-    "name_en": "option_dataDelete_complete",
-    "name_en_src": "ml",
+    "name_en": "Option_DataDelete_Complete",
+    "name_en_src": "gl",
     "text": "キャッシュを削除しました。<br>タイトル画面に移動後、データの修復を行います。",
     "title": "キャッシュ削除完了",
-    "title_en": "Cache deletion complete",
-    "title_en_src": "ml"
+    "title_en": "Cache Cleared",
+    "title_en_src": "gl"
   },
   {
     "button1": "ダウンロード",
@@ -318,11 +318,11 @@
     "id": 26,
     "name": "Option_Scenario_Confirm",
     "name_en": "Option_Scenario_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ゲームデータを一括ダウンロードすることで、快適にプレイできるようになります。<br>一括ダウンロードを行いますか？<br>※Wi-Fi環境でのダウンロードをおすすめします。",
     "title": "データ一括ダウンロード",
-    "title_en": "Batch data download",
-    "title_en_src": "ml"
+    "title_en": "Download All Data",
+    "title_en_src": "gl"
   },
   {
     "button1": "データ修復",
@@ -330,12 +330,12 @@
     "dialog_type": 2,
     "id": 27,
     "name": "Option_DataRepair_Confirm",
-    "name_en": "option_dataRepair_confirm",
-    "name_en_src": "ml",
+    "name_en": "Option_DataRepair_Confirm",
+    "name_en_src": "gl",
     "text": "端末に保存されているデータが破損していると、進行不可などの不具合が生じることがあります。<br>キャッシュ削除して再ダウンロードを行うことで、問題が解消することがあります。<br>データを修復しても、現在の状態でプレイの継続が可能です。<br>データを修復を開始しますか？<br><br>\n※Wi-Fi環境でのダウンロードをおすすめします。",
     "title": "データ修復",
-    "title_en": "data recovery",
-    "title_en_src": "ml"
+    "title_en": "Restore Data",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -344,11 +344,11 @@
     "id": 28,
     "name": "Drama_Skip_Confirm",
     "name_en": "Drama_Skip_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "シナリオをスキップしますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "START",
@@ -357,11 +357,11 @@
     "id": 29,
     "name": "Tutorial_Dl_Complete",
     "name_en": "Tutorial_Dl_Complete",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "チュートリアルデータのダウンロードが完了しました。<br>STARTボタンタップでゲームを開始します。",
     "title": "チュートリアルデータDL完了",
-    "title_en": "Tutorial data DL completed",
-    "title_en_src": "ml"
+    "title_en": "Tutorial Data Download Complete",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -369,12 +369,12 @@
     "dialog_type": 1,
     "id": 30,
     "name": "Tutorial_InputText_Shortage",
-    "name_en": "tutorial_inputtext_",
-    "name_en_src": "ml",
+    "name_en": "Tutorial_InputText_Shortage",
+    "name_en_src": "gl",
     "text": "プレイヤーの名前を入力してください。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "案内を頼む",
@@ -383,11 +383,11 @@
     "id": 31,
     "name": "Tutorial_Skip_Confirm",
     "name_en": "Tutorial_Skip_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "バンガード内を案内してもらいますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -396,11 +396,11 @@
     "id": 32,
     "name": "Common_Update_Confirm",
     "name_en": "Common_Update_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ゲームをプレイ頂くには「アプリのバージョンアップ」が必要です。<br>（OKボタンを押すとストアへ遷移します）",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "再開する",
@@ -409,11 +409,11 @@
     "id": 33,
     "name": "Common_Battle_Confirm",
     "name_en": "Common_Battle_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "中断しているバトルがあります。<br>再開しますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -422,11 +422,11 @@
     "id": 34,
     "name": "Common_Maintenance_Confirm",
     "name_en": "Common_Maintenance_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "現在メンテナンス中です。<br>タイトル画面に戻ります。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -435,11 +435,11 @@
     "id": 35,
     "name": "Common_Event_Deadline",
     "name_en": "Common_Event_Deadline",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "イベント期間外です。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -447,12 +447,12 @@
     "dialog_type": 1,
     "id": 36,
     "name": "Tutorial_InputText_Ng",
-    "name_en": "tutorial_inputtext_ng",
-    "name_en_src": "ml",
+    "name_en": "Tutorial_InputText_Ng",
+    "name_en_src": "gl",
     "text": "不適切な文字が含まれています。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -460,12 +460,12 @@
     "dialog_type": 1,
     "id": 37,
     "name": "Tutorial_InputText_Max",
-    "name_en": "tutorial_inputtext_max",
-    "name_en_src": "ml",
+    "name_en": "Tutorial_InputText_Max",
+    "name_en_src": "gl",
     "text": "最大文字数を超えています。<br>10文字以内で入力し直してください。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -474,11 +474,11 @@
     "id": 38,
     "name": "Trialquest_Renew_Result",
     "name_en": "Trialquest_Renew_Result",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "毎月のリセット日時に達したため、<br>螺旋回廊のクリア状況をリセット<br>しました。<br>※前月の進行状況に応じて、一定<br>階層までは、自動的にクリア状態<br>になります。",
     "title": "リセット結果",
-    "title_en": "reset result",
-    "title_en_src": "ml"
+    "title_en": "Results Reset",
+    "title_en_src": "gl"
   },
   {
     "button1": "リタイア",
@@ -487,11 +487,11 @@
     "id": 39,
     "name": "Battle_Retire_Confirm",
     "name_en": "Battle_Retire_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "リタイアするとクエストは失敗になります。<br>リタイアしますか？<br>※バトル中に習得した技やRankアップは失われます。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -499,12 +499,12 @@
     "dialog_type": 1,
     "id": 40,
     "name": "Battle_Retire_impossible",
-    "name_en": "battle_retire_impossible",
-    "name_en_src": "ml",
+    "name_en": "Battle_Retire_impossible",
+    "name_en_src": "gl",
     "text": "勝敗の確定したバトルのリタイアはできません。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -512,12 +512,12 @@
     "dialog_type": 1,
     "id": 41,
     "name": "Battle_Expired_impossible",
-    "name_en": "Battle_Expired_Impossible",
-    "name_en_src": "ml",
+    "name_en": "Battle_Expired_impossible",
+    "name_en_src": "gl",
     "text": "バトルの有効期限が過ぎました。<br>ホームに戻ります。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -525,12 +525,12 @@
     "dialog_type": 1,
     "id": 42,
     "name": "Load_Connect_impossible",
-    "name_en": "load_connect_impossible",
-    "name_en_src": "ml",
+    "name_en": "Load_Connect_impossible",
+    "name_en_src": "gl",
     "text": "サーバーとの接続がきれました。<br>タイトル画面へ戻ります。",
     "title": "接続エラー",
-    "title_en": "connection error",
-    "title_en_src": "ml"
+    "title_en": "Network Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -538,12 +538,12 @@
     "dialog_type": 1,
     "id": 43,
     "name": "Present_StaminaRecover_Max",
-    "name_en": "present_staminaRecover_max",
-    "name_en_src": "ml",
+    "name_en": "Present_StaminaRecover_Max",
+    "name_en_src": "gl",
     "text": "所持枠上限に達しています。<br>これ以上スタミナを回復できません。",
     "title": "受け取り上限",
-    "title_en": "Receipt limit",
-    "title_en_src": "ml"
+    "title_en": "Claim Limit",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -551,12 +551,12 @@
     "dialog_type": 2,
     "id": 44,
     "name": "Shop_Jewel_Shortage",
-    "name_en": "Shop_Jewel_Dish",
-    "name_en_src": "ml",
+    "name_en": "Shop_Jewel_Shortage",
+    "name_en_src": "gl",
     "text": "ジュエルが不足しています。<br>ジュエルを購入しますか？",
     "title": "所持ジュエル不足",
-    "title_en": "Not enough jewels in my possession",
-    "title_en_src": "ml"
+    "title_en": "Not Enough Jewels",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -565,11 +565,11 @@
     "id": 45,
     "name": "Quest_Hard_Open",
     "name_en": "Quest_Hard_Open",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "難易度(Hard)が解放されました。",
     "title": "クエスト解放",
-    "title_en": "Unlock quests",
-    "title_en_src": "ml"
+    "title_en": "Quest Unlocked",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -577,12 +577,12 @@
     "dialog_type": 1,
     "id": 46,
     "name": "Quest_VeryHard_Open",
-    "name_en": "Quest_veryhard_open",
-    "name_en_src": "ml",
+    "name_en": "Quest_VeryHard_Open",
+    "name_en_src": "gl",
     "text": "難易度(Very Hard)が解放されました。",
     "title": "クエスト解放",
-    "title_en": "Unlock quests",
-    "title_en_src": "ml"
+    "title_en": "Quest Unlocked",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -591,11 +591,11 @@
     "id": 47,
     "name": "Shop_Buy_Cancel",
     "name_en": "Shop_Buy_Cancel",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "購入がキャンセルされました。",
     "title": "購入失敗",
-    "title_en": "Purchase failed",
-    "title_en_src": "ml"
+    "title_en": "Purchase Failed",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -603,12 +603,12 @@
     "dialog_type": 1,
     "id": 48,
     "name": "Quest_Remuneration_Transfer",
-    "name_en": "Quest_Nationalization_Transfer",
-    "name_en_src": "ml",
+    "name_en": "Quest_Remuneration_Transfer",
+    "name_en_src": "gl",
     "text": "アイテム所持上限に達したため、<br>対象のアイテムをプレゼントボックスに<br>送りました。",
     "title": "アイテム転送",
-    "title_en": "Item transfer",
-    "title_en_src": "ml"
+    "title_en": "Transfer Items",
+    "title_en_src": "gl"
   },
   {
     "button1": "売却する",
@@ -617,11 +617,11 @@
     "id": 49,
     "name": "Shop_Aurum_Max",
     "name_en": "Shop_Aurum_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "売却した場合、オーラムの所持上限を<br>超えてしまいますが、売却しますか？<br>※所持上限を超えたオーラムは消滅します。",
     "title": "所持上限オーバー",
-    "title_en": "Possession limit is over",
-    "title_en_src": "ml"
+    "title_en": "Inventory Limit Exceeded",
+    "title_en_src": "gl"
   },
   {
     "button1": "売却する",
@@ -630,11 +630,11 @@
     "id": 50,
     "name": "Shop_Item_Max",
     "name_en": "Shop_Item_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "売却した場合、白結晶の所持上限を<br>超えてしまいますが、売却しますか？<br>※所持上限を超えた白結晶は消滅します。",
     "title": "所持上限オーバー",
-    "title_en": "Possession limit is over",
-    "title_en_src": "ml"
+    "title_en": "Inventory Limit Exceeded",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -643,11 +643,11 @@
     "id": 51,
     "name": "Starting_Inheriting_Complete",
     "name_en": "Starting_Inheriting_Complete",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "Facebookアカウントからプレイヤーを<br>引き継ぎました。",
     "title": "データ引き継ぎ完了",
-    "title_en": "Data transfer complete",
-    "title_en_src": "ml"
+    "title_en": "Data successfully transferred",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -655,12 +655,12 @@
     "dialog_type": 1,
     "id": 52,
     "name": "Quest_Remuneration_Extinction",
-    "name_en": "Quest_Extinction_Extinction",
-    "name_en_src": "ml",
+    "name_en": "Quest_Remuneration_Extinction",
+    "name_en_src": "gl",
     "text": "所持上限を超えたアイテムが消滅しました。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -668,12 +668,12 @@
     "dialog_type": 1,
     "id": 53,
     "name": "Item_IllegalOperation_Cancel",
-    "name_en": "item_IllegalOperation_Cancel",
-    "name_en_src": "ml",
+    "name_en": "Item_IllegalOperation_Cancel",
+    "name_en_src": "gl",
     "text": "不正な操作のため、売却できませんでした。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -682,11 +682,11 @@
     "id": 54,
     "name": "Shop_Jewel_Max",
     "name_en": "Shop_Jewel_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "有償ジュエル所持上限を超えるため<br>ジュエルを購入できません。",
     "title": "有償ジュエル所持上限",
-    "title_en": "Paid Jewel Possession Limit",
-    "title_en_src": "ml"
+    "title_en": "Max Paid Jewels",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -694,12 +694,12 @@
     "dialog_type": 1,
     "id": 55,
     "name": "Shop_Jewel_impossible",
-    "name_en": "SHOP_JEWEL_IMPOSSIBLE",
-    "name_en_src": "ml",
+    "name_en": "Shop_Jewel_impossible",
+    "name_en_src": "gl",
     "text": "ジュエル所持上限を超えるため<br>ジュエルを購入できません。",
     "title": "ジュエル所持上限",
-    "title_en": "Jewel Possession Limit",
-    "title_en_src": "ml"
+    "title_en": "Maximum Jewel Limit",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -708,11 +708,11 @@
     "id": 56,
     "name": "Shop_Frequency_Max",
     "name_en": "Shop_Frequency_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "購入規定回数を超えているため、<br>一部アイテムが付与されなかった可能性があります。<br>アイテムが正しく付与されていない場合は、<br>メニュー > お問い合わせ よりお問い合わせください。",
     "title": "購入エラー",
-    "title_en": "Purchase errors",
-    "title_en_src": "ml"
+    "title_en": "Purchase Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -721,11 +721,11 @@
     "id": 57,
     "name": "Item_Frequency_Max",
     "name_en": "Item_Frequency_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "アイテムの所持上限を超えているため、<br>一部のアイテムが付与されなかった可能性があります。<br>アイテムが正しく付与されていない場合は、<br>メニュー > お問い合わせ よりお問い合わせください。",
     "title": "購入エラー",
-    "title_en": "Purchase errors",
-    "title_en_src": "ml"
+    "title_en": "Purchase Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -734,11 +734,11 @@
     "id": 58,
     "name": "Shop_Expired_Deadline",
     "name_en": "Shop_Expired_Deadline",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "購入期限を過ぎているため、<br>一部のアイテムが付与されなかった可能性があります。<br>アイテムが正しく付与されていない場合は、<br>メニュー > お問い合わせ よりお問い合わせください。",
     "title": "購入エラー",
-    "title_en": "Purchase errors",
-    "title_en_src": "ml"
+    "title_en": "Purchase Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "補給する",
@@ -747,11 +747,11 @@
     "id": 59,
     "name": "Training_Renew_Max",
     "name_en": "Training_Renew_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "エネルギー上限を超えてしまいますが<br>よろしいですか？",
     "title": "補給上限オーバー",
-    "title_en": "Replenishment limit exceeded",
-    "title_en_src": "ml"
+    "title_en": "Energy Limit Exceeded",
+    "title_en_src": "gl"
   },
   {
     "button1": "解除する",
@@ -760,11 +760,11 @@
     "id": 60,
     "name": "Option_Inheriting_Cancel",
     "name_en": "Option_Inheriting_Cancel",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "Game Centerアカウントとの連携を<br>解除します。よろしいですか？",
     "title": "データ連携解除",
-    "title_en": "Disconnect data",
-    "title_en_src": "ml"
+    "title_en": "Remove Data Link",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -772,12 +772,12 @@
     "dialog_type": 1,
     "id": 61,
     "name": "Starting_IllegalOperation_Result",
-    "name_en": "starting_illegaloperation_result",
-    "name_en_src": "ml",
+    "name_en": "Starting_IllegalOperation_Result",
+    "name_en_src": "gl",
     "text": "ユーザー規約違反の事実を確認したため<br>アカウントを停止させていただきました。<br>万が一、お心当たりがない場合は<br>大変お手数ではございますが<br>タイトル画面下部【お問い合わせ】から<br>カスタマーサポート宛てまでご連絡ください。",
     "title": "お知らせ",
-    "title_en": "Announcements",
-    "title_en_src": "ml"
+    "title_en": "News",
+    "title_en_src": "gl"
   },
   {
     "button1": "リトライ",
@@ -786,11 +786,11 @@
     "id": 62,
     "name": "Load_Connect_Result",
     "name_en": "Load_Connect_Result",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ダウンロード時にエラーが発生しました。<br>タイトルに戻るか、電波状況の良<br>い場所でリトライをお願いいたします。",
     "title": "ダウンロードエラー",
-    "title_en": "download error",
-    "title_en_src": "ml"
+    "title_en": "Download Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "リトライ",
@@ -799,11 +799,11 @@
     "id": 63,
     "name": "Load_Connect_Confirm",
     "name_en": "Load_Connect_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ダウンロード時にエラーが発生しました。<br>電波状況の良い場所でリトライを<br>お願いいたします。",
     "title": "ダウンロードエラー",
-    "title_en": "download error",
-    "title_en_src": "ml"
+    "title_en": "Download Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -812,11 +812,11 @@
     "id": 64,
     "name": "Option_Dl_Complete",
     "name_en": "Option_Dl_Complete",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "既に最新のデータをダウンロード済みです。",
     "title": "データ一括ダウンロード",
-    "title_en": "Batch data download",
-    "title_en_src": "ml"
+    "title_en": "Download All Data",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -825,11 +825,11 @@
     "id": 65,
     "name": "Quest_Expired_Attention",
     "name_en": "Quest_Expired_Attention",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "クエストの解放時間が<br>終了しました。",
     "title": "期限切れ",
-    "title_en": "expiring",
-    "title_en_src": "ml"
+    "title_en": "Expired",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -837,12 +837,12 @@
     "dialog_type": 1,
     "id": 66,
     "name": "Item_IllegalOperation_Attention",
-    "name_en": "item_IllegalOperation_ATTENTION",
-    "name_en_src": "ml",
+    "name_en": "Item_IllegalOperation_Attention",
+    "name_en_src": "gl",
     "text": "この装備品はロックされているため、<br>売却できません。",
     "title": "売却確認",
-    "title_en": "Sale confirmation",
-    "title_en_src": "ml"
+    "title_en": "Confirm Sale",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -851,11 +851,11 @@
     "id": 67,
     "name": "Item_Cancel_Ng",
     "name_en": "Item_Cancel_Ng",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "このアイテムは装備中のため、<br>売却できません。",
     "title": "売却確認",
-    "title_en": "Sale confirmation",
-    "title_en_src": "ml"
+    "title_en": "Confirm Sale",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -863,12 +863,12 @@
     "dialog_type": 1,
     "id": 68,
     "name": "Shop_BuyCancel_Ng",
-    "name_en": "shop_buycancel_ng",
-    "name_en_src": "ml",
+    "name_en": "Shop_BuyCancel_Ng",
+    "name_en_src": "gl",
     "text": "不明なエラーが発生中です。",
     "title": "不明なエラー",
-    "title_en": "unknown error",
-    "title_en_src": "ml"
+    "title_en": "Unknown Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -876,12 +876,12 @@
     "dialog_type": 1,
     "id": 69,
     "name": "Expedition_SameCharacter_Ng",
-    "name_en": "Expedition_SameCharacter_NG",
-    "name_en_src": "ml",
+    "name_en": "Expedition_SameCharacter_Ng",
+    "name_en_src": "gl",
     "text": "すでに同一キャラクターを選択しています。",
     "title": "選択済みキャラクター",
-    "title_en": "Selected characters",
-    "title_en_src": "ml"
+    "title_en": "Character Selected",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -890,11 +890,11 @@
     "id": 70,
     "name": "Common_Expired_Attention",
     "name_en": "Common_Expired_Attention",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "日付が変更されました。",
     "title": "日付変更",
-    "title_en": "Date change",
-    "title_en_src": "ml"
+    "title_en": "Date Changed",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -903,11 +903,11 @@
     "id": 71,
     "name": "Common_Renew_Complete",
     "name_en": "Common_Renew_Complete",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ミッションが更新されました。",
     "title": "ミッション更新",
-    "title_en": "Mission update",
-    "title_en_src": "ml"
+    "title_en": "Missions Updated",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -916,11 +916,11 @@
     "id": 72,
     "name": "Common_Expired_Confirm",
     "name_en": "Common_Expired_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ミッションの期限が過ぎています。<br>ホームに戻ります。",
     "title": "期限切れ",
-    "title_en": "expiring",
-    "title_en_src": "ml"
+    "title_en": "Expired",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -929,11 +929,11 @@
     "id": 73,
     "name": "Item_Expired_Deadline",
     "name_en": "Item_Expired_Deadline",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "アイテムの使用期限が切れています。",
     "title": "使用期限エラー",
-    "title_en": "Expiration date error",
-    "title_en_src": "ml"
+    "title_en": "Expiration Date Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -942,11 +942,11 @@
     "id": 74,
     "name": "Training_Possession_Max",
     "name_en": "Training_Possession_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "スタイルピースの所持数が上限に達したため、一部のスタイルピースをプレゼントボックスに送りました。",
     "title": "スタイルピース所持数オーバー",
-    "title_en": "I have over the number of style pieces",
-    "title_en_src": "ml"
+    "title_en": "Style Piece Inventory Full",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -954,12 +954,12 @@
     "dialog_type": 1,
     "id": 75,
     "name": "Gacha_Possession_Max",
-    "name_en": "Gacha_Possesession_Max",
-    "name_en_src": "ml",
+    "name_en": "Gacha_Possession_Max",
+    "name_en_src": "gl",
     "text": "所持上限に達したアイテムをプレゼントボックスに送りました。",
     "title": "アイテム所持数オーバー",
-    "title_en": "The number of items you have is over",
-    "title_en_src": "ml"
+    "title_en": "Inventory Limit Exceeded",
+    "title_en_src": "gl"
   },
   {
     "button1": "リタイア",
@@ -967,12 +967,12 @@
     "dialog_type": 2,
     "id": 76,
     "name": "Battle_Retire_Confirm2",
-    "name_en": "Battle_Retire_Confirmm2",
-    "name_en_src": "ml",
+    "name_en": "Battle_Retire_Confirm2",
+    "name_en_src": "gl",
     "text": "リタイアするとクエストは失敗になります。<br>リタイアしますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -981,11 +981,11 @@
     "id": 77,
     "name": "Battle_Expired_Attention",
     "name_en": "Battle_Expired_Attention",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "日付が変更されました。<br>ホームに戻ります。",
     "title": "期限切れ",
-    "title_en": "expiring",
-    "title_en_src": "ml"
+    "title_en": "Expired",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -994,11 +994,11 @@
     "id": 78,
     "name": "Shop_Buy_Max",
     "name_en": "Shop_Buy_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "既に購入上限回数を超えているため、購入できません。",
     "title": "購入上限回数オーバー",
-    "title_en": "Purchase limit has been exceeded",
-    "title_en_src": "ml"
+    "title_en": "Purchase Limit Exceeded",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1006,12 +1006,12 @@
     "dialog_type": 1,
     "id": 79,
     "name": "Dress_up_Set_Done",
-    "name_en": "dress_up_set_done",
-    "name_en_src": "ml",
+    "name_en": "Dress_up_Set_Done",
+    "name_en_src": "gl",
     "text": "着せ替え設定を反映しました。",
     "title": "着せ替え設定完了",
-    "title_en": "Dress-up settings complete",
-    "title_en_src": "ml"
+    "title_en": "Skin Applied",
+    "title_en_src": "gl"
   },
   {
     "button1": "リセット",
@@ -1019,12 +1019,12 @@
     "dialog_type": 2,
     "id": 80,
     "name": "Dress_up_Reset_Choice",
-    "name_en": "dress_up_reset_choice",
-    "name_en_src": "ml",
+    "name_en": "Dress_up_Reset_Choice",
+    "name_en_src": "gl",
     "text": "現在設定している着せ替えをリセットしますか？",
     "title": "着せ替えリセット",
-    "title_en": "Dress up reset",
-    "title_en_src": "ml"
+    "title_en": "Reset Skins",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1032,12 +1032,12 @@
     "dialog_type": 1,
     "id": 81,
     "name": "Dress_up_Reset_Done",
-    "name_en": "dress_up_reset_done",
-    "name_en_src": "ml",
+    "name_en": "Dress_up_Reset_Done",
+    "name_en_src": "gl",
     "text": "現在の着せ替えをリセットしました。",
     "title": "着せ替えリセット完了",
-    "title_en": "Dress up reset complete",
-    "title_en_src": "ml"
+    "title_en": "Skins Reset",
+    "title_en_src": "gl"
   },
   {
     "button1": "売却する",
@@ -1045,12 +1045,12 @@
     "dialog_type": 2,
     "id": 82,
     "name": "Shop_WhiteCrystal_Max",
-    "name_en": "shop_whiteCrystal_max",
-    "name_en_src": "ml",
+    "name_en": "Shop_WhiteCrystal_Max",
+    "name_en_src": "gl",
     "text": "売却した場合、白結晶の所持上限を<br>超えてしまいますが、売却しますか？<br>※所持上限を超えた白結晶は<br>プレゼントボックスに送られます。",
     "title": "白結晶所持上限オーバー",
-    "title_en": "White crystal possession limit is over",
-    "title_en_src": "ml"
+    "title_en": "White Crystal Limit Exceeded",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1058,12 +1058,12 @@
     "dialog_type": 1,
     "id": 83,
     "name": "Smith_HolyStoneStrengthen_Remove",
-    "name_en": "Smith_HolystoneTrengthen_remove",
-    "name_en_src": "ml",
+    "name_en": "Smith_HolyStoneStrengthen_Remove",
+    "name_en_src": "gl",
     "text": "消費した装備品に<br>セットされていた聖石を取り外しました",
     "title": "聖石取り外し確認",
-    "title_en": "Sacred Stone Removal Confirmation",
-    "title_en_src": "ml"
+    "title_en": "Confirm Holy Stone Removal",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1071,12 +1071,12 @@
     "dialog_type": 1,
     "id": 84,
     "name": "Smith_HolyStoneSale_Remove",
-    "name_en": "Smith_HolystoneAle_remove",
-    "name_en_src": "ml",
+    "name_en": "Smith_HolyStoneSale_Remove",
+    "name_en_src": "gl",
     "text": "売却した装備品に<br>セットされていた聖石を取り外しました",
     "title": "聖石取り外し確認",
-    "title_en": "Sacred Stone Removal Confirmation",
-    "title_en_src": "ml"
+    "title_en": "Confirm Holy Stone Removal",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1085,11 +1085,11 @@
     "id": 85,
     "name": "Option_Resolution_Change",
     "name_en": "Option_Resolution_Change",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "新しい解像度設定はゲーム再起動後に適用されます。<br>OKボタンを押すとタイトル画面に戻り再起動します。",
     "title": "解像度変更完了",
-    "title_en": "Resolution change complete",
-    "title_en_src": "ml"
+    "title_en": "Screen Resolution Changed",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1097,12 +1097,12 @@
     "dialog_type": 1,
     "id": 86,
     "name": "Formation_InputText_Shortage",
-    "name_en": "formation_inputtext_formatting",
-    "name_en_src": "ml",
+    "name_en": "Formation_InputText_Shortage",
+    "name_en_src": "gl",
     "text": "パーティ名を入力してください。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1111,11 +1111,11 @@
     "id": 87,
     "name": "Present_Item_Max",
     "name_en": "Present_Item_Max",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "所持枠上限に達しています。<br>これ以上受け取ることはできません。",
     "title": "受け取り上限",
-    "title_en": "Receipt limit",
-    "title_en_src": "ml"
+    "title_en": "Claim Limit",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -1123,12 +1123,12 @@
     "dialog_type": 2,
     "id": 88,
     "name": "Quest_StaminaRecover_Confirm",
-    "name_en": "quest_staminaRecover_confirm",
-    "name_en_src": "ml",
+    "name_en": "Quest_StaminaRecover_Confirm",
+    "name_en_src": "gl",
     "text": "必要なスタミナが不足しています<br>回復しますか？",
     "title": "スタミナ不足",
-    "title_en": "Lack of stamina",
-    "title_en_src": "ml"
+    "title_en": "Insufficient Stamina",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1137,11 +1137,11 @@
     "id": 89,
     "name": "Quest_Renew_Confirm",
     "name_en": "Quest_Renew_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "コンテンツに更新が入りました。",
     "title": "コンテンツ更新",
-    "title_en": "Content updates",
-    "title_en_src": "ml"
+    "title_en": "Update Content",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1150,11 +1150,11 @@
     "id": 90,
     "name": "Quest_Expired_Deadline",
     "name_en": "Quest_Expired_Deadline",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "クエスト期限が過ぎています。",
     "title": "期限切れ",
-    "title_en": "expiring",
-    "title_en_src": "ml"
+    "title_en": "Expired",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1163,11 +1163,11 @@
     "id": 91,
     "name": "Daily_Frequency_Complete",
     "name_en": "Daily_Frequency_Complete",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "クリア回数の上限が１回増加しました。",
     "title": "クリア回数 上限増加",
-    "title_en": "Increased the maximum number of clears",
-    "title_en_src": "ml"
+    "title_en": "Increase Attempt Limit",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -1175,12 +1175,12 @@
     "dialog_type": 2,
     "id": 92,
     "name": "Daily_Jewel_Shortage",
-    "name_en": "Daily_Jewel_Dairy",
-    "name_en_src": "ml",
+    "name_en": "Daily_Jewel_Shortage",
+    "name_en_src": "gl",
     "text": "必要なジュエルがありません<br>購入しますか？",
     "title": "ジュエル不足",
-    "title_en": "Jewel shortage",
-    "title_en_src": "ml"
+    "title_en": "Not Enough Jewels",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1188,12 +1188,12 @@
     "dialog_type": 1,
     "id": 93,
     "name": "Option_DataRepair_Complete",
-    "name_en": "option_dataRepair_complete",
-    "name_en_src": "ml",
+    "name_en": "Option_DataRepair_Complete",
+    "name_en_src": "gl",
     "text": "データの修復が完了しました。",
     "title": "データ修復完了",
-    "title_en": "Data recovery complete",
-    "title_en_src": "ml"
+    "title_en": "Data Restoration Complete",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1202,11 +1202,11 @@
     "id": 94,
     "name": "Option_Dl_Confirm",
     "name_en": "Option_Dl_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "データ一括ダウンロードが完了しました。",
     "title": "データ一括ダウンロード完了",
-    "title_en": "Data batch download completed",
-    "title_en_src": "ml"
+    "title_en": "Download Complete",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1214,12 +1214,12 @@
     "dialog_type": 1,
     "id": 95,
     "name": "Shop_Possession_Max",
-    "name_en": "Shop_Possesession_Max",
-    "name_en_src": "ml",
+    "name_en": "Shop_Possession_Max",
+    "name_en_src": "gl",
     "text": "所持枠上限に達したため<br>購入できません。",
     "title": "購入エラー",
-    "title_en": "Purchase errors",
-    "title_en_src": "ml"
+    "title_en": "Purchase Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1227,12 +1227,12 @@
     "dialog_type": 1,
     "id": 96,
     "name": "Shop_Renew_Shortage",
-    "name_en": "Shop_Renew_Renew_Refresher",
-    "name_en_src": "ml",
+    "name_en": "Shop_Renew_Shortage",
+    "name_en_src": "gl",
     "text": "更新に必要なジュエルが足りません。",
     "title": "ジュエル不足",
-    "title_en": "Jewel shortage",
-    "title_en_src": "ml"
+    "title_en": "Not Enough Jewels",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -1240,12 +1240,12 @@
     "dialog_type": 1,
     "id": 97,
     "name": "Shop_MonthlyAmount_Max",
-    "name_en": "Shop_monthlyAmount_max",
-    "name_en_src": "ml",
+    "name_en": "Shop_MonthlyAmount_Max",
+    "name_en_src": "gl",
     "text": "月限度額に達したため<br>購入できませんでした。",
     "title": "月限度額超過",
-    "title_en": "Monthly limit exceeded",
-    "title_en_src": "ml"
+    "title_en": "Monthly Spending Limit Exceeded",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -1253,12 +1253,12 @@
     "dialog_type": 1,
     "id": 98,
     "name": "Shop_EquipmentSpace_impossible",
-    "name_en": "Shop_EquipmentSpace_Impossible",
-    "name_en_src": "ml",
+    "name_en": "Shop_EquipmentSpace_impossible",
+    "name_en_src": "gl",
     "text": "所持枠の拡張に失敗しました。",
     "title": "所持枠拡張失敗",
-    "title_en": "Possession expansion failed",
-    "title_en_src": "ml"
+    "title_en": "Inventory Expansion Failed",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1267,11 +1267,11 @@
     "id": 99,
     "name": "Shop_Exchange_Deadline",
     "name_en": "Shop_Exchange_Deadline",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "交換所の期限が切れました。",
     "title": "ショップ期限切れ",
     "title_en": "Shop Expired",
-    "title_en_src": "ml"
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -1279,12 +1279,12 @@
     "dialog_type": 1,
     "id": 100,
     "name": "Shop_Connect_impossible",
-    "name_en": "shop_connect_impossible",
-    "name_en_src": "ml",
+    "name_en": "Shop_Connect_impossible",
+    "name_en_src": "gl",
     "text": "通信に失敗しました。<br>通信環境が良い場所で再度お試しください。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -1292,12 +1292,12 @@
     "dialog_type": 1,
     "id": 101,
     "name": "Shop_ConnectStaminaRecover_impossible",
-    "name_en": "shop_connectStaminaRecover_Impossible",
-    "name_en_src": "ml",
+    "name_en": "Shop_ConnectStaminaRecover_impossible",
+    "name_en_src": "gl",
     "text": "通信に失敗し、スタミナ回復が出来ませんでした。<br>通信環境が良い場所で再度お試しください。",
     "title": "スタミナ回復エラー",
-    "title_en": "Stamina recovery error",
-    "title_en_src": "ml"
+    "title_en": "Stamina Recovery Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1305,12 +1305,12 @@
     "dialog_type": 1,
     "id": 102,
     "name": "Expedition_SameCharacter_Confirm",
-    "name_en": "Expedition_SameCharacter_confirm",
-    "name_en_src": "ml",
+    "name_en": "Expedition_SameCharacter_Confirm",
+    "name_en_src": "gl",
     "text": "既に同一キャラクターを選択しています。",
     "title": "選択済みキャラクター",
-    "title_en": "Selected characters",
-    "title_en_src": "ml"
+    "title_en": "Character Selected",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1319,11 +1319,11 @@
     "id": 103,
     "name": "Expedition_Area_Open",
     "name_en": "Expedition_Area_Open",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "新しい遠征先が解放されました。",
     "title": "新エリア解放",
-    "title_en": "Release new areas",
-    "title_en_src": "ml"
+    "title_en": "New Area Unlocked",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1331,12 +1331,12 @@
     "dialog_type": 1,
     "id": 104,
     "name": "Dojo_AwakeningSkill_Max",
-    "name_en": "dojo_AwakeningSkill_max",
-    "name_en_src": "ml",
+    "name_en": "Dojo_AwakeningSkill_Max",
+    "name_en_src": "gl",
     "text": "最大覚醒段階に達したので覚醒できません。",
     "title": "技・術覚醒失敗",
-    "title_en": "Technique/Jutsu Awakening Failure",
-    "title_en_src": "ml"
+    "title_en": "Failed to Awaken Skills/Spells",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1345,11 +1345,11 @@
     "id": 105,
     "name": "Training_Already_Confirm",
     "name_en": "Training_Already_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "訓練中のため選択出来ません。",
     "title": "選択不可",
-    "title_en": "Not selectable",
-    "title_en_src": "ml"
+    "title_en": "Cannot Be Selected",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -1357,12 +1357,12 @@
     "dialog_type": 2,
     "id": 106,
     "name": "Training_Jewel_Shortage",
-    "name_en": "Training_Jewel_Trainings",
-    "name_en_src": "ml",
+    "name_en": "Training_Jewel_Shortage",
+    "name_en_src": "gl",
     "text": "所持ジュエルが不足しているため<br>購入できません<br><br>ジュエルを購入しますか？",
     "title": "訓練枠拡張",
-    "title_en": "Expansion of training quotas",
-    "title_en_src": "ml"
+    "title_en": "Expand Training Slots",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -1370,12 +1370,12 @@
     "dialog_type": 2,
     "id": 107,
     "name": "Training_StyleChange_Confirm",
-    "name_en": "training_styleChange_confirm",
-    "name_en_src": "ml",
+    "name_en": "Training_StyleChange_Confirm",
+    "name_en_src": "gl",
     "text": "スタイルを変更した場合<br>カウントダウンはリセットされます<br>よろしいですか？",
     "title": "訓練スタイル変更",
-    "title_en": "Change training style",
-    "title_en_src": "ml"
+    "title_en": "Change Style to Train",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -1383,12 +1383,12 @@
     "dialog_type": 2,
     "id": 108,
     "name": "Training_StyleChange_Remove",
-    "name_en": "training_styleChange_remove",
-    "name_en_src": "ml",
+    "name_en": "Training_StyleChange_Remove",
+    "name_en_src": "gl",
     "text": "編成からはずすと<br>カウントダウンはリセットされます<br>よろしいですか？",
     "title": "訓練解除",
-    "title_en": "Untrain",
-    "title_en_src": "ml"
+    "title_en": "Cancel Training",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1397,11 +1397,11 @@
     "id": 109,
     "name": "Gacha_Expired_Deadline",
     "name_en": "Gacha_Expired_Deadline",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ガチャの期限が過ぎています。",
     "title": "期限切れ",
-    "title_en": "expiring",
-    "title_en_src": "ml"
+    "title_en": "Expired",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1410,11 +1410,11 @@
     "id": 110,
     "name": "Shop_Jewel_Attention",
     "name_en": "Shop_Jewel_Attention",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "所持ジュエルが不足のため<br>所持枠拡張ができません。",
     "title": "所持ジュエル不足",
-    "title_en": "Not enough jewels in my possession",
-    "title_en_src": "ml"
+    "title_en": "Not Enough Jewels",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1422,12 +1422,12 @@
     "dialog_type": 1,
     "id": 111,
     "name": "TotalWar_Character_Shortage",
-    "name_en": "TotalWar_Character_",
-    "name_en_src": "ml",
+    "name_en": "TotalWar_Character_Shortage",
+    "name_en_src": "gl",
     "text": "キャラクターが9人揃ってないと参加できません。",
     "title": "参加不可",
-    "title_en": "Not able to participate",
-    "title_en_src": "ml"
+    "title_en": "Unable to Join",
+    "title_en_src": "gl"
   },
   {
     "button1": "リタイア",
@@ -1435,12 +1435,12 @@
     "dialog_type": 2,
     "id": 112,
     "name": "TotalWar_Retire_Confirm",
-    "name_en": "TotalWar_retire_confirm",
-    "name_en_src": "ml",
+    "name_en": "TotalWar_Retire_Confirm",
+    "name_en_src": "gl",
     "text": "R杯をリタイアしますか？<br>※既に獲得済みの報酬は失われません。",
     "title": "リタイア確認",
-    "title_en": "Retirement confirmation",
-    "title_en_src": "ml"
+    "title_en": "Confirm Retreat",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1448,12 +1448,12 @@
     "dialog_type": 1,
     "id": 113,
     "name": "CharacterList_SkillBP_impossible",
-    "name_en": "CharacterList_skillBP_Impossible",
-    "name_en_src": "ml",
+    "name_en": "CharacterList_SkillBP_impossible",
+    "name_en_src": "gl",
     "text": "選択した技・術は未覚醒のため、<br>BPカスタマイズはできません。<br>※覚醒した技・術は、全力AUTO時の<br>BP消費量をカスタマイズできます。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1461,12 +1461,12 @@
     "dialog_type": 1,
     "id": 114,
     "name": "CharacterList_SkillBP_Confirm",
-    "name_en": "CharacterList_skillBP_confirm",
-    "name_en_src": "ml",
+    "name_en": "CharacterList_SkillBP_Confirm",
+    "name_en_src": "gl",
     "text": "BP設定を反映しました。",
     "title": "BP消費量の変更",
-    "title_en": "Changes in BP consumption",
-    "title_en_src": "ml"
+    "title_en": "BP Cost Changed",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -1474,12 +1474,12 @@
     "dialog_type": 1,
     "id": 115,
     "name": "Smith_HolyStoneSale_Shortage",
-    "name_en": "Smith_HolystoneAle_Smoothing",
-    "name_en_src": "ml",
+    "name_en": "Smith_HolyStoneSale_Shortage",
+    "name_en_src": "gl",
     "text": "該当するアイテムがありません。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "セットする",
@@ -1487,12 +1487,12 @@
     "dialog_type": 2,
     "id": 116,
     "name": "Smith_HolyStoneChange_Confirm",
-    "name_en": "Smith_HolystoneChange_confirm",
-    "name_en_src": "ml",
+    "name_en": "Smith_HolyStoneChange_Confirm",
+    "name_en_src": "gl",
     "text": "選択した聖石は既にセットされています。<br>この装備品にセットし直しますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1500,12 +1500,12 @@
     "dialog_type": 1,
     "id": 117,
     "name": "Starting_Connection_impossible",
-    "name_en": "starting_connection_impossible",
-    "name_en_src": "ml",
+    "name_en": "Starting_Connection_impossible",
+    "name_en_src": "gl",
     "text": "このサービスは利用できません。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -1514,11 +1514,11 @@
     "id": 118,
     "name": "Starting_Connection_Attention",
     "name_en": "Starting_Connection_Attention",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "既にプレイデータと連携しているアカウントです。<br>このアカウントと連携しますか？<br>※今のプレイデータで上書きされます。",
     "title": "データ連携",
-    "title_en": "Data collaboration",
-    "title_en_src": "ml"
+    "title_en": "Data Link",
+    "title_en_src": "gl"
   },
   {
     "button1": "データ連携",
@@ -1527,11 +1527,11 @@
     "id": 119,
     "name": "Starting_Connection_Confirm",
     "name_en": "Starting_Connection_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "はじめからプレイをする方は<br>「はじめから」を選択してください。<br>引き継ぎデータをお持ちの方は<br>「データ連携」を選択してください。<br><br>「はじめから」をプレイされた後でも<br>ゲームデータ連携は可能です。",
     "title": "データ連携確認",
-    "title_en": "Confirm data connection",
-    "title_en_src": "ml"
+    "title_en": "Confirm Data Link",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -1540,11 +1540,11 @@
     "id": 120,
     "name": "Starting_Retire_Confirm",
     "name_en": "Starting_Retire_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ゲームを終了しますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "実行する",
@@ -1552,12 +1552,12 @@
     "dialog_type": 2,
     "id": 121,
     "name": "Load_MemoryCapacity_Shortage",
-    "name_en": "load_memorycapacity_capacity",
-    "name_en_src": "ml",
+    "name_en": "Load_MemoryCapacity_Shortage",
+    "name_en_src": "gl",
     "text": "端末の空き容量が十分でないため、<br>ゲームを正常にプレイできない可能性があります。<br>ダウンロードを実行しますか？",
     "title": "警告",
-    "title_en": "warnings",
-    "title_en_src": "ml"
+    "title_en": "Warning",
+    "title_en_src": "gl"
   },
   {
     "button1": "リトライ",
@@ -1566,11 +1566,11 @@
     "id": 122,
     "name": "Common_Connect_Confirm",
     "name_en": "Common_Connect_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "通信に失敗しました。<br>リトライしますか？",
     "title": "通信エラー",
-    "title_en": "communication error",
-    "title_en_src": "ml"
+    "title_en": "Connection Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1578,12 +1578,12 @@
     "dialog_type": 1,
     "id": 123,
     "name": "Shop_Buy_Restriction",
-    "name_en": "Shop_Buy_Purchasers",
-    "name_en_src": "ml",
+    "name_en": "Shop_Buy_Restriction",
+    "name_en_src": "gl",
     "text": "お客様のアカウントではジュエルをご購入いただけません。<br>詳細につきましては、お問い合わせください。",
     "title": "ジュエル購入制限",
-    "title_en": "Jewel Purchase Restrictions",
-    "title_en_src": "ml"
+    "title_en": "Jewel Purchase Limit",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1591,12 +1591,12 @@
     "dialog_type": 1,
     "id": 124,
     "name": "Player_InputText_Max",
-    "name_en": "Player_InputText_max",
-    "name_en_src": "ml",
+    "name_en": "Player_InputText_Max",
+    "name_en_src": "gl",
     "text": "最大文字数を超えています。<br>30文字以内で入力し直してください。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1604,12 +1604,12 @@
     "dialog_type": 1,
     "id": 125,
     "name": "Player_InputText_Min",
-    "name_en": "player_inputtext_min",
-    "name_en_src": "ml",
+    "name_en": "Player_InputText_Min",
+    "name_en_src": "gl",
     "text": "文字を入力してください。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1618,11 +1618,11 @@
     "id": 126,
     "name": "Player_Id_Copy",
     "name_en": "Player_Id_Copy",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "プレイヤーIDをクリップボードにコピーしました。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1631,11 +1631,11 @@
     "id": 127,
     "name": "Advertisement_Setting_Complete",
     "name_en": "Advertisement_Setting_Complete",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "広告設定の変更はゲーム再起動後に適用されます。",
     "title": "広告設定変更完了",
-    "title_en": "Ad settings changed",
-    "title_en_src": "ml"
+    "title_en": "Ad Settings Changed",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1644,11 +1644,11 @@
     "id": 128,
     "name": "BattleFes_Renew_Result",
     "name_en": "BattleFes_Renew_Result",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "毎週のリセット日時に達したため、<br>ツヴァイクバトルフェスのクリア状況を<br>リセットしました。<br><br>※前週の進行状況に応じて、<br>一定段階のクエストまで自動的に<br>クリア状態になります。",
     "title": "リセット結果",
-    "title_en": "reset result",
-    "title_en_src": "ml"
+    "title_en": "Results Reset",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1656,12 +1656,12 @@
     "dialog_type": 1,
     "id": 129,
     "name": "Quest_Remuneration_Unlockable",
-    "name_en": "Quest_Exempleration_Unlockable",
-    "name_en_src": "ml",
+    "name_en": "Quest_Remuneration_Unlockable",
+    "name_en_src": "gl",
     "text": "プレゼントボックスに送られたため、<br>ロックできません。",
     "title": "ロック不可",
-    "title_en": "unlockable",
-    "title_en_src": "ml"
+    "title_en": "Cannot Be Locked",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1669,12 +1669,12 @@
     "dialog_type": 1,
     "id": 130,
     "name": "Advertisement_VideoPlayback_Ng",
-    "name_en": "Advertisement_VideoPlayback_NG",
-    "name_en_src": "ml",
+    "name_en": "Advertisement_VideoPlayback_Ng",
+    "name_en_src": "gl",
     "text": "動画広告の再生に失敗しました。<br>通信環境の良い場所で、時間を置いてから再度試してください。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -1682,12 +1682,12 @@
     "dialog_type": 2,
     "id": 131,
     "name": "Guild_Jewel_Shortage",
-    "name_en": "Guild_Jewel_Dies",
-    "name_en_src": "ml",
+    "name_en": "Guild_Jewel_Shortage",
+    "name_en_src": "gl",
     "text": "ジュエルが不足しています。<br>ジュエルを購入しますか？",
     "title": "所持ジュエル不足",
-    "title_en": "Not enough jewels in my possession",
-    "title_en_src": "ml"
+    "title_en": "Not Enough Jewels",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1695,12 +1695,12 @@
     "dialog_type": 1,
     "id": 132,
     "name": "Guild_Establishment_Complete",
-    "name_en": "Guild_Attentiment_Complete",
-    "name_en_src": "ml",
+    "name_en": "Guild_Establishment_Complete",
+    "name_en_src": "gl",
     "text": "ギルドを作成しました。<br>ギルドトップへ遷移します。",
     "title": "ギルド作成",
-    "title_en": "Guild creation",
-    "title_en_src": "ml"
+    "title_en": "Create Guild",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1708,12 +1708,12 @@
     "dialog_type": 1,
     "id": 133,
     "name": "Guild_InputText_Ng",
-    "name_en": "Guild_inputtext_ng",
-    "name_en_src": "ml",
+    "name_en": "Guild_InputText_Ng",
+    "name_en_src": "gl",
     "text": "不適切な文字が含まれています。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1721,12 +1721,12 @@
     "dialog_type": 1,
     "id": 134,
     "name": "Guild_MissionExpired_Confirm",
-    "name_en": "Guild_missionExpired_confirm",
-    "name_en_src": "ml",
+    "name_en": "Guild_MissionExpired_Confirm",
+    "name_en_src": "gl",
     "text": "開催期間が終了しているミッションです。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1734,12 +1734,12 @@
     "dialog_type": 1,
     "id": 135,
     "name": "Guild_EntryRequest_Belonged",
-    "name_en": "Guild_entryRequest_failed",
-    "name_en_src": "ml",
+    "name_en": "Guild_EntryRequest_Belonged",
+    "name_en_src": "gl",
     "text": "既にギルドに所属しています。",
     "title": "ギルド加入申請結果",
-    "title_en": "Guild membership application results",
-    "title_en_src": "ml"
+    "title_en": "Application Result",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1747,12 +1747,12 @@
     "dialog_type": 1,
     "id": 136,
     "name": "Guild_EntryRequest_Reject",
-    "name_en": "Guild_entryRequest_reject",
-    "name_en_src": "ml",
+    "name_en": "Guild_EntryRequest_Reject",
+    "name_en_src": "gl",
     "text": "加入申請を受け付けていないギルドです。",
     "title": "ギルド加入申請結果",
-    "title_en": "Guild membership application results",
-    "title_en_src": "ml"
+    "title_en": "Application Result",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1760,12 +1760,12 @@
     "dialog_type": 1,
     "id": 137,
     "name": "Guild_EntryRequest_AlreadyDone",
-    "name_en": "Guild_entryRequest_alreadyDone",
-    "name_en_src": "ml",
+    "name_en": "Guild_EntryRequest_AlreadyDone",
+    "name_en_src": "gl",
     "text": "既に加入申請しています。",
     "title": "ギルド加入申請結果",
-    "title_en": "Guild membership application results",
-    "title_en_src": "ml"
+    "title_en": "Application Result",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1773,12 +1773,12 @@
     "dialog_type": 1,
     "id": 138,
     "name": "Guild_EntryRequest_Downtime",
-    "name_en": "Guild_entryRequest_failed",
-    "name_en_src": "ml",
+    "name_en": "Guild_EntryRequest_Downtime",
+    "name_en_src": "gl",
     "text": "ギルド脱退から24時間未満の場合は<br>加入申請できません。",
     "title": "ギルド加入申請結果",
-    "title_en": "Guild membership application results",
-    "title_en_src": "ml"
+    "title_en": "Application Result",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1786,12 +1786,12 @@
     "dialog_type": 1,
     "id": 139,
     "name": "Guild_EntryRequest_Extinction",
-    "name_en": "Guild_entryRequest_Extinction",
-    "name_en_src": "ml",
+    "name_en": "Guild_EntryRequest_Extinction",
+    "name_en_src": "gl",
     "text": "このギルドは解散しているため<br>加入申請できません。",
     "title": "ギルド加入申請結果",
-    "title_en": "Guild membership application results",
-    "title_en_src": "ml"
+    "title_en": "Application Result",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1799,12 +1799,12 @@
     "dialog_type": 1,
     "id": 140,
     "name": "Guild_Join_Belonged",
-    "name_en": "Guild_Join_Join_Join'",
-    "name_en_src": "ml",
+    "name_en": "Guild_Join_Belonged",
+    "name_en_src": "gl",
     "text": "既にギルドに所属しています。",
     "title": "ギルド加入結果",
-    "title_en": "Guild enrollment results",
-    "title_en_src": "ml"
+    "title_en": "Join Result",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1813,11 +1813,11 @@
     "id": 141,
     "name": "Guild_Join_Reject",
     "name_en": "Guild_Join_Reject",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "加入を受け付けていないギルドです。",
     "title": "ギルド加入結果",
-    "title_en": "Guild enrollment results",
-    "title_en_src": "ml"
+    "title_en": "Join Result",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1825,12 +1825,12 @@
     "dialog_type": 1,
     "id": 142,
     "name": "Guild_Join_Downtime",
-    "name_en": "Guild_Join_Join_Join'",
-    "name_en_src": "ml",
+    "name_en": "Guild_Join_Downtime",
+    "name_en_src": "gl",
     "text": "ギルド脱退から24時間未満の場合は<br>加入できません。",
     "title": "ギルド加入結果",
-    "title_en": "Guild enrollment results",
-    "title_en_src": "ml"
+    "title_en": "Join Result",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1839,11 +1839,11 @@
     "id": 143,
     "name": "Guild_Join_Extinction",
     "name_en": "Guild_Join_Extinction",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "このギルドは解散しているため<br>加入できません。",
     "title": "ギルド加入結果",
-    "title_en": "Guild enrollment results",
-    "title_en_src": "ml"
+    "title_en": "Join Result",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1851,12 +1851,12 @@
     "dialog_type": 1,
     "id": 144,
     "name": "Guild_EntryCancel_Approve",
-    "name_en": "Guild_entryCancel_approve",
-    "name_en_src": "ml",
+    "name_en": "Guild_EntryCancel_Approve",
+    "name_en_src": "gl",
     "text": "既に承認されているため<br>取り消しできません。",
     "title": "ギルド加入申請取り消し",
-    "title_en": "Guild membership application cancellation",
-    "title_en_src": "ml"
+    "title_en": "Cancel Application for Guild",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1864,12 +1864,12 @@
     "dialog_type": 1,
     "id": 145,
     "name": "Guild_EntryCancel_Reject",
-    "name_en": "Guild_entryCancel_reject",
-    "name_en_src": "ml",
+    "name_en": "Guild_EntryCancel_Reject",
+    "name_en_src": "gl",
     "text": "既に加入申請が却下されています。",
     "title": "ギルド加入申請取り消し",
-    "title_en": "Guild membership application cancellation",
-    "title_en_src": "ml"
+    "title_en": "Cancel Application for Guild",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1878,11 +1878,11 @@
     "id": 146,
     "name": "Guild_Edit_Success",
     "name_en": "Guild_Edit_Success",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ギルド設定を保存しました。",
     "title": "ギルド設定",
-    "title_en": "Guild settings",
-    "title_en_src": "ml"
+    "title_en": "Guild Settings",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -1890,12 +1890,12 @@
     "dialog_type": 2,
     "id": 147,
     "name": "Guild_EntryAll_Confirm",
-    "name_en": "Guild_entryAll_confirm",
-    "name_en_src": "ml",
+    "name_en": "Guild_EntryAll_Confirm",
+    "name_en_src": "gl",
     "text": "全てのギルド加入申請を一括で拒否します。<br>よろしいですか？",
     "title": "加入申請一括拒否",
-    "title_en": "Batch rejection of enrollment applications",
-    "title_en_src": "ml"
+    "title_en": "Reject All Applications",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1903,12 +1903,12 @@
     "dialog_type": 1,
     "id": 148,
     "name": "Guild_EntryRequest_Ng",
-    "name_en": "Guild_entryRequest_ng",
-    "name_en_src": "ml",
+    "name_en": "Guild_EntryRequest_Ng",
+    "name_en_src": "gl",
     "text": "ギルドへの申請が取り消されています。",
     "title": "加入承認エラー",
-    "title_en": "Enrollment Approval Errors",
-    "title_en_src": "ml"
+    "title_en": "Approval Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1916,12 +1916,12 @@
     "dialog_type": 1,
     "id": 149,
     "name": "Guild_EntryAll_Complete",
-    "name_en": "Guild_entryAll_complete",
-    "name_en_src": "ml",
+    "name_en": "Guild_EntryAll_Complete",
+    "name_en_src": "gl",
     "text": "ギルド加入申請を一括拒否しました。",
     "title": "加入申請一括拒否結果",
-    "title_en": "Results of batch rejection of enrollment applications",
-    "title_en_src": "ml"
+    "title_en": "Reject All Applications Result",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1929,12 +1929,12 @@
     "dialog_type": 1,
     "id": 150,
     "name": "Guild_SubMaster_Ng",
-    "name_en": "Guild_submaster_ng",
-    "name_en_src": "ml",
+    "name_en": "Guild_SubMaster_Ng",
+    "name_en_src": "gl",
     "text": "サブリーダーの上限数は3名までです。",
     "title": "サブリーダー昇格",
-    "title_en": "Sub-leader promotion",
-    "title_en_src": "ml"
+    "title_en": "Sub-leader Promotion",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1943,11 +1943,11 @@
     "id": 151,
     "name": "Guild_Ranking_Confirm",
     "name_en": "Guild_Ranking_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "現在ランキングを取得できません。<br>時間をあけて再度お試しください。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1955,12 +1955,12 @@
     "dialog_type": 1,
     "id": 152,
     "name": "Guild_dissolution_Confirm",
-    "name_en": "Guild_dissolution_confirm",
-    "name_en_src": "ml",
+    "name_en": "Guild_dissolution_Confirm",
+    "name_en_src": "gl",
     "text": "既に解散済みギルドです。",
     "title": "ギルド情報",
-    "title_en": "Guild information",
-    "title_en_src": "ml"
+    "title_en": "Guild Info",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1969,11 +1969,11 @@
     "id": 153,
     "name": "Guild_Expulsion_Confirm",
     "name_en": "Guild_Expulsion_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ギルドから除名されています。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1981,12 +1981,12 @@
     "dialog_type": 1,
     "id": 154,
     "name": "Guild_NoAuthority_Confirm",
-    "name_en": "Guild_noauthority_confirm",
-    "name_en_src": "ml",
+    "name_en": "Guild_NoAuthority_Confirm",
+    "name_en_src": "gl",
     "text": "役職操作の権限がありません。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -1994,12 +1994,12 @@
     "dialog_type": 1,
     "id": 155,
     "name": "Guild_NonExistencePlayer_Confirm",
-    "name_en": "Guild_nonExistencePlayer_confirm",
-    "name_en_src": "ml",
+    "name_en": "Guild_NonExistencePlayer_Confirm",
+    "name_en_src": "gl",
     "text": "既にギルドに存在しない<br>プレイヤーです。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2008,11 +2008,11 @@
     "id": 156,
     "name": "Guild_Renew_Confirm",
     "name_en": "Guild_Renew_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ギルドの情報が更新されました。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2020,12 +2020,12 @@
     "dialog_type": 1,
     "id": 157,
     "name": "Guild_Edit_Restriction",
-    "name_en": "Guild_Edit_Invented",
-    "name_en_src": "ml",
+    "name_en": "Guild_Edit_Restriction",
+    "name_en_src": "gl",
     "text": "ギルドの情報が更新されました。<br>ギルドトップ画面にもどります。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2033,12 +2033,12 @@
     "dialog_type": 1,
     "id": 158,
     "name": "GuildChat_Expulsion_Confirm",
-    "name_en": "GuildChat_expulsion_confirm",
-    "name_en_src": "ml",
+    "name_en": "GuildChat_Expulsion_Confirm",
+    "name_en_src": "gl",
     "text": "ギルドから脱退したため<br>チャットを閲覧することができません。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2046,12 +2046,12 @@
     "dialog_type": 1,
     "id": 159,
     "name": "GuildChat_InputText_Ng",
-    "name_en": "Guildchat_inputtext_ng",
-    "name_en_src": "ml",
+    "name_en": "GuildChat_InputText_Ng",
+    "name_en_src": "gl",
     "text": "不適切な文言が含まれているため<br>チャットを投稿できませんでした。",
     "title": "投稿エラー",
-    "title_en": "Submission errors",
-    "title_en_src": "ml"
+    "title_en": "Posting Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -2059,12 +2059,12 @@
     "dialog_type": 1,
     "id": 160,
     "name": "GuildChat_Connect_Confirm",
-    "name_en": "GuildChat_connect_confirm",
-    "name_en_src": "ml",
+    "name_en": "GuildChat_Connect_Confirm",
+    "name_en_src": "gl",
     "text": "通信に失敗しました。<br>時間をあけて再度お試しください。",
     "title": "通信エラー",
-    "title_en": "communication error",
-    "title_en_src": "ml"
+    "title_en": "Connection Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2073,11 +2073,11 @@
     "id": 161,
     "name": "Guild_Join_Change",
     "name_en": "Guild_Join_Change",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "承認制のギルドに変更されました。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2085,12 +2085,12 @@
     "dialog_type": 1,
     "id": 162,
     "name": "PartyGroup_InputText_Shortage",
-    "name_en": "PartyGroup_InputText_Inputs",
-    "name_en_src": "ml",
+    "name_en": "PartyGroup_InputText_Shortage",
+    "name_en_src": "gl",
     "text": "グループ名を入力してください。",
     "title": "エラー",
-    "title_en": "errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2098,12 +2098,12 @@
     "dialog_type": 1,
     "id": 163,
     "name": "Common_MissionExpired_Confirm",
-    "name_en": "Common_missionExpired_confirm",
-    "name_en_src": "ml",
+    "name_en": "Common_MissionExpired_Confirm",
+    "name_en_src": "gl",
     "text": "ミッションの期限が過ぎています。",
     "title": "期間切れ",
-    "title_en": "Expired",
-    "title_en_src": "ml"
+    "title_en": "Ended",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2111,12 +2111,12 @@
     "dialog_type": 1,
     "id": 164,
     "name": "Guild_Edit_Shortage",
-    "name_en": "Guild_Edit_Invented",
-    "name_en_src": "ml",
+    "name_en": "Guild_Edit_Shortage",
+    "name_en_src": "gl",
     "text": "オーラムが不足しているため<br>ギルド名以外の情報を変更し保存しました。",
     "title": "ギルド設定",
-    "title_en": "Guild settings",
-    "title_en_src": "ml"
+    "title_en": "Guild Settings",
+    "title_en_src": "gl"
   },
   {
     "button1": "再挑戦",
@@ -2125,11 +2125,11 @@
     "id": 165,
     "name": "Battle_Retry_Confirm",
     "name_en": "Battle_Retry_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "再挑戦を実行しますか？<br>再挑戦を実行すると、クエストをリタイアし、<br>再度クエストを開始します。<br>※バトル中に習得した技やRankアップは失われます。",
     "title": "再挑戦確認",
-    "title_en": "Try again, confirm",
-    "title_en_src": "ml"
+    "title_en": "Confirm Restart",
+    "title_en_src": "gl"
   },
   {
     "button1": "再挑戦",
@@ -2137,12 +2137,12 @@
     "dialog_type": 2,
     "id": 166,
     "name": "Battle_Retry_Confirm2",
-    "name_en": "Battle_Retry_Confirmm2",
-    "name_en_src": "ml",
+    "name_en": "Battle_Retry_Confirm2",
+    "name_en_src": "gl",
     "text": "再挑戦を実行しますか？<br>再挑戦を実行すると、クエストをリタイアし、<br>再度クエストを開始します。",
     "title": "再挑戦確認",
-    "title_en": "Try again, confirm",
-    "title_en_src": "ml"
+    "title_en": "Confirm Restart",
+    "title_en_src": "gl"
   },
   {
     "button1": "リタイア",
@@ -2150,12 +2150,12 @@
     "dialog_type": 2,
     "id": 167,
     "name": "Battle_RetireOrRetry_Confirm",
-    "name_en": "battle_retireorRetry_confirm",
-    "name_en_src": "ml",
+    "name_en": "Battle_RetireOrRetry_Confirm",
+    "name_en_src": "gl",
     "text": "リタイアするとクエストは失敗になります。<br>再挑戦を実行すると、クエストをリタイアし、<br>再度クエストを開始します。<br>※バトル中に習得した技やRankアップは失われます。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "リタイア",
@@ -2163,12 +2163,12 @@
     "dialog_type": 2,
     "id": 168,
     "name": "Battle_RetireOrRetry_Confirm2",
-    "name_en": "battle_retireorRetry_ConfirmM2",
-    "name_en_src": "ml",
+    "name_en": "Battle_RetireOrRetry_Confirm2",
+    "name_en_src": "gl",
     "text": "リタイアするとクエストは失敗になります。<br>再挑戦を実行すると、クエストをリタイアし、<br>再度クエストを開始します。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "リセットする",
@@ -2176,12 +2176,12 @@
     "dialog_type": 2,
     "id": 169,
     "name": "BoxGacha_Reset_Confirm",
-    "name_en": "boxGacha_reset_confirm",
-    "name_en_src": "ml",
+    "name_en": "BoxGacha_Reset_Confirm",
+    "name_en_src": "gl",
     "text": "BOXリセットを実行すると、<br>BOX内の全ての報酬が次のBOXの報酬へと<br>入れ替わります。<br>\n一度リセットすると、<br>前のBOXに戻ることができなくなりますが<br>よろしいですか？",
     "title": "BOXリセット確認",
-    "title_en": "BOX reset confirmation",
-    "title_en_src": "ml"
+    "title_en": "Confirm Reward Reset",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2189,12 +2189,12 @@
     "dialog_type": 1,
     "id": 170,
     "name": "BoxGacha_Reset_Complete",
-    "name_en": "boxgacha_reset_complete",
-    "name_en_src": "ml",
+    "name_en": "BoxGacha_Reset_Complete",
+    "name_en_src": "gl",
     "text": "BOXがリセットされました。",
     "title": "BOXリセット完了",
-    "title_en": "BOX reset complete",
-    "title_en_src": "ml"
+    "title_en": "Reward Reset Completed",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2202,12 +2202,12 @@
     "dialog_type": 1,
     "id": 171,
     "name": "BoxGacha_Information_Confirm",
-    "name_en": "boxGacha_information_confirm",
-    "name_en_src": "ml",
+    "name_en": "BoxGacha_Information_Confirm",
+    "name_en_src": "gl",
     "text": "BOX内が空になりました。<br>次のBOXに進むためには、<br>イベントBOXガチャトップページにて<br>「BOXリセットボタン」を押下してください。",
     "title": "BOX情報",
-    "title_en": "BOX INFO",
-    "title_en_src": "ml"
+    "title_en": "BOX Info",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2215,12 +2215,12 @@
     "dialog_type": 1,
     "id": 172,
     "name": "BoxGacha_ItemExchange_End",
-    "name_en": "boxgacha_itemExchange_end",
-    "name_en_src": "ml",
+    "name_en": "BoxGacha_ItemExchange_End",
+    "name_en_src": "gl",
     "text": "全BOXのアイテム交換が終了しました。<br>\n以降、アイテム交換とBOXリセットはできません。",
     "title": "全アイテム交換終了",
-    "title_en": "End of exchanging all items",
-    "title_en_src": "ml"
+    "title_en": "All Items Exchanged",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2228,12 +2228,12 @@
     "dialog_type": 1,
     "id": 173,
     "name": "BoxGacha_Expired_Confirm",
-    "name_en": "boxGacha_Expired_confirm",
-    "name_en_src": "ml",
+    "name_en": "BoxGacha_Expired_Confirm",
+    "name_en_src": "gl",
     "text": "イベントBOXガチャの有効期限が切れました。<br>\nホーム画面に戻ります。",
     "title": "有効期限切れ",
     "title_en": "Expired",
-    "title_en_src": "ml"
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2241,12 +2241,12 @@
     "dialog_type": 1,
     "id": 174,
     "name": "PresentBox_Expired_Confirm",
-    "name_en": "presentBox_Expired_confirm",
-    "name_en_src": "ml",
+    "name_en": "PresentBox_Expired_Confirm",
+    "name_en_src": "gl",
     "text": "メッセージの保管期限が切れたため<br>\n閲覧できません。",
     "title": "有効期限切れ",
     "title_en": "Expired",
-    "title_en_src": "ml"
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2254,12 +2254,12 @@
     "dialog_type": 1,
     "id": 175,
     "name": "FavoriteArmorSet_Delete_Complete",
-    "name_en": "FavoriteArmorset_delete_complete",
-    "name_en_src": "ml",
+    "name_en": "FavoriteArmorSet_Delete_Complete",
+    "name_en_src": "gl",
     "text": "お気に入りを削除しました。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2267,12 +2267,12 @@
     "dialog_type": 1,
     "id": 176,
     "name": "BoxGacha_ResetItem_Confirm",
-    "name_en": "boxGacha_resetItem_confirm",
-    "name_en_src": "ml",
+    "name_en": "BoxGacha_ResetItem_Confirm",
+    "name_en_src": "gl",
     "text": "リセット対象のアイテムを獲得しました。<br>イベントBOXガチャトップ画面から<br>BOXリセットが可能です。",
     "title": "リセット対象アイテム獲得",
-    "title_en": "Acquire items subject to reset",
-    "title_en_src": "ml"
+    "title_en": "Reward-Reset Item Obtained",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -2281,11 +2281,11 @@
     "id": 177,
     "name": "Option_NotificationSetting_Confirm",
     "name_en": "Option_NotificationSetting_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "ご利用端末の設定に移動します。<br>よろしいですか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -2293,12 +2293,12 @@
     "dialog_type": 1,
     "id": 182,
     "name": "CharacterList_Favorite_Change",
-    "name_en": "Characterlist_favorite_change",
-    "name_en_src": "ml",
+    "name_en": "CharacterList_Favorite_Change",
+    "name_en_src": "gl",
     "text": "スタイルのグループ設定状態を更新しました。",
     "title": "変更完了",
-    "title_en": "Change complete",
-    "title_en_src": "ml"
+    "title_en": "Changed",
+    "title_en_src": "gl"
   },
   {
     "button1": "再挑戦",
@@ -2306,12 +2306,12 @@
     "dialog_type": 2,
     "id": 183,
     "name": "BattleFes_Retry_Confirm",
-    "name_en": "Battlefes_retry_confirm",
-    "name_en_src": "ml",
+    "name_en": "BattleFes_Retry_Confirm",
+    "name_en_src": "gl",
     "text": "再挑戦を実行しますか？<br>再挑戦を実行すると、クエストを終了し、<br>再度クエストを開始します。",
     "title": "再挑戦確認",
-    "title_en": "Confirm retry",
-    "title_en_src": "ml"
+    "title_en": "Confirm Restart",
+    "title_en_src": "gl"
   },
   {
     "button1": "リタイア",
@@ -2319,12 +2319,12 @@
     "dialog_type": 2,
     "id": 184,
     "name": "BattleFes_RetireOrRetry_Confirm",
-    "name_en": "Battlefes_RetireOrRetry_CONFIRM",
-    "name_en_src": "ml",
+    "name_en": "BattleFes_RetireOrRetry_Confirm",
+    "name_en_src": "gl",
     "text": "リタイアするとクエストは終了となります。<br>再挑戦を実行すると、クエストを終了し、<br>再度クエストを開始します。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "リタイア",
@@ -2332,12 +2332,12 @@
     "dialog_type": 2,
     "id": 185,
     "name": "BattleFes_Retire_Confirm",
-    "name_en": "Battlefes_retire_confirm",
-    "name_en_src": "ml",
+    "name_en": "BattleFes_Retire_Confirm",
+    "name_en_src": "gl",
     "text": "リタイアするとクエストは終了となります。<br>リタイアしますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2346,11 +2346,11 @@
     "id": 186,
     "name": "FieldMap_Battle_Change",
     "name_en": "FieldMap_Battle_Change",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "このエリアの状態が変化したため、<br>バトルが開始できません。",
     "title": "状態変化",
-    "title_en": "State changes",
-    "title_en_src": "ml"
+    "title_en": "Status Change",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2358,12 +2358,12 @@
     "dialog_type": 1,
     "id": 187,
     "name": "Present_SecretKeyword_Copy",
-    "name_en": "Present_secretKeyword_copy",
-    "name_en_src": "ml",
+    "name_en": "Present_SecretKeyword_Copy",
+    "name_en_src": "gl",
     "text": "秘密のキーワードを<br>クリップボードにコピーしました。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2372,11 +2372,11 @@
     "id": 188,
     "name": "FieldMap_Dominated_Change",
     "name_en": "FieldMap_Dominated_Change",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "このエリアは制圧完了しているため、<br>バトルを開始できません。",
     "title": "制圧完了",
-    "title_en": "Domination complete",
-    "title_en_src": "ml"
+    "title_en": "Conquered",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2384,12 +2384,12 @@
     "dialog_type": 1,
     "id": 190,
     "name": "Smith_equipment_craft_Deadline",
-    "name_en": "smith_equipment_craft_deadline",
-    "name_en_src": "ml",
+    "name_en": "Smith_equipment_craft_Deadline",
+    "name_en_src": "gl",
     "text": "錬成できる期間が過ぎています。<br>錬成選択画面へ戻ります。",
     "title": "期間切れ",
-    "title_en": "Expired",
-    "title_en_src": "ml"
+    "title_en": "Ended",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2398,11 +2398,11 @@
     "id": 191,
     "name": "Quest_Information_Confirm",
     "name_en": "Quest_Information_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "初回クリア後にまとめて戦闘可能になります。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2410,12 +2410,12 @@
     "dialog_type": 1,
     "id": 192,
     "name": "Battle_Retire_impossible_2",
-    "name_en": "Battle_retire_impossible_2",
-    "name_en_src": "ml",
+    "name_en": "Battle_Retire_impossible_2",
+    "name_en_src": "gl",
     "text": "勝利の確定したバトルのリタイアはできません。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -2423,12 +2423,12 @@
     "dialog_type": 2,
     "id": 193,
     "name": "auto_rematch_Battle_Confirm",
-    "name_en": "auto_rematch_battle_confirm",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_Confirm",
+    "name_en_src": "gl",
     "text": "自動再戦を停止します。<br>よろしいですか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2436,12 +2436,12 @@
     "dialog_type": 1,
     "id": 194,
     "name": "auto_rematch_Battle_End_1",
-    "name_en": "auto_rematch_battle_end_1",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_End_1",
+    "name_en_src": "gl",
     "text": "スタミナをすべて消費したため、<br>自動再戦を停止しました。",
     "title": "自動再戦停止",
-    "title_en": "Stop automatic rematch",
-    "title_en_src": "ml"
+    "title_en": "Auto Rematch Stopped",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2449,12 +2449,12 @@
     "dialog_type": 1,
     "id": 195,
     "name": "auto_rematch_Battle_End_2",
-    "name_en": "auto_rematch_battle_end_2",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_End_2",
+    "name_en_src": "gl",
     "text": "クエスト挑戦チケットをすべて消費したため、<br>自動再戦を停止しました。",
     "title": "自動再戦停止",
-    "title_en": "Stop automatic rematch",
-    "title_en_src": "ml"
+    "title_en": "Auto Rematch Stopped",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2462,12 +2462,12 @@
     "dialog_type": 1,
     "id": 196,
     "name": "auto_rematch_Battle_End_3",
-    "name_en": "auto_rematch_battle_end_3",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_End_3",
+    "name_en_src": "gl",
     "text": "デイリー自動再戦プレイ回数をすべて消費したため、<br>自動再戦を停止しました。",
     "title": "自動再戦停止",
-    "title_en": "Stop automatic rematch",
-    "title_en_src": "ml"
+    "title_en": "Auto Rematch Stopped",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2475,12 +2475,12 @@
     "dialog_type": 1,
     "id": 197,
     "name": "auto_rematch_Battle_End_4",
-    "name_en": "auto_rematch_battle_end_4",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_End_4",
+    "name_en_src": "gl",
     "text": "自動再戦チケットをすべて消費したため、<br>自動再戦を停止しました。",
     "title": "自動再戦停止",
-    "title_en": "Stop automatic rematch",
-    "title_en_src": "ml"
+    "title_en": "Auto Rematch Stopped",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2488,12 +2488,12 @@
     "dialog_type": 1,
     "id": 198,
     "name": "auto_rematch_Battle_End_5",
-    "name_en": "auto_rematch_battle_end_5",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_End_5",
+    "name_en_src": "gl",
     "text": "バトル中全滅したため、<br>自動再戦を停止しました。",
     "title": "自動再戦停止",
-    "title_en": "Stop automatic rematch",
-    "title_en_src": "ml"
+    "title_en": "Auto Rematch Stopped",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2501,12 +2501,12 @@
     "dialog_type": 1,
     "id": 199,
     "name": "auto_rematch_Battle_End_6",
-    "name_en": "auto_rematch_battle_end_6",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_End_6",
+    "name_en_src": "gl",
     "text": "日付が変更されたため、<br>自動再戦を停止しました。",
     "title": "自動再戦停止",
-    "title_en": "Stop automatic rematch",
-    "title_en_src": "ml"
+    "title_en": "Auto Rematch Stopped",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2514,12 +2514,12 @@
     "dialog_type": 1,
     "id": 200,
     "name": "auto_rematch_Battle_End_7",
-    "name_en": "auto_rematch_battle_end_7",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_End_7",
+    "name_en_src": "gl",
     "text": "アプリが終了したため、<br>自動再戦を停止しました。",
     "title": "自動再戦停止",
-    "title_en": "Stop automatic rematch",
-    "title_en_src": "ml"
+    "title_en": "Auto Rematch Stopped",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -2528,11 +2528,11 @@
     "id": 201,
     "name": "Dojo_UraDojoUnreleased_Confirm",
     "name_en": "Dojo_UraDojoUnreleased_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "・裏道場1回クリアで解放",
     "title": "コンテンツ未解放",
-    "title_en": "Content not released",
-    "title_en_src": "ml"
+    "title_en": "Content Unavailable",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2540,12 +2540,12 @@
     "dialog_type": 1,
     "id": 202,
     "name": "EquipmentNaming_InputText_Max",
-    "name_en": "EquipmentNaming_inputText_max",
-    "name_en_src": "ml",
+    "name_en": "EquipmentNaming_InputText_Max",
+    "name_en_src": "gl",
     "text": "最大文字数を超えています。<br>15文字以内で入力し直してください。",
     "title": " エラー",
-    "title_en": " errors",
-    "title_en_src": "ml"
+    "title_en": "Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2553,12 +2553,12 @@
     "dialog_type": 1,
     "id": 203,
     "name": "auto_rematch_Battle_End_8",
-    "name_en": "auto_rematch_battle_end_8",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_End_8",
+    "name_en_src": "gl",
     "text": "クエスト期限が過ぎたため、<br>自動再戦を停止しました。",
     "title": "自動再戦停止",
-    "title_en": "Stop automatic rematch",
-    "title_en_src": "ml"
+    "title_en": "Auto Rematch Stopped",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2567,11 +2567,11 @@
     "id": 204,
     "name": "RuledTrial_MonthlyReward_Confirm",
     "name_en": "RuledTrial_MonthlyReward_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "毎月の集計日時に達したため、<br>クリア状況に応じた報酬を付与します。<br><br>※進行状況は継続になります。",
     "title": "月次報酬",
-    "title_en": "Monthly remuneration",
-    "title_en_src": "ml"
+    "title_en": "Monthly Rewards",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
