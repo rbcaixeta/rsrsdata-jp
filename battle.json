@@ -46498,6 +46498,848 @@
   },
   {
     "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066011,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 94000,
+    "round_count": 2,
+    "round_ids": [
+      200066001,
+      200066002
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066021,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 94000,
+    "round_count": 2,
+    "round_ids": [
+      200066003,
+      200066004
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066031,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 94000,
+    "round_count": 2,
+    "round_ids": [
+      200066005,
+      200066006
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066041,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 94000,
+    "round_count": 2,
+    "round_ids": [
+      200066007,
+      200066008
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066051,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 122000,
+    "round_count": 1,
+    "round_ids": [
+      200066009
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066061,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 109500,
+    "round_count": 2,
+    "round_ids": [
+      200066010,
+      200066011
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066071,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 109500,
+    "round_count": 2,
+    "round_ids": [
+      200066012,
+      200066013
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066081,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 109500,
+    "round_count": 2,
+    "round_ids": [
+      200066014,
+      200066015
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066091,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 109500,
+    "round_count": 2,
+    "round_ids": [
+      200066016,
+      200066017
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 90,
+    "id": 200066101,
+    "name": "",
+    "normal_alert_rate": 95,
+    "recommended_combat_power": 127500,
+    "round_count": 1,
+    "round_ids": [
+      200066018
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066111,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 111000,
+    "round_count": 2,
+    "round_ids": [
+      200066019,
+      200066020
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066121,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 111000,
+    "round_count": 2,
+    "round_ids": [
+      200066021,
+      200066022
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066131,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 111000,
+    "round_count": 2,
+    "round_ids": [
+      200066023,
+      200066024
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066141,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 125000,
+    "round_count": 1,
+    "round_ids": [
+      200066025
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066151,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 111000,
+    "round_count": 2,
+    "round_ids": [
+      200066026,
+      200066027
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066161,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 111000,
+    "round_count": 2,
+    "round_ids": [
+      200066028,
+      200066029
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066171,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 111000,
+    "round_count": 2,
+    "round_ids": [
+      200066030,
+      200066031
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 90,
+    "id": 200066181,
+    "name": "",
+    "normal_alert_rate": 95,
+    "recommended_combat_power": 129000,
+    "round_count": 1,
+    "round_ids": [
+      200066032
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066191,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 112500,
+    "round_count": 2,
+    "round_ids": [
+      200066033,
+      200066034
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066201,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 126500,
+    "round_count": 1,
+    "round_ids": [
+      200066035
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066211,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 126500,
+    "round_count": 1,
+    "round_ids": [
+      200066036
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066221,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 126500,
+    "round_count": 1,
+    "round_ids": [
+      200066037
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066231,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 126500,
+    "round_count": 1,
+    "round_ids": [
+      200066038
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066241,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 112500,
+    "round_count": 2,
+    "round_ids": [
+      200066039,
+      200066040
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066251,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 112500,
+    "round_count": 2,
+    "round_ids": [
+      200066041,
+      200066042
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066261,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 112500,
+    "round_count": 2,
+    "round_ids": [
+      200066043,
+      200066044
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 90,
+    "id": 200066271,
+    "name": "",
+    "normal_alert_rate": 95,
+    "recommended_combat_power": 130500,
+    "round_count": 1,
+    "round_ids": [
+      200066045
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066281,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 114000,
+    "round_count": 2,
+    "round_ids": [
+      200066046,
+      200066047
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066291,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 114000,
+    "round_count": 2,
+    "round_ids": [
+      200066048,
+      200066049
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066301,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 114000,
+    "round_count": 2,
+    "round_ids": [
+      200066050,
+      200066051
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066311,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 128000,
+    "round_count": 1,
+    "round_ids": [
+      200066052
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066321,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 114000,
+    "round_count": 2,
+    "round_ids": [
+      200066053,
+      200066054
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066331,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 114000,
+    "round_count": 2,
+    "round_ids": [
+      200066055,
+      200066056
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066341,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 114000,
+    "round_count": 2,
+    "round_ids": [
+      200066057,
+      200066058
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 90,
+    "id": 200066351,
+    "name": "",
+    "normal_alert_rate": 95,
+    "recommended_combat_power": 132000,
+    "round_count": 1,
+    "round_ids": [
+      200066059
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066361,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 115500,
+    "round_count": 2,
+    "round_ids": [
+      200066060,
+      200066061
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066371,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 115500,
+    "round_count": 2,
+    "round_ids": [
+      200066062,
+      200066063
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066381,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 115500,
+    "round_count": 2,
+    "round_ids": [
+      200066064,
+      200066065
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066391,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 129500,
+    "round_count": 1,
+    "round_ids": [
+      200066066
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066401,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 115500,
+    "round_count": 2,
+    "round_ids": [
+      200066067,
+      200066068
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066411,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 115500,
+    "round_count": 2,
+    "round_ids": [
+      200066069,
+      200066070
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066421,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 115500,
+    "round_count": 2,
+    "round_ids": [
+      200066071,
+      200066072
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 90,
+    "id": 200066431,
+    "name": "",
+    "normal_alert_rate": 95,
+    "recommended_combat_power": 133500,
+    "round_count": 1,
+    "round_ids": [
+      200066073
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066441,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 117000,
+    "round_count": 2,
+    "round_ids": [
+      200066074,
+      200066075
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 200066451,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 117000,
+    "round_count": 2,
+    "round_ids": [
+      200066076,
+      200066077
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
       1
     ],
     "battle_probability_id": 9,
@@ -46730,6 +47572,57 @@
     "battle_probability_id": 1,
     "bg": 0,
     "hard_alert_rate": 0,
+    "id": 200068011,
+    "name": "",
+    "normal_alert_rate": 0,
+    "recommended_combat_power": 0,
+    "round_count": 1,
+    "round_ids": [
+      200068001
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 0,
+    "id": 200068021,
+    "name": "",
+    "normal_alert_rate": 0,
+    "recommended_combat_power": 0,
+    "round_count": 1,
+    "round_ids": [
+      200068002
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 0,
+    "id": 200068031,
+    "name": "",
+    "normal_alert_rate": 0,
+    "recommended_combat_power": 0,
+    "round_count": 1,
+    "round_ids": [
+      200068003
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 0,
     "id": 200101011,
     "name": "",
     "name_en": "",
@@ -46774,11 +47667,9 @@
     "name_en_src": "gl",
     "normal_alert_rate": 0,
     "recommended_combat_power": 0,
-    "round_count": 3,
+    "round_count": 1,
     "round_ids": [
-      210000001,
-      210000002,
-      210000003
+      210000101
     ],
     "round_logic": 1,
     "total_war_id": 0
@@ -51252,6 +52143,60 @@
   },
   {
     "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 210011011,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 2000,
+    "round_count": 1,
+    "round_ids": [
+      210011001
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 210011022,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 25000,
+    "round_count": 1,
+    "round_ids": [
+      210011002
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
+      0
+    ],
+    "battle_probability_id": 1,
+    "bg": 0,
+    "hard_alert_rate": 80,
+    "id": 210011033,
+    "name": "",
+    "normal_alert_rate": 90,
+    "recommended_combat_power": 40000,
+    "round_count": 1,
+    "round_ids": [
+      210011003
+    ],
+    "round_logic": 1,
+    "total_war_id": 0
+  },
+  {
+    "adjustment_vars": [
     ],
     "battle_probability_id": 1,
     "bg": 0,
@@ -51262,11 +52207,9 @@
     "name_en_src": "gl",
     "normal_alert_rate": 0,
     "recommended_combat_power": 0,
-    "round_count": 3,
+    "round_count": 1,
     "round_ids": [
-      220000001,
-      220000002,
-      220000003
+      220000101
     ],
     "round_logic": 1,
     "total_war_id": 0

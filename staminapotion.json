@@ -448,20 +448,6 @@
     "value": 90
   },
   {
-    "expired_at": 0,
-    "flavor_text": "スタミナ回復剤(小)10個、スタミナ回復剤(中)20個、スタミナ回復剤(大)30個、が入ったセット。",
-    "flavor_text_en": "10 Stamina Potions (Small) + 20 Stamina Potions (Medium) + 30 Stamina Potions (Large)",
-    "flavor_text_en_src": "gl",
-    "icon": 840045,
-    "id": 840045,
-    "max_quantity": 9999,
-    "name": "スタミナ回復欲張りセット",
-    "name_en": "Super Stamina Recovery Set",
-    "name_en_src": "gl",
-    "sort_order": 1948,
-    "value": 30
-  },
-  {
     "expired_at": 1593370799,
     "flavor_text": "[期間限定]スタミナを30回復させるアイテム（2020/6/29 4:00まで）",
     "flavor_text_en": "[Limited Time] Items that restore stamina by 30 (until 2020/6/29 4:00)",
@@ -571,34 +557,6 @@
     "name_en": "Scarlet Ambition Release Date Commemorative Stamina Recovery Agent (Small) [Limited Time]",
     "name_en_src": "ml",
     "sort_order": 2405,
-    "value": 30
-  },
-  {
-    "expired_at": 0,
-    "flavor_text": "ｻﾏｰｷｬﾝﾍﾟｰﾝ開催記念ｽﾀﾐﾅ回復剤(小)[期間限定]x100、遠征チケットx300、秘伝書・序x1、秘伝書・破x2、秘伝書・急x3が入ったパック。",
-    "flavor_text_en": "Commemorative Stamina Recovery Agent (Small) [Limited Time] x100, Expedition Ticket x300, Secretary/Preface x1, Secretary/Broken x 2, Secretary/Sudden x3 Pack.",
-    "flavor_text_en_src": "ml",
-    "icon": 840055,
-    "id": 840055,
-    "max_quantity": 999,
-    "name": "熱情の探求パック",
-    "name_en": "Passion Quest Pack",
-    "name_en_src": "ml",
-    "sort_order": 2365,
-    "value": 30
-  },
-  {
-    "expired_at": 0,
-    "flavor_text": "常夏のGOLDEN RUSH開催記念ｽﾀﾐﾅ回復剤(小)[期間限定]x100、遠征チケットx300、秘伝書・序x1、秘伝書・破x2、秘伝書・急x3が入ったパック。",
-    "flavor_text_en": "Commemorative Star Minna Recovery Agent (Small) [Limited Time] x100, Expedition Ticket x300, Secretary/Preface x 1, Secretary/Broken x 2, Secretary/Sudden x3 Pack.",
-    "flavor_text_en_src": "ml",
-    "icon": 840056,
-    "id": 840056,
-    "max_quantity": 999,
-    "name": "さざなみの探求パック",
-    "name_en": "Sazanami's Quest Pack",
-    "name_en_src": "ml",
-    "sort_order": 2490,
     "value": 30
   },
   {
@@ -740,20 +698,6 @@
     "name_en_src": "gl",
     "sort_order": 2640,
     "value": 90
-  },
-  {
-    "expired_at": 0,
-    "flavor_text": "古城の祝祭と最終試練開催記念スタミナ回復剤(小)[期間限定]x100、遠征チケットx300、秘伝書・序x1、秘伝書・破x2、秘伝書・急x3が入ったパック。",
-    "flavor_text_en": "A pack containing a commemorative stamina recovery agent (small) [limited time only] x100, expedition ticket x300, secretario/preface x1, secretary breakdown x2, secret message/steep x3.",
-    "flavor_text_en_src": "ml",
-    "icon": 840067,
-    "id": 840067,
-    "max_quantity": 999,
-    "name": "亡者の探究パック",
-    "name_en": "Expedition of the Dead Pack",
-    "name_en_src": "ml",
-    "sort_order": 2645,
-    "value": 30
   },
   {
     "expired_at": 1606589999,
@@ -936,20 +880,6 @@
     "name_en_src": "gl",
     "sort_order": 2720,
     "value": 90
-  },
-  {
-    "expired_at": 0,
-    "flavor_text": "迎春！オールスター謹賀新年祭スタミナ回復剤(小)[期間限定]x100、遠征チケットx300、秘伝書・序x1、秘伝書・破x2、秘伝書・急x3が入ったパック。",
-    "flavor_text_en": "Welcome spring! All Star Happy New Year's Festival Stamina Recovery Agent (Small) [Limited Time] x100, Expedition Ticket x300, Secretary/Prologue x1, Secretary/Broken x 2, Secretary/Destruction x 3.",
-    "flavor_text_en_src": "ml",
-    "icon": 840081,
-    "id": 840081,
-    "max_quantity": 999,
-    "name": "迎春の探求パック",
-    "name_en": "Welcoming Spring Quest Pack",
-    "name_en_src": "ml",
-    "sort_order": 2705,
-    "value": 30
   },
   {
     "expired_at": 1614538799,
@@ -2004,42 +1934,42 @@
   {
     "expired_at": 1653418799,
     "flavor_text": "[期間限定]スタミナを30回復させるアイテム（2022/5/25 4:00まで）",
-    "flavor_text_en": "[Limited Time] Items that restore stamina by 30 (until 2022/5/25 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "[Limited Time] Item that recovers 30 stamina. (Until [1675817999] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 840158,
     "id": 840158,
     "max_quantity": 99999,
     "name": "SaGa the Music FES. 2022開催記念ｽﾀﾐﾅ回復剤(小)[期間限定]",
-    "name_en": "SAGA the Music FES. 2022 Commemorative Staminna Recovery Agent (Small) [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "2.5 Anniv. Stamina Potion (Sm.) [Ltd. Time]",
+    "name_en_src": "gl",
     "sort_order": 22022405,
     "value": 30
   },
   {
     "expired_at": 1653418799,
     "flavor_text": "[期間限定]スタミナを60回復させるアイテム（2022/5/25 4:00まで）",
-    "flavor_text_en": "[Limited Time] Items that restore stamina by 60 (until 2022/5/25 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "[Limited Time] Item that recovers 60 stamina. (Until [1675817999] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 840159,
     "id": 840159,
     "max_quantity": 99999,
     "name": "SaGa the Music FES. 2022開催記念ｽﾀﾐﾅ回復剤(中)[期間限定]",
-    "name_en": "SAGA the Music FES. 2022 Commemorative Staminna Recovery Agent (Medium) [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "2.5 Anniv. Stamina Potion (Med.) [Ltd. Time]",
+    "name_en_src": "gl",
     "sort_order": 22022410,
     "value": 60
   },
   {
     "expired_at": 1653418799,
     "flavor_text": "[期間限定]スタミナを90回復させるアイテム（2022/5/25 4:00まで）",
-    "flavor_text_en": "[Limited Time] Items that restore stamina by 90 (until 2022/5/25 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "[Limited Time] Item that recovers 90 stamina. (Until [1675817999] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 840160,
     "id": 840160,
     "max_quantity": 99999,
     "name": "SaGa the Music FES. 2022開催記念ｽﾀﾐﾅ回復剤(大)[期間限定]",
-    "name_en": "SAGA the Music FES. 2022 Commemorative Staminna Recovery Agent (Large) [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "2.5 Anniv. Stamina Potion (Lg.) [Ltd. Time]",
+    "name_en_src": "gl",
     "sort_order": 22022415,
     "value": 90
   },
@@ -2532,5 +2462,19 @@
     "name_en_src": "ml",
     "sort_order": 22102815,
     "value": 90
+  },
+  {
+    "expired_at": 1677437999,
+    "flavor_text": "[期間限定]スタミナを30回復させるアイテム（2023/2/27 4:00まで）",
+    "flavor_text_en": "[Limited Time Offer] An item that restores 30 stamina (until 2023/2/27 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 840196,
+    "id": 840196,
+    "max_quantity": 99999,
+    "name": "祝！4周年記念！スタミナ回復剤(小)[期間限定]",
+    "name_en": "Congrats! 4th anniversary! Stamina Recovery Agent (Small) [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 22112605,
+    "value": 30
   }
 ]

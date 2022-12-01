@@ -773,7 +773,7 @@
     "banners": [
       1301,
       1302,
-      1303,
+      11090,
       1304
     ],
     "id": 57,
@@ -7059,7 +7059,7 @@
       10486,
       10487,
       10488,
-      10489,
+      11091,
       10545,
       10546
     ],
@@ -8403,11 +8403,11 @@
     "id": 613,
     "name": "Quest_Event_1486",
     "name_en": "Quest_Event_1486",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "掘り出せ！鉱山洞窟",
-    "title_en": "Dig it out! Mine caves",
-    "title_en_src": "ml"
+    "title_en": "Get diggin'! Mining Caves",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8624,11 +8624,11 @@
     "id": 628,
     "name": "Quest_Event_1481",
     "name_en": "Quest_Event_1481",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "轟け！熱狂のステージ 第一部",
-    "title_en": "roar! The first part of the Enthusiastic Stage",
-    "title_en_src": "ml"
+    "title_en": "Party On! A Wild Stage Part I",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8638,11 +8638,11 @@
     "id": 629,
     "name": "Quest_Event_1482",
     "name_en": "Quest_Event_1482",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "轟け！熱狂のステージ 第二部",
-    "title_en": "roar! Stage 2 of Enthusiasm",
-    "title_en_src": "ml"
+    "title_en": "Party On! A Wild Stage Part II",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8652,11 +8652,11 @@
     "id": 630,
     "name": "Quest_Event_1483",
     "name_en": "Quest_Event_1483",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "轟け！熱狂のステージ 第三部",
-    "title_en": "roar! Stage 3 of Enthusiasm",
-    "title_en_src": "ml"
+    "title_en": "Party On! A Wild Stage Part III",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8677,11 +8677,11 @@
     "id": 631,
     "name": "Quest_Event_2019",
     "name_en": "Quest_Event_2019",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "SaGa the Music制圧戦",
-    "title_en": "Saga the Music Domination Battle",
-    "title_en_src": "ml"
+    "title_en": "SaGa the Music Conquest",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -8841,11 +8841,11 @@
     "id": 643,
     "name": "Quest_Event_2019",
     "name_en": "Quest_Event_2019",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "SaGa the Music制圧戦",
-    "title_en": "Saga the Music Domination Battle",
-    "title_en_src": "ml"
+    "title_en": "SaGa the Music Conquest",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -9263,7 +9263,8 @@
   {
     "banners": [
       10809,
-      10810,
+      10897,
+      11072,
       10811
     ],
     "id": 669,
@@ -10422,7 +10423,7 @@
     "banners": [
       11054,
       11066,
-      11055,
+      11113,
       11056,
       11057,
       11058,
@@ -10439,12 +10440,12 @@
   },
   {
     "banners": [
-      11059,
+      11114,
       11066,
-      11060,
+      11115,
       11061,
       11062,
-      11063,
+      11116,
       10984
     ],
     "id": 822,
@@ -10488,7 +10489,7 @@
     "banners": [
       11061,
       11062,
-      11063
+      11116
     ],
     "id": 825,
     "name": "Quest_Event_1578",
@@ -10528,6 +10529,97 @@
     "size": 3,
     "title": "4周年直前！超鍛錬道場",
     "title_en": "Just before the 4th anniversary! Super Training Dojo",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11074
+    ],
+    "id": 829,
+    "name": "Quest_Daily_1584",
+    "name_en": "Quest_Daily_1584",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "ミンサガリマスター発売目前！カウントダウンクエスト - あと3日 -",
+    "title_en": "Minsagari Master is about to be released! Countdown Quest - 3 more days -",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11075
+    ],
+    "id": 830,
+    "name": "Quest_Daily_1585",
+    "name_en": "Quest_Daily_1585",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "ミンサガリマスター発売目前！カウントダウンクエスト - あと2日 -",
+    "title_en": "Minsagari Master is about to be released! Countdown Quest - 2 more days -",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11076
+    ],
+    "id": 831,
+    "name": "Quest_Daily_1586",
+    "name_en": "Quest_Daily_1586",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "ミンサガリマスター発売目前！カウントダウンクエスト - あと1日 -",
+    "title_en": "Minsagari Master is about to be released! Countdown Quest - 1 Day Left -",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11080,
+      11082,
+      11083,
+      11081,
+      11087,
+      11084,
+      11085,
+      11086,
+      11088
+    ],
+    "id": 832,
+    "name": "Quest_Event_1583",
+    "name_en": "Quest_Event_1583",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "廻れ！運命の回廊",
+    "title_en": "turn around! Corridor of Fate",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11100,
+      11112
+    ],
+    "id": 837,
+    "name": "Quest_Event_1589",
+    "name_en": "Quest_Event_1589",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "超スタートダッシュ！錬成装備獲得クエスト",
+    "title_en": "Super start dash! Refinement Equipment Acquisition Quests",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      1401,
+      11092,
+      1403,
+      1404,
+      1405
+    ],
+    "id": 844,
+    "name": "Dojo_Uranouryoku",
+    "name_en": "Dojo_Uranouryoku",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "裏能力解放",
+    "title_en": "Unlock secret abilities",
     "title_en_src": "ml"
   }
 ]

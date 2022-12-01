@@ -521,6 +521,40 @@
   {
     "enemy_class": 1,
     "gender": 1,
+    "id": 101042,
+    "illust": 1010421,
+    "name": "神殿兵",
+    "name_en": "Temple Soldier",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 1,
+    "gender": 1,
+    "id": 101043,
+    "illust": 1010431,
+    "name": "海兵",
+    "name_en": "marines",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 1,
+    "gender": 1,
     "id": 101044,
     "illust": 1010441,
     "name": "マクシムス",
@@ -1384,6 +1418,57 @@
     "illust": 1011151,
     "name": "ブロンズマギ",
     "name_en": "Bronze magi",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 1,
+    "gender": 1,
+    "id": 101116,
+    "illust": 1011161,
+    "name": "ブッチャー",
+    "name_en": "Butcher",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 1,
+    "gender": 1,
+    "id": 101117,
+    "illust": 1010411,
+    "name": "ブッチャー親衛隊",
+    "name_en": "Butcher SS",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 1,
+    "gender": 1,
+    "id": 101118,
+    "illust": 1011181,
+    "name": "クジャラート兵",
+    "name_en": "Kujarat Soldier",
     "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 0,
     "pc_flag": 0,
@@ -17846,7 +17931,7 @@
   },
   {
     "enemy_class": 99,
-    "gender": 9,
+    "gender": 1,
     "id": 199191,
     "illust": 1991911,
     "name": "デス",
@@ -17856,7 +17941,7 @@
     "pc_flag": 0,
     "rank": 1,
     "species": [
-      99
+      96
     ],
     "sprite_studio": 0
   },
@@ -19914,7 +19999,7 @@
     "pc_flag": 0,
     "rank": 1,
     "species": [
-      99
+      5
     ],
     "sprite_studio": 1
   },
@@ -19930,7 +20015,7 @@
     "pc_flag": 0,
     "rank": 1,
     "species": [
-      99
+      5
     ],
     "sprite_studio": 1
   },
@@ -19946,7 +20031,7 @@
     "pc_flag": 0,
     "rank": 1,
     "species": [
-      99
+      5
     ],
     "sprite_studio": 1
   },
@@ -20421,6 +20506,56 @@
     "species": [
       1,
       97
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199395,
+    "illust": 1993951,
+    "name": "デス",
+    "name_en": "death",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199397,
+    "illust": 1993971,
+    "name": "ジュエルビースト",
+    "name_en": "Jewel Beast",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      11,
+      81
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199398,
+    "illust": 1993981,
+    "name": "竜騎士",
+    "name_en": "Dragon Knight",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      5,
+      82
     ],
     "sprite_studio": 1
   },

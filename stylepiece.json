@@ -374,13 +374,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[めがみのがっき]めがみ専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Megami no Kikki] A piece dedicated to eyeglasses. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Instrument of Goddess] Goddess.",
+    "flavor_text_en_src": "gl",
     "icon": 121303,
     "id": 121303,
     "name": "SSめがみのピース",
-    "name_en": "SS Megami no Piece",
-    "name_en_src": "ml",
+    "name_en": "SS Goddess Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -542,13 +542,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[古代DJハートは未来]はにわ専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Ancient DJ Heart is the Future] is a piece dedicated to haniwa. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Old School DJ Is Might] Haniwa.",
+    "flavor_text_en_src": "gl",
     "icon": 129403,
     "id": 129403,
     "name": "SSはにわのピース",
-    "name_en": "SS HANIWA'S PIECE",
-    "name_en_src": "ml",
+    "name_en": "SS Haniwa Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -734,25 +734,25 @@
   {
     "exchange_cost": 150,
     "flavor_text": "S[時空を超える機体]ステスロス専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "S [Aircraft Beyond Spacetime] Piece dedicated to Stess Ross. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Space-Time Cruiser] Talon.",
+    "flavor_text_en_src": "gl",
     "icon": 131001,
     "id": 131001,
     "name": "Sステスロスのピース",
-    "name_en": "S Stess Ross Pieces",
-    "name_en_src": "ml",
+    "name_en": "S Talon Piece",
+    "name_en_src": "gl",
     "selling_price": 60
   },
   {
     "exchange_cost": 250,
     "flavor_text": "SS[音響爆撃開始！]ステスロス専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Sound bombing started!] A piece dedicated to Stess Ross Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Commence Sound Blast!] Talon.",
+    "flavor_text_en_src": "gl",
     "icon": 131002,
     "id": 131002,
     "name": "SSステスロスのピース",
-    "name_en": "Pieces of SS Stess Ross",
-    "name_en_src": "ml",
+    "name_en": "SS Talon Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -1861,6 +1861,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[バイゼルハイムの主]フラーマ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Lord of Weiselheim] Frama exclusive piece. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 212502,
+    "id": 212502,
+    "name": "SSフラーマのピース",
+    "name_en": "SS Furama pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[火のルビーと共に]フラーマ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [With the Ruby of Fire] Flammar.",
     "flavor_text_en_src": "gl",
@@ -1917,6 +1929,18 @@
     "name": "SSアルドラのピース",
     "name_en": "SS Aldora Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[捨て石でも構わない]アルドラ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Discarded stone is fine] A piece dedicated to Aldra. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 213103,
+    "id": 213103,
+    "name": "SSアルドラのピース",
+    "name_en": "SS Aldra pieces",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -2184,6 +2208,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[すべての想いを背に]ミルザ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [All Thoughts on Your Back] Mirza exclusive piece. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 218105,
+    "id": 218105,
+    "name": "SSミルザのピース",
+    "name_en": "SS Mirza piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[復讐の刻を待つ]サルーイン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Waiting for Revenge] Saruin.",
@@ -2205,6 +2241,18 @@
     "name": "SSサルーインのピース",
     "name_en": "SS Saruin Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[千年の刻を超えて]サルーイン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Beyond the Time of the Thousand Years] A piece exclusive to Salouin. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 219103,
+    "id": 219103,
+    "name": "SSサルーインのピース",
+    "name_en": "SS salouin piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -2257,6 +2305,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[冥府の主]デス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece dedicated to SS [Lord of the Netherworld] Death. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 219207,
+    "id": 219207,
+    "name": "SSデスのピース",
+    "name_en": "SS Death Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[溢れ出る闇の力]シェラハ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Overflowing Powers of Darkness] Schirach.",
     "flavor_text_en_src": "gl",
@@ -2289,6 +2349,18 @@
     "name": "SSシェラハのピース",
     "name_en": "SS Schirach Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[闇の力の中心で]シェラハ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [At the Center of the Dark Force] A special piece for Sheraha. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 219306,
+    "id": 219306,
+    "name": "SSシェラハのピース",
+    "name_en": "SS Sheraha pieces",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -2576,6 +2648,18 @@
     "id": 220506,
     "name": "SSコッペリアのピース",
     "name_en": "SS Coppelia pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[準備は念入りに]コッペリア専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Be prepared carefully] A piece dedicated to Coppelia. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 220507,
+    "id": 220507,
+    "name": "SSコッペリアのピース",
+    "name_en": "SS Coppelia piece",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -4320,6 +4404,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[旭光を背にして]ミカエル専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [With Your Back to Kyokko] A piece dedicated to Michael. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 230309,
+    "id": 230309,
+    "name": "SSミカエルのピース",
+    "name_en": "SS Mikael's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[トルネード]ハリード専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Tornado] Khalid.",
@@ -4700,6 +4796,18 @@
     "id": 230715,
     "name": "SSモニカのピース",
     "name_en": "SS Monica's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[恐れるものなどない]モニカ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Nothing to be afraid of] Monica's exclusive piece. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 230717,
+    "id": 230717,
+    "name": "SSモニカのピース",
+    "name_en": "SS Monica piece",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -7862,13 +7970,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[我がビートに連携せよ]ヴァジュイール専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Cooperate with My Beat] Vajouille piece. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Combo to My Beat] Virgil.",
+    "flavor_text_en_src": "gl",
     "icon": 313402,
     "id": 313402,
     "name": "SSヴァジュイールのピース",
-    "name_en": "SS VAJUIR PIECE",
-    "name_en_src": "ml",
+    "name_en": "SS Virgil Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -11144,6 +11252,18 @@
     "id": 810207,
     "name": "SS詩人のピース",
     "name_en": "SS Poet's Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[世界を導く魂]詩人専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Soul Leading the World] A piece dedicated to poets. Can be used to summon styles or push limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 810208,
+    "id": 810208,
+    "name": "SS詩人のピース",
+    "name_en": "SS Poet's Peace",
     "name_en_src": "ml",
     "selling_price": 100
   },

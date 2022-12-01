@@ -77,6 +77,17 @@
     "sort_order": 100
   },
   {
+    "flavor_text": "「サガ」シリーズ初のPCブラウザゲーム『インペリアル サガ』のサウンドトラック。\n作曲家・伊藤賢治氏が完全監修し、「全軍突撃！」などの新規楽曲をはじめ、ボーナストラックにはゲームに実装されない、エグゼクティブ・プロデューサー・河津秋敏作詞による「いざゆけ！怪傑ロビン（マカロニver.）」 を特別収録した全36曲。",
+    "flavor_text_en": "The soundtrack for “Imperial Saga,” the first PC browser game in the “Saga” series.\nIt was completely supervised by composer Kenji Ito, and “Attack the Whole Army!” Starting with new songs such as, the bonus track is not implemented in the game, lyrics written by executive producer Kawazu Akitoshi, “Let's Go! Kaiketsu Robin (Macaroni ver.)” A total of 36 songs specially recorded.",
+    "flavor_text_en_src": "ml",
+    "icon": 1008,
+    "id": 8,
+    "name": "インペリアル サガ オリジナル・サウンドトラック",
+    "name_en": "Imperial Saga Original Soundtrack",
+    "name_en_src": "ml",
+    "sort_order": 110
+  },
+  {
     "flavor_text": "『サガ スカーレット グレイス』のゲーム内BGMを収録したサウンドトラック。伊藤賢治氏作曲による楽曲の数々は、フルオーケストラ収録を行うなど『サガ スカーレット グレイス』の重層な世界観を表現。ゲーム音楽の枠を超えた音楽性が味わえる、「サガ」×伊藤賢治が織りなす、唯一無二の「サガ」サウンドをお楽しみください。",
     "flavor_text_en": "Soundtrack for SaGa SCARLET GRACE. The music composed by Kenji Ito was recorded with a full orchestra, expressing the multilayered world view of SSG. Enjoy the unique musicality woven by SaGa and Ito that transcends the boundaries of game music.",
     "flavor_text_en_src": "gl",
@@ -93,7 +104,7 @@
     "flavor_text_en_src": "gl",
     "icon": 1010,
     "id": 10,
-    "name": "SaGa THE STAGE ~七英雄の帰還~ Original Soundtrack",
+    "name": "SaGa THE STAGE ～七英雄の帰還～ Original Soundtrack",
     "name_en": "SaGa THE STAGE -Seven Heroes Return- Original Soundtrack",
     "name_en_src": "gl",
     "sort_order": 130
@@ -361,5 +372,70 @@
     "name_en": "SQUARE ENIX - Airship Cruise Beats",
     "name_en_src": "ml",
     "sort_order": 340
+  },
+  {
+    "flavor_text": "",
+    "icon": 1040,
+    "id": 40,
+    "name": "Imperial SaGa eclipse Original Soundtrack",
+    "name_en": "Imperial SaGa Eclipse Original Soundtrack",
+    "name_en_src": "ml",
+    "sort_order": 115
+  },
+  {
+    "flavor_text": "",
+    "icon": 1041,
+    "id": 41,
+    "name": "SQUARE ENIX JAZZ Vol.2",
+    "name_en": "SQUARE ENIX JAZZ Vol.2",
+    "name_en_src": "ml",
+    "sort_order": 295
+  },
+  {
+    "flavor_text": "",
+    "icon": 1042,
+    "id": 42,
+    "name": "Piano Pieces \"SF2\" Rhapsody on a Theme of SaGa FRONTIER2",
+    "name_en": "Piano Pieces “SF2\" Rhapsody on a Theme of SAga FRONTIER2",
+    "name_en_src": "ml",
+    "sort_order": 350
+  },
+  {
+    "flavor_text": "",
+    "icon": 1043,
+    "id": 43,
+    "name": "SQUARE ENIX ACOUSTIC ARRANGEMENTS",
+    "name_en": "SQUARE ENIX ACUSTIC",
+    "name_en_src": "ml",
+    "sort_order": 360
+  },
+  {
+    "flavor_text": "",
+    "icon": 1044,
+    "id": 44,
+    "name": "サガ スカーレットグレイス スペシャルサウンドセレクション",
+    "name_en": "Saga Scarlet Grace Special Sound Selection",
+    "name_en_src": "ml",
+    "sort_order": 370
+  },
+  {
+    "flavor_text": "2022年12月発売の『ミンサガリマスター』オリジナル・サウンドトラックは、CD4枚組で計106曲の大ボリューム。2005年時の『ミンサガ』オリジナル・サウンドトラックに収録されていた、山崎まさよし氏の「メヌエット」など103曲はそのままに、当時のサントラには収録されなかった「俺たちゃ海賊 (Inst ver.)」、「俺たちゃ海賊 (Sudden ver.)」、そしてリマスター作品で新たにアレンジされた「邪聖の旋律（More Wicked!）」が収録されています。",
+    "flavor_text_en": "The original soundtrack for “Minsagari Remastered” released in December 2022 is a large volume of 106 songs on a 4-disc CD set. 103 songs such as “Minuet” by Masayoshi Yamazaki, which were recorded on the 2005 “Minsaga” original soundtrack, remained the same, and “We Are Pirates (Inst ver.),” which was not included in the soundtrack at the time , “We Are Pirates (Pirates ver.)” , and “More Wicked!”, which was newly arranged in a remastered work has been recorded.",
+    "flavor_text_en_src": "ml",
+    "icon": 1045,
+    "id": 45,
+    "name": "Romancing SaGa -Minstrel Song- Remastered Original Soundtrack",
+    "name_en": "Romancing SaGa -Minstrel Song- Remastered Original Soundtrack",
+    "name_en_src": "ml",
+    "sort_order": 390
+  },
+  {
+    "flavor_text": "",
+    "icon": 2000,
+    "id": 999,
+    "name": "アルバム未収録",
+    "name_en": "No albums have been recorded",
+    "name_en_src": "ml",
+    "sort_order": 380
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "expired_at": 0,
-    "flavor_text": "プラチナチケットガチャでSSスタイルを1体以上確定で獲得できる10連ガチャチケット。",
+    "flavor_text": "SS確定10連プラチナチケットガチャでSSスタイルを1体以上確定で獲得できる10連ガチャチケット。",
     "flavor_text_en": "A ticket for performing the 10x Summon in the Platinum Ticket Summon (1 SS guaranteed).",
     "flavor_text_en_src": "gl",
     "icon": 810001,
@@ -10,6 +10,8 @@
     "name": "SS確定10連プラチナチケット",
     "name_en": "1 SS Guaranteed 10x Platinum Ticket",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 996
   },
   {
@@ -23,6 +25,8 @@
     "name": "シルバーガチャチケット",
     "name_en": "Silver Summon Ticket",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 995
   },
   {
@@ -36,6 +40,8 @@
     "name": "プラチナチケット",
     "name_en": "Platinum Ticket",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 994
   },
   {
@@ -49,6 +55,8 @@
     "name": "螺旋ガチャチケット",
     "name_en": "Spiral Summon Ticket",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 993
   },
   {
@@ -62,6 +70,8 @@
     "name": "MS発売日記念10連プラチナPUガチャチケット",
     "name_en": "MS Release 10x Platinum Pickup Ticket",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1033
   },
   {
@@ -75,6 +85,8 @@
     "name": "[期間限定]半周年記念プラチナガチャチケット",
     "name_en": "Half Anniversary Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1061
   },
   {
@@ -88,6 +100,8 @@
     "name": "[期間限定]Award記念プラチナガチャチケット",
     "name_en": "Award Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1225
   },
   {
@@ -101,6 +115,8 @@
     "name": "螺旋ガチャチケット・Ⅱ",
     "name_en": "Spiral Summon Ticket II",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1373
   },
   {
@@ -114,6 +130,8 @@
     "name": "[RS3]SS確定10連Romancing祭 チケット",
     "name_en": "[RS3] SS Confirmed 10 Consecutive Romancing Festival Tickets",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1400
   },
   {
@@ -127,6 +145,8 @@
     "name": "祝!1周年記念!プラチナガチャチケット[期間限定]",
     "name_en": "congratulations! One year anniversary! Platinum Gacha Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1510
   },
   {
@@ -140,6 +160,8 @@
     "name": "1周年超感謝祭!プラチナガチャチケット[期間限定]",
     "name_en": "1st Anniversary Super Thanksgiving! Platinum Gacha Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1515
   },
   {
@@ -153,6 +175,8 @@
     "name": "謹賀新年2020プラチナガチャチケット[期間限定]",
     "name_en": "Happy New Year 2020 Platinum Gacha Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1605
   },
   {
@@ -166,6 +190,8 @@
     "name": "Valentine2020ﾌﾟﾗﾁﾅｶﾞﾁｬﾁｹｯﾄ[期間限定]",
     "name_en": "Valentine's 2020 Summer Edition [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1770
   },
   {
@@ -179,6 +205,8 @@
     "name": "2000万DL記念ﾌﾟﾗﾁﾅｶﾞﾁｬﾁｹｯﾄ[期間限定]",
     "name_en": "20 Million DL Commemorative Placemats [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1820
   },
   {
@@ -192,6 +220,8 @@
     "name": "2000万DL記念SS1体確定ﾌﾟﾗﾁﾅ券[期間限定]",
     "name_en": "20 Million DL Commemorative SS1 Confirmed Plus Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1855
   },
   {
@@ -205,6 +235,8 @@
     "name": "発売日記念プラチナガチャチケット[期間限定]",
     "name_en": "Release Date Commemorative Platinum Gacha Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 1950
   },
   {
@@ -218,6 +250,8 @@
     "name": "Romancing佐賀ﾌﾟﾗﾁﾅｶﾞﾁｬﾁｹｯﾄ[期間限定]",
     "name_en": "ROMANCING SAGA PLACEMENT [LIMITED TIME OFFER]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2040
   },
   {
@@ -231,6 +265,8 @@
     "name": "SS7体確定プラチナガチャチケット[期間限定]",
     "name_en": "Romancing Saga 7 SS Gtd. Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2050
   },
   {
@@ -244,6 +280,8 @@
     "name": "1.5周年記念!プラチナガチャチケット[期間限定]",
     "name_en": "1st Anniversary Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2150
   },
   {
@@ -257,6 +295,8 @@
     "name": "1.5周年記念!10連ﾌﾟﾗﾁﾅｶﾞﾁｬﾁｹｯﾄ[期間限定]",
     "name_en": "1.5 year anniversary! 10 Consecutive Placemats [Limited Time Offer]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2155
   },
   {
@@ -270,6 +310,8 @@
     "name": "ｻﾏｰｷｬﾝﾍﾟｰﾝ開催記念ﾌﾟﾗﾁﾅｶﾞﾁｬﾁｹｯﾄ[期間限定]",
     "name_en": "Summer Open Commemorative Plaque Gallery [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2350
   },
   {
@@ -283,6 +325,8 @@
     "name": "常夏のGOLDEN RUSH開催記念ﾌﾟﾗﾁﾅｶﾞﾁｬﾁｹｯﾄ[期間限定]",
     "name_en": "Summer GOLDEN RUSH Commemorative Placeck [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2465
   },
   {
@@ -296,6 +340,8 @@
     "name": "ｻｶﾞ30周年記念Sa･Ga祭ﾌﾟﾗﾁﾅｶﾞﾁｬﾁｹｯﾄ[期間限定]",
     "name_en": "SaGa 30th Anniv. Sa・Ga Fest. Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2630
   },
   {
@@ -309,6 +355,8 @@
     "name": "2500万DL突破記念SS5体確定ﾌﾟﾗﾁﾅ券[期間限定]",
     "name_en": "25 Million DL Breakthrough Commemorative SS5 Confirmed Plus Tickets [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2755
   },
   {
@@ -322,6 +370,8 @@
     "name": "螺旋ガチャチケット・Ⅲ",
     "name_en": "Spiral Summon Ticket III",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2770
   },
   {
@@ -335,6 +385,8 @@
     "name": "超ザクザク聖石収集祭開催記念ﾌﾟﾗﾁﾅｶﾞﾁｬﾁｹｯﾄ[期間限定]",
     "name_en": "Super Zaku Zaku Holy Stone Collection Festival Commemorative Plaza Gallery [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2640
   },
   {
@@ -348,6 +400,8 @@
     "name": "サガ30周年!RS3発売日記念ﾌﾟﾗﾁﾅｶﾞﾁｬﾁｹｯﾄ[期間限定]",
     "name_en": "The 30th anniversary of the saga! RS3 Release Date Commemorative Plaque Collection [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2659
   },
   {
@@ -361,6 +415,8 @@
     "name": "2周年記念聖なる世界塔へ！10連プラチナガチャチケット[期間限定]",
     "name_en": "Go to the 2nd Anniversary Sacred World Tower! 10 consecutive Platinum Gacha Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2660
   },
   {
@@ -374,6 +430,8 @@
     "name": "2周年記念!プラチナガチャチケット[期間限定]",
     "name_en": "1.5 Anniversary Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2559
   },
   {
@@ -387,6 +445,8 @@
     "name": "迎春！オールスター謹賀新年祭プラチナガチャチケット[期間限定]",
     "name_en": "New Year's All-Star Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2665
   },
   {
@@ -400,6 +460,8 @@
     "name": "祝！旧正月2021！！プラチナガチャチケット[期間限定]",
     "name_en": "Lunar New Year 2022! Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 2670
   },
   {
@@ -413,6 +475,8 @@
     "name": "暗黒の巨星祭プラチナガチャチケット[期間限定]",
     "name_en": "Dark Stars Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 3168
   },
   {
@@ -426,6 +490,8 @@
     "name": "SF2発売日記念プラチナガチャチケット[期間限定]",
     "name_en": "SF2 Release Date Commemorative Platinum Gacha Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 3236
   },
   {
@@ -439,6 +505,8 @@
     "name": "GW記念プラチナチケット[期間限定]",
     "name_en": "GW Commemorative Platinum Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 3350
   },
   {
@@ -452,6 +520,8 @@
     "name": "螺旋ガチャチケット・Ⅳ",
     "name_en": "Spiral Summon Ticket IV",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 3431
   },
   {
@@ -465,6 +535,8 @@
     "name": "2.5周年大決戦祭ﾌﾟﾗﾁﾅﾁｹｯﾄ[期間限定]",
     "name_en": "Battle Festival Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 3490
   },
   {
@@ -478,6 +550,8 @@
     "name": "祝！発売日記念プラチナチケット[期間限定]",
     "name_en": "2nd Anniversary Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 3620
   },
   {
@@ -491,6 +565,8 @@
     "name": "Romancing佐賀プラチナチケット[期間限定]",
     "name_en": "Romance Saga Platinum Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 21072825
   },
   {
@@ -504,6 +580,8 @@
     "name": "サガ31周年記念Sa・Ga祭プラチナチケット[期間限定]",
     "name_en": "Sa・Ga Festival Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 21082725
   },
   {
@@ -517,6 +595,8 @@
     "name": "彼方へ～失われた魔王記開催記念プラチナチケット[期間限定]",
     "name_en": "To the other side ~ The Lost Demon King Commemorative Platinum Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 21100225
   },
   {
@@ -530,6 +610,8 @@
     "name": "Happy Halloween 2021プラチナチケット[期間限定]",
     "name_en": "Halloween Party Night Platinum Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 21102725
   },
   {
@@ -543,6 +625,8 @@
     "name": "祝！3周年記念！プラチナチケット[期間限定]",
     "name_en": "congratulations! 3rd Anniversary! Platinum Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 21112725
   },
   {
@@ -556,6 +640,8 @@
     "name": "3周年記念はじまりの扉へ 10連プラチナチケット[期間限定]",
     "name_en": "To the 3rd Anniversary Beginning Door 10 Consecutive Platinum Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 21112727
   },
   {
@@ -569,6 +655,8 @@
     "name": "福袋ガチャチケット アセルス編[期間限定]",
     "name_en": "Fukubukuro Gacha Ticket Asselles Edition [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 21123165
   },
   {
@@ -582,6 +670,8 @@
     "name": "福袋ガチャチケット セアト編[期間限定]",
     "name_en": "Fukubukuro Gacha Ticket SEAT Edition [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 21123160
   },
   {
@@ -595,19 +685,23 @@
     "name": "祝！旧正月2022！！プラチナチケット[期間限定]",
     "name_en": "congratulations! Lunar New Year 2022!! Platinum Ticket [Limited Time]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22012725
   },
   {
     "expired_at": 1649962799,
     "flavor_text": "5枚集めると「SaGa the Music FES. 2022開催記念 プラチナチケットガチャ」を1回引くことができるチケット。（2022/4/15 4:00まで）",
-    "flavor_text_en": "If you collect 5 tickets, you can draw “SAGa the Music FES. 2022 Commemorative Platinum Ticket Gacha” once. (until 2022/4/15 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Collect 5 tickets to perform 1 2.5 Anniversary Platinum Ticket Summon. (Until [1675213199] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 810049,
     "id": 810049,
     "max_quantity": 9999,
     "name": "SaGa the Music FES. 2022開催記念 プラチナチケット[期間限定]",
-    "name_en": "SAGa the Music FES. 2022 Commemorative Platinum Ticket [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "2.5 Anniv. Platinum Ticket [Ltd. Time]",
+    "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22022425
   },
   {
@@ -621,6 +715,8 @@
     "name": "SF2発売日記念 プラチナチケット[期間限定]",
     "name_en": "SF2 Release Date Commemorative Platinum Ticket [Limited Time Offer]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22033025
   },
   {
@@ -634,6 +730,8 @@
     "name": "サガ魂ガチャ 赤魔道士(ミニオン)編 超感謝！無料10連ガチャチケット[期間限定]",
     "name_en": "SaGa Soul Red Mage Free 10x Summon Ticket [Ltd. Time]",
     "name_en_src": "gl",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22042025
   },
   {
@@ -647,6 +745,8 @@
     "name": "GW記念！超ザクザク黄金祭！プラチナチケット[期間限定]",
     "name_en": "GW commemoration! Super crunchy golden festival! Platinum Ticket [Limited Time Offer]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22042804
   },
   {
@@ -660,6 +760,8 @@
     "name": "3.5周年記念-赤の少女- プラチナチケット[期間限定]",
     "name_en": "3.5th Anniversary - Girl in Red - Platinum Ticket [Limited Time Offer]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22053128
   },
   {
@@ -673,6 +775,8 @@
     "name": "螺旋ガチャチケット・Ⅴ",
     "name_en": "Spiral Gacha Ticket V",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22053125
   },
   {
@@ -686,6 +790,8 @@
     "name": "夏だ！ビーチだ！ロマンシング・サマー 2022 プラチナチケット[期間限定]",
     "name_en": "It's summer! It's a beach! Romancing Summer 2022 Platinum Ticket [Limited Time Offer]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22062825
   },
   {
@@ -699,6 +805,8 @@
     "name": "みんなで盛り上げ！ラグジュアリーナイト プラチナチケット[期間限定]",
     "name_en": "Everyone is excited! Luxury Night Platinum Ticket [Limited Time Offer]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22072725
   },
   {
@@ -712,6 +820,8 @@
     "name": "Romancing佐賀グランドツアー2022！プラチナチケット[期間限定]",
     "name_en": "Romancing Saga Grand Tour 2022! Platinum Ticket [Limited Time Offer]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22090925
   },
   {
@@ -725,6 +835,38 @@
     "name": "侯国大学文化祭！開幕記念 プラチナチケット[期間限定]",
     "name_en": "Hōguk University Cultural Festival! Opening Anniversary Platinum Ticket [Limited Time Offer]",
     "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
     "sort_order": 22102816
+  },
+  {
+    "expired_at": 1673981999,
+    "flavor_text": "5枚集めると「祝！4周年記念！プラチナチケットガチャ」を1回引くことができるチケット。（2023/1/18 4:00まで）",
+    "flavor_text_en": "If you collect 5 cards, “Congratulations! 4th anniversary! A ticket that allows you to draw a “Platinum Ticket Gacha” once. (until 2023/1/18 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 810059,
+    "id": 810059,
+    "max_quantity": 9999,
+    "name": "祝！4周年記念！プラチナチケット[期間限定]",
+    "name_en": "Congrats! 4th anniversary! Platinum Ticket [Limited Time Offer]",
+    "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
+    "sort_order": 22112625
+  },
+  {
+    "expired_at": 1677610799,
+    "flavor_text": "1枚で「4周年記念 プラチナガチャ」を引くことができるチケット。（2023/3/1 4:00まで）",
+    "flavor_text_en": "A ticket that allows you to draw a “4th Anniversary Platinum Gacha” with just one ticket. (until 2023/3/1 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 810060,
+    "id": 810060,
+    "max_quantity": 9999,
+    "name": "4周年記念 10連プラチナチケット[期間限定]",
+    "name_en": "4th Anniversary 10th consecutive Platinum Ticket [Limited Time Offer]",
+    "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
+    "sort_order": 22112627
   }
 ]

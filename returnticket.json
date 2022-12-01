@@ -171,14 +171,14 @@
   {
     "expired_at": 1653418799,
     "flavor_text": "[期間限定]遠征から即時帰還できるチケット（2022/5/25 4:00まで）",
-    "flavor_text_en": "[Limited Time] Tickets that can be returned immediately from the expedition (until 2022/5/25 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1675817999] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 830015,
     "id": 830015,
     "max_quantity": 99999,
     "name": "SaGa the Music FES. 2022開催記念遠征即時帰還チケット[期間限定]",
-    "name_en": "SAGa the Music FES. 2022 Commemorative Expedition Immediate Return Ticket [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "2.5 Anniv. Instant Expedition Ticket [Ltd. Time]",
+    "name_en_src": "gl",
     "sort_order": 22022420
   },
   {
@@ -232,5 +232,18 @@
     "name_en": "Romancing Saga Grand Tour 2022! Expedition Immediate Return Ticket [Limited Time Offer]",
     "name_en_src": "ml",
     "sort_order": 22090920
+  },
+  {
+    "expired_at": 1677437999,
+    "flavor_text": "[期間限定]遠征から即時帰還できるチケット（2023/2/27 4:00まで）",
+    "flavor_text_en": "[Limited time offer] Tickets that allow you to return immediately from the expedition (until 2023/2/27 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 830020,
+    "id": 830020,
+    "max_quantity": 99999,
+    "name": "祝！4周年記念！遠征即時帰還チケット[期間限定]",
+    "name_en": "Congrats! 4th anniversary! Expedition Immediate Return Ticket [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22112620
   }
 ]

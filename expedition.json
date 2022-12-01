@@ -383,14 +383,14 @@
       880000033
     ],
     "flavor_text": "HP1350まで、各能力値125までのキャラを推奨",
-    "flavor_text_en": "Characters up to HP1350 and each ability value up to 125 are recommended",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Recommended for characters with up to 1,350 HP and up to 125 in all attributes",
+    "flavor_text_en_src": "gl",
     "growth_difficulty": 123,
     "id": 6700017,
     "jewel_cost": 0,
     "name": "山岳地帯",
-    "name_en": "mountainous",
-    "name_en_src": "ml",
+    "name_en": "Mountain Region",
+    "name_en_src": "gl",
     "open_at": 0,
     "recommended_status": 125,
     "required_hours": 21,
@@ -448,5 +448,30 @@
     "required_quest_id": 120104103,
     "sort_order": 82,
     "ticket_cost": 74
+  },
+  {
+    "background_id": 700000145,
+    "close_at": 1672772399,
+    "difficulty": 4,
+    "drop_group_ids": [
+      880000038,
+      880000039
+    ],
+    "flavor_text": "HP1900まで、各能力値180までのキャラを推奨",
+    "flavor_text_en": "We recommend characters with up to 1900 HP and up to 180 abilities",
+    "flavor_text_en_src": "ml",
+    "growth_difficulty": 178,
+    "id": 6700020,
+    "jewel_cost": 0,
+    "name": "魔の地",
+    "name_en": "Demon Land",
+    "name_en_src": "ml",
+    "open_at": 1669431600,
+    "recommended_status": 180,
+    "required_hours": 21,
+    "required_player_rank": 0,
+    "required_quest_id": 0,
+    "sort_order": 81,
+    "ticket_cost": 82
   }
 ]

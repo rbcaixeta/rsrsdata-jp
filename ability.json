@@ -6831,7 +6831,7 @@
   {
     "ability_when": 6,
     "flavor_text": "「しちしとうひとふり」を命中させた時、<br>「しちしとう」が発動する( 確率小 )<br><br>しちしとう<br>体術/攻撃/威力D/直接/敵単体 ( 斬 ) <br>ランダムな敵に攻撃する ( 4-7回 )<br>反撃を受けると中断する(攻撃時アビリティは初撃のみ発動)<br>( 技Rank1で発動 )",
-    "flavor_text_en": "When landing an attack with Seven Swords Swing, Seven Swords will be activated (low chance).<br><br>Seven Swords<br>M. Arts skill/Attack/Power: D/Direct/Single Foe (Slash)<br>Attack.<br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "When landing an attack with Seven Swords Swing, Seven Swords will be activated (low chance).<br><br>Seven Swords<br>M. Arts skill/Attack/Power: D/Direct/Single Foe (Slash)<br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101161,
@@ -7657,6 +7657,24 @@
     "sort_order": 0,
     "special_effect_ids": [
       802030239
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、自身の状態異常をすべて解除し、<br>さらに、自身のHPを回復( 効果小 )する",
+    "flavor_text_en": "At the end of the turn, clear all of your state <br>abnormalities, and also restore your own HP (less effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101209,
+    "name": "ターン終了時 全状態異常解除・HP回復(小)",
+    "name_en": "Cancels all state abnormalities at the end of the turn and recovers HP (small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040310,
+      802040062
     ]
   },
   {
@@ -11675,6 +11693,25 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果大 )<br>バトル開始時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Attack damage increases (extra effect) <br>Reduces damage taken when attacked (high effect) <br>Restores own BP at the start of battle (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101460,
+    "name": "瑕攻突破Ⅰ",
+    "name_en": "Defective Attack Breakthrough I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802040361,
+      802040323
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "味方生存者全体の打属性攻撃の与ダメージが上昇する( 効果中 )",
     "flavor_text_en": "Damage dealt by hitting attacks of all allied survivors is increased (in effect)",
     "flavor_text_en_src": "ml",
@@ -12296,6 +12333,221 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "味方全体の与ダメージが上昇( 効果中 )し、かつ、味方全体への被ダメージを軽減( 効果中 )する",
+    "flavor_text_en": "Damage dealt to all allies is increased (during effect), and damage taken to all allies is reduced (during effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101504,
+    "name": "希望の共鳴",
+    "name_en": "Resonance of hope",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041514,
+      802041515
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、陰属性を含むダメージを無効化する",
+    "flavor_text_en": "Damage dealt by a weak attack increases (maximum effect) <br>When an attack is received, damage including negative attributes is invalidated",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101505,
+    "name": "銀の英雄",
+    "name_en": "The Silver Hero",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040802,
+      802041516
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "熱属性攻撃の与ダメージが上昇する( 効果特大 )<br>攻撃時、自身のHPを回復する( 効果極小 )<br>ターン終了時、自身の状態異常をすべて解除し、<br>さらに、自身のHPを回復( 効果小 )する",
+    "flavor_text_en": "Damage dealt by thermal attacks increases (extra effect), <br>restores own HP (effect is minimal), and <br>at the end of the turn, all of your state abnormalities are removed, and <br>your own HP is restored (effect is small)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101509,
+    "name": "火炎快気",
+    "name_en": "Flaming Pleasure",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040971,
+      802041523,
+      802041123
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃時、自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "When attacking, restore your own HP (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101510,
+    "name": "攻撃時 HP回復",
+    "name_en": "HP recovery during attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011525
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "陰属性攻撃の与ダメージが上昇する( 効果超極大 )<br><br>[バトル開始時] <br>味方生存者全体に「エレメントエンハンス(陰)」を付与する( 効果超極大 )<br>味方生存者全体に「陰属性攻撃時BP回復(+1)」を付与する( 効果バトル中永続 )<br><br>エレメントエンハンス(陰)<br>陰属性攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "Damage dealt by implicit attacks is increased (effect is super maximum) <br><br>[At battle start] Grant <br>“Element Enhance (shadow)” to all allied <br>survivors (effect is super maximum) Grant “BP recovery (+1) during implicit attacks (+1)” to all allied survivors (effect lasts during battle) <br><br>Element Enhancement (<br>Yin) Damage dealt by negative attacks increases (effect lasts during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101512,
+    "name": "千年の憎悪",
+    "name_en": "A thousand years of hate",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041527,
+      802041531,
+      802041533
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br><br>[攻撃対象を倒した時]<br>自身に「ヒートアップ」( 効果中 )を付与する( 付与回数は倒した数によらない/上限回数:バトル中5回 )<br>自身のBPを回復する( 倒した数によらず回復量は+5 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "[Battle Begins] <br>Restore your own BP (+3) <br><br>[When you kill an attack target] <br>Grant “Heat-Up” (during effect) to yourself (number of grants does not depend on number of kills) <br>Restore your own BP (healing amount is +5 regardless of the number <br><br><br>of kills) Heat-up attack damage increases (effect lasts during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101513,
+    "name": "練気略奪・攻",
+    "name_en": "Neriki Plunder and Attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802041528,
+      802041529
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "撃破時、自身のBPを回復する( +5 )",
+    "flavor_text_en": "When defeated, restore your own BP (+5)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101514,
+    "name": "撃破時 BP回復",
+    "name_en": "BP recovery upon defeat",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040664
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "撃破時、自身に「ヒートアップ」を付与する( 効果中 )",
+    "flavor_text_en": "When defeated, give yourself a “heat up” (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101515,
+    "name": "撃破時 ヒートアップ",
+    "name_en": "Heats up when destroyed",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041530
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "陰属性攻撃時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Restores your own BP during a shadowy attack (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101516,
+    "name": "陰属性攻撃時 BP回復",
+    "name_en": "BP recovery during shadowy attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041316
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +3 )<br>ターン開始時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "At the beginning of the battle, restore your own BP (+3) <br>At the start of the turn, increase your own strength, physical strength, dexterity, quickness, intelligence, spirit, love, and attractiveness (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101517,
+    "name": "練気奔騰Ⅲ",
+    "name_en": "Neriki Honteng III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802041535
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "大剣装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "When equipped with a large sword, damage dealt from the <br>attack increases (maximum effect) When attacked, damage taken is reduced (extra effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101519,
+    "name": "大剣の極み",
+    "name_en": "The height of the Great Sword",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041294,
+      802040448
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身を挑発状態にする( 効果中/効果4ターン )<br>自身のHPを回復する( 効果極小 )<br><br>[攻撃を受けた時]<br>直接攻撃に対して、被ダメージを軽減し哀想氷塊でカウンター攻撃する<br><br>反撃技：哀想氷塊<br>体術技/攻撃/威力C/間接/敵全体 ( 陰+冷 ) ※体術技特殊タイプ(知)<br>全体攻撃する<br>攻撃命中時、対象を石化させる( 確率小/効果5ターン )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "[At the start of the turn] <br>Provocate yourself (effect/effect 4 turns) <br>restore your own HP (effect is minimal) <br><br>[When attacked] <br>Reduces damage taken against a direct attack and counterattacks with a <br><br>block of sorrow ice counterattack: sorrow ice <br>cube physical technics/attack/power C/indirect/all enemies (shade+cold) *Taijutsu special type (intellect) <br>attack all <br>attacks when hit, Petrify the target (low probability/effect for 5 turns) <br>(Activates with Rank 1 move)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101520,
+    "name": "哀想",
+    "name_en": "Sadness",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041593,
+      802041536
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身に「ヒートアップ」( 効果極大 )を付与する( 上限回数:バトル中5回 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
     "flavor_text_en": "[At turn start] <br>Grant “Heat-Up” (maximum effect) to yourself (maximum number of times: 5 times during battle) <br><br><br>Increases damage dealt by heat-up attacks (effect lasts during battle)",
@@ -12346,6 +12598,65 @@
     "special_effect_ids": [
       802040001,
       802041315
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のBPを回復する( +3/効果3ターン )",
+    "flavor_text_en": "[At End of Turn] <br>Recover your own BP (+3/Effect for 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101556,
+    "name": "ターン終了時 BP回復(+3)",
+    "name_en": "BP recovery at end of turn (+3)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041577
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時<br>自身を挑発状態( 効果中/効果4ターン )にし、さらに、自身のHPを回復( 効果極小 )する",
+    "flavor_text_en": "At the beginning of <br>the turn, put yourself in a taunt state (effect/effect 4 turns), and also restores your own HP (effect is minimal)",
+    "flavor_text_en_src": "ml",
+    "icon": 4009,
+    "id": 702101562,
+    "name": "ターン開始時 挑発(中)・HP回復(極小)",
+    "name_en": "Taunt at start of turn (medium), HP recovery (very small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040533,
+      802040901
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "At the beginning of the turn, it increases your strength, physical strength, dexterity, quickness, intelligence, spirit, love, and attractiveness (currently effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101567,
+    "name": "ターン開始時 全能力アップ(中)",
+    "name_en": "All abilities increased at the start of the turn (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010769,
+      802010770,
+      802010771,
+      802010772,
+      802010773,
+      802010774,
+      802010775,
+      802010776
     ]
   },
   {
@@ -41394,6 +41705,23 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "術攻撃を受けた時<br>被ダメージを100%カットする",
+    "flavor_text_en": "<br>Cuts damage taken by 100% when receiving a jutsu attack",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 708100250,
+    "name": "ジュエルウォール",
+    "name_en": "jewel wall",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040542
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "Weak攻撃の<br>与ダメージが上昇する( 効果特大 )",
     "flavor_text_en": "Weak attacks' damage increases (very large effect).",
@@ -41654,6 +41982,23 @@
     ]
   },
   {
+    "ability_when": 2,
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、レバーペッカーでカウンター攻撃する( 確率大 )<br><br>反撃技：レバーペッカー<br>体術技/攻撃/直接/( 打 )<br>攻撃する<br>自身のHPを回復する",
+    "flavor_text_en": "When attacked<br>, counter attack with a leverpecker against a direct attack (high probability) <br><br>Counterattack Moves: Leverpecker <br>Physical Techniques/Attack/Direct/ (Hit) <br>Attack <br>Restore your own HP",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 708200239,
+    "name": "リベンジペッカー",
+    "name_en": "Revenge Pecker",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040530
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身の腕力を上昇させる( 効果大 )",
     "flavor_text_en": "[Start of turn]<br>Increases own STR (large effect).",
@@ -41689,6 +42034,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808010013
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の知力を上昇させる( 効果大 )",
+    "flavor_text_en": "[At Start of Turn] <br>Increase your own intelligence (Great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300014,
+    "name": "能力強化(知力)",
+    "name_en": "Ability enhancement (intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010014
     ]
   },
   {
@@ -42553,6 +42915,23 @@
   },
   {
     "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ヒートアップ」を付与する( 効果中 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of the battle, grant “heat up” to yourself (during the effect), <br><br><br>and the damage dealt by the heat up attack increases (effect lasts for the duration of the battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300241,
+    "name": "偶の奮起Ⅱ",
+    "name_en": "Accidental Excitement II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040533
+    ]
+  },
+  {
+    "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>敵全体の腕力、器用さ、素早さを低下させる( 効果小 )",
     "flavor_text_en": "[At start of turn] <br>Reduces the strength, dexterity, and quickness of all enemies (small effect)",
     "flavor_text_en_src": "ml",
@@ -42602,6 +42981,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040539
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ディフェンスアップ」を付与する( 効果小 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
+    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of the battle, grant “Defense Up” to yourself (effect small) <br><br>Defense Up <br>reduces damage taken (effect lasts for the duration of the battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 708300247,
+    "name": "偶の護りⅡ",
+    "name_en": "Accidental Protection II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040505
     ]
   },
   {
@@ -43458,6 +43854,43 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>自身の素早さ、知力、精神の能力ダウン状態を解除する<br>自身の知力を上昇させる( 効果大 )<br>自身に術命中率アップを付与する( 効果極大/効果2ターン )",
+    "flavor_text_en": "[At the end <br>of turn] Unlock your own quickness, intelligence, and mental abilities. Boost your <br>own intelligence (high effect) <br>Give yourself an increase in jutsu accuracy rate (maximum effect/effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400246,
+    "name": "邪神の導",
+    "name_en": "Guidance from the evil god",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040401,
+      808010408,
+      808040535
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "[At end of turn] <br>Unlocks the ability of your own strength, physical strength, dexterity, quickness, intelligence, spirit, love, and charm",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400249,
+    "name": "弱体浄化",
+    "name_en": "Weakened body cleansing",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040451,
+      808040452
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "Resist攻撃を受けた時<br>自身の腕力を上昇させる( 効果超大 )",
     "flavor_text_en": "When attacked by an attack that would cause Resist, increases own STR (very extreme effect).",
@@ -44251,6 +44684,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040524
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃対象を倒した時<br>自身のHPを回復する",
+    "flavor_text_en": "<br>Restores your own HP when you defeat an attack target",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 708600238,
+    "name": "ソウルリープ",
+    "name_en": "Soul Leap",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040529
     ]
   },
   {
