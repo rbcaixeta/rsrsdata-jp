@@ -2964,6 +2964,19 @@
     "sort_order": 22112660
   },
   {
+    "expired_at": 1673981999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Romancing Festival. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800230,
+    "id": 800230,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・88",
+    "name_en": "Romancing Festival Medals · 88",
+    "name_en_src": "ml",
+    "sort_order": 22120660
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -8411,6 +8424,19 @@
     "sort_order": 22020845
   },
   {
+    "expired_at": 1673895599,
+    "flavor_text": "バトルヒストリアで入手できるアイテム。交換所でアイテムと交換できる。（2023/1/17 4:00まで）",
+    "flavor_text_en": "An item that can be obtained in Battle Historia. You can exchange items at the exchange. (until 2023/1/17 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100650,
+    "id": 1100650,
+    "max_quantity": 99999999,
+    "name": "ヒストリアポイント[期間限定]",
+    "name_en": "Historia Points [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 22120606
+  },
+  {
     "expired_at": 1647284399,
     "flavor_text": "イベント「聖石の洞窟発掘キャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2022/3/15 4:00まで）",
     "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
@@ -10034,5 +10060,18 @@
     "name_en": "Evil Black's Rare Mold Piece (Great Sword)",
     "name_en_src": "ml",
     "sort_order": 22112645
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant events. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100787,
+    "id": 1100787,
+    "max_quantity": 99999999,
+    "name": "4周年記念ケーキ",
+    "name_en": "4th anniversary cake",
+    "name_en_src": "ml",
+    "sort_order": 22120607
   }
 ]

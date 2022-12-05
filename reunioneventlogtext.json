@@ -1,1 +1,354 @@
-[]
+[
+  {
+    "id": 1,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 1,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "パーティ強化で、{reunion_reward_type}を選択！"
+  },
+  {
+    "id": 2,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 2,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "パーティ強化が発生したが、何も選択しなかった。"
+  },
+  {
+    "id": 3,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 3,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 2,
+    "text": "陣形「{formation}」を獲得した！"
+  },
+  {
+    "id": 4,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 3,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 3,
+    "text": "パーティアビリティ「{ability}」を獲得した！"
+  },
+  {
+    "id": 5,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 3,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 4,
+    "text": "バトルアイテム「{battle_item}」を獲得した！"
+  },
+  {
+    "id": 6,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 3,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 6,
+    "text": "{skill}を見切った！"
+  },
+  {
+    "id": 7,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 4,
+    "reunion_event_log_sub_type": 1,
+    "reunion_reward_type": 0,
+    "text": "{old}と別れ、{new}が加入した！"
+  },
+  {
+    "id": 8,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 4,
+    "reunion_event_log_sub_type": 2,
+    "reunion_reward_type": 0,
+    "text": "{old}と別れ、{new}が加入した！"
+  },
+  {
+    "id": 9,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 4,
+    "reunion_event_log_sub_type": 3,
+    "reunion_reward_type": 0,
+    "text": "{character}のスタイルは{style}の技・術を継承した！"
+  },
+  {
+    "id": 10,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 5,
+    "reunion_event_log_sub_type": 4,
+    "reunion_reward_type": 0,
+    "text": "{style}は{skill}を閃いた！"
+  },
+  {
+    "id": 11,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 5,
+    "reunion_event_log_sub_type": 5,
+    "reunion_reward_type": 0,
+    "text": "{style}は{skill}を学習した！"
+  },
+  {
+    "id": 12,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 6,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "宝箱開封に挑戦、報酬を獲得！"
+  },
+  {
+    "id": 13,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 7,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "宝箱開封に失敗、罠が発動。"
+  },
+  {
+    "id": 14,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 8,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "宝箱を発見したが無視した。"
+  },
+  {
+    "id": 15,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 9,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "パーティのHPが回復した！"
+  },
+  {
+    "id": 16,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 10,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "パーティのLPが回復した！"
+  },
+  {
+    "id": 17,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 11,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "パーティ全員のHPが{value}％減少してしまった。"
+  },
+  {
+    "id": 18,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 12,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "パーティ全員のLPが{value}減少してしまった。"
+  },
+  {
+    "id": 19,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 13,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "視野が変化した。"
+  },
+  {
+    "id": 20,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 14,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "マップが変化した。"
+  },
+  {
+    "id": 21,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 15,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 3,
+    "text": "パーティアビリティ「{ability}」がついてしまった。"
+  },
+  {
+    "id": 22,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 16,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 1,
+    "text": "{old}が{new}と入れ替わった。"
+  },
+  {
+    "id": 23,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 16,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 2,
+    "text": "陣形「{old}」が変化して「{new}」になった。"
+  },
+  {
+    "id": 24,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 16,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 3,
+    "text": "パーティアビリティ「{old}」が変化して「{new}」になった。"
+  },
+  {
+    "id": 25,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 16,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 4,
+    "text": "バトルアイテム「{old}」が変化して「{new}」になった。"
+  },
+  {
+    "id": 26,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 16,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 6,
+    "text": "{old}の見切りが変化して{new}の見切りになった。"
+  },
+  {
+    "id": 27,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 17,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "能力値が大幅に上昇した！"
+  },
+  {
+    "id": 28,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 18,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "敵に遭遇し、{text}"
+  },
+  {
+    "id": 29,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 19,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "強敵に遭遇し、{text}"
+  },
+  {
+    "id": 30,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 20,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "強敵の急襲、{text}"
+  },
+  {
+    "id": 31,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 21,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "BOSSと遭遇した。"
+  },
+  {
+    "id": 32,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 22,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "バトルに勝利！"
+  },
+  {
+    "id": 33,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 23,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "{enemy}の{skill}でパーティは全滅した…。"
+  },
+  {
+    "id": 34,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 24,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "毒のダメージを受けて、パーティは全滅した…。"
+  },
+  {
+    "id": 35,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 26,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "ギブアップした...。"
+  },
+  {
+    "id": 36,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 27,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "{enemy}を倒し、ヒストリアを踏破した！"
+  },
+  {
+    "id": 37,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 28,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "イベントが発生した。<br>【{scenario}】"
+  },
+  {
+    "id": 38,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 29,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "【{choice}】"
+  },
+  {
+    "id": 39,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 30,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "宝箱を発見！"
+  },
+  {
+    "id": 40,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 31,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "冒険が始まった！"
+  },
+  {
+    "id": 41,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 33,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "{style}のLPを消費してHPを回復した。"
+  },
+  {
+    "id": 42,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 34,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "パーティは全滅した…。"
+  },
+  {
+    "id": 43,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 35,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "{style}は{skill}を継承した！"
+  },
+  {
+    "id": 44,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 36,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "チュートリアルをクリアした！"
+  }
+]

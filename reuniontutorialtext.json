@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "initial_members",
+    "name_en": "initial_members",
+    "name_en_src": "ml",
+    "order": 1,
+    "text": "特定のスタイルの中からランダムに<br>選出された5体でゲームがスタートします。"
+  },
+  {
+    "id": 2,
+    "name": "scenario_choice",
+    "name_en": "scenario_choice",
+    "name_en_src": "ml",
+    "order": 1,
+    "text": "イベントマスでは選んだ選択肢に応じて<br>ゲームの状況が変化します。"
+  },
+  {
+    "id": 3,
+    "name": "member_choice",
+    "name_en": "member_choice",
+    "name_en_src": "ml",
+    "order": 1,
+    "text": "戦士加入マスでは選んだスタイルと<br>パーティ内スタイルの入れ替えができます。<br>ただし、同一キャラはパーティ内に<br>複数体編成できません。"
+  },
+  {
+    "id": 4,
+    "name": "party_ability_choice",
+    "name_en": "party_ability_choice",
+    "name_en_src": "ml",
+    "order": 1,
+    "text": "パーティアビリティマスでは<br>パーティアビリティを獲得できます。<br>パーティアビリティはパーティ全体に<br>効果を発揮するアビリティです。"
+  },
+  {
+    "id": 5,
+    "name": "battle",
+    "name_en": "Battle",
+    "name_en_src": "ml",
+    "order": 1,
+    "text": "バトルに勝利するとパーティの能力値が<br>アップし報酬を獲得できます。"
+  },
+  {
+    "id": 6,
+    "name": "battle",
+    "name_en": "Battle",
+    "name_en_src": "ml",
+    "order": 2,
+    "text": "さらに追加でパーティ強化が発生し<br>好きな報酬を獲得することができます。<br>また、HP/LPはバトル後も引き継がれます。"
+  },
+  {
+    "id": 7,
+    "name": "middle_boss",
+    "name_en": "middle_boss",
+    "name_en_src": "ml",
+    "order": 1,
+    "text": "強敵バトルマスでは強力な<br>敵が待ち受けていますが、<br>より良い報酬を獲得できます。"
+  },
+  {
+    "id": 8,
+    "name": "middle_boss",
+    "name_en": "middle_boss",
+    "name_en_src": "ml",
+    "order": 2,
+    "text": "バトルアイテムは<br>バトル中、味方の行動前に<br>任意で消費し効果を発揮することができます。"
+  },
+  {
+    "id": 9,
+    "name": "middle_boss",
+    "name_en": "middle_boss",
+    "name_en_src": "ml",
+    "order": 3,
+    "text": "アイテムボタンから<br>使用することができます。<br>積極的に使っていきましょう！"
+  },
+  {
+    "id": 10,
+    "name": "chart_hp_recovery",
+    "name_en": "chart_hp_recovery",
+    "name_en_src": "ml",
+    "order": 1,
+    "text": "LPが2以上のスタイルは<br>LPを1消費することで<br>HPを全回復できます。"
+  },
+  {
+    "id": 11,
+    "name": "trap_treasure_box",
+    "name_en": "trap_treasure_box",
+    "name_en_src": "ml",
+    "order": 1,
+    "text": "宝箱の開封に挑戦すると<br>表示された確率で<br>報酬を獲得できます。"
+  },
+  {
+    "id": 12,
+    "name": "trap_treasure_box",
+    "name_en": "trap_treasure_box",
+    "name_en_src": "ml",
+    "order": 2,
+    "text": "ただし、開封に失敗すると<br>ペナルティが発生してしまいます。"
+  },
+  {
+    "id": 13,
+    "name": "final_result",
+    "name_en": "final_result",
+    "name_en_src": "ml",
+    "order": 1,
+    "text": "リザルト画面では、冒険の結果を確認することができます。<br>以上でチュートリアルを終わります。"
+  },
+  {
+    "id": 14,
+    "name": "initial_members",
+    "name_en": "initial_members",
+    "name_en_src": "ml",
+    "order": 2,
+    "text": "「バトルヒストリア」プレイ中に獲得した<br>スタイル、技・術、バトルアイテム、陣形、<br>パーティアビリティなどは"
+  },
+  {
+    "id": 15,
+    "name": "initial_members",
+    "name_en": "initial_members",
+    "name_en_src": "ml",
+    "order": 3,
+    "text": "「バトルヒストリア」以外<br>では使用できません。"
+  },
+  {
+    "id": 16,
+    "name": "initial_members",
+    "name_en": "initial_members",
+    "name_en_src": "ml",
+    "order": 4,
+    "text": "ステップ終了時に獲得できる<br>ヒストリアポイントのみ<br>「バトルヒストリア」以外で<br>使用できます。"
+  },
+  {
+    "id": 17,
+    "name": "initial_members",
+    "name_en": "initial_members",
+    "name_en_src": "ml",
+    "order": 5,
+    "text": "※チュートリアルをプレイしても<br>ヒストリアポイントは付与されません。"
+  }
+]

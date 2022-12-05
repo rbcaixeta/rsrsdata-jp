@@ -1296,6 +1296,22 @@
   },
   {
     "enemy_class": 1,
+    "gender": 9,
+    "id": 101100,
+    "illust": 1011001,
+    "name": "鋼鉄兵",
+    "name_en": "Steel Soldier",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 1,
     "gender": 2,
     "id": 101101,
     "illust": 1011011,
@@ -1308,6 +1324,40 @@
     "species": [
       1,
       97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 1,
+    "gender": 1,
+    "id": 101102,
+    "illust": 1011021,
+    "name": "アレクセイ",
+    "name_en": "Alexey",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      82,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 1,
+    "gender": 9,
+    "id": 101106,
+    "illust": 1010561,
+    "name": "野盗",
+    "name_en": "Thief",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1
     ],
     "sprite_studio": 0
   },
@@ -3662,6 +3712,22 @@
   {
     "enemy_class": 3,
     "gender": 9,
+    "id": 103069,
+    "illust": 1030691,
+    "name": "ホーンバファロー",
+    "name_en": "Horn Buffaloes",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 3,
+    "gender": 9,
     "id": 103071,
     "illust": 1030711,
     "name": "ロッキー",
@@ -5014,6 +5080,23 @@
     "rank": 1,
     "species": [
       20,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 4,
+    "gender": 9,
+    "id": 104074,
+    "illust": 1040741,
+    "name": "ナイトサーバント",
+    "name_en": "Night servant",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      12,
       82
     ],
     "sprite_studio": 0
@@ -25700,6 +25783,40 @@
     "species": [
       1,
       96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 271162,
+    "illust": 711601,
+    "name": "リアム",
+    "name_en": "Liam",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 271173,
+    "illust": 711701,
+    "name": "アーニャ",
+    "name_en": "Anya",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      19,
+      97
     ],
     "sprite_studio": 0
   },

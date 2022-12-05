@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "id": 1,
+    "reunion_accident_type": 1,
+    "reunion_reward_type": 0,
+    "text": "パーティ全員のHPが{value}％回復した",
+    "popup_text": "HP回復",
+    "text_color": 2
+  },
+  {
+    "id": 2,
+    "reunion_accident_type": 2,
+    "reunion_reward_type": 0,
+    "text": "パーティ全員のLPが{value}回復した",
+    "popup_text": "LP回復",
+    "text_color": 2
+  },
+  {
+    "id": 3,
+    "reunion_accident_type": 3,
+    "reunion_reward_type": 0,
+    "text": "パーティ全員のHPが{value}％減少してしまった",
+    "popup_text": "HP減少",
+    "text_color": 3
+  },
+  {
+    "id": 4,
+    "reunion_accident_type": 4,
+    "reunion_reward_type": 0,
+    "text": "パーティ全員のLPが{value}減少してしまった",
+    "popup_text": "LP減少",
+    "text_color": 3
+  },
+  {
+    "id": 5,
+    "reunion_accident_type": 5,
+    "reunion_reward_type": 0,
+    "text": "視界が変わった",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 6,
+    "reunion_accident_type": 6,
+    "reunion_reward_type": 0,
+    "text": "視界が変わった",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 7,
+    "reunion_accident_type": 7,
+    "reunion_reward_type": 0,
+    "text": "前方のマスが変わった",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 8,
+    "reunion_accident_type": 8,
+    "reunion_reward_type": 0,
+    "text": "前方のマスの様子が変わった",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 10,
+    "reunion_accident_type": 9,
+    "reunion_reward_type": 2,
+    "text": "陣形を獲得した！",
+    "popup_text": "",
+    "text_color": 2
+  },
+  {
+    "id": 11,
+    "reunion_accident_type": 9,
+    "reunion_reward_type": 3,
+    "text": "パーティアビリティを獲得した！",
+    "popup_text": "",
+    "text_color": 2
+  },
+  {
+    "id": 12,
+    "reunion_accident_type": 9,
+    "reunion_reward_type": 4,
+    "text": "アイテムを獲得した！",
+    "popup_text": "",
+    "text_color": 2
+  },
+  {
+    "id": 13,
+    "reunion_accident_type": 9,
+    "reunion_reward_type": 5,
+    "text": "技、術を習得した",
+    "popup_text": "技、術習得",
+    "text_color": 2
+  },
+  {
+    "id": 14,
+    "reunion_accident_type": 9,
+    "reunion_reward_type": 6,
+    "text": "技を見切った！",
+    "popup_text": "見切り習得",
+    "text_color": 2
+  },
+  {
+    "id": 17,
+    "reunion_accident_type": 10,
+    "reunion_reward_type": 3,
+    "text": "パーティアビリティ「{reward}」がついてしまった！",
+    "popup_text": "",
+    "text_color": 3
+  },
+  {
+    "id": 22,
+    "reunion_accident_type": 11,
+    "reunion_reward_type": 2,
+    "text": "陣形「{old}」が「{new}」と入れ替わった！",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 23,
+    "reunion_accident_type": 11,
+    "reunion_reward_type": 3,
+    "text": "パーティアビリティ「{old}」が「{new}」と入れ替わった！",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 24,
+    "reunion_accident_type": 11,
+    "reunion_reward_type": 4,
+    "text": "「{old}」が「{new}」と入れ替わった！",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 26,
+    "reunion_accident_type": 11,
+    "reunion_reward_type": 6,
+    "text": "「{old}」の見切りが「{new}」の見切りと入れ替わった！",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 27,
+    "reunion_accident_type": 12,
+    "reunion_reward_type": 0,
+    "text": "メンバーの「{old}」が「{new}」と入れ替わった！",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 28,
+    "reunion_accident_type": 13,
+    "reunion_reward_type": 0,
+    "text": "能力値が大きく成長した",
+    "popup_text": "能力成長",
+    "text_color": 2
+  },
+  {
+    "id": 29,
+    "reunion_accident_type": 14,
+    "reunion_reward_type": 0,
+    "text": "パーティ強化が発生した！",
+    "popup_text": "",
+    "text_color": 2
+  }
+]

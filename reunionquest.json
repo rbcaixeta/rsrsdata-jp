@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "area_id": 930001,
+    "banner": 1,
+    "boss_reunion_battle_box_id": 10100007,
+    "id": 930001001,
+    "introduction_scenario_id": 0,
+    "name": "第1回バトルヒストリア",
+    "name_en": "Battle Historia 1",
+    "name_en_src": "ml",
+    "reunion_chart_id": 10001,
+    "reunion_difficulty_group_id": 0,
+    "reunion_point_reward_id": 1100650,
+    "twitter_button_id": 7
+  },
+  {
+    "area_id": 930003,
+    "banner": 1,
+    "boss_reunion_battle_box_id": 10300003,
+    "id": 930003001,
+    "introduction_scenario_id": 0,
+    "name": "チュートリアル",
+    "name_en": "tutorials",
+    "name_en_src": "ml",
+    "reunion_chart_id": 10003,
+    "reunion_difficulty_group_id": 0,
+    "reunion_point_reward_id": 1100650,
+    "twitter_button_id": 0
+  }
+]

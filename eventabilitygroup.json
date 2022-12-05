@@ -11705,6 +11705,20 @@
   },
   {
     "applies_to_all_styles": 0,
+    "event_ability_category_id": 650,
+    "flavor_text": "・バトルヒストリア連動開催 一撃練武道場！-HP2360目安-で能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・Battle Historia interlocking one-hit martial arts dojo! -HP 2360 standard- triples the amount of increase when abilities are increased",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1000,
+    "name": "ﾊﾞﾄﾙﾋｽﾄﾘｱ連動開催 一撃練武道場！・全",
+    "name_en": "A one-hit martial arts dojo held in conjunction with Battlebistoria-linked! ・All",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3105
+  },
+  {
+    "applies_to_all_styles": 0,
     "event_ability_category_id": 653,
     "flavor_text": "・きらきら！サマーナイトパーティーBOXで能力値アップ時の上昇量が3倍<br>・メインで能力値アップ時の上昇量が3倍",
     "flavor_text_en": "・Sparkling! The amount of increase when the ability value is increased is tripled in the Summer Night Party BOX<br>, and the amount increased when the ability value is increased is tripled in the main",
@@ -12425,11 +12439,11 @@
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 1060,
-    "name": "廻れ！運命の回廊・Romancing祭",
-    "name_en": "turn around! Corridor of Fate Romancing Festival",
+    "name": "廻れ！運命の回廊・Romancing祭①",
+    "name_en": "turn around! Corridor of Destiny · Romancing Festival ①",
     "name_en_src": "ml",
     "prefix": "[期間限定]",
-    "priority": 3100
+    "priority": 3096
   },
   {
     "applies_to_all_styles": 0,
@@ -12542,5 +12556,19 @@
     "name_en_src": "ml",
     "prefix": "[期間限定]",
     "priority": 3094
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 734,
+    "flavor_text": "・廻れ！運命の回廊でHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍<br>・メインでHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍",
+    "flavor_text_en": "・Go around! In Corridor of Fate, the amount of increase when HP is increased is 4 times & the amount of increase when other abilities are increased is 3 times & the amount of increase when the skill or jutsu rank is <br>increased is 2 times the amount gained when the skill and jutsu rank are increased is 2 times the amount increased · The amount increased when the skill and jutsu rank are increased is doubled",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1084,
+    "name": "廻れ！運命の回廊・Romancing祭②",
+    "name_en": "turn around! Corridor of Destiny · Romancing Festival ②",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3097
   }
 ]

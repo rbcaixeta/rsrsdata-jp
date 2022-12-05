@@ -1,1 +1,394 @@
-[]
+[
+  {
+    "id": 108010001,
+    "name": "剣の書(単体)",
+    "name_en": "Book of Swords (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808010001
+  },
+  {
+    "id": 108010002,
+    "name": "剣の書(全体)",
+    "name_en": "The Book of Swords (All)",
+    "name_en_src": "ml",
+    "skill_id": 808010002
+  },
+  {
+    "id": 108040001,
+    "name": "棍棒の書(単体)",
+    "name_en": "The Book of Clubs (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808040001
+  },
+  {
+    "id": 108040002,
+    "name": "棍棒の書(全体)",
+    "name_en": "The Book of Clubs (All)",
+    "name_en_src": "ml",
+    "skill_id": 808040002
+  },
+  {
+    "id": 108080001,
+    "name": "槍の書(単体)",
+    "name_en": "The Book of Spears (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808080001
+  },
+  {
+    "id": 108080002,
+    "name": "槍の書(全体)",
+    "name_en": "The Book of Spears (All)",
+    "name_en_src": "ml",
+    "skill_id": 808080002
+  },
+  {
+    "id": 108510001,
+    "name": "火の書(単体)",
+    "name_en": "Book of Fire (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808510001
+  },
+  {
+    "id": 108510002,
+    "name": "火の書(全体)",
+    "name_en": "The Book of Fire (All)",
+    "name_en_src": "ml",
+    "skill_id": 808510002
+  },
+  {
+    "id": 108510003,
+    "name": "腕力上昇剤(全体)",
+    "name_en": "Strength Enhancers (All)",
+    "name_en_src": "ml",
+    "skill_id": 808510003
+  },
+  {
+    "id": 108510004,
+    "name": "知力上昇剤(全体)",
+    "name_en": "Intelligence Enhancers (All)",
+    "name_en_src": "ml",
+    "skill_id": 808510004
+  },
+  {
+    "id": 108510005,
+    "name": "器用さ上昇剤(全体)",
+    "name_en": "Dexterity Enhancers (All)",
+    "name_en_src": "ml",
+    "skill_id": 808510005
+  },
+  {
+    "id": 108510006,
+    "name": "素早さ上昇剤(全体)",
+    "name_en": "Quickness Booster (All)",
+    "name_en_src": "ml",
+    "skill_id": 808510006
+  },
+  {
+    "id": 108510007,
+    "name": "体力上昇剤(全体)",
+    "name_en": "Stamina Booster (All)",
+    "name_en_src": "ml",
+    "skill_id": 808510007
+  },
+  {
+    "id": 108510008,
+    "name": "マヒ攻撃の書(全体)",
+    "name_en": "Book of Mahi Attack (All)",
+    "name_en_src": "ml",
+    "skill_id": 808510008
+  },
+  {
+    "id": 108520001,
+    "name": "水(冷)の書(単体)",
+    "name_en": "The Book of Water (Cold) (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808520001
+  },
+  {
+    "id": 108520002,
+    "name": "水(雷)の書(単体)",
+    "name_en": "The Book of Water (Lightning) (Non-Consolidated)",
+    "name_en_src": "ml",
+    "skill_id": 808520002
+  },
+  {
+    "id": 108520003,
+    "name": "水(冷)の書(全体)",
+    "name_en": "The Book of Water (Cold) (All)",
+    "name_en_src": "ml",
+    "skill_id": 808520003
+  },
+  {
+    "id": 108520004,
+    "name": "水(雷)の書(全体)",
+    "name_en": "The Book of Water (Lightning) (All)",
+    "name_en_src": "ml",
+    "skill_id": 808520004
+  },
+  {
+    "id": 108530001,
+    "name": "暗闇攻撃の書(全体)",
+    "name_en": "Book of Darkness Attack (All)",
+    "name_en_src": "ml",
+    "skill_id": 808530001
+  },
+  {
+    "id": 108550001,
+    "name": "光の書(単体)",
+    "name_en": "Book of Light (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808550001
+  },
+  {
+    "id": 108550002,
+    "name": "光の書(全体)",
+    "name_en": "The Book of Light (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550002
+  },
+  {
+    "id": 108550003,
+    "name": "回復薬(単体)",
+    "name_en": "Recovery medicine (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808550003
+  },
+  {
+    "id": 108550004,
+    "name": "回復薬(全体)",
+    "name_en": "Recovery drugs (overall)",
+    "name_en_src": "ml",
+    "skill_id": 808550004
+  },
+  {
+    "id": 108550005,
+    "name": "練気薬(単体)",
+    "name_en": "Nerkiyaku (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808550005
+  },
+  {
+    "id": 108550006,
+    "name": "練気薬(全体)",
+    "name_en": "Nerkiyaku (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550006
+  },
+  {
+    "id": 108550007,
+    "name": "鉄壁の盾(全体)",
+    "name_en": "Ironclad Shield (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550007
+  },
+  {
+    "id": 108550008,
+    "name": "堅牢の盾(全体)",
+    "name_en": "Robust Shield (overall)",
+    "name_en_src": "ml",
+    "skill_id": 808550008
+  },
+  {
+    "id": 108550009,
+    "name": "守護の盾(全体)",
+    "name_en": "Shield of Protection (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550009
+  },
+  {
+    "id": 108550010,
+    "name": "回生の薬(単体)",
+    "name_en": "Regenerative medicine (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808550010
+  },
+  {
+    "id": 108550011,
+    "name": "全快の薬(全体)",
+    "name_en": "Full Rehab Medicine (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550011
+  },
+  {
+    "id": 108550012,
+    "name": "闘気の薬(全体)",
+    "name_en": "Fighting Potions (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550012
+  },
+  {
+    "id": 108550013,
+    "name": "練闘気の薬(全体)",
+    "name_en": "Fighting Spirit Potion (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550013
+  },
+  {
+    "id": 108550014,
+    "name": "闘気回復の薬(全体)",
+    "name_en": "Potions to restore fighting spirit (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550014
+  },
+  {
+    "id": 108550015,
+    "name": "闘気回生の薬(全体)",
+    "name_en": "Fighting Rejuvenation Potions (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550015
+  },
+  {
+    "id": 108550016,
+    "name": "破壊の書(全体)",
+    "name_en": "Book of Destruction (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550016
+  },
+  {
+    "id": 108550017,
+    "name": "金剛の薬(全体)",
+    "name_en": "Kongo's Medicine (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550017
+  },
+  {
+    "id": 108550018,
+    "name": "超回復薬(全体)",
+    "name_en": "Super Healing Drugs (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550018
+  },
+  {
+    "id": 108550019,
+    "name": "練闘志の薬(全体)",
+    "name_en": "Fierce Fighting Spirit Potion (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550019
+  },
+  {
+    "id": 108550020,
+    "name": "解脱の薬(全体)",
+    "name_en": "Medications for Relief (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550020
+  },
+  {
+    "id": 108550021,
+    "name": "与ダメージ上昇剤(全体)",
+    "name_en": "Damage Enhancers (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550021
+  },
+  {
+    "id": 108550022,
+    "name": "能力上昇剤(全体)",
+    "name_en": "Ability Enhancers (All)",
+    "name_en_src": "ml",
+    "skill_id": 808550022
+  },
+  {
+    "id": 108560001,
+    "name": "闇の書(単体)",
+    "name_en": "The Book of Darkness (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808560001
+  },
+  {
+    "id": 108560002,
+    "name": "闇の書(全体)",
+    "name_en": "The Book of Darkness (All)",
+    "name_en_src": "ml",
+    "skill_id": 808560002
+  },
+  {
+    "id": 108560003,
+    "name": "眠り罠(単体)",
+    "name_en": "Sleep Trap (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808560003
+  },
+  {
+    "id": 108560004,
+    "name": "マヒ罠(単体)",
+    "name_en": "Mahi Trap (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808560004
+  },
+  {
+    "id": 108560005,
+    "name": "混乱罠(単体)",
+    "name_en": "Confusion Trap (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808560005
+  },
+  {
+    "id": 108560006,
+    "name": "魅了罠(単体)",
+    "name_en": "Enchantment Trap (standalone)",
+    "name_en_src": "ml",
+    "skill_id": 808560006
+  },
+  {
+    "id": 108560007,
+    "name": "眠り罠(全体)",
+    "name_en": "Sleep Traps (All)",
+    "name_en_src": "ml",
+    "skill_id": 808560007
+  },
+  {
+    "id": 108560008,
+    "name": "マヒ罠(全体)",
+    "name_en": "Mahi Trap (All)",
+    "name_en_src": "ml",
+    "skill_id": 808560008
+  },
+  {
+    "id": 108560009,
+    "name": "混乱罠(全体)",
+    "name_en": "Confusion Trap (All)",
+    "name_en_src": "ml",
+    "skill_id": 808560009
+  },
+  {
+    "id": 108560010,
+    "name": "魅了罠(全体)",
+    "name_en": "Enchantment Trap (All)",
+    "name_en_src": "ml",
+    "skill_id": 808560010
+  },
+  {
+    "id": 108560011,
+    "name": "素早さ低下剤(全体)",
+    "name_en": "Quickness Reduction Agents (All)",
+    "name_en_src": "ml",
+    "skill_id": 808560011
+  },
+  {
+    "id": 108560012,
+    "name": "体力低下剤(全体)",
+    "name_en": "Stamina Reduction Agents (All)",
+    "name_en_src": "ml",
+    "skill_id": 808560012
+  },
+  {
+    "id": 108560014,
+    "name": "能力低下剤(全体)",
+    "name_en": "Ability-reducing agents (overall)",
+    "name_en_src": "ml",
+    "skill_id": 808560014
+  },
+  {
+    "id": 108560015,
+    "name": "反転攻勢の薬(全体)",
+    "name_en": "Reverse Offensive Potions (All)",
+    "name_en_src": "ml",
+    "skill_id": 808560015
+  },
+  {
+    "id": 108560016,
+    "name": "喪失の薬(全体)",
+    "name_en": "Medicine for Loss (Overall)",
+    "name_en_src": "ml",
+    "skill_id": 808560016
+  }
+]

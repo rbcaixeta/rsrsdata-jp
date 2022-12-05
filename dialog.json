@@ -2288,6 +2288,45 @@
     "title_en_src": "gl"
   },
   {
+    "button1": "挑戦する",
+    "button2": "キャンセル",
+    "dialog_type": 2,
+    "id": 178,
+    "name": "Reunion_BossChallenge_Confirm",
+    "name_en": "Reunion_bossChallenge_confirm",
+    "name_en_src": "ml",
+    "text": "BOSSに挑戦しますか？",
+    "title": "確認",
+    "title_en": "confirmations",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "ギブアップ",
+    "button2": "キャンセル",
+    "dialog_type": 2,
+    "id": 179,
+    "name": "ReunionBattle_GiveUp_Confirm",
+    "name_en": "ReunionBattle_giveUp_confirm",
+    "name_en_src": "ml",
+    "text": "ギブアップしますか？<br>※今回の冒険は終了し、<br>リザルト画面に遷移します。",
+    "title": "確認",
+    "title_en": "confirmations",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 181,
+    "name": "ReunionBattle_GiveUp_impossible",
+    "name_en": "ReunionBattle_GiveUp_Impossible",
+    "name_en_src": "ml",
+    "text": "勝利の確定したバトルではギブアップはできません。",
+    "title": "確認",
+    "title_en": "confirmations",
+    "title_en_src": "ml"
+  },
+  {
     "button1": "閉じる",
     "button2": "",
     "dialog_type": 1,
@@ -2377,6 +2416,19 @@
     "title": "制圧完了",
     "title_en": "Conquered",
     "title_en_src": "gl"
+  },
+  {
+    "button1": "はい",
+    "button2": "いいえ",
+    "dialog_type": 2,
+    "id": 189,
+    "name": "Reunion_HPHeal_Confirm",
+    "name_en": "Reunion_hpheal_confirm",
+    "name_en_src": "ml",
+    "text": "LPを消費して<br>HPを全回復しますか？",
+    "title": "確認",
+    "title_en": "confirmations",
+    "title_en_src": "ml"
   },
   {
     "button1": "OK",
@@ -2577,6 +2629,45 @@
     "button1": "OK",
     "button2": "",
     "dialog_type": 1,
+    "id": 205,
+    "name": "Reunion_Tutorial_End",
+    "name_en": "Reunion_Tutorial_End",
+    "name_en_src": "ml",
+    "text": "チュートリアルでの冒険はここまでです。",
+    "title": "確認",
+    "title_en": "confirmations",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "ギブアップ",
+    "button2": "キャンセル",
+    "dialog_type": 2,
+    "id": 206,
+    "name": "Reunion_GiveUp_Confirm",
+    "name_en": "Reunion_giveUp_confirm",
+    "name_en_src": "ml",
+    "text": "ギブアップしますか？<br>※今回の冒険は終了し、<br>リザルト画面に遷移します。",
+    "title": "確認",
+    "title_en": "confirmations",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "はい",
+    "button2": "いいえ",
+    "dialog_type": 2,
+    "id": 207,
+    "name": "Reunion_NoChoice_Confirm",
+    "name_en": "ReUnion_noChoice_confirm",
+    "name_en_src": "ml",
+    "text": "「どれも選ばない」を選択した場合、<br>育成をせずにパーティ強化が終了します。<br>よろしいですか？",
+    "title": "確認",
+    "title_en": "confirmations",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
     "id": 208,
     "name": "auto_rematch_Battle_End_9",
     "name_en": "Auto_rematch_battle_end_9",
@@ -2678,6 +2769,32 @@
     "title_en_src": "ml"
   },
   {
+    "button1": "開始する",
+    "button2": "キャンセル",
+    "dialog_type": 2,
+    "id": 217,
+    "name": "Reunion_TutorialInduction_Confirm",
+    "name_en": "Reunion_tutorialInduction_confirm",
+    "name_en_src": "ml",
+    "text": "チュートリアルを<br>今すぐ開始しますか？<br>※チュートリアルは後から<br>いつでも開始できます。",
+    "title": "確認",
+    "title_en": "confirmations",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 218,
+    "name": "Reunion_Expired_Confirm",
+    "name_en": "Reunion_Expired_Confirm",
+    "name_en_src": "ml",
+    "text": "開催期間が終了しました。",
+    "title": "期限切れ",
+    "title_en": "expiring",
+    "title_en_src": "ml"
+  },
+  {
     "button1": "閉じる",
     "button2": "",
     "dialog_type": 1,
@@ -2688,6 +2805,19 @@
     "text": "動画広告機能の期間外です。",
     "title": "動画広告視聴エラー",
     "title_en": "Video ad viewing error",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 220,
+    "name": "Reunion_GetRandomNoReward_Confirm",
+    "name_en": "Reunion_getRandomnoReward_confirm",
+    "name_en_src": "ml",
+    "text": "獲得できる報酬は<br>ございません。",
+    "title": "確認",
+    "title_en": "confirmations",
     "title_en_src": "ml"
   }
 ]

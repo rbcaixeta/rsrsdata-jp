@@ -1,1 +1,1711 @@
-[]
+[
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100001,
+        "sub_text": "マップの構成が変化する",
+        "text": "マップの戦士加入マスを増やす"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100002,
+        "sub_text": "マップの構成が変化する",
+        "text": "マップのパーティアビリティマスを増やす"
+      }
+    ],
+    "id": 10100001,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100003,
+        "sub_text": "バトルアイテムを3つ獲得する",
+        "text": "強力なバトルアイテムを獲得する"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100004,
+        "sub_text": "パーティアビリティを1つ獲得する",
+        "text": "強力なパーティアビリティを獲得する"
+      }
+    ],
+    "id": 10100002,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100005,
+        "sub_text": "視野が10になる",
+        "text": "視野をものすごく広くする"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100006,
+        "sub_text": "パーティ全員のHPとLPを全快する",
+        "text": "パーティを全快する"
+      }
+    ],
+    "id": 10100003,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100007,
+        "sub_text": "陣形を3つ獲得する",
+        "text": "HP回復かBP回復効果がついた陣形を獲得する"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100008,
+        "sub_text": "バトルアイテムとパーティアビリティを3つずつ獲得する",
+        "text": "バトルアイテムとパーティアビリティを獲得する"
+      }
+    ],
+    "id": 10100004,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100009,
+        "sub_text": "マップの構成が変化する",
+        "text": "マップの宝箱マスを戦士加入マスにする"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100010,
+        "sub_text": "マップの構成が変化する",
+        "text": "マップの強敵バトルマスを戦士加入マスにする"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100208,
+        "sub_text": "マップの構成を変化させない",
+        "text": "どれも選ばない"
+      }
+    ],
+    "id": 10100005,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100011,
+        "sub_text": "マップの構成が変化する",
+        "text": "マップの宝箱マスをパーティアビリティマスにする"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100012,
+        "sub_text": "マップの構成が変化する",
+        "text": "マップの強敵バトルマスをパーティアビリティマスにする"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100209,
+        "sub_text": "マップの構成を変化させない",
+        "text": "どれも選ばない"
+      }
+    ],
+    "id": 10100006,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100013,
+        "sub_text": "マップの構成とヒント表示が変化する",
+        "text": "マップの戦士加入マスを宝箱マスにする"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100014,
+        "sub_text": "マップの構成が変化する",
+        "text": "マップの強敵バトルマスを宝箱マスにする"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100210,
+        "sub_text": "マップの構成を変化させない",
+        "text": "どれも選ばない"
+      }
+    ],
+    "id": 10100007,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100021,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "戦士加入マスで斬撃が得意な戦士が欲しい"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100022,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "戦士加入マスで打撃が得意な戦士が欲しい"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100023,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "戦士加入マスで刺突が得意な戦士が欲しい"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100208,
+        "sub_text": "前方のマスの内容を変化させない",
+        "text": "どれも選ばない"
+      }
+    ],
+    "id": 10100010,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100024,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "斬属性が弱くなるが、代わりに継続的なHP回復を得る"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100025,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "打属性が弱くなるが、代わりに継続的なHP回復を得る"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100026,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "突属性が弱くなるが、代わりに継続的なHP回復を得る"
+      }
+    ],
+    "id": 10100011,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100027,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "敵の斬属性に弱くなるが、代わりに継続的なHP回復を得る"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100028,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "敵の打属性に弱くなるが、代わりに継続的なHP回復を得る"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100029,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "敵の突属性に弱くなるが、代わりに継続的なHP回復を得る"
+      }
+    ],
+    "id": 10100012,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100030,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "剣、大剣、斧装備の技を鍛える"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100031,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "槍、小剣、弓装備の技を鍛える"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100032,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "銃、棍棒、体術装備の技を鍛える"
+      }
+    ],
+    "id": 10100013,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100033,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "斬・突属性の術を鍛える"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100034,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "熱・打属性の術を鍛える"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100035,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "冷・雷属性の術を鍛える"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100036,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "陽・陰属性の術を鍛える"
+      }
+    ],
+    "id": 10100014,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100037,
+        "sub_text": "戦士加入が発生する",
+        "text": "火術・風術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100038,
+        "sub_text": "戦士加入が発生する",
+        "text": "水術・土術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100039,
+        "sub_text": "戦士加入が発生する",
+        "text": "光術・闇術が得意な戦士"
+      }
+    ],
+    "id": 10100015,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100046,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "斬撃が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100047,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "打撃が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100048,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "刺突が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100215,
+        "sub_text": "前方のマスの内容を変化させない",
+        "text": "どれも選ばない"
+      }
+    ],
+    "id": 10110003,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110038
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100049,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "斬属性が弱くなるが、代わりに継続的なHP回復を得る"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100050,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "打属性が弱くなるが、代わりに継続的なHP回復を得る"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100051,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "突属性が弱くなるが、代わりに継続的なHP回復を得る"
+      }
+    ],
+    "id": 10110004,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110039
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100052,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "敵の斬属性に弱くなるが、代わりに継続的なHP回復を得る"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100053,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "敵の打属性に弱くなるが、代わりに継続的なHP回復を得る"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100054,
+        "sub_text": "デメリット効果付きのHP回復アビリティを獲得する",
+        "text": "敵の突属性に弱くなるが、代わりに継続的なHP回復を得る"
+      }
+    ],
+    "id": 10110005,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110040
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100055,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "剣、大剣、斧装備の技を鍛える"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100056,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "槍、小剣、弓装備の技を鍛える"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100057,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "銃、棍棒、体術装備の技を鍛える"
+      }
+    ],
+    "id": 10110006,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110041
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100058,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "斬・突属性の術を鍛える"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100059,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "熱・打属性の術を鍛える"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100060,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "冷・雷属性の術を鍛える"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100061,
+        "sub_text": "パーティアビリティを獲得する",
+        "text": "陽・陰属性の術を鍛える"
+      }
+    ],
+    "id": 10110007,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110042
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100062,
+        "sub_text": "戦士加入が発生する",
+        "text": "斬撃が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100063,
+        "sub_text": "戦士加入が発生する",
+        "text": "打撃が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100064,
+        "sub_text": "戦士加入が発生する",
+        "text": "刺突が得意な戦士"
+      }
+    ],
+    "id": 10110008,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110043
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100065,
+        "sub_text": "戦士加入が発生する",
+        "text": "剣・大剣・斧・棍棒・槍を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100066,
+        "sub_text": "戦士加入が発生する",
+        "text": "銃・小剣・弓を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100067,
+        "sub_text": "戦士加入が発生する",
+        "text": "体術を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100068,
+        "sub_text": "戦士加入が発生する",
+        "text": "杖を使う戦士"
+      }
+    ],
+    "id": 10110009,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110043
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100069,
+        "sub_text": "戦士加入が発生する",
+        "text": "剣・大剣・斧を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100070,
+        "sub_text": "戦士加入が発生する",
+        "text": "小剣・槍・弓を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100071,
+        "sub_text": "戦士加入が発生する",
+        "text": "棍棒・体術・銃を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100072,
+        "sub_text": "戦士加入が発生する",
+        "text": "杖を使う戦士"
+      }
+    ],
+    "id": 10110010,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110043
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100073,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "火術・風術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100074,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "水術・土術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100075,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "光術・闇術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100215,
+        "sub_text": "前方のマスの内容を変化させない",
+        "text": "どれも選ばない"
+      }
+    ],
+    "id": 10110011,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110044
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100076,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "剣・大剣・斧・棍棒・槍を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100077,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "銃・小剣・弓を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100078,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "体術を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100211,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "杖を使う戦士"
+      }
+    ],
+    "id": 10110012,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110044
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100079,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "剣・大剣・斧を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100080,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "小剣・槍・弓を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100081,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "棍棒・体術・銃を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100213,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "杖を使う戦士"
+      }
+    ],
+    "id": 10110013,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110044
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100082,
+        "sub_text": "戦士加入が発生する",
+        "text": "火術・風術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100083,
+        "sub_text": "戦士加入が発生する",
+        "text": "水術・土術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100084,
+        "sub_text": "戦士加入が発生する",
+        "text": "光術・闇術が得意な戦士"
+      }
+    ],
+    "id": 10110014,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110043
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100085,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "斬撃が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100086,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "打撃が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100087,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "刺突が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100215,
+        "sub_text": "前方のマスの内容を変化させない",
+        "text": "どれも選ばない"
+      }
+    ],
+    "id": 10110015,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110038
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100088,
+        "sub_text": "戦士加入が発生する",
+        "text": "斬撃が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100089,
+        "sub_text": "戦士加入が発生する",
+        "text": "打撃が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100090,
+        "sub_text": "戦士加入が発生する",
+        "text": "刺突が得意な戦士"
+      }
+    ],
+    "id": 10110016,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110043
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100091,
+        "sub_text": "戦士加入が発生する",
+        "text": "剣・大剣・斧・棍棒・槍を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100092,
+        "sub_text": "戦士加入が発生する",
+        "text": "銃・小剣・弓を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100093,
+        "sub_text": "戦士加入が発生する",
+        "text": "体術を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100094,
+        "sub_text": "戦士加入が発生する",
+        "text": "杖を使う戦士"
+      }
+    ],
+    "id": 10110017,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110043
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100095,
+        "sub_text": "戦士加入が発生する",
+        "text": "剣・大剣・斧を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100096,
+        "sub_text": "戦士加入が発生する",
+        "text": "小剣・槍・弓を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100097,
+        "sub_text": "戦士加入が発生する",
+        "text": "棍棒・体術・銃を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100098,
+        "sub_text": "戦士加入が発生する",
+        "text": "杖を使う戦士"
+      }
+    ],
+    "id": 10110018,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110043
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100099,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "火術・風術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100100,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "水術・土術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100101,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "光術・闇術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100215,
+        "sub_text": "前方のマスの内容を変化させない",
+        "text": "どれも選ばない"
+      }
+    ],
+    "id": 10110019,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110044
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100102,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "剣・大剣・斧・棍棒・槍を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100103,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "銃・小剣・弓を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100104,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "体術を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100212,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "杖を使う戦士"
+      }
+    ],
+    "id": 10110020,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110044
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100105,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "剣・大剣・斧を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100106,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "小剣・槍・弓を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100107,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "棍棒・体術・銃を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100214,
+        "sub_text": "前方5マスの戦士加入マスの内容が変化する",
+        "text": "杖を使う戦士"
+      }
+    ],
+    "id": 10110021,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110044
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100108,
+        "sub_text": "戦士加入が発生する",
+        "text": "火術・風術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100109,
+        "sub_text": "戦士加入が発生する",
+        "text": "水術・土術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100110,
+        "sub_text": "戦士加入が発生する",
+        "text": "光術・闇術が得意な戦士"
+      }
+    ],
+    "id": 10110022,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110043
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100111,
+        "sub_text": "戦士加入が発生する",
+        "text": "斬撃が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100112,
+        "sub_text": "戦士加入が発生する",
+        "text": "打撃が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100113,
+        "sub_text": "戦士加入が発生する",
+        "text": "刺突が得意な戦士"
+      }
+    ],
+    "id": 10110023,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110032
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100114,
+        "sub_text": "戦士加入が発生する",
+        "text": "剣・大剣・斧・棍棒・槍を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100115,
+        "sub_text": "戦士加入が発生する",
+        "text": "銃・小剣・弓を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100116,
+        "sub_text": "戦士加入が発生する",
+        "text": "体術を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100117,
+        "sub_text": "戦士加入が発生する",
+        "text": "杖を使う戦士"
+      }
+    ],
+    "id": 10110024,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110032
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100118,
+        "sub_text": "戦士加入が発生する",
+        "text": "剣・大剣・斧を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100119,
+        "sub_text": "戦士加入が発生する",
+        "text": "小剣・槍・弓を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100120,
+        "sub_text": "戦士加入が発生する",
+        "text": "棍棒・体術・銃を使う戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100121,
+        "sub_text": "戦士加入が発生する",
+        "text": "杖を使う戦士"
+      }
+    ],
+    "id": 10110025,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110032
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100122,
+        "sub_text": "戦士加入が発生する",
+        "text": "火術・風術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100123,
+        "sub_text": "戦士加入が発生する",
+        "text": "水術・土術が得意な戦士"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100124,
+        "sub_text": "戦士加入が発生する",
+        "text": "光術・闇術が得意な戦士"
+      }
+    ],
+    "id": 10110026,
+    "name": "？？？",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10110009
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100125,
+        "sub_text": "報酬を獲得し、戦士加入が発生する",
+        "text": "バトルアイテム3つとパーティアビリティ2つと戦士1人"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100126,
+        "sub_text": "報酬を獲得し、視野が2に変化する",
+        "text": "バトルアイテム2つと視野"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100127,
+        "sub_text": "視野が5に変化する",
+        "text": "広い視野"
+      }
+    ],
+    "id": 10120001,
+    "name": "旅立ちの選択",
+    "name_en": "Choosing a Departure",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100128,
+        "sub_text": "戦士加入が発生し、前方マスに戦士加入マスが出現",
+        "text": "戦士2人"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100129,
+        "sub_text": "報酬を獲得し、視野が2に変化する",
+        "text": "陣形1つと視野"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100130,
+        "sub_text": "報酬を獲得し、視野が2に変化する",
+        "text": "パーティアビリティ1つと視野"
+      }
+    ],
+    "id": 10120002,
+    "name": "旅立ちの選択",
+    "name_en": "Choosing a Departure",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100131,
+        "sub_text": "報酬を獲得し、視野が2に変化する",
+        "text": "バトルアイテム3つと視野"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100132,
+        "sub_text": "報酬を獲得し、視野が2に変化する",
+        "text": "陣形4つと視野"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100133,
+        "sub_text": "報酬を獲得し、視野が2に変化する",
+        "text": "パーティアビリティ1つと視野"
+      }
+    ],
+    "id": 10120003,
+    "name": "旅立ちの選択",
+    "name_en": "Choosing a Departure",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100134,
+        "sub_text": "報酬を獲得し、戦士加入が発生する",
+        "text": "バトルアイテム3つと戦士2人"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100135,
+        "sub_text": "視野が5に変化する",
+        "text": "広い視野"
+      }
+    ],
+    "id": 10120004,
+    "name": "旅立ちの選択",
+    "name_en": "Choosing a Departure",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100136,
+        "sub_text": "報酬を獲得する",
+        "text": "パーティアビリティ3つ"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100137,
+        "sub_text": "視野が5に変化する",
+        "text": "広い視野"
+      }
+    ],
+    "id": 10120005,
+    "name": "旅立ちの選択",
+    "name_en": "Choosing a Departure",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100138,
+        "sub_text": "報酬を獲得し、戦士加入が発生する",
+        "text": "バトルアイテム3つと戦士1人"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100139,
+        "sub_text": "視野が2に変化する",
+        "text": "視野"
+      }
+    ],
+    "id": 10120006,
+    "name": "旅立ちの選択",
+    "name_en": "Choosing a Departure",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100140,
+        "sub_text": "前方5マスまでの宝箱マスをアビリティマスに変更",
+        "text": "複数のパーティアビリティ"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100141,
+        "sub_text": "報酬を獲得する",
+        "text": "バトルアイテム3つと陣形3つ"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100142,
+        "sub_text": "視野が2に変化する",
+        "text": "視野"
+      }
+    ],
+    "id": 10120007,
+    "name": "旅立ちの選択",
+    "name_en": "Choosing a Departure",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100143,
+        "sub_text": "前方5マスまでのイベントマスを宝箱マスに変更",
+        "text": "複数の宝箱"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100144,
+        "sub_text": "戦士加入が発生し、前方マスに戦士加入マスが出現",
+        "text": "戦士2人"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100145,
+        "sub_text": "視野が5に変化する",
+        "text": "広い視野"
+      }
+    ],
+    "id": 10120008,
+    "name": "旅立ちの選択",
+    "name_en": "Choosing a Departure",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100146,
+        "sub_text": "報酬を獲得する",
+        "text": "バトルアイテム3つとパーティアビリティ2つと陣形3つ"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100147,
+        "sub_text": "視野が2に変化し、戦士加入が発生する",
+        "text": "戦士1人と視野"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100148,
+        "sub_text": "視野が5に変化する",
+        "text": "広い視野"
+      }
+    ],
+    "id": 10120009,
+    "name": "旅立ちの選択",
+    "name_en": "Choosing a Departure",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100149,
+        "sub_text": "報酬を獲得し、戦士加入が発生する",
+        "text": "バトルアイテム3つと陣形3つと戦士1人"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100150,
+        "sub_text": "報酬を獲得し、視野が2に変化する",
+        "text": "陣形3つと視野"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100151,
+        "sub_text": "視野が5に変化する",
+        "text": "広い視野"
+      }
+    ],
+    "id": 10120010,
+    "name": "旅立ちの選択",
+    "name_en": "Choosing a Departure",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10100001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100152,
+        "sub_text": "？？？",
+        "text": "そうちょうが道を切り開く"
+      }
+    ],
+    "id": 10130001,
+    "name": "魔界塔士 Sa・Ga",
+    "name_en": "Makai Tashi Sa・Ga",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120001
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100156,
+        "sub_text": "？？？",
+        "text": "めがみにちちおやの助けを願う"
+      }
+    ],
+    "id": 10130003,
+    "name": "Sa・Ga2 秘宝伝説",
+    "name_en": "Sa · Ga 2: Legend of the Hidden Treasures",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120003
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100159,
+        "sub_text": "？？？",
+        "text": "シンボルは渡さない"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100160,
+        "sub_text": "？？？",
+        "text": "逃げる"
+      }
+    ],
+    "id": 10130005,
+    "name": "ロマンシング サガ -ミンストレルソング- ",
+    "name_en": "Romancing Saga -minstrel song- ",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120005
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100161,
+        "sub_text": "？？？",
+        "text": "シルバードラゴンと戦う"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100162,
+        "sub_text": "？？？",
+        "text": "立ち去る"
+      }
+    ],
+    "id": 10130006,
+    "name": "ロマンシング サガ -ミンストレルソング- ",
+    "name_en": "Romancing Saga -minstrel song- ",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120006
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100163,
+        "sub_text": "？？？",
+        "text": "ワイルに光のダイアモンドを差し出す"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100164,
+        "sub_text": "？？？",
+        "text": "シェリルと共に逃げる"
+      }
+    ],
+    "id": 10130007,
+    "name": "ロマンシング サガ -ミンストレルソング- ",
+    "name_en": "Romancing Saga -minstrel song- ",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120007
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100165,
+        "sub_text": "？？？",
+        "text": "今のテオドールは偽物だ"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100166,
+        "sub_text": "？？？",
+        "text": "今のテオドールは本物だ"
+      }
+    ],
+    "id": 10130008,
+    "name": "ロマンシング サガ -ミンストレルソング- ",
+    "name_en": "Romancing Saga -minstrel song- ",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120008
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100167,
+        "sub_text": "？？？",
+        "text": "そう　かんけいないね"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100168,
+        "sub_text": "？？？",
+        "text": "殺してでも　うばいとる"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100169,
+        "sub_text": "？？？",
+        "text": "ゆずってくれ　たのむ！！"
+      }
+    ],
+    "id": 10130009,
+    "name": "ロマンシング サ・ガ",
+    "name_en": "Romancing SaGa",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120009
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100170,
+        "sub_text": "？？？",
+        "text": "宿で休む"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100171,
+        "sub_text": "？？？",
+        "text": "宿で休まない"
+      }
+    ],
+    "id": 10130010,
+    "name": "ロマンシング サ・ガ2",
+    "name_en": "Romancing SaGa 2",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120010
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100172,
+        "sub_text": "？？？",
+        "text": "塔の秘密を聞き出そうと粘る"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100173,
+        "sub_text": "？？？",
+        "text": "立ち去る"
+      }
+    ],
+    "id": 10130011,
+    "name": "ロマンシング サ・ガ2",
+    "name_en": "Romancing SaGa 2",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120011
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100174,
+        "sub_text": "？？？",
+        "text": "条件付きでダンターグを見逃す"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100175,
+        "sub_text": "？？？",
+        "text": "道を引き返す"
+      }
+    ],
+    "id": 10130012,
+    "name": "ロマンシング サ・ガ2",
+    "name_en": "Romancing SaGa 2",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120012
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100176,
+        "sub_text": "？？？",
+        "text": "火術要塞へ向かう"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100177,
+        "sub_text": "？？？",
+        "text": "火術要塞へは向かわない"
+      }
+    ],
+    "id": 10130013,
+    "name": "ロマンシング サ・ガ3",
+    "name_en": "Romancing SaGa 3",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120013
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100178,
+        "sub_text": "？？？",
+        "text": "すぐ閉じよう"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100179,
+        "sub_text": "？？？",
+        "text": "ちょっと待って"
+      }
+    ],
+    "id": 10130014,
+    "name": "ロマンシング サ・ガ3",
+    "name_en": "Romancing SaGa 3",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120014
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100180,
+        "sub_text": "？？？",
+        "text": "まかせろ！"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100181,
+        "sub_text": "？？？",
+        "text": "やだ"
+      }
+    ],
+    "id": 10130015,
+    "name": "ロマンシング サ・ガ3",
+    "name_en": "Romancing SaGa 3",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120015
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100182,
+        "sub_text": "？？？",
+        "text": "一緒に行く"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100183,
+        "sub_text": "？？？",
+        "text": "ここで待つ"
+      }
+    ],
+    "id": 10130016,
+    "name": "ロマンシング サ・ガ3",
+    "name_en": "Romancing SaGa 3",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120016
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100184,
+        "sub_text": "？？？",
+        "text": "領主の話を聞く"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100185,
+        "sub_text": "？？？",
+        "text": "立ち去る"
+      }
+    ],
+    "id": 10130017,
+    "name": "サガ フロンティア",
+    "name_en": "Saga Frontier",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120017
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100186,
+        "sub_text": "？？？",
+        "text": "金獅子姫と戦う"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100187,
+        "sub_text": "？？？",
+        "text": "逃げる"
+      }
+    ],
+    "id": 10130018,
+    "name": "サガ フロンティア",
+    "name_en": "Saga Frontier",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120018
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100188,
+        "sub_text": "？？？",
+        "text": "ここに残るわ"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100189,
+        "sub_text": "？？？",
+        "text": "さようなら"
+      }
+    ],
+    "id": 10130019,
+    "name": "サガ フロンティア",
+    "name_en": "Saga Frontier",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120019
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100190,
+        "sub_text": "？？？",
+        "text": "武闘会に向かう"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100191,
+        "sub_text": "？？？",
+        "text": "やっぱり行かない"
+      }
+    ],
+    "id": 10130020,
+    "name": "サガ フロンティア",
+    "name_en": "Saga Frontier",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120020
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100192,
+        "sub_text": "？？？",
+        "text": "基地を爆破する"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100193,
+        "sub_text": "？？？",
+        "text": "基地を爆破しない"
+      }
+    ],
+    "id": 10130021,
+    "name": "サガ フロンティア",
+    "name_en": "Saga Frontier",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120021
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100194,
+        "sub_text": "？？？",
+        "text": "アルカイザーに変身し、シュウザーを追う"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100195,
+        "sub_text": "？？？",
+        "text": "体制を立て直す"
+      }
+    ],
+    "id": 10130022,
+    "name": "サガ フロンティア",
+    "name_en": "Saga Frontier",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120022
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100196,
+        "sub_text": "？？？",
+        "text": "ファイアブランドの儀式を受ける"
+      }
+    ],
+    "id": 10130023,
+    "name": "サガ フロンティア2",
+    "name_en": "Saga Frontier 2",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120023
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100197,
+        "sub_text": "？？？",
+        "text": "母との最後の時間を過ごす"
+      }
+    ],
+    "id": 10130024,
+    "name": "サガ フロンティア2",
+    "name_en": "Saga Frontier 2",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120024
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100198,
+        "sub_text": "？？？",
+        "text": "ねえ、その卵を見せておくれよ？"
+      }
+    ],
+    "id": 10130025,
+    "name": "サガ フロンティア2",
+    "name_en": "Saga Frontier 2",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120025
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100199,
+        "sub_text": "？？？",
+        "text": "他に何か無いかしら？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100200,
+        "sub_text": "？？？",
+        "text": "立ち去る"
+      }
+    ],
+    "id": 10130026,
+    "name": "サガ フロンティア2",
+    "name_en": "Saga Frontier 2",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120026
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100201,
+        "sub_text": "？？？",
+        "text": "謎の仮面と契約し、一命を取り留める"
+      }
+    ],
+    "id": 10130027,
+    "name": "ロマンシング サガ リ・ユニバース",
+    "name_en": "Romancing Sagari Universe",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120027
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100202,
+        "sub_text": "？？？",
+        "text": "世界塔を調査し、頂上を目指す"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100203,
+        "sub_text": "？？？",
+        "text": "今は世界塔の調査をしない"
+      }
+    ],
+    "id": 10130028,
+    "name": "ロマンシング サガ リ・ユニバース",
+    "name_en": "Romancing Sagari Universe",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120028
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100204,
+        "sub_text": "？？？",
+        "text": "ポルカもロビンファミリーに加わる"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100205,
+        "sub_text": "？？？",
+        "text": "ロビンファミリーに任せて先を急ぐ"
+      }
+    ],
+    "id": 10130029,
+    "name": "ロマンシング サガ リ・ユニバース",
+    "name_en": "Romancing Sagari Universe",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120029
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100206,
+        "sub_text": "？？？",
+        "text": "バートランドと戦う"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100207,
+        "sub_text": "？？？",
+        "text": "立ち去る"
+      }
+    ],
+    "id": 10130030,
+    "name": "ロマンシング サガ リ・ユニバース",
+    "name_en": "Romancing Sagari Universe",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10120030
+  },
+  {
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10300001,
+        "sub_text": "HP減少大、アイテム大量獲得",
+        "text": "大きな犠牲を払う覚悟はできている！"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10300002,
+        "sub_text": "HP減少中、アイテム中量獲得",
+        "text": "そこそこの犠牲であれば払う覚悟はある！"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10300003,
+        "sub_text": "HP減少小、アイテム少量獲得",
+        "text": "できれば犠牲は払いたくない..."
+      }
+    ],
+    "id": 10300001,
+    "name": "チュートリアル説明",
+    "name_en": "Tutorial explanation",
+    "name_en_src": "ml",
+    "screenshot_scenario_id": 10300001
+  }
+]

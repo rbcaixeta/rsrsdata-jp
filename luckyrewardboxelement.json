@@ -34,5 +34,17 @@
         "quantity": 6500
       }
     ]
+  },
+  {
+    "id": 4,
+    "lucky_reward_box_id": 100002,
+    "asset_id": 100003,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 70000
+      }
+    ]
   }
 ]

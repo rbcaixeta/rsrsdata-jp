@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "description": "スタート地点です。<br>ゲーム開始時、必ずこのマスからスタートします。",
+    "description_en": "This is the starting point. <br>When the game starts, we always start with this square.",
+    "description_en_src": "ml",
+    "id": 1,
+    "name": "スタート",
+    "name_en": "start",
+    "name_en_src": "ml",
+    "reunion_event_sub_type": 0,
+    "reunion_event_type": 1
+  },
+  {
+    "description": "敵との戦闘が始まります。<br>稀に急襲が発生し強敵バトルに<br>変化することがあります。<br>勝利後、パーティが成長し<br>さらにパーティアビリティを1つ選んで獲得できます。",
+    "description_en": "The battle with the enemy begins. On <br>rare occasions, a raid <br>may occur and turn into a strong enemy battle. <br>After winning, your party grows <br>and you can also pick 1 party ability to earn.",
+    "description_en_src": "ml",
+    "id": 2,
+    "name": "通常敵バトル",
+    "name_en": "Normal enemy battle",
+    "name_en_src": "ml",
+    "reunion_event_sub_type": 0,
+    "reunion_event_type": 2
+  },
+  {
+    "description": "3つのパーティアビリティのうち<br>1つを獲得できます。",
+    "description_en": "<br>You can get 1 out of 3 party abilities.",
+    "description_en_src": "ml",
+    "id": 3,
+    "name": "パーティアビリティ獲得",
+    "name_en": "Acquire party abilities",
+    "name_en_src": "ml",
+    "reunion_event_sub_type": 0,
+    "reunion_event_type": 4
+  },
+  {
+    "description": "宝箱の開封に挑戦できます。<br>成功すると大幅にパーティが成長し<br>報酬を獲得できます。",
+    "description_en": "You can challenge yourself to open a treasure chest. <br>If you succeed, your party will grow significantly and <br>you'll earn rewards.",
+    "description_en_src": "ml",
+    "id": 4,
+    "name": "宝箱発見",
+    "name_en": "Treasure chest found",
+    "name_en_src": "ml",
+    "reunion_event_sub_type": 0,
+    "reunion_event_type": 5
+  },
+  {
+    "description": "選んだ選択肢に応じて<br>ゲームの状況が変化します。",
+    "description_en": "<br>The game situation changes depending on the choices you choose.",
+    "description_en_src": "ml",
+    "id": 5,
+    "name": "イベント",
+    "name_en": "events",
+    "name_en_src": "ml",
+    "reunion_event_sub_type": 0,
+    "reunion_event_type": 6
+  },
+  {
+    "description": "強力な敵が待ち構えています。<br>パーティが大幅に成長し、<br>通常敵バトルより良い報酬を獲得できます。",
+    "description_en": "A powerful enemy awaits. <br>Your party will grow significantly, and you'll get <br>better rewards than normal enemy battles.",
+    "description_en_src": "ml",
+    "id": 6,
+    "name": "強敵バトル",
+    "name_en": "Strong enemy battle",
+    "name_en_src": "ml",
+    "reunion_event_sub_type": 0,
+    "reunion_event_type": 7
+  },
+  {
+    "description": "3体のスタイルから1体を選択し、<br>パーティメンバーと入れ替えることが<br>できます。",
+    "description_en": "You can choose one of the 3 styles <br>and replace them with party members<br>.",
+    "description_en_src": "ml",
+    "id": 7,
+    "name": "戦士加入",
+    "name_en": "Warriors join",
+    "name_en_src": "ml",
+    "reunion_event_sub_type": 0,
+    "reunion_event_type": 8
+  },
+  {
+    "description": "3つのバトルアイテムのうち、1つを獲得できます。",
+    "description_en": "You can get 1 out of 3 battle items.",
+    "description_en_src": "ml",
+    "id": 8,
+    "name": "バトルアイテム獲得",
+    "name_en": "Obtain battle items",
+    "name_en_src": "ml",
+    "reunion_event_sub_type": 0,
+    "reunion_event_type": 9
+  },
+  {
+    "description": "BOSSが待ち構えています。<br>BOSSバトルに勝利すると、踏破となります。",
+    "description_en": "BOSS is waiting for you. <br>If you win a BOSS battle, it will be a breakthrough.",
+    "description_en_src": "ml",
+    "id": 9,
+    "name": "BOSSバトル",
+    "name_en": "BOSS BATTLES",
+    "name_en_src": "ml",
+    "reunion_event_sub_type": 0,
+    "reunion_event_type": 99
+  }
+]
