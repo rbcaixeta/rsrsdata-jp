@@ -11512,6 +11512,23 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身の知力を上昇させる( 効果大 )",
+    "flavor_text_en": "Increases own intelligence at the beginning of a turn (very effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101449,
+    "name": "ターン開始時 知力アップ",
+    "name_en": "Increased intelligence at the beginning of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010319
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "[バトル開始時] <br>自身のBPを回復する( +4 )",
     "flavor_text_en": "[When Battle Begins<br>] Recover Your BP (+4)",
@@ -12593,6 +12610,146 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "味方全体への被ダメージを軽減する( 効果中 )<br><br>[ターン開始時]<br>自身のBPを回復する( +1 )<br>味方生存者全体に「ヒートアップ」( 効果小 )を付与する( 上限回数:バトル中5回 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "Reduces damage taken to all allies (in effect) <br><br>[At start of turn] <br>Recover your own BP (+1) Gives <br>“heat up” (low effect) to all allied survivors (maximum number of times: 5 times during battle) <br><br><br>Damage dealt by heat up attacks increases (effect lasts forever during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101524,
+    "name": "エンプレスユニゾン",
+    "name_en": "Empress Unison",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041541,
+      802041549,
+      802041543
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体に「ヒートアップ」( 効果小 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "[At the beginning of the turn] <br>Grant “Heat Up” (low effect) to all allied survivors (maximum number of times: 5 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101526,
+    "name": "ターン開始時 ヒートアップ",
+    "name_en": "Heats up at the beginning of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041544
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[味方が攻撃を受ける時]<br>味方への攻撃を身代わりで受け、被ダメージを軽減する( 確率大 )<br><br>[攻撃を受けた時]<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "[When an ally is attacked] Take a <br>substitute for an attack by an ally to reduce damage taken (high probability) <br><br>[When attacked] <br>Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101527,
+    "name": "スーパーガーディアン",
+    "name_en": "Super Guardians",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041000,
+      802041545
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃を受けた時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Recover your own BP when attacked (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101528,
+    "name": "被弾時 BP回復",
+    "name_en": "BP recovery when hit",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040069
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時<br>被ダメージを軽減する( 効果超極大 )",
+    "flavor_text_en": "<br>Reduces damage taken when attacked (super effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101529,
+    "name": "鉄壁の守りⅦ",
+    "name_en": "Ironclad Defense VII",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041552
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象の腕力を低下させる( 確率大/効果大 )<br>攻撃命中時、自身のBPを回復する( 確率大/+3 )",
+    "flavor_text_en": "When an attack is hit, lowers the target's strength (high probability/high effect) <br>When an attack is hit, recover your own BP (high probability/+3)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101530,
+    "name": "弱化の練撃Ⅲ(腕力)",
+    "name_en": "Weakening Attack III (Strength)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041546,
+      802041547
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象の腕力を低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Lowers the target's strength when an attack is hit (high probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101531,
+    "name": "攻撃時 腕力ダウン",
+    "name_en": "Strength reduced when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010177
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身のBPを回復する( 確率大/+3 )",
+    "flavor_text_en": "When an attack is hit, recover your own BP (high probability/+3)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101532,
+    "name": "攻撃時 BP回復",
+    "name_en": "BP recovery during attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041548
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身に「ヒートアップ」( 効果極大 )を付与する( 上限回数:バトル中5回 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
     "flavor_text_en": "[At turn start] <br>Grant “Heat-Up” (maximum effect) to yourself (maximum number of times: 5 times during battle) <br><br><br>Increases damage dealt by heat-up attacks (effect lasts during battle)",
@@ -12607,6 +12764,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041550
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "[At the beginning of the turn] <br>Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101535,
+    "name": "ターン開始時 BP回復",
+    "name_en": "BP recovery at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040460
     ]
   },
   {
@@ -12625,6 +12799,96 @@
     "special_effect_ids": [
       802041196,
       802011318
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身に「ダメージブロック(1回)」を付与する( 効果1ターン )<br>自身に「ディフェンスアップ」( 効果大 )を付与する( 上限回数:バトル中5回 )<br>自身のBPを回復する( +1 )<br><br>ダメージブロック(1回)<br>被ダメージを100%カットする( 上限回数:1回 ※攻撃が命中した時のみ発動 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
+    "flavor_text_en": "[At the start of turn] Give <br>yourself a “damage block (1 time)” (effect 1 turn) Give <br>yourself a “defense up” (great effect) (maximum number of times: 5 times during battle) <br>recover your own BP (+1) <br><br>damage block (1 time) <br>Cut damage taken by 100% (maximum number of times: 1 time*only activated when an attack hits) <br><br>Defense-Up <br>Reduces damage taken (effect lasts forever during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101537,
+    "name": "エンペラートラスト",
+    "name_en": "The Emperor Trust",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041558,
+      801041446
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「ディフェンスアップ」( 効果大 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "At the beginning of the turn, grant yourself a “Defense Up” (great effect) (maximum number of times: 5 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101539,
+    "name": "ターン開始時 ディフェンスアップ",
+    "name_en": "Defense up at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041559
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "槍装備時<br>攻撃の与ダメージが上昇( 効果極大 )し、<br>Weak攻撃の場合、さらに与ダメージが上昇( 効果特大 )する",
+    "flavor_text_en": "When equipped <br>with a spear, the damage dealt by the attack increases (maximum effect), and in the <br>case of a weak attack, the damage dealt increases further (the effect is oversized)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101540,
+    "name": "槍の秘奥Ⅴ",
+    "name_en": "The Secret of Spear V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041560,
+      802041561
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身の知力を上昇させる( 効果大 )<br><br>[回復行動時(※)]<br>自身に「ヒートアップ」を付与する( 効果特大 )<br>※タイプが「回復」の技・術での回復を指す<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "[At the start of the turn] <br>Increases one's own intelligence (effective) <br><br>[When recovering (*)] Gives oneself a <br>“heat up” (extra effect) <br>*The type indicates recovery <br><br><br>with a “recovery” technique or technique, the damage dealt by heat up attacks increases (effect lasts forever during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101541,
+    "name": "ブルーの教え",
+    "name_en": "Blue teaching",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041634,
+      802041638
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[味方が全員生存している時]<br>自身の攻撃の与ダメージが上昇する( 効果極大 )<br>自身がResist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br><br>[ターン終了時] <br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "[When all allies are alive] <br>Damage from own attacks increases (maximum effect) <br>Reduces damage taken when you receive a Resist attack (maximum effect) <br><br>[At end of turn] <br>Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101542,
+    "name": "毅然たる覚悟",
+    "name_en": "Resolute determination",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040902,
+      802041023,
+      802041564
     ]
   },
   {
@@ -12705,6 +12969,42 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>対象の器用さを低下( 効果小 )させ、さらに、自身のBPを回復( +1 )する",
+    "flavor_text_en": "When an attack is hit, the <br>target's dexterity is reduced (less effective), and also recovers (+1) one's own BP",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101583,
+    "name": "虚脱の練撃Ⅰ(器用さ)",
+    "name_en": "Collapse Attack I (Dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011629,
+      802040742
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、対象を混乱させる( 確率大/効果4ターン )<br>攻撃命中時、自身のBPを回復する( 確率大/+1 )",
+    "flavor_text_en": "When an attack is hit, disrupts the target (high probability/effect 4 turns) <br>When an attack is hit, recover your own BP (high probability/+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 3006,
+    "id": 702101585,
+    "name": "混乱の練撃Ⅰ",
+    "name_en": "Chaos Attack I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041185,
+      802041056
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "銃装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
     "flavor_text_en": "When equipped with a gun, damage dealt from the <br>attack increases (maximum effect) When attacked, damage taken is reduced (extra effect)",
@@ -12720,6 +13020,41 @@
     "special_effect_ids": [
       802041635,
       802040448
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "回復行動時、自身に「ヒートアップ」を付与する( 効果特大 )",
+    "flavor_text_en": "Give yourself a “heat up” during recovery action (extremely effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101591,
+    "name": "回復行動時 ヒートアップ",
+    "name_en": "Heats up during recovery action",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041562
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃の、与ダメージが上昇する( 効果極大 )<br>ラウンド開始時、自身に「攻撃強化」を付与する( 効果特大/効果1ターン )",
+    "flavor_text_en": "<br>When the weak attack starts a round where damage is increased (maximum effect), grant yourself an “attack enhancement” (oversized effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101594,
+    "name": "ウィークアサルトⅤ",
+    "name_en": "WEEK ASSAULT V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040802,
+      802041641
     ]
   },
   {

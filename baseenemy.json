@@ -2647,6 +2647,22 @@
   {
     "enemy_class": 2,
     "gender": 9,
+    "id": 102075,
+    "illust": 1020751,
+    "name": "ミノトン",
+    "name_en": "Minoton",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 2,
+    "gender": 9,
     "id": 102169,
     "illust": 1021691,
     "name": "オーガウォリアー",
@@ -3909,6 +3925,54 @@
     "illust": 1030871,
     "name": "キマイラ",
     "name_en": "Chimera",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 3,
+    "gender": 9,
+    "id": 103091,
+    "illust": 1030911,
+    "name": "ドラコパピー",
+    "name_en": "Dracopappy",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 3,
+    "gender": 9,
+    "id": 103092,
+    "illust": 1030921,
+    "name": "ブラク",
+    "name_en": "Burak",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 3,
+    "gender": 9,
+    "id": 103093,
+    "illust": 1030931,
+    "name": "トウテツ",
+    "name_en": "Totetsu",
     "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 0,
     "pc_flag": 0,
@@ -7131,6 +7195,22 @@
     "illust": 1060641,
     "name": "いもむし",
     "name_en": "Cattail",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 6,
+    "gender": 9,
+    "id": 106066,
+    "illust": 1060661,
+    "name": "ヘルスパイダー",
+    "name_en": "Hellspider",
     "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 0,
     "pc_flag": 0,
@@ -20544,6 +20624,104 @@
   {
     "enemy_class": 99,
     "gender": 9,
+    "id": 199379,
+    "illust": 1993791,
+    "name": "龍",
+    "name_en": "Dragon",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      5,
+      82
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199380,
+    "illust": 1993801,
+    "name": "バジル・ゲレイオス",
+    "name_en": "Basil Gereios",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199381,
+    "illust": 1993811,
+    "name": "カオス・ルーラー",
+    "name_en": "Chaos ruler",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199383,
+    "illust": 1993831,
+    "name": "カオス・ルーラー",
+    "name_en": "Chaos ruler",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199385,
+    "illust": 1993851,
+    "name": "カオス・ルーラー",
+    "name_en": "Chaos ruler",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199386,
+    "illust": 1993861,
+    "name": "カオス・ルーラー",
+    "name_en": "Chaos ruler",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
     "id": 199388,
     "illust": 1993881,
     "name": "かみ",
@@ -20639,6 +20817,22 @@
     "species": [
       5,
       82
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199399,
+    "illust": 1993991,
+    "name": "ハーディ",
+    "name_en": "Hardy",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      96
     ],
     "sprite_studio": 1
   },

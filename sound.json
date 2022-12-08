@@ -2609,6 +2609,46 @@
     "type": "BGM"
   },
   {
+    "cueName": "bgm_120285",
+    "cueSheetName": "BGM120285",
+    "id": 120285,
+    "music_album_id": 6,
+    "name": "閑話休題",
+    "name_en": "quiet and quiet",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120286",
+    "cueSheetName": "BGM120286",
+    "id": 120286,
+    "music_album_id": 6,
+    "name": "ほっとする瞬間",
+    "name_en": "A moment of relief",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120287",
+    "cueSheetName": "BGM120287",
+    "id": 120287,
+    "music_album_id": 6,
+    "name": "BT Ver.2",
+    "name_en": "BT Ver.2",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120288",
+    "cueSheetName": "BGM120288",
+    "id": 120288,
+    "music_album_id": 6,
+    "name": "BT Ver.6",
+    "name_en": "BT Ver. 6",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
     "cueName": "bgm_120289",
     "cueSheetName": "BGM120289",
     "id": 120289,
@@ -2625,6 +2665,26 @@
     "music_album_id": 30,
     "name": "侯国の旗のもとに (ロマンシング サガ リ・ユニバース)",
     "name_en": "Under the flag of the Principality (Romancing Sagari Universe)",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120292",
+    "cueSheetName": "BGM120292",
+    "id": 120292,
+    "music_album_id": 7,
+    "name": "死への招待状 -The Battle with Death-",
+    "name_en": "Invitation to Death -The Battle with Death-",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120307",
+    "cueSheetName": "BGM120307",
+    "id": 120307,
+    "music_album_id": 38,
+    "name": "Entrance－再星－",
+    "name_en": "Entrance -- Another Star --",
     "name_en_src": "ml",
     "type": "BGM"
   },
@@ -6049,6 +6109,16 @@
     "music_album_id": 7,
     "name": "死への招待状 -The Battle with Death-",
     "name_en": "Invitation to Death -The Battle with Death-",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_130523",
+    "cueSheetName": "BGM130523",
+    "id": 130523,
+    "music_album_id": 6,
+    "name": "BT“ultimate”",
+    "name_en": "BT “Ultimate”",
     "name_en_src": "ml",
     "type": "BGM"
   },
@@ -10062,6 +10132,46 @@
     "cueName": "LAB_FLASH",
     "cueSheetName": "SE_LAB_FLASH",
     "id": 230220,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "STANDMOVE",
+    "cueSheetName": "SE_STANDMOVE",
+    "id": 230221,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "STANDSTOP",
+    "cueSheetName": "SE_STANDSTOP",
+    "id": 230222,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "ROCKFALL",
+    "cueSheetName": "SE_ROCKFALL",
+    "id": 230223,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "ENEMYCOME",
+    "cueSheetName": "SE_ENEMYCOME",
+    "id": 230224,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "TOUJOUC",
+    "cueSheetName": "SE_TOUJOUC",
+    "id": 230225,
     "music_album_id": 0,
     "name": "",
     "type": "SE"
@@ -41597,6 +41707,278 @@
     "type": "SE"
   },
   {
+    "cueName": "140200189_other",
+    "cueSheetName": "SE140200189",
+    "id": 243616,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140200189_hit",
+    "cueSheetName": "SE140200189",
+    "id": 243617,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140200190_other",
+    "cueSheetName": "SE140200190",
+    "id": 243618,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140200190_hit",
+    "cueSheetName": "SE140200190",
+    "id": 243619,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140300101_other",
+    "cueSheetName": "SE140300101",
+    "id": 243620,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140300101_other",
+    "cueSheetName": "SE140300101",
+    "id": 243621,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145500050_other",
+    "cueSheetName": "SE145500050",
+    "id": 243622,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145500050_other",
+    "cueSheetName": "SE145500050",
+    "id": 243623,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900269_other",
+    "cueSheetName": "SE149900269",
+    "id": 243624,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900269_hit",
+    "cueSheetName": "SE149900269",
+    "id": 243625,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140300100_other",
+    "cueSheetName": "SE140300100",
+    "id": 243626,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140300100_hit",
+    "cueSheetName": "SE140300100",
+    "id": 243627,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500311_other",
+    "cueSheetName": "SE140500311",
+    "id": 243628,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500311_hit",
+    "cueSheetName": "SE140500311",
+    "id": 243629,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800150_other",
+    "cueSheetName": "SE140800150",
+    "id": 243630,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800150_hit",
+    "cueSheetName": "SE140800150",
+    "id": 243631,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145500051_other",
+    "cueSheetName": "SE145500051",
+    "id": 243632,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800153_other",
+    "cueSheetName": "SE140800153",
+    "id": 243633,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800153_hit",
+    "cueSheetName": "SE140800153",
+    "id": 243634,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800154_other",
+    "cueSheetName": "SE140800154",
+    "id": 243635,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800154_hit",
+    "cueSheetName": "SE140800154",
+    "id": 243636,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900280_hit",
+    "cueSheetName": "SE149900280",
+    "id": 243637,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900281_other",
+    "cueSheetName": "SE149900281",
+    "id": 243638,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900281_hit",
+    "cueSheetName": "SE149900281",
+    "id": 243639,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900282_other",
+    "cueSheetName": "SE149900282",
+    "id": 243640,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900282_hit",
+    "cueSheetName": "SE149900282",
+    "id": 243641,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900285_other",
+    "cueSheetName": "SE149900285",
+    "id": 243642,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900285_hit",
+    "cueSheetName": "SE149900285",
+    "id": 243643,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900286_other",
+    "cueSheetName": "SE149900286",
+    "id": 243644,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900286_hit",
+    "cueSheetName": "SE149900286",
+    "id": 243645,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900288_other",
+    "cueSheetName": "SE149900288",
+    "id": 243646,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900288_hit",
+    "cueSheetName": "SE149900288",
+    "id": 243647,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900289_other",
+    "cueSheetName": "SE149900289",
+    "id": 243648,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900289_hit",
+    "cueSheetName": "SE149900289",
+    "id": 243649,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
     "cueName": "140700090_other",
     "cueSheetName": "SE140700090",
     "id": 243650,
@@ -41696,6 +42078,206 @@
     "cueName": "141000015_other2",
     "cueSheetName": "SE141000015",
     "id": 243662,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140300102_other",
+    "cueSheetName": "SE140300102",
+    "id": 243663,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140300102_hit",
+    "cueSheetName": "SE140300102",
+    "id": 243664,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500310_other",
+    "cueSheetName": "SE140500310",
+    "id": 243665,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500310_hit",
+    "cueSheetName": "SE140500310",
+    "id": 243666,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800151_other",
+    "cueSheetName": "SE140800151",
+    "id": 243667,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800151_hit",
+    "cueSheetName": "SE140800151",
+    "id": 243668,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140700119_other",
+    "cueSheetName": "SE140700119",
+    "id": 243669,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140700119_hit",
+    "cueSheetName": "SE140700119",
+    "id": 243670,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900283_other",
+    "cueSheetName": "SE149900283",
+    "id": 243671,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900283_hit",
+    "cueSheetName": "SE149900283",
+    "id": 243672,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900287_other",
+    "cueSheetName": "SE149900287",
+    "id": 243673,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900287_hit",
+    "cueSheetName": "SE149900287",
+    "id": 243674,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800152_other",
+    "cueSheetName": "SE140800152",
+    "id": 243675,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800152_hit",
+    "cueSheetName": "SE140800152",
+    "id": 243676,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145500052_other",
+    "cueSheetName": "SE145500052",
+    "id": 243677,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145500052_hit",
+    "cueSheetName": "SE145500052",
+    "id": 243678,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900296_other",
+    "cueSheetName": "SE149900296",
+    "id": 243679,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900296_hit",
+    "cueSheetName": "SE149900296",
+    "id": 243680,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900290_other",
+    "cueSheetName": "SE149900290",
+    "id": 243681,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900290_hit",
+    "cueSheetName": "SE149900290",
+    "id": 243682,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "199386_other",
+    "cueSheetName": "SE199386",
+    "id": 243683,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "199381_other",
+    "cueSheetName": "SE199381",
+    "id": 243684,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900292_other",
+    "cueSheetName": "SE149900292",
+    "id": 243723,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900292_hit",
+    "cueSheetName": "SE149900292",
+    "id": 243724,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900293_other",
+    "cueSheetName": "SE149900293",
+    "id": 243725,
     "music_album_id": 0,
     "name": "",
     "type": "SE"

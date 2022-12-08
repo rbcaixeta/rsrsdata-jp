@@ -352,7 +352,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "聖石、聖石のかけらを発掘するために必要なアイテム。",
+    "flavor_text": "使用することで、「聖石の洞窟-聖石-」、「聖石の洞窟-聖石のかけら-」のクエストに挑戦できる。※ホーム>サブクエスト>イベント>発掘から挑戦可能。",
     "flavor_text_en": "Item required for excavating Holy Stones and Holy Stone Shards.",
     "flavor_text_en_src": "gl",
     "icon": 821025,
@@ -1210,7 +1210,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "黄金洞窟で聖石、聖石のかけらを発掘するために必要なアイテム。",
+    "flavor_text": "使用することで、「聖石の洞窟-黄金-」のクエストに挑戦できる。※ホーム>サブクエスト>イベント>発掘から挑戦可能。",
     "flavor_text_en": "Item required for excavating Holy Stones and Holy Stone Shards in the Cave of Holy Stones (Gold).",
     "flavor_text_en_src": "gl",
     "icon": 821095,
@@ -1939,19 +1939,19 @@
   {
     "expired_at": 1648148399,
     "flavor_text": "使用することで、「響け！情熱のステージ」に挑戦できる。（2022/3/25 4:00まで）",
-    "flavor_text_en": "By using it, you can say, “Sound! You can challenge the “Passion Stage”. (until 2022/3/25 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Use to attempt Rock On! A Fierce Stage. (Until [1671757199] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 821159,
     "id": 821159,
     "max_quantity": 99999,
     "name": "情熱への招待券[期間限定]",
-    "name_en": "Invitation Ticket to Passion [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Fierce Ticket [Ltd. Time]",
+    "name_en_src": "gl",
     "sort_order": 22030440
   },
   {
     "expired_at": 0,
-    "flavor_text": "聖石の洞窟-うつろう原石(武器聖石)-でうつろう原石、聖石のかけらを発掘するために必要なアイテム。",
+    "flavor_text": "使用することで、「聖石の洞窟-うつろう原石(武器聖石)-」に挑戦できる。※ホーム>サブクエスト>イベント>発掘から挑戦可能。",
     "flavor_text_en": "Item required for excavating Changing Ores and Holy Stone Shards in the Cave of Holy Stones (Changing Ore: Weapon).",
     "flavor_text_en_src": "gl",
     "icon": 821160,

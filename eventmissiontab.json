@@ -2724,8 +2724,8 @@
     "id": 281,
     "is_pierceily": 0,
     "name": "熱闘！アザミの特訓道場 with Music",
-    "name_en": "The battle! Thistle's Special Training Dojo with Music",
-    "name_en_src": "ml",
+    "name_en": "Passion! Azami's Training Dojo with Music",
+    "name_en_src": "gl",
     "priority": 12287,
     "start_at": 1646362800
   },
@@ -3528,5 +3528,25 @@
     "name_en_src": "ml",
     "priority": 12625,
     "start_at": 1668740400
+  },
+  {
+    "end_at": 1671044399,
+    "id": 364,
+    "is_pierceily": 1,
+    "name": "4周年記念第２弾デイリーミッション",
+    "name_en": "4th Anniversary Vol.2 Daily Missions",
+    "name_en_src": "ml",
+    "priority": 12645,
+    "start_at": 1670612400
+  },
+  {
+    "end_at": 1671044399,
+    "id": 365,
+    "is_pierceily": 0,
+    "name": "メイン応援ミッション",
+    "name_en": "MAIN SUPPORT MISSION",
+    "name_en_src": "ml",
+    "priority": 12640,
+    "start_at": 1670554800
   }
 ]

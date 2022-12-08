@@ -97605,5 +97605,2388 @@
     "typical_rewards": [
     ],
     "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 10211001,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110011,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-1. 雪の町、再び",
+    "name_en": "10-1-1. The snowy town, again",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120109171
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10310001,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000036,
+    "battle_id": 100310012,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001247,
+      870001245,
+      870001236,
+      870001283,
+      870001281,
+      870001277,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110012,
+    "illust_category": 2,
+    "illust_id": 1150481,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-1. ヴァフトーム目指して１",
+    "name_en": "10-1-1. Aim for Vaphome 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 1,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100640,
+        "type": 7
+      },
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000036,
+    "battle_id": 100310013,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001259,
+      870001257,
+      870001248,
+      870001295,
+      870001293,
+      870001289,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110013,
+    "illust_category": 2,
+    "illust_id": 1150481,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-1. ヴァフトーム目指して１",
+    "name_en": "10-1-1. Aim for Vaphome 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 101,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100640,
+        "type": 7
+      },
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000036,
+    "battle_id": 100310011,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001235,
+      870001233,
+      870001224,
+      870001271,
+      870001269,
+      870001265,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110021,
+    "illust_category": 2,
+    "illust_id": 1150481,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-2. ヴァフトーム目指して１",
+    "name_en": "10-1-2. Aim for Vaphome 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110011
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100640,
+        "type": 7
+      },
+      {
+        "id": 1100674,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000098,
+    "battle_id": 100310022,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001246,
+      870001244,
+      870001243,
+      870001282,
+      870001276,
+      870001274,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110022,
+    "illust_category": 2,
+    "illust_id": 1120671,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-2. ヴァフトーム目指して２",
+    "name_en": "10-1-2. Aim for Vaphome 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 2,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100639,
+        "type": 7
+      },
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000098,
+    "battle_id": 100310023,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001258,
+      870001256,
+      870001255,
+      870001294,
+      870001288,
+      870001286,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110023,
+    "illust_category": 2,
+    "illust_id": 1120671,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-2. ヴァフトーム目指して２",
+    "name_en": "10-1-2. Aim for Vaphome 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 102,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100639,
+        "type": 7
+      },
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000098,
+    "battle_id": 100310021,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001234,
+      870001232,
+      870001231,
+      870001270,
+      870001264,
+      870001262,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110031,
+    "illust_category": 2,
+    "illust_id": 1120671,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-3. ヴァフトーム目指して２",
+    "name_en": "10-1-3. Aim for Vaphome 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110021
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100639,
+        "type": 7
+      },
+      {
+        "id": 1100677,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000023,
+    "battle_id": 100310032,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001246,
+      870001241,
+      870001244,
+      870001282,
+      870001272,
+      870001276,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110032,
+    "illust_category": 2,
+    "illust_id": 1030931,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-3. エスカータへの帰還１",
+    "name_en": "10-1-3. Return to the Escalator 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 3,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100636,
+        "type": 7
+      },
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000023,
+    "battle_id": 100310033,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001258,
+      870001253,
+      870001256,
+      870001294,
+      870001284,
+      870001288,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110033,
+    "illust_category": 2,
+    "illust_id": 1030931,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-3. エスカータへの帰還１",
+    "name_en": "10-1-3. Return to the Escalator 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 103,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100636,
+        "type": 7
+      },
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 10211001,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110041,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-4. ヴァフトーム",
+    "name_en": "10-1-4. Vaftome",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110031
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10310010,
+    "sort_order": 4,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000098,
+    "battle_id": 100310042,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001246,
+      870001237,
+      870001241,
+      870001282,
+      870001275,
+      870001272,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110042,
+    "illust_category": 2,
+    "illust_id": 1060601,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-4. エスカータへの帰還２",
+    "name_en": "10-1-4. Return to the Escalator 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 4,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100626,
+        "type": 7
+      },
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000098,
+    "battle_id": 100310043,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001258,
+      870001249,
+      870001253,
+      870001294,
+      870001287,
+      870001284,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110043,
+    "illust_category": 2,
+    "illust_id": 1060601,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-4. エスカータへの帰還２",
+    "name_en": "10-1-4. Return to the Escalator 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 104,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100626,
+        "type": 7
+      },
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000023,
+    "battle_id": 100310031,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001234,
+      870001229,
+      870001232,
+      870001270,
+      870001260,
+      870001264,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110051,
+    "illust_category": 2,
+    "illust_id": 1030931,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-5. エスカータへの帰還１",
+    "name_en": "10-1-5. Return to the Escalator 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110041
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100636,
+        "type": 7
+      },
+      {
+        "id": 1100681,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000100,
+    "battle_id": 100310052,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001246,
+      870001242,
+      870001237,
+      870001282,
+      870001273,
+      870001275,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110052,
+    "illust_category": 2,
+    "illust_id": 1030921,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-5. ダグル・ボースのもとへ１",
+    "name_en": "10-1-5. To Dougle Bose 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 5,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100637,
+        "type": 7
+      },
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000100,
+    "battle_id": 100310053,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001258,
+      870001254,
+      870001249,
+      870001294,
+      870001285,
+      870001287,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110053,
+    "illust_category": 2,
+    "illust_id": 1030921,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-5. ダグル・ボースのもとへ１",
+    "name_en": "10-1-5. To Dougle Bose 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 105,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100637,
+        "type": 7
+      },
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000098,
+    "battle_id": 100310041,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001234,
+      870001225,
+      870001229,
+      870001270,
+      870001263,
+      870001260,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110061,
+    "illust_category": 2,
+    "illust_id": 1060601,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-6. エスカータへの帰還２",
+    "name_en": "10-1-6. Return to the Escalator 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110051
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100626,
+        "type": 7
+      },
+      {
+        "id": 1100675,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000100,
+    "battle_id": 100310062,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001246,
+      870001238,
+      870001242,
+      870001282,
+      870001278,
+      870001273,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110062,
+    "illust_category": 2,
+    "illust_id": 1130441,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-6. ダグル・ボースのもとへ２",
+    "name_en": "10-1-6. To Dougle Bose 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 6,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100627,
+        "type": 7
+      },
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000100,
+    "battle_id": 100310063,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001258,
+      870001250,
+      870001254,
+      870001294,
+      870001290,
+      870001285,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110063,
+    "illust_category": 2,
+    "illust_id": 1130441,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-6. ダグル・ボースのもとへ２",
+    "name_en": "10-1-6. To Dougle Bose 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 106,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100627,
+        "type": 7
+      },
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 10211001,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110071,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-7. エスカータ",
+    "name_en": "10-1-7. Escata",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110061
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10310020,
+    "sort_order": 7,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000130,
+    "battle_id": 100310072,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001247,
+      870001245,
+      870001238,
+      870001283,
+      870001281,
+      870001278,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110072,
+    "illust_category": 2,
+    "illust_id": 1020751,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-1. ゲレイオスを追って１",
+    "name_en": "10-2-1. Chase Gereios 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110191
+    ],
+    "quest_clear_bundle": 1,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100640,
+        "type": 7
+      },
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000130,
+    "battle_id": 100310073,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001259,
+      870001257,
+      870001250,
+      870001295,
+      870001293,
+      870001290,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110073,
+    "illust_category": 2,
+    "illust_id": 1020751,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-1. ゲレイオスを追って１",
+    "name_en": "10-2-1. Chase Gereios 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110191
+    ],
+    "quest_clear_bundle": 101,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100640,
+        "type": 7
+      },
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000100,
+    "battle_id": 100310051,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001234,
+      870001230,
+      870001225,
+      870001270,
+      870001261,
+      870001263,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110081,
+    "illust_category": 2,
+    "illust_id": 1030921,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-8. ダグル・ボースのもとへ１",
+    "name_en": "10-1-8. To Dougle Bose 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110071
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100637,
+        "type": 7
+      },
+      {
+        "id": 1100678,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000034,
+    "battle_id": 100310082,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001246,
+      870001239,
+      870001240,
+      870001282,
+      870001279,
+      870001280,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110082,
+    "illust_category": 2,
+    "illust_id": 1993791,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-2. ゲレイオスを追って２",
+    "name_en": "10-2-2. Chase Gereios 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110191
+    ],
+    "quest_clear_bundle": 2,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100625,
+        "type": 7
+      },
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000034,
+    "battle_id": 100310083,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001258,
+      870001251,
+      870001252,
+      870001294,
+      870001291,
+      870001292,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110083,
+    "illust_category": 2,
+    "illust_id": 1993791,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-2. ゲレイオスを追って２",
+    "name_en": "10-2-2. Chase Gereios 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110191
+    ],
+    "quest_clear_bundle": 102,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100625,
+        "type": 7
+      },
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 181,
+    "banner": 700000100,
+    "battle_id": 100310061,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001234,
+      870001226,
+      870001230,
+      870001270,
+      870001266,
+      870001261,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110091,
+    "illust_category": 2,
+    "illust_id": 1130441,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-1-9. ダグル・ボースのもとへ２",
+    "name_en": "10-1-9. To Dougle Bose 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110081
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100627,
+        "type": 7
+      },
+      {
+        "id": 1100676,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000151,
+    "battle_id": 100310092,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      870001246,
+      870001236,
+      870001239,
+      870001282,
+      870001277,
+      870001279,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501300100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110092,
+    "illust_category": 2,
+    "illust_id": 1993801,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-3. 父母の仇",
+    "name_en": "10-2-3. Parent's Enemies",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110191
+    ],
+    "quest_clear_bundle": 3,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 12,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100624,
+        "type": 7
+      },
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 501300100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000151,
+    "battle_id": 100310093,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 3,
+    "drop_group_ids": [
+      870001258,
+      870001248,
+      870001251,
+      870001294,
+      870001289,
+      870001291,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      },
+      {
+        "id": 501400100,
+        "quantity": 1,
+        "type": 26
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110093,
+    "illust_category": 2,
+    "illust_id": 1993801,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-3. 父母の仇",
+    "name_en": "10-2-3. Parent's Enemies",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110191
+    ],
+    "quest_clear_bundle": 103,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 23,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100624,
+        "type": 7
+      },
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 501400100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 10211001,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110101,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-1. ダグル・ボース城",
+    "name_en": "10-2-1. Daggle Bose Castle",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110091
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10310030,
+    "sort_order": 10,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000130,
+    "battle_id": 100310071,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001235,
+      870001233,
+      870001226,
+      870001271,
+      870001269,
+      870001266,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110111,
+    "illust_category": 2,
+    "illust_id": 1020751,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-2. ゲレイオスを追って１",
+    "name_en": "10-2-2. Chase Gereios 1",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110101
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 11,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100640,
+        "type": 7
+      },
+      {
+        "id": 1100679,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000034,
+    "battle_id": 100310081,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001234,
+      870001227,
+      870001228,
+      870001270,
+      870001267,
+      870001268,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110121,
+    "illust_category": 2,
+    "illust_id": 1993791,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-3. ゲレイオスを追って２",
+    "name_en": "10-2-3. Chase Gereios 2",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110111
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 12,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100625,
+        "type": 7
+      },
+      {
+        "id": 1100682,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 10211001,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110131,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-4. 扉を開く鍵",
+    "name_en": "10-2-4. The key that opens the door",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110121
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10310040,
+    "sort_order": 13,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000151,
+    "battle_id": 100310091,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+      870001234,
+      870001224,
+      870001227,
+      870001270,
+      870001265,
+      870001267,
+      870001073
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110141,
+    "illust_category": 2,
+    "illust_id": 1993801,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-5. 父母の仇",
+    "name_en": "10-2-5. Parent's Enemies",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110131
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 14,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100624,
+        "type": 7
+      },
+      {
+        "id": 1100680,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000152,
+    "battle_id": 100310101,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110151,
+    "illust_category": 2,
+    "illust_id": 1993811,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-6. 開かれた混沌",
+    "name_en": "10-2-6. open chaos",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110141
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 15,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 10211001,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 411103,
+        "quantity": 1,
+        "type": 14
+      },
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110161,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-7. ふさわしき者",
+    "name_en": "10-2-7. The Right Ones",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110151
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10310050,
+    "sort_order": 16,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 700000146,
+    "battle_id": 100310111,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 100,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110171,
+    "illust_category": 2,
+    "illust_id": 1993991,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-8. ハーディ",
+    "name_en": "10-2-8. Hardy",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110161
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 17,
+    "stamina": 9,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 10211001,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110181,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-9. 嫌な予感",
+    "name_en": "10-2-9. Bad feeling",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110171
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10310060,
+    "sort_order": 18,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_control_action": 0,
+    "area_id": 182,
+    "banner": 10211001,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 120110191,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_required_for_area_clear": 0,
+    "max_grind_count": 0,
+    "name": "10-2-10. 惨状",
+    "name_en": "10-2-10. Catastrophe",
+    "name_en_src": "ml",
+    "number_of_story_banner": 10,
+    "prev_quest_ids": [
+      120110181
+    ],
+    "quest_clear_bundle": 0,
+    "quest_type": 2,
+    "rewards": [
+    ],
+    "scenario_id": 10310070,
+    "sort_order": 19,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
   }
 ]

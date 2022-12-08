@@ -2522,12 +2522,24 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[締めるのは常に私だ]最終皇帝(男)専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [I'm always the one who tightens] A piece dedicated to the last emperor (man). Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Always the One to Finish It] Final Emperor.",
+    "flavor_text_en_src": "gl",
     "icon": 220308,
     "id": 220308,
     "name": "SS最終皇帝(男)のピース",
-    "name_en": "Piece of SS Last Emperor (Man)",
+    "name_en": "SS Final Emperor Piece",
+    "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[この場所でいいだろう]最終皇帝(男)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [this place would be fine] piece exclusive to the Last Emperor (male). Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 220309,
+    "id": 220309,
+    "name": "SS最終皇帝(男)のピース",
+    "name_en": "SS Last Emperor (male) Peace",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -2588,6 +2600,18 @@
     "id": 220408,
     "name": "SS最終皇帝(女)のピース",
     "name_en": "Piece of SS Last Emperor (Woman)",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[このポーズでいい？]最終皇帝(女)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [is this pose OK?] A piece exclusive to the Last Emperor (female). Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 220409,
+    "id": 220409,
+    "name": "SS最終皇帝(女)のピース",
+    "name_en": "SS Last Emperor (Female) Peace",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -3878,13 +3902,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[蝶の羽ばたきのごとく]ワグナス専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Like Flapping Butterfly's Wings] A piece dedicated to Wagnas. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Like the Flit of Butterflies] Wagnas.",
+    "flavor_text_en_src": "gl",
     "icon": 229105,
     "id": 229105,
     "name": "SSワグナスのピース",
-    "name_en": "SS Wagnas piece",
-    "name_en_src": "ml",
+    "name_en": "SS Wagnas Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -8018,13 +8042,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[時間よ、止まれ]時の君専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Time, Stop] A piece dedicated to the Kimi of Time. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Time, Stop!] Time Lord.",
+    "flavor_text_en_src": "gl",
     "icon": 313604,
     "id": 313604,
     "name": "SS時の君のピース",
-    "name_en": "Your piece at SS",
-    "name_en_src": "ml",
+    "name_en": "SS Time Lord Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -8880,6 +8904,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[将にして勇]ネーベルスタン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [General and Isamu] Nebelstan exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 321503,
+    "id": 321503,
+    "name": "SSネーベルスタンのピース",
+    "name_en": "SS Nebelstan Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[気配は消えている]ヨハン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Hide in Plain Sight] Johan. ",
@@ -9465,6 +9501,18 @@
     "name": "Sアンリのピース",
     "name_en": "S Henri Piece",
     "name_en_src": "gl",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[初めての髪型]アンリ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [First Hairstyle] A piece exclusive to Henri. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 411103,
+    "id": 411103,
+    "name": "Sアンリのピース",
+    "name_en": "S Henri's Peace",
+    "name_en_src": "ml",
     "selling_price": 60
   },
   {
@@ -10980,6 +11028,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[命を使う理由]アーニャ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Reason to Use Life] Anya's exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711703,
+    "id": 711703,
+    "name": "SSアーニャのピース",
+    "name_en": "SS Anya's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[モンスターの力]キャンディ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Monster Power] Candy.",
@@ -11016,6 +11076,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[最強の助っ人]キャンディ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Strongest Helper] Candy exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711804,
+    "id": 711804,
+    "name": "SSキャンディのピース",
+    "name_en": "SS candy pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[クラヴィスのリーダー]ダリアス専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Leader of Clavis] Darius.",
@@ -11036,6 +11108,18 @@
     "id": 711902,
     "name": "SSダリアスのピース",
     "name_en": "SS Dahlias pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[なめてんじゃないか？]ダリアス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [aren't you licking?] An exclusive piece for Darius. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711903,
+    "id": 711903,
+    "name": "SSダリアスのピース",
+    "name_en": "SS Darius Peace",
     "name_en_src": "ml",
     "selling_price": 100
   },
