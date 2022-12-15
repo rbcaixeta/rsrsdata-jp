@@ -2587,7 +2587,7 @@
     "id": 10060005,
     "is_free": 0,
     "price": 1,
-    "sort_order": 1,
+    "sort_order": 10,
     "sound_id": 130380,
     "start_at": 1608346800
   },
@@ -2599,7 +2599,7 @@
     "id": 10060010,
     "is_free": 0,
     "price": 1,
-    "sort_order": 10,
+    "sort_order": 180,
     "sound_id": 130210,
     "start_at": 0
   },
@@ -2609,7 +2609,7 @@
     "id": 10060015,
     "is_free": 0,
     "price": 1,
-    "sort_order": 2,
+    "sort_order": 20,
     "sound_id": 130381,
     "start_at": 1608346800
   },
@@ -2621,7 +2621,7 @@
     "id": 10060020,
     "is_free": 0,
     "price": 1,
-    "sort_order": 20,
+    "sort_order": 250,
     "sound_id": 130174,
     "start_at": 0
   },
@@ -2631,7 +2631,7 @@
     "id": 10060050,
     "is_free": 0,
     "price": 1,
-    "sort_order": 3,
+    "sort_order": 50,
     "sound_id": 130382,
     "start_at": 1608346800
   },
@@ -2641,7 +2641,7 @@
     "id": 10060060,
     "is_free": 0,
     "price": 1,
-    "sort_order": 4,
+    "sort_order": 60,
     "sound_id": 130383,
     "start_at": 1608346800
   },
@@ -2651,9 +2651,19 @@
     "id": 10060070,
     "is_free": 0,
     "price": 1,
-    "sort_order": 5,
+    "sort_order": 70,
     "sound_id": 130384,
     "start_at": 1608346800
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060090,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 90,
+    "sound_id": 120294,
+    "start_at": 1671073200
   },
   {
     "composer": "浜渦正志",
@@ -2661,9 +2671,19 @@
     "id": 10060110,
     "is_free": 0,
     "price": 1,
-    "sort_order": 6,
+    "sort_order": 110,
     "sound_id": 130385,
     "start_at": 1608346800
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060120,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 120,
+    "sound_id": 120295,
+    "start_at": 1671073200
   },
   {
     "composer": "浜渦正志",
@@ -2671,7 +2691,7 @@
     "id": 10060130,
     "is_free": 0,
     "price": 1,
-    "sort_order": 7,
+    "sort_order": 130,
     "sound_id": 130386,
     "start_at": 1608346800
   },
@@ -2681,7 +2701,7 @@
     "id": 10060160,
     "is_free": 0,
     "price": 1,
-    "sort_order": 8,
+    "sort_order": 160,
     "sound_id": 130387,
     "start_at": 1608346800
   },
@@ -2691,7 +2711,7 @@
     "id": 10060170,
     "is_free": 0,
     "price": 1,
-    "sort_order": 9,
+    "sort_order": 170,
     "sound_id": 130388,
     "start_at": 1608346800
   },
@@ -2701,9 +2721,99 @@
     "id": 10060230,
     "is_free": 0,
     "price": 1,
-    "sort_order": 18,
+    "sort_order": 230,
     "sound_id": 130389,
     "start_at": 1608346800
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060280,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 280,
+    "sound_id": 120296,
+    "start_at": 1671073200
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060290,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 290,
+    "sound_id": 120297,
+    "start_at": 1671073200
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060300,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 300,
+    "sound_id": 120298,
+    "start_at": 1671073200
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060310,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 310,
+    "sound_id": 120299,
+    "start_at": 1671073200
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060330,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 330,
+    "sound_id": 120300,
+    "start_at": 1671073200
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060350,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 350,
+    "sound_id": 120301,
+    "start_at": 1671073200
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060380,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 380,
+    "sound_id": 120303,
+    "start_at": 1671073200
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060490,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 490,
+    "sound_id": 120302,
+    "start_at": 1671073200
+  },
+  {
+    "composer": "浜渦正志",
+    "flavor_text": "",
+    "id": 10060500,
+    "is_free": 0,
+    "price": 1,
+    "sort_order": 500,
+    "sound_id": 130523,
+    "start_at": 1671073200
   },
   {
     "composer": "伊藤賢治",

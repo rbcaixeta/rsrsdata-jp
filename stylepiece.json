@@ -9373,6 +9373,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[信じたくない知らせ]ローラ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [News I Don't Want to Believe] Laura's exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 410105,
+    "id": 410105,
+    "name": "SSローラのピース",
+    "name_en": "SS roller piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[行くぜ野郎ども！]ローラ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "SS [I'm going, bastards!] A piece dedicated to rollers. Can be used for Style Summon or Limit Break.",
     "flavor_text_en_src": "ml",
@@ -9516,6 +9528,18 @@
     "selling_price": 60
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[祖国復興の為に]アンリ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [for the restoration of the motherland] Henri exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 411104,
+    "id": 411104,
+    "name": "SSアンリのピース",
+    "name_en": "SS Henri's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[ただのおっさんだよ]イスカンダール専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Just a Regular Guy] Iskandar.",
@@ -9537,6 +9561,18 @@
     "name": "SSイスカンダールのピース",
     "name_en": "SS Iskandar Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[真人の痕跡を求めて]イスカンダール専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [In Search of Masato's Traces] Iskandar exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 413504,
+    "id": 413504,
+    "name": "SSイスカンダールのピース",
+    "name_en": "SS Iskandar Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

@@ -464,7 +464,7 @@
     "cueSheetName": "BGM120046",
     "id": 120046,
     "music_album_id": 13,
-    "name": "バトル２",
+    "name": "バトル2",
     "name_en_src": "gl",
     "type": "BGM"
   },
@@ -995,7 +995,7 @@
     "cueSheetName": "BGM120105",
     "id": 120105,
     "music_album_id": 13,
-    "name": "バトル２",
+    "name": "バトル2",
     "name_en_src": "gl",
     "type": "BGM"
   },
@@ -2675,6 +2675,116 @@
     "music_album_id": 7,
     "name": "死への招待状 -The Battle with Death-",
     "name_en": "Invitation to Death -The Battle with Death-",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120293",
+    "cueSheetName": "BGM120293",
+    "id": 120293,
+    "music_album_id": 6,
+    "name": "アンリミテッド:サガ序曲",
+    "name_en": "Unlimited: Saga Overture",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120294",
+    "cueSheetName": "BGM120294",
+    "id": 120294,
+    "music_album_id": 6,
+    "name": "バトルテーマ Ⅱ",
+    "name_en": "Battle theme Ⅱ",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120295",
+    "cueSheetName": "BGM120295",
+    "id": 120295,
+    "music_album_id": 6,
+    "name": "バトルテーマ Ⅲ",
+    "name_en": "Battle theme III",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120296",
+    "cueSheetName": "BGM120296",
+    "id": 120296,
+    "music_album_id": 6,
+    "name": "イスカンダール",
+    "name_en": "Iskandar",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120297",
+    "cueSheetName": "BGM120297",
+    "id": 120297,
+    "music_album_id": 6,
+    "name": "J&A",
+    "name_en": "J&A",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120298",
+    "cueSheetName": "BGM120298",
+    "id": 120298,
+    "music_album_id": 6,
+    "name": "A&J",
+    "name_en": "A&J",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120299",
+    "cueSheetName": "BGM120299",
+    "id": 120299,
+    "music_album_id": 6,
+    "name": "神秘の炎",
+    "name_en": "Mysterious flames",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120300",
+    "cueSheetName": "BGM120300",
+    "id": 120300,
+    "music_album_id": 6,
+    "name": "時空の旅",
+    "name_en": "A space-time journey",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120301",
+    "cueSheetName": "BGM120301",
+    "id": 120301,
+    "music_album_id": 6,
+    "name": "バトルテーマEX",
+    "name_en": "Battle theme EX",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120302",
+    "cueSheetName": "BGM120302",
+    "id": 120302,
+    "music_album_id": 6,
+    "name": "七大驚異への挑戦",
+    "name_en": "Challenge to the Seven Wonders",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120303",
+    "cueSheetName": "BGM120303",
+    "id": 120303,
+    "music_album_id": 6,
+    "name": "BT Ver.2",
+    "name_en": "BT Ver.2",
     "name_en_src": "ml",
     "type": "BGM"
   },
@@ -42254,6 +42364,142 @@
     "cueName": "199381_other",
     "cueSheetName": "SE199381",
     "id": 243684,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140700120_other",
+    "cueSheetName": "SE140700120",
+    "id": 243685,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140700120_hit",
+    "cueSheetName": "SE140700120",
+    "id": 243686,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140700121_other",
+    "cueSheetName": "SE140700121",
+    "id": 243687,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140700121_hit",
+    "cueSheetName": "SE140700121",
+    "id": 243688,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140700122_other",
+    "cueSheetName": "SE140700122",
+    "id": 243689,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140700122_hit",
+    "cueSheetName": "SE140700122",
+    "id": 243690,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100205_other",
+    "cueSheetName": "SE140100205",
+    "id": 243691,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100205_hit",
+    "cueSheetName": "SE140100205",
+    "id": 243692,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140200192_other",
+    "cueSheetName": "SE140200192",
+    "id": 243714,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140200192_hit",
+    "cueSheetName": "SE140200192",
+    "id": 243715,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140200193_other",
+    "cueSheetName": "SE140200193",
+    "id": 243716,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140200193_hit",
+    "cueSheetName": "SE140200193",
+    "id": 243717,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100206_other",
+    "cueSheetName": "SE140100206",
+    "id": 243718,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100207_other",
+    "cueSheetName": "SE140100207",
+    "id": 243719,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100207_hit",
+    "cueSheetName": "SE140100207",
+    "id": 243720,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900302_other",
+    "cueSheetName": "SE149900302",
+    "id": 243721,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900302_hit",
+    "cueSheetName": "SE149900302",
+    "id": 243722,
     "music_album_id": 0,
     "name": "",
     "type": "SE"

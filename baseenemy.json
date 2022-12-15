@@ -3999,6 +3999,22 @@
     "sprite_studio": 0
   },
   {
+    "enemy_class": 3,
+    "gender": 9,
+    "id": 103096,
+    "illust": 1030961,
+    "name": "ウルリクムミ",
+    "name_en": "Ulrikummi",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 4,
     "gender": 9,
     "id": 104001,
@@ -6170,6 +6186,22 @@
     "illust": 1050681,
     "name": "クローカーコトー",
     "name_en": "Croker Cotto",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      6
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 5,
+    "gender": 9,
+    "id": 105069,
+    "illust": 1050661,
+    "name": "ジャンボ・モク",
+    "name_en": "Jumbo Moku",
     "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 0,
     "pc_flag": 0,
@@ -10596,6 +10628,22 @@
     "species": [
       12,
       97
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 11,
+    "gender": 9,
+    "id": 111066,
+    "illust": 1110661,
+    "name": "地縛式魔",
+    "name_en": "Earth-bound demon",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      12
     ],
     "sprite_studio": 0
   },
@@ -20832,6 +20880,23 @@
     "pc_flag": 0,
     "rank": 1,
     "species": [
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199400,
+    "illust": 1994001,
+    "name": "ダグル・ボース",
+    "name_en": "Dougle Bose",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      2,
       96
     ],
     "sprite_studio": 1

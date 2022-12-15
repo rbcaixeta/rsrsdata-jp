@@ -3003,6 +3003,19 @@
     "sort_order": 22120960
   },
   {
+    "expired_at": 1673981999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800233,
+    "id": 800233,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・91",
+    "name_en": "Romancing festival medal 91",
+    "name_en_src": "ml",
+    "sort_order": 22121560
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -10138,5 +10151,31 @@
     "name_en": "event style medals",
     "name_en_src": "ml",
     "sort_order": 22120910
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100790,
+    "id": 1100790,
+    "max_quantity": 99999999,
+    "name": "石英のかけら",
+    "name_en": "A piece of quartz",
+    "name_en_src": "ml",
+    "sort_order": 22121505
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100791,
+    "id": 1100791,
+    "max_quantity": 99999999,
+    "name": "丈夫な牙材",
+    "name_en": "Durable dental material",
+    "name_en_src": "ml",
+    "sort_order": 22121510
   }
 ]

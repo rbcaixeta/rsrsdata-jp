@@ -12895,6 +12895,45 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>Critical攻撃命中時、自身のBPを回復する( +5 )",
+    "flavor_text_en": "Damage dealt by attacks increases (extra effective) <br>Recover your own BP when you hit a Critical attack (+5)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101545,
+    "name": "猛攻必殺Ⅴ",
+    "name_en": "Onslaught V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802041569
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +3 )<br>自身の全ての攻撃が[特効：人間、獣人、巨人、獣]になる",
+    "flavor_text_en": "At the start of battle, recover your own BP (+3) and <br>all of your attacks become [special effects: human, beast, giant, beast]",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101546,
+    "name": "必殺の炯眼Ⅲ(人間・獣人・巨人・獣)",
+    "name_en": "Hissatsu no Jiugan III (Human/Beastman/Giant/Beast)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802040999,
+      802041024,
+      802041570,
+      802041608
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br>ターン終了時、自身のBPを回復する( +2 )",
     "flavor_text_en": "Damage dealt by attacks increases (great effect), and <br>at the end of the turn, restore your own BP (+2)",
     "flavor_text_en_src": "ml",
@@ -12909,6 +12948,98 @@
     "special_effect_ids": [
       802040001,
       802041315
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "HP満タン時、与ダメージが上昇する( 効果極大 )<br>バトル開始時、自身に「ダメージブロック(5回)」を付与する( 効果ターン数制限なし )<br><br>ダメージブロック(5回)<br>被ダメージを100%カットする( 上限回数:5回 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "When your HP is full, damage increases (maximum effect) <br>At the start of a battle, give yourself a “damage block (5 times)” (no limit on the number of effect turns), <br><br>damage block (5 times), <br>cut damage taken by 100% (maximum number of times: 5 times*only activated when an attack hits)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101548,
+    "name": "王子の覚悟",
+    "name_en": "Prince's Preparedness",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041571,
+      802040813
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br>HP満タン時、さらに与ダメージが上昇する( 効果極大 )<br><br>攻撃命中時、自身に「ダメージブロック(1回)」を付与する( 確率特大/効果ターン数制限なし )<br><br>ダメージブロック(1回)<br>被ダメージを100%カットする( 上限回数:1回 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Attack damage increases (high effect) <br>When HP is full, damage is further increased (maximum effect) <br><br>When an attack is hit, grant yourself a “damage block (1 time)” (oversized probability/no limit on the number of effect turns) <br><br>Damage block (1 time) <br>Cut damage taken by 100% (maximum number of times: 1 time*only activated when the attack is hit)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101549,
+    "name": "エスカータの意思",
+    "name_en": "Escalator's intention",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802040813,
+      802041572
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身に「ダメージブロック(1回)」を付与する( 確率特大/効果ターン数制限なし  )",
+    "flavor_text_en": "When an attack is hit, grant yourself a “damage block (1 time)” (excessive probability/no limit on the number of effect turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101550,
+    "name": "攻撃時 ダメージブロック(1回)",
+    "name_en": "Attack damage block (1 time)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041583
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身のHPを回復する( 確率大/効果小 )<br>自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する( 確率大 )<br><br>[ターン終了時]<br>気絶していない場合、自身の状態異常をすべて解除する( 確率大 )<br>気絶している場合、自身のHPを回復する( 効果中 )<br>(毒ダメージで気絶したターンには発動しない)",
+    "flavor_text_en": "[At the start of turn] <br>Recover your own HP (high <br>probability/low effect) Release a reduced state of your own strength, stamina, dexterity, agility, intelligence, spirit, love, and charm (high probability) <br><br>[At end of turn] <br>If <br>you haven't fainted, cancel all of your state abnormalities (high probability) Recover your own HP (<br>in effect) (active) (active on turns where you fainted due to poison damage) not)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101551,
+    "name": "世界の守人",
+    "name_en": "Guardians of the World",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041584,
+      802041603,
+      802041602,
+      802041241
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br>ターン開始時、自身に「ディフェンスアップ」( 効果大 )を付与する( 上限回数:バトル中5回 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
+    "flavor_text_en": "Reduces damage taken when attacked (extra effective) <br>At the beginning of the turn, grant yourself a “defense up” (high effect) (maximum number of times: 5 times during battle) <br><br>Defensive ups <br>reduce damage taken (effect lasts forever during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101554,
+    "name": "古の英雄",
+    "name_en": "Ancient Heroes",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040448,
+      802041558
     ]
   },
   {
@@ -12968,6 +13099,74 @@
       802010774,
       802010775,
       802010776
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身のHPを回復する( 確率大/効果小 )",
+    "flavor_text_en": "[At the start of turn] <br>Recover your own HP (high probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101568,
+    "name": "ターン開始時 HP回復(小)",
+    "name_en": "HP recovery at start of turn (small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040062
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する( 確率大 )",
+    "flavor_text_en": "[At the start of the turn] <br>Unlock reduced abilities of one's own strength, stamina, dexterity, agility, intellect, spirit, love, and charm (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101569,
+    "name": "ターン開始時 能力ダウン解除",
+    "name_en": "Ability reduction unlocked at the beginning of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040497
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、気絶している場合 <br>自身のHPを回復する( 効果中 )<br>(毒ダメージで気絶したターンには発動しない)",
+    "flavor_text_en": "At the end of the turn, if you're stunned, <br>recover your own HP <br>(in effect) (not active on turns where you faint due to poison damage)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101570,
+    "name": "ターン終了時 HP回復(気絶時)(中)",
+    "name_en": "HP recovery at end of turn (when stunned) (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041604
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "Critical攻撃命中時、自身のBPを回復する( +5 )",
+    "flavor_text_en": "Recover your own BP when you hit a Critical Attack (+5)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101572,
+    "name": "Critical攻撃時 BP回復",
+    "name_en": "BP recovery during critical attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041612
     ]
   },
   {

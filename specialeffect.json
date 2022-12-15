@@ -17838,6 +17838,29 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "140100206",
+    "flavor_text": "ODゲージが上昇する",
+    "flavor_text_en": "OD gauge rises",
+    "flavor_text_en_src": "ml",
+    "id": 801041401,
+    "ignition_effect_id": "",
+    "name": "ODゲージアップ",
+    "name_en": "OD gauge up",
+    "name_en_src": "ml",
+    "state_change_id": 900050156,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 12,
+    "text_color": "FFFFFF",
+    "text_pop": "ODゲージ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "ターン終了時、自身のBPを回復する( +3 )",
     "flavor_text_en": "At the end of the turn, restore your own BP (+3)",
@@ -17880,6 +17903,31 @@
     "text_pop": "",
     "triggering_effect_condition_ids": [
       4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "間接攻撃を受けた時、敵から受ける被ダメージが低下する(重複不可)",
+    "flavor_text_en": "When receiving an indirect attack, damage received from the enemy decreases (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041406,
+    "ignition_effect_id": "",
+    "name": "防御態勢(間接/中)",
+    "name_en": "Defensive Stance (Indirect/Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040202,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "防御態勢",
+    "triggering_effect_condition_ids": [
+      49001
     ]
   },
   {
@@ -17952,6 +18000,30 @@
     "target_area": 3,
     "text_color": "65D2FF",
     "text_pop": "行動順補正↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "BPが回復する",
+    "flavor_text_en": "BP recovers",
+    "flavor_text_en_src": "ml",
+    "id": 801041427,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      2
+    ],
+    "target_area": 10,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -47406,6 +47478,103 @@
   {
     "applying_effect_condition_ids": [
     ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "Critical攻撃命中時、自身のBPを回復する( +5 )",
+    "flavor_text_en": "Recover your own BP when you hit a Critical Attack (+5)",
+    "flavor_text_en_src": "ml",
+    "id": 802041569,
+    "ignition_effect_id": "",
+    "name": "Critical攻撃時 BP回復",
+    "name_en": "BP recovery during critical attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101572
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：巨人]になる",
+    "flavor_text_en": "All of your attacks become [Special Effect: Giants]",
+    "flavor_text_en_src": "ml",
+    "id": 802041570,
+    "ignition_effect_id": "",
+    "name": "特効：巨人",
+    "name_en": "Special effect: giant",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50020
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージを100%カットする( 上限回数:5 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Cut damage taken by 100% (maximum number of times: 5 *only activated when an attack hits)",
+    "flavor_text_en_src": "ml",
+    "id": 802041571,
+    "ignition_effect_id": "",
+    "name": "ダメージブロック(5回)",
+    "name_en": "Damage block (5 times)",
+    "name_en_src": "ml",
+    "state_change_id": 900040192,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ダメージブロック",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、自身に「ダメージブロック(1回)」を付与する( 確率特大/効果ターン数制限なし )",
+    "flavor_text_en": "When an attack is hit, grant yourself a “damage block (1 time)” (excessive probability/no limit on the number of effect turns)",
+    "flavor_text_en_src": "ml",
+    "id": 802041572,
+    "ignition_effect_id": "",
+    "name": "攻撃時 ダメージブロック(1回)",
+    "name_en": "Attack damage block (1 time)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101550
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
     "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "BPが回復する",
@@ -47541,6 +47710,56 @@
   },
   {
     "applying_effect_condition_ids": [
+      4
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージを100%カットする( 上限回数:1 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Cut damage taken by 100% (maximum number of times: 1 ※Activates only when an attack hits)",
+    "flavor_text_en_src": "ml",
+    "id": 802041583,
+    "ignition_effect_id": "",
+    "name": "ダメージブロック(1回)",
+    "name_en": "Damage Block (1 time)",
+    "name_en_src": "ml",
+    "state_change_id": 900040192,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ダメージブロック",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、気絶している場合、自身のHPを回復する( 効果中 )<br>(毒ダメージで気絶したターンには発動しない)",
+    "flavor_text_en": "At the end of the turn, if you're stunned, recover your own HP (<br>in effect) (not active on turns where you faint due to poison damage)",
+    "flavor_text_en_src": "ml",
+    "id": 802041584,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 HP回復(気絶時)(中)",
+    "name_en": "HP recovery at end of turn (when stunned) (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101570
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
@@ -47560,6 +47779,128 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、自身のHPを回復する( 確率大/効果小 )",
+    "flavor_text_en": "At the beginning of the turn, recover your own HP (high probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041602,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 HP回復(小)",
+    "name_en": "HP recovery at start of turn (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101568
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン開始時]<br>自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する( 確率大 )",
+    "flavor_text_en": "[At the start of the turn] <br>Unlock reduced abilities of one's own strength, stamina, dexterity, agility, intellect, spirit, love, and charm (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041603,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 能力ダウン解除",
+    "name_en": "Ability reduction unlocked at the beginning of a turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101569
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      20
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "気絶している場合、自身のHPを回復する",
+    "flavor_text_en": "If you have fainted, recover your own HP",
+    "flavor_text_en_src": "ml",
+    "id": 802041604,
+    "ignition_effect_id": "",
+    "name": "世界の守人",
+    "name_en": "Guardians of the World",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      5
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "世界の守人",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃が[特効：獣]になる",
+    "flavor_text_en": "All of your attacks become [Special Effect: Beast]",
+    "flavor_text_en_src": "ml",
+    "id": 802041608,
+    "ignition_effect_id": "",
+    "name": "特効：獣",
+    "name_en": "Special effect: beast",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      50021
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      12
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Your BP will recover",
+    "flavor_text_en_src": "ml",
+    "id": 802041612,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      5
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
     "triggering_effect_condition_ids": [
     ]
   },
