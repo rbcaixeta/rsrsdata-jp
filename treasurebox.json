@@ -344,8 +344,8 @@
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧から一定確率でアイテムが出現します。（2022/1/25 4:00まで）",
-    "description_en": "Can be opened from Items > Treasure Chest When you open it, there is a certain probability that an item will appear from the reward list. (until 2022/1/25 4:00)",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until 01/24/2023 16:59 PST)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       103471,
       103471,
@@ -363,8 +363,8 @@
     "id": 900025,
     "max_quantity": 9999,
     "name": "聖夜のプレゼント[期間限定]",
-    "name_en": "Present for Holy Night [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Christmas Present [Ltd. Time]",
+    "name_en_src": "gl",
     "rarity": 5,
     "sort_order": 21122125
   },
