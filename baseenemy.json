@@ -14754,6 +14754,76 @@
     "sprite_studio": 1
   },
   {
+    "enemy_class": 17,
+    "gender": 1,
+    "id": 117018,
+    "illust": 1170181,
+    "name": "猟騎士",
+    "name_en": "Hunting knight",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      19,
+      82,
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 17,
+    "gender": 1,
+    "id": 117019,
+    "illust": 1170191,
+    "name": "炎の従騎士",
+    "name_en": "Cousin of Fire",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      19,
+      82,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 17,
+    "gender": 1,
+    "id": 117020,
+    "illust": 1170201,
+    "name": "水の従騎士",
+    "name_en": "Water Cousin",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      19,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 17,
+    "gender": 1,
+    "id": 117021,
+    "illust": 1170211,
+    "name": "森の従騎士",
+    "name_en": "Forest Cousin",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      19,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 18,
     "gender": 9,
     "id": 118001,

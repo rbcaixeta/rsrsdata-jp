@@ -3514,6 +3514,29 @@
     ]
   },
   {
+    "id": 109030063,
+    "name": "3体陣形_(大1中1小1)_4",
+    "name_en": "3-body formation_ (1 large, 1 medium, 1 small) _4",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 49,
+        "y": 20
+      },
+      {
+        "line": 0,
+        "x": 36,
+        "y": 28
+      },
+      {
+        "line": 0,
+        "x": 9,
+        "y": 13
+      }
+    ]
+  },
+  {
     "id": 109030099,
     "name": "塔_最上階用陣形",
     "name_en": "Tower_Top Floor Formation",
@@ -6814,6 +6837,39 @@
         "line": 0,
         "x": 6,
         "y": 45
+      }
+    ]
+  },
+  {
+    "id": 109050061,
+    "name": "5体陣形_(大1中2小2)_1",
+    "name_en": "5 formations _ (large 1 medium 2 small 2) _1",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 49,
+        "y": 17
+      },
+      {
+        "line": 0,
+        "x": 49,
+        "y": 33
+      },
+      {
+        "line": 0,
+        "x": 31,
+        "y": 7
+      },
+      {
+        "line": 0,
+        "x": 31,
+        "y": 43
+      },
+      {
+        "line": 0,
+        "x": 13,
+        "y": 25
       }
     ]
   },

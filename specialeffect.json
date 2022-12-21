@@ -5208,6 +5208,52 @@
     ],
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011431,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "器用さ 素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011432,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "毒耐性が上昇する",
     "flavor_text_en": "Increases Poison Resistance.",
     "flavor_text_en_src": "gl",
@@ -17953,6 +17999,30 @@
     "text_pop": "防御↑",
     "triggering_effect_condition_ids": [
       14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "付与された次のターンに、攻撃を発動後、「忍法神速プレゼント剣」が発動する",
+    "flavor_text_en": "On the next turn after being granted, after triggering an attack, the “Ninja Speed Present Sword” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 801041410,
+    "ignition_effect_id": "",
+    "name": "プレゼント忍法",
+    "name_en": "Present Ninja",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3001,
+    "state_vars": [
+      702101566
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "プレゼント忍法",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -41687,6 +41757,30 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "小剣装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Attack damage is increased when equipped with a stiletto",
+    "flavor_text_en_src": "ml",
+    "id": 802041211,
+    "ignition_effect_id": "",
+    "name": "小剣攻撃強化",
+    "name_en": "Stiletto Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21007
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "Resist攻撃被弾時、被ダメージが低下する",
     "flavor_text_en": "Reduces damage taken when hit by a Resist attack",
     "flavor_text_en_src": "ml",
@@ -43384,8 +43478,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "ターン終了時、BPが回復する(+2)",
-    "flavor_text_en": "BP heals at end of turn (+2)",
+    "flavor_text": "ターン終了時、BPが回復する( +2 )",
+    "flavor_text_en": "At the end of the turn, your BP recovers (+2)",
     "flavor_text_en_src": "ml",
     "id": 802041315,
     "ignition_effect_id": "",
@@ -47763,6 +47857,189 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、自身に「ヒートアップ」を付与する( 効果特大 )",
+    "flavor_text_en": "When a turn starts, give yourself a “heat up” (very effective)",
+    "flavor_text_en_src": "ml",
+    "id": 802041585,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 ヒートアップ",
+    "name_en": "Heats up at the beginning of the turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101559
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、<br>「ローズヒット」が発動する",
+    "flavor_text_en": "When you hit a move or jutsu whose type is “Attack”, <br>“Rose Hit” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041587,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101561
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1を命中させた時、ローズヒットが発動する",
+    "flavor_text_en": "Rose Hit is activated when Move 1 is hit",
+    "flavor_text_en_src": "ml",
+    "id": 802041588,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700263
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夢幻の薔薇",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を命中させた時、ローズヒットが発動する",
+    "flavor_text_en": "Rose Hit is activated when Move 2 is hit",
+    "flavor_text_en_src": "ml",
+    "id": 802041589,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700263
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夢幻の薔薇",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を命中させた時、ローズヒットが発動する",
+    "flavor_text_en": "Rose Hit is activated when Move 3 is hit",
+    "flavor_text_en_src": "ml",
+    "id": 802041590,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700263
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夢幻の薔薇",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、ローズヒットが発動する",
+    "flavor_text_en": "Rose Hit is activated when an Inherited Move is hit",
+    "flavor_text_en_src": "ml",
+    "id": 802041591,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700263
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夢幻の薔薇",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を命中させた時、ローズヒットが発動する",
+    "flavor_text_en": "When a normal attack is hit, Rose Hit is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041592,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700263
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "夢幻の薔薇",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "ターン開始時<br>自身を挑発状態( 効果中/効果4ターン )にし、さらに、自身のHPを回復( 効果極小 )する",
     "flavor_text_en": "At the beginning of <br>the turn, put yourself in a taunt state (effect/effect 4 turns), and also restores your own HP (effect is minimal)",
     "flavor_text_en_src": "ml",
@@ -47775,6 +48052,164 @@
     "state_icon": 3003,
     "state_vars": [
       702101562
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Plane",
+    "flavor_text": "自身の狙われやすさが低下する",
+    "flavor_text_en": "Your own ease of being targeted decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802041596,
+    "ignition_effect_id": "",
+    "name": "ステルス(中)",
+    "name_en": "stealth (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040047,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ステルス",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24500,
+      24408,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1を発動後、忍法神速プレゼント剣で攻撃を行う",
+    "flavor_text_en": "After activating Move 1, perform an attack with the Ninja Speed Present Sword",
+    "flavor_text_en_src": "ml",
+    "id": 802041597,
+    "ignition_effect_id": "",
+    "name": "プレゼント忍法",
+    "name_en": "Present Ninja",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100289
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24501,
+      24408,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を発動後、忍法神速プレゼント剣で攻撃を行う",
+    "flavor_text_en": "After activating Move 2, perform an attack with the Ninja Speed Present Sword",
+    "flavor_text_en_src": "ml",
+    "id": 802041598,
+    "ignition_effect_id": "",
+    "name": "プレゼント忍法",
+    "name_en": "Present Ninja",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100289
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24502,
+      24408,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を発動後、忍法神速プレゼント剣で攻撃を行う",
+    "flavor_text_en": "After activating Move 3, perform an attack with the Ninja Speed Present Sword",
+    "flavor_text_en_src": "ml",
+    "id": 802041599,
+    "ignition_effect_id": "",
+    "name": "プレゼント忍法",
+    "name_en": "Present Ninja",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100289
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24507,
+      24408,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を発動後、忍法神速プレゼント剣で攻撃を行う",
+    "flavor_text_en": "Activate the Inheritance Move and then attack with the Ninja Speed Present Sword",
+    "flavor_text_en_src": "ml",
+    "id": 802041600,
+    "ignition_effect_id": "",
+    "name": "プレゼント忍法",
+    "name_en": "Present Ninja",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100289
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24506,
+      24408,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を発動後、忍法神速プレゼント剣で攻撃を行う",
+    "flavor_text_en": "After activating a normal attack, perform an attack with the Ninja Speed Present Sword",
+    "flavor_text_en_src": "ml",
+    "id": 802041601,
+    "ignition_effect_id": "",
+    "name": "プレゼント忍法",
+    "name_en": "Present Ninja",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100289
     ],
     "target_area": 1,
     "text_color": "",
@@ -47998,6 +48433,30 @@
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased",
+    "flavor_text_en_src": "ml",
+    "id": 802041658,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
     ]
   },
   {
@@ -61221,6 +61680,75 @@
     ],
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010555,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "素早さ 愛 魅力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "愛が上昇する",
+    "flavor_text_en": "Love rises",
+    "flavor_text_en_src": "ml",
+    "id": 808010556,
+    "ignition_effect_id": "",
+    "name": "愛アップ",
+    "name_en": "Love up",
+    "name_en_src": "ml",
+    "state_change_id": 900010018,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が上昇する",
+    "flavor_text_en": "Attractiveness rises",
+    "flavor_text_en_src": "ml",
+    "id": 808010558,
+    "ignition_effect_id": "",
+    "name": "魅力アップ",
+    "name_en": "Increased attractiveness",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "魅了耐性が上昇する",
     "flavor_text_en": "Increases Charm Resistance.",
     "flavor_text_en_src": "gl",
@@ -65358,6 +65886,30 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃に対して、カウンターフィアーが発動する",
+    "flavor_text_en": "Counterfeer is activated in response to direct enemy attacks",
+    "flavor_text_en_src": "ml",
+    "id": 808040546,
+    "ignition_effect_id": "",
+    "name": "カウンターフィアー",
+    "name_en": "Counterfeer",
+    "name_en_src": "ml",
+    "state_change_id": 900040034,
+    "state_icon": 3001,
+    "state_vars": [
+      905653403
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "HPを回復する",
     "flavor_text_en": "Recovers HP.",
@@ -65400,6 +65952,30 @@
     "target_area": 1,
     "text_color": "5BFF24",
     "text_pop": "弱化解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 808050554,
+    "ignition_effect_id": "",
+    "name": "HP回復(超極大)",
+    "name_en": "HP recovery (super large)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      500
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -67839,6 +68415,75 @@
     "target_area": 8,
     "text_color": "FF0000",
     "text_pop": "体力↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "140100181",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 809010592,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 809010593,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 809010594,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -72807,6 +73452,79 @@
     "flavor_text": "敵に与えるダメージが上昇する",
     "flavor_text_en": "Damage dealt to enemies is increased",
     "flavor_text_en_src": "ml",
+    "id": 809040590,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 809040591,
+    "ignition_effect_id": "",
+    "name": "ディフェンスアップ",
+    "name_en": "Defensive ups",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      85
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased",
+    "flavor_text_en_src": "ml",
+    "id": 809040596,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased",
+    "flavor_text_en_src": "ml",
     "id": 809040597,
     "ignition_effect_id": "",
     "name": "攻撃強化(小)",
@@ -72845,6 +73563,53 @@
     "text_pop": "防御↑",
     "triggering_effect_condition_ids": [
       14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased",
+    "flavor_text_en_src": "ml",
+    "id": 809040600,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "140200173",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Damage dealt to enemies is increased (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 809040601,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(小)",
+    "name_en": "Moral Up (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
     ]
   },
   {

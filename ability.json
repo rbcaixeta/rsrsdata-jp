@@ -13060,6 +13060,80 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "ターン開始時、自身に「ヒートアップ」( 効果特大 )を付与する( 上限回数:バトル中5回 )<br>ターン終了時、自身のBPを回復する( +2 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "At the start of a turn, give yourself a “heat up” (extra effect) (maximum number of times: 5 times during battle) <br>At the end of the turn, recover your own BP (+2) <br><br><br>damage from heat up attacks increases (effect lasts forever during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101558,
+    "name": "ボルテージフォースⅡ",
+    "name_en": "Voltage Force II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041585,
+      802041315
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「ヒートアップ」( 効果特大 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "At the start of a turn, give yourself a “heat up” (extra effect) (maximum number of times: 5 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101559,
+    "name": "ターン開始時 ヒートアップ",
+    "name_en": "Heats up at the beginning of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041658
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、敵の攻撃を回避する( 確率大 )<br><br>タイプが「攻撃」である技・術(※)を命中させた時、<br>「ローズヒット」が発動する<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない<br><br>ローズヒット<br>小剣技/攻撃/威力A/直接/敵単体 ( 突 ) <br>攻撃する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When attacked, when the <br><br>type that avoids an enemy attack (high probability) is hit by a technique (※) that <br><br><br><br><br>avoids an enemy attack, “Rose Hit” is activated ※ Does not include “techniques and techniques activated by this ability effect,” “counterattack techniques and techniques with counter effects,” and “techniques passed down in the R Cup” Rose Hit Shokken Techniques/Attack/Power A Direct/Enemy Single Attack (Strike) <br>Attack <br>(Move) (Activated by Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101560,
+    "name": "夢幻の薔薇",
+    "name_en": "A dream rose",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040765,
+      802041587
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、<br>「ローズヒット」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When a move or jutsu whose type is “Attack” is hit, <br>“Rose Hit” is activated <br>(activated by Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101561,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041588,
+      802041589,
+      802041590,
+      802041591,
+      802041592
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "ターン開始時<br>自身を挑発状態( 効果中/効果4ターン )にし、さらに、自身のHPを回復( 効果極小 )する",
     "flavor_text_en": "At the beginning of <br>the turn, put yourself in a taunt state (effect/effect 4 turns), and also restores your own HP (effect is minimal)",
@@ -13075,6 +13149,45 @@
     "special_effect_ids": [
       802040533,
       802040901
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「ダメージブロック(1回)」を付与する( 効果1ターン )<br>自身をステルス状態にする( 効果中/効果1ターン )<br><br>ダメージブロック(1回)<br>被ダメージを100%カットする( 上限回数:1回 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "[At the start of turn] Give <br>yourself a “damage block (1 time)” (effect 1 turn) <br>Put yourself in a stealth state (in effect/effect for 1 turn) <br><br>Damage block (1 time) <br>Cut 100% of damage taken (maximum number of times: 1 time*only activated when an attack hits)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101564,
+    "name": "お忍びサンタ",
+    "name_en": "Incognito Santa",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041485,
+      802041596
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "付与された次のターンに、攻撃(※)を発動後、「忍法神速プレゼント剣」が発動する<br>( 技Rank1で発動 )<br>ただし、気絶またはラウンド進行により解除される<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "On the next turn granted, after <br><br><br>triggering an attack (*), the “Ninja Speed Present Sword” is activated (activated by move Rank 1); however, it is unlocked by stun or round progression*Does not include “techniques and techniques activated by special state effects,” “counterattack techniques and techniques passed down by counter effects,” and “techniques and techniques passed down in the R Cup”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101566,
+    "name": "プレゼント忍法",
+    "name_en": "Present Ninja",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041597,
+      802041598,
+      802041599,
+      802041600,
+      802041601
     ]
   },
   {
@@ -13256,6 +13369,24 @@
     "special_effect_ids": [
       802040802,
       802041641
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "小剣装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "When equipped with a stiletto, damage from <br>attacks increases (maximum effect) Reduces damage taken when attacked (extra effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101611,
+    "name": "小剣の極み",
+    "name_en": "The ultimate stiletto",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041211,
+      802040448
     ]
   },
   {
@@ -42598,6 +42729,23 @@
     ]
   },
   {
+    "ability_when": 2,
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、カウンターフィアーが発動する<br><br>カウンターフィアー<br>補助<br>命中時、対象を混乱させる( 確率極小/効果4ターン )",
+    "flavor_text_en": "When attacked<br>, counterfeer is activated <br><br><br><br>in response to a direct attack. When counterfeer assist hits, it confuses the target (extremely low probability/effect 4 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 708200251,
+    "name": "カウンターフィアー",
+    "name_en": "Counterfeer",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040546
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身の腕力を上昇させる( 効果大 )",
     "flavor_text_en": "[Start of turn]<br>Increases own STR (large effect).",
@@ -44487,6 +44635,26 @@
     "special_effect_ids": [
       808040451,
       808040452
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のHPを回復する<br>自身の素早さを上昇させる( 効果小 )<br>自身の愛と魅力を上昇させる( 効果大 )",
+    "flavor_text_en": "[At end <br><br>of turn] Restores own HP Increases own agility (low effect) <br>Increases own love and charm (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400256,
+    "name": "太古のビート",
+    "name_en": "Ancient Beats",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050554,
+      808010555,
+      808010556,
+      808010558
     ]
   },
   {
