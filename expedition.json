@@ -473,5 +473,30 @@
     "required_quest_id": 0,
     "sort_order": 81,
     "ticket_cost": 82
+  },
+  {
+    "background_id": 700000036,
+    "close_at": 0,
+    "difficulty": 4,
+    "drop_group_ids": [
+      880000040,
+      880000041
+    ],
+    "flavor_text": "HP1900まで、各能力値180までのキャラを推奨",
+    "flavor_text_en": "Characters with up to 1900 HP and each ability value up to 180 are recommended",
+    "flavor_text_en_src": "ml",
+    "growth_difficulty": 178,
+    "id": 6700021,
+    "jewel_cost": 0,
+    "name": "雪山",
+    "name_en": "Snow Mountain",
+    "name_en_src": "ml",
+    "open_at": 1672801200,
+    "recommended_status": 180,
+    "required_hours": 21,
+    "required_player_rank": 200,
+    "required_quest_id": 120106103,
+    "sort_order": 80,
+    "ticket_cost": 82
   }
 ]

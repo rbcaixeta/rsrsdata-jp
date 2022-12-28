@@ -4080,6 +4080,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[耳が目立つわね]ロックブーケ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [your ears stand out] rock bouquet exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 229316,
+    "id": 229316,
+    "name": "SSロックブーケのピース",
+    "name_en": "SS Rock Bouquet Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[海は我がテリトリーだ]スービエ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [The Sea Is My Domain] Subier. ",
@@ -5820,6 +5832,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ウサギが主役よ！]教授専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Rabbit is the protagonist!] A piece for professors only. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 234106,
+    "id": 234106,
+    "name": "SS教授のピース",
+    "name_en": "SS Professor's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[朱鳥術士ボルカノ]ボルカノ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Shucho Mage Volcano] Volcano. ",
@@ -6433,6 +6457,42 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[ボクの年なんだよー]バーニィ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [it's my year] Barney exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 238304,
+    "id": 238304,
+    "name": "SSバーニィのピース",
+    "name_en": "SS Barney Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[寝てるとカワイイのに]ムクチャー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [even though it's cute when sleeping] is an exclusive piece for Mukcha. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 238501,
+    "id": 238501,
+    "name": "Sムクチャーのピース",
+    "name_en": "S Mukchar's Peace",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[耳を付けるのは誰だ！]ムクチャー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Who listens!] Exclusive piece for mukchas. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 238502,
+    "id": 238502,
+    "name": "SSムクチャーのピース",
+    "name_en": "SS Mukchar's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[夢を見るのだ]夢魔専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "SS [I'm Dreaming] A piece dedicated to Yumema. Can be used to summon styles or push limits.",
     "flavor_text_en_src": "ml",
@@ -6962,13 +7022,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[これが正義の鉄拳だ]アルカイザー専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [This is Tekken of Justice] A piece dedicated to Alkaiser. Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Iron Fist of Justice] Alkaiser.",
+    "flavor_text_en_src": "gl",
     "icon": 310409,
     "id": 310409,
     "name": "SSアルカイザーのピース",
-    "name_en": "SS Alkaiser pieces",
-    "name_en_src": "ml",
+    "name_en": "SS Alkaiser Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -7005,6 +7065,18 @@
     "name": "SSエミリアのピース",
     "name_en": "SS Emelia Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[私に勝てるかな？]エミリア専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Can you beat me?] An exclusive piece for Emilia. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 310504,
+    "id": 310504,
+    "name": "SSエミリアのピース",
+    "name_en": "SS Emilia Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -7130,13 +7202,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[この先には幸せが？]アセルス専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Is there happiness ahead?] A piece dedicated to Athelus. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Happiness Ahead?] Asellus.",
+    "flavor_text_en_src": "gl",
     "icon": 310610,
     "id": 310610,
     "name": "SSアセルスのピース",
-    "name_en": "Piece of SS Athelus",
-    "name_en_src": "ml",
+    "name_en": "SS Asellus Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -7333,6 +7405,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[潜入捜査の最中です！]ラビット(SF1)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Undercover investigation is underway!] Rabbit (SF1) exclusive piece Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 311504,
+    "id": 311504,
+    "name": "SSラビット(SF1)のピース",
+    "name_en": "SS Rabbit (SF1) pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[働けよ、毛玉野郎]コットン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Get to Work, Cottonball!] Cotton.",
     "flavor_text_en_src": "gl",
@@ -7514,13 +7598,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[ヒーローを超える時]メタルアルカイザー専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [When Beyond Hero] Metal Alkaiser exclusive piece. Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Surpassing the Hero] M Black III.",
+    "flavor_text_en_src": "gl",
     "icon": 312002,
     "id": 312002,
     "name": "SSメタルアルカイザーのピース",
-    "name_en": "SS Metal Alkaiser pieces",
-    "name_en_src": "ml",
+    "name_en": "SS M Black III Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -7766,37 +7850,37 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[晴れ着も着こなすぞ]イルドゥン専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [I'm going to wear a good dress too] Ildun exclusive piece. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Perfectly Stylish] Ildon.",
+    "flavor_text_en_src": "gl",
     "icon": 312903,
     "id": 312903,
     "name": "SSイルドゥンのピース",
-    "name_en": "SS Ildun's Piece",
-    "name_en_src": "ml",
+    "name_en": "SS Ildon Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
     "exchange_cost": 250,
     "flavor_text": "SS[猛虎の力を宿す剣]セアト専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [sword that harbors the power of the fierce tiger] exclusive piece for SEAT. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [The Tiger Within] Ciato.",
+    "flavor_text_en_src": "gl",
     "icon": 313002,
     "id": 313002,
     "name": "SSセアトのピース",
-    "name_en": "SS SEATS piece",
-    "name_en_src": "ml",
+    "name_en": "SS Ciato Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
     "exchange_cost": 150,
     "flavor_text": "S[野望を秘めて]セアト専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "A piece dedicated to the S [Ambition] SEAT. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Hidden Ambition] Ciato.",
+    "flavor_text_en_src": "gl",
     "icon": 313003,
     "id": 313003,
     "name": "Sセアトのピース",
-    "name_en": "S SEATS piece",
-    "name_en_src": "ml",
+    "name_en": "S Ciato Piece",
+    "name_en_src": "gl",
     "selling_price": 60
   },
   {
@@ -7838,13 +7922,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[いよいよ新年じゃ]零姫専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [It's Finally a New Year] piece dedicated to Reihime. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [A New Year at Last] Princess Rei.",
+    "flavor_text_en_src": "gl",
     "icon": 313105,
     "id": 313105,
     "name": "SS零姫のピース",
-    "name_en": "Piece of SS Zerohime",
-    "name_en_src": "ml",
+    "name_en": "SS Princess Rei Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -7886,13 +7970,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[猛虎も従えようぞ]金獅子姫専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Let's Follow the Fierce Tiger] A piece exclusively for Princess Golden Lion. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Mastering the Tiger] Princess Lion.",
+    "flavor_text_en_src": "gl",
     "icon": 313204,
     "id": 313204,
     "name": "SS金獅子姫のピース",
-    "name_en": "SS Piece of the Golden Lion",
-    "name_en_src": "ml",
+    "name_en": "SS Princess Lion Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -8114,13 +8198,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[新しい年に幸あれ]メサルティム専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Happy New Year] A piece dedicated to Mesaltim. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Luck for the New Year] Mesarthim.",
+    "flavor_text_en_src": "gl",
     "icon": 313705,
     "id": 313705,
     "name": "SSメサルティムのピース",
-    "name_en": "Pieces of SS Mesaltim",
-    "name_en_src": "ml",
+    "name_en": "SS Mesarthim Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -8294,37 +8378,37 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[いつも見守っているぞ]アルカール専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [I'm always watching over you] A piece dedicated to Alcar. Can be used for Style Summons or Limit Breaks.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Watching Over You] Alkarl.",
+    "flavor_text_en_src": "gl",
     "icon": 314803,
     "id": 314803,
     "name": "SSアルカールのピース",
-    "name_en": "SS Alkar pieces",
-    "name_en_src": "ml",
+    "name_en": "SS Alkarl Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
     "exchange_cost": 250,
     "flavor_text": "SS[変革の年にするのだ]ラスタバン専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [It's a Year of Transformation] A piece dedicated to Rastavan. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Year of Change] Rastaban.",
+    "flavor_text_en_src": "gl",
     "icon": 314902,
     "id": 314902,
     "name": "SSラスタバンのピース",
-    "name_en": "Piece of SS Rasta Bang",
-    "name_en_src": "ml",
+    "name_en": "SS Rastaban Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
     "exchange_cost": 150,
     "flavor_text": "S[一滴の血が変える世界]ラスタバン専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "S [The world that a drop of blood changes] Rastavan exclusive piece. Can be used for style summoning or breaking limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [By a Drop of Blood] Rastaban.",
+    "flavor_text_en_src": "gl",
     "icon": 314903,
     "id": 314903,
     "name": "Sラスタバンのピース",
-    "name_en": "S Rasta Bang piece",
-    "name_en_src": "ml",
+    "name_en": "S Rastaban Piece",
+    "name_en_src": "gl",
     "selling_price": 60
   },
   {
@@ -9081,6 +9165,18 @@
     "name": "SSコーデリアのピース",
     "name_en": "SS Cordelia Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[すぐ行きまーす！]コーデリア専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I'll be there soon!] Exclusive piece for Cordelia. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 322108,
+    "id": 322108,
+    "name": "SSコーデリアのピース",
+    "name_en": "SS Cordelia pieces",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

@@ -12615,6 +12615,20 @@
   },
   {
     "applies_to_all_styles": 0,
+    "event_ability_category_id": 724,
+    "flavor_text": "・開運！おみくじクエスト2023で、専用スタイルピースが追加ドロップ",
+    "flavor_text_en": "・Good luck! Exclusive style pieces will be added and dropped in Omikuji Quest 2023",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1074,
+    "name": "開運！おみくじクエスト2023",
+    "name_en": "good luck! Omikuji Quest 2023",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3173
+  },
+  {
+    "applies_to_all_styles": 0,
     "event_ability_category_id": 725,
     "flavor_text": "・祝祭！ホリデーナイトでHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍＆【スノードーム】が追加ドロップ",
     "flavor_text_en": "・Festivals! On Holiday Night, the amount of increase when HP is increased is 4 times, the amount of increase when other ability values are increased is 3 times, the amount of increase when the rank is raised is 2 times, and [Snow Globe] is an additional drop",
@@ -12654,6 +12668,48 @@
     "name_en_src": "ml",
     "prefix": "[期間限定]",
     "priority": 3135
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 728,
+    "flavor_text": "・新春ドタバタ！ペット大騒動でHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍＆【うさぎのだるま】が追加ドロップ<br>・メインでHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍",
+    "flavor_text_en": "・New Year's slapstick! Due to the pet uproar, the amount of increase when HP is raised is 4 times & the amount of increase when other ability values are raised is 3 times & the amount of increase when the skill level is raised is 2 times & [Rabbit Daruma] is an additional drop <br>· The amount of increase when HP is raised is 4 times & the amount of increase when other ability values are raised is 3 times & the amount raised when the skill level is raised is 2 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1078,
+    "name": "新春ドタバタ！ペット大騒動・Romancing祭",
+    "name_en": "New Year's slapstick! Pet Uproar Romancing Festival",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3170
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 729,
+    "flavor_text": "・新春ドタバタ！ペット大騒動で能力値アップ時の上昇量が3倍＆【うさぎのだるま】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・New Year's slapstick! The amount of increase when the ability value is increased by 3 times due to the big pet uproar & [Rabbit Daruma] is an additional drop, <br>and the amount of increase when the ability value is increased is 3 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1079,
+    "name": "新春ドタバタ！ペット大騒動",
+    "name_en": "New Year's slapstick! Pet uproar",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3165
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 730,
+    "flavor_text": "・新春ドタバタ！ペット大騒動で能力値アップ時の上昇量が3倍＆【うさぎのだるま】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・New Year's slapstick! The amount of increase when the ability value is increased by 3 times due to the big pet uproar & [Rabbit Daruma] is an additional drop, <br>and the amount of increase when the ability value is increased is 3 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1080,
+    "name": "新春ドタバタ！ペット大騒動・銃・突",
+    "name_en": "New Year's slapstick! Pet uproar, gun, collision",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3160
   },
   {
     "applies_to_all_styles": 0,
@@ -12780,5 +12836,33 @@
     "name_en_src": "ml",
     "prefix": "[期間限定]",
     "priority": 3147
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 752,
+    "flavor_text": "・新春ドタバタ！ペット大騒動でHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍＆【うさぎのだるま】が追加ドロップ<br>・メインでHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍",
+    "flavor_text_en": "・New Year's slapstick! Due to the pet uproar, the amount of increase when HP is raised is 4 times & the amount of increase when other ability values are raised is 3 times & the amount of increase when the skill level is raised is 2 times & [Rabbit Daruma] is an additional drop <br>· The amount of increase when HP is raised is 4 times & the amount of increase when other ability values are raised is 3 times & the amount raised when the skill level is raised is 2 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1102,
+    "name": "新春ドタバタ！ペット大騒動・UDX",
+    "name_en": "New Year's slapstick! Pet Uproar UDX",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3167
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 753,
+    "flavor_text": "・新春ドタバタ！ペット大騒動でHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍＆【うさぎのだるま】が追加ドロップ<br>・メインでHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍",
+    "flavor_text_en": "・New Year's slapstick! Due to the pet uproar, the amount of increase when HP is raised is 4 times & the amount of increase when other ability values are raised is 3 times & the amount of increase when the skill level is raised is 2 times & [Rabbit Daruma] is an additional drop <br>· The amount of increase when HP is raised is 4 times & the amount of increase when other ability values are raised is 3 times & the amount raised when the skill level is raised is 2 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1103,
+    "name": "新春ドタバタ！ペット大騒動・サガ魂",
+    "name_en": "New Year's slapstick! Pet feud saga soul",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3166
   }
 ]

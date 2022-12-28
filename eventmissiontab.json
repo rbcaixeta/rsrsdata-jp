@@ -2464,8 +2464,8 @@
     "id": 255,
     "is_pierceily": 0,
     "name": "迎春！ニューイヤーBOX",
-    "name_en": "Welcome spring! NEW YEAR BOX",
-    "name_en_src": "ml",
+    "name_en": "Best Wishes! New Year's BOX",
+    "name_en_src": "gl",
     "priority": 12175,
     "start_at": 1640961000
   },
@@ -2844,8 +2844,8 @@
     "id": 293,
     "is_pierceily": 0,
     "name": "ヒーロー見参！ブラッククロス一網打尽",
-    "name_en": "Hero Kenzan! BLACK CROSS",
-    "name_en_src": "ml",
+    "name_en": "Heroes Arrive! Black X Round-Up",
+    "name_en_src": "gl",
     "priority": 12350,
     "start_at": 1649394000
   },
@@ -3580,6 +3580,16 @@
     "start_at": 1671091200
   },
   {
+    "end_at": 1673290799,
+    "id": 369,
+    "is_pierceily": 1,
+    "name": "祝！2023年！うさぎ年祝賀祭デイリーミッション",
+    "name_en": "Congrats! 2023! Rabbit New Year Festival Daily Missions",
+    "name_en_src": "ml",
+    "priority": 12675,
+    "start_at": 1672513200
+  },
+  {
     "end_at": 1672513199,
     "id": 370,
     "is_pierceily": 0,
@@ -3588,5 +3598,15 @@
     "name_en_src": "ml",
     "priority": 12665,
     "start_at": 1671678000
+  },
+  {
+    "end_at": 1673463599,
+    "id": 371,
+    "is_pierceily": 0,
+    "name": "新春ドタバタ！ペット大騒動",
+    "name_en": "New Year's slapstick! Pet uproar",
+    "name_en_src": "ml",
+    "priority": 12670,
+    "start_at": 1672497000
   }
 ]

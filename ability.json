@@ -13283,6 +13283,146 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br><br>[ターン開始時]<br>味方生存者全体に「攻撃強化」を付与する( 確率大/効果特大/効果1ターン )<br>味方生存者全体に「防御強化」を付与する( 確率大/効果大/効果1ターン )<br>味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 確率大/効果小 )",
+    "flavor_text_en": "Attack damage increases (high effect) <br><br>[at start of turn] Grant <br>“attack enhancement” to all allied survivors (high probability/extra effect/effect 1 turn) Grant <br>“defense enhancement” to all allied survivors (high <br>probability/high effect/effect 1 turn) Increase strength, physical strength, dexterity, quickness, intellect, mentality, mentality, love, and appeal of all allied survivors (high probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101574,
+    "name": "マジカルディーラー",
+    "name_en": "Magical Dealers",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802041613,
+      802041667,
+      802041614
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、味方生存者全体に「攻撃強化」を付与する( 確率大/効果特大/効果1ターン )",
+    "flavor_text_en": "At the beginning of the turn, grant “Attack Boost” to all allied survivors (high probability/extra effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101575,
+    "name": "ターン開始時 攻撃強化",
+    "name_en": "Attack enhancement at the beginning of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041616
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 確率大/効果小 )",
+    "flavor_text_en": "At the beginning of the turn, increase the strength, physical strength, dexterity, quickness, intelligence, mentality, love, and appeal of all allied survivors (high probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101576,
+    "name": "ターン開始時 全能力アップ(小)",
+    "name_en": "Increases all abilities at the beginning of a turn (small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011670,
+      802011671,
+      802011672,
+      802011673,
+      802011674,
+      802011675,
+      802011676,
+      802011677
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "銃装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+    "flavor_text_en": "When armed with a gun, damage from attacks increases (extra effective) <br>When receiving a Resist attack, reducing damage taken (maximum effect) When receiving a <br>Resist attack that reduces damage taken (maximum effect), enemy attacks are evaded (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101578,
+    "name": "銃の天稟Ⅳ",
+    "name_en": "Gunn no Tenran IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040955,
+      802041212,
+      802041181
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、自身のHPを回復する( 効果極小 )<br><br>単体攻撃(※)を命中させた時、<br>「アンプールノワール」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "When an attack is hit, restore one<br><br><br><br><br>'s own HP (minimal effect) When you hit a standalone attack (*), “Ampour Noir” is activated (high probability) (activated by Jutsu Rank 1) * “techniques and techniques activated by this ability effect”, “counterattack techniques and techniques handed down in the R Cup” and “techniques handed down in the R Cup” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101579,
+    "name": "アンコールノワール",
+    "name_en": "Angkor noir",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041252,
+      802041627
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、味方生存者全体に「防御態勢(技/中)」を付与する( 効果1ターン )<br><br>防御態勢(技/中)<br>技による攻撃を受けた時、被ダメージを軽減する( 効果中 )",
+    "flavor_text_en": "At the start of the turn, imparts a “defensive posture (move/medium)” to all allied survivors (effect 1 turn) <br><br><br>When attacked by a defensive posture (move/medium), damage taken is reduced (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101580,
+    "name": "護身口伝",
+    "name_en": "Self-Defense Talks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041626
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "単体攻撃を命中させた時、<br>「アンプールノワール」が発動する( 確率特大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "When a single attack is hit, <br>“Ampour Noir” is activated (high probability) <br>(activated by Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101581,
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking alone",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041617,
+      802041618,
+      802041619,
+      802041620,
+      802041621,
+      802041622,
+      802041623,
+      802041624,
+      802041625
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "攻撃命中時<br>対象の器用さを低下( 効果小 )させ、さらに、自身のBPを回復( +1 )する",
     "flavor_text_en": "When an attack is hit, the <br>target's dexterity is reduced (less effective), and also recovers (+1) one's own BP",
@@ -13337,6 +13477,63 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +2 )<br>バトル開始から数えて奇数ターン目の開始時、味方生存者全体に「攻撃強化」を付与する( 効果中/効果1ターン )<br>バトル開始から数えて偶数ターン目の開始時、味方生存者全体に「防御強化」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "When the battle starts, recover your own BP (+2) <br>count from the start of the battle and at the start of the odd turn, grant “Attack Enhancement” to all allied survivors (in effect/1 turn of effect) <br>When counting from the start of the battle and count from the start of the even-numbered turn, grant “Defense Enhancement” to all allied survivors (in effect/1 turn of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101588,
+    "name": "奇偶鼓舞Ⅱ",
+    "name_en": "Encouragement of Parity II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040322,
+      802041636,
+      802041637
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率大 )<br>味方生存者全体のHPを回復( 効果極小 )させ、かつ、味方生存者全体の状態異常をすべて解除する",
+    "flavor_text_en": "[At end of turn] There is <br>a certain chance (high probability) <br>to restore the HP of all allied survivors (minimal effect), and remove all state abnormalities for all allied survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101589,
+    "name": "安らぎの波動",
+    "name_en": "The vibrations of peace",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010778,
+      802040072
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br><br>[ターン開始時]<br>敵全体に「モラルダウン(中)」を付与する( 確率大/効果2ターン )<br>敵全体に「ガードダウン(中)」を付与する( 確率大/効果2ターン )<br>敵全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Attack damage increases (high effect) <br><br>[at start of turn] Gives <br>“Moral Down (medium)” to all enemies (high probability/effect 2 turns) Gives <br>“Guard Down (medium)” to all enemies (high probability/effect 2 turns) <br>Reduces the strength, physical strength, dexterity, quickness, intelligence, mentality, love, and attractiveness of all enemies (high probability/effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101590,
+    "name": "マッドなひらめき",
+    "name_en": "Mad inspiration",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802041642,
+      802041643,
+      802041644
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "回復行動時、自身に「ヒートアップ」を付与する( 効果特大 )",
     "flavor_text_en": "Give yourself a “heat up” during recovery action (extremely effective)",
@@ -13351,6 +13548,40 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041562
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、味方生存者全体に「攻撃強化」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "When the odd turn starts counting from the start of the battle, grant “Attack Enhancement” to all allied survivors (in effect/1 turn of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101592,
+    "name": "奇数ターン開始時 攻撃強化",
+    "name_en": "Attack enhancement at the beginning of an odd turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041639
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、味方生存者全体に「防御強化」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "When the even-numbered turn starts, count from the start of the battle, grant “Defense Enhancement” to all allied survivors (in effect/1 turn of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101593,
+    "name": "偶数ターン開始時 防御強化",
+    "name_en": "Defense enhancement at the start of an even-numbered turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041640
     ]
   },
   {
@@ -13372,6 +13603,153 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、敵全体に「モラルダウン(中)」を付与する( 確率大/効果2ターン )",
+    "flavor_text_en": "At the beginning of the turn, grant “Moral Down (Medium)” to all enemies (high probability/2 turns of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101595,
+    "name": "ターン開始時 モラルダウン(中)",
+    "name_en": "Morale down at start of turn (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041645
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、敵全体に「ガードダウン(中)」を付与する( 確率大/効果2ターン )",
+    "flavor_text_en": "At the beginning of the turn, grant “Guard Down (Medium)” to all enemies (high probability/2 turns of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101596,
+    "name": "ターン開始時 ガードダウン(中)",
+    "name_en": "Guard down at start of turn (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041646
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、敵全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Decreases the strength, physical strength, dexterity, quickness, intelligence, mentality, love, and appeal of all enemies at the start of the turn (high probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101597,
+    "name": "ターン開始時 全能力ダウン(大)",
+    "name_en": "Lowers all abilities at the start of a turn (large)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011679,
+      802011680,
+      802011681,
+      802010537,
+      802011683,
+      802010708,
+      802011685,
+      802011686
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン終了時]<br>自身のHPを回復する( 効果極小 )<br>自身のBPを回復する( +2 )<br><br>「ディスコホールパラダイス」を命中させた時、<br>自身のBPを回復する( 確率特大/+5 )",
+    "flavor_text_en": "[At end of turn] <br>Recover your own HP (minimal effect) <br>Recover your own BP (+2) Recover your own BP <br><br>when you hit “Disco Hall Paradise”, <br>recover your own BP (extra probability/+5)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101598,
+    "name": "ジーニアスバニー",
+    "name_en": "Genius bunny",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041224,
+      802041315,
+      802041648
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "「ディスコホールパラダイス」を命中させた時、<br>自身のBPを回復する( 確率特大/+5 )",
+    "flavor_text_en": "<br>Recover your own BP when you hit “Disco Hall Paradise” (extra probability/+5)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101599,
+    "name": "ディスコホールパラダイス攻撃時 BP回復",
+    "name_en": "BP recovery when attacking Disco Hall Paradise",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041649
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン終了時、自身のBPを回復( +4 )する( 上限回数:バトル中3回 )<br>攻撃対象を倒した時、自身のBPを回復する( 倒した数によらず回復量は+4 )<br>ただしバトル開始時、自身を眠り状態にする( 効果4ターン )",
+    "flavor_text_en": "At the end of the turn, recover (+4) your own BP (maximum number of times: 3 times during battle) <br>When you defeat an attack target, recover your own BP (the amount of recovery is +4 regardless of the number you <br>kill), but when the battle starts, you put yourself to sleep (effect 4 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101600,
+    "name": "眠れる恐獣",
+    "name_en": "Sleeping fearsome beast",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802031650,
+      802041651,
+      802041653
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃対象を倒した時、自身のBPを回復する( 倒した数によらず回復量は+4 )",
+    "flavor_text_en": "When an attack target is defeated, your own BP is restored (the amount of recovery is +4 regardless of the number killed)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101601,
+    "name": "撃破時 BP回復",
+    "name_en": "BP recovery when destroyed",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040900
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、自身のBPを回復( +4 )する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "Recover (+4) your own BP at the end of the turn (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101602,
+    "name": "ターン終了時 BP回復",
+    "name_en": "BP recovery at end of turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041263
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "小剣装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
     "flavor_text_en": "When equipped with a stiletto, damage from <br>attacks increases (maximum effect) Reduces damage taken when attacked (extra effective)",
@@ -13387,6 +13765,23 @@
     "special_effect_ids": [
       802041211,
       802040448
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、味方生存者全体に「防御強化」を付与する( 確率大/効果大/効果1ターン )",
+    "flavor_text_en": "At the beginning of the turn, grant “Defense Boost” to all allied survivors (high probability/high effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101612,
+    "name": "ターン開始時 防御強化",
+    "name_en": "Defense enhancement at the beginning of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041713
     ]
   },
   {
@@ -20909,7 +21304,7 @@
   {
     "ability_when": 6,
     "flavor_text": "攻撃時、「ステスロス」が発動する( 上限回数:ラウンド中1回 )<br><br>ステスロス<br>剣技/攻撃/威力C/間接/敵全体 ( 打+熱 )<br>全体攻撃する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "When landing an attack, Talon will be activated (Max times: 1 time per round).<br><br>Talon<br>Sword skill/Attack/Power: C/Indirect/All Foes (Blunt+Heat)<br>All range attack.<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "When attacking, Talon will be activated (Max times: 1 time per round).<br><br>Talon<br>Sword skill/Attack/Power: C/Indirect/All Foes (Blunt+Heat)<br>All range attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702600778,
@@ -44655,6 +45050,23 @@
       808010555,
       808010556,
       808010558
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身の腕力、素早さの能力ダウン状態を解除する",
+    "flavor_text_en": "[At end of turn] <br>Unlock a state where your strength and agility abilities have been reduced",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400257,
+    "name": "ウィークリセット(腕力・素早さ)",
+    "name_en": "Weekly reset (strength, quickness)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040557
     ]
   },
   {

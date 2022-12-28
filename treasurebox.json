@@ -370,8 +370,8 @@
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2022/2/15 4:00まで）",
-    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2022/2/15 4:00)",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 02/27/2023 16:59 PST)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       21008000
     ],
@@ -380,15 +380,15 @@
     "id": 900026,
     "max_quantity": 9999,
     "name": "寅のおみくじ箱[期間限定]",
-    "name_en": "Tiger's Omikuji Box [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Tiger Fortune Slip Box [Ltd. Time]",
+    "name_en_src": "gl",
     "rarity": 3,
     "sort_order": 22010130
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2022/2/15 4:00まで）",
-    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2022/2/15 4:00)",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 02/27/2023 16:59 PST)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       21008001,
       21008002,
@@ -406,15 +406,15 @@
     "id": 900027,
     "max_quantity": 9999,
     "name": "寅おみくじ（大吉）[期間限定]",
-    "name_en": "Tiger Omikuji (Daikichi) [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Tiger Fortune Slip (Great Luck) [Ltd. Time]",
+    "name_en_src": "gl",
     "rarity": 5,
     "sort_order": 22010125
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2022/2/15 4:00まで）",
-    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2022/2/15 4:00)",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 02/27/2023 16:59 PST)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       21008011,
       21008012,
@@ -432,15 +432,15 @@
     "id": 900028,
     "max_quantity": 9999,
     "name": "寅おみくじ（中吉）[期間限定]",
-    "name_en": "Tiger Omikuji (Nakayoshi) [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Tiger Fortune Slip (Fair Luck) [Ltd. Time]",
+    "name_en_src": "gl",
     "rarity": 4,
     "sort_order": 22010120
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2022/2/15 4:00まで）",
-    "description_en": "Can be opened from Items > Treasure Chest When you open it, an item from the reward list will appear. (until 2022/2/15 4:00)",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 02/27/2023 16:59 PST)",
+    "description_en_src": "gl",
     "drop_group_ids": [
       21008021,
       21008022,
@@ -458,8 +458,8 @@
     "id": 900029,
     "max_quantity": 9999,
     "name": "寅おみくじ（小吉）[期間限定]",
-    "name_en": "Tiger Omikuji (Shokichi) [Limited Time]",
-    "name_en_src": "ml",
+    "name_en": "Tiger Fortune Slip (Small Luck) [Ltd. Time]",
+    "name_en_src": "gl",
     "rarity": 3,
     "sort_order": 22010115
   },
@@ -764,5 +764,103 @@
     "name_en_src": "ml",
     "rarity": 5,
     "sort_order": 49999000
+  },
+  {
+    "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2023/2/13 4:00まで）",
+    "description_en": "Can be opened from Item > Treasure Chest. Once opened, items on the rewards list will appear. (Until 2023/2/13 4:00)",
+    "description_en_src": "ml",
+    "drop_group_ids": [
+      210001749,
+      210001750,
+      210001751,
+      210001752,
+      210001753,
+      210001754,
+      210001755,
+      210001756,
+      210001757,
+      210001758,
+      210001759
+    ],
+    "expired_at": 1676228399,
+    "icon": 900017,
+    "id": 900050,
+    "max_quantity": 9999,
+    "name": "卯おみくじ（大吉）[期間限定]",
+    "name_en": "Uomikuji (Daikichi) [Limited time offer]",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "sort_order": 23010115
+  },
+  {
+    "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2023/2/13 4:00まで）",
+    "description_en": "Can be opened from Item > Treasure Chest. Once opened, items on the rewards list will appear. (Until 2023/2/13 4:00)",
+    "description_en_src": "ml",
+    "drop_group_ids": [
+      210001749,
+      210001760,
+      210001761,
+      210001762,
+      210001763,
+      210001764,
+      210001765,
+      210001766,
+      210001767,
+      210001768,
+      210001769
+    ],
+    "expired_at": 1676228399,
+    "icon": 900018,
+    "id": 900051,
+    "max_quantity": 9999,
+    "name": "卯おみくじ（中吉）[期間限定]",
+    "name_en": "Uomikuji (Nakayoshi) [Limited time offer]",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "sort_order": 23010110
+  },
+  {
+    "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2023/2/13 4:00まで）",
+    "description_en": "Can be opened from Item > Treasure Chest. Once opened, items on the rewards list will appear. (Until 2023/2/13 4:00)",
+    "description_en_src": "ml",
+    "drop_group_ids": [
+      210001749,
+      210001770,
+      210001771,
+      210001772,
+      210001773,
+      210001774,
+      210001775,
+      210001776,
+      210001777,
+      210001778,
+      210001779
+    ],
+    "expired_at": 1676228399,
+    "icon": 900019,
+    "id": 900052,
+    "max_quantity": 9999,
+    "name": "卯おみくじ（小吉）[期間限定]",
+    "name_en": "Uomikuji (Kokichi) [Limited time offer]",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "sort_order": 23010105
+  },
+  {
+    "description": "アイテム > 宝箱 から開封可能。開封すると報酬一覧のアイテムが出現します。（2023/2/13 4:00まで）",
+    "description_en": "Can be opened from Item > Treasure Chest. Once opened, items on the rewards list will appear. (Until 2023/2/13 4:00)",
+    "description_en_src": "ml",
+    "drop_group_ids": [
+      210001780
+    ],
+    "expired_at": 1676228399,
+    "icon": 900044,
+    "id": 900053,
+    "max_quantity": 9999,
+    "name": "卯のおみくじ箱[期間限定]",
+    "name_en": "Rabbit fortune box [limited time offer]",
+    "name_en_src": "ml",
+    "rarity": 3,
+    "sort_order": 23010120
   }
 ]

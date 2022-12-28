@@ -1,5 +1,47 @@
 [
   {
+    "area_id": 1597,
+    "banner": 930194,
+    "battle_id": 300002011,
+    "clear_limit": 0,
+    "drop_group_ids": [
+      210001748
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 3915970,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "name": "開運！おみくじクエスト2023",
+    "name_en": "good luck! Omikuji Quest 2023",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "rewards": [
+    ],
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 900053,
+        "type": 28
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
     "area_id": 1584,
     "banner": 901209,
     "battle_id": 200068011,
