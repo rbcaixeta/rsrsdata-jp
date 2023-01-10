@@ -20907,6 +20907,22 @@
   {
     "enemy_class": 99,
     "gender": 9,
+    "id": 199396,
+    "illust": 1993961,
+    "name": "アディリスヘッド",
+    "name_en": "ADILIS HEAD",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      5
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
     "id": 199397,
     "illust": 1993971,
     "name": "ジュエルビースト",
@@ -20968,6 +20984,70 @@
     "species": [
       2,
       96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199401,
+    "illust": 1994011,
+    "name": "フレイムタイラント",
+    "name_en": "Flame Tyrant",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      82
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199402,
+    "illust": 1994021,
+    "name": "タイニィフェザー",
+    "name_en": "tiny feather",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      82
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199403,
+    "illust": 1994031,
+    "name": "水竜",
+    "name_en": "Water dragon",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      5
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199404,
+    "illust": 1994041,
+    "name": "アディリス",
+    "name_en": "Adiris",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      5
     ],
     "sprite_studio": 1
   },

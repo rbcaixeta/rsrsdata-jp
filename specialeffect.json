@@ -5231,6 +5231,29 @@
     ],
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011428,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "腕力 素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "器用さが上昇する",
     "flavor_text_en": "Dexterity increases",
     "flavor_text_en_src": "ml",
@@ -13802,7 +13825,7 @@
     ],
     "target_area": 1,
     "text_color": "FFFFFF",
-    "text_pop": "防御態勢",
+    "text_pop": "防御態勢(術)",
     "triggering_effect_condition_ids": [
       45001
     ]
@@ -13827,7 +13850,7 @@
     ],
     "target_area": 3,
     "text_color": "FFFFFF",
-    "text_pop": "防御態勢",
+    "text_pop": "防御態勢(術)",
     "triggering_effect_condition_ids": [
       45001
     ]
@@ -15396,7 +15419,7 @@
     ],
     "target_area": 8,
     "text_color": "FFFFFF",
-    "text_pop": "防御態勢",
+    "text_pop": "防御態勢(術)",
     "triggering_effect_condition_ids": [
       45001
     ]
@@ -16461,7 +16484,7 @@
     ],
     "target_area": 3,
     "text_color": "FFFFFF",
-    "text_pop": "防御態勢",
+    "text_pop": "防御態勢(技)",
     "triggering_effect_condition_ids": [
       47001
     ]
@@ -17214,7 +17237,7 @@
     ],
     "target_area": 3,
     "text_color": "FFFFFF",
-    "text_pop": "防御態勢",
+    "text_pop": "防御態勢(術)",
     "triggering_effect_condition_ids": [
       45001
     ]
@@ -17994,7 +18017,7 @@
     ],
     "target_area": 3,
     "text_color": "FFFFFF",
-    "text_pop": "防御態勢",
+    "text_pop": "防御態勢(間接)",
     "triggering_effect_condition_ids": [
       49001
     ]
@@ -18194,6 +18217,52 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased",
+    "flavor_text_en_src": "ml",
+    "id": 801041425,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Increased damage",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Plane",
+    "flavor_text": "自身の狙われやすさが低下する",
+    "flavor_text_en": "Your own ease of being targeted decreases",
+    "flavor_text_en_src": "ml",
+    "id": 801041426,
+    "ignition_effect_id": "",
+    "name": "ステルス(中)",
+    "name_en": "stealth (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040047,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 12,
+    "text_color": "FFFFFF",
+    "text_pop": "ステルス",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "BPが回復する",
     "flavor_text_en": "BP recovers",
@@ -18212,6 +18281,31 @@
     "text_color": "5BFF24",
     "text_pop": "BP+",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage received from enemies is reduced (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041445,
+    "ignition_effect_id": "",
+    "name": "ガードアップ(中)",
+    "name_en": "guard up (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040076,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {
@@ -43264,7 +43358,7 @@
     ],
     "target_area": 3,
     "text_color": "FFFFFF",
-    "text_pop": "防御態勢",
+    "text_pop": "防御態勢(術)",
     "triggering_effect_condition_ids": [
       45001
     ]
@@ -45628,7 +45722,7 @@
     ],
     "target_area": 3,
     "text_color": "FFFFFF",
-    "text_pop": "エレメントガード",
+    "text_pop": "エレメントガード(陰)",
     "triggering_effect_condition_ids": [
       23008
     ]
@@ -49145,7 +49239,7 @@
     ],
     "target_area": 3,
     "text_color": "FFFFFF",
-    "text_pop": "防御態勢",
+    "text_pop": "防御態勢(技)",
     "triggering_effect_condition_ids": [
       47001
     ]
@@ -49608,6 +49702,155 @@
   },
   {
     "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技・術3を命中させた時、スプラッシュビートが発動する",
+    "flavor_text_en": "Splash Beat is activated when you hit Technik/Jutsu 3",
+    "flavor_text_en_src": "ml",
+    "id": 802041659,
+    "ignition_effect_id": "",
+    "name": "技・術3攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking with 3 techniques and techniques",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500387
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "大湖の主",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "打属性を含む攻撃を受けた時、敵から受ける被ダメージが低下する(重複不可)",
+    "flavor_text_en": "When receiving an attack that includes hitting attributes, damage received from the enemy decreases (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041660,
+    "ignition_effect_id": "",
+    "name": "エレメントガード(打/中)",
+    "name_en": "Element guard (hit/middle)",
+    "name_en_src": "ml",
+    "state_change_id": 900040205,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "エレメントガード(打)",
+    "triggering_effect_condition_ids": [
+      23002
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃に対して、サーペントバイトでカウンター攻撃を行う<br>さらに被ダメージが低下する",
+    "flavor_text_en": "In response to an enemy's direct attack, perform a counter attack with a serpent bite, and <br>damage taken is further reduced",
+    "flavor_text_en_src": "ml",
+    "id": 802041661,
+    "ignition_effect_id": "",
+    "name": "大地の誠",
+    "name_en": "Daichi no Makoto",
+    "name_en_src": "ml",
+    "state_change_id": 900040035,
+    "state_icon": 3001,
+    "state_vars": [
+      110500397,
+      65
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃を回避して、レバーペッカーでカウンター攻撃を行う( 確率特大 )",
+    "flavor_text_en": "Avoid direct enemy attacks and perform counter attacks with leverpeckers (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802041662,
+    "ignition_effect_id": "",
+    "name": "翼の栄皇",
+    "name_en": "Emperor of Tsubasa",
+    "name_en_src": "ml",
+    "state_change_id": 900040036,
+    "state_icon": 3001,
+    "state_vars": [
+      110500153
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ディフェンスアップ」を付与する( 効果大 )",
+    "flavor_text_en": "When the even-numbered turn starts, count from the start of the battle, grant yourself a “defense up” (very effective)",
+    "flavor_text_en_src": "ml",
+    "id": 802041663,
+    "ignition_effect_id": "",
+    "name": "偶数ターン開始時 ディフェンスアップ",
+    "name_en": "Defense increases at the start of an even-numbered turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101609
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "Recover your own HP at the beginning of a turn (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041664,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 HP回復(極小)",
+    "name_en": "HP recovery at the start of a turn (minimal)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101610
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
@@ -49623,6 +49866,54 @@
     "state_icon": 3003,
     "state_vars": [
       702101612
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "「ハイドラキャノン」を命中させた時、「スプラッシュビート」が発動する",
+    "flavor_text_en": "When “Hydra Cannon” is hit, “Splash Beat” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041687,
+    "ignition_effect_id": "",
+    "name": "ハイドラキャノン攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking Hydra Cannon",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101614
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の体力を上昇させる( 効果大 )",
+    "flavor_text_en": "Count from the start of the battle and increase your own physical strength at the beginning of the odd-numbered turn (very effective)",
+    "flavor_text_en_src": "ml",
+    "id": 802041696,
+    "ignition_effect_id": "",
+    "name": "奇数ターン開始時 体力アップ",
+    "name_en": "Increased health at the beginning of an odd turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101621
     ],
     "target_area": 1,
     "text_color": "",
@@ -49653,6 +49944,30 @@
     "text_pop": "防御↑",
     "triggering_effect_condition_ids": [
       14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、味方生存者全体に「エレメントガード(打/中)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the beginning of the turn, grant “Element Guard (Hit/Medium)” to all allied survivors (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802041714,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 エレメントガード(打/中)",
+    "name_en": "Element guard at start of turn (hit/middle)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101606
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -69826,6 +70141,29 @@
   {
     "applying_effect_condition_ids": [
     ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 809010635,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "素早さが上昇する",
@@ -74830,6 +75168,29 @@
     "target_area": 3,
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 809040602,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "腕力 素早さ↑",
     "triggering_effect_condition_ids": [
     ]
   },

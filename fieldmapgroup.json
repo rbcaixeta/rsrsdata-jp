@@ -435,5 +435,25 @@
     "start_at": 1663293600,
     "start_node_id": 0,
     "opening_scenario_id": 0
+  },
+  {
+    "id": 10127,
+    "area_id": 2022,
+    "field_map_mode": 2,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5000
+      }
+    ],
+    "lock_text": "",
+    "prev_quest_ids": [],
+    "frontier_drop_group_ids": [
+      104342
+    ],
+    "start_at": 1673406000,
+    "start_node_id": 0,
+    "opening_scenario_id": 0
   }
 ]

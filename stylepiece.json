@@ -2101,6 +2101,30 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[四元素魔獣図屏風水扇]水竜専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Four Elemental Demon Beast Figure Folding Water Fan] Water Dragon exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 216102,
+    "id": 216102,
+    "name": "SS水竜のピース",
+    "name_en": "SS Water Dragon Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[四元素魔獣図屏風土扇]アディリス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Four Elements Demon Beast Picture Bifu Tsufan] Adilis exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 216202,
+    "id": 216202,
+    "name": "SSアディリスのピース",
+    "name_en": "SS Adilis Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[小さな羽根]タイニィフェザー専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Tiny Feather] Avi.",
     "flavor_text_en_src": "gl",
@@ -2113,6 +2137,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[四元素魔獣図屏風風扇]タイニィフェザー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Four Element Demon Beast Figure Folding Fan] Tiny Feather exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 216302,
+    "id": 216302,
+    "name": "SSタイニィフェザーのピース",
+    "name_en": "SS Tiny Feather Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[炎の暴君]フレイムタイラント専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Flame Tyrant] Pyrix.",
     "flavor_text_en_src": "gl",
@@ -2121,6 +2157,18 @@
     "name": "SSフレイムタイラントのピース",
     "name_en": "SS Pyrix Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[四元素魔獣図屏風火扇]フレイムタイラント専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Four Element Demon Beast Picture Folding Fire Fan] Flame Tyrant exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 216402,
+    "id": 216402,
+    "name": "SSフレイムタイラントのピース",
+    "name_en": "SS Flame Tyrant Piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

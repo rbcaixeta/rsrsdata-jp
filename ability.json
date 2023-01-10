@@ -13751,6 +13751,129 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br><br>「ハイドラキャノン」を命中させた時、<br>「スプラッシュビート」が発動する<br><br>スプラッシュビート<br>体術技/攻撃/威力SS/直接/敵単体 ( 打+冷 )<br>攻撃する<br>自身に「ダメージブロック(1回)」を付与する( 効果ターン数制限なし )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "Attack damage increases (great effect) <br><br>When “Hydra Cannon” is <br><br><br><br>hit, “Splash Beat” is activated Splash Beat Taijutsu Technik/Attack/Power SS/Direct/Enemy Single (Hit+Cold) <br>Attack by attacking <br>self (no limit on the number of effect turns) (no limit on the number of effect turns) <br>(activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101604,
+    "name": "大湖の主",
+    "name_en": "Lord of the Great Lakes",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802041687
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、敵の攻撃を回避する( 確率中 )",
+    "flavor_text_en": "Attack damage increases (maximum effect) <br>When attacked, evade enemy attacks (probable)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101605,
+    "name": "幻影苛烈Ⅴ",
+    "name_en": "The Phantom Is Fierce V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802040311
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、味方生存者全体に「エレメントガード(打/中)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the beginning of the turn, grant “Element Guard (Hit/Medium)” to all allied survivors (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101606,
+    "name": "ターン開始時 エレメントガード(打/中)",
+    "name_en": "Element guard at start of turn (hit/middle)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041660
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時<br>直接攻撃を回避して、レバーペッカーでカウンター攻撃する( 確率特大 )<br><br>反撃技：レバーペッカー<br>体術技/攻撃/威力A/直接/敵全体 ( 打 ) <br>全体攻撃する<br>自身のHPを回復( 効果中 )し、かつ、自身のBPを回復( +3 )する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When attacked, <br>evade a direct attack and make a counter attack with a leverpecker (high probability) <br><br><br>Counterattack move: Leverpecker taijutsu tijutsu, <br>attack/power A/direct/all enemies <br>(hits), recover your own HP (in effect) and recover (+3) your own BP <br>(activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101607,
+    "name": "翼の栄皇",
+    "name_en": "Emperor of Tsubasa",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041662
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン開始時、自身のHPを回復する( 効果極小 )<br>バトル開始から数えて奇数ターン目の開始時、自身の体力を上昇させる( 効果大 )<br>バトル開始から数えて偶数ターン目の開始時、自身に「ディフェンスアップ」( 効果大 )を付与する( 上限回数:バトル中5回 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
+    "flavor_text_en": "At the start of the turn, recover your own HP (minimal effect) <br>When an odd turn starts counting from the start of the battle, increase your own physical strength (great effect) <br>count from the start of the battle and give yourself a “defensive up” (great effect) at the start of an even turn (maximum number of times: 5 times during battle) <br><br><br>Reduces damage taken by defensive ups (effect lasts forever during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101608,
+    "name": "大翼の護り",
+    "name_en": "Tsubasa's Protection",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041663,
+      802041664,
+      802041696
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ディフェンスアップ」( 効果大 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "When the even-numbered turn starts, count from the start of the battle, grant yourself a “defense up” (high effect) (maximum number of times: 5 times during the battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101609,
+    "name": "偶数ターン開始時 ディフェンスアップ",
+    "name_en": "Defense increases at the start of an even-numbered turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041559
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "Recover your own HP at the beginning of a turn (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101610,
+    "name": "ターン開始時 HP回復(極小)",
+    "name_en": "HP recovery at the start of a turn (minimal)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040901
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "小剣装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
     "flavor_text_en": "When equipped with a stiletto, damage from <br>attacks increases (maximum effect) Reduces damage taken when attacked (extra effective)",
     "flavor_text_en_src": "ml",
@@ -13782,6 +13905,95 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041713
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "「ハイドラキャノン」を命中させた時、<br>「スプラッシュビート」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When “Hydra Cannon” is hit, <br>“Splash Beat” is activated <br>(activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101614,
+    "name": "ハイドラキャノン攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking Hydra Cannon",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041659
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の体力を上昇させる( 効果大 )",
+    "flavor_text_en": "Count from the start of the battle and increase your own physical strength at the beginning of the odd-numbered turn (very effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101621,
+    "name": "奇数ターン開始時 体力アップ",
+    "name_en": "Increased health at the beginning of an odd turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011281
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果大 )<br>ターン終了時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Reduces damage taken when attacked (very effective) <br>Recovers own BP at the end of the turn (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101622,
+    "name": "ブロックフォースⅡ",
+    "name_en": "Block Force II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040361,
+      802041315
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン開始時、味方生存者全体に「エレメントガード(打/中)」を付与する( 効果1ターン )<br>攻撃を受けた時<br>直接攻撃に対して、被ダメージを軽減しサーペントバイトでカウンター攻撃する<br>( 技Rank1で発動 )<br><br>エレメントガード(打/中)<br>打属性の攻撃を受けた時、被ダメージを軽減する( 効果中 )",
+    "flavor_text_en": "At the start of the turn, grant “Element Guard (hit/center)” <br><br>to all allied survivors (effect 1 turn) When attacked, reduce damage taken and counterattack with a serpent bite <br>(activated by move Rank1) <br><br>Element Guard (hit/center) <br>Reduces damage taken when attacked by a hitting attribute (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101636,
+    "name": "大地の誠",
+    "name_en": "Daichi no Makoto",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041714,
+      802041661
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "熱属性攻撃の与ダメージが上昇する( 効果中 )<br>味方生存者全体の熱属性攻撃の与ダメージが上昇する( 効果中 )<br>かつ、バトル開始時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Damage dealt by thermal attacks is increased (in effect) <br>Thermal damage from all allied survivors is increased (in effect), and <br>when battle starts, one's own BP is restored (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101653,
+    "name": "炎の帝王",
+    "name_en": "Emperor of Fire",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040322,
+      802040913,
+      802040351
     ]
   },
   {

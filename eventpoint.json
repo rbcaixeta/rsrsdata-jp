@@ -3081,6 +3081,19 @@
     "sort_order": 22123155
   },
   {
+    "expired_at": 1676487599,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800239,
+    "id": 800239,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・95",
+    "name_en": "Romancing festival medal 95",
+    "name_en_src": "ml",
+    "sort_order": 23011160
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -9959,6 +9972,45 @@
   },
   {
     "expired_at": 0,
+    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Types/Great Sword] A material required to create specific refining equipment. You can get them at events.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100765,
+    "id": 1100765,
+    "max_quantity": 99999999,
+    "name": "黄褐の大剣の鋳型の破片",
+    "name_en": "Yellow-brown Sword Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22101245
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Types/Axes] Materials required to create specific refining equipment. You can get them at events.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100766,
+    "id": 1100766,
+    "max_quantity": 99999999,
+    "name": "黄褐の斧の鋳型の破片",
+    "name_en": "Tan Axe Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22101240
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Types/Sticks] Materials required to create specific refining equipment. You can get them at events.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100767,
+    "id": 1100767,
+    "max_quantity": 99999999,
+    "name": "黄褐の槌の鋳型の破片",
+    "name_en": "Tan Hammer Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22101235
+  },
+  {
+    "expired_at": 0,
     "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
     "flavor_text_en": "[Weapon Type/Taijutsu] Materials required to create specific refined equipment. You can get it at events, etc.",
     "flavor_text_en_src": "ml",
@@ -9982,6 +10034,32 @@
     "name_en": "Fragment of a tan gun mold",
     "name_en_src": "ml",
     "sort_order": 22101225
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Types/Shortswords] A material required to create specific refining equipment. You can get them at events.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100770,
+    "id": 1100770,
+    "max_quantity": 99999999,
+    "name": "黄褐の小剣の鋳型の破片",
+    "name_en": "Tan Stiletto Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22101220
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text_en": "[Weapon Types/Spears] Materials needed to create specific refining equipment. You can get them at events.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100771,
+    "id": 1100771,
+    "max_quantity": 99999999,
+    "name": "黄褐の槍の鋳型の破片",
+    "name_en": "Tan Spear Mold Fragment",
+    "name_en_src": "ml",
+    "sort_order": 22101215
   },
   {
     "expired_at": 0,
@@ -10307,5 +10385,44 @@
     "name_en": "snow globe",
     "name_en_src": "ml",
     "sort_order": 22122220
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100797,
+    "id": 1100797,
+    "max_quantity": 99999999,
+    "name": "寿の扇子",
+    "name_en": "Kotobuki fan",
+    "name_en_src": "ml",
+    "sort_order": 23011120
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100798,
+    "id": 1100798,
+    "max_quantity": 99999999,
+    "name": "やっこ凧",
+    "name_en": "Yakko kite",
+    "name_en_src": "ml",
+    "sort_order": 23011125
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100799,
+    "id": 1100799,
+    "max_quantity": 99999999,
+    "name": "祝い鯛",
+    "name_en": "Celebration sea bream",
+    "name_en_src": "ml",
+    "sort_order": 23011130
   }
 ]
