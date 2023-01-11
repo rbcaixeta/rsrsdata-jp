@@ -5235,7 +5235,7 @@
   {
     "ability_when": 6,
     "flavor_text": "単体攻撃(※)を発動後、「ウインドチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After activating a single-foe attack, Wind Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not considered single-foe attacks.",
+    "flavor_text_en": "After activating a single-foe attack*, Wind Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101068,
@@ -5262,7 +5262,7 @@
   {
     "ability_when": 6,
     "flavor_text": "単体攻撃(※)を発動後、「アイスチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After activating a single-foe attack, Ice Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not considered single-foe attacks.",
+    "flavor_text_en": "After activating a single-foe attack*, Ice Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101069,
@@ -6628,7 +6628,7 @@
   {
     "ability_when": 1,
     "flavor_text": "バトル開始時、自身のBPを回復する( +2 )<br>OD攻撃(※)を発動後、「雷殺斬+」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」は含まない<br><br>雷殺斬+<br>大剣/攻撃/威力SSS/直接/敵単体 ( 斬+雷 ) <br>攻撃する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "[Start of battle]<br>Recovers own BP (+2).<br><br>After activating an OD attack, Jolting Slash+ will be activated.<br>*Skills/Spells transmitted in Robin Cup and Skills/Spells activated by this Ability are not considered OD attacks.<br><br>Jolting Slash+<br>G. Sword skill/Attack/Power: SSS/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "[Start of battle]<br>Recovers own BP (+2).<br><br>After activating an OD attack*, Jolting Slash+ will be activated.<br>*Skills/Spells transmitted in Robin Cup and Skills/Spells activated by this Ability are not included.<br><br>Jolting Slash+<br>G. Sword skill/Attack/Power: SSS/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101149,
@@ -6870,7 +6870,7 @@
   {
     "ability_when": 1,
     "flavor_text": "バトル開始時、自身のBPを回復する( +3 )<br>OD攻撃(※)を発動後、「ビートウェイヴほう」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>ビートウェイヴほう<br>銃/攻撃/威力A/間接/敵全体 ( 打 ) <br>全体攻撃する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "[Start of battle]<br>Recovers own BP (+3).<br><br>After activating an OD attack, Beat Wave Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Beat Wave Cannon<br>Gun skill/Attack/Power: A/Indirect/All Foes (Blunt) <br>All range attack.<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "[Start of battle]<br>Recovers own BP (+3).<br><br>After activating an OD attack*, Beat Wave Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Beat Wave Cannon<br>Gun skill/Attack/Power: A/Indirect/All Foes (Blunt) <br>All range attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101163,
@@ -7011,7 +7011,7 @@
   {
     "ability_when": 6,
     "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「ブレイブソング」が発動する( 確率大 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>ブレイブソング<br>剣技/攻撃/威力A/間接/敵全体 ( 斬+熱 ) <br>全体攻撃する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "When landing an attack with an Attack type skill/spell, Brave Song will be activated (high chance).<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Brave Song<br>Sword skill/Attack/Power: A/Indirect/All Foes (Slash+Heat)<br>All range attack.<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Brave Song will be activated (high chance).<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Brave Song<br>Sword skill/Attack/Power: A/Indirect/All Foes (Slash+Heat)<br>All range attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101170,
@@ -7722,7 +7722,7 @@
   {
     "ability_when": 6,
     "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「クロービット強襲」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "Starting from the next turn after entering this stance, when landing an attack, Claw Bit Assault will be activated (Max times: 3).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup will not activate Claw Bit Assault.",
+    "flavor_text_en": "Starting from the next turn after entering this stance, after activating an attack*, Claw Bit Assault will be activated (Max times: 3).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101212,
@@ -7745,7 +7745,7 @@
   {
     "ability_when": 6,
     "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「エナジースティール+」が発動する( 確率特大 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>エナジースティール+<br>闇術/攻撃/威力B/間接/敵単体 ( 陰 ) <br>攻撃する<br>攻撃命中時、自身のHPを回復する( 効果小 )<br>( 術Rank1で発動 )",
-    "flavor_text_en": "When landing an attack with an Attack type skill/spell, Drain Energy+ will be activated (very high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
+    "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Drain Energy+ will be activated (very high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101213,
@@ -8029,7 +8029,7 @@
   {
     "ability_when": 1,
     "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「タイムのなかまたち」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>タイムのなかまたち<br>棍棒/攻撃/威力B/間接/敵全体 ( 打+斬 ) <br>全体攻撃する<br>味方生存者全体のHPを回復( 効果極小 )し、さらに、味方生存者全体のすべての状態異常耐性を上昇( 効果中 )させる<br>( 技Rank1で発動 )",
-    "flavor_text_en": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Thyme's Friends<br>Club skill/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (very small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack*, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Thyme's Friends<br>Club skill/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (very small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101229,
@@ -20797,7 +20797,7 @@
   {
     "ability_when": 6,
     "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「くいあらためよ」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「くいあらためよ」「R杯で伝承した技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "When landing an attack with an Attack type skill/spell, Repent! will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Repent!, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Repent! will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Repent!, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702600540,
@@ -20957,7 +20957,7 @@
   {
     "ability_when": 6,
     "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「青炎牙」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「青炎牙」「R杯で伝承した技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "When landing an attack with an Attack type skill/spell, Bluefire Fang will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Bluefire Fang, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Bluefire Fang will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Bluefire Fang, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702600622,
@@ -21432,7 +21432,7 @@
   {
     "ability_when": 6,
     "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「バスターランサー」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「バスターランサー」「R杯で伝承した技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "When landing an attack with an Attack type skill/spell, Lance Buster will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal attacks, Lance Buster, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Lance Buster will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal attacks, Lance Buster, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702600763,
@@ -21473,7 +21473,7 @@
   {
     "ability_when": 6,
     "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「てんばつ」が発動する( 確率大 )<br>この効果による「てんばつ」を命中させた時、さらに「ひかりあれ」が発動する( 確率大 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>てんばつ<br>体術技/攻撃/威力D/遠/間接/敵全体 ( 雷+陽 ) ※体術技特殊タイプ(知)<br>全体攻撃する( 技Rank1で発動 )<br><br>ひかりあれ<br>体術技/攻撃/威力B/遠/間接/敵全体 ( 雷+陽 ) ※体術技特殊タイプ(知)<br>全体攻撃する<br>攻撃命中時、対象を暗闇状態にする( 確率中/効果4ターン )<br>( 技Rank1で発動 )",
-    "flavor_text_en": "When landing an attack with an Attack type skill/spell, Holy Wrath will be activated (high chance).<br>When landing an attack with the activated Holy Wrath, Fiat Lux will be activated (high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Holy Wrath<br>M. Arts skill/Attack/Power: D/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack. (Activates using skill Rank 1)<br><br>Fiat Lux<br>M. Arts skill/Attack/Power: B/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts darkness on target (medium chance/4 turns(s)).<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Holy Wrath will be activated (high chance).<br>When landing an attack with the activated Holy Wrath, Fiat Lux will be activated (high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Holy Wrath<br>M. Arts skill/Attack/Power: D/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack. (Activates using skill Rank 1)<br><br>Fiat Lux<br>M. Arts skill/Attack/Power: B/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts darkness on target (medium chance/4 turns(s)).<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702600771,
@@ -21555,7 +21555,7 @@
   {
     "ability_when": 6,
     "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた後、自身のHPが満タンではない場合<br>「スライトハンド」が発動する<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>スライトハンド<br>体術技/攻撃/威力C/直接/敵単体 ( 打+陰 ) <br>攻撃する<br>攻撃命中時に確率で、対象の器用さを低下させる( 効果小 )<br>攻撃命中時、自身のHPを回復する( 効果極小 )<br>( 技Rank1で発動 )",
-    "flavor_text_en": "When landing an attack with an Attack type skill/spell, and when own HP is not full, Sleight of Hand will be activated.<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Sleight of Hand<br>M. Arts skill/Attack/Power: C/Direct/Single Foe (Blunt+Shadow)<br>Attack.<br>When the attack hits, there is a chance to reduce target's DEX (small effect).<br>When the attack hits, recovers own HP (very small effect).<br>(Activates using skill Rank 1).",
+    "flavor_text_en": "When landing an attack with an Attack type skill/spell*, and when own HP is not full, Sleight of Hand will be activated.<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Sleight of Hand<br>M. Arts skill/Attack/Power: C/Direct/Single Foe (Blunt+Shadow)<br>Attack.<br>When the attack hits, there is a chance to reduce target's DEX (small effect).<br>When the attack hits, recovers own HP (very small effect).<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702601012,
