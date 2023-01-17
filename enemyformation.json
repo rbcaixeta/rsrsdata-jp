@@ -4960,6 +4960,34 @@
     ]
   },
   {
+    "id": 109040053,
+    "name": "4体陣形_門＆中3体(二の門)",
+    "name_en": "4-body formation _ gate & 3 inside (second gate)",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 40,
+        "y": 18
+      },
+      {
+        "line": 0,
+        "x": 50,
+        "y": 3
+      },
+      {
+        "line": 0,
+        "x": 25,
+        "y": 35
+      },
+      {
+        "line": 0,
+        "x": 13,
+        "y": 11
+      }
+    ]
+  },
+  {
     "id": 109050001,
     "name": "5体陣形_1",
     "name_en": "5 Member Formation_1",
@@ -6870,6 +6898,72 @@
         "line": 0,
         "x": 13,
         "y": 25
+      }
+    ]
+  },
+  {
+    "id": 109050062,
+    "name": "5体陣形_門＆中4体(一の門)",
+    "name_en": "5-body formation _ gate & 4 inside (Ichinomon)",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 50,
+        "y": 10
+      },
+      {
+        "line": 0,
+        "x": 50,
+        "y": 30
+      },
+      {
+        "line": 0,
+        "x": 30,
+        "y": 23
+      },
+      {
+        "line": 0,
+        "x": 28,
+        "y": 40
+      },
+      {
+        "line": 0,
+        "x": 13,
+        "y": 11
+      }
+    ]
+  },
+  {
+    "id": 109050063,
+    "name": "5体陣形_門＆中4体(三の門)",
+    "name_en": "5-body formation _ gate & 4 inside (third gate)",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 50,
+        "y": 15
+      },
+      {
+        "line": 0,
+        "x": 49,
+        "y": 31
+      },
+      {
+        "line": 0,
+        "x": 40,
+        "y": 0
+      },
+      {
+        "line": 0,
+        "x": 24,
+        "y": 38
+      },
+      {
+        "line": 0,
+        "x": 13,
+        "y": 11
       }
     ]
   },

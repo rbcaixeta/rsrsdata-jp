@@ -48,6 +48,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[どの武器を装備する？]にんげんおとこ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Which weapons to equip?] A special piece for a man with green beans. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 110105,
+    "id": 110105,
+    "name": "SSにんげんおとこのピース",
+    "name_en": "SS Green Beans Man's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[どこまでも登れるわ]にんげんおんな専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Expert Climber] Human Female.",
@@ -3117,6 +3129,18 @@
     "name": "SSコウメイのピース",
     "name_en": "SS Kongming Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[常に大局を見よ！]コウメイ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Always look at the big picture!] An exclusive piece for Koumei. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 222482,
+    "id": 222482,
+    "name": "SSコウメイのピース",
+    "name_en": "SS Koumei Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -7981,6 +8005,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[おみくじに頼るのか？]零姫専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [do you rely on omikuji?] A piece exclusive to Reihime. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 313106,
+    "id": 313106,
+    "name": "SS零姫のピース",
+    "name_en": "SS Reihime Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[気高き金色の獅子]金獅子姫専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Noble Golden Lion] Princess Lion. ",
     "flavor_text_en_src": "gl",
@@ -10077,6 +10113,18 @@
     "name": "SSエリザベートのピース",
     "name_en": "SS Elisabeth Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[この遺跡の由来は]エリザベート専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [the origin of this site] is a piece dedicated to Elisabeth. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 611204,
+    "id": 611204,
+    "name": "SSエリザベートのピース",
+    "name_en": "SS Elisabeth Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

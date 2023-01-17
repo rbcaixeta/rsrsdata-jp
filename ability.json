@@ -13925,6 +13925,99 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "斬属性攻撃時、自身のBPを回復する( +2 )<br>打属性攻撃時、自身に「攻撃強化」( 効果中/効果2ターン )を付与し、さらに、自身の素早さを上昇( 効果中 )させる<br>突属性攻撃時、自身に「防御強化」( 効果中/効果2ターン )を付与し、さらに、自身の器用さを上昇( 効果中 )させる",
+    "flavor_text_en": "<br>During a slash attack, recover your own BP (+2) When attacking, give yourself an “Attack Boost” (in effect/2 turns of effect), and <br>when a Sudden Attack that increases one's own agility (in effect), grants a “Defense Boost” (in effect/2 turns of effect) to oneself, and further increases one's own dexterity (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101616,
+    "name": "ウェポンスイッチ",
+    "name_en": "weapon switch",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041689,
+      802041690,
+      802041691,
+      802011692,
+      802011693
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br>「バズーカアンドチェーンソー」を命中させた時、<br>「武装三段」が発動する<br><br>武装三段<br>銃技/攻撃/威力SS/直接/敵単体 ( 斬+突 )<br>攻撃する<br>自身に「防御強化」を付与する( 効果特大/効果1ターン )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "Attack damage increases (high effect) <br>When “Bazooka and Chainsaw” is hit, <br>“Armored Third Stage” is activated, <br><br>armed three-stage <br>gunning/attack/power SS/direct/single enemy (slash+impact) <br>attacking <br>itself (oversized effect/effect 1 turn) <br>(activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101617,
+    "name": "数多の武器の使い手",
+    "name_en": "A user of many weapons",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041694,
+      802040001
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "「バズーカアンドチェーンソー」を命中させた時、<br>「武装三段」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When “Bazooka and Chainsaw” is hit, <br>“Armored Third Stage” is activated <br>(activated by move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101618,
+    "name": "バズーカアンドチェーンソー攻撃時 追加攻撃",
+    "name_en": "Additional attacks during bazooka and chainsaw attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041695
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>HPが満タンではない時、被ダメージを軽減する( 効果中 )<br><br>[ターン終了時]気絶している場合<br>自身のHPを回復する( 効果中 )<br>(毒ダメージで気絶したターンには発動しない)",
+    "flavor_text_en": "Increases damage dealt by attacks (extra effective) <br>Reduces damage taken when HP is not full (in effect) <br><br>[at end of turn] <br>recovers one's own HP when stunned (in effect) (<br>in effect) (not activated on turns stunned due to poison damage)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101619,
+    "name": "生命狷介",
+    "name_en": "Life brokerage",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802040475,
+      802041760
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br><br>攻撃命中時、自身に「ダメージブロック(1回)」を付与する( 確率特大/効果ターン数制限なし )<br><br>ダメージブロック(1回)<br>被ダメージを100%カットする( 上限回数:1回 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Reduces damage taken when attacked (maximum effect) <br><br>When hit by an attack, grant yourself a “damage block (1 time)” (oversized probability/no limit on the number of effect turns) <br><br>Damage block (1 time) <br>Cuts damage taken by 100% (maximum number of times: 1 time*only activated when an attack hits)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101620,
+    "name": "危機管理Ⅴ",
+    "name_en": "Crisis Management V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040768,
+      802041572
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の体力を上昇させる( 効果大 )",
     "flavor_text_en": "Count from the start of the battle and increase your own physical strength at the beginning of the odd-numbered turn (very effective)",
@@ -13957,6 +14050,81 @@
     "special_effect_ids": [
       802040361,
       802041315
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃命中時、対象の精神を低下させる( 確率大/効果大 )",
+    "flavor_text_en": "Damage from attacks increases (maximum effect) <br>When an attack is hit, the target's mind is lowered (high probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101625,
+    "name": "苛烈弱化Ⅴ(精神)",
+    "name_en": "Severe Weakening V (Mental)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802041054
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[HP満タン時] <br>攻撃の与ダメージが上昇( 効果極大 )し、かつ、攻撃を受けた時、敵の攻撃を回避( 確率特大 )する",
+    "flavor_text_en": "[When HP <br>is full] Damage from attacks increases (maximum effect), and when attacked, enemy attacks are evaded (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4006,
+    "id": 702101627,
+    "name": "勇健の構えⅤ",
+    "name_en": "Brave Stance V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040813,
+      802040958
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[HP満タン時] <br>与ダメージが上昇( 効果特大 )し、かつ、被ダメージを軽減( 効果大 )する<br><br>[HPが満タンではない時]<br>タイプが「攻撃」である技・術(※)を命中させた時、「ブロウヒール+」が発動する<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない<br><br>ブロウヒール+<br>棍棒技/攻撃/威力C/直接/敵単体 ( 打 )<br>攻撃する<br>自身のHPを回復する( 効果小 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "[When HP <br>is full] damage dealt increases (extra effect) and reduces damage taken (great effect) <br><br>[when HP is not full] when the <br>type hits a technique or jutsu (*) that is an “attack”, “Brow Heel +” is activated <br>※ “normal attack”, “techniques and techniques activated by this ability effect”, “counterattack techniques and techniques passed down by counter effects” “techniques and techniques handed down in the R cup” are not included <br><br> Brow Heel+ <br>Stick/Attack/Power C/Direct/Attack by Single Enemy (Hit) <br><br>Recover your own HP (low effect) <br>(activated by Move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101628,
+    "name": "レディの振る舞い",
+    "name_en": "Lady behavior",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040342,
+      802040864,
+      802041704
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[HPが満タンではない時]<br>タイプが「攻撃」である技・術を命中させた時、「ブロウヒール+」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "[When HP is not full] When the <br>type hits a move/jutsu where the type is “Attack”, “Brow Heal +” is activated <br>(activated by Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101629,
+    "name": "攻撃時 追加攻撃( HPが満タンでない場合 )",
+    "name_en": "Additional attacks when attacking (when HP isn't full)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041700,
+      802041701,
+      802041702,
+      802041703
     ]
   },
   {
@@ -13994,6 +14162,23 @@
       802040322,
       802040913,
       802040351
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、気絶している場合 <br>自身のHPを回復する( 効果中 )<br>(毒ダメージで気絶したターンには発動しない)",
+    "flavor_text_en": "At the end of the turn, if you're stunned, <br>recover your own HP <br>(in effect) (not active on turns where you faint due to poison damage)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101679,
+    "name": "ターン終了時 HP回復(気絶時)(中)",
+    "name_en": "HP recovery at end of turn (when stunned) (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041712
     ]
   },
   {

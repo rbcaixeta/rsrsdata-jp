@@ -21053,6 +21053,54 @@
   },
   {
     "enemy_class": 99,
+    "gender": 9,
+    "id": 199411,
+    "illust": 1994111,
+    "name": "一の門",
+    "name_en": "Ichinomon",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199412,
+    "illust": 1994121,
+    "name": "二の門",
+    "name_en": "Ni no Gon",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199413,
+    "illust": 1994131,
+    "name": "三の門",
+    "name_en": "Three gates",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 1,
     "id": 211011,
     "illust": 110100,

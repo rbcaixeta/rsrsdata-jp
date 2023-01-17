@@ -18076,6 +18076,31 @@
     ],
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 801041412,
+    "ignition_effect_id": "",
+    "name": "ディフェンスアップ",
+    "name_en": "Defensive ups",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      95
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "敵から受けるダメージが低下する(重複不可)",
     "flavor_text_en": "Damage received from enemies is reduced (cannot be duplicated)",
     "flavor_text_en_src": "ml",
@@ -18280,6 +18305,79 @@
     "target_area": 10,
     "text_color": "5BFF24",
     "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵から受ける被ダメージが低下する",
+    "flavor_text_en": "Damage taken from enemies is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 801041429,
+    "ignition_effect_id": "",
+    "name": "防御強化(特大)",
+    "name_en": "Defense Enhancement (Oversized)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      50
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "幻術連唱で攻撃後、ジャッカル+で攻撃を行う",
+    "flavor_text_en": "Attack with Genjutsu Rensho, then perform an attack with Jackal+",
+    "flavor_text_en_src": "ml",
+    "id": 801041430,
+    "ignition_effect_id": "",
+    "name": "幻術連唱",
+    "name_en": "Genjutsu Rensho",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125600295
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "幻術連唱で発動したジャッカル+で攻撃後、ナイトメア+で攻撃を行う",
+    "flavor_text_en": "Attack with Jackal+ activated by Genjutsu Rensho, then perform an attack with Nightmare +",
+    "flavor_text_en_src": "ml",
+    "id": 801041433,
+    "ignition_effect_id": "",
+    "name": "幻術連唱",
+    "name_en": "Genjutsu Rensho",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125600296
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -25314,6 +25412,54 @@
     "target_area": 5,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      22011
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 802011692,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "器用さ↑ ",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      22010
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 802011693,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "素早さ↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -49899,6 +50045,133 @@
   },
   {
     "applying_effect_condition_ids": [
+      22009
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPを回復する",
+    "flavor_text_en": "Recover your own BP",
+    "flavor_text_en_src": "ml",
+    "id": 802041689,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      2
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      22010
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased",
+    "flavor_text_en_src": "ml",
+    "id": 802041690,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ",
+    "name_en": "Increased damage",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑ ",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      22011
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802041691,
+    "ignition_effect_id": "",
+    "name": "防御",
+    "name_en": "defenses",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      80
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑ ",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "「バズーカアンドチェーンソー」を命中させた時、「武装三段」が発動する",
+    "flavor_text_en": "When “Bazooka and Chainsaw” is hit, “Armored Third Stage” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041694,
+    "ignition_effect_id": "",
+    "name": "バズーカアンドチェーンソー攻撃時 追加攻撃",
+    "name_en": "Additional attacks during bazooka and chainsaw attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101618
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技・術3を命中させた時、武装三段が発動する",
+    "flavor_text_en": "When you hit Technik/Jutsu 3, the 3rd Armored Dan is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041695,
+    "ignition_effect_id": "",
+    "name": "技・術3攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking with 3 techniques and techniques",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600285
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "数多の武器の使い手",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
@@ -49918,6 +50191,167 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      35,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "HPが満タンではない場合、技1を命中させた時、ブロウヒール+が発動する",
+    "flavor_text_en": "If your HP isn't full, Brow Heal + will be activated when you hit Move 1",
+    "flavor_text_en_src": "ml",
+    "id": 802041700,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃( HPが満タンでない場合 )",
+    "name_en": "Additional attacks when attacking (when HP isn't full)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400248
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "レディの振る舞い",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      35,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "HPが満タンではない場合、技2を命中させた時、ブロウヒール+が発動する",
+    "flavor_text_en": "If your HP isn't full, Brow Heal + will be activated when you hit Move 2",
+    "flavor_text_en_src": "ml",
+    "id": 802041701,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃( HPが満タンでない場合 )",
+    "name_en": "Additional attacks when attacking (when HP isn't full)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400248
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "レディの振る舞い",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      35,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "HPが満タンではない場合、技3を命中させた時、ブロウヒール+が発動する",
+    "flavor_text_en": "If your HP isn't full, Brow Heal + will be activated when you hit Move 3",
+    "flavor_text_en_src": "ml",
+    "id": 802041702,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃( HPが満タンでない場合 )",
+    "name_en": "Additional attacks when attacking (when HP isn't full)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400248
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "レディの振る舞い",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      35,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "HPが満タンではない場合、継承技を命中させた時、ブロウヒール+が発動する",
+    "flavor_text_en": "If your HP isn't full, Brow Heal + will be activated when you hit a succession move",
+    "flavor_text_en_src": "ml",
+    "id": 802041703,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃( HPが満タンでない場合 )",
+    "name_en": "Additional attacks when attacking (when HP isn't full)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110400248
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "レディの振る舞い",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "HPが満タンではない場合、タイプが「攻撃」である技・術を命中させた時、「ブロウヒール+」が発動する",
+    "flavor_text_en": "If your HP isn't full, “Brow Heal +” is activated when you hit a move or jutsu whose type is “Attack”",
+    "flavor_text_en_src": "ml",
+    "id": 802041704,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃( HPが満タンでない場合 )",
+    "name_en": "Additional attacks when attacking (when HP isn't full)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101629
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      20
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "気絶している場合、自身のHPを回復する",
+    "flavor_text_en": "If you have fainted, recover your own HP",
+    "flavor_text_en_src": "ml",
+    "id": 802041712,
+    "ignition_effect_id": "",
+    "name": "生命狷介",
+    "name_en": "Life brokerage",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      5
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "生命狷介",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -49963,6 +50397,30 @@
     "state_icon": 3003,
     "state_vars": [
       702101606
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、気絶している場合、自身のHPを回復する( 効果中 )<br>(毒ダメージで気絶したターンには発動しない)",
+    "flavor_text_en": "At the end of the turn, if you're stunned, recover your own HP (<br>in effect) (not active on turns where you faint due to poison damage)",
+    "flavor_text_en_src": "ml",
+    "id": 802041760,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 HP回復(気絶時)(中)",
+    "name_en": "HP recovery at end of turn (when stunned) (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101679
     ],
     "target_area": 1,
     "text_color": "",

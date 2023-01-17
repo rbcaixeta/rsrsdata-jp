@@ -12895,6 +12895,34 @@
   },
   {
     "applies_to_all_styles": 0,
+    "event_ability_category_id": 750,
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・The amount of increase when increasing ability values in the main game is 3 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1100,
+    "name": "ﾒｲﾝﾘｱﾑ編第11話公開記念",
+    "name_en": "The release commemoration of the release of MAINARIUM EDITION Episode 11",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3213
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 751,
+    "flavor_text": "・メインで能力値アップ時の上昇量が3倍",
+    "flavor_text_en": "・The amount of increase when increasing ability values in the main game is 3 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1101,
+    "name": "ﾒｲﾝﾘｱﾑ編第11話公開記念・杖・打",
+    "name_en": "MAINARIUM EDITION Episode 11 Release Commemoration: Cane/Hit",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3212
+  },
+  {
+    "applies_to_all_styles": 0,
     "event_ability_category_id": 752,
     "flavor_text": "・新春ドタバタ！ペット大騒動でHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍＆【うさぎのだるま】が追加ドロップ<br>・メインでHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍",
     "flavor_text_en": "・New Year's slapstick! Due to the pet uproar, the amount of increase when HP is raised is 4 times & the amount of increase when other ability values are raised is 3 times & the amount of increase when the skill level is raised is 2 times & [Rabbit Daruma] is an additional drop <br>· The amount of increase when HP is raised is 4 times & the amount of increase when other ability values are raised is 3 times & the amount raised when the skill level is raised is 2 times",
@@ -12920,5 +12948,19 @@
     "name_en_src": "ml",
     "prefix": "[期間限定]",
     "priority": 3166
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 754,
+    "flavor_text": "・メインでHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍",
+    "flavor_text_en": "・The amount of increase when increasing HP in the main is 4 times, the amount of increase when other ability values are increased is 3 times, and the amount of increase when the rank of moves and jutsu is raised is 2 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1104,
+    "name": "ﾒｲﾝﾘｱﾑ編第11話公開記念・Romancing祭",
+    "name_en": "MAINARIUM EDITION Episode 11 Release Commemorative Romancing Festival",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3214
   }
 ]

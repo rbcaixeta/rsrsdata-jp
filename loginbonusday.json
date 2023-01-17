@@ -95995,6 +95995,63 @@
     ]
   },
   {
+    "id": 6437,
+    "login_bonus_id": 11480,
+    "day": 1,
+    "message": "",
+    "thumbnail_image_path": "",
+    "rewards": [
+      {
+        "id": 840001,
+        "type": 12,
+        "quantity": 50
+      },
+      {
+        "id": 830001,
+        "type": 11,
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "id": 6438,
+    "login_bonus_id": 11480,
+    "day": 2,
+    "message": "",
+    "thumbnail_image_path": "",
+    "rewards": [
+      {
+        "id": 840001,
+        "type": 12,
+        "quantity": 50
+      },
+      {
+        "id": 830001,
+        "type": 11,
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "id": 6439,
+    "login_bonus_id": 11480,
+    "day": 3,
+    "message": "",
+    "thumbnail_image_path": "",
+    "rewards": [
+      {
+        "id": 840001,
+        "type": 12,
+        "quantity": 50
+      },
+      {
+        "id": 830001,
+        "type": 11,
+        "quantity": 50
+      }
+    ]
+  },
+  {
     "id": 6440,
     "login_bonus_id": 11478,
     "day": 1,
@@ -96233,6 +96290,39 @@
         "id": 100002,
         "type": 1,
         "quantity": 300
+      }
+    ]
+  },
+  {
+    "id": 6453,
+    "login_bonus_id": 11487,
+    "day": 1,
+    "message": "",
+    "thumbnail_image_path": "",
+    "rewards": [
+      {
+        "id": 1100800,
+        "type": 7,
+        "quantity": 150
+      },
+      {
+        "id": 840001,
+        "type": 12,
+        "quantity": 60
+      }
+    ]
+  },
+  {
+    "id": 6456,
+    "login_bonus_id": 11488,
+    "day": 1,
+    "message": "",
+    "thumbnail_image_path": "",
+    "rewards": [
+      {
+        "id": 840001,
+        "type": 12,
+        "quantity": 20
       }
     ]
   },

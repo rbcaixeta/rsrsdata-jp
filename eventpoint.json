@@ -3094,6 +3094,19 @@
     "sort_order": 23011160
   },
   {
+    "expired_at": 1676487599,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800240,
+    "id": 800240,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・96",
+    "name_en": "Romancing festival medal 96",
+    "name_en_src": "ml",
+    "sort_order": 23011860
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -10424,5 +10437,31 @@
     "name_en": "Celebration sea bream",
     "name_en_src": "ml",
     "sort_order": 23011130
+  },
+  {
+    "expired_at": 1675105199,
+    "flavor_text": "「リアム編第11話公開記念コイン交換所」でSSコウメイのスタイルなどと交換できるアイテム。（2023/1/31 4:00まで）",
+    "flavor_text_en": "An item that can be exchanged for SS Koumei styles etc. at the “Liam Edition Episode 11 Release Commemorative Coin Exchange”. (Until 2023/1/31 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100800,
+    "id": 1100800,
+    "max_quantity": 99999999,
+    "name": "リアム編第11話公開記念コイン[期間限定]",
+    "name_en": "Liam Edition Episode 11 Release Commemorative Coin [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 23011855
+  },
+  {
+    "expired_at": 1675105199,
+    "flavor_text": "イベント「聖石の洞窟発掘キャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2023/1/31 4:00まで）",
+    "flavor_text_en": "Items that can be obtained during the “Sacred Stone Cave Excavation Campaign” event. You can exchange items at the exchange. (Until 2023/1/31 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100376,
+    "id": 1100803,
+    "max_quantity": 99999999,
+    "name": "きれいな石（黒）[期間限定]",
+    "name_en": "Beautiful Stone (Black) [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 23011850
   }
 ]
