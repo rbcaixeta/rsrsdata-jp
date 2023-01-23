@@ -12227,6 +12227,58 @@
   {
     "enemy_class": 13,
     "gender": 9,
+    "id": 113034,
+    "illust": 1130341,
+    "name": "スカルフライアー",
+    "name_en": "Skull Flyer",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 2,
+    "species": [
+      84,
+      13,
+      82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 13,
+    "gender": 9,
+    "id": 113035,
+    "illust": 1130351,
+    "name": "スカルラミア",
+    "name_en": "Skull Lamia",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 5,
+    "species": [
+      84,
+      13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 13,
+    "gender": 9,
+    "id": 113036,
+    "illust": 1130361,
+    "name": "リッチ",
+    "name_en": "rich",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 8,
+    "species": [
+      84,
+      13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 13,
+    "gender": 9,
     "id": 113037,
     "illust": 1130371,
     "name": "スカルゴイル",
@@ -12375,6 +12427,24 @@
     "species": [
       13,
       84
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 13,
+    "gender": 9,
+    "id": 113047,
+    "illust": 1130471,
+    "name": "キングリベンジ",
+    "name_en": "King Revenge",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      84,
+      13,
+      82
     ],
     "sprite_studio": 0
   },
@@ -22465,6 +22535,7 @@
     "pc_flag": 1,
     "rank": 1,
     "species": [
+      99
     ],
     "sprite_studio": 0
   },

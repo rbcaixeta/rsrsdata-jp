@@ -10660,16 +10660,7 @@
   },
   {
     "banners": [
-      11080,
-      11082,
-      11083,
-      11081,
-      11087,
-      11084,
-      11085,
-      11109,
-      11086,
-      11088
+      11080
     ],
     "id": 832,
     "name": "Quest_Event_1583",
@@ -10885,6 +10876,39 @@
     "size": 3,
     "title": "新春！四天包囲の制圧戦",
     "title_en": "New Year! Battle for control of the four-day siege",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11152,
+      11155,
+      11153,
+      11154,
+      10984
+    ],
+    "id": 866,
+    "name": "Quest_Event_1606",
+    "name_en": "QUEST_EVENT_1606",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "襲来！モンスター軍団",
+    "title_en": "Invade! monster army",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11155,
+      11156,
+      11157,
+      11158
+    ],
+    "id": 867,
+    "name": "Quest_Event_1607",
+    "name_en": "QUEST_Event_1607",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "発見！財宝眠る隠し部屋",
+    "title_en": "Discovered! A hidden room where treasure sleeps",
     "title_en_src": "ml"
   }
 ]

@@ -18385,6 +18385,77 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "OD攻撃のダメージが上昇する",
+    "flavor_text_en": "OD attack damage increases",
+    "flavor_text_en_src": "ml",
+    "id": 801041437,
+    "ignition_effect_id": "",
+    "name": "OD攻撃強化(極大)",
+    "name_en": "OD Attack Enhancement (Extreme)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "OD攻撃↑",
+    "triggering_effect_condition_ids": [
+      9
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "ターン開始時、以下の効果が発動する( 上限回数:4回 )<br>・自身に「クリティカルエンハンス」を付与する( 効果1ターン )<br>・自身に「攻撃強化」を付与する( 効果特大/効果1ターン )<br>・自身に「モラルアップ(特大)」を付与する( 効果1ターン )<br>・自身に「回避(1回)」を付与する( 効果1ターン )<br>・自身のBPを回復する( +4 )",
+    "flavor_text_en": "At the start of a turn, the following effects are activated (maximum number of times: 4) <br>・Grant “Critical Enhancement” to <br>yourself (effect 1 turn) ・Grant “Attack Enhancement” to <br>yourself (oversized effects/1 turn of effect) ・Grant “Moral Up (extra large)” to <br>yourself (effect 1 turn) ・Grant “Evasion (1 turn)” to yourself (effect 1 turn) <br>・Recover your own BP (+4)",
+    "flavor_text_en_src": "ml",
+    "id": 801041438,
+    "ignition_effect_id": "",
+    "name": "専心鏡明(4回)",
+    "name_en": "Concentrated Kyomei (4 times)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101643
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "専心鏡明",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "ODゲージが上昇する",
+    "flavor_text_en": "OD gauge rises",
+    "flavor_text_en_src": "ml",
+    "id": 801041440,
+    "ignition_effect_id": "",
+    "name": "ODゲージアップ",
+    "name_en": "OD gauge up",
+    "name_en_src": "ml",
+    "state_change_id": 900050156,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 12,
+    "text_color": "FFFFFF",
+    "text_pop": "ODゲージ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "敵から受けるダメージが低下する(重複不可)",
     "flavor_text_en": "Damage received from enemies is reduced (cannot be duplicated)",
@@ -50402,6 +50473,148 @@
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "OD攻撃のダメージが上昇する",
+    "flavor_text_en": "OD attack damage increases",
+    "flavor_text_en_src": "ml",
+    "id": 802041717,
+    "ignition_effect_id": "",
+    "name": "OD攻撃強化",
+    "name_en": "OD attack enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      9
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン終了時]<br>味方生存者全体のODゲージを上昇させる( 確率特大/効果小 )",
+    "flavor_text_en": "[At end of turn] <br>Increase the OD gauge of all allied survivors (oversized probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041718,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 ODゲージ上昇(小)",
+    "name_en": "OD gauge rises at end of turn (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101641
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "仲間の被弾時に、身代わりに攻撃を受ける<br>（確率発動）",
+    "flavor_text_en": "When an ally is hit, you will be attacked in place of your own <br>(probabilistic activation)",
+    "flavor_text_en_src": "ml",
+    "id": 802041720,
+    "ignition_effect_id": "",
+    "name": "かばう",
+    "name_en": "cover",
+    "name_en_src": "ml",
+    "state_change_id": 900040037,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "自身の全ての攻撃がCriticalになる",
+    "flavor_text_en": "All of your attacks become critical",
+    "flavor_text_en_src": "ml",
+    "id": 802041723,
+    "ignition_effect_id": "",
+    "name": "クリティカルエンハンス",
+    "name_en": "CRITICAL ENHANCED",
+    "name_en_src": "ml",
+    "state_change_id": 900040179,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "クリティカルエンハンス",
+    "triggering_effect_condition_ids": [
+      50058
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Damage dealt to enemies is increased (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802041729,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(特大)",
+    "name_en": "morale up (extra large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵からの攻撃を回避する( 上限回数:1 )",
+    "flavor_text_en": "Evade attacks from enemies (maximum number of times: 1)",
+    "flavor_text_en_src": "ml",
+    "id": 802041731,
+    "ignition_effect_id": "",
+    "name": "回避(1回)",
+    "name_en": "Evade (1 time)",
+    "name_en_src": "ml",
+    "state_change_id": 900040151,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "回避",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {

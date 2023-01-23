@@ -3549,6 +3549,786 @@
   {
     "adjusted_reward_group_id": 0,
     "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066051,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583051,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "1.運命の回廊-イフリートの間-",
+    "name_en": "1. Corridor of Fate -Ifrit's Room-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066101,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583101,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "2.運命の回廊-激闘 竜騎士-",
+    "name_en": "2. Corridor of Fate -Fierce Dragon Knight-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066141,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 20,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583141,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "3.運命の回廊-ブッチャーの間-",
+    "name_en": "3. Corridor of Fate -Butcher's Room-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066181,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 20,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583181,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "4.運命の回廊-激闘 シルバードラゴン-",
+    "name_en": "4. Corridor of Fate -Fierce Battle Silver Dragon-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066201,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 15,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583201,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "5.運命の回廊-濁竜の間-",
+    "name_en": "5. Corridor of Fate - The Turbulent Dragon Room",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066211,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 15,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583211,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "6.運命の回廊-キルリスの間-",
+    "name_en": "6. Corridor of Fate -Kirlis Room-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066221,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 15,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583221,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "7.運命の回廊-ブレイズスレイブの間-",
+    "name_en": "7. Corridor of Fate -Between Blaze Slaves-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066231,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 15,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583231,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "8.運命の回廊-イノーマスウィングの間-",
+    "name_en": "8. Corridor of Fate - Inoma's Swing Room",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066271,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 10,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583271,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "9.運命の回廊-激闘 デス-",
+    "name_en": "9. Corridor of Fate -Fierce Battle-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066311,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 10,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583311,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "10.運命の回廊-ジュエルビーストの間-",
+    "name_en": "10. Corridor of Fate -Jewel Beast Room-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066351,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 10,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583351,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "11.運命の回廊-激闘 シェラハ-",
+    "name_en": "11. Corridor of Fate -Fierce Battle Sherach-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 11,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066391,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 10,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583391,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "12.運命の回廊-ミニオンたちの間-",
+    "name_en": "12. Corridor of Fate -Between the Minions-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 12,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
+    "area_id": 1610,
+    "banner": 930189,
+    "battle_id": 200066431,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "dairensen_round_reward_set_id": 0,
+    "dialog_id_after_clear": 0,
+    "difficulty": 1,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 10,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 10,
+        "type": 2
+      }
+    ],
+    "growth_count": 1,
+    "id": 901583431,
+    "illust_category": 0,
+    "illust_id": 0,
+    "is_guaranteed_growth": 0,
+    "is_required_for_area_clear": 1,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "13.運命の回廊-激闘 サルーイン-",
+    "name_en": "13. Corridor of Fate -Fierce Battle Saluin-",
+    "name_en_src": "ml",
+    "point_bonuses": [
+    ],
+    "prev_quest_ids": [
+    ],
+    "quest_clear_bundle": 0,
+    "quest_condition_id": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 13,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "area_control_action": 0,
     "area_id": 976,
     "banner": 901041,
     "battle_id": 910013011,

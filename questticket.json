@@ -2299,5 +2299,31 @@
     "name_en": "Holy Night Gift Ticket [Limited Time Only]",
     "name_en_src": "ml",
     "sort_order": 22122230
+  },
+  {
+    "expired_at": 1675882799,
+    "flavor_text": "使用することで、「隠し部屋」に挑戦できる。（2023/2/9 4:00まで）",
+    "flavor_text_en": "By using it, you can challenge the “hidden room.” (Until 2023/2/9 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821189,
+    "id": 821189,
+    "max_quantity": 99999,
+    "name": "隠し部屋の鍵[期間限定]",
+    "name_en": "Hidden Room Key [Limited Time Only]",
+    "name_en_src": "ml",
+    "sort_order": 23012420
+  },
+  {
+    "expired_at": 1675882799,
+    "flavor_text": "使用することで、「黄金の隠し部屋」に挑戦できる。（2023/2/9 4:00まで）",
+    "flavor_text_en": "By using it, you can challenge the “Golden Hidden Room.” (Until 2023/2/9 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821190,
+    "id": 821190,
+    "max_quantity": 99999,
+    "name": "【SS】隠し部屋の鍵[期間限定]",
+    "name_en": "[SS] Hidden Room Key [Limited Time Only]",
+    "name_en_src": "ml",
+    "sort_order": 23012425
   }
 ]

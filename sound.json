@@ -2869,12 +2869,52 @@
     "type": "BGM"
   },
   {
+    "cueName": "bgm_120313",
+    "cueSheetName": "BGM120313",
+    "id": 120313,
+    "music_album_id": 1,
+    "name": "クローディア",
+    "name_en": "Claudia",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120314",
+    "cueSheetName": "BGM120314",
+    "id": 120314,
+    "music_album_id": 23,
+    "name": "クローディア",
+    "name_en": "Claudia",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
     "cueName": "bgm_120315",
     "cueSheetName": "BGM120315",
     "id": 120315,
     "music_album_id": 7,
     "name": "決意",
     "name_en": "determinations",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120318",
+    "cueSheetName": "BGM120318",
+    "id": 120318,
+    "music_album_id": 46,
+    "name": "女道化師イゴマール (ロマンシング サガ リ・ユニバース)",
+    "name_en": "Female Jester Igomar (Romancing Sagari Universe)",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120319",
+    "cueSheetName": "BGM120319",
+    "id": 120319,
+    "music_album_id": 46,
+    "name": "呼び醒まされた記憶 -The Battle with Sherah- (ロマンシング サガ -ミンストレルソング-)",
+    "name_en": "Memories Awakened -The Battle with Sherah- (Romancing Saga -minstrel song-)",
     "name_en_src": "ml",
     "type": "BGM"
   },
@@ -43394,6 +43434,110 @@
     "cueName": "140400110_hit",
     "cueSheetName": "SE140400110",
     "id": 243804,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140900085_other",
+    "cueSheetName": "SE140900085",
+    "id": 243805,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140900085_hit",
+    "cueSheetName": "SE140900085",
+    "id": 243806,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500330_other",
+    "cueSheetName": "SE140500330",
+    "id": 243807,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500330_hit",
+    "cueSheetName": "SE140500330",
+    "id": 243808,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140900084_other",
+    "cueSheetName": "SE140900084",
+    "id": 243809,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140900086_other",
+    "cueSheetName": "SE140900086",
+    "id": 243810,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140900086_hit",
+    "cueSheetName": "SE140900086",
+    "id": 243811,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500329_other",
+    "cueSheetName": "SE140500329",
+    "id": 243812,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500329_hit",
+    "cueSheetName": "SE140500329",
+    "id": 243813,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500331_other",
+    "cueSheetName": "SE140500331",
+    "id": 243814,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500331_hit",
+    "cueSheetName": "SE140500331",
+    "id": 243815,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500332_hit",
+    "cueSheetName": "SE140500332",
+    "id": 243816,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500332_other",
+    "cueSheetName": "SE140500332",
+    "id": 243817,
     "music_album_id": 0,
     "name": "",
     "type": "SE"

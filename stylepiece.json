@@ -1296,6 +1296,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[運命を未だ知らぬ幸せ]クローディア専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Fate Still Unknown Happiness] A piece exclusive to Claudia. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 210614,
+    "id": 210614,
+    "name": "SSクローディアのピース",
+    "name_en": "SS Claudia pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[情熱のダンサー]バーバラ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Passionate Dancer] Barbara. ",
@@ -1725,6 +1737,30 @@
     "name": "SSシルベンのピース",
     "name_en": "SS Sylvan Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[迷わずに駆けよ！]シルベン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Run without hesitation!] Exclusive piece for Sylven. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 211703,
+    "id": 211703,
+    "name": "SSシルベンのピース",
+    "name_en": "SS Sylven Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[妹を守る為に]ブラウ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [to protect my sister] blouse exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 211801,
+    "id": 211801,
+    "name": "SSブラウのピース",
+    "name_en": "SS blouse pieces",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

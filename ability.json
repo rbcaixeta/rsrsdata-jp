@@ -14147,6 +14147,99 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "Critical攻撃の与ダメージが上昇する( 効果特大 )<br>味方が全員生存している時、自身への攻撃を回避する( 確率特大 )<br>ターン終了時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Damage dealt by critical attacks increases (extra effect) <br>When all allies are alive, avoid attacks on oneself (increased probability) <br>At the end of the turn, recover one's own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101638,
+    "name": "森の番人",
+    "name_en": "Forest Keeper",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040960,
+      802040902,
+      802040676
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方生存者全体のOD攻撃の与ダメージが上昇する( 効果大 )<br><br>[ターン終了時]<br>味方生存者全体のODゲージを上昇させる( 確率特大/効果小 )",
+    "flavor_text_en": "Damage dealt by OD attacks to all allied survivors is increased (great effect) <br><br>[at end of turn] <br>Increases OD gauge for all allied survivors (oversized probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101639,
+    "name": "超撃の戦波Ⅲ",
+    "name_en": "Super Attack: Warwaves III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041717,
+      802041718
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[バトル開始から数えて3の倍数のターン開始時]<br>自身に「かばう」( 確率特大/効果1ターン )を付与する<br>自身に「ダメージブロック」( 効果1ターン )を付与する<br><br>かばう<br>味方が攻撃を受ける時<br>味方への攻撃を身代わりで受ける<br><br>ダメージブロック<br>被ダメージを100%カットする",
+    "flavor_text_en": "[At the start of a turn that is multiple of 3, counting from the start of the battle] <br>Grant “cover” (oversized probability/effect 1 turn) to <br>yourself Grant a “damage block” (effect 1 turn) <br><br><br><br>to yourself When a cover ally is attacked, take an attack on your ally <br><br><br>as a substitute damage block cuts damage taken by 100%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101640,
+    "name": "堅塞庇護",
+    "name_en": "Fortress Asylum",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041720,
+      802040966
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>味方生存者全体のODゲージを上昇させる( 確率特大/効果小 )",
+    "flavor_text_en": "[At end of turn] <br>Increase the OD gauge of all allied survivors (oversized probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101641,
+    "name": "ターン終了時 ODゲージ上昇(小)",
+    "name_en": "OD gauge rises at end of turn (small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041091
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、以下の効果が発動する( 上限回数:4回 )<br>・自身に「クリティカルエンハンス」を付与する( 効果1ターン )<br>・自身に「攻撃強化」を付与する( 効果特大/効果1ターン )<br>・自身に「モラルアップ(特大)」を付与する( 効果1ターン )<br>・自身に「回避(1回)」を付与する( 効果1ターン )<br>・自身のBPを回復する( +4 )",
+    "flavor_text_en": "At the start of a turn, the following effects are activated (maximum number of times: 4) <br>・Grant “Critical Enhancement” to <br>yourself (effect 1 turn) ・Grant “Attack Enhancement” to <br>yourself (oversized effects/1 turn of effect) ・Grant “Moral Up (extra large)” to <br>yourself (effect 1 turn) ・Grant “Evasion (1 turn)” to yourself (effect 1 turn) <br>・Recover your own BP (+4)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101643,
+    "name": "専心鏡明(4回)",
+    "name_en": "Concentrated Kyomei (4 times)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041731,
+      802041263,
+      802041723,
+      802040827,
+      802041729
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "熱属性攻撃の与ダメージが上昇する( 効果中 )<br>味方生存者全体の熱属性攻撃の与ダメージが上昇する( 効果中 )<br>かつ、バトル開始時、自身のBPを回復する( +2 )",
     "flavor_text_en": "Damage dealt by thermal attacks is increased (in effect) <br>Thermal damage from all allied survivors is increased (in effect), and <br>when battle starts, one's own BP is restored (+2)",
     "flavor_text_en_src": "ml",
