@@ -680,7 +680,7 @@
     ]
   },
   {
-    "flavor_text": "行動前防御強化が全員に付与される専守防衛の陣形。敵の全体攻撃に対抗しやすい。防御力アップの引き換えに行動速度が低下する。",
+    "flavor_text": "<special_effect=800000077>行動前防御強化</special_effect>が全員に付与される専守防衛の陣形。敵の全体攻撃に対抗しやすい。防御力アップの引き換えに行動速度が低下する。",
     "flavor_text_en": "Defensive formation that grants all members Defense Boost before taking an action. Great against enemies' all-range attacks, but must sacrifice action priority for defense boost.",
     "flavor_text_en_src": "gl",
     "id": 1021,
@@ -860,7 +860,7 @@
     ]
   },
   {
-    "flavor_text": "デッドリーピアスを攻撃面・防御面共に強化した陣形。<br>先頭のメンバーに行動前防御強化が付与され、両翼のメンバーの行動速度が上昇する。",
+    "flavor_text": "デッドリーピアスを攻撃面・防御面共に強化した陣形。<br>先頭のメンバーに<special_effect=800000077>行動前防御強化</special_effect>が付与され、両翼のメンバーの行動速度が上昇する。",
     "flavor_text_en": "Improved Deadly Pierce formation that boosts attack and defense. The front member gains a Pre-Action Defense Boost, and the action order of the outer wings is increased.",
     "flavor_text_en_src": "gl",
     "id": 1028,
@@ -1112,7 +1112,7 @@
     ]
   },
   {
-    "flavor_text": "前衛1人の腕力と素早さ、中衛3人の知力、後衛1人の器用さがそれぞれ強化される、術師を中心とした攻撃陣形。<br>前衛には行動後防御強化が付与され、後衛には行動前防御強化が付与される。",
+    "flavor_text": "前衛1人の腕力と素早さ、中衛3人の知力、後衛1人の器用さがそれぞれ強化される、術師を中心とした攻撃陣形。<br>前衛には<special_effect=800000078>行動後防御強化</special_effect>が付与され、後衛には<special_effect=800000077>行動前防御強化</special_effect>が付与される。",
     "flavor_text_en": "Attack formation for mages which boosts the front line's STR/AGI, the middle line's INT, and the back line's DEX. The front line gains a Post-Action Defense Boost, and the back line gains a Pre-Action Defense Boost.",
     "flavor_text_en_src": "gl",
     "id": 1037,
@@ -1148,7 +1148,7 @@
     ]
   },
   {
-    "flavor_text": "パーティ全体に「全員生存時防御」と「ターン開始時HP回復(全員生存時)」が付与される防御陣形。<br>長期戦におすすめ。",
+    "flavor_text": "パーティ全体に「<special_effect=800000115>全員生存時防御</special_effect>」と「<special_effect=800000081>ターン開始時HP回復(全員生存時)</special_effect>」が付与される防御陣形。<br>長期戦におすすめ。",
     "flavor_text_en": "Defensive formation that grants the entire party \"All Allies Surviving Defense\" and \"Turn Start: Recover HP (all surviving)\". For sustained battles.",
     "flavor_text_en_src": "gl",
     "id": 1038,
@@ -1184,7 +1184,7 @@
     ]
   },
   {
-    "flavor_text": "マジカルシャワーの攻撃面をさらに強化した陣形。<br>後衛2人はWeak攻撃強化が付与され、行動速度が上昇する。",
+    "flavor_text": "マジカルシャワーの攻撃面をさらに強化した陣形。<br>後衛2人は<special_effect=800000116>Weak攻撃強化</special_effect>が付与され、行動速度が上昇する。",
     "flavor_text_en": "Improved Magical Shower formation that boosts attack further. Grants the two back line member a Weak Attack Boost and increases their action order.",
     "flavor_text_en_src": "gl",
     "id": 1039,
@@ -1256,7 +1256,7 @@
     ]
   },
   {
-    "flavor_text": "前衛3人に行動後防御強化を付与し、敵の攻撃を引き受ける防御陣形。<br>パーティ全体の素早さが強化されるので、先手を取りつつ被弾をコントロールしたい場合におすすめ。",
+    "flavor_text": "前衛3人に<special_effect=800000078>行動後防御強化</special_effect>を付与し、敵の攻撃を引き受ける防御陣形。<br>パーティ全体の素早さが強化されるので、先手を取りつつ被弾をコントロールしたい場合におすすめ。",
     "flavor_text_en": "Defensive formation which grants the front three members Post-Action Defense Boost. The front three draw enemy attacks. Boosts the party's AGI.<br>For parties which want to strike first and mitigate damage.",
     "flavor_text_en_src": "gl",
     "id": 1041,
@@ -1292,8 +1292,8 @@
     ]
   },
   {
-    "flavor_text": "前衛1人の知力と素早さ、中衛3人の器用さ、後衛1人の腕力がそれぞれ強化される、小剣、弓、銃を中心とした攻撃陣形。<br>前衛には行動後防御強化が付与され、後衛には行動前防御強化が付与される。",
-    "flavor_text_en": "An attack formation centered on stilettos, bows, and guns, where the intelligence and quickness of one avant-garde, the dexterity of the three middle guards, and the strength of one rear guard are strengthened, respectively. <br>The avant-garde is given a post-action defense reinforcement, and the rear guard is granted a pre-action defense enhancement.",
+    "flavor_text": "前衛1人の知力と素早さ、中衛3人の器用さ、後衛1人の腕力がそれぞれ強化される、小剣、弓、銃を中心とした攻撃陣形。<br>前衛には<special_effect=800000078>行動後防御強化</special_effect>が付与され、後衛には<special_effect=800000077>行動前防御強化</special_effect>が付与される。",
+    "flavor_text_en": "An attack formation centered on a short sword, bow, and gun, where the intelligence and agility of 1 vanguard, the dexterity of the 3 center guards, and the strength of 1 rearguard are each strengthened. </special_effect></special_effect><br><special_effect=800000078> post-action defense enhancement is given to the avant-garde, and <special_effect=800000077> pre-action defense enhancement is granted to the rear guard.",
     "flavor_text_en_src": "ml",
     "id": 1042,
     "name": "インバースハリケーン",
@@ -1328,8 +1328,8 @@
     ]
   },
   {
-    "flavor_text": "龍陣の前衛メンバーをさらに強化した陣形。<br>先頭メンバーの能力がさらに強化され、ターン終了時BP回復を付与する。パーティ全体の行動順をコントロールしやすい。",
-    "flavor_text_en": "A formation that further strengthened the avant-garde members of the Dragon Team. The <br>abilities of the first member are further enhanced, and BP recovery is granted at the end of the turn. It is easy to control the order of action of the whole party.",
+    "flavor_text": "龍陣の前衛メンバーをさらに強化した陣形。<br>先頭メンバーの能力がさらに強化され、<special_effect=800000117>ターン終了時BP回復</special_effect>を付与する。パーティ全体の行動順をコントロールしやすい。",
+    "flavor_text_en": "A formation that further strengthened the avant-garde members of the Dragon Force. </special_effect><br>The abilities of the first member are further enhanced, and <special_effect=800000117> BP recovery is granted at the end of the turn. It's easy to control the order of actions for the whole party.",
     "flavor_text_en_src": "ml",
     "id": 1043,
     "name": "龍陣・改",
