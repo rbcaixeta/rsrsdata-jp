@@ -6214,6 +6214,22 @@
   {
     "enemy_class": 5,
     "gender": 9,
+    "id": 105071,
+    "illust": 1050711,
+    "name": "花の使い魔",
+    "name_en": "Hana no Tsukaima",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      6
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 5,
+    "gender": 9,
     "id": 105082,
     "illust": 1050821,
     "name": "フローラルマイン",
@@ -11642,6 +11658,22 @@
     "illust": 1120701,
     "name": "強ゾンビ",
     "name_en": "Strong zombies",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      13
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 12,
+    "gender": 9,
+    "id": 112075,
+    "illust": 1120511,
+    "name": "命の使い魔",
+    "name_en": "The devil of life",
     "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 0,
     "pc_flag": 0,
@@ -21168,6 +21200,23 @@
       99
     ],
     "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 199421,
+    "illust": 1994211,
+    "name": "リアルクィーン",
+    "name_en": "REAL QUEEN",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      7,
+      97
+    ],
+    "sprite_studio": 1
   },
   {
     "enemy_class": 99,

@@ -14240,6 +14240,78 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "味方が全員生存している時<br>味方全体への被ダメージを軽減する( 効果中 )<br><br>攻撃を受けてHP0になる時<br>味方生存者全体のHPを回復する( 効果中 )",
+    "flavor_text_en": "<br>Reduces damage to all allies when all allies are alive (in effect) <br><br>When attacked and becomes HP 0, <br>restores HP to all allied survivors (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101648,
+    "name": "大同の希望Ⅱ",
+    "name_en": "Daido's Hope II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041724,
+      802040663
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[回復行動時(※)]<br>自身のHPを回復( 効果大 )し、さらに、対象のBPを回復( +2 )する<br>※タイプが「回復」の技・術での回復を指す<br><br>[ターン終了時]<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "[During recovery action (*)] <br>Recover your own HP (great effect), then recover the target's BP (+2) <br>*Type indicates recovery with the technique or technique of “recovery” <br><br>[At the end of the turn] Recover <br>your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101649,
+    "name": "慈愛の祈りⅡ",
+    "name_en": "Prayer of Charity II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041725,
+      802041315
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[回復行動時]<br>自身のHPを回復( 効果大 )し、さらに、対象のBPを回復( +2 )する",
+    "flavor_text_en": "[During recovery action] <br>Recover your own HP (highly effective), and also recover the target's BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101650,
+    "name": "回復行動時 HP回復(大)・BP回復",
+    "name_en": "HP recovery during recovery action (large) /BP recovery",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041726,
+      802041166
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "棍棒装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "When equipped with a stick, damage from attacks increases (maximum effect) <br>Reduces damage taken when attacked (extra effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101651,
+    "name": "棍棒の極み",
+    "name_en": "The ultimate in baton",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041728,
+      802040448
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "熱属性攻撃の与ダメージが上昇する( 効果中 )<br>味方生存者全体の熱属性攻撃の与ダメージが上昇する( 効果中 )<br>かつ、バトル開始時、自身のBPを回復する( +2 )",
     "flavor_text_en": "Damage dealt by thermal attacks is increased (in effect) <br>Thermal damage from all allied survivors is increased (in effect), and <br>when battle starts, one's own BP is restored (+2)",
     "flavor_text_en_src": "ml",
@@ -14255,6 +14327,172 @@
       802040322,
       802040913,
       802040351
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方全体の与ダメージが上昇する( 効果小 )<br>味方全体への被ダメージを軽減する( 効果小 )<br><br>味方全体の槍装備時の与ダメージが上昇する( 効果中 )",
+    "flavor_text_en": "Damage dealt to all allies is increased (low effect) <br>Reduces damage taken to all allies (low effect) Damage dealt <br><br>when equipped with spears on all allies is increased (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101654,
+    "name": "槍の伝授Ⅱ",
+    "name_en": "The Teach of Spears II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041048,
+      802041049,
+      802041730
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "通常攻撃時、自身のHPを回復( 効果極小 )し、さらに、自身の体力を上昇( 効果中 )させる<br>斬属性攻撃時、自身に「<special_effect=800000015>防御強化</special_effect>」( 効果小/効果3ターン )を付与し、さらに、自身の精神を上昇( 効果中 )させる<br>突属性攻撃時、自身に「<special_effect=800000001>攻撃強化</special_effect>」( 効果大/効果3ターン )を付与し、さらに、自身の腕力を上昇( 効果中 )させる",
+    "flavor_text_en": "During a normal attack, one's own HP is recovered (the effect is minimal), and during a</special_effect> <br>slash attack that increases one's own physical strength (in effect), “<special_effect=800000015> defense enhancement” (low effect/ effect 3 turns) is granted to oneself, and furthermore, during a <br>surprise attack that raises (in effect) one's own spirit, “<special_effect=800000001 Grants “> Attack Enhancement</special_effect>” (large effect/3 turns of effect), and further increases one's own strength (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101657,
+    "name": "近衛兵の誇り",
+    "name_en": "The pride of the Guards",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041734,
+      802041735,
+      802041745,
+      802041746,
+      802041743,
+      802041744
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[味方が全員生存している時]<br>味方全体の与ダメージが上昇する( 効果中 )<br><br>[味方が1体以上気絶・戦線離脱している時]<br>味方全体への被ダメージを軽減する( 効果中 )",
+    "flavor_text_en": "[When all allies are alive] <br>Damage dealt to all allies increases (in effect) <br><br>[When at least 1 ally is stunned or leaves the front] <br>Reduces damage taken to all allies (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101659,
+    "name": "攻守応変Ⅱ",
+    "name_en": "Offensive and Defensive Response II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040989,
+      802041737
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン終了時] <br>自身のODゲージを上昇させる( 効果中 )<br>自身のHPを回復する( 確率大/効果小 )",
+    "flavor_text_en": "[At end of turn] <br>Increase your OD gauge (in effect) and <br>recover your own HP (high probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101660,
+    "name": "戦気再生Ⅱ",
+    "name_en": "War Revival II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041747,
+      802041748
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン開始時、自身に「<special_effect=800000158>オーバーエンハンス</special_effect>」( 効果極大 )を付与する( 上限回数:バトル中5回 )<br>ターン終了時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "At the start of a turn, grant yourself “<special_effect=800000158>overenhancement</special_effect>” (maximum effect) (maximum number of times: 5 times during battle) <br>Recover your own BP at the end of the turn (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101661,
+    "name": "ドライヴボルテージ",
+    "name_en": "Drive voltage",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041749,
+      802040902
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇( 効果特大 )し、さらに、<br>自身の連携攻撃とOD攻撃の与ダメージが上昇( 効果大 )する<br>( OD連携攻撃の場合は、連携攻撃強化とOD攻撃強化の効果が共に発揮される )<br>攻撃を受けた時、被ダメージを軽減する( 効果大 )",
+    "flavor_text_en": "Damage dealt by the attack is increased (extra effective), and furthermore, <br>damage dealt by one's own cooperative attack and OD attack increases (great effect) <br>(in the case of an OD cooperative attack, the effects of strengthening cooperative attacks and enhancing OD attacks are both demonstrated) <br>When an attack is received, damage taken is reduced (very effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101662,
+    "name": "オーバーブロックテンション",
+    "name_en": "overblock tension",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802040007,
+      802040006,
+      802040361
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、自身のHPを回復する( 確率大/効果小 )",
+    "flavor_text_en": "Recover your own HP at the end of the turn (high probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101663,
+    "name": "ターン終了時 HP回復(小)",
+    "name_en": "HP recovery at end of turn (small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040062
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果中 )",
+    "flavor_text_en": "At the end of the turn, increase your OD gauge (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101664,
+    "name": "ターン終了時 ODゲージ上昇(中)",
+    "name_en": "OD gauge rises at end of turn (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041741
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「オーバーエンハンス」( 効果極大 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "At the beginning of the turn, give yourself “Over Enhancement” (maximum effect) (maximum number of times: 5 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101665,
+    "name": "ターン開始時 オーバーエンハンス",
+    "name_en": "Overenhancement at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041750
     ]
   },
   {
@@ -44633,6 +44871,23 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に行動順補正上昇(特大)を付与する( 効果2ターン )",
+    "flavor_text_en": "[At the start of a turn] <br>Grant yourself an action order correction increase (extra large) (effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300258,
+    "name": "クイックムーブ",
+    "name_en": "quick move",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040559
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -46370,6 +46625,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040529
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "気絶時<br>敵生存者全体のBPを5回復させる",
+    "flavor_text_en": "When stunned, <br>restore the BP of all enemy survivors by 5",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708600259,
+    "name": "練気放出",
+    "name_en": "Release steam",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040560
     ]
   },
   {
