@@ -2350,6 +2350,29 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "攻撃を受けた時、自身の知力と素早さを低下させる( 効果小 )<br>( 上限回数:10回 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Reduces own intelligence and agility when attacked (low effect) <br>(maximum number of times: 10 times ※only activated when an attack is hit)",
+    "flavor_text_en_src": "ml",
+    "id": 800000155,
+    "ignition_effect_id": "",
+    "name": "棘の束縛(10回)",
+    "name_en": "Bound by Thorns (10 times)",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "陰属性攻撃時、自身のBPを回復する( +1 )",
     "flavor_text_en": "Recover your own BP during a negative attack (+1)",
     "flavor_text_en_src": "ml",
@@ -2495,6 +2518,29 @@
     "ignition_effect_id": "",
     "name": "かばう",
     "name_en": "cover",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "冷属性攻撃時、与えるダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "Damage dealt increases during cold attacks (effect lasts forever during battle)",
+    "flavor_text_en_src": "ml",
+    "id": 800000168,
+    "ignition_effect_id": "",
+    "name": "エレメントエンハンス(冷)",
+    "name_en": "Element Enhancement (cold)",
     "name_en_src": "ml",
     "state_change_id": 900030001,
     "state_icon": 1031,
@@ -21526,6 +21572,53 @@
     "flavor_text": "与えるダメージが上昇する",
     "flavor_text_en": "Damage dealt increases",
     "flavor_text_en_src": "ml",
+    "id": 801041464,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(大)",
+    "name_en": "Attack Boost (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "スイーツフローズンアクスで攻撃後、アイスストラクタイトで攻撃を行う",
+    "flavor_text_en": "Attack with Sweet Frozen Axe, then attack with Ice Structite",
+    "flavor_text_en_src": "ml",
+    "id": 801041465,
+    "ignition_effect_id": "",
+    "name": "アイスストラクタイト",
+    "name_en": "Ice structure tight",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125200248
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
     "id": 801041468,
     "ignition_effect_id": "",
     "name": "攻撃強化(大)",
@@ -28571,6 +28664,128 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン終了時] <br>そのターンに自身がダメージを受けていなかった場合、味方生存者全体に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果小 )と「<special_effect=800000096>ディフェンスアップ</special_effect>」( 効果小 )を付与する",
+    "flavor_text_en": "[At end of</special_effect></special_effect> <br>turn] If you haven't taken damage on that turn, grant “<special_effect=800000095> heat up” (low effect) and “<special_effect=800000096> defense up” (low effect) to all allied survivors",
+    "flavor_text_en_src": "ml",
+    "id": 802011785,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 ヒートアップ・ディフェンスアップ",
+    "name_en": "Heat up and defense up at end of turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101666
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン終了時] <br>そのターンに自身がダメージを受けていなかった場合、味方生存者全体のHPを回復する( 効果極小 )",
+    "flavor_text_en": "[At end of <br>turn] If you haven't taken damage on that turn, restore the HP of all allied survivors (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802011786,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 HP回復(極小)",
+    "name_en": "HP recovery at end of turn (minimal)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101694
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      46001
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 802011787,
+    "ignition_effect_id": "",
+    "name": "HP回復(極小)",
+    "name_en": "HP recovery (very small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      22005
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPを回復する",
+    "flavor_text_en": "Recover your own BP",
+    "flavor_text_en_src": "ml",
+    "id": 802011788,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      2
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "冷属性攻撃命中時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Recover your own BP when you hit a cold attack (+2)",
+    "flavor_text_en_src": "ml",
+    "id": 802011789,
+    "ignition_effect_id": "",
+    "name": "冷属性攻撃時 BP回復",
+    "name_en": "BP recovery during cold attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101695
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -54097,6 +54312,177 @@
   },
   {
     "applying_effect_condition_ids": [
+      46001
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 802041751,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      46001
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802041752,
+    "ignition_effect_id": "",
+    "name": "ディフェンスアップ",
+    "name_en": "Defensive ups",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      95
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、味方生存者全体のHPを回復する( 確率大/効果極小 )",
+    "flavor_text_en": "At the end of the turn, restore HP to all allied survivors (high probability/extremely low effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041753,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 HP回復(極小)",
+    "name_en": "HP recovery at end of turn (minimal)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101668
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、自身に「<special_effect=800000168>エレメントエンハンス(冷)</special_effect>」を付与する( 効果極大 )",
+    "flavor_text_en": "When the turn starts, grant yourself “<special_effect=800000168>element enhancement (cold)</special_effect>” (maximum effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802041756,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 エレメントエンハンス(冷)",
+    "name_en": "Element enhancement at start of turn (cold)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101696
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )し、かつ、自身のBPを回復( +3 )する",
+    "flavor_text_en": "[At end of turn] There <br>is a certain chance (during probability) that <br>you will recover your own HP (little effect) and recover your own BP (+3)",
+    "flavor_text_en_src": "ml",
+    "id": 802041757,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 HP回復(小)・BP回復",
+    "name_en": "HP recovery at end of turn (small) /BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101672
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      14
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "知力が低下する",
+    "flavor_text_en": "Intellect declines",
+    "flavor_text_en_src": "ml",
+    "id": 802041758,
+    "ignition_effect_id": "",
+    "name": "知力ダウン",
+    "name_en": "Decreased intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "知力 素早さ↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      14
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが低下する",
+    "flavor_text_en": "Agility decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802041759,
+    "ignition_effect_id": "",
+    "name": "素早さダウン",
+    "name_en": "Decrease agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
@@ -54116,6 +54502,56 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "冷属性攻撃時、与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases during cold attacks",
+    "flavor_text_en_src": "ml",
+    "id": 802041790,
+    "ignition_effect_id": "",
+    "name": "エレメントエンハンス(冷)",
+    "name_en": "Element Enhancement (cold)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "冷攻撃↑",
+    "triggering_effect_condition_ids": [
+      22005
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      34,
+      4
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃を受けた時、自身の知力と素早さを低下させる( 効果小 )<br>( 上限回数:10回 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Reduces own intelligence and agility when attacked (low effect) <br>(maximum number of times: 10 times ※only activated when an attack is hit)",
+    "flavor_text_en_src": "ml",
+    "id": 802041941,
+    "ignition_effect_id": "",
+    "name": "棘の束縛(10回)",
+    "name_en": "Bound by Thorns (10 times)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101673
+    ],
+    "target_area": 8,
+    "text_color": "FFFFFF",
+    "text_pop": "棘の束縛",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -81725,6 +82161,30 @@
     "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 809050631,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      5
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
     "flavor_text_en": "Recover HP",
     "flavor_text_en_src": "ml",
     "id": 809050713,
@@ -86554,6 +87014,30 @@
     "triggering_effect_condition_ids": [
       21002,
       22005
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "全てのSaGaスタイルで敵を攻撃時 敵に与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt to enemies when attacking enemies is increased in all SaGa styles",
+    "flavor_text_en_src": "ml",
+    "id": 811040566,
+    "ignition_effect_id": "",
+    "name": "[SS]ダメージアップ(SaGa)",
+    "name_en": "[SS] Damage Up (SaGa)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      50062
     ]
   },
   {

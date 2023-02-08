@@ -3159,6 +3159,32 @@
     "sort_order": 23020155
   },
   {
+    "expired_at": 1678474799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800245,
+    "id": 800245,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・98",
+    "name_en": "Romancing festival medal 98",
+    "name_en_src": "ml",
+    "sort_order": 23020960
+  },
+  {
+    "expired_at": 1678474799,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800246,
+    "id": 800246,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・99",
+    "name_en": "Romancing festival medal 99",
+    "name_en_src": "ml",
+    "sort_order": 23020955
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -10567,6 +10593,19 @@
     "name_en": "Vengsho flag",
     "name_en_src": "ml",
     "sort_order": 23020130
+  },
+  {
+    "expired_at": 1677178799,
+    "flavor_text": "10枚集めると「ドキドキ！モンスターズバレンタインBOXガチャ」を1回引くことができるチケット。（2023/2/24 4:00まで）",
+    "flavor_text_en": "When you collect 10 cards, “I'm excited! A ticket that allows you to draw the “Monster's Valentine's Day Box Gacha” once. (Until 2023/2/24 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100806,
+    "id": 1100806,
+    "max_quantity": 99999999,
+    "name": "ドキドキ！モンスターズバレンタインBOXガチャチケット[期間限定]",
+    "name_en": "I'm excited! MONSTER'S VALENTINE BOX Gacha Ticket [Limited Time Only]",
+    "name_en_src": "ml",
+    "sort_order": 23020940
   },
   {
     "expired_at": 0,

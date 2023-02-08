@@ -3946,5 +3946,33 @@
     "summary": "最果ての決戦島を3回クリア",
     "trigger_player_rank": 75,
     "trigger_quest_id": 100201053
+  },
+  {
+    "description": "最果ての決戦島を2回クリアする",
+    "description_en": "Clear the farthest battleground island twice",
+    "description_en_src": "ml",
+    "id": 287,
+    "priority": 3000,
+    "reward_id": 881003,
+    "reward_quantity": 6,
+    "reward_type": 20,
+    "ribbon_text": "追加！",
+    "summary": "最果ての決戦島を2回クリア",
+    "trigger_player_rank": 75,
+    "trigger_quest_id": 100201053
+  },
+  {
+    "description": "最果ての決戦島を3回クリアする",
+    "description_en": "Clear the farthest battleground 3 times",
+    "description_en_src": "ml",
+    "id": 288,
+    "priority": 2999,
+    "reward_id": 881004,
+    "reward_quantity": 6,
+    "reward_type": 20,
+    "ribbon_text": "追加！",
+    "summary": "最果ての決戦島を3回クリア",
+    "trigger_player_rank": 75,
+    "trigger_quest_id": 100201053
   }
 ]

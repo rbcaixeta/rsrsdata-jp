@@ -2220,6 +2220,30 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 150,
+    "flavor_text": "S[すべて凍りつけ！]フルフル専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [freeze all!] An exclusive piece for Furufuru. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 217201,
+    "id": 217201,
+    "name": "Sフルフルのピース",
+    "name_en": "S full full piece",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[融かしてみせよ]フルフル専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [let's melt it] full full exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 217202,
+    "id": 217202,
+    "name": "SSフルフルのピース",
+    "name_en": "SS full full piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 250,
     "flavor_text": "SS[企みは我が手にあり]ワイル専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [A Plan in Hand] Scorn.",
@@ -3932,6 +3956,18 @@
     "id": 228107,
     "name": "SSヴァンパイアレディのピース",
     "name_en": "SS Vampire Lady pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[大きく口を開けて]ヴァンパイアレディ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [open your mouth wide] Vampire Lady exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 228108,
+    "id": 228108,
+    "name": "SSヴァンパイアレディのピース",
+    "name_en": "SS Vampire Lady Peace",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -6502,6 +6538,30 @@
     "name_en": "S Fullbright XII Piece",
     "name_en_src": "gl",
     "selling_price": 60
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[私に会いに来て]蒼天女専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [come to see me] a piece exclusive to Sōtennō. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 236401,
+    "id": 236401,
+    "name": "S蒼天女のピース",
+    "name_en": "S Sōtennō no Peace",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[キャラを変えてみたの]蒼天女専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I tried changing characters] a piece exclusive to Sōtennō. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 236402,
+    "id": 236402,
+    "name": "SS蒼天女のピース",
+    "name_en": "SS Sōtennō no Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
   },
   {
     "exchange_cost": 250,

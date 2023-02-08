@@ -14350,6 +14350,25 @@
   },
   {
     "ability_when": 6,
+    "flavor_text": "[攻撃命中時]<br>自身のBPを回復( +2 )し、さらに、自身のHPを回復( 効果極小 )する<br><br>[烈棘の贈り物を命中させた時]<br>対象に「<special_effect=800000155>棘の束縛(10回)</special_effect>」を付与する( 効果ターン数制限無し )",
+    "flavor_text_en": "[When hit by an attack]</special_effect> <br>Recover your own BP (+2), then <br><br><br>grant “<special_effect=800000155>Thorn Restraint (10 times)” to the target that recovers one's own HP (minimal effect) [when you hit Thorn's Gift] (no limit on the number of effect turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101656,
+    "name": "乙女の棘",
+    "name_en": "Otome's Thorn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040961,
+      802040622,
+      802041941
+    ]
+  },
+  {
+    "ability_when": 6,
     "flavor_text": "通常攻撃時、自身のHPを回復( 効果極小 )し、さらに、自身の体力を上昇( 効果中 )させる<br>斬属性攻撃時、自身に「<special_effect=800000015>防御強化</special_effect>」( 効果小/効果3ターン )を付与し、さらに、自身の精神を上昇( 効果中 )させる<br>突属性攻撃時、自身に「<special_effect=800000001>攻撃強化</special_effect>」( 効果大/効果3ターン )を付与し、さらに、自身の腕力を上昇( 効果中 )させる",
     "flavor_text_en": "During a normal attack, one's own HP is recovered (the effect is minimal), and during a</special_effect> <br>slash attack that increases one's own physical strength (in effect), “<special_effect=800000015> defense enhancement” (low effect/ effect 3 turns) is granted to oneself, and furthermore, during a <br>surprise attack that raises (in effect) one's own spirit, “<special_effect=800000001 Grants “> Attack Enhancement</special_effect>” (large effect/3 turns of effect), and further increases one's own strength (in effect)",
     "flavor_text_en_src": "ml",
@@ -14497,6 +14516,131 @@
   },
   {
     "ability_when": 4,
+    "flavor_text": "[ターン終了時] そのターンに自身がダメージを受けていなかった場合、味方生存者全体に「ヒートアップ」( 効果小 )を付与し、かつ、味方生存者全体に「ディフェンスアップ」( 効果小 )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "[At end of turn] If you haven't taken damage on that turn, give “heat up” (low effect) to all allied survivors, and grant “defense up” (low effect) to all allied survivors (maximum number of times: 5 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101666,
+    "name": "ターン終了時 ヒートアップ・ディフェンスアップ",
+    "name_en": "Heat up and defense up at end of turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041751,
+      802041752
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン終了時]<br>自身のBPを回復する( +2 )<br>味方生存者全体のHPを回復する( 確率大/効果極小 )",
+    "flavor_text_en": "[At end of turn] <br>Recover your own BP (+2) <br>Recover the HP of all allied survivors (high probability/minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101667,
+    "name": "練癒の波動Ⅱ",
+    "name_en": "Wave of Healing II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041315,
+      802041753
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>味方生存者全体のHPを回復する( 確率大/効果極小 )",
+    "flavor_text_en": "[At end of turn] <br>Recover the HP of all allied survivors (high probability/minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101668,
+    "name": "ターン終了時 HP回復(極小)",
+    "name_en": "HP recovery at end of turn (minimal)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010778
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン開始時、自身に「<special_effect=800000168>エレメントエンハンス(冷)</special_effect>」( 効果極大 )を付与する( 上限回数:バトル中3回 )<br>冷属性攻撃命中時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "At the start of the turn, grant yourself “<special_effect=800000168>Element Enhancement (cold)</special_effect>” (maximum effect: 3 times during battle). <br>When a cold attack is hit, restore your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101669,
+    "name": "極冷の練撃Ⅱ",
+    "name_en": "Extreme Cold Raid II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011789,
+      802041756
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +2 )<br><br>[ターン終了時]<br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )し、かつ、自身のBPを回復( +3 )する",
+    "flavor_text_en": "[At the start of battle] <br><br><br><br><br>Recover your own BP (+2) [At end of turn] There is a certain chance (during probability) that you will recover your own HP (less effective) and recover your own BP (+3)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101671,
+    "name": "闘練再生Ⅱ",
+    "name_en": "Battle Regeneration II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041757,
+      802040322
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )し、かつ、自身のBPを回復( +3 )する",
+    "flavor_text_en": "[At end of turn] There <br>is a certain chance (during probability) that <br>you will recover your own HP (little effect) and recover your own BP (+3)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101672,
+    "name": "ターン終了時 HP回復(小)・BP回復",
+    "name_en": "HP recovery at end of turn (small) /BP recovery",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040062,
+      802041577
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃を受けた時、自身の知力と素早さを低下させる( 効果小 )<br>( 上限回数:10回 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Reduces own intelligence and agility when attacked (low effect) <br>(maximum number of times: 10 times ※only activated when an attack is hit)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101673,
+    "name": "棘の束縛(10回)",
+    "name_en": "Bound by Thorns (10 times)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041758,
+      802041759
+    ]
+  },
+  {
+    "ability_when": 4,
     "flavor_text": "ターン終了時、気絶している場合 <br>自身のHPを回復する( 効果中 )<br>(毒ダメージで気絶したターンには発動しない)",
     "flavor_text_en": "At the end of the turn, if you're stunned, <br>recover your own HP <br>(in effect) (not active on turns where you faint due to poison damage)",
     "flavor_text_en_src": "ml",
@@ -14510,6 +14654,75 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041712
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン終了時] <br>そのターンに自身がダメージを受けていなかった場合、以下の効果が発動する<br>・味方生存者全体に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果小 )と「<special_effect=800000096>ディフェンスアップ</special_effect>」( 効果小 )を付与する( 上限回数:バトル中5回 )<br>・味方生存者全体のHPを回復する( 効果極小 )",
+    "flavor_text_en": "[At end of</special_effect></special_effect> <br>turn] If you don't take damage on that turn, the following effects are activated <br>・Grant “<special_effect=800000095> heat up” (low effect) and “<special_effect=800000096> defense up” (low effect) (upper limit) to all allied survivors (upper limit) Number of times: 5 times during battle) <br>・Recover the HP of all allied survivors (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101693,
+    "name": "安息攻守Ⅰ",
+    "name_en": "Assault and Defense I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011785,
+      802011786
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>そのターンに自身がダメージを受けていなかった場合、味方生存者全体のHPを回復する( 効果極小 )",
+    "flavor_text_en": "[At end of <br>turn] If you haven't taken damage on that turn, restore the HP of all allied survivors (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101694,
+    "name": "ターン終了時 HP回復(極小)",
+    "name_en": "HP recovery at end of turn (minimal)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011787
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "冷属性攻撃命中時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Recover your own BP when you hit a cold attack (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101695,
+    "name": "冷属性攻撃時 BP回復",
+    "name_en": "BP recovery during cold attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011788
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「エレメントエンハンス(冷)」( 効果極大 )を付与する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "At the beginning of the turn, grant yourself “Element Enhancement (Cold)” (maximum effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101696,
+    "name": "ターン開始時 エレメントエンハンス(冷)",
+    "name_en": "Element enhancement at start of turn (cold)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041790
     ]
   },
   {
@@ -50149,6 +50362,25 @@
     "special_effect_ids": [
       811040411,
       811040545
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "全シリーズのキャラクターにおいて<br>敵に与えるダメージが36%上昇する",
+    "flavor_text_en": "<br>Damage dealt to enemies is increased by 36% for characters in all series",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100449,
+    "name": "All SaGa+",
+    "name_en": "All SAGA+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "All SaGa+ 36%",
+    "simple_flavor_text_en": "All SAGA+ 36%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 310000165,
+    "special_effect_ids": [
+      811040566
     ]
   },
   {
