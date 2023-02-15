@@ -1956,6 +1956,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[私が財務大臣ですが]パトリック専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I am the Minister of Finance] Patrick's exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 212901,
+    "id": 212901,
+    "name": "SSパトリックのピース",
+    "name_en": "SS Patrick's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[生き抜くために]アルドラ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [For Survival] Aldora.",
@@ -2037,6 +2049,18 @@
     "name": "SSダークのピース",
     "name_en": "SS Darque Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[ニンフ像、探してます]マリーン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [nymph statue, I'm looking for] a piece exclusive to Marines. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 213301,
+    "id": 213301,
+    "name": "SSマリーンのピース",
+    "name_en": "SS Marine Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -9908,6 +9932,18 @@
     "id": 411104,
     "name": "SSアンリのピース",
     "name_en": "SS Henri's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[辺境騎士の誉れ]エデル専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Frontier Knight's Honor] Edel exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 413201,
+    "id": 413201,
+    "name": "SSエデルのピース",
+    "name_en": "SS Edel's Peace",
     "name_en_src": "ml",
     "selling_price": 100
   },

@@ -1436,6 +1436,186 @@
     ]
   },
   {
+    "flavor_text": "直接攻撃での戦闘に特化した陣形。<br>パーティ全体の直接攻撃の与ダメージが大きく上昇し、また敵からの直接攻撃のダメージを軽減する。",
+    "flavor_text_en": "A formation that specializes in direct attack battles. <br>The damage dealt by direct attacks to the entire party is greatly increased, and damage from direct attacks from enemies is also reduced.",
+    "flavor_text_en_src": "ml",
+    "id": 1047,
+    "name": "漢街道",
+    "name_en": "Han Kaido",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1142,
+        "x": 20,
+        "y": 25
+      },
+      {
+        "formation_bonus_id": 1142,
+        "x": 20,
+        "y": 15
+      },
+      {
+        "formation_bonus_id": 1142,
+        "x": 20,
+        "y": 35
+      },
+      {
+        "formation_bonus_id": 1142,
+        "x": 20,
+        "y": 5
+      },
+      {
+        "formation_bonus_id": 1142,
+        "x": 20,
+        "y": 45
+      }
+    ]
+  },
+  {
+    "flavor_text": "パーティ全体の知力が上昇し、間接攻撃のダメージが軽減される陣形。<br>術士中心のメンバー編成と相性がよい。",
+    "flavor_text_en": "A formation where the intelligence of the entire party increases and damage from indirect attacks is reduced. It <br>is compatible with the jurist-centered member organization.",
+    "flavor_text_en_src": "ml",
+    "id": 1048,
+    "name": "ミスティックライン",
+    "name_en": "mystic line",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1145,
+        "x": 8,
+        "y": 6
+      },
+      {
+        "formation_bonus_id": 1145,
+        "x": 16,
+        "y": 16
+      },
+      {
+        "formation_bonus_id": 1146,
+        "x": 25,
+        "y": 25
+      },
+      {
+        "formation_bonus_id": 1146,
+        "x": 33,
+        "y": 34
+      },
+      {
+        "formation_bonus_id": 1146,
+        "x": 42,
+        "y": 44
+      }
+    ]
+  },
+  {
+    "flavor_text": "パーティの行動順をコントロールしやすくなる、テクニカルな陣形。<br>先頭のメンバーの能力が強化され、<special_effect=800000182>先攻態勢</special_effect>が付与される。<br>また、後衛メンバーの行動が遅くなる。",
+    "flavor_text_en": "A technical formation that makes it easier to control the party's order of action. </special_effect><br>The abilities of the leading members are strengthened, and <special_effect=800000182> first-attack posture is granted. <br>Also, the actions of rear guard members are slowed down.",
+    "flavor_text_en_src": "ml",
+    "id": 1049,
+    "name": "神速陣",
+    "name_en": "Ganhayokujin",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1147,
+        "x": 8,
+        "y": 25
+      },
+      {
+        "formation_bonus_id": 1148,
+        "x": 16,
+        "y": 8
+      },
+      {
+        "formation_bonus_id": 1148,
+        "x": 16,
+        "y": 42
+      },
+      {
+        "formation_bonus_id": 1149,
+        "x": 40,
+        "y": 20
+      },
+      {
+        "formation_bonus_id": 1149,
+        "x": 40,
+        "y": 30
+      }
+    ]
+  },
+  {
+    "flavor_text": "味方それぞれの強みを引き出し、攻撃面を強化する陣形。<br>前衛3人の腕力が上昇し、後衛2人はそれぞれ器用さと知力が上昇する。",
+    "flavor_text_en": "A formation that draws out the strengths of each ally and strengthens the offensive surface. <br>The strength of the three vanguards increases, and the dexterity and intelligence of the two rear guards each increase.",
+    "flavor_text_en_src": "ml",
+    "id": 1050,
+    "name": "グレートレンジャーズ",
+    "name_en": "Great Rangers",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1150,
+        "x": 8,
+        "y": 8
+      },
+      {
+        "formation_bonus_id": 1151,
+        "x": 8,
+        "y": 25
+      },
+      {
+        "formation_bonus_id": 1150,
+        "x": 8,
+        "y": 42
+      },
+      {
+        "formation_bonus_id": 1152,
+        "x": 40,
+        "y": 8
+      },
+      {
+        "formation_bonus_id": 1153,
+        "x": 40,
+        "y": 42
+      }
+    ]
+  },
+  {
+    "flavor_text": "後衛のメンバーに<special_effect=800000183>後攻態勢</special_effect>が付与されることと引き換えに腕力・器用さ・知力を上昇し、攻撃面を強化する陣形。<br>前衛3人は体力と精神が上昇し、守りにおいて活躍できる。",
+    "flavor_text_en": "A formation that enhances strength, dexterity, and intelligence in exchange for the rearguard members being granted a <special_effect=800000183> rear offensive posture</special_effect>, and strengthens the attacking surface. <br>The three avant-garde players have increased physical strength and spirit, and can play an active role in defense.",
+    "flavor_text_en_src": "ml",
+    "id": 1051,
+    "name": "バックコンセントレーション",
+    "name_en": "back concentration",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1154,
+        "x": 10,
+        "y": 8
+      },
+      {
+        "formation_bonus_id": 1154,
+        "x": 10,
+        "y": 42
+      },
+      {
+        "formation_bonus_id": 1158,
+        "x": 25,
+        "y": 25
+      },
+      {
+        "formation_bonus_id": 1155,
+        "x": 40,
+        "y": 20
+      },
+      {
+        "formation_bonus_id": 1155,
+        "x": 40,
+        "y": 30
+      }
+    ]
+  },
+  {
     "flavor_text": "",
     "id": 11001000,
     "name": "フリーファイト",

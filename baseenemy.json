@@ -21209,6 +21209,22 @@
   },
   {
     "enemy_class": 99,
+    "gender": 1,
+    "id": 199410,
+    "illust": 1994101,
+    "name": "ラゼム",
+    "name_en": "Razem",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      96
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
     "gender": 9,
     "id": 199411,
     "illust": 1994111,
@@ -21257,6 +21273,22 @@
   },
   {
     "enemy_class": 99,
+    "gender": 9,
+    "id": 199417,
+    "illust": 1994171,
+    "name": "???",
+    "name_en": "???",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
     "gender": 2,
     "id": 199421,
     "illust": 1994211,
@@ -21271,6 +21303,22 @@
       97
     ],
     "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199422,
+    "illust": 1994221,
+    "name": "神王教徒",
+    "name_en": "The King of Gods",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
   },
   {
     "enemy_class": 99,

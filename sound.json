@@ -2909,6 +2909,16 @@
     "type": "BGM"
   },
   {
+    "cueName": "bgm_120317",
+    "cueSheetName": "BGM120317",
+    "id": 120317,
+    "music_album_id": 30,
+    "name": "バトルテーマ1 (アンリミテッド：サガ)",
+    "name_en": "Battle Theme 1 (Unlimited: Saga)",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
     "cueName": "bgm_120318",
     "cueSheetName": "BGM120318",
     "id": 120318,
@@ -2925,6 +2935,16 @@
     "music_album_id": 46,
     "name": "呼び醒まされた記憶 -The Battle with Sherah- (ロマンシング サガ -ミンストレルソング-)",
     "name_en": "Memories Awakened -The Battle with Sherah- (Romancing Saga -minstrel song-)",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120321",
+    "cueSheetName": "BGM120321",
+    "id": 120321,
+    "music_album_id": 7,
+    "name": "魔の島",
+    "name_en": "Devil's Island",
     "name_en_src": "ml",
     "type": "BGM"
   },
@@ -43865,6 +43885,22 @@
     "type": "SE"
   },
   {
+    "cueName": "140100217_other",
+    "cueSheetName": "SE140100217",
+    "id": 243857,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100217_hit",
+    "cueSheetName": "SE140100217",
+    "id": 243858,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
     "cueName": "140100214_other",
     "cueSheetName": "SE140100214",
     "id": 243861,
@@ -43924,6 +43960,118 @@
     "cueName": "140200197_hit",
     "cueSheetName": "SE140200197",
     "id": 243868,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100219_other",
+    "cueSheetName": "SE140100219",
+    "id": 243869,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100219_hit",
+    "cueSheetName": "SE140100219",
+    "id": 243870,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800161_other",
+    "cueSheetName": "SE140800161",
+    "id": 243871,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800161_hit",
+    "cueSheetName": "SE140800161",
+    "id": 243872,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800162_hit",
+    "cueSheetName": "SE140800162",
+    "id": 243873,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900308_other",
+    "cueSheetName": "SE149900308",
+    "id": 243878,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900308_hit",
+    "cueSheetName": "SE149900308",
+    "id": 243879,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900309_other",
+    "cueSheetName": "SE149900309",
+    "id": 243880,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900309_hit",
+    "cueSheetName": "SE149900309",
+    "id": 243881,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900310_other",
+    "cueSheetName": "SE149900310",
+    "id": 243882,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900310_hit",
+    "cueSheetName": "SE149900310",
+    "id": 243883,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100218_other",
+    "cueSheetName": "SE140100218",
+    "id": 243886,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145500062_other",
+    "cueSheetName": "SE145500062",
+    "id": 243887,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145500062_hit",
+    "cueSheetName": "SE145500062",
+    "id": 243888,
     "music_album_id": 0,
     "name": "",
     "type": "SE"

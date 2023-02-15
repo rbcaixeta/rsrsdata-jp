@@ -2325,5 +2325,31 @@
     "name_en": "[SS] Hidden Room Key [Limited Time Only]",
     "name_en_src": "ml",
     "sort_order": 23012425
+  },
+  {
+    "expired_at": 1677610799,
+    "flavor_text": "使用することで、「発見！巨塔の隠し財宝（黄金）」に挑戦できる。（2023/3/1 4:00まで）",
+    "flavor_text_en": "By using it, you can “discover! You can challenge “The Hidden Treasure of the Giant Tower (Gold)”. (Until 2023/3/1 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821191,
+    "id": 821191,
+    "max_quantity": 99999,
+    "name": "【SS】塔の見取り図[期間限定]",
+    "name_en": "[SS] Tower Floor Plan [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 23021610
+  },
+  {
+    "expired_at": 1677610799,
+    "flavor_text": "使用することで、「発見！巨塔の隠し財宝」に挑戦できる。（2023/3/1 4:00まで）",
+    "flavor_text_en": "By using it, you can “discover! You can challenge “Hidden Treasures of the Giant Tower.” (Until 2023/3/1 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821192,
+    "id": 821192,
+    "max_quantity": 99999,
+    "name": "塔の見取り図[期間限定]",
+    "name_en": "Tower floor plan [limited time offer]",
+    "name_en_src": "ml",
+    "sort_order": 23021605
   }
 ]

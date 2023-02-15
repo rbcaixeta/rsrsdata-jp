@@ -3185,6 +3185,19 @@
     "sort_order": 23020955
   },
   {
+    "expired_at": 1678906799,
+    "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Saga Soul Gacha. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800247,
+    "id": 800247,
+    "max_quantity": 99999999,
+    "name": "サガ魂メダル・16",
+    "name_en": "Saga Soul Medal 16",
+    "name_en_src": "ml",
+    "sort_order": 23021660
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -10619,5 +10632,18 @@
     "name_en": "red lion decoration",
     "name_en_src": "ml",
     "sort_order": 23020125
+  },
+  {
+    "expired_at": 1677610799,
+    "flavor_text": "「リアム編第12話公開記念コイン交換所」で陣形や昇段の巻物などと交換できるアイテム。（2023/3/1 4:00まで）",
+    "flavor_text_en": "An item that can be exchanged for formations, promotion scrolls, etc. at the “Liam Edition Episode 12 Release Commemorative Coin Exchange.” (Until 2023/3/1 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100808,
+    "id": 1100808,
+    "max_quantity": 99999999,
+    "name": "リアム編第12話公開記念コイン[期間限定]",
+    "name_en": "Liam Edition Episode 12 Release Commemorative Coin [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 23021615
   }
 ]
