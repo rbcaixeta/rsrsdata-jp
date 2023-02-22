@@ -1,0 +1,40 @@
+[
+  {
+    "cue_sheet_name": "se_fieldability",
+    "effect_name": "field_ice",
+    "field_ability_group": 99,
+    "field_ability_when": 2,
+    "flavor_text": "[バトル開始から数えて3ターン目のターン終了時]<br>味方パーティ生存者全体に「<special_effect=800000184>消費BP増加</special_effect>」( 増加量1/効果バトル中永続 )を付与する",
+    "flavor_text_en": "[At the end of the 3rd turn counting from the start of the battle]</special_effect> <br>Grant “<special_effect=800000184>BP consumption increase” (increase amount 1/effect lasts during battle) to all allied party survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 718200001,
+    "is_cancelable": 0,
+    "name": "氷獄",
+    "name_en": "Hyōgoku",
+    "name_en_src": "ml",
+    "se_name": "se_fieldability_ice",
+    "special_effect_ids": [
+      818040003
+    ]
+  },
+  {
+    "cue_sheet_name": "se_fieldability",
+    "effect_name": "field_wood",
+    "field_ability_group": 99,
+    "field_ability_when": 2,
+    "flavor_text": "[ターン終了時]<br>味方パーティ生存者全体のHPを割合回復する( 対象の最大HPの5% )",
+    "flavor_text_en": "[At end of turn] <br>Recover a percentage of HP from all allied party survivors (5% of the target's maximum HP)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 718200002,
+    "is_cancelable": 0,
+    "name": "生転",
+    "name_en": "Sobutan",
+    "name_en_src": "ml",
+    "se_name": "se_fieldability_tree",
+    "special_effect_ids": [
+      818050001
+    ]
+  }
+]

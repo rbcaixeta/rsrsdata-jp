@@ -3,31 +3,19 @@
     "id": 10101,
     "area_id": 2001,
     "field_map_mode": 1,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 500
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10102,
     "area_id": 2001,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "シングルモードクリアで解放",
     "prev_quest_ids": [
       990041080
@@ -35,37 +23,27 @@
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10103,
     "area_id": 2002,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10104,
     "area_id": 2003,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -73,19 +51,14 @@
     ],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10105,
     "area_id": 2004,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -93,37 +66,27 @@
     ],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10106,
     "area_id": 2005,
     "field_map_mode": 1,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10107,
     "area_id": 2005,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "今回マルチモードはありません。",
     "prev_quest_ids": [
       972006001
@@ -131,19 +94,14 @@
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10108,
     "area_id": 2007,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -151,19 +109,14 @@
     ],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10109,
     "area_id": 2008,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -171,19 +124,14 @@
     ],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10110,
     "area_id": 2009,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -192,60 +140,40 @@
     ],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10111,
     "area_id": 2010,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10115,
     "area_id": 2014,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 10000
-      },
-      {
-        "type": 18,
-        "id": 409515100,
-        "quantity": 1
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10116,
     "area_id": 2015,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -253,19 +181,14 @@
     ],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10117,
     "area_id": 2016,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -278,37 +201,27 @@
     ],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10118,
     "area_id": 2017,
     "field_map_mode": 1,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10119,
     "area_id": 2018,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -316,19 +229,14 @@
     ],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10120,
     "area_id": 2017,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "今回マルチモードはありません。",
     "prev_quest_ids": [
       972006001
@@ -336,19 +244,14 @@
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10121,
     "area_id": 2019,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -356,37 +259,27 @@
     ],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10122,
     "area_id": 2020,
     "field_map_mode": 1,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 1000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10123,
     "area_id": 2020,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "シングルモードクリアで解放",
     "prev_quest_ids": [
       972020107
@@ -396,37 +289,27 @@
     ],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10124,
     "area_id": 2021,
     "field_map_mode": 1,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 3000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [],
     "start_at": 0,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10125,
     "area_id": 2021,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "マルチモードは開催期間外です。",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -434,19 +317,14 @@
     ],
     "start_at": 1663293600,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   },
   {
     "id": 10127,
     "area_id": 2022,
     "field_map_mode": 2,
-    "domination_rewards": [
-      {
-        "type": 1,
-        "id": 100002,
-        "quantity": 5000
-      }
-    ],
     "lock_text": "",
     "prev_quest_ids": [],
     "frontier_drop_group_ids": [
@@ -454,6 +332,23 @@
     ],
     "start_at": 1673406000,
     "start_node_id": 0,
-    "opening_scenario_id": 0
+    "opening_scenario_id": 0,
+    "display_currency_type": 0,
+    "display_currency_id": 0
+  },
+  {
+    "id": 10128,
+    "area_id": 2023,
+    "field_map_mode": 2,
+    "lock_text": "",
+    "prev_quest_ids": [],
+    "frontier_drop_group_ids": [
+      104604
+    ],
+    "start_at": 0,
+    "start_node_id": 0,
+    "opening_scenario_id": 10313001,
+    "display_currency_type": 0,
+    "display_currency_id": 0
   }
 ]

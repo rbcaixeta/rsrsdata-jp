@@ -943,5 +943,35 @@
     "shop_id": 0,
     "shop_type": 0,
     "sort_order": 23020120
+  },
+  {
+    "expired_at": 1680980399,
+    "flavor_text": "5枚集めると「メインリアム編大決戦祭 プラチナチケットガチャ」を1回引くことができるチケット。（2023/ 4/9 4:00まで）",
+    "flavor_text_en": "If you collect 5 tickets, you can draw the “Main Liam Edition Daisen Festival Platinum Ticket Gacha” once. (2023/4/9 until 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 810066,
+    "id": 810066,
+    "max_quantity": 9999,
+    "name": "メインリアム編大決戦祭 プラチナチケット[期間限定]",
+    "name_en": "Main Liam Edition Daisen Matsuri Platinum Ticket [Limited Time Only]",
+    "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
+    "sort_order": 23022223
+  },
+  {
+    "expired_at": 1681585199,
+    "flavor_text": "1枚で「メインリアム編大決戦祭 Romancing祭 SS1体確定チケットガチャ」を引くことができるチケット。（2023/4/16 4:00まで）",
+    "flavor_text_en": "A ticket that allows you to draw the “Main Liam Edition Battle Festival Romancing Festival SS1 Confirmed Ticket Gacha.” (Until 2023/4/16 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 810067,
+    "id": 810067,
+    "max_quantity": 9999,
+    "name": "SS1体確定Romancing祭チケット[期間限定]",
+    "name_en": "SS1 Confirmed Romancing Festival Ticket [Limited Time Only]",
+    "name_en_src": "ml",
+    "shop_id": 1000002,
+    "shop_type": 7,
+    "sort_order": 23022224
   }
 ]

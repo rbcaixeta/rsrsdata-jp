@@ -2819,5 +2819,18 @@
     "title": "確認",
     "title_en": "confirmations",
     "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 221,
+    "name": "Fieldmap_quest_open",
+    "name_en": "fieldmap_quest_open",
+    "name_en_src": "ml",
+    "text": "新しいクエストが解放されました。<br>次のクエストへお進みください。",
+    "title": "クエスト解放",
+    "title_en": "Quest Unlocked",
+    "title_en_src": "ml"
   }
 ]

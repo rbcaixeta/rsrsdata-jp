@@ -2582,5 +2582,725 @@
         "type": 1
       }
     ]
+  },
+  {
+    "description": "1,000,000,000個入手する",
+    "description_en": "Get 1,000,000,000",
+    "description_en_src": "ml",
+    "id": 200081,
+    "is_multi": 1,
+    "multi_mission_tab_id": 5,
+    "priority": 9999,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 300,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "2,000,000,000個入手する",
+    "description_en": "Get 2,000,000,000",
+    "description_en_src": "ml",
+    "id": 200082,
+    "is_multi": 1,
+    "multi_mission_tab_id": 5,
+    "priority": 9998,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 300,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "3,000,000,000個入手する",
+    "description_en": "Get 3,000,000,000",
+    "description_en_src": "ml",
+    "id": 200083,
+    "is_multi": 1,
+    "multi_mission_tab_id": 5,
+    "priority": 9997,
+    "rewards": [
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      },
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 125000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "4,000,000,000個入手する",
+    "description_en": "Get 4,000,000,000",
+    "description_en_src": "ml",
+    "id": 200084,
+    "is_multi": 1,
+    "multi_mission_tab_id": 5,
+    "priority": 9996,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 300,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 125000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "5,000,000,000個入手する",
+    "description_en": "Get 5,000,000,000",
+    "description_en_src": "ml",
+    "id": 200085,
+    "is_multi": 1,
+    "multi_mission_tab_id": 5,
+    "priority": 9995,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 300,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 100,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "6,000,000,000個入手する",
+    "description_en": "Get 6,000,000,000",
+    "description_en_src": "ml",
+    "id": 200086,
+    "is_multi": 1,
+    "multi_mission_tab_id": 5,
+    "priority": 9994,
+    "rewards": [
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      },
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 150,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 100,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "7,000,000,000個入手する",
+    "description_en": "Get 7,000,000,000 pieces",
+    "description_en_src": "ml",
+    "id": 200087,
+    "is_multi": 1,
+    "multi_mission_tab_id": 5,
+    "priority": 9993,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 600,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 150,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 100,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "8,000,000,000個入手する",
+    "description_en": "Get 8,000,000,000",
+    "description_en_src": "ml",
+    "id": 200088,
+    "is_multi": 1,
+    "multi_mission_tab_id": 5,
+    "priority": 9992,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 600,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 25,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 200,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 150,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 175000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "9,000,000,000個入手する",
+    "description_en": "Get 9,000,000,000",
+    "description_en_src": "ml",
+    "id": 200089,
+    "is_multi": 1,
+    "multi_mission_tab_id": 5,
+    "priority": 9991,
+    "rewards": [
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      },
+      {
+        "id": 810066,
+        "quantity": 25,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 200,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 150,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 175000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "10,000,000,000個入手する",
+    "description_en": "Get 10,000,000,000",
+    "description_en_src": "ml",
+    "id": 200090,
+    "is_multi": 1,
+    "multi_mission_tab_id": 5,
+    "priority": 9990,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 600,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 50,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 300,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 200,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "2,500個入手する",
+    "description_en": "Get 2,500",
+    "description_en_src": "ml",
+    "id": 200091,
+    "is_multi": 0,
+    "multi_mission_tab_id": 5,
+    "priority": 9999,
+    "rewards": [
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "5,000個入手する",
+    "description_en": "Get 5,000",
+    "description_en_src": "ml",
+    "id": 200092,
+    "is_multi": 0,
+    "multi_mission_tab_id": 5,
+    "priority": 9998,
+    "rewards": [
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "10,000個入手する",
+    "description_en": "Get 10,000",
+    "description_en_src": "ml",
+    "id": 200093,
+    "is_multi": 0,
+    "multi_mission_tab_id": 5,
+    "priority": 9997,
+    "rewards": [
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "15,000個入手する",
+    "description_en": "Get 15,000",
+    "description_en_src": "ml",
+    "id": 200094,
+    "is_multi": 0,
+    "multi_mission_tab_id": 5,
+    "priority": 9996,
+    "rewards": [
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "20,000個入手する",
+    "description_en": "Get 20,000",
+    "description_en_src": "ml",
+    "id": 200095,
+    "is_multi": 0,
+    "multi_mission_tab_id": 5,
+    "priority": 9995,
+    "rewards": [
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "25,000個入手する",
+    "description_en": "Get 25,000",
+    "description_en_src": "ml",
+    "id": 200096,
+    "is_multi": 0,
+    "multi_mission_tab_id": 5,
+    "priority": 9994,
+    "rewards": [
+      {
+        "id": 810066,
+        "quantity": 20,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "30,000個入手する",
+    "description_en": "Get 30,000",
+    "description_en_src": "ml",
+    "id": 200097,
+    "is_multi": 0,
+    "multi_mission_tab_id": 5,
+    "priority": 9993,
+    "rewards": [
+      {
+        "id": 810066,
+        "quantity": 20,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "35,000個入手する",
+    "description_en": "Get 35,000",
+    "description_en_src": "ml",
+    "id": 200098,
+    "is_multi": 0,
+    "multi_mission_tab_id": 5,
+    "priority": 9992,
+    "rewards": [
+      {
+        "id": 810066,
+        "quantity": 20,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "40,000個入手する",
+    "description_en": "Get 40,000",
+    "description_en_src": "ml",
+    "id": 200099,
+    "is_multi": 0,
+    "multi_mission_tab_id": 5,
+    "priority": 9991,
+    "rewards": [
+      {
+        "id": 810066,
+        "quantity": 20,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "45,000個入手する",
+    "description_en": "Get 45,000",
+    "description_en_src": "ml",
+    "id": 200100,
+    "is_multi": 0,
+    "multi_mission_tab_id": 5,
+    "priority": 9990,
+    "rewards": [
+      {
+        "id": 810066,
+        "quantity": 30,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
   }
 ]

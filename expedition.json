@@ -498,5 +498,30 @@
     "required_quest_id": 120106103,
     "sort_order": 80,
     "ticket_cost": 82
+  },
+  {
+    "background_id": 700000098,
+    "close_at": 0,
+    "difficulty": 4,
+    "drop_group_ids": [
+      880000042,
+      880000043
+    ],
+    "flavor_text": "HP2150まで、各能力値205までのキャラを推奨",
+    "flavor_text_en": "Characters up to HP 2150 and each ability value up to 205 are recommended",
+    "flavor_text_en_src": "ml",
+    "growth_difficulty": 203,
+    "id": 6700022,
+    "jewel_cost": 0,
+    "name": "街道",
+    "name_en": "streets",
+    "name_en_src": "ml",
+    "open_at": 0,
+    "recommended_status": 205,
+    "required_hours": 21,
+    "required_player_rank": 200,
+    "required_quest_id": 120110013,
+    "sort_order": 79,
+    "ticket_cost": 90
   }
 ]

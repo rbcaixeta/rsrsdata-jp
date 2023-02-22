@@ -157,6 +157,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[ついて来なさいよ！]エスパーガール専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Follow me!] An exclusive piece for Espergirl. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 110406,
+    "id": 110406,
+    "name": "SSエスパーガールのピース",
+    "name_en": "SS Esper Girl pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[おいてくつもりか？]そうちょう専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Leaving Us Behind?] So-Cho.",
     "flavor_text_en_src": "gl",
@@ -236,6 +248,18 @@
     "id": 119106,
     "name": "SSかみのピース",
     "name_en": "SS Kami no Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[この先へ進むつもりか]かみ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [are you going to move on?] A piece for cicada. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 119107,
+    "id": 119107,
+    "name": "SSかみのピース",
+    "name_en": "SS Kami Peace",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -2601,6 +2625,18 @@
     "name": "SSジェラールのピース",
     "name_en": "SS Gerard Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[後に続く者の為に]ジェラール専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [for those who follow] Gerard exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 220207,
+    "id": 220207,
+    "name": "SSジェラールのピース",
+    "name_en": "SS Gerard's Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

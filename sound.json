@@ -100,6 +100,16 @@
     "type": "BGM"
   },
   {
+    "cueName": "bgm_100003",
+    "cueSheetName": "bgm_title",
+    "id": 100017,
+    "music_album_id": 38,
+    "name": "五神獣バトル1",
+    "name_en": "Five Divine Beasts Battle 1",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
     "cueName": "bgm_120001",
     "cueSheetName": "bgm_internal",
     "id": 120004,
@@ -2443,8 +2453,8 @@
     "cueSheetName": "BGM120268",
     "id": 120268,
     "music_album_id": 38,
-    "name": "？？？",
-    "name_en": "???",
+    "name": "五神獣バトル1",
+    "name_en": "Five Divine Beasts Battle 1",
     "name_en_src": "ml",
     "type": "BGM"
   },
@@ -2945,6 +2955,26 @@
     "music_album_id": 7,
     "name": "魔の島",
     "name_en": "Devil's Island",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120323",
+    "cueSheetName": "BGM120323",
+    "id": 120323,
+    "music_album_id": 38,
+    "name": "五神獣バトル2",
+    "name_en": "Five Divine Beasts Battle 2",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
+    "cueName": "bgm_120324",
+    "cueSheetName": "BGM120324",
+    "id": 120324,
+    "music_album_id": 38,
+    "name": "最上階 -RS Version- from 魔界塔士 Sa・Ga",
+    "name_en": "Top Floor -RS Version- from Makai Tashi Sa Ga",
     "name_en_src": "ml",
     "type": "BGM"
   },
@@ -8304,6 +8334,70 @@
     "type": "SE"
   },
   {
+    "cueName": "se_field_map_local_area",
+    "cueSheetName": "se_field_map",
+    "id": 210232,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "se_fieldability_fire",
+    "cueSheetName": "se_fieldability",
+    "id": 210233,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "se_fieldability_tree",
+    "cueSheetName": "se_fieldability",
+    "id": 210234,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "se_fieldability_gold",
+    "cueSheetName": "se_fieldability",
+    "id": 210235,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "se_fieldability_ice",
+    "cueSheetName": "se_fieldability",
+    "id": 210236,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "se_fieldability_earth",
+    "cueSheetName": "se_fieldability",
+    "id": 210237,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "se_warpnode_start",
+    "cueSheetName": "se_warpnode",
+    "id": 210238,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "se_warpnode_end",
+    "cueSheetName": "se_warpnode",
+    "id": 210239,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
     "cueName": "se_go",
     "cueSheetName": "se_battle_common",
     "id": 220001,
@@ -10422,6 +10516,54 @@
     "cueName": "TOUJOUC",
     "cueSheetName": "SE_TOUJOUC",
     "id": 230225,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "UNIONSHIPA",
+    "cueSheetName": "SE_UNIONSHIPA",
+    "id": 230226,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "STARTUP",
+    "cueSheetName": "SE_STARTUP",
+    "id": 230227,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "UNIONSHIPB",
+    "cueSheetName": "SE_UNIONSHIPB",
+    "id": 230228,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "DRAGONROARE",
+    "cueSheetName": "SE_DRAGONROARE",
+    "id": 230229,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "TIMEMAGIC",
+    "cueSheetName": "SE_TIMEMAGIC",
+    "id": 230232,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "SAILINGSOUNDB",
+    "cueSheetName": "SE_SAILINGSOUNDB",
+    "id": 230235,
     "music_album_id": 0,
     "name": "",
     "type": "SE"
@@ -44005,6 +44147,38 @@
     "type": "SE"
   },
   {
+    "cueName": "140500333_other",
+    "cueSheetName": "SE140500333",
+    "id": 243874,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500333_hit",
+    "cueSheetName": "SE140500333",
+    "id": 243875,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500335_other",
+    "cueSheetName": "SE140500335",
+    "id": 243876,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500335_hit",
+    "cueSheetName": "SE140500335",
+    "id": 243877,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
     "cueName": "149900308_other",
     "cueSheetName": "SE149900308",
     "id": 243878,
@@ -44072,6 +44246,166 @@
     "cueName": "145500062_hit",
     "cueSheetName": "SE145500062",
     "id": 243888,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500334_other",
+    "cueSheetName": "SE140500334",
+    "id": 243889,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500334_hit",
+    "cueSheetName": "SE140500334",
+    "id": 243890,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100221_other",
+    "cueSheetName": "SE140100221",
+    "id": 243891,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100221_hit",
+    "cueSheetName": "SE140100221",
+    "id": 243892,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100223_other",
+    "cueSheetName": "SE140100223",
+    "id": 243893,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100223_hit",
+    "cueSheetName": "SE140100223",
+    "id": 243894,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800168_other",
+    "cueSheetName": "SE140800168",
+    "id": 243895,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140800168_hit",
+    "cueSheetName": "SE140800168",
+    "id": 243896,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145500063_other",
+    "cueSheetName": "SE145500063",
+    "id": 243897,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145500063_hit",
+    "cueSheetName": "SE145500063",
+    "id": 243898,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100222_other",
+    "cueSheetName": "SE140100222",
+    "id": 243899,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100222_hit",
+    "cueSheetName": "SE140100222",
+    "id": 243900,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500337_other",
+    "cueSheetName": "SE140500337",
+    "id": 243903,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140500337_hit",
+    "cueSheetName": "SE140500337",
+    "id": 243904,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145100102_other",
+    "cueSheetName": "SE145100102",
+    "id": 243905,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145100102_hit",
+    "cueSheetName": "SE145100102",
+    "id": 243906,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145100103_other",
+    "cueSheetName": "SE145100103",
+    "id": 243907,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145100103_hit",
+    "cueSheetName": "SE145100103",
+    "id": 243908,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145100105_other",
+    "cueSheetName": "SE145100105",
+    "id": 243909,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145100105_hit",
+    "cueSheetName": "SE145100105",
+    "id": 243910,
     "music_album_id": 0,
     "name": "",
     "type": "SE"

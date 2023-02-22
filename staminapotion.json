@@ -2560,5 +2560,47 @@
     "name_en_src": "ml",
     "sort_order": 23020115,
     "value": 90
+  },
+  {
+    "expired_at": 1684781999,
+    "flavor_text": "[期間限定]スタミナを30回復させるアイテム（2023/5/23 4:00まで）",
+    "flavor_text_en": "[Limited Time] Items that restore 30 stamina (until 2023/5/23 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 840203,
+    "id": 840203,
+    "max_quantity": 99999,
+    "name": "メインリアム編大決戦祭スタミナ回復剤(小)[期間限定]",
+    "name_en": "Main Liam Edition Daisen Sensai Stamina Recovery Agent (Small) [Limited Time Only]",
+    "name_en_src": "ml",
+    "sort_order": 23022205,
+    "value": 30
+  },
+  {
+    "expired_at": 1684781999,
+    "flavor_text": "[期間限定]スタミナを60回復させるアイテム（2023/5/23 4:00まで）",
+    "flavor_text_en": "[Limited Time] Items that restore 60 stamina (until 2023/5/23 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 840204,
+    "id": 840204,
+    "max_quantity": 99999,
+    "name": "メインリアム編大決戦祭スタミナ回復剤(中)[期間限定]",
+    "name_en": "Main Liam Edition Daisen Sensai Stamina Recovery Agent (Medium) [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 23022210,
+    "value": 60
+  },
+  {
+    "expired_at": 1684781999,
+    "flavor_text": "[期間限定]スタミナを90回復させるアイテム（2023/5/23 4:00まで）",
+    "flavor_text_en": "[Limited Time] Items that restore 90 stamina (until 2023/5/23 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 840205,
+    "id": 840205,
+    "max_quantity": 99999,
+    "name": "メインリアム編大決戦祭スタミナ回復剤(大)[期間限定]",
+    "name_en": "Main Liam Edition Daisen Sensai Stamina Recovery Agent (Large) [Limited Time]",
+    "name_en_src": "ml",
+    "sort_order": 23022215,
+    "value": 90
   }
 ]

@@ -5685,7 +5685,7 @@
   },
   {
     "ability_when": 2,
-    "flavor_text": "[ラウンド開始時] <br>自身に「<special_effect=800000075>行動順補正上昇</special_effect>」を付与する( 効果中/効果1ターン )<br>自身の腕力を上昇させる( 効果大 )",
+    "flavor_text": "[ラウンド開始時] <br>自身に「<special_effect=800000075>行動順補正上昇</special_effect>」を付与する( 効果中/効果1ターン )<br>自身の知力を上昇させる( 効果大 )",
     "flavor_text_en": "[Start of round]<br>Increases own action order value (medium effect/1 turn(s)).<br>Increases own INT (large effect).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -14931,6 +14931,248 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041790
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[OD攻撃(※)を発動後]<br>「<skill=110500408>しゅくせい</skill>」が発動する<br>( 技Rank1で発動 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>HPが満タンである場合、「<skill=110500409>てんばつ+</skill>」が発動する<br>HPが満タンではない場合、「<skill=110500407>きらめき</skill>」が発動する<br>( それぞれ技Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "[After triggering OD attack (*)]</skill></skill> <br>“<skill=110500408>Shukusei” is activated <br>(activated by move Rank1) <br><br>[when hitting a technique or jutsu (*) whose type is “attack”] <br>If the HP is full, “<skill=110500409>Tenbatsu +” is activated when the <br>HP is not full, “<skill= “110500407 > Sparkle</skill>” is activated <br>(each activated by move rank 1) <br><br>* “techniques and techniques activated by this ability effect,” “counterattack techniques and techniques with counter effects,” and “techniques and techniques passed down in the R Cup” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101697,
+    "name": "たわむれ",
+    "name_en": "flabby",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041792,
+      802041793,
+      802041794
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃発動後、「しゅくせい」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "After the OD attack is activated, “Shukusei” is activated <br>(activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101698,
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041795,
+      802041796,
+      802041797,
+      802041798,
+      802041799
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "HPが満タンである場合、タイプが「攻撃」である技・術を命中させた時、「てんばつ+」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When the HP tank is full, “Tenbatsu +” is activated when a move or jutsu whose type is “Attack” is hit <br>(activated by Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101699,
+    "name": "攻撃時 追加攻撃( HPが満タンである場合 )",
+    "name_en": "Additional attacks when attacking (when HP is full)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041800,
+      802041801,
+      802041802,
+      802041803,
+      802041983
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "HPが満タンではない場合、タイプが「攻撃」である技・術を命中させた時、「きらめき」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "If your HP isn't full, “Sparkle” is activated when you hit a move or jutsu whose type is “Attack” <br>(activated by Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101700,
+    "name": "攻撃時 追加攻撃( HPが満タンでない場合 )",
+    "name_en": "Additional attacks when attacking (when HP isn't full)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041804,
+      802041805,
+      802041806,
+      802041807,
+      802041984
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +1 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果大 )<br><br>熱属性攻撃命中時、自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果3ターン )<br>冷属性攻撃命中時、自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果3ターン )<br>雷属性攻撃命中時、対象に「<special_effect=800000035>防御弱化</special_effect>」を付与する( 効果小/効果3ターン )<br>陽属性攻撃命中時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "At the start of battle, recover your own BP (+1)</special_effect> <br>When you receive a Resist attack, reduce damage taken (great effect) <br><br>When you hit a thermal attack, give yourself “<special_effect=800000001> Attack Boost” (big effect/effect 3 turns) <br>When you hit a cold attack, “<special_effect=800000015> Grants “Defense Enhancement</special_effect>” (Effective/Effect 3 turns)</special_effect> <br>When a thunder attack is hit, grants “<special_effect=800000035> Defense Weakening” to the target (low effect/effect 3 turns) <br>When a positive attack is hit, restore your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101701,
+    "name": "かみのいげん",
+    "name_en": "Kaminoigen",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040323,
+      802041429,
+      802041808,
+      802041978,
+      802041979,
+      802041980
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "熱属性攻撃命中時、自身に「攻撃強化」を付与する( 効果大/効果3ターン )",
+    "flavor_text_en": "When a thermal attack hits, grant yourself an “Attack Boost” (Great Effect/Effect 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101702,
+    "name": "熱属性攻撃時 攻撃強化",
+    "name_en": "Attack enhancement during thermal attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041809
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +2 )<br><br>[味方が全員生存している時]<br>味方全体の与ダメージが上昇する( 効果中 )",
+    "flavor_text_en": "[At the start of battle] <br>Recover your own BP (+2) <br><br>[When all <br>allies are alive] Damage dealt to all allies increases (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101703,
+    "name": "闘練結束Ⅱ",
+    "name_en": "Battle Solidarity II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040989,
+      802040322
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果大 )を付与する( 上限回数:バトル中3回 )<br>さらに、自身のBPを回復( +3 )する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "[At the start of the turn] Give</special_effect> <br>yourself “<special_effect=800000095>heat up” (high effect) (maximum number of times: 3 times during battle)<br>, and recover (+3) your own BP (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101705,
+    "name": "スーパーガール",
+    "name_en": "supergirl",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041816,
+      802041817
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「ヒートアップ」( 効果大 )を付与する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "At the start of a turn, give yourself a “heat up” (great effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101706,
+    "name": "ターン開始時 ヒートアップ",
+    "name_en": "Heats up at the beginning of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041116
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身のBPを回復( +3 )する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "Recover (+3) your BP at the beginning of the turn (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101707,
+    "name": "ターン開始時 BP回復",
+    "name_en": "BP recovery at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040755
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "冷属性攻撃命中時、自身に「防御強化」を付与する( 効果中/効果3ターン )",
+    "flavor_text_en": "When a cold attack hits, grant yourself a “Defense Boost” (in effect/effect for 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101777,
+    "name": "冷属性攻撃時 防御強化",
+    "name_en": "Enhanced defense during cold attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041810
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "雷属性攻撃命中時、対象に「防御弱化」を付与する( 効果小/効果3ターン )",
+    "flavor_text_en": "When a lightning attack hits, give “Defense Weakening” to the target (low effect/effect 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101778,
+    "name": "雷属性攻撃時 防御弱化",
+    "name_en": "Defense weakens during thunder attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041811
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "陽属性攻撃命中時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Recover your own BP when you hit a positive attack (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101779,
+    "name": "陽属性攻撃時 BP回復",
+    "name_en": "BP recovery during positive attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041812
     ]
   },
   {
@@ -43276,7 +43518,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "[バトル開始時] <br>自身を眠り状態にする( 効果5ターン )",
+    "flavor_text": "[バトル開始時] <br>自身を<special_effect=800000087>眠り</special_effect>状態にする( 効果5ターン )",
     "flavor_text_en": "[Start of battle]<br>Has oneself enter a sleep stance (5 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 3005,
@@ -43314,7 +43556,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "[バトル開始時] <br>自身を眠り状態にする( 効果99ターン )",
+    "flavor_text": "[バトル開始時] <br>自身を<special_effect=800000087>眠り</special_effect>状態にする( 効果99ターン )",
     "flavor_text_en": "[Start of battle]<br>Has oneself enter a sleep stance (99 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 3005,
@@ -43390,7 +43632,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "[バトル開始時] <br>自身を毒状態にする( 効果10ターン )",
+    "flavor_text": "[バトル開始時] <br>自身を<special_effect=800000083>毒</special_effect>状態にする( 効果10ターン )",
     "flavor_text_en": "[Start of battle]<br>Inflicts poison on oneself (10 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 3001,
@@ -43409,7 +43651,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "[バトル開始時] <br>自身を魅了状態にする( 効果10ターン )",
+    "flavor_text": "[バトル開始時] <br>自身を<special_effect=800000090>魅了</special_effect>状態にする( 効果10ターン )",
     "flavor_text_en": "[Start of battle]<br>Inflicts charm on oneself (10 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 3007,
@@ -43447,7 +43689,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、被ダメージを軽減し銀剣でカウンター攻撃する( 確率大 )",
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、被ダメージを軽減し「<skill=601058401>銀剣</skill>」でカウンター攻撃する( 確率大 )",
     "flavor_text_en": "When being directly attacked, reduces damage and counterattacks with Silver Sword (high chance).",
     "flavor_text_en_src": "gl",
     "icon": 4005,
@@ -43466,7 +43708,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、哀の纏でカウンター攻撃する( 確率大 )",
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、「<skill=605066408>哀の纏</skill>」でカウンター攻撃する( 確率大 )",
     "flavor_text_en": "When being directly attacked, counterattacks with Swirl of Sorrow (high chance).",
     "flavor_text_en_src": "gl",
     "icon": 4005,
@@ -43485,7 +43727,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、被ダメージを軽減しバッドトリックでカウンター攻撃する( 確率中 )",
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、被ダメージを軽減し「<skill=956195405>バッドトリック</skill>」でカウンター攻撃する( 確率中 )",
     "flavor_text_en": "When being directly attacked, reduces damage and counterattacks with Evil Trick (medium chance).",
     "flavor_text_en_src": "gl",
     "icon": 4005,
@@ -43561,7 +43803,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "攻撃を受けた時 <br>陰属性を含むダメージを無効化する<br>さらに、直接攻撃に対してセイントファイアで反撃をする<br>( 術Rank1で反撃/パリイを使用したターンは反撃しない )<br>セイントファイア：光術/敵横一列 ( 陽+熱 ) [特効：不死、悪魔]",
+    "flavor_text": "攻撃を受けた時 <br>陰属性を含むダメージを無効化する<br>さらに、直接攻撃に対して「<skill=655041603>セイントファイア</skill>」で反撃をする",
     "flavor_text_en": "Nullifies attacks which have shadow damage. Also counterattacks with Saint Fire when being directly attacked.<br>(Counters using spell Rank 1/Counterattacks will not activate when parry is used in the same turn).<br>Saint Fire: Light Spell/Row of Foes (Sun+Heat) [Critical: Undead/Demon].",
     "flavor_text_en_src": "gl",
     "icon": 2010,
@@ -43580,7 +43822,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "自身が防御弱化状態になる（効果中）",
+    "flavor_text": "自身が「<special_effect=800000035>防御弱化</special_effect>」状態になる（効果中）",
     "flavor_text_en": "Has oneself enter a defense down stance (medium effect).",
     "flavor_text_en_src": "gl",
     "icon": 4004,
@@ -43885,7 +44127,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに陰属性攻撃強化( 効果特大/効果1ターン )を付与する<br>バトル開始から数えて偶数ターン目の開始時、自身にウォールを付与する( 効果1ターン )",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに「<special_effect=800000009>陰属性攻撃強化</special_effect>」( 効果特大/効果1ターン )を付与する<br>バトル開始から数えて偶数ターン目の開始時、自身にウォールを付与する( 効果1ターン )",
     "flavor_text_en": "On odd turns counting from the start of battle, increases own INT (large effect) and grants oneself a shadow attack boost (very large effect/1 turn(s)).<br>On even turns counting from the start of battle, grants oneself Barrier (1 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -44074,7 +44316,7 @@
   },
   {
     "ability_when": 2,
-    "flavor_text": "[ラウンド開始時] 攻撃の<br>与ダメージが上昇する( 効果特大/効果1ターン )",
+    "flavor_text": "[ラウンド開始時] 自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果特大/効果1ターン )",
     "flavor_text_en": "[Start of round]<br>Attacks' damage increases (very large effect/1 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -44114,7 +44356,7 @@
   },
   {
     "ability_when": 2,
-    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身に攻撃強化を付与する( 効果極小/効果1ターン )<br>ラウンド開始から数えて偶数ターン目の開始時、自身に防御強化を付与する( 効果大/効果1ターン )",
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果極小/効果1ターン )<br>ラウンド開始から数えて偶数ターン目の開始時、自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果大/効果1ターン )",
     "flavor_text_en": "On odd turns counting from the start of round, grants oneself an attack boost (very small effect/1 turn(s)).<br>On even turns counting from the start of round, grants oneself a defense boost (large effect/1 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -44134,7 +44376,7 @@
   },
   {
     "ability_when": 2,
-    "flavor_text": "[ラウンド開始時] <br>自身に「モラルアップ(極大)」を付与する( 効果2ターン )<br>自身に攻撃強化を付与する( 効果大/効果2ターン )",
+    "flavor_text": "[ラウンド開始時] <br>自身に「<special_effect=800000014>モラルアップ(極大)</special_effect>」を付与する( 効果2ターン )<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果2ターン )",
     "flavor_text_en": "[Start of round]<br>Grants oneself Morale Up (extreme) (2 turn(s)).<br>Grants oneself an attack boost (large effect/2 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -44154,8 +44396,8 @@
   },
   {
     "ability_when": 2,
-    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに陰属性攻撃強化( 効果特大/効果1ターン )を付与する<br>ラウンド開始から数えて偶数ターン目の開始時、自身にウォールを付与する( 効果1ターン )",
-    "flavor_text_en": "At the start of the odd-numbered turn, counting from the start of the round, increases its own intelligence (large effect), and also grants negative attack enhancement (effect oversize/effect 1 turn). <br>Even turns counted from the start of the round Grants a wall to self at the start of the eye (effect 1 turn)",
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに「<special_effect=800000009>陰属性攻撃強化</special_effect>」( 効果特大/効果1ターン )を付与する<br>ラウンド開始から数えて偶数ターン目の開始時、自身にウォールを付与する( 効果1ターン )",
+    "flavor_text_en": "Count from the start of the round and increase your own intelligence at the start of the odd turn (great effect), then grant “<special_effect=800000009> negative attack enhancement</special_effect>” (oversized effect/effect 1 turn) <br>count from the start of the round, and grant yourself a wall at the start of an even-numbered turn (effect 1 turn) (effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708200185,
@@ -44189,8 +44431,8 @@
   },
   {
     "ability_when": 2,
-    "flavor_text": "[ラウンド開始時] <br>自身を眠り状態にする( 効果99ターン )",
-    "flavor_text_en": "[Start of Round] <br>Put self into sleep state (effect 99 turns)",
+    "flavor_text": "[ラウンド開始時] <br>自身を<special_effect=800000087>眠り</special_effect>状態にする( 効果99ターン )",
+    "flavor_text_en": "[At the start of</special_effect> <br>the round] <special_effect=800000087> put yourself to sleep (effect 99 turns)",
     "flavor_text_en_src": "ml",
     "icon": 3005,
     "id": 708200189,
@@ -44257,8 +44499,8 @@
   },
   {
     "ability_when": 2,
-    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、レバーペッカーでカウンター攻撃する( 確率大 )<br><br>反撃技：レバーペッカー<br>体術技/攻撃/直接/( 打 )<br>攻撃する<br>自身のHPを回復する",
-    "flavor_text_en": "When attacked<br>, counter attack with a leverpecker against a direct attack (high probability) <br><br>Counterattack Moves: Leverpecker <br>Physical Techniques/Attack/Direct/ (Hit) <br>Attack <br>Restore your own HP",
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、「<skill=905641505>レバーペッカー</skill>」でカウンター攻撃する( 確率大 )",
+    "flavor_text_en": "When attacked</skill><br>, counter attack with “<skill=905641505>leverpecker” against a direct attack (high probability)",
     "flavor_text_en_src": "ml",
     "icon": 4005,
     "id": 708200239,
@@ -44274,8 +44516,8 @@
   },
   {
     "ability_when": 2,
-    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、カウンターフィアーが発動する<br><br>カウンターフィアー<br>補助<br>命中時、対象を混乱させる( 確率極小/効果4ターン )",
-    "flavor_text_en": "When attacked<br>, counterfeer is activated <br><br><br><br>in response to a direct attack. When counterfeer assist hits, it confuses the target (extremely low probability/effect 4 turns)",
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、「<skill=905653403>カウンターフィアー</skill>」が発動する",
+    "flavor_text_en": "When attacked</skill><br>, “<skill=905653403>Counterfeer” is activated in response to a direct attack",
     "flavor_text_en_src": "ml",
     "icon": 4005,
     "id": 708200251,
@@ -44403,7 +44645,7 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "[ターン開始時] <br>ランダムな味方生存者1体に攻撃強化状態を付与する( 効果極大/効果1ターン )",
+    "flavor_text": "[ターン開始時] <br>ランダムな味方生存者1体に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果特大/効果1ターン )",
     "flavor_text_en": "[Start of turn]<br>Grants a random surviving ally an attack boost (extreme effect/1 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -44417,7 +44659,7 @@
     "simple_flavor_text_en_src": "gl",
     "sort_order": 0,
     "special_effect_ids": [
-      808040026
+      808040573
     ]
   },
   {
@@ -44734,7 +44976,7 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに陰属性攻撃強化( 効果特大/効果1ターン )を付与する",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに「<special_effect=800000009>陰属性攻撃強化</special_effect>」( 効果中/効果1ターン )を付与する",
     "flavor_text_en": "On odd turns counting from the start of battle, increases own INT (large effect) and grants oneself a shadow attack boost (very large effect/1 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -44754,7 +44996,7 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身に「回避(1回)」を付与する（ 効果1ターン ）<br><br>回避(1回)<br>敵の攻撃を回避し、ダメージを無効化する( 上限回数:1回 )",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身に「<special_effect=800000119>回避(1回)</special_effect>」を付与する（ 効果1ターン ）",
     "flavor_text_en": "On odd turns counting from the start of battle, grants oneself Evasion (1 time) (1 turn(s)).<br><br>Evasion (1 time)<br>Evades enemies' attacks, and nullifies damage (Max times: 1).",
     "flavor_text_en_src": "gl",
     "icon": 4006,
@@ -44792,7 +45034,7 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "ラウンド開始から数えて偶数ターン目の開始時、自身に防御強化を付与する( 効果大/効果1ターン )",
+    "flavor_text": "ラウンド開始から数えて偶数ターン目の開始時、自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果大/効果1ターン )",
     "flavor_text_en": "On even turns counting from the start of round, grants oneself a defense boost (large effect/1 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -44811,7 +45053,7 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身に攻撃強化を付与する( 効果極小/効果1ターン )",
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果極小/効果1ターン )",
     "flavor_text_en": "On odd turns counting from the start of round, grants oneself an attack boost (very small effect/1 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -44944,8 +45186,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに陰属性攻撃強化( 効果特大/効果1ターン )を付与する",
-    "flavor_text_en": "At the start of the odd-numbered turn, counting from the start of the round, increases its own intelligence (large effect), and gives it a negative attack enhancement (extra large/effect 1 turn)",
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身の知力を上昇( 効果大 )させ、さらに「<special_effect=800000009>陰属性攻撃強化</special_effect>」( 効果中/効果1ターン )を付与する",
+    "flavor_text_en": "Count from the start of the round and at the start of the odd turn, increase your own intelligence (great effect), and further grant “<special_effect=800000009> negative attack enhancement</special_effect>” (in effect/1 turn of effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708300187,
@@ -45031,8 +45273,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「ヒートアップ」( 効果中 )を付与し、さらに自身に「防御弱化」( 効果特大/効果1ターン )を付与する<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
-    "flavor_text_en": "At the start of a turn that is a multiple of 3 from the start of battle, grant caster “Heat Up” (in effect), and grant caster “Defense Down” (Oversized Effect/Effect for 1 turn) <br><br> <br>Increases damage dealt by heat-up attacks (lasts during effect battles)",
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果中 )を付与し、さらに自身に「<special_effect=800000035>防御弱化</special_effect>」( 効果特大/効果1ターン )を付与する",
+    "flavor_text_en": "When starting a turn that is multiple of 3, counting from the start of the battle, grant yourself “<special_effect=800000095> heat up</special_effect>” (in effect), then grant yourself “<special_effect=800000035> weakening defense</special_effect>” (oversized effect/ effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708300216,
@@ -45049,8 +45291,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "[ターン開始時]<br>自身に「ディフェンスアップ」を付与する( 効果小 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
-    "flavor_text_en": "[At Start of Turn] <br>Grants “Defense Up” to self (Low Effect) <br><br>Defense Up <br>Reduces damage taken (Persistent during Effect Battle)",
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000096>ディフェンスアップ</special_effect>」を付与する( 効果小 )",
+    "flavor_text_en": "[At the beginning of the turn] Give</special_effect> <br>yourself “<special_effect=800000096> Defensive Up” (less effective)",
     "flavor_text_en_src": "ml",
     "icon": 4002,
     "id": 708300217,
@@ -45066,8 +45308,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ヒートアップ」を付与する( 効果小 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
-    "flavor_text_en": "At the start of an even-numbered turn counting from the start of the battle, <br><br><br>damage dealt by heat-up attacks that give yourself “heat-up” (small effect) increases (effect lasts during battle)",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果小 )",
+    "flavor_text_en": "When the even-numbered turn starts counting from the start of the battle, grant yourself “<special_effect=800000095> heat up</special_effect>” (low effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708300222,
@@ -45083,8 +45325,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "[ターン開始時] <br>敵全体の素早さの能力アップ状態を解除する<br>自身に行動順補正上昇(小)を付与する( 効果5ターン )",
-    "flavor_text_en": "[At the start of turn] <br>Unlock all enemy quickness power-ups, and <br>grant yourself a behavior order correction increase (small) (effect 5 turns)",
+    "flavor_text": "[ターン開始時] <br>敵全体の素早さの能力アップ状態を解除する<br>自身に「<special_effect=800000075>行動順補正上昇</special_effect>」を付与する( 効果小/効果5ターン )",
+    "flavor_text_en": "[At the start of the turn]</special_effect> <br><br>Grant “<special_effect=800000075> Action Order Correction Increase” to yourself that cancels the ability increase in the agility of all enemies (low effect/effect 5 turns)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708300223,
@@ -45152,8 +45394,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ディフェンスアップ」( 効果小 )を付与し、さらに自身の精神を上昇( 効果中 )させる<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
-    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of the battle, you will be given a “defense up” (low effect) to yourself, and a <br><br>defense up <br>cover that will further raise your own spirit (active) Reduces damage (effect lasts during battle)",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「<special_effect=800000096>ディフェンスアップ</special_effect>」( 効果小 )を付与し、さらに自身の精神を上昇( 効果中 )させる",
+    "flavor_text_en": "At the start of the even-numbered turn counting from the start of the battle, grant yourself “<special_effect=800000096> defensive up</special_effect>” (low effect), and further raise your own spirit (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4002,
     "id": 708300234,
@@ -45170,8 +45412,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「ヒートアップ」( 効果極小 )を付与し、さらに自身の知力を上昇( 効果中 )させる<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
-    "flavor_text_en": "At the start of a turn which is a multiple of 3 counting from the start of the battle, it grants a “heat-up” (extremely low effect) to oneself, and a <br><br>heat-up <br>attack that further increases one's own intelligence (during effect) Damage increases (effect lasts during battle)",
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果極小 )を付与し、さらに自身の知力を上昇( 効果中 )させる",
+    "flavor_text_en": "When starting a turn that is a multiple of 3, counting from the start of the battle, grant yourself “<special_effect=800000095> heat up</special_effect>” (minimal effect), and further increase your own intelligence (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708300236,
@@ -45188,8 +45430,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「ヒートアップ」( 効果小 )を付与し、さらに自身の知力を上昇( 効果中 )させる<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
-    "flavor_text_en": "At the start of a turn that is a multiple of 3 counting from the start of the battle, it grants “heats up” (effect small) to oneself, and also grants a <br><br>heatup <br>attack that increases one's own intelligence (during effect) Damage increases (effect lasts during battle)",
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果小 )を付与し、さらに自身の知力を上昇( 効果中 )させる",
+    "flavor_text_en": "When starting a turn that is a multiple of 3, counting from the start of the battle, grant yourself “<special_effect=800000095> heat up</special_effect>” (low effect), and further increase your own intelligence (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708300240,
@@ -45206,8 +45448,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ヒートアップ」を付与する( 効果中 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
-    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of the battle, grant “heat up” to yourself (during the effect), <br><br><br>and the damage dealt by the heat up attack increases (effect lasts for the duration of the battle)",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )",
+    "flavor_text_en": "When the even-numbered turn starts counting from the start of the battle, grant yourself “<special_effect=800000095> heat up</special_effect>” (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708300241,
@@ -45242,8 +45484,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ヒートアップ」を付与する( 効果中 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
-    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of the battle, grant “heat up” to yourself (during the effect), <br><br><br>and the damage dealt by the heat up attack increases (effect lasts for the duration of the battle)",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )",
+    "flavor_text_en": "When the even-numbered turn starts counting from the start of the battle, grant yourself “<special_effect=800000095> heat up</special_effect>” (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708300244,
@@ -45259,8 +45501,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて3ターン目以降、奇数ターン目の開始時、自身に「ヒートアップ」を付与する( 効果中 )<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
-    "flavor_text_en": "After the 3rd turn counting from the start of the battle, at the start of the odd number turn, grant “heat up” to yourself (during effect), <br><br><br>damage dealt by heat-up attacks will increase (effect lasts for the duration of the battle)",
+    "flavor_text": "バトル開始から数えて3ターン目以降、奇数ターン目の開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )",
+    "flavor_text_en": "Count from the start of the battle and after the 3rd turn, grant yourself “<special_effect=800000095> heat up” when the odd turn starts</special_effect> (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708300245,
@@ -45276,8 +45518,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「ディフェンスアップ」を付与する( 効果小 )<br><br>ディフェンスアップ<br>被ダメージを軽減する( 効果バトル中永続 )",
-    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of the battle, grant “Defense Up” to yourself (effect small) <br><br>Defense Up <br>reduces damage taken (effect lasts for the duration of the battle)",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「<special_effect=800000096>ディフェンスアップ</special_effect>」を付与する( 効果小 )",
+    "flavor_text_en": "When the even-numbered turn starts counting from the start of the battle, grant yourself “<special_effect=800000096> Defensive Up</special_effect>” (less effective)",
     "flavor_text_en_src": "ml",
     "icon": 4002,
     "id": 708300247,
@@ -45293,8 +45535,8 @@
   },
   {
     "ability_when": 3,
-    "flavor_text": "[ターン開始時]<br>自身に行動順補正上昇(特大)を付与する( 効果2ターン )",
-    "flavor_text_en": "[At the start of a turn] <br>Grant yourself an action order correction increase (extra large) (effect 2 turns)",
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000075>行動順補正上昇</special_effect>」を付与する( 効果特大/効果2ターン )",
+    "flavor_text_en": "[At the start of a turn]</special_effect> <br>Grant “<special_effect=800000075>Action Order Correction Increase” to yourself (oversized effects/effect 2 turns)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708300258,
@@ -45330,6 +45572,24 @@
       808010566,
       808010567,
       808010568
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )<br>自身に「<special_effect=800000076>行動順補正低下</special_effect>」を付与する( 効果特大 )",
+    "flavor_text_en": "[At the start of the turn] Give</special_effect></special_effect> <br>yourself “<special_effect=800000095> heat up” (in effect) Grant <br>“<special_effect=800000076> action order correction reduction” to yourself (extreme effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300261,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040539,
+      809040570
     ]
   },
   {
@@ -45710,7 +45970,7 @@
   },
   {
     "ability_when": 4,
-    "flavor_text": "[ターン終了時] <br>自身の素早さ、知力、精神の能力ダウン状態を解除する<br>自身の知力を上昇させる( 効果大 )<br>自身に術命中率アップを付与する( 効果大/効果2ターン )",
+    "flavor_text": "[ターン終了時] <br>自身の素早さ、知力、精神の能力ダウン状態を解除する<br>自身の知力を上昇させる( 効果大 )<br>自身に「<special_effect=800000144>術命中アップ</special_effect>」を付与する( 効果大/効果2ターン )",
     "flavor_text_en": "[End of turn]<br>Removes own debuffs to AGI/INT/WIL.<br>Increases own INT (large effect).<br>Own spell attacks' accuracy increases (large effect/2 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -45751,7 +46011,7 @@
   },
   {
     "ability_when": 4,
-    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率中 )<br>味方生存者全体のHPを回復し<br>さらに、味方生存者全体に命中アップ( 効果大/効果5ターン )と防御強化( 効果中/効果5ターン )を付与する",
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率中 )<br>味方生存者全体のHPを回復し<br>さらに、味方生存者全体に命中アップ( 効果大/効果5ターン )と「<special_effect=800000015>防御強化</special_effect>」( 効果小/効果5ターン )を付与する",
     "flavor_text_en": "[End of turn]<br>Has a medium chance to:<br>Recover all surviving allies' HP, increase all surviving allies' attack accuracy (large effect/5 turn(s)), and grant them a defense boost (medium effect/5 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -45772,7 +46032,7 @@
   },
   {
     "ability_when": 4,
-    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率中 )<br>味方生存者全体のHPを回復し<br>さらに、味方生存者全体に攻撃強化( 効果小/効果5ターン )を付与する",
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率中 )<br>味方生存者全体のHPを回復し<br>さらに、味方生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」( 効果小/効果5ターン )を付与する",
     "flavor_text_en": "[End of turn]<br>Has a medium chance to:<br>Recover all surviving allies' HP, and grant all surviving allies an attack boost (small effect/5 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -46187,8 +46447,8 @@
   },
   {
     "ability_when": 4,
-    "flavor_text": "[ターン終了時] <br>自身の素早さ、知力、精神の能力ダウン状態を解除する<br>自身の知力を上昇させる( 効果大 )<br>自身に術命中率アップを付与する( 効果極大/効果2ターン )",
-    "flavor_text_en": "[At the end <br>of turn] Unlock your own quickness, intelligence, and mental abilities. Boost your <br>own intelligence (high effect) <br>Give yourself an increase in jutsu accuracy rate (maximum effect/effect 2 turns)",
+    "flavor_text": "[ターン終了時] <br>自身の素早さ、知力、精神の能力ダウン状態を解除する<br>自身の知力を上昇させる( 効果大 )<br>自身に「<special_effect=800000144>術命中アップ</special_effect>」を付与する( 効果極大/効果2ターン )",
+    "flavor_text_en": "[At end of turn] Release a reduced</special_effect> <br>state of one's <br>own agility, intelligence, and mental abilities Raise one's intelligence (great effect) <br>Grant “<special_effect=800000144> jutsu hit increase” to oneself (maximum effect/ effect 2 turns)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708400246,
@@ -46489,7 +46749,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "攻撃を受けてHP0になる時<br>味方生存者全体をスタンさせる",
+    "flavor_text": "攻撃を受けてHP0になる時<br>味方生存者全体を<special_effect=800000085>スタン</special_effect>させる",
     "flavor_text_en": "When attacked and HP reaches 0, stuns all surviving allies.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -46647,7 +46907,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "攻撃命中時<br>対象を毒状態にする( 確率中/効果4ターン )",
+    "flavor_text": "攻撃命中時<br>対象を<special_effect=800000083>毒</special_effect>状態にする( 確率中/効果4ターン )",
     "flavor_text_en": "When landing an attack, inflicts poison on target (medium chance/4 turn(s)).",
     "flavor_text_en_src": "gl",
     "icon": 3001,
@@ -46955,8 +47215,8 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "穿命剣(※)を発動後、「穿命剣」が発動する<br>※「”チェイン”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "After activating the Sword of Death (*), “Lifebreaking Sword” is <br>activated.*Does not include “Techniques and techniques activated by “Chain” or “Counterattack Techniques and Jutsu by Counter Effect”",
+    "flavor_text": "「穿命剣」(※)を発動後、「<skill=901157903>穿命剣</skill>」が発動する<br>※「”チェイン”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After activating “Persumeiken” (*), “<skill=901157903>Persumeiken</skill>” is <br>activated* “Techniques/techniques activated by “chain” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708600210,
@@ -46972,8 +47232,8 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "穿命槍(※)を発動後、「穿命槍」が発動する<br>※「”チェイン”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "After activating Lifespear (*), “<br>Deadshot Spear” is activated.*Does not include “Techniques and techniques activated by “Chain” or “Counterattack Techniques and Jutsu by Counter Effect”",
+    "flavor_text": "「穿命槍」(※)を発動後、「<skill=908100903>穿命槍</skill>」が発動する<br>※「”チェイン”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After “Striking Spear” (*) is activated, “<skill=908100903>Fatal</skill> Fury” is activated <br>※ “Techniques/techniques activated by “chain” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708600211,
@@ -47040,8 +47300,8 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "攻撃を受けた時 <br>自身に「ヒートアップ」を付与する( 効果中 )<br>※攻撃が命中した時のみ発動<br><br>ヒートアップ<br>攻撃の与ダメージが上昇する( 効果バトル中永続 )",
-    "flavor_text_en": "Gives <br>itself a “heat up” when attacked (effective) <br>*Activates only when an attack is hit <br><br>Heat-up <br>increases damage dealt by the attack (effect battle (Medium permanent)",
+    "flavor_text": "攻撃を受けた時 <br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )<br>※攻撃が命中した時のみ発動",
+    "flavor_text_en": "Give</special_effect> <br>yourself “<special_effect=800000095>heat up” when attacked (<br>in effect) *Activates only when an attack hits",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708600232,
@@ -50613,6 +50873,25 @@
     "sort_order": 310000165,
     "special_effect_ids": [
       811040566
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "全シリーズのキャラクターにおいて<br>敵に与えるダメージが24%上昇する",
+    "flavor_text_en": "<br>Damage dealt to enemies is increased by 24% for characters in all series",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100453,
+    "name": "All SaGa+",
+    "name_en": "All SAGA+",
+    "name_en_src": "ml",
+    "rarity": 4,
+    "simple_flavor_text": "All SaGa+ 24%",
+    "simple_flavor_text_en": "All SAGA+ 24%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 310000164,
+    "special_effect_ids": [
+      811040570
     ]
   },
   {

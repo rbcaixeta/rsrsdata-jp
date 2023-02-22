@@ -2730,7 +2730,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "遠征を1回実行する",
+    "description": "遠征の即時帰還を1回実行する",
     "description_en": "Send 1 Expedition",
     "description_en_src": "gl",
     "id": 196,
@@ -2739,12 +2739,12 @@
     "reward_quantity": 15,
     "reward_type": 11,
     "ribbon_text": "",
-    "summary": "遠征を1回実行",
+    "summary": "遠征の即時帰還を1回実行",
     "trigger_player_rank": 8,
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を2回実行する",
+    "description": "遠征の即時帰還を2回実行する",
     "description_en": "Send 2 Expeditions",
     "description_en_src": "gl",
     "id": 197,
@@ -2753,12 +2753,12 @@
     "reward_quantity": 30000,
     "reward_type": 1,
     "ribbon_text": "",
-    "summary": "遠征を2回実行",
+    "summary": "遠征の即時帰還を2回実行",
     "trigger_player_rank": 8,
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を3回実行する",
+    "description": "遠征の即時帰還を3回実行する",
     "description_en": "Send 3 Expeditions",
     "description_en_src": "gl",
     "id": 198,
@@ -2767,12 +2767,12 @@
     "reward_quantity": 30,
     "reward_type": 11,
     "ribbon_text": "",
-    "summary": "遠征を3回実行",
+    "summary": "遠征の即時帰還を3回実行",
     "trigger_player_rank": 8,
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を4回実行する",
+    "description": "遠征の即時帰還を4回実行する",
     "description_en": "Send 4 Expeditions",
     "description_en_src": "gl",
     "id": 199,
@@ -2781,12 +2781,12 @@
     "reward_quantity": 10,
     "reward_type": 2,
     "ribbon_text": "",
-    "summary": "遠征を4回実行",
+    "summary": "遠征の即時帰還を4回実行",
     "trigger_player_rank": 8,
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を5回実行する",
+    "description": "遠征の即時帰還を5回実行する",
     "description_en": "Send 5 Expeditions",
     "description_en_src": "gl",
     "id": 200,
@@ -2795,7 +2795,7 @@
     "reward_quantity": 50,
     "reward_type": 12,
     "ribbon_text": "",
-    "summary": "遠征を5回実行",
+    "summary": "遠征の即時帰還を5回実行",
     "trigger_player_rank": 8,
     "trigger_quest_id": 100101111
   },
@@ -2814,7 +2814,7 @@
     "trigger_quest_id": 100101111
   },
   {
-    "description": "遠征を7回実行する",
+    "description": "遠征の即時帰還を7回実行する",
     "description_en": "Send 7 Expeditions",
     "description_en_src": "gl",
     "id": 202,
@@ -2823,7 +2823,7 @@
     "reward_quantity": 100,
     "reward_type": 1,
     "ribbon_text": "",
-    "summary": "遠征を7回実行",
+    "summary": "遠征の即時帰還を7回実行",
     "trigger_player_rank": 8,
     "trigger_quest_id": 100101111
   },
@@ -3178,7 +3178,7 @@
     "trigger_quest_id": 0
   },
   {
-    "description": "遠征を6回実行する",
+    "description": "遠征の即時帰還を6回実行する",
     "description_en": "Send 6 Expeditions",
     "description_en_src": "gl",
     "id": 228,
@@ -3187,7 +3187,7 @@
     "reward_quantity": 5,
     "reward_type": 10,
     "ribbon_text": "",
-    "summary": "遠征を6回実行",
+    "summary": "遠征の即時帰還を6回実行",
     "trigger_player_rank": 8,
     "trigger_quest_id": 100101111
   },
@@ -3966,6 +3966,34 @@
     "description_en": "Clear the farthest battleground 3 times",
     "description_en_src": "ml",
     "id": 288,
+    "priority": 2999,
+    "reward_id": 881004,
+    "reward_quantity": 6,
+    "reward_type": 20,
+    "ribbon_text": "追加！",
+    "summary": "最果ての決戦島を3回クリア",
+    "trigger_player_rank": 75,
+    "trigger_quest_id": 100201053
+  },
+  {
+    "description": "最果ての決戦島を2回クリアする",
+    "description_en": "Clear the farthest battleground island twice",
+    "description_en_src": "ml",
+    "id": 289,
+    "priority": 3000,
+    "reward_id": 881003,
+    "reward_quantity": 6,
+    "reward_type": 20,
+    "ribbon_text": "追加！",
+    "summary": "最果ての決戦島を2回クリア",
+    "trigger_player_rank": 75,
+    "trigger_quest_id": 100201053
+  },
+  {
+    "description": "最果ての決戦島を3回クリアする",
+    "description_en": "Clear the farthest battleground 3 times",
+    "description_en_src": "ml",
+    "id": 290,
     "priority": 2999,
     "reward_id": 881004,
     "reward_quantity": 6,

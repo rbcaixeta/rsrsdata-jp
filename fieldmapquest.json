@@ -89689,6 +89689,5304 @@
     "typical_rewards_category": 1
   },
   {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006111,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128002,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023002,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢1",
+    "name_en": "Ice Prison 1",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006121,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128003,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023003,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢2",
+    "name_en": "Ice Prison 2",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006131,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128004,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023004,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢3",
+    "name_en": "Ice Prison 3",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006141,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128005,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023005,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢4",
+    "name_en": "Ice Prison 4",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006151,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128006,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023006,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢5",
+    "name_en": "Ice Prison 5",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006071,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128007,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023007,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢6",
+    "name_en": "Ice Prison 6",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006161,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128008,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023008,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢7",
+    "name_en": "Ice Prison 7",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006171,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128009,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023009,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢8",
+    "name_en": "Ice Prison 8",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006181,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128010,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023010,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢9",
+    "name_en": "Ice Prison 9",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006191,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128011,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023011,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢10",
+    "name_en": "Ice Prison 10",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 11,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006201,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128012,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023012,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢11",
+    "name_en": "Ice Prison 11",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 12,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006211,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128013,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023013,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢12",
+    "name_en": "Ice Prison 12",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 13,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006531,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128014,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023014,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢13",
+    "name_en": "Ice Prison 13",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 14,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006221,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128015,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023015,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢14",
+    "name_en": "Ice Prison 14",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 15,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006551,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104931,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128016,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023016,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "氷の牢15",
+    "name_en": "Ice Prison 15",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 16,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006011,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 409518600,
+        "quantity": 1,
+        "type": 18
+      },
+      {
+        "id": 1100789,
+        "quantity": 100,
+        "type": 7
+      }
+    ],
+    "drop_group_ids": [
+      104853,
+      104851,
+      104852
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128081,
+    "field_map_size": 0,
+    "first_rewards": [
+    ],
+    "growth_count": 1,
+    "id": 972023017,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 1,
+    "max_grind_count": 0,
+    "max_turn": 5,
+    "name": "イヴェリス",
+    "name_en": "Iveris",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 202190000,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 17,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006231,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128019,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023019,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森1",
+    "name_en": "Forest of Souls 1",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 19,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006241,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128020,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023020,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森2",
+    "name_en": "Forest of Souls 2",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 20,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006251,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128021,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023021,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森3",
+    "name_en": "Forest of Souls 3",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 21,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006261,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128022,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023022,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森4",
+    "name_en": "Forest of Souls 4",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 22,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006271,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128023,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023023,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森5",
+    "name_en": "Forest of Souls 5",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 23,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006281,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128024,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023024,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森6",
+    "name_en": "Forest of Souls 6",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 24,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006291,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128025,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023025,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森7",
+    "name_en": "Forest of Souls 7",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 25,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006301,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128026,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023026,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森8",
+    "name_en": "Forest of Souls 8",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 26,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006081,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128027,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023027,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森9",
+    "name_en": "Forest of Souls 9",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 27,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006311,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128028,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023028,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森10",
+    "name_en": "Forest of Souls 10",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 28,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006231,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128029,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023029,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森11",
+    "name_en": "Forest of Souls 11",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 29,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006231,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128030,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023030,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森12",
+    "name_en": "Forest of Souls 12",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 30,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006271,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128031,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023031,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森13",
+    "name_en": "Forest of Souls 13",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 31,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006541,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128032,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023032,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森14",
+    "name_en": "Forest of Souls 14",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 32,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006301,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104932,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128033,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023033,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "魂の森15",
+    "name_en": "Forest of Souls 15",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 33,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006021,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 409518800,
+        "quantity": 1,
+        "type": 18
+      },
+      {
+        "id": 1100789,
+        "quantity": 100,
+        "type": 7
+      }
+    ],
+    "drop_group_ids": [
+      104854,
+      104851,
+      104852
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128082,
+    "field_map_size": 0,
+    "first_rewards": [
+    ],
+    "growth_count": 1,
+    "id": 972023034,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 1,
+    "max_grind_count": 0,
+    "max_turn": 5,
+    "name": "メロトセロイ",
+    "name_en": "Merotseroy",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 202190001,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 34,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006321,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128036,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023036,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 36,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006331,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128037,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023037,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 37,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006091,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128038,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023038,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 38,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006341,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128039,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023039,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 39,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006351,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128040,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023040,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 40,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006361,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128041,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023041,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 41,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006371,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128042,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023042,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 42,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006381,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128043,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023043,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 43,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006391,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128044,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023044,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 44,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006401,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128045,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023045,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 45,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006331,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128046,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023046,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 46,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006561,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128047,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023047,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 47,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006371,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128048,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023048,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 48,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006381,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128049,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023049,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 49,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006371,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104933,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128050,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023050,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 50,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006041,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 409519000,
+        "quantity": 1,
+        "type": 18
+      },
+      {
+        "id": 1100789,
+        "quantity": 100,
+        "type": 7
+      }
+    ],
+    "drop_group_ids": [
+      104855,
+      104851,
+      104852
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128083,
+    "field_map_size": 0,
+    "first_rewards": [
+    ],
+    "growth_count": 1,
+    "id": 972023051,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 1,
+    "max_grind_count": 0,
+    "max_turn": 5,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 202190002,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 51,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006411,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128053,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023053,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 53,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006421,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128054,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023054,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 54,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006431,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128055,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023055,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 55,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006441,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128056,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023056,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 56,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006451,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128057,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023057,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 57,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006461,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128058,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023058,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 58,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006471,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128059,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023059,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 59,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006481,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128060,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023060,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 60,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006491,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128061,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023061,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 61,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006101,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128062,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023062,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 62,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006501,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128063,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023063,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 63,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006511,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128064,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023064,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 64,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006521,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128065,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023065,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 65,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006441,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128066,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023066,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 66,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006571,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830021,
+        "quantity": 5,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 5,
+        "type": 12
+      }
+    ],
+    "drop_group_ids": [
+      104934,
+      104602,
+      104603
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128067,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      },
+      {
+        "id": 1100789,
+        "quantity": 7,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023067,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 67,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006031,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 409519200,
+        "quantity": 1,
+        "type": 18
+      },
+      {
+        "id": 1100789,
+        "quantity": 100,
+        "type": 7
+      }
+    ],
+    "drop_group_ids": [
+      104856,
+      104851,
+      104852
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128084,
+    "field_map_size": 0,
+    "first_rewards": [
+    ],
+    "growth_count": 1,
+    "id": 972023068,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 1,
+    "max_grind_count": 0,
+    "max_turn": 5,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 202190003,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 68,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006051,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 409519400,
+        "quantity": 1,
+        "type": 18
+      },
+      {
+        "id": 1100789,
+        "quantity": 100,
+        "type": 7
+      }
+    ],
+    "drop_group_ids": [
+      104857,
+      104851,
+      104852
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128085,
+    "field_map_size": 0,
+    "first_rewards": [
+    ],
+    "growth_count": 1,
+    "id": 972023073,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 1,
+    "max_grind_count": 0,
+    "max_turn": 5,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 202190004,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 73,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2024,
+    "battle_id": 700006061,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 409519600,
+        "quantity": 1,
+        "type": 18
+      },
+      {
+        "id": 1100789,
+        "quantity": 100,
+        "type": 7
+      }
+    ],
+    "drop_group_ids": [
+      104858,
+      104851,
+      104852
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128086,
+    "field_map_size": 0,
+    "first_rewards": [
+    ],
+    "growth_count": 1,
+    "id": 972023074,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 1,
+    "max_grind_count": 0,
+    "max_turn": 5,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 202190005,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 74,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100820,
+        "type": 7
+      },
+      {
+        "id": 1100821,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "domination_rewards": [
+    ],
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128075,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023075,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "神のしもべ",
+    "name_en": "Servants of God",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 2,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 10313010,
+    "sort_order": 75,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "domination_rewards": [
+    ],
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128076,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023076,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遊びの時間",
+    "name_en": "Time for play",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 2,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 10313020,
+    "sort_order": 76,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "domination_rewards": [
+    ],
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128077,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023077,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 2,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 90002010,
+    "sort_order": 77,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "domination_rewards": [
+    ],
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128078,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023078,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 2,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 90002010,
+    "sort_order": 78,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "domination_rewards": [
+    ],
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128079,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023079,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 2,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 90002010,
+    "sort_order": 79,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "battle_id": 0,
+    "clear_limit": 0,
+    "domination_rewards": [
+    ],
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10128080,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972023080,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 2,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 90002010,
+    "sort_order": 80,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
     "adjusted_reward_group_id": 0,
     "battle_id": 0,
     "clear_limit": 0,

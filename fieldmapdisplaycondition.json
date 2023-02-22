@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1012801,
+    "type": 1,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1677034800,
+    "trigger_open_node_id": 0,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 0,
+    "area_effect_id": 10001
+  },
+  {
+    "id": 1012802,
+    "type": 2,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1677034800,
+    "trigger_open_node_id": 0,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 10128081,
+    "area_effect_id": 10007
+  },
+  {
+    "id": 1012803,
+    "type": 1,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1677034800,
+    "trigger_open_node_id": 10128081,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 0,
+    "area_effect_id": 10002
+  },
+  {
+    "id": 1012804,
+    "type": 2,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1677034800,
+    "trigger_open_node_id": 10128081,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 10128082,
+    "area_effect_id": 10008
+  },
+  {
+    "id": 1012805,
+    "type": 1,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1677726000,
+    "trigger_open_node_id": 10128082,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 0,
+    "area_effect_id": 10004
+  },
+  {
+    "id": 1012806,
+    "type": 2,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1677726000,
+    "trigger_open_node_id": 10128082,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 10128083,
+    "area_effect_id": 10010
+  },
+  {
+    "id": 1012807,
+    "type": 1,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1677726000,
+    "trigger_open_node_id": 10128083,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 0,
+    "area_effect_id": 10003
+  },
+  {
+    "id": 1012808,
+    "type": 2,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1677726000,
+    "trigger_open_node_id": 10128083,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 10128084,
+    "area_effect_id": 10009
+  },
+  {
+    "id": 1012809,
+    "type": 1,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1678244400,
+    "trigger_open_node_id": 10128084,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 0,
+    "area_effect_id": 10005
+  },
+  {
+    "id": 1012810,
+    "type": 2,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1678244400,
+    "trigger_open_node_id": 10128084,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 10128085,
+    "area_effect_id": 10011
+  },
+  {
+    "id": 1012811,
+    "type": 1,
+    "field_map_id": 1012801,
+    "trigger_open_at": 1678244400,
+    "trigger_open_node_id": 10128085,
+    "trigger_close_at": 0,
+    "trigger_close_node_id": 0,
+    "area_effect_id": 10006
+  }
+]

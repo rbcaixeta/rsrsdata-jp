@@ -160,5 +160,17 @@
     "key": "piece_max_quantity",
     "type": "integer",
     "value": "99999999"
+  },
+  {
+    "id": 29,
+    "key": "max_bp_limit",
+    "type": "integer",
+    "value": "99"
+  },
+  {
+    "id": 30,
+    "key": "item_conversion_rate_information",
+    "type": "string",
+    "value": "https://info.rs.aktsk.jp/info/detail/140780?k=IQmTupfo"
   }
 ]

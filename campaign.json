@@ -106906,6 +106906,23 @@
     "end_at": 1675277999
   },
   {
+    "id": 7333,
+    "displays_campaign": 1,
+    "quest_category": 0,
+    "area_ids": [
+      915001
+    ],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      5600,
+      5601
+    ],
+    "start_at": 1677438000,
+    "end_at": 1678042799
+  },
+  {
     "id": 7334,
     "displays_campaign": 1,
     "quest_category": 0,
@@ -107175,6 +107192,38 @@
     ],
     "start_at": 1675220400,
     "end_at": 1675796399
+  },
+  {
+    "id": 7352,
+    "displays_campaign": 1,
+    "quest_category": 0,
+    "area_ids": [
+      2023
+    ],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      7330
+    ],
+    "start_at": 1677034800,
+    "end_at": 1678935599
+  },
+  {
+    "id": 7354,
+    "displays_campaign": 1,
+    "quest_category": 0,
+    "area_ids": [
+      2023
+    ],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      7332
+    ],
+    "start_at": 1677034800,
+    "end_at": 1677610799
   },
   {
     "id": 7359,

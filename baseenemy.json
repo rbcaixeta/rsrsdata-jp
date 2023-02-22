@@ -21209,6 +21209,75 @@
   },
   {
     "enemy_class": 99,
+    "gender": 9,
+    "id": 199406,
+    "illust": 1994061,
+    "name": "イヴェリス",
+    "name_en": "Iveris",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      10
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 199407,
+    "illust": 1994071,
+    "name": "メロトセロイ",
+    "name_en": "Merotseroy",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      5,
+      82,
+      97
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 199408,
+    "illust": 1994081,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      97,
+      82,
+      20
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 199409,
+    "illust": 1994091,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      83,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 1,
     "id": 199410,
     "illust": 1994101,
@@ -21273,6 +21342,39 @@
   },
   {
     "enemy_class": 99,
+    "gender": 1,
+    "id": 199415,
+    "illust": 1994151,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      2,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199416,
+    "illust": 1994161,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 9,
     "id": 199417,
     "illust": 1994171,
@@ -21286,6 +21388,22 @@
       99
     ],
     "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199418,
+    "illust": 1994181,
+    "name": "？",
+    "name_en": "?",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      82
+    ],
+    "sprite_studio": 0
   },
   {
     "enemy_class": 99,
