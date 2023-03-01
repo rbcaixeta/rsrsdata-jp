@@ -3224,6 +3224,32 @@
     "sort_order": 23022255
   },
   {
+    "expired_at": 1681585199,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800250,
+    "id": 800250,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・102",
+    "name_en": "Romancing festival medal 102",
+    "name_en_src": "ml",
+    "sort_order": 23030160
+  },
+  {
+    "expired_at": 1681585199,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800251,
+    "id": 800251,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・103",
+    "name_en": "Romancing festival medal 103",
+    "name_en_src": "ml",
+    "sort_order": 23030155
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -10866,5 +10892,18 @@
     "name_en": "Shining Particles, Blue",
     "name_en_src": "ml",
     "sort_order": 23022228
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「リアム編第13話「生まれしものたち」協力ミッション 第2弾」の集計アイテム。該当イベントで入手できる。（集計は2023/3/8 4:00まで）",
+    "flavor_text_en": "Aggregated items for “Liam Edition Episode 13: Things Born” Co-op Mission Vol.2. It can be obtained at the relevant event. (The tally is until 2023/3/8 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100824,
+    "id": 1100824,
+    "max_quantity": 99999999,
+    "name": "輝く粒子・赤",
+    "name_en": "Shining Particles, Red",
+    "name_en_src": "ml",
+    "sort_order": 23030105
   }
 ]

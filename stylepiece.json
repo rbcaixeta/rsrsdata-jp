@@ -2485,6 +2485,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[魂の旅立ち]デス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece exclusive to SS [Journey of Souls] Death. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 219208,
+    "id": 219208,
+    "name": "SSデスのピース",
+    "name_en": "SS Death Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[溢れ出る闇の力]シェラハ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Overflowing Powers of Darkness] Schirach.",
     "flavor_text_en_src": "gl",
@@ -4404,6 +4416,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[深き海の力をもって]スービエ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "Exclusive piece for SS [With the Power of the Deep Sea]. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 229407,
+    "id": 229407,
+    "name": "SSスービエのピース",
+    "name_en": "SS Souvier Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[虫けらの分際で！]ダンターグ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Grovel, Worms!] Dantarg. ",
@@ -4437,6 +4461,18 @@
     "name": "SSダンターグのピース",
     "name_en": "SS Dantarg Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[邪魔する奴は粉砕だ！]ダンターグ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Whoever gets in the way is smash!] An exclusive piece for Dantag. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 229505,
+    "id": 229505,
+    "name": "SSダンターグのピース",
+    "name_en": "SS Dantagh Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -7040,6 +7076,18 @@
     "id": 239405,
     "name": "SSフォルネウスのピース",
     "name_en": "SS Fornaeus Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[海の覇権は渡さぬ！]フォルネウス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [The supremacy of the sea will not be handed over!] A piece exclusive to Forneus. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 239406,
+    "id": 239406,
+    "name": "SSフォルネウスのピース",
+    "name_en": "SS Forneus Peace",
     "name_en_src": "ml",
     "selling_price": 100
   },
@@ -11612,6 +11660,54 @@
     "id": 711903,
     "name": "SSダリアスのピース",
     "name_en": "SS Darius Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[神のしもべ]イヴェリス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "Exclusive piece for SS [Servant of God] Iveris Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712201,
+    "id": 712201,
+    "name": "SSイヴェリスのピース",
+    "name_en": "SS Iveris Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[氷の支配者]イヴェリス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "Exclusive piece for SS [Ice Ruler] Iveris. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712202,
+    "id": 712202,
+    "name": "SSイヴェリスのピース",
+    "name_en": "SS Iveris Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[おてんば娘]メロトセロイ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Tomboy] Melotoseloi exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712301,
+    "id": 712301,
+    "name": "SSメロトセロイのピース",
+    "name_en": "SS Melotoseloi piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[双頭の龍]メロトセロイ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Double Headed Dragon] Melotoseloi exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712304,
+    "id": 712304,
+    "name": "SSメロトセロイのピース",
+    "name_en": "SS Melotoseloi piece",
     "name_en_src": "ml",
     "selling_price": 100
   },

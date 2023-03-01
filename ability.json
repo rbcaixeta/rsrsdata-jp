@@ -15125,6 +15125,460 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[攻撃を受けた時] <br>直接攻撃に対して、「<skill=110100302>氷華乱舞</skill>」でカウンター攻撃する( 確率大 )<br>( 技Rank1で発動 )<br><br>[ターン開始時]<br>自身のすべての状態異常耐性を上昇させる( 効果特大 )<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "[When attacked]</skill> <br>Counter attack with “<skill=110100302>Hyoka Ranbu” against a direct attack (high probability) <br>(activated by move Rank1) <br><br>[At the start of a turn] <br>Increase all of your own state anomaly resistance (very effective) <br>Recover your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101708,
+    "name": "氷華の帳",
+    "name_en": "The Book of Ice Flowers",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041818,
+      802041819,
+      802041830
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身のすべての状態異常耐性を上昇させる( 効果特大 )",
+    "flavor_text_en": "When starting a turn, increase all of your own state anomalies resistance (extremely effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101709,
+    "name": "ターン開始時 全状態異常耐性アップ(特大)",
+    "name_en": "Increased immunity to all state abnormalities at the beginning of a turn (extra large)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802021820,
+      802021821,
+      802021822,
+      802021823,
+      802021824,
+      802021825,
+      802021826,
+      802021827,
+      802021828,
+      802021829
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Recover your own BP at the beginning of a turn (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101710,
+    "name": "ターン開始時 BP回復",
+    "name_en": "BP recovery at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040754
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン終了時] <br>自身のODゲージを上昇させる( 効果中 )<br><br>[OD攻撃時]<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果大/効果2ターン )<br>自身に「<special_effect=800000173>深海の激昂</special_effect>」を付与する( 効果2ターン )",
+    "flavor_text_en": "[At end of turn] Raise</special_effect></special_effect> <br>your OD gauge (in effect) <br><br>[When OD attacks] Grant <br>yourself “<special_effect=800000015> Defense Enhancement” (big effect/effect 2 turns) Grant <br>yourself “<special_effect=800000173> Deep Sea Furious” (effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101711,
+    "name": "魔海の厄災",
+    "name_en": "Devil's Misfortune",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041748,
+      802041831
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[OD攻撃時]<br>自身に「防御強化」を付与する( 効果大/効果2ターン )<br>自身に「深海の激昂」を付与する( 効果2ターン )",
+    "flavor_text_en": "[When OD attacks] <br>Give yourself a “Defense Boost” (Great Effect/Effect 2 turns) <br>Grant yourself “Deep Sea Furious” (Effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101712,
+    "name": "OD攻撃時 防御強化・深海の激昂",
+    "name_en": "Defense enhancement during OD attacks · Deep Sea Furious",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041832,
+      802041833
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身を「<special_effect=800000073>挑発</special_effect>」状態にする( 効果中/効果4ターン )<br><br>[攻撃を受けた時]<br>被ダメージを軽減する( 効果特大 )<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果特大/効果1ターン )",
+    "flavor_text_en": "[At the start of turn]</special_effect></special_effect> <br>Put yourself in a “<special_effect=800000073> taunt” state (effect in progress/effect 4 turns) <br><br>[when attacked] <br>reduce damage taken (extra effect) <br>Grant yourself “<special_effect=800000001> Attack Enhancement” (Oversized Effect=800000001>Attack Enhancement) 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101713,
+    "name": "誘引激昂Ⅳ",
+    "name_en": "Attracting Furious IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041259,
+      802040448,
+      802041835
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃を受けた時]自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果特大/効果1ターン )",
+    "flavor_text_en": "[When attacked] Grant “<special_effect=800000001>Attack Boost” to yourself</special_effect> (oversized effects/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101715,
+    "name": "被弾時 攻撃強化",
+    "name_en": "Attack enhancement when hit",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041837
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始から数えて奇数ターン目の開始時]<br>敵全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を低下させる( 効果大 )<br>敵全体に「<special_effect=800000035>防御弱化</special_effect>」を付与する( 効果中/効果1ターン )<br><br>[バトル開始から数えて偶数ターン目の開始時]<br>味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果大 )<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "[Counting from the start of the battle at the start of the odd turn]</special_effect> <br>Reduces the strength, stamina, <br>dexterity, quickness, intelligence, mentality, love, and appeal of all enemies (great effect) Gives “<special_effect=800000035> defense weakening” to all enemies (in effect/effect 1 turn) <br><br>[at the start of the even-numbered turn counting from the start of the battle] Strength and <br>physical strength of all allied survivors ・Increases dexterity, quickness, intelligence, mentality, love, and attractiveness (great effect)</special_effect> <br>Grants “<special_effect=800000015> Defense Enhancement” to all allied survivors (in effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101716,
+    "name": "海の王者",
+    "name_en": "The king of the sea",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041838,
+      802041839
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[バトル開始から数えて偶数ターン目の開始時]<br>味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果大 )<br>味方生存者全体に「防御強化」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "[At the start of an even-numbered turn counting from the start of the battle] <br>Increases strength, stamina, <br>dexterity, quickness, intelligence, mentality, love, and appeal of all allied survivors (effective) Grants “Defense Enhancement” to all allied survivors (in effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101717,
+    "name": "偶数ターン開始時 全能力アップ(大)・防御強化",
+    "name_en": "Increase all abilities at the start of an even-numbered turn (large) and strengthen defense",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011840,
+      802011841,
+      802011842,
+      802011843,
+      802011844,
+      802010919,
+      802011846,
+      802011847,
+      802041640
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[バトル開始から数えて奇数ターン目の開始時]<br>敵全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を低下させる( 効果大 )<br>敵全体に「防御弱化」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "[At the start of an odd turn counting from the start of the battle] <br>Reduces the strength, stamina, <br>dexterity, quickness, intelligence, mentality, love, and appeal of all enemies (great effect) Gives “Defense Weakening” to all enemies (in effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101718,
+    "name": "奇数ターン開始時 全能力ダウン(大)・防御弱化",
+    "name_en": "All abilities reduced (large) and defense weakened at the start of an odd turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011848,
+      802011849,
+      802011850,
+      802011851,
+      802011852,
+      802011853,
+      802011854,
+      802011855,
+      802041856
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方全体の与ダメージが上昇( 効果特大 )し、かつ、味方全体への被ダメージを軽減( 効果大 )する<br><br>[バトル開始時]<br>味方生存者全体に「<special_effect=800000142>ターン終了時HP回復(気絶時)(特大/1回)</special_effect>」を付与する( 効果ターン数制限なし )<br><br>ただし、バトル開始時に自身以外の味方生存者全体が代償LPダメージを1受ける",
+    "flavor_text_en": "Damage dealt to all allies is increased (</special_effect><br><br><br>extra effective), and damage taken to all allies is reduced (great effect) [at the start of battle] grants “<special_effect=800000142 > HP recovery at end of turn (when stunned) (oversize/1 time)” to all allied survivors (no limit on the number of effect turns), <br><br>however, allies other than oneself at the start of the battle All survivors take 1 compensatory LP damage",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101721,
+    "name": "死の布陣",
+    "name_en": "The death squad",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041858,
+      802041859,
+      802041860,
+      802041861
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "陰属性攻撃時、自身のBPを回復する( +2 )<br>熱属性攻撃時、味方生存者全体のHPを回復する( 効果極小 )",
+    "flavor_text_en": "Recover your own BP during a negative attack (+2) <br>When attacking with heat, restore the HP of all allied survivors (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101723,
+    "name": "インフェルノスイッチ",
+    "name_en": "Inferno Switch",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041863,
+      802041864
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>ターン開始時、自身のBPを回復( +4 )する( 上限回数:バトル中2回 )",
+    "flavor_text_en": "Attack damage increases (maximum effect) <br>Recover (+4) your own BP at the beginning of the turn (maximum number of times: 2 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101724,
+    "name": "パワーウォーリアⅣ",
+    "name_en": "Power Warrior IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802041865
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身のBPを回復( +4 )する( 上限回数:バトル中2回 )",
+    "flavor_text_en": "Recover (+4) your own BP at the beginning of the turn (maximum number of times: 2 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101725,
+    "name": "ターン開始時 BP回復",
+    "name_en": "BP recovery at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041263
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、敵の攻撃を回避する( 確率特大 )<br>Weak攻撃の与ダメージが上昇する( 効果極大 )<br><br>ただし毎ターン開始時、一定の確率で( 確率大 )<br>自身の体力と精神を低下させる( 効果中 )",
+    "flavor_text_en": "When attacked, evades enemy attacks (extra probability) The <br>damage dealt by weak attacks increases (maximum effect), <br><br>but at the start of every turn, there is a certain probability (high probability) that one's <br>own physical strength and mental strength will decrease (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101726,
+    "name": "活発",
+    "name_en": "active",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041866,
+      802041867,
+      802040802
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、一定の確率で( 確率大 )<br>自身の体力と精神を低下させる( 効果中 )",
+    "flavor_text_en": "At the start of the turn, there is a certain chance (high probability) that <br>your physical strength and mind will decrease (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101727,
+    "name": "ターン開始時 体力・精神ダウン",
+    "name_en": "Stamina and mental reduction at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011868,
+      802011869
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>ターン開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果大 )を付与する( 上限回数:バトル中10回 )",
+    "flavor_text_en": "Attack damage increases (maximum effect)</special_effect> <br>When the turn starts, grant yourself “<special_effect=800000095> heat up” (high effect) (maximum number of times: 10 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101728,
+    "name": "闘いの資質Ⅴ",
+    "name_en": "Fighting Qualities V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802041870
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果大 )を付与する( 上限回数:バトル中10回 )",
+    "flavor_text_en": "At the start of the turn, grant yourself “<special_effect=800000095> heat up</special_effect>” (great effect) (maximum number of times: 10 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101729,
+    "name": "ターン開始時 ヒートアップ",
+    "name_en": "Heats up at the beginning of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041116
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +4 )<br><br>[攻撃対象を倒した時]<br>自身のBPを回復する( 倒した数によらず回復量は+10 )",
+    "flavor_text_en": "[At the start of battle] <br>Recover your own BP (+4) <br><br>[When you defeat an attack target] <br>Recover your own BP (the amount of recovery is +10 regardless of how many you have killed)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101731,
+    "name": "いっぱいあそぼ！",
+    "name_en": "Let's play a lot!",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041534,
+      802041871
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃対象を倒した時<br>自身のBPを回復する( 倒した数によらず回復量は+10 )",
+    "flavor_text_en": "<br>Recover your own BP when you defeat an attack target (the amount of recovery is +10 regardless of the number you kill)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101732,
+    "name": "撃破時 BP回復",
+    "name_en": "BP recovery when destroyed",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041872
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000096>ディフェンスアップ</special_effect>」( 効果大 )を付与する( 上限回数:バトル中5回 )<br>自身に「<special_effect=800000118>ダメージブロック(1回)</special_effect>」を付与する( 効果1ターン )<br><br>[OD攻撃時]<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果超極大 )を付与する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "[At the start of a turn] Give</special_effect></special_effect> <br>yourself “<special_effect=800000096> defensive up” (great effect) (maximum number of times: 5 times during battle) Grant <br>yourself a “<special_effect=800000118> damage block (1 time)” (effect 1 turn) <br><br>[at the time of OD attack] </special_effect><br>Give yourself “<special_effect=800000095>heat up” (super high effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101735,
+    "name": "堅鱗",
+    "name_en": "Kenrin",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041942,
+      802041558,
+      802041874
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[OD攻撃時]<br>自身に「ヒートアップ」( 効果超極大 )を付与する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "[When OD attacks] <br>Give yourself a “heat up” (super high effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101736,
+    "name": "OD攻撃時 ヒートアップ",
+    "name_en": "Heats up during OD attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041875
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "冷属性攻撃の与ダメージが上昇する( 効果特大 )<br>冷属性攻撃時、自身のBPを回復する( +2 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果大 )",
+    "flavor_text_en": "Damage dealt by cold attacks is increased (extra effective) <br>Recovers one's own BP during a cold attack (+2) <br>Reduces damage taken when receiving a Resist attack (very effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101754,
+    "name": "ハイドロオーラ",
+    "name_en": "hydro aura",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012022,
+      802041429,
+      802041917
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「ダメージブロック(1回)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of a turn, give yourself “Damage Block (1 time)” (effect for 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101765,
+    "name": "ターン開始時 ダメージブロック(1回)",
+    "name_en": "Damage block at start of turn (1 time)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041485
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "冷属性攻撃命中時、自身に「防御強化」を付与する( 効果中/効果3ターン )",
     "flavor_text_en": "When a cold attack hits, grant yourself a “Defense Boost” (in effect/effect for 3 turns)",
@@ -15173,6 +15627,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041812
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "冷属性攻撃時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Recover your own BP during a cold attack (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101809,
+    "name": "冷属性攻撃時 BP回復",
+    "name_en": "BP recovery during cold attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012021
     ]
   },
   {
@@ -50873,6 +51344,25 @@
     "sort_order": 310000165,
     "special_effect_ids": [
       811040566
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "常時　敵に与えるダメージが90%上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased by 90% at all times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100450,
+    "name": "神獣の刻印",
+    "name_en": "Mark of the Divine Beast",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "神獣の刻印 90%",
+    "simple_flavor_text_en": "Mark of the Divine Beast 90%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000365,
+    "special_effect_ids": [
+      811040567
     ]
   },
   {

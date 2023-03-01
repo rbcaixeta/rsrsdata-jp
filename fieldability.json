@@ -1,6 +1,25 @@
 [
   {
     "cue_sheet_name": "se_fieldability",
+    "effect_name": "field_earth",
+    "field_ability_group": 99,
+    "field_ability_when": 1,
+    "flavor_text": "[バトル開始から数えて1ターン目と4ターン目の行動選択前]<br>味方パーティ生存者全体と敵パーティ全体に、「<special_effect=800000188>攻撃強化(1回)</special_effect>」( 効果大/効果1ターン )を付与する",
+    "flavor_text_en": "[Counting from the start of the battle before action selection on the 1st and 4th turns]</special_effect> <br>Grant “<special_effect=800000188 > Attack Enhancement (1 time)” (large effect/ effect 1 turn) to all allied party survivors and all enemy parties",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 718100001,
+    "is_cancelable": 0,
+    "name": "捲土",
+    "name_en": "The earth is rolling",
+    "name_en_src": "ml",
+    "se_name": "se_fieldability_earth",
+    "special_effect_ids": [
+      818040001
+    ]
+  },
+  {
+    "cue_sheet_name": "se_fieldability",
     "effect_name": "field_ice",
     "field_ability_group": 99,
     "field_ability_when": 2,
@@ -35,6 +54,25 @@
     "se_name": "se_fieldability_tree",
     "special_effect_ids": [
       818050001
+    ]
+  },
+  {
+    "cue_sheet_name": "se_fieldability",
+    "effect_name": "field_fire",
+    "field_ability_group": 99,
+    "field_ability_when": 2,
+    "flavor_text": "[ターン終了時]<br>味方パーティ生存者全体に、割合ダメージを与える( 対象の最大HPの5% )<br>※割合ダメージは被ダメージ軽減効果によって軽減できない",
+    "flavor_text_en": "[At end of turn] <br>Deal percentage damage to all <br>allied party survivors (5% of the target's maximum HP) *Percentage damage cannot be reduced by damage reduction effects",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 718200003,
+    "is_cancelable": 0,
+    "name": "炎獄",
+    "name_en": "Hell",
+    "name_en_src": "ml",
+    "se_name": "se_fieldability_fire",
+    "special_effect_ids": [
+      818050002
     ]
   }
 ]
