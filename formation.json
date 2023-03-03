@@ -1293,12 +1293,12 @@
   },
   {
     "flavor_text": "前衛1人の知力と素早さ、中衛3人の器用さ、後衛1人の腕力がそれぞれ強化される、小剣、弓、銃を中心とした攻撃陣形。<br>前衛には<special_effect=800000078>行動後防御強化</special_effect>が付与され、後衛には<special_effect=800000077>行動前防御強化</special_effect>が付与される。",
-    "flavor_text_en": "An attack formation centered on a short sword, bow, and gun, where the intelligence and agility of 1 vanguard, the dexterity of the 3 center guards, and the strength of 1 rearguard are each strengthened. </special_effect></special_effect><br><special_effect=800000078> post-action defense enhancement is given to the avant-garde, and <special_effect=800000077> pre-action defense enhancement is granted to the rear guard.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Attack formation for Styles using S. Swords, Bows, and Guns, which boosts the front member's INT/AGI, the middle line's DEX, and the back member's STR. The front member gains a Post-Action Defense Boost, and the back member gains a Pre-Action Defense Boost.",
+    "flavor_text_en_src": "gl",
     "id": 1042,
     "name": "インバースハリケーン",
-    "name_en": "Inverse hurricane",
-    "name_en_src": "ml",
+    "name_en": "Inverse Hurricane",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1128,
@@ -1329,12 +1329,12 @@
   },
   {
     "flavor_text": "龍陣の前衛メンバーをさらに強化した陣形。<br>先頭メンバーの能力がさらに強化され、<special_effect=800000117>ターン終了時BP回復</special_effect>を付与する。パーティ全体の行動順をコントロールしやすい。",
-    "flavor_text_en": "A formation that further strengthened the avant-garde members of the Dragon Force. </special_effect><br>The abilities of the first member are further enhanced, and <special_effect=800000117> BP recovery is granted at the end of the turn. It's easy to control the order of actions for the whole party.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Improved Dragon Stance formation that boosts the front member further. The front member is further enhanced and gains \"End of Turn: Recover BP\". Good for controlling action order.",
+    "flavor_text_en_src": "gl",
     "id": 1043,
     "name": "龍陣・改",
-    "name_en": "Ryujin Kai",
-    "name_en_src": "ml",
+    "name_en": "Dragon Stance EX",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1131,
@@ -1365,12 +1365,12 @@
   },
   {
     "flavor_text": "様々なメンバーの個性を活かす攻撃陣形。<br>前衛の攻撃面が大きく強化されるのが特長。<br>短期戦におすすめ。",
-    "flavor_text_en": "An attacking formation that makes use of the individuality of various members. The <br>feature is that the attack surface of the avant-garde is greatly strengthened. <br>Recommended for short-term games.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Attack formation that optimizes use of each member's attributes. The front line's attacks are greatly enhanced. For quick battles.",
+    "flavor_text_en_src": "gl",
     "id": 1044,
     "name": "波状の陣",
-    "name_en": "Wavy Siege",
-    "name_en_src": "ml",
+    "name_en": "Wave Array",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1134,
@@ -1401,12 +1401,12 @@
   },
   {
     "flavor_text": "パワーレイズの全てのメンバーをさらに強化した陣形。<br>全体的に防御面が強化されているので、パーティ全体の生存率を上げたい場合におすすめ。",
-    "flavor_text_en": "A formation that further strengthens all members of the Power Rays. The <br>overall defensive surface has been strengthened, so it is recommended if you want to increase the survival rate of the whole party.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Improved Seer's Focus formation that boosts all members further. Party's defense is boosted, improving party survival.",
+    "flavor_text_en_src": "gl",
     "id": 1045,
     "name": "パワーレイズ・改",
-    "name_en": "Power Raise Kai",
-    "name_en_src": "ml",
+    "name_en": "Seer's Focus EX",
+    "name_en_src": "gl",
     "positions": [
       {
         "formation_bonus_id": 1138,

@@ -2472,14 +2472,14 @@
   {
     "expired_at": 1659034799,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800192,
     "id": 800192,
     "max_quantity": 99999999,
     "name": "Romancing祭メダル・56",
-    "name_en": "Romance Festival Medal 56",
-    "name_en_src": "ml",
+    "name_en": "Romancing Festival Medal 79",
+    "name_en_src": "gl",
     "sort_order": 22053160
   },
   {
@@ -2537,14 +2537,14 @@
   {
     "expired_at": 1659034799,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800197,
     "id": 800197,
     "max_quantity": 99999999,
     "name": "Romancing祭メダル・59",
-    "name_en": "Romancing Festival Medal・59",
-    "name_en_src": "ml",
+    "name_en": "Romancing Festival Medal 80",
+    "name_en_src": "gl",
     "sort_order": 22061485
   },
   {
@@ -4916,13 +4916,13 @@
   {
     "expired_at": 0,
     "flavor_text": "練達に必要な素材。道場で使用できる。",
-    "flavor_text_en": "Can be exchanged for items.",
+    "flavor_text_en": "Material for amplification. Can be used in the Dojo.",
     "flavor_text_en_src": "gl",
     "icon": 1100322,
     "id": 1100322,
     "max_quantity": 9999,
     "name": "練達の巻物",
-    "name_en": "Amplification Badge",
+    "name_en": "Amplification Scroll",
     "name_en_src": "gl",
     "sort_order": 49999525
   },
@@ -9414,27 +9414,27 @@
   {
     "expired_at": 0,
     "flavor_text": "特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "Materials required to create specific refinement equipment. It can be obtained at events, etc.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Material for forging equipment. Can be obtained from events and other special venues.",
+    "flavor_text_en_src": "gl",
     "icon": 1100706,
     "id": 1100706,
     "max_quantity": 99999999,
     "name": "深紅の稀金属",
-    "name_en": "Crimson rare metals",
-    "name_en_src": "ml",
+    "name_en": "Vermillion Rare Metal",
+    "name_en_src": "gl",
     "sort_order": 22053140
   },
   {
     "expired_at": 0,
     "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Type/Stiletto] Material required to create specific refinement equipment. It can be obtained at events, etc.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "flavor_text_en_src": "gl",
     "icon": 1100707,
     "id": 1100707,
     "max_quantity": 99999999,
     "name": "深紅の稀なる鋳型片（小剣）",
-    "name_en": "Rare Crimson Mold Piece (Stiletto)",
-    "name_en_src": "ml",
+    "name_en": "Vermillion Mold Piece (S. Sword)",
+    "name_en_src": "gl",
     "sort_order": 22053139
   },
   {
@@ -9466,14 +9466,14 @@
   {
     "expired_at": 1657825199,
     "flavor_text": "「3.5周年記念コイン交換所」で深紅の稀金属や深紅の稀なる鋳型片（小剣）などと交換できるアイテム。（2022/7/15 4:00まで）",
-    "flavor_text_en": "Items that can be exchanged for rare crimson metals and rare crimson mold pieces (stilettos) at the “3.5th Anniversary Coin Exchange”. (Until 2022/7/15 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be exchanged for Vermillion Rare Metal, Vermillion Mold Pieces (S. Sword), and other items. (Until [1680224399] <tz>)",
+    "flavor_text_en_src": "gl",
     "icon": 1100710,
     "id": 1100710,
     "max_quantity": 99999999,
     "name": "3.5周年記念コイン[期間限定]",
-    "name_en": "3.5th Anniversary Coin [Limited Time Offer]",
-    "name_en_src": "ml",
+    "name_en": "Liam Arc Episode 6 Coin [Ltd. Time]",
+    "name_en_src": "gl",
     "sort_order": 22053132
   },
   {

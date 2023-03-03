@@ -2670,12 +2670,12 @@
     "dialog_type": 1,
     "id": 208,
     "name": "auto_rematch_Battle_End_9",
-    "name_en": "Auto_rematch_battle_end_9",
-    "name_en_src": "ml",
+    "name_en": "auto_rematch_Battle_End_9",
+    "name_en_src": "gl",
     "text": "このエリアの状況が変化したため、<br>自動再戦を停止しました。",
     "title": "自動再戦停止",
-    "title_en": "Auto rematch stop",
-    "title_en_src": "ml"
+    "title_en": "Auto Rematch Stopped",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2683,12 +2683,12 @@
     "dialog_type": 1,
     "id": 209,
     "name": "TheaterCinema_ContinuousPlayback_Confirm",
-    "name_en": "TheaterCinema_ContinuousPlayback_confirm",
-    "name_en_src": "ml",
+    "name_en": "TheaterCinema_ContinuousPlayback_Confirm",
+    "name_en_src": "gl",
     "text": "視聴可能なシナリオを全て再生しました。<br>シナリオリスト画面へ戻ります。",
     "title": "連続再生終了確認",
-    "title_en": "Confirm the end of continuous playback",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2696,12 +2696,12 @@
     "dialog_type": 1,
     "id": 210,
     "name": "TheaterMuseum_Delete_Confirm",
-    "name_en": "TheaterMuseum_delete_confirm",
-    "name_en_src": "ml",
+    "name_en": "TheaterMuseum_Delete_Confirm",
+    "name_en_src": "gl",
     "text": "お気に入りを削除しました。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2709,12 +2709,12 @@
     "dialog_type": 1,
     "id": 211,
     "name": "TheaterBattlecustom_upperlimit_Confirm",
-    "name_en": "TheaterBattleCustom_upperLimit_Confirm",
-    "name_en_src": "ml",
+    "name_en": "TheaterBattlecustom_upperlimit_Confirm",
+    "name_en_src": "gl",
     "text": "お気に入りの登録数が上限に達しています。<br>登録済みのお気に入り設定を削除してください。",
     "title": "お気に入り登録上限",
-    "title_en": "Favorite registration limit",
-    "title_en_src": "ml"
+    "title_en": "Favorites Limit",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -2722,12 +2722,12 @@
     "dialog_type": 2,
     "id": 212,
     "name": "TheaterBattlecustom_Reset_Confirm",
-    "name_en": "TheaterBattleCustom_Reset_Confirm",
-    "name_en_src": "ml",
+    "name_en": "TheaterBattlecustom_Reset_Confirm",
+    "name_en_src": "gl",
     "text": "現在の設定状態を破棄して、<br>初期の設定にリセットします。<br>よろしいですか？",
     "title": "リセット",
-    "title_en": "resetting",
-    "title_en_src": "ml"
+    "title_en": "Reset",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2735,12 +2735,12 @@
     "dialog_type": 1,
     "id": 213,
     "name": "PanelShop_ItemExchange_End",
-    "name_en": "PanelShop_ItemExchange_END",
-    "name_en_src": "ml",
+    "name_en": "PanelShop_ItemExchange_End",
+    "name_en_src": "gl",
     "text": "全てのパネル報酬を交換しました。<br>以降パネル報酬は交換はできません。",
     "title": "全パネル報酬交換終了",
-    "title_en": "End of all panel reward exchanges",
-    "title_en_src": "ml"
+    "title_en": "All Panel Rewards Exchanged",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2761,12 +2761,12 @@
     "dialog_type": 1,
     "id": 216,
     "name": "PanelShop_Expired_Confirm",
-    "name_en": "PanelShop_expired_confirm",
-    "name_en_src": "ml",
+    "name_en": "PanelShop_Expired_Confirm",
+    "name_en_src": "gl",
     "text": "パネル交換所の有効期限が切れました。<br>\nホーム画面に戻ります。",
     "title": "有効期限切れ",
     "title_en": "Expired",
-    "title_en_src": "ml"
+    "title_en_src": "gl"
   },
   {
     "button1": "開始する",
