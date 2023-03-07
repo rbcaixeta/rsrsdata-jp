@@ -74,5 +74,24 @@
     "special_effect_ids": [
       818050002
     ]
+  },
+  {
+    "cue_sheet_name": "se_fieldability",
+    "effect_name": "field_metal",
+    "field_ability_group": 99,
+    "field_ability_when": 2,
+    "flavor_text": "[バトル開始から数えて偶数ターン目のターン終了時]<br>味方パーティ生存者全体に「<special_effect=800000185>最大BP減少</special_effect>」( 減少量1/効果バトル中永続 )を付与する",
+    "flavor_text_en": "[At the end of the even-numbered turn counting from the start of the battle]</special_effect> <br>Grant “<special_effect=800000185>maximum BP reduction” (reduction amount 1/effect lasts during battle) to all allied party survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 718200004,
+    "is_cancelable": 0,
+    "name": "神託",
+    "name_en": "Oracle",
+    "name_en_src": "ml",
+    "se_name": "se_fieldability_gold",
+    "special_effect_ids": [
+      818040002
+    ]
   }
 ]

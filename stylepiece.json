@@ -433,6 +433,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[女神システム覚醒]めがみ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "An exclusive piece for SS [Goddess System Awakening] glasses. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 121305,
+    "id": 121305,
+    "name": "SSめがみのピース",
+    "name_en": "SS Megami Piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[八丁堀のお玉よ]おたま専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Hana of Hatchobori] Hana.",
     "flavor_text_en_src": "gl",
@@ -4272,6 +4284,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[リミッターを解除して]ノエル専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [remove the limiter] Noel's exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 229210,
+    "id": 229210,
+    "name": "SSノエルのピース",
+    "name_en": "SS Noel's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[うるさい人はキライよ]ロックブーケ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [I Hate Annoying People] Rocbouquet.",
@@ -7968,6 +7992,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[全力を出せる相手]メタルブラック専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [opponent who can show full strength] metal black exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 312004,
+    "id": 312004,
+    "name": "SSメタルブラックのピース",
+    "name_en": "SS metal black piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[我が名はルージュ]ルージュ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [My Name Is Rouge] Rouge. ",
@@ -10656,6 +10692,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[本気出しちゃおうか！]ヴァッハ神専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Let's get serious!] A piece exclusive to God Wach. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 619105,
+    "id": 619105,
+    "name": "SSヴァッハ神のピース",
+    "name_en": "SS Wach God's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[侯国塔士として！]ポルカ・リン・ウッド専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Marquisate Grave Knight!] Polka Lynn Wood. ",
@@ -11708,6 +11756,66 @@
     "id": 712304,
     "name": "SSメロトセロイのピース",
     "name_en": "SS Melotoseloi piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[嫌いなモノ]オルレット専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [thing I don't like] Orlet exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712401,
+    "id": 712401,
+    "name": "SSオルレットのピース",
+    "name_en": "SS Orlet's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[炎の女王]オルレット専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "Exclusive piece for SS [Queen of Fire] Orlet. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712402,
+    "id": 712402,
+    "name": "SSオルレットのピース",
+    "name_en": "SS Orlet's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[戦いの秘訣]ハーディ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [secret of battle] Hardy exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712501,
+    "id": 712501,
+    "name": "SSハーディのピース",
+    "name_en": "SS Hardy pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[武の巨人]ハーディ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Warrior Titan] Hardy exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712502,
+    "id": 712502,
+    "name": "SSハーディのピース",
+    "name_en": "SS Hardy pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[五神獣の長]ラゼム専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Chief of the Five Divine Beasts] Razem exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712601,
+    "id": 712601,
+    "name": "SSラゼムのピース",
+    "name_en": "SS Razem pieces",
     "name_en_src": "ml",
     "selling_price": 100
   },

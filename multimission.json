@@ -4022,5 +4022,725 @@
         "type": 1
       }
     ]
+  },
+  {
+    "description": "累計10兆ダメージを与える",
+    "description_en": "Inflicts a total of 10 trillion damage",
+    "description_en_src": "ml",
+    "id": 200121,
+    "is_multi": 1,
+    "multi_mission_tab_id": 7,
+    "priority": 9999,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 300,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計20兆ダメージを与える",
+    "description_en": "Inflicts a total of 20 trillion damage",
+    "description_en_src": "ml",
+    "id": 200122,
+    "is_multi": 1,
+    "multi_mission_tab_id": 7,
+    "priority": 9998,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 300,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計30兆ダメージを与える",
+    "description_en": "Inflicts a total of 30 trillion damage",
+    "description_en_src": "ml",
+    "id": 200123,
+    "is_multi": 1,
+    "multi_mission_tab_id": 7,
+    "priority": 9997,
+    "rewards": [
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      },
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 125000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計40兆ダメージを与える",
+    "description_en": "Inflicts a total of 40 trillion damage",
+    "description_en_src": "ml",
+    "id": 200124,
+    "is_multi": 1,
+    "multi_mission_tab_id": 7,
+    "priority": 9996,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 300,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 125000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計50兆ダメージを与える",
+    "description_en": "Inflicts a total of 50 trillion damage",
+    "description_en_src": "ml",
+    "id": 200125,
+    "is_multi": 1,
+    "multi_mission_tab_id": 7,
+    "priority": 9995,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 300,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 100,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計60兆ダメージを与える",
+    "description_en": "Inflicts a total of 60 trillion damage",
+    "description_en_src": "ml",
+    "id": 200126,
+    "is_multi": 1,
+    "multi_mission_tab_id": 7,
+    "priority": 9994,
+    "rewards": [
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      },
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 150,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 100,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計70兆ダメージを与える",
+    "description_en": "Inflicts a total of 70 trillion damage",
+    "description_en_src": "ml",
+    "id": 200127,
+    "is_multi": 1,
+    "multi_mission_tab_id": 7,
+    "priority": 9993,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 600,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 150,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 100,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計80兆ダメージを与える",
+    "description_en": "Inflicts a total of 80 trillion damage",
+    "description_en_src": "ml",
+    "id": 200128,
+    "is_multi": 1,
+    "multi_mission_tab_id": 7,
+    "priority": 9992,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 600,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 25,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 200,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 150,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 175000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計90兆ダメージを与える",
+    "description_en": "Inflicts a total of 90 trillion damage",
+    "description_en_src": "ml",
+    "id": 200129,
+    "is_multi": 1,
+    "multi_mission_tab_id": 7,
+    "priority": 9991,
+    "rewards": [
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      },
+      {
+        "id": 810066,
+        "quantity": 25,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 200,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 150,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 175000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計100兆ダメージを与える",
+    "description_en": "Inflicts a total of 100 trillion damage",
+    "description_en_src": "ml",
+    "id": 200130,
+    "is_multi": 1,
+    "multi_mission_tab_id": 7,
+    "priority": 9990,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 600,
+        "type": 1
+      },
+      {
+        "id": 810066,
+        "quantity": 50,
+        "type": 8
+      },
+      {
+        "id": 830021,
+        "quantity": 300,
+        "type": 11
+      },
+      {
+        "id": 840203,
+        "quantity": 200,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計3,000万ダメージを与える",
+    "description_en": "Deals a total of 30 million damage",
+    "description_en_src": "ml",
+    "id": 200131,
+    "is_multi": 0,
+    "multi_mission_tab_id": 7,
+    "priority": 9999,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 20,
+        "type": 33
+      },
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計6,000万ダメージを与える",
+    "description_en": "Deals a total of 60 million damage",
+    "description_en_src": "ml",
+    "id": 200132,
+    "is_multi": 0,
+    "multi_mission_tab_id": 7,
+    "priority": 9998,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 20,
+        "type": 33
+      },
+      {
+        "id": 810066,
+        "quantity": 5,
+        "type": 8
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計9,000万ダメージを与える",
+    "description_en": "Deals a total of 90 million damage",
+    "description_en_src": "ml",
+    "id": 200133,
+    "is_multi": 0,
+    "multi_mission_tab_id": 7,
+    "priority": 9997,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 40,
+        "type": 33
+      },
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計1.2億ダメージを与える",
+    "description_en": "Inflicts a total of 120 million damage",
+    "description_en_src": "ml",
+    "id": 200134,
+    "is_multi": 0,
+    "multi_mission_tab_id": 7,
+    "priority": 9996,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 40,
+        "type": 33
+      },
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計1.5億ダメージを与える",
+    "description_en": "Inflicts a total of 150 million damage",
+    "description_en_src": "ml",
+    "id": 200135,
+    "is_multi": 0,
+    "multi_mission_tab_id": 7,
+    "priority": 9995,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 60,
+        "type": 33
+      },
+      {
+        "id": 810066,
+        "quantity": 10,
+        "type": 8
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計1.8億ダメージを与える",
+    "description_en": "Inflicts a total of 180 million damage",
+    "description_en_src": "ml",
+    "id": 200136,
+    "is_multi": 0,
+    "multi_mission_tab_id": 7,
+    "priority": 9994,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 60,
+        "type": 33
+      },
+      {
+        "id": 810066,
+        "quantity": 20,
+        "type": 8
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計2.1億ダメージを与える",
+    "description_en": "Inflicts a total of 210 million damage",
+    "description_en_src": "ml",
+    "id": 200137,
+    "is_multi": 0,
+    "multi_mission_tab_id": 7,
+    "priority": 9993,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 80,
+        "type": 33
+      },
+      {
+        "id": 810066,
+        "quantity": 20,
+        "type": 8
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計2.4億ダメージを与える",
+    "description_en": "Inflicts a total of 240 million damage",
+    "description_en_src": "ml",
+    "id": 200138,
+    "is_multi": 0,
+    "multi_mission_tab_id": 7,
+    "priority": 9992,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 80,
+        "type": 33
+      },
+      {
+        "id": 810066,
+        "quantity": 20,
+        "type": 8
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計2.7億ダメージを与える",
+    "description_en": "Inflicts a total of 270 million damage",
+    "description_en_src": "ml",
+    "id": 200139,
+    "is_multi": 0,
+    "multi_mission_tab_id": 7,
+    "priority": 9991,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 100,
+        "type": 33
+      },
+      {
+        "id": 810066,
+        "quantity": 20,
+        "type": 8
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "累計3億ダメージを与える",
+    "description_en": "Inflicts a total of 300 million damage",
+    "description_en_src": "ml",
+    "id": 200140,
+    "is_multi": 0,
+    "multi_mission_tab_id": 7,
+    "priority": 9990,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 100,
+        "type": 33
+      },
+      {
+        "id": 810066,
+        "quantity": 30,
+        "type": 8
+      },
+      {
+        "id": 840203,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 501500100,
+        "quantity": 15,
+        "type": 26
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
   }
 ]

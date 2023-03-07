@@ -13259,6 +13259,20 @@
   },
   {
     "applies_to_all_styles": 0,
+    "event_ability_category_id": 774,
+    "flavor_text": "・リアム編第13話「生まれしものたち」-神域の大決戦-でHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍＆【歪結晶】が追加ドロップ＆【紋様石】が追加ドロップ<br>・メインでHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍",
+    "flavor_text_en": "・In Liam's episode 13 “Born of Life” - Battle of the Divine Realms - the amount of increase when HP is raised is 4 times & the amount of increase when other abilities are raised is 3 times & the amount of increase when the skill or jutsu rank is increased is 2 times & [Distorted Crystals] are added drops & [Patterned Stones] are added drops <br>· The amount of increase when HP is increased is 4 times & the amount of increase when other abilities are raised is 3 times & the amount of increase when the rank is increased by 2 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1124,
+    "name": "生まれしものたち・Romancing祭③",
+    "name_en": "Born Romancing Festival ③",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3290
+  },
+  {
+    "applies_to_all_styles": 0,
     "event_ability_category_id": 775,
     "flavor_text": "・リアム編第13話「生まれしものたち」-神域の大決戦-で能力値アップ時の上昇量が3倍＆【歪結晶】が追加ドロップ＆【紋様石】が追加ドロップ<br>・メインで能力値アップ時の上昇量が3倍",
     "flavor_text_en": "・In Liam's episode 13 “Born of Life” - Battle of the Divine Realms - the amount of increase when ability values are increased is 3 times & [Distorted Crystals] are added drops & [Patterned Stones] are added drops, and [Patterned Stones] are added drops <br>· The amount of increase when ability values are increased is 3 times the main",
@@ -13312,5 +13326,33 @@
     "name_en_src": "ml",
     "prefix": "[期間限定]",
     "priority": 3231
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 787,
+    "flavor_text": "・リアム編第13話「生まれしものたち」-神域の大決戦-で能力値アップ時の上昇量が5倍＆スタイル強化EXP獲得時の獲得量が5倍＆技・術ランクアップ時の上昇量が2倍＆【歪結晶】が追加ドロップ＆【紋様石】が追加ドロップ＆装飾品が確率で追加ドロップ<br>・メインで能力値アップ時の上昇量が5倍＆スタイル強化EXP獲得時の獲得量が5倍＆技・術ランクアップ時の上昇量が2倍",
+    "flavor_text_en": "・In Liam's episode 13 “Born: Daredevil” - Battle of the Divine Realms - the amount of increase when an ability level is increased is 5 times & the amount gained when gaining style enhancement EXP is 5 times & the amount of increase when a skill or jutsu rank is increased is 2 times & [Distorted Crystals] are added and [<br>Patterned Stones] are added and ornaments are added probabilistically. ・Mainly, the amount of increase when an ability value is increased 5 times & the amount gained when gaining Style Enhancement EXP is 2 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1136,
+    "name": "五神獣超育成応援②",
+    "name_en": "Five Divine Beasts Super Training Support ②",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3292
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 788,
+    "flavor_text": "・リアム編第13話「生まれしものたち」-神域の大決戦-で能力値アップ時の上昇量が5倍＆スタイル強化EXP獲得時の獲得量が5倍＆技・術ランクアップ時の上昇量が2倍＆【歪結晶】が追加ドロップ＆【紋様石】が追加ドロップ＆装飾品が確率で追加ドロップ<br>・メインで能力値アップ時の上昇量が5倍＆スタイル強化EXP獲得時の獲得量が5倍＆技・術ランクアップ時の上昇量が2倍",
+    "flavor_text_en": "・In Liam's episode 13 “Born: Daredevil” - Battle of the Divine Realms - the amount of increase when an ability level is increased is 5 times & the amount gained when gaining style enhancement EXP is 5 times & the amount of increase when a skill or jutsu rank is increased is 2 times & [Distorted Crystals] are added and [<br>Patterned Stones] are added and ornaments are added probabilistically. ・Mainly, the amount of increase when an ability value is increased 5 times & the amount gained when gaining Style Enhancement EXP is 2 times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1137,
+    "name": "五神獣超育成応援③",
+    "name_en": "Five Divine Beasts Super Training Support ③",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3293
   }
 ]
