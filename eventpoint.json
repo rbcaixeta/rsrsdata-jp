@@ -2576,14 +2576,14 @@
   {
     "expired_at": 1659466799,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800200,
     "id": 800200,
     "max_quantity": 99999999,
     "name": "Romancing祭メダル・62",
-    "name_en": "Romancing Festival Medal/62",
-    "name_en_src": "ml",
+    "name_en": "Romancing Festival Medal 82",
+    "name_en_src": "gl",
     "sort_order": 22062260
   },
   {
@@ -9544,14 +9544,14 @@
   {
     "expired_at": 1657825199,
     "flavor_text": "イベント「聖石の洞窟発掘キャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2022/7/15 4:00まで）",
-    "flavor_text_en": "Items that can be obtained during the “Sacred Stone Cave Excavation Campaign” event. Can be exchanged for items at the exchange office. (Until 2022/7/15 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100376,
     "id": 1100714,
     "max_quantity": 99999999,
     "name": "きれいな石(黒)[期間限定]",
-    "name_en": "Beautiful Stone (Black) [Limited Time Offer]",
-    "name_en_src": "ml",
+    "name_en": "Precious Stone [Limited Time]",
+    "name_en_src": "gl",
     "sort_order": 22061410
   },
   {
@@ -9609,27 +9609,27 @@
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100719,
     "id": 1100719,
     "max_quantity": 99999999,
     "name": "二輪の白花",
-    "name_en": "White flower on two wheels",
-    "name_en_src": "ml",
+    "name_en": "Two White Flowers",
+    "name_en_src": "gl",
     "sort_order": 22062205
   },
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100720,
     "id": 1100720,
     "max_quantity": 99999999,
     "name": "騎士の飾り",
-    "name_en": "Knight Ornament",
-    "name_en_src": "ml",
+    "name_en": "Knightly Ribbon",
+    "name_en_src": "gl",
     "sort_order": 22062210
   },
   {
