@@ -21407,6 +21407,38 @@
   },
   {
     "enemy_class": 99,
+    "gender": 9,
+    "id": 199419,
+    "illust": 1994191,
+    "name": "外なる神",
+    "name_en": "An outer god",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      82
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199420,
+    "illust": 1994201,
+    "name": "異形の神",
+    "name_en": "Heteromorphic gods",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      82
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
     "gender": 2,
     "id": 199421,
     "illust": 1994211,

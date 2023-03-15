@@ -20,6 +20,25 @@
   },
   {
     "cue_sheet_name": "se_fieldability",
+    "effect_name": "field_earth",
+    "field_ability_group": 99,
+    "field_ability_when": 1,
+    "flavor_text": "バトル開始から数えて特定ターンの行動選択前( 開始1ターン目/周期3ターン )<br>味方パーティ生存者全体と敵パーティ全体に、「<special_effect=800000188>攻撃強化(1回)</special_effect>」( 効果大/効果1ターン )を付与する",
+    "flavor_text_en": "Count from the start of the battle and</special_effect> <br>grant “<special_effect=800000188 > Attack Enhancement (1 turn)” (large effect/effect 1 turn) to all allied party survivors and all enemy parties before selecting an action for a specific turn (start turn/cycle 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 718100002,
+    "is_cancelable": 0,
+    "name": "捲土",
+    "name_en": "The earth is rolling",
+    "name_en_src": "ml",
+    "se_name": "se_fieldability_earth",
+    "special_effect_ids": [
+      818040001
+    ]
+  },
+  {
+    "cue_sheet_name": "se_fieldability",
     "effect_name": "field_ice",
     "field_ability_group": 99,
     "field_ability_when": 2,
@@ -92,6 +111,45 @@
     "se_name": "se_fieldability_gold",
     "special_effect_ids": [
       818040002
+    ]
+  },
+  {
+    "cue_sheet_name": "se_fieldability",
+    "effect_name": "field_ice",
+    "field_ability_group": 99,
+    "field_ability_when": 2,
+    "flavor_text": "バトル開始から数えて特定ターンの終了時( 開始4ターン目/周期6ターン )<br>味方パーティ生存者全体に「<special_effect=800000184>消費BP増加</special_effect>」( 増加量1/効果バトル中永続 )を付与する",
+    "flavor_text_en": "Count from the start of the battle and</special_effect> <br>grant “<special_effect=800000184>BP consumption increase” (increase 1/effect lasts during battle) to all allied party survivors at the end of a specific turn (start turn 4, cycle 6 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 718200005,
+    "is_cancelable": 0,
+    "name": "氷獄",
+    "name_en": "Hyōgoku",
+    "name_en_src": "ml",
+    "se_name": "se_fieldability_ice",
+    "special_effect_ids": [
+      818040003
+    ]
+  },
+  {
+    "cue_sheet_name": "se_fieldability",
+    "effect_name": "field_wood",
+    "field_ability_group": 99,
+    "field_ability_when": 2,
+    "flavor_text": "[ターン終了時]<br>味方パーティ生存者全体と敵パーティ全体のHPを割合回復する( 対象の最大HPの5% )",
+    "flavor_text_en": "[At end of turn] <br>Recover the percentage of HP of all allied party survivors and all enemy parties (5% of the target's maximum HP)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 718200006,
+    "is_cancelable": 0,
+    "name": "生転",
+    "name_en": "Sobutan",
+    "name_en_src": "ml",
+    "se_name": "se_fieldability_tree",
+    "special_effect_ids": [
+      818050001,
+      818050003
     ]
   }
 ]

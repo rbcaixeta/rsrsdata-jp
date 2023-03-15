@@ -372,5 +372,22 @@
     "name_en_src": "ml",
     "sort_order": 23022201,
     "style_event_ability_id": 0
+  },
+  {
+    "duration_seconds": 86400,
+    "event_ability_group_id": 1132,
+    "event_ability_potion_type": 2,
+    "expired_at": 1681498799,
+    "flavor_text": "[期間限定]使用から24時間、全てのキャラクターから1体選び、技・術Rank Up時の上昇量を2倍にする。（2023/4/15 4:00まで）",
+    "flavor_text_en": "[Limited time offer] Choose 1 from all characters for 24 hours from use, and double the amount raised when you rank up a technique or jutsu. (Until 2023/4/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 940028,
+    "id": 940029,
+    "max_quantity": 9999,
+    "name": "[全]技・術Rank Up促進剤・Ⅱ（4/15 4:00まで）",
+    "name_en": "[All] Techniques/Jutsu Rank Up Promoter II (until 4/15 4:00)",
+    "name_en_src": "ml",
+    "sort_order": 23031602,
+    "style_event_ability_id": 0
   }
 ]

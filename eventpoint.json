@@ -3276,6 +3276,19 @@
     "sort_order": 23030855
   },
   {
+    "expired_at": 1681585199,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800254,
+    "id": 800254,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・106",
+    "name_en": "Romancing festival medal 106",
+    "name_en_src": "ml",
+    "sort_order": 23031650
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -10931,5 +10944,44 @@
     "name_en": "Shining Particles, Red",
     "name_en_src": "ml",
     "sort_order": 23030105
+  },
+  {
+    "expired_at": 1680289199,
+    "flavor_text": "イベント「きれいな石ドロップキャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2023/4/1 4:00まで）",
+    "flavor_text_en": "Items that can be obtained during the “Beautiful Stone Drop Campaign” event. You can exchange items at the exchange. (until 2023/4/1 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100233,
+    "id": 1100825,
+    "max_quantity": 99999999,
+    "name": "きれいな石[期間限定]",
+    "name_en": "Beautiful Stones [Limited Time Only]",
+    "name_en_src": "ml",
+    "sort_order": 23031660
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100828,
+    "id": 1100828,
+    "max_quantity": 99999999,
+    "name": "超鍛錬メダル【大決戦祭！】",
+    "name_en": "Super Training Medal [Battle Festival!]",
+    "name_en_src": "ml",
+    "sort_order": 23031640
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100829,
+    "id": 1100829,
+    "max_quantity": 99999999,
+    "name": "超鍛錬の証【大決戦祭！】",
+    "name_en": "Proof of Super Training [Battle Festival!]",
+    "name_en_src": "ml",
+    "sort_order": 23031644
   }
 ]

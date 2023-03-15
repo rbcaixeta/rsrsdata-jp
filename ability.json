@@ -16433,6 +16433,187 @@
   },
   {
     "ability_when": 6,
+    "flavor_text": "技攻撃時、味方生存者全体の腕力・器用さ・知力を上昇させる( 効果中 )<br>術攻撃時、味方生存者全体の体力・精神を上昇させる( 効果中 )",
+    "flavor_text_en": "When attacking, increases the strength, dexterity, and intelligence of all allied survivors (in effect) <br>When attacking, increases the stamina and mentality of all allied survivors (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101768,
+    "name": "王の慈悲",
+    "name_en": "The king's mercy",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011946,
+      802011947,
+      802011948,
+      802011949,
+      802011950
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br><br>[バトル開始時]<br>自身以外の味方生存者全体に「<special_effect=800000189>狂信</special_effect>」を付与する( 効果バトル中永続 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125500227>リリーフゾーン</skill>」が発動する( 確率大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "Increases damage from attacks (extra effect)</special_effect> <br>Reduces damage taken when attacked (extra effective) <br><br>[Battle starts] <br><br><br>Gives “<special_effect=800000189> fanaticism” to all allied survivors other than yourself (effect persists during battle) [when hitting a technique or technique (*) whose type is “Attack”] <br>“< “Skill = 125500227> Relief Zone</skill>” will be activated (high probability) <br>(activated by Jutsu Rank 1) <br>* Does not include “techniques and techniques activated by this ability effect,” “counterattack techniques and techniques with counter effects,” and “techniques passed down in the R Cup”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101769,
+    "name": "第一の獣",
+    "name_en": "The first beast",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802040448,
+      802041951,
+      802041976
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「リリーフゾーン」が発動する( 確率大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "When you hit a technique or jutsu whose type is “attack”, the “Relief Zone” will be activated (high probability) <br>(activated by Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101770,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041952,
+      802041953,
+      802041954,
+      802041955,
+      802041956
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br>自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果特大 )<br><br>[通常攻撃時]<br>「<skill=110100272>タービュランスほう</skill>」が発動する<br>( 技Rank1で発動 )<br><br>[攻撃を受けてHP0になる時]<br>HP1でふみとどまる( 上限回数:バトル中1回 )",
+    "flavor_text_en": "[At the start of battle]</skill> <br>Recover your own BP (+3) <br>Increase your own strength, <br><br><br><br><br><br><br>stamina, dexterity, quickness, intelligence, mentality, love, and appeal (extra effect) [During normal attack] “<skill=110100272> Turbulence” is activated (activated by move Rank1) [When attacked and becomes HP0] stays at Fumi on HP1 (HP1) (Maximum number of times: 1 time during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101771,
+    "name": "時渡りの勇者",
+    "name_en": "The Hero Who Traveled Through Time",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802011957,
+      802011430,
+      802011431,
+      802011432,
+      802011433,
+      802011434,
+      802011435,
+      802011436,
+      802042098,
+      802041958
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "通常攻撃時、「タービュランスほう」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "During a normal attack, “Turbulence Ho” is activated <br>(activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101772,
+    "name": "通常攻撃時 追加攻撃",
+    "name_en": "Additional attacks during normal attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041959
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[攻撃命中時]<br><br>＜HP満タンの場合＞<br>自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果中 )<br>自身のBPを回復する( +2 )<br><br>＜HPが満タンではない場合＞<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果3ターン )<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果3ターン )<br>自身のBPを回復する( +1 )<br><br>＜瀕死の場合＞<br>自身に「<special_effect=800000118>ダメージブロック(1回)</special_effect>」を付与する( 効果1ターン )<br>自身のBPを回復する( +4 )<br>( HPが満タンではない場合の効果も共に発揮される )",
+    "flavor_text_en": "[When</special_effect> <br><br>an attack is hit] ＜When HP is full ＞ <br>Increase one's own strength, stamina, dexterity, quickness, intelligence, mentality, love, and appeal (in effect) <br>Recover your own BP (+2) <br><br>＜When HP is not full ＞ <br>Grant “<special_effect=800000001>Attack Enhancement” to yourself (great effect/effect 3 turns) <br> Grant “<special_effect=800000015>Defense Enhancement” to yourself</special_effect> (in effect/ 3 turns of effect)</special_effect> <br>Recover your own BP (+1) <br><br>＜in case of dying ＞ <br>grant yourself “<special_effect=800000118> damage block (1 time)” (effect 1 turn) <br> Recover your own BP (+4) <br>(also shows effects when HP is not full)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101773,
+    "name": "ブレイブソウル",
+    "name_en": "Brave soul",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041985,
+      802041986,
+      802041987
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "剣装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "When equipped with a sword, damage from <br>attacks increases (maximum effect) Reduces damage taken when attacked (extremely effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101774,
+    "name": "剣の極み",
+    "name_en": "The height of swords",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040805,
+      802040448
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方全体の斬属性攻撃の与ダメージが上昇する( 効果極大 )<br><br>[ターン終了時]<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "Damage dealt by slash attacks to all allies is increased (maximum effect) <br><br>[At end of turn] <br>Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101775,
+    "name": "斬増練気Ⅰ",
+    "name_en": "Zanmashu Renqi I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041977,
+      802040902
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象の体力と精神を低下させる( 効果小 )<br>ただし攻撃命中時、自身の愛と魅力を低下させる( 効果小 )",
+    "flavor_text_en": "When an attack hits, lowers the target's physical strength and mentality (less effective), <br>but when hit by an attack, lowers one's own love and appeal (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101776,
+    "name": "狂信",
+    "name_en": "fanaticism",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011972,
+      802011973,
+      802011974,
+      802011975
+    ]
+  },
+  {
+    "ability_when": 6,
     "flavor_text": "冷属性攻撃命中時、自身に「防御強化」を付与する( 効果中/効果3ターン )",
     "flavor_text_en": "When a cold attack hits, grant yourself a “Defense Boost” (in effect/effect for 3 turns)",
     "flavor_text_en_src": "ml",
@@ -16480,6 +16661,68 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041812
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃命中時、HP満タンの場合]<br>自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果中 )<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "[When an attack is hit, when HP is full] <br>Increases one's own strength, physical strength, dexterity, quickness, intelligence, spirit, love, and appeal (in effect) <br>restores one's own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101782,
+    "name": "攻撃時 全能力アップ(中)・BP回復",
+    "name_en": "All abilities increased during attack (medium) and BP recovered",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011960,
+      802011961,
+      802011962,
+      802011963,
+      802011964,
+      802011965,
+      802011966,
+      802011967,
+      802042007
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃命中時、HPが満タンではない場合]<br>自身に「攻撃強化」を付与する( 効果大/効果3ターン )<br>自身に「防御強化」を付与する( 効果中/効果3ターン )<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "[When an attack is hit, when HP is not full] Give <br>yourself an “Attack Boost” (big effect/3 turns of effect) <br>Grant a “Defense Boost” to yourself (in effect/3 turns of effect) <br>Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101783,
+    "name": "攻撃時 攻撃強化・防御強化・BP回復",
+    "name_en": "Attack enhancement/defense enhancement/BP recovery during attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041968,
+      802041969,
+      802042008
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃命中時、瀕死の場合]<br>自身に「ダメージブロック(1回)」を付与する( 効果1ターン )<br>自身のBPを回復する( +4 )",
+    "flavor_text_en": "[When hit by an attack, when dying] <br>Give yourself a “damage block (1 time)” (effect 1 turn) and <br>recover your own BP (+4)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101784,
+    "name": "攻撃時 ダメージブロック(1回)・BP回復",
+    "name_en": "Attack damage block (1 time) /BP recovery",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041970,
+      802041988
     ]
   },
   {
@@ -45905,6 +46148,62 @@
     ]
   },
   {
+    "ability_when": 2,
+    "flavor_text": "[ラウンド開始時]<br>敵全体の腕力・器用さ・知力を低下させる( 効果超極大 )",
+    "flavor_text_en": "[At the start of the round] <br>Reduces the strength, dexterity, and intelligence of all enemies (super effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708200267,
+    "name": "能力弱化Ⅵ(腕力・器用さ・知力)",
+    "name_en": "Weakened Abilities VI (Strength, Dexterity, Intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010578,
+      808010579,
+      808010580
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "攻撃の命中率が上昇する( 効果極大 )<br><br>[ターン終了時]<br>自身の腕力・体力・器用さ・素早さの能力ダウン状態を解除する<br><br>[攻撃命中時]<br>自身の腕力・素早さを上昇させる( 確率小/効果小 )",
+    "flavor_text_en": "Attack hit rate increases (maximum effect) <br><br>[At end of turn] <br><br><br><br>Cancels a state where one's own strength, health, dexterity, and agility abilities have been reduced [when an attack is hit] Increases one's own strength and agility (low probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708200274,
+    "name": "武の呼吸",
+    "name_en": "Martial Breathing",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040589,
+      808040590,
+      808040465
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "[瀕死時]<br>被ダメージを軽減する( 効果大 )<br><br>[攻撃を受けてHP0になる時]<br>最大HPの30%でふみとどまる( 上限回数:バトル中1回 )",
+    "flavor_text_en": "[When Dying] <br>Reduces damage taken (effective) <br><br>[When attacked <br>and becomes HP 0] Stays with 30% of maximum HP (maximum number of times: 1 time during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708200277,
+    "name": "不屈剛健",
+    "name_en": "indomitable and strong",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040592,
+      808040593
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身の腕力を上昇させる( 効果大 )",
     "flavor_text_en": "[Start of turn]<br>Increases own STR (large effect).",
@@ -46990,6 +47289,76 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「攻撃弱化」を付与する( 効果小/効果3ターン )",
+    "flavor_text_en": "[At the start of turn] Give <br>yourself “Attack Weakening” (Low Effect/ Effect 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708300265,
+    "name": "炎纏の羽",
+    "name_en": "Flaming Feather",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      809040762
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身の器用さ、素早さ、知力の能力ダウン状態を解除する",
+    "flavor_text_en": "Count from the start of the battle and unlock the reduced abilities of your own dexterity, agility, and intelligence at the start of the even-numbered turn",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300266,
+    "name": "ウィークディスペル・偶(器用さ・素早さ・知力)",
+    "name_en": "Weak dispel, puppets (dexterity, quickness, intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050577
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて特定ターンの開始時( 開始5ターン目/周期4ターン )<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果小 )",
+    "flavor_text_en": "Count from the start of the battle and</special_effect> <br>grant yourself “<special_effect=800000095> heat up” at the start of a specific turn (start turn 5/cycle 4 turns) (low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300271,
+    "name": "晩成の力・攻",
+    "name_en": "Late Naru no Might and Attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040511
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身の腕力・器用さ・知力を上昇させる( 効果大 )",
+    "flavor_text_en": "[At the beginning of the turn] <br>Increase your own strength, dexterity, and intelligence (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300272,
+    "name": "能力向上(腕力・器用さ・知力)",
+    "name_en": "Ability improvement (strength, dexterity, intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010095,
+      808010096,
+      808010097
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -47955,6 +48324,94 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "バトル開始から数えて3の倍数のターン終了時、自身のスタン耐性を上昇させ、さらに自身の精神を上昇( 効果大 )させる",
+    "flavor_text_en": "At the end of a turn that is multiple of 3, counting from the start of the battle, increase your own stun resistance and further raise your own spirit (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400269,
+    "name": "精静の構え",
+    "name_en": "A calm attitude",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808020574,
+      808010418
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身の腕力・体力・器用さ・素早さの能力ダウン状態を解除する",
+    "flavor_text_en": "[At end of turn] Cancel a <br>state where your own abilities of strength, stamina, dexterity, and agility have been reduced",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400275,
+    "name": "武の呼吸",
+    "name_en": "Martial Breathing",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050591
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "付与されたターンから数えて奇数ターン目の終了時、自身の腕力・素早さを上昇させる( 効果中 )",
+    "flavor_text_en": "Count from the given turns and increase your own strength and agility at the end of the odd turn (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708400279,
+    "name": "腕速活性・奇",
+    "name_en": "Wrist speed activity/strange",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010594,
+      808010596
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "付与されたターンから偶数ターン目の終了時、自身の体力・精神を上昇させる( 効果中 )",
+    "flavor_text_en": "At the end of the even-numbered turn from the given turn, increase your own physical strength and mental strength (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708400280,
+    "name": "体精活性・偶",
+    "name_en": "Sperm activity/partner",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010595,
+      808010597
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身に「消費BP増加」( 増加量1/効果2ターン )を付与する",
+    "flavor_text_en": "[At end of turn] Give <br>yourself a “Increase in BP Consumption” (1 increase, 2 turns of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400294,
+    "name": "練気の呪縛Ⅰ",
+    "name_en": "Enqi Spell I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040627
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "Resist攻撃を受けた時<br>自身の腕力を上昇させる( 効果超大 )",
     "flavor_text_en": "When attacked by an attack that would cause Resist, increases own STR (very extreme effect).",
@@ -48792,6 +49249,61 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040560
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "技攻撃時、自身の腕力・器用さを上昇させる( 効果中 )<br>術攻撃時、自身の知力・精神を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases one's own strength and dexterity during skill <br>attacks (in effect) Increases one's intellect and spirit during skill attacks (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600268,
+    "name": "獣の叡智",
+    "name_en": "The wisdom of the beast",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010581,
+      808010582,
+      808010583,
+      808010584
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "「双雷角」(※)を発動後、「双雷角」が発動する<br>※「”チェイン”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After “Double Thunder Angle” (*) is activated, “Double Thunder Angle” is activated <br>※ “Techniques/techniques activated by “Chain” and “counterattack techniques and techniques due to counter effects” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708600270,
+    "name": "チェイン(双雷角)",
+    "name_en": "chain (double thunder angle)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040586
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃命中時]<br>自身の腕力・素早さを上昇させる( 確率小/効果小 )",
+    "flavor_text_en": "[When hit by attack] <br>Increases own strength and agility (low probability/low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600276,
+    "name": "武の呼吸",
+    "name_en": "Martial Breathing",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010507,
+      808010508
     ]
   },
   {
