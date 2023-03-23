@@ -9327,11 +9327,11 @@
     "id": 669,
     "name": "Quest_Event_509",
     "name_en": "Quest_Event_509",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "螺旋回廊",
     "title_en": "Spiral Corridor",
-    "title_en_src": "ml"
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -9514,11 +9514,11 @@
     "id": 681,
     "name": "Quest_Event_1535",
     "name_en": "Quest_Event_1535",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "古き刀より響く声",
-    "title_en": "A voice that echoes from an old sword",
-    "title_en_src": "ml"
+    "title_en": "Voice of the Ancient Blade",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -9717,11 +9717,11 @@
     "id": 694,
     "name": "Quest_Event_1520",
     "name_en": "Quest_Event_1520",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "size": 3,
     "title": "怒涛の大連戦-3.5周年記念伏魔殿-第３弾",
-    "title_en": "The Great Battle of Angry Tou - 3.5th Anniversary Fushimaden - Part 3",
-    "title_en_src": "ml"
+    "title_en": "Turbulent War - Pandemonium R3",
+    "title_en_src": "gl"
   },
   {
     "banners": [
@@ -11155,6 +11155,41 @@
     "size": 3,
     "title": "大決戦祭！超鍛錬道場",
     "title_en": "Daisen Matsuri! Super training dojo",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11220
+    ],
+    "id": 888,
+    "name": "Quest_Event_1624",
+    "name_en": "QUEST_EVENT_1624",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "歪界の死闘-異形の神-",
+    "title_en": "Battle to the Death in the Distorted World: God of Abnormal Shapes-",
+    "title_en_src": "ml"
+  },
+  {
+    "banners": [
+      11223,
+      11224,
+      11225,
+      11226,
+      11227,
+      11228,
+      11229,
+      11230,
+      11231,
+      10984
+    ],
+    "id": 889,
+    "name": "Quest_Event_1626",
+    "name_en": "QUEST_EVENT_1626",
+    "name_en_src": "ml",
+    "size": 3,
+    "title": "邂逅の記憶-リアム編メモリーパネル-",
+    "title_en": "Memories of Encounters -Liam Edition Memory Panel-",
     "title_en_src": "ml"
   }
 ]

@@ -372,6 +372,29 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "雷属性を含む攻撃を受けた時、被ダメージが低下する",
+    "flavor_text_en": "Damage taken is reduced when receiving an attack that includes a thunder attribute",
+    "flavor_text_en_src": "ml",
+    "id": 800000021,
+    "ignition_effect_id": "",
+    "name": "雷属性防御強化",
+    "name_en": "Enhanced thunder defense",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "陰属性を含む攻撃を受けた時、被ダメージが低下する",
     "flavor_text_en": "Damage taken decreases when you receive an attack that includes a negative element",
     "flavor_text_en_src": "ml",
@@ -2971,8 +2994,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "ターン開始時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力が低下する",
-    "flavor_text_en": "At the beginning of the turn, one's own strength, physical strength, dexterity, quickness, intelligence, mentality, love, and attractiveness decrease",
+    "flavor_text": "ターン開始時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力が低下する( 効果特大 )",
+    "flavor_text_en": "At the beginning of the turn, one's own strength, physical strength, dexterity, quickness, intelligence, mentality, love, and attractiveness decrease (very effective)",
     "flavor_text_en_src": "ml",
     "id": 800000170,
     "ignition_effect_id": "",
@@ -3362,6 +3385,29 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600293>アンチマテリアルショット</skill>」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "After</skill> <br><br>triggering a single attack (*), “<skill=110600293>anti-material shot” is activated (activated by move Rank1) * Does not include “techniques and techniques activated by “chase”, “counterattack techniques and techniques with counter effects”, and “techniques passed down in the R Cup”",
+    "flavor_text_en_src": "ml",
+    "id": 800000190,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "被ダメージが低下する( 上限回数:1 ※攻撃が命中した時のみ発動 )",
     "flavor_text_en": "Damage taken decreases (maximum number of times: 1 ※Activates only when an attack is hit)",
     "flavor_text_en_src": "ml",
@@ -3461,6 +3507,52 @@
     "ignition_effect_id": "",
     "name": "体精活性・偶",
     "name_en": "Sperm activity/partner",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "間接攻撃を受けた時、被ダメージが低下する",
+    "flavor_text_en": "When you receive an indirect attack, damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 800000215,
+    "ignition_effect_id": "",
+    "name": "防御強化(間接)",
+    "name_en": "Defense Enhancement (Indirect)",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "直接攻撃を受けた時、被ダメージが上昇する",
+    "flavor_text_en": "Damage taken increases when directly attacked",
+    "flavor_text_en_src": "ml",
+    "id": 800000216,
+    "ignition_effect_id": "",
+    "name": "防御弱化(直接)",
+    "name_en": "Defense weakening (direct)",
     "name_en_src": "ml",
     "state_change_id": 900030001,
     "state_icon": 1031,
@@ -9343,6 +9435,52 @@
     "state_vars": [
     ],
     "target_area": 8,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon140300107",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011532,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "腕力 器用さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011533,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
@@ -23645,6 +23783,305 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "単体攻撃を発動後、「<skill=110600293>アンチマテリアルショット</skill>」が発動する",
+    "flavor_text_en": "After activating a single attack, “<skill=110600293>Anti-Material Shot</skill>” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 801041522,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3001,
+    "state_vars": [
+      702101785
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "追撃装填",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24500,
+      24408,
+      24504,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1(敵単体)を発動後、アンチマテリアルショットで攻撃を行う",
+    "flavor_text_en": "Activate Move 1 (enemy alone) and then attack with an anti-material shot",
+    "flavor_text_en_src": "ml",
+    "id": 801041523,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600293
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24501,
+      24408,
+      24504,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2(敵単体)を発動後、アンチマテリアルショットで攻撃を行う",
+    "flavor_text_en": "Activate Move 2 (single enemy) and then attack with an anti-material shot",
+    "flavor_text_en_src": "ml",
+    "id": 801041524,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600293
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24502,
+      24408,
+      24504,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3(敵単体)を発動後、アンチマテリアルショットで攻撃を行う",
+    "flavor_text_en": "Activate Move 3 (single enemy) and then attack with an anti-material shot",
+    "flavor_text_en_src": "ml",
+    "id": 801041525,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600293
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24500,
+      24408,
+      24505,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1(敵ランダム)を発動後、アンチマテリアルショットで攻撃を行う",
+    "flavor_text_en": "Activate Move 1 (random enemy) and then attack with an anti-material shot",
+    "flavor_text_en_src": "ml",
+    "id": 801041526,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600293
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24501,
+      24408,
+      24505,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2(敵ランダム)を発動後、アンチマテリアルショットで攻撃を行う",
+    "flavor_text_en": "Activate Move 2 (random enemy) and then attack with an anti-material shot",
+    "flavor_text_en_src": "ml",
+    "id": 801041527,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600293
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24502,
+      24408,
+      24505,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3(敵ランダム)を発動後、アンチマテリアルショットで攻撃を行う",
+    "flavor_text_en": "Activate Move 3 (random enemy) and then attack with an anti-material shot",
+    "flavor_text_en_src": "ml",
+    "id": 801041528,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600293
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24507,
+      24408,
+      24504,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵単体)を発動後、アンチマテリアルショットで攻撃を行う",
+    "flavor_text_en": "Activate an inheritance move (single enemy) and then attack with an anti-material shot",
+    "flavor_text_en_src": "ml",
+    "id": 801041529,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600293
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24507,
+      24408,
+      24505,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵ランダム)を発動後、アンチマテリアルショットで攻撃を行う",
+    "flavor_text_en": "Activate a succession move (random enemy) and then attack with an anti-material shot",
+    "flavor_text_en_src": "ml",
+    "id": 801041530,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600293
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24506,
+      24408,
+      24504,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を発動後、アンチマテリアルショットで攻撃を行う",
+    "flavor_text_en": "After activating a normal attack, perform an attack with an anti-material shot",
+    "flavor_text_en_src": "ml",
+    "id": 801041531,
+    "ignition_effect_id": "",
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110600293
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041534,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(極大)",
+    "name_en": "Moral increase (maximum)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "Debuff",
     "flavor_text": "腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力アップ状態を解除する",
     "flavor_text_en": "Unlock increased abilities for strength, stamina, dexterity, agility, intelligence, spirit, love, and charm",
@@ -23755,6 +24192,31 @@
     "text_color": "5BFF24",
     "text_pop": "能力ダウン解除",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon140600152",
+    "flavor_text": "被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041573,
+    "ignition_effect_id": "",
+    "name": "ガードアップ(中)",
+    "name_en": "guard up (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040076,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {
@@ -31841,6 +32303,77 @@
   },
   {
     "applying_effect_condition_ids": [
+      4
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 802011991,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      4
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect rises",
+    "flavor_text_en_src": "ml",
+    "id": 802011992,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 802012000,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "腕力 器用さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
       22013
     ],
     "display_flag": 1,
@@ -31885,6 +32418,30 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      4
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 802012116,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -61734,6 +62291,165 @@
   },
   {
     "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1を命中させた時、グリットフォールが発動する",
+    "flavor_text_en": "Grit Fall is activated when Move 1 is hit",
+    "flavor_text_en_src": "ml",
+    "id": 802041993,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700271
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "進むべき道",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を命中させた時、グリットフォールが発動する",
+    "flavor_text_en": "Grit Fall is activated when Move 2 is hit",
+    "flavor_text_en_src": "ml",
+    "id": 802041994,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700271
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "進むべき道",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を命中させた時、グリットフォールが発動する",
+    "flavor_text_en": "Grit Fall is activated when move 3 is hit",
+    "flavor_text_en_src": "ml",
+    "id": 802041995,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700271
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "進むべき道",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、グリットフォールが発動する",
+    "flavor_text_en": "Grit Fall is activated when a succession move is hit",
+    "flavor_text_en_src": "ml",
+    "id": 802041996,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700271
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "進むべき道",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を命中させた時、グリットフォールが発動する",
+    "flavor_text_en": "Grit Fall is triggered when a normal attack is hit",
+    "flavor_text_en_src": "ml",
+    "id": 802041997,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700271
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "進むべき道",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[攻撃命中時]<br>味方生存者全体の腕力・器用さ・知力を上昇させる( 効果小 )<br><br>[タイプが「攻撃」である技・術を命中させた時]<br>「<skill=110700271>グリットフォール</skill>」が発動する",
+    "flavor_text_en": "[When hit by attack]</skill> <br>Increases the strength, dexterity, and intelligence of all <br><br>allied survivors (little effect) [When hitting a technique or jutsu whose type is <br>“Attack”] “<skill=110700271> Grit Fall” is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802041999,
+    "ignition_effect_id": "",
+    "name": "攻撃時 能力アップ・追加攻撃",
+    "name_en": "Increased abilities during attack/additional attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101791
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
       24408
     ],
     "display_flag": 1,
@@ -61866,6 +62582,30 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、自身のBPを回復する( +4 )",
+    "flavor_text_en": "Recover your own BP at the beginning of a turn (+4)",
+    "flavor_text_en_src": "ml",
+    "id": 802042023,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 BP回復",
+    "name_en": "BP recovery at the start of a turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101810
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "[ターン開始時]<br>・味方が全員生存している場合、<br>自身に「<special_effect=800000026>ガードアップ(大)</special_effect>」を付与する( 効果1ターン )<br><br>・味方が1体以上気絶または戦線離脱している場合、<br>自身に「<special_effect=800000027>ガードアップ(特大)</special_effect>」( 効果1ターン )を付与し、自身を「<special_effect=800000073>挑発</special_effect>」状態( 効果特大/効果1ターン )にする",
     "flavor_text_en": "[At start of turn]</special_effect> <br>・If all allies are alive, <br>grant yourself “<special_effect=800000026> guard up (large)” (effect 1 turn) <br><br>・If 1 or more allies stun or leaves the front line, <br>“<special_effect=800000027> guard up (extra large) </special_effect>Grant” (effect 1 turn) and set yourself to a “<special_effect=800000073> provocation</special_effect>” state (oversized effect/effect 1 turn)",
     "flavor_text_en_src": "ml",
@@ -61903,6 +62643,32 @@
     "state_vars": [
       1,
       0
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ふんばる",
+    "triggering_effect_condition_ids": [
+      16
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "気絶被弾時、HP50%でふんばる",
+    "flavor_text_en": "When stunned, flutters with 50% HP",
+    "flavor_text_en_src": "ml",
+    "id": 802042125,
+    "ignition_effect_id": "Plane",
+    "name": "ふんばる",
+    "name_en": "Funbaru",
+    "name_en_src": "ml",
+    "state_change_id": 900040059,
+    "state_icon": 3001,
+    "state_vars": [
+      0,
+      50
     ],
     "target_area": 1,
     "text_color": "FFFFFF",
@@ -75646,6 +76412,397 @@
     ],
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010612,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力 体力↑<br>器用さ 素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Physical strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010613,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Increased physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010614,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010615,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect rises",
+    "flavor_text_en_src": "ml",
+    "id": 808010616,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "知力 精神↑<br>愛 魅力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 808010617,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Improve your mind",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "愛が上昇する",
+    "flavor_text_en": "Love rises",
+    "flavor_text_en_src": "ml",
+    "id": 808010618,
+    "ignition_effect_id": "",
+    "name": "愛アップ",
+    "name_en": "Love up",
+    "name_en_src": "ml",
+    "state_change_id": 900010018,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が上昇する",
+    "flavor_text_en": "Attractiveness rises",
+    "flavor_text_en_src": "ml",
+    "id": 808010619,
+    "ignition_effect_id": "",
+    "name": "魅力アップ",
+    "name_en": "Increased attractiveness",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "腕力が低下する",
+    "flavor_text_en": "Strength declines",
+    "flavor_text_en_src": "ml",
+    "id": 808010623,
+    "ignition_effect_id": "",
+    "name": "腕力ダウン",
+    "name_en": "Decreased strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 5,
+    "text_color": "FF0000",
+    "text_pop": "腕力 器用さ 知力↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが低下する",
+    "flavor_text_en": "Dexterity decreases",
+    "flavor_text_en_src": "ml",
+    "id": 808010624,
+    "ignition_effect_id": "",
+    "name": "器用さダウン",
+    "name_en": "Decreased dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 5,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "知力が低下する",
+    "flavor_text_en": "Intellect declines",
+    "flavor_text_en_src": "ml",
+    "id": 808010625,
+    "ignition_effect_id": "",
+    "name": "知力ダウン",
+    "name_en": "Decreased intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 5,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010652,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力 体力 素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Physical strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010653,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Increased physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010654,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010656,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力 器用さ 知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010657,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect rises",
+    "flavor_text_en_src": "ml",
+    "id": 808010658,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
     "flavor_text": "魅了耐性が上昇する",
     "flavor_text_en": "Increases Charm Resistance.",
     "flavor_text_en_src": "gl",
@@ -79904,8 +81061,8 @@
     ],
     "display_flag": 1,
     "enchantment_effect_id": "",
-    "flavor_text": "ターン開始時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力が低下する",
-    "flavor_text_en": "At the beginning of the turn, one's own strength, physical strength, dexterity, quickness, intelligence, mentality, love, and attractiveness decrease",
+    "flavor_text": "ターン開始時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力が低下する( 効果特大 )",
+    "flavor_text_en": "At the beginning of the turn, one's own strength, physical strength, dexterity, quickness, intelligence, mentality, love, and attractiveness decrease (very effective)",
     "flavor_text_en_src": "ml",
     "id": 808040569,
     "ignition_effect_id": "",
@@ -80198,6 +81355,244 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "与えるダメージが低下する",
+    "flavor_text_en": "Damage dealt is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 808040600,
+    "ignition_effect_id": "",
+    "name": "攻撃弱化(小)",
+    "name_en": "Attack Weakened (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "攻撃↓",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 808040601,
+    "ignition_effect_id": "",
+    "name": "防御強化(小)",
+    "name_en": "Defense Boost (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 808040605,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(大)",
+    "name_en": "Attack Boost (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "間接攻撃の被ダメージが低下する",
+    "flavor_text_en": "Damage taken by indirect attacks is reduced",
+    "flavor_text_en_src": "ml",
+    "id": 808040606,
+    "ignition_effect_id": "",
+    "name": "防御強化(間接/大)",
+    "name_en": "Defense Enhancement (Indirect/Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      80
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "間接防御↑",
+    "triggering_effect_condition_ids": [
+      49001
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "直接攻撃の被ダメージが上昇する",
+    "flavor_text_en": "Damage taken by direct attacks is increased",
+    "flavor_text_en_src": "ml",
+    "id": 808040607,
+    "ignition_effect_id": "",
+    "name": "防御弱化(直接/中)",
+    "name_en": "Defense Weakened (direct/medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040103,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "直接防御↓",
+    "triggering_effect_condition_ids": [
+      48001
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 808040608,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(中)",
+    "name_en": "Moral Up (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "被ダメージが上昇する",
+    "flavor_text_en": "Damage taken increases",
+    "flavor_text_en_src": "ml",
+    "id": 808040609,
+    "ignition_effect_id": "",
+    "name": "防御弱化(中)",
+    "name_en": "Defense Weakened (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040103,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "防御↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "消費BPが1増加する",
+    "flavor_text_en": "Consumption BP will increase by 1",
+    "flavor_text_en_src": "ml",
+    "id": 808040620,
+    "ignition_effect_id": "",
+    "name": "消費BP増加(1)",
+    "name_en": "Consumption BP increase (1)",
+    "name_en_src": "ml",
+    "state_change_id": 900040208,
+    "state_icon": 3001,
+    "state_vars": [
+      1
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "消費BP↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン終了時]<br>自身に「<special_effect=800000184>消費BP増加</special_effect>」( 増加量1/効果2ターン )を付与する",
+    "flavor_text_en": "[At end of turn] Give</special_effect> <br>yourself “<special_effect=800000184>BP consumption increase” (increase amount/effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "id": 808040621,
+    "ignition_effect_id": "",
+    "name": "練気の呪縛Ⅰ",
+    "name_en": "Enqi Spell I",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 2002,
+    "state_vars": [
+      708400291
+    ],
+    "target_area": 8,
+    "text_color": "FFFFFF",
+    "text_pop": "練気の呪縛",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "攻撃の命中率が上昇する",
+    "flavor_text_en": "Attack hit rate increases",
+    "flavor_text_en_src": "ml",
+    "id": 808040622,
+    "ignition_effect_id": "",
+    "name": "攻撃命中アップ",
+    "name_en": "Attack hit increased",
+    "name_en_src": "ml",
+    "state_change_id": 900040056,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "命中↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "[ターン終了時]<br>自身に「<special_effect=800000184>消費BP増加</special_effect>」( 増加量1/効果2ターン )を付与する",
     "flavor_text_en": "[At end of turn] Give</special_effect> <br>yourself “<special_effect=800000184>BP consumption increase” (increase amount/effect 2 turns)",
@@ -80365,6 +81760,30 @@
     "target_area": 1,
     "text_color": "5BFF24",
     "text_pop": "弱化解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 808050655,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      500
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -91557,6 +92976,53 @@
     "flavor_text": "HPを回復する",
     "flavor_text_en": "Recover your HP",
     "flavor_text_en_src": "ml",
+    "id": 809040796,
+    "ignition_effect_id": "",
+    "name": "HP回復",
+    "name_en": "HP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      400
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 809040798,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(大)",
+    "name_en": "Attack Boost (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
     "id": 809040801,
     "ignition_effect_id": "",
     "name": "HP回復",
@@ -91649,6 +93115,104 @@
     "text_color": "FF0000",
     "text_pop": "能力アップ解除",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 809040840,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 809040841,
+    "ignition_effect_id": "",
+    "name": "ディフェンスアップ",
+    "name_en": "Defensive ups",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 809040843,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 809040844,
+    "ignition_effect_id": "",
+    "name": "ディフェンスアップ",
+    "name_en": "Defensive ups",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {

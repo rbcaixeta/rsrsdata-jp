@@ -2550,14 +2550,14 @@
   {
     "expired_at": 1659034799,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "Items that can be obtained by performing certain Romancing festivals. Can be exchanged for items and styles at exchange offices.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800198,
     "id": 800198,
     "max_quantity": 99999999,
     "name": "Romancing祭メダル・60",
-    "name_en": "Romancing Festival Medal 60",
-    "name_en_src": "ml",
+    "name_en": "Romancing Festival Medal 84",
+    "name_en_src": "gl",
     "sort_order": 22061480
   },
   {
@@ -3287,6 +3287,19 @@
     "name_en": "Romancing festival medal 106",
     "name_en_src": "ml",
     "sort_order": 23031650
+  },
+  {
+    "expired_at": 1682017199,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800255,
+    "id": 800255,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・107",
+    "name_en": "Romancing Festival Medals 107",
+    "name_en_src": "ml",
+    "sort_order": 23032460
   },
   {
     "expired_at": 0,
@@ -9570,27 +9583,27 @@
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100715,
     "id": 1100715,
     "max_quantity": 99999999,
     "name": "獣の頭骨",
-    "name_en": "Beast skull",
-    "name_en_src": "ml",
+    "name_en": "Beast Skull",
+    "name_en_src": "gl",
     "sort_order": 22061465
   },
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the event. Can be exchanged for items at the exchange office.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100716,
     "id": 1100716,
     "max_quantity": 99999999,
     "name": "刃の破片",
-    "name_en": "Blade fragments",
-    "name_en_src": "ml",
+    "name_en": "Blade Fragments",
+    "name_en_src": "gl",
     "sort_order": 22061470
   },
   {
@@ -10983,5 +10996,18 @@
     "name_en": "Proof of Super Training [Battle Festival!]",
     "name_en_src": "ml",
     "sort_order": 23031644
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100830,
+    "id": 1100830,
+    "max_quantity": 99999999,
+    "name": "思い出の欠片",
+    "name_en": "Fragments of Memories",
+    "name_en_src": "ml",
+    "sort_order": 23032450
   }
 ]

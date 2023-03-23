@@ -15688,6 +15688,24 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>攻撃命中時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Damage dealt by attacks increases (extra effect) <br>When an attack is hit, recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101719,
+    "name": "賦活の練気Ⅳ",
+    "name_en": "Revitalization Spirit IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802041462
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "味方全体の与ダメージが上昇( 効果特大 )し、かつ、味方全体への被ダメージを軽減( 効果大 )する<br><br>[バトル開始時]<br>味方生存者全体に「<special_effect=800000142>ターン終了時HP回復(気絶時)(特大/1回)</special_effect>」を付与する( 効果ターン数制限なし )<br><br>ただし、バトル開始時に自身以外の味方生存者全体が代償LPダメージを1受ける",
     "flavor_text_en": "Damage dealt to all allies is increased (</special_effect><br><br><br>extra effective), and damage taken to all allies is reduced (great effect) [at the start of battle] grants “<special_effect=800000142 > HP recovery at end of turn (when stunned) (oversize/1 time)” to all allied survivors (no limit on the number of effect turns), <br><br>however, allies other than oneself at the start of the battle All survivors take 1 compensatory LP damage",
     "flavor_text_en_src": "ml",
@@ -16727,6 +16745,148 @@
   },
   {
     "ability_when": 6,
+    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600293>アンチマテリアルショット</skill>」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "After</skill> <br><br>triggering a single attack (*), “<skill=110600293>anti-material shot” is activated (activated by move Rank1) * Does not include “techniques and techniques activated by “chase”, “counterattack techniques and techniques with counter effects”, and “techniques passed down in the R Cup”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101785,
+    "name": "追撃(アンチマテリアルショット)",
+    "name_en": "Chase (anti-material shot)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      801041523,
+      801041524,
+      801041525,
+      801041526,
+      801041527,
+      801041528,
+      801041529,
+      801041530,
+      801041531
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果中 )<br><br>[ターン開始時]<br>自身のBPを回復( +4 )する( 上限回数:バトル中3回 )<br><br>[攻撃を受けてHP0になる時]<br>最大HPの50%でふみとどまる( 上限回数:バトル中1回 )",
+    "flavor_text_en": "Reduces damage taken when attacked (in effect) <br><br>[At start of turn] <br>Recover (+4) your own BP (upper limit: 3 times during battle) <br><br>[When attacked <br>and your HP becomes 0] Stay at 50% of your maximum HP (maximum number of times: 1 time during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101786,
+    "name": "真っ直ぐな信念",
+    "name_en": "Straightforward conviction",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042125,
+      802042023,
+      802040045
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身のHPを回復( 効果極小 )し、かつ、自身の器用さと精神を上昇( 効果中 )させる",
+    "flavor_text_en": "[At the beginning of <br>the turn] Recover your own HP (minimal effect) and increase your own dexterity and spirit (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101788,
+    "name": "療養活性Ⅱ(器用さ・精神)",
+    "name_en": "Healing Activity II (dexterity and mentality)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040901,
+      802010970,
+      802010774
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br><br>[攻撃命中時]<br>味方生存者全体の腕力・器用さ・知力を上昇させる( 効果小 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110700271>グリットフォール</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text_en": "[At the start of battle]</skill> <br>Recover <br><br><br>your own BP (+3) [When hit by attack] Increases the strength, dexterity, and intelligence of all <br><br>allied survivors (little effect) [When you hit a technique or jutsu (*) whose type is <br>“Attack”] “<skill=110700271> Grit Fall” is activated <br>(activated by move Rank1) <br>* “Due to this ability effect Does not include “techniques and techniques to activate,” “counterattack techniques and techniques with counter effects,” and “techniques and techniques passed down in the R Cup”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101789,
+    "name": "進むべき道",
+    "name_en": "The way forward",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802041999
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃命中時]<br>味方生存者全体の腕力・器用さ・知力を上昇させる( 効果小 )<br><br>[タイプが「攻撃」である技・術を命中させた時]<br>「グリットフォール」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "[When hit by attack] <br>Increases the strength, dexterity, and intelligence of all <br><br>allied survivors (little effect) [When hitting a move or jutsu whose type is <br>“Attack”] “Grit Fall” is activated <br>(activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101791,
+    "name": "攻撃時 能力アップ・追加攻撃",
+    "name_en": "Increased abilities during attack/additional attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012116,
+      802011991,
+      802011992,
+      802041993,
+      802041994,
+      802041995,
+      802041996,
+      802041997
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体の腕力と器用さを上昇させる( 効果中 )<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "[At the beginning of the turn] <br>Increases the strength and dexterity of all allied survivors (in effect) <br>Restores your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101792,
+    "name": "リーダーシップ(腕力・器用さ)",
+    "name_en": "Leadership (strength and dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012000,
+      802011174,
+      802040754
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身に「<special_effect=800000182>先攻態勢</special_effect>」を付与する( 効果1ターン )<br><br>[味方が全員生存している時]<br>味方全体の与ダメージが上昇する( 効果大 )",
+    "flavor_text_en": "[At the start of battle]</special_effect> <br>Grant “<special_effect=800000182>First Attack Posture” to yourself (effect 1 turn) <br><br>[When all <br>allies are alive] Damage dealt to all allies increases (effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101793,
+    "name": "先攻結束Ⅲ",
+    "name_en": "First Attack Ending III",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041939,
+      802041422
+    ]
+  },
+  {
+    "ability_when": 6,
     "flavor_text": "冷属性攻撃時、自身のBPを回復する( +2 )",
     "flavor_text_en": "Recover your own BP during a cold attack (+2)",
     "flavor_text_en_src": "ml",
@@ -16740,6 +16900,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       802012021
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身のBPを回復( +4 )する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "Recover (+4) your own BP at the beginning of the turn (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101810,
+    "name": "ターン開始時 BP回復",
+    "name_en": "BP recovery at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041263
     ]
   },
   {
@@ -47359,6 +47536,209 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000029>攻撃弱化</special_effect>」を付与する( 効果小/効果1ターン )<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果小/効果1ターン )",
+    "flavor_text_en": "[At the start of turn] Grant</special_effect></special_effect> <br>“<special_effect=800000029>Attack Weakening” to <br>yourself (low effect/effect 1 turn) Grant “<special_effect=800000015> Defense Enhancement” to yourself (low effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300281,
+    "name": "神水・天",
+    "name_en": "Divine Water and Heaven",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040600,
+      808040601
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "特定ターンの開始時( 周期2ターン )、自身の腕力・器用さ・知力を上昇させる( 効果小 )",
+    "flavor_text_en": "At the beginning of a specific turn (cycle 2 turns), increase your own strength, dexterity, and intelligence (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300282,
+    "name": "神水・地",
+    "name_en": "Divine water/earth",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010656,
+      808010657,
+      808010658
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身の腕力・体力・素早さを上昇させる( 確率中/効果大 )",
+    "flavor_text_en": "[At the start of turn] <br>Increase your own strength, stamina, and agility (probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300283,
+    "name": "神風・天",
+    "name_en": "Kamikaze and heaven",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010652,
+      808010653,
+      808010654
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果1ターン )<br>自身に「<special_effect=800000215>防御強化(間接)</special_effect>」を付与する( 効果大/効果1ターン )<br>自身に「<special_effect=800000216>防御弱化(直接)</special_effect>」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "[At the start of turn] Grant</special_effect></special_effect> <br>“<special_effect=800000001>Attack Enhancement” to <br>yourself (big effect=1 turn of effect) Grant “<special_effect=800000215> Defense Enhancement (indirect)” to yourself (large effect/effect 1 turn) Give <br>yourself “<special_effect= Grants “800000216> Defense Weakening (Direct)</special_effect>” (in effect/1 turn of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300285,
+    "name": "神土・天",
+    "name_en": "Shinto earth and heaven",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040605,
+      808040606,
+      808040607
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000011>モラルアップ(中)</special_effect>」を付与する( 効果1ターン )<br>自身に「<special_effect=800000035>防御弱化</special_effect>」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "[At the start of turn] Give</special_effect></special_effect> <br>yourself “<special_effect=800000011>Moral Up (Medium)” (effect 1 turn) Grant <br>“<special_effect=800000035> Defense Weakened” to yourself (in effect/ 1 turn of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300287,
+    "name": "神炎・天",
+    "name_en": "God's Fire and Heaven",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040608,
+      808040609
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "特定ターンの開始時( 周期2ターン )、敵生存者全体の腕力・器用さ・知力を低下させる( 効果小 )",
+    "flavor_text_en": "At the beginning of a specific turn (cycle 2 turns), reduces the strength, dexterity, and intelligence of all enemy survivors (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708300288,
+    "name": "神炎・地",
+    "name_en": "Fire and Earth",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010623,
+      808010624,
+      808010625
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "特定ターンの開始時( 周期2ターン )、自身の腕力・体力・器用さ・素早さを上昇させる( 効果小 )",
+    "flavor_text_en": "At the beginning of a specific turn (cycle 2 turns), increase your own strength, physical strength, dexterity, and agility (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300289,
+    "name": "神光・天",
+    "name_en": "Divine Light/Heaven",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010612,
+      808010613,
+      808010614,
+      808010615
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "特定ターンの開始時( 周期2ターン )、自身の知力・精神・愛・魅力を上昇させる( 効果小 )",
+    "flavor_text_en": "At the beginning of a specific turn (cycle 2 turns), increase your intellect, mentality, love, and appeal (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300290,
+    "name": "神光・地",
+    "name_en": "Divine Light/Earth",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010616,
+      808010617,
+      808010618,
+      808010619
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の命中率を上昇させる( 効果極大/効果1ターン )",
+    "flavor_text_en": "[At the start of turn] <br>Increase your own hit rate (maximum effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300292,
+    "name": "一心",
+    "name_en": "One heart",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040622
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "特定ターンの開始時( 周期2ターン )、自身の精神を上昇させる( 効果大 )",
+    "flavor_text_en": "At the beginning of a specific turn (cycle 2 turns), raise your own spirit (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300308,
+    "name": "偶の活性(精神)",
+    "name_en": "Accidental activity (spirit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010418
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "特定ターンの開始時( 周期2ターン )、自身の器用さ、素早さ、知力の能力ダウン状態を解除する",
+    "flavor_text_en": "At the beginning of a specific turn (cycle 2 turns), cancel the ability reduction state of one's own dexterity, agility, and intelligence",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300309,
+    "name": "ウィークディスペル・偶(器用さ・素早さ・知力)",
+    "name_en": "Weak dispel, puppets (dexterity, quickness, intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050577
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -48392,6 +48772,57 @@
     "special_effect_ids": [
       808010595,
       808010597
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "特定ターンの終了時( 周期2ターン )、自身のHPを回復する",
+    "flavor_text_en": "At the end of a specific turn (cycle 2 turns), recover your own HP",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 708400284,
+    "name": "神風・地",
+    "name_en": "Kamikaze and ground",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050655
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身の腕力・体力・器用さ・素早さの能力ダウン状態を解除する",
+    "flavor_text_en": "[At end of turn] Cancel a <br>state where your own abilities of strength, stamina, dexterity, and agility have been reduced",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400286,
+    "name": "神土・地",
+    "name_en": "Shinto and Earth",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050591
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身に「消費BP増加」( 増加量1/効果2ターン )を付与する",
+    "flavor_text_en": "[At end of turn] Give <br>yourself a “Increase in BP Consumption” (1 increase, 2 turns of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400291,
+    "name": "練気の呪縛Ⅰ",
+    "name_en": "Enqi Spell I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040620
     ]
   },
   {
