@@ -5234,7 +5234,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "単体攻撃(※)を発動後、「ウインドチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text": "単体攻撃(※)を発動後、「ウインドチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "After activating a single-foe attack*, Wind Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -5261,7 +5261,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "単体攻撃(※)を発動後、「アイスチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text": "単体攻撃(※)を発動後、「アイスチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "After activating a single-foe attack*, Ice Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -6629,7 +6629,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "バトル開始時、自身のBPを回復する( +2 )<br>OD攻撃(※)を発動後、「<skill=110200239>雷殺斬+</skill>」が発動する<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」は含まない<br>( 技Rank1で発動 )",
+    "flavor_text": "バトル開始時、自身のBPを回復する( +2 )<br>OD攻撃(※)を発動後、「<skill=110200239>雷殺斬+</skill>」が発動する<br>※「本アビリティ効果により発動する技・術」は含まない<br>( 技Rank1で発動 )",
     "flavor_text_en": "[Start of battle]<br>Recovers own BP (+2).<br><br>After activating an OD attack*, Jolting Slash+ will be activated.<br>*Skills/Spells transmitted in Robin Cup and Skills/Spells activated by this Ability are not included.<br><br>Jolting Slash+<br>G. Sword skill/Attack/Power: SSS/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -6871,7 +6871,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "バトル開始時、自身のBPを回復する( +3 )<br>OD攻撃(※)を発動後、「<skill=110600218>ビートウェイヴほう</skill>」が発動する<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "バトル開始時、自身のBPを回復する( +3 )<br>OD攻撃(※)を発動後、「<skill=110600218>ビートウェイヴほう</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "[Start of battle]<br>Recovers own BP (+3).<br><br>After activating an OD attack*, Beat Wave Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Beat Wave Cannon<br>Gun skill/Attack/Power: A/Indirect/All Foes (Blunt) <br>All range attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -7012,7 +7012,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110100220>ブレイブソング</skill>」が発動する( 確率大 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110100220>ブレイブソング</skill>」が発動する( 確率大 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Brave Song will be activated (high chance).<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Brave Song<br>Sword skill/Attack/Power: A/Indirect/All Foes (Slash+Heat)<br>All range attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -7723,7 +7723,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「クロービット強襲」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「クロービット強襲」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "Starting from the next turn after entering this stance, after activating an attack*, Claw Bit Assault will be activated (Max times: 3).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -7746,7 +7746,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=125600251>エナジースティール+</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=125600251>エナジースティール+</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Drain Energy+ will be activated (very high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -8030,7 +8030,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「<skill=110400220>タイムのなかまたち</skill>」が発動する<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「<skill=110400220>タイムのなかまたち</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack*, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Thyme's Friends<br>Club skill/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (very small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -8090,7 +8090,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「ラ・ビットレーザー」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「ラ・ビットレーザー」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "Starting from the next turn after entering this stance, after activating an attack*, Ra-Bit Laser will be activated (Max times: 3).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -8436,7 +8436,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "単体攻撃(※)を発動後、「アタックチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text": "単体攻撃(※)を発動後、「アタックチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "After activating a single-foe attack*, Attack Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -8805,7 +8805,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110200258>ファイアボール+</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110200258>ファイアボール+</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Fireball+ will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -9046,7 +9046,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「<skill=125400211>アースライザー+</skill>」が発動する<br>( 術Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「<skill=125400211>アースライザー+</skill>」が発動する<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack*, Rising Earth+ will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Rising Earth+<br>Wind spell/Attack/Power: A/Indirect/All Foes (Slash)<br>All range attack.<br>Grants oneself Defense Boost (large effect/2 turn(s)).<br>(Activates using spell Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -9285,7 +9285,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110600257>ドライヴエナジーショット</skill>」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110600257>ドライヴエナジーショット</skill>」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Drive Energy Shot will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -9466,7 +9466,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "攻撃命中時、自身のHPを回復する( 効果極小 )<br><br>Weak攻撃(※)を命中させた時、<br>「<skill=110100250>烈攻交叉剣</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "攻撃命中時、自身のHPを回復する( 効果極小 )<br><br>Weak攻撃(※)を命中させた時、<br>「<skill=110100250>烈攻交叉剣</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack, recovers own HP (very small effect).<br><br>When landing a Weak attack*, Mighty Cross Blade will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Mighty Cross Blade<br>Sword skill/Attack/Power: SS/Direct/Row of Foes (Slash)<br>Ranged attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -9840,7 +9840,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110400228>ピコッとハンマー</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110400228>ピコッとハンマー</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Hammer Bop will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -9964,7 +9964,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "単体攻撃(※)を発動後、「フロストレビン」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
+    "flavor_text": "単体攻撃(※)を発動後、「フロストレビン」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "After activating a single-foe attack*, Frost Levin will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -10070,7 +10070,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "バトル開始から数えて奇数ターン目に、タイプが「攻撃」である技・術(※)を使用した時、「<skill=110100272>タービュランスほう</skill>」が発動する<br>( 技Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>バトル開始から数えて偶数ターン目の終了時、自身のHPを回復する( 効果小 )",
+    "flavor_text": "バトル開始から数えて奇数ターン目に、タイプが「攻撃」である技・術(※)を使用した時、「<skill=110100272>タービュランスほう</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>バトル開始から数えて偶数ターン目の終了時、自身のHPを回復する( 効果小 )",
     "flavor_text_en": "On odd turns counting from the start of battle, when using an Attack type skill/spell*, Turbulence Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>At the end of even turns counting from the start of battle, recovers own HP (small effect).<br><br>Turbulence Cannon<br>Sword skill/Attack/Power: A/Indirect/Single Foe (Slash)<br>Attack.<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -10393,7 +10393,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "OD攻撃(※)を発動後、「<skill=125100230>クリムゾンサンフレア</skill>」が発動する<br>( 術Rank1で発動 )<br><br>タイプが「攻撃」である技・術(※)を命中させた時、「<skill=125100234>クリムゾンフレア+</skill>」が発動する( 確率中 )<br>( 術Rank1で発動 )<br><br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "OD攻撃(※)を発動後、「<skill=125100230>クリムゾンサンフレア</skill>」が発動する<br>( 術Rank1で発動 )<br><br>タイプが「攻撃」である技・術(※)を命中させた時、「<skill=125100234>クリムゾンフレア+</skill>」が発動する( 確率中 )<br>( 術Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "After activating an OD attack*, Crimson Sunflare will be activated.<br><br>When landing an attack with an Attack type skill/spell*, Crimson Flare+ will be activated (medium chance).<br><br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Crimson Sunflare<br>Fire spell/Attack/Power: S/Indirect/All Foes (Heat+Sun) <br>All range attack.<br>(Activates using spell Rank 1).<br><br>Crimson Flare+<br>Fire spell/Attack/Power: SSS/Indirect/Single Foe (Heat+Sun)<br>Attack.<br>(Activates using spell Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -10670,7 +10670,7 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>単体攻撃(※)を命中させた時、「<skill=125400216>青風の刃</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>単体攻撃(※)を命中させた時、「<skill=125400216>青風の刃</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>When landing a single-foe attack*, Azure Gale Blade will be activated (very high chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -11720,8 +11720,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000118>ダメージブロック(1回)</special_effect>」を付与する( 効果1ターン )<br>自身のBPを回復する( +1 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125100242>ねんどうりき</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "[At the start of turn] Give</special_effect></skill> <br>yourself “<special_effect=800000118> damage block (1 time)” (effect 1 turn) <br>recover your own BP (+1) <br><br>[when you hit a technique or jutsu (*) whose type is “attack”] <br>“<skill=125100242>Nendori Riki” is activated (high probability) ) <br>(<br>Activated by Jutsu Rank 1) * Does not include “techniques and techniques activated by this ability effect”, “counterattack techniques and techniques handed down in the R Cup”",
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000118>ダメージブロック(1回)</special_effect>」を付与する( 効果1ターン )<br>自身のBPを回復する( +1 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125100242>ねんどうりき</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "[At the start of turn] Give</special_effect></skill> <br>yourself “<special_effect=800000118> damage block (1 time)” (effect 1 turn) <br>recover your own BP (+1) <br><br>[when you hit a technique or jutsu (*) whose type is “attack”] <br>“<skill=125100242>Nendori Riki” is activated (high probability) ) <br>(<br>Activated by Jutsu Rank 1) * Does not include “techniques and techniques activated by this ability effect” and “counterattack techniques and jutsu due to counter effects”",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101440,
@@ -11794,8 +11794,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、「<skill=110500329>おうだんかぼちゃ</skill>」が発動する( 確率大 )<br>タイプが「攻撃」である技・術(※)を命中させた時、「<skill=110500330>じゅうだんかぼちゃ</skill>」が発動する( 確率大 )<br>( それぞれ技Rank1で発動 )<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "When you hit a technique or jutsu (*) where the type is “attack”, “<skill=110500329> odan pumpkin</skill>” is activated (high probability)</skill> <br>when the type hits a technique or jutsu (*) that is an “attack”, “<skill=110500330> Judan Pumpkin” is activated (high probability) <br>(each activated by move Rank1) <br>* “Normal Attack” “This Ability Effect” Does not include “techniques and techniques activated by”, “counterattack techniques and techniques with counter effects”, and “techniques and techniques handed down in the R Cup”",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、「<skill=110500329>おうだんかぼちゃ</skill>」が発動する( 確率大 )<br>タイプが「攻撃」である技・術(※)を命中させた時、「<skill=110500330>じゅうだんかぼちゃ</skill>」が発動する( 確率大 )<br>( それぞれ技Rank1で発動 )<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "When you hit a technique or jutsu (*) where the type is “attack”, “<skill=110500329> odan pumpkin</skill>” is activated (high probability)</skill> <br>when the type hits a technique or jutsu (*) that is an “attack”, “<skill=110500330> Judan Pumpkin” is activated (high probability) <br>(each activated by move Rank1) <br>* “Normal Attack” “This Ability Effect” Does not include “techniques and techniques activated by” and “counterattack techniques and techniques due to counter effects”",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101445,
@@ -12415,8 +12415,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "槍装備時、攻撃の与ダメージが上昇する( 効果大 )<br><br>バトル開始から数えて3の倍数のターン目に、単体攻撃(※)を命中させた時、「<skill=110800261>ラウンドスライサー</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "When equipped with a spear, damage</skill> <br><br>from attacks increases (great effect) When a single attack (*) is hit on the turn that is a multiple of 3 counted from the start of the battle, “<skill=110800261> Round Slicer” is activated <br>(activated by move Rank1) <br>* “Techniques/techniques activated by this ability effect”, “counterattack techniques and techniques passed down by the counter effect” and “techniques passed down in the R cup” are not included",
+    "flavor_text": "槍装備時、攻撃の与ダメージが上昇する( 効果大 )<br><br>バトル開始から数えて3の倍数のターン目に、単体攻撃(※)を命中させた時、「<skill=110800261>ラウンドスライサー</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "When equipped with a spear, damage</skill> <br><br>from attacks increases (great effect) When a single attack (*) is hit on the turn that is multiple of 3, counting from the start of the battle, “<skill=110800261> round slicer” is <br>activated (activated by move Rank1) <br>* “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques activated by counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101486,
@@ -12640,8 +12640,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「<skill=110500370>サブリメーションツイスター</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "At the end of the turn,</skill> <br>after triggering an OD attack (*) that raises one's OD gauge (small effect), “<skill=110500370> Sublimation Twister” is activated <br>(activated by move Rank1) <br>* “techniques and techniques activated by this ability effect”, “counterattack techniques and techniques handed down in the R Cup” and “techniques handed down in the R Cup” are not included",
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果小 )<br>OD攻撃(※)を発動後、「<skill=110500370>サブリメーションツイスター</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "At the end of the turn,</skill> <br>after triggering an OD attack (*) that raises one's OD gauge (small effect), “<skill=110500370> Sublimation Twister” is activated <br>(activated by move Rank1) <br>* “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101500,
@@ -12930,8 +12930,8 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "単体攻撃(※)を発動後、「フローズンチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After activating a single attack (*), “Frozen Chaser” is activated <br>(activated by move Rank 1) <br>* Does not include “moves and techniques activated by “Chase”, “Counterattack moves/jutsu due to counter effects,” and “moves and techniques handed down in R Cups”",
+    "flavor_text": "単体攻撃(※)を発動後、「フローズンチェイサー」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After <br><br>triggering a single attack (*), “Frozen Chaser” is activated (activated by move Rank1) ※ “Techniques/techniques activated by “chase” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101522,
@@ -13458,8 +13458,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "攻撃を受けた時、敵の攻撃を回避する( 確率大 )<br><br>タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110700263>ローズヒット</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "When attacked,</skill> <br><br>“<br><skill=110700263> Rose Hit” is activated when the type that avoids an enemy<br><br>'s attack (*) is an “attack” (activated by move Rank1) * “Techniques/techniques activated by this ability effect”, “counterattack techniques and techniques with counter effects”, and “techniques passed down in the R Cup” are not included",
+    "flavor_text": "攻撃を受けた時、敵の攻撃を回避する( 確率大 )<br><br>タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110700263>ローズヒット</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "When attacked,</skill> <br><br>“<br><skill=110700263> Rose Hit” is activated when the type that avoids an enemy<br><br>'s attack (*) is an “attack” (activated by move Rank1) * “Techniques/techniques activated by this ability effect” and “counterattack techniques and techniques by counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101560,
@@ -13533,8 +13533,8 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "付与された次のターンに、攻撃(※)を発動後、「<skill=110100289>忍法神速プレゼント剣</skill>」が発動する<br>( 技Rank1で発動 )<br>ただし、気絶またはラウンド進行により解除される<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "On the next turn granted, after</skill> <br><br><br>triggering an attack (*), “<skill=110100289> Ninja Speed Present Sword” is activated (activated by move Rank1), but it is unlocked by stun or round progression* “techniques and techniques activated by the effects of special states”, “counterattack techniques and techniques handed down in the R Cup” and “techniques handed down in the R Cup” are not included",
+    "flavor_text": "付与された次のターンに、攻撃(※)を発動後、「<skill=110100289>忍法神速プレゼント剣</skill>」が発動する<br>( 技Rank1で発動 )<br>ただし、気絶またはラウンド進行により解除される<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "On the next turn granted, “<skill=110100289> Ninja Speed Present Sword” is activated after</skill> <br><br><br>triggering an attack (*) (activated by move Rank1), but it is unlocked by stun or round progression* “techniques and techniques activated by the effects of special states” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101566,
@@ -13726,8 +13726,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "攻撃命中時、自身のHPを回復する( 効果極小 )<br><br>単体攻撃(※)を命中させた時、<br>「<skill=125600291>アンプールノワール</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "When an attack is hit,</skill> <br><br><br>“<skill=125600291> Ampour Noir” is triggered (high probability) (activated by Jutsu Rank 1) * when you hit a standalone attack (*) <br><br>that restores one's own HP (minimal effect) (activated by jutsu Rank 1) * “techniques and techniques activated by this ability effect”, “counterattack techniques and techniques passed down in the R cup” are not included",
+    "flavor_text": "攻撃命中時、自身のHPを回復する( 効果極小 )<br><br>単体攻撃(※)を命中させた時、<br>「<skill=125600291>アンプールノワール</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "When an attack is hit,</skill> <br><br><br>“<skill=125600291> Ampour Noir” is activated (high probability) (activated by Jutsu Rank 1) * when you hit a standalone attack (*) <br><br>that recovers one's own HP (minimal effect) (activated by jutsu Rank 1) * “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101579,
@@ -14452,8 +14452,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "[HP満タン時] <br>与ダメージが上昇( 効果特大 )し、かつ、被ダメージを軽減( 効果大 )する<br><br>[HPが満タンではない時]<br>タイプが「攻撃」である技・術(※)を命中させた時、「<skill=110400248>ブロウヒール+</skill>」が発動する<br>( 技Rank1で発動 )<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "[When HP</skill> <br>is full] damage dealt increases (extra effect) and reduces damage taken (great effect) <br><br>[when HP is not full] when the <br>type hits a technique or jutsu (*) that is an “attack”, “<skill=110400248> Brow Heal +” is activated <br>(activated by move Rank1) <br>* “Normal Attack” “Technique/Art Activated by this Ability Effect” Does not include “counterattack techniques and techniques handed down in the R Cup” and “techniques and techniques handed down in the R Cup”",
+    "flavor_text": "[HP満タン時] <br>与ダメージが上昇( 効果特大 )し、かつ、被ダメージを軽減( 効果大 )する<br><br>[HPが満タンではない時]<br>タイプが「攻撃」である技・術(※)を命中させた時、「<skill=110400248>ブロウヒール+</skill>」が発動する<br>( 技Rank1で発動 )<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "[When HP</skill> <br>is full] damage dealt increases (extra effect) and reduces damage taken (great effect) <br><br>[when HP is not full] when the <br>type hits a technique or jutsu (*) that is an “attack”, “<skill=110400248> Brow Heal +” is activated <br>(activated by move Rank1) <br>* “Normal Attack” “Technique/Art Activated by this Ability Effect” “Counterattack techniques and techniques with counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101628,
@@ -15111,8 +15111,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br><br>OD攻撃(※)を発動後、自身に「<special_effect=800000014>モラルアップ(極大)</special_effect>」( 効果1ターン )を付与し、「<skill=110100298>専心抜刀</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "</special_effect></skill><br><br>After triggering an OD attack (*) that increases damage from the attack (maximum effect), “<special_effect=800000014> Moral Up (maximum) (effect 1 turn)” (effect 1 turn) is granted, and “<skill=110100298> <br>Concentration Attack” is activated (activated by move Rank1) <br>* “Technique activated by this ability effect ・ Does not include “jutsu,” “counterattack techniques and techniques with counter effects,” and “techniques and techniques handed down in the R Cup”",
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br><br>OD攻撃(※)を発動後、自身に「<special_effect=800000014>モラルアップ(極大)</special_effect>」( 効果1ターン )を付与し、「<skill=110100298>専心抜刀</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</special_effect></skill><br><br>After triggering an OD attack (*) that increases damage from the attack (maximum effect), “<special_effect=800000014> Moral Up (maximum) (effect 1 turn)” (effect 1 turn) is granted, and “<skill=110100298> <br>Concentration Attack” is activated (activated by move Rank1) <br>* “Technique activated by this ability effect ・ Does not include “jutsu” and “counterattack techniques and jutsu with counter effects”",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101685,
@@ -15151,8 +15151,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "ラウンド開始時、自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果特大/効果1ターン )<br><br>バトル開始から数えて偶数ターン目に、タイプが「攻撃」である技・術(※)を命中させた時、「<skill=110800276>海神の怒り</skill>」が発動する<br>( 技Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "At the start of the round, grant “</special_effect></skill><br><br><special_effect=800000001>Attack Enhancement” to yourself (oversized effect/effect 1 turn) When you hit a technique or jutsu (*) whose type is “attack” on the even-numbered turns counted from the start of the battle, “<skill=110800276>Wrath of the Sea” is activated <br>(activated by move Rank1) <br> <br>* Does not include “techniques and techniques activated by this ability effect”, “counterattack techniques and techniques handed down in the R Cup”",
+    "flavor_text": "ラウンド開始時、自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果特大/効果1ターン )<br><br>バトル開始から数えて偶数ターン目に、タイプが「攻撃」である技・術(※)を命中させた時、「<skill=110800276>海神の怒り</skill>」が発動する<br>( 技Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "At the start of the round, grant “</special_effect></skill><br><br><special_effect=800000001>Attack Enhancement” to yourself (oversized effect/effect 1 turn) When you hit a technique or jutsu (*) whose type is “attack” on the even-numbered turns counted from the start of the battle, “<skill=110800276>Wrath of the Sea” is activated <br>(activated by move Rank1) <br> <br>* Does not include “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques triggered by counter effects”",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101687,
@@ -15295,8 +15295,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "[OD攻撃(※)を発動後]<br>「<skill=110500408>しゅくせい</skill>」が発動する<br>( 技Rank1で発動 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>HPが満タンである場合、「<skill=110500409>てんばつ+</skill>」が発動する<br>HPが満タンではない場合、「<skill=110500407>きらめき</skill>」が発動する<br>( それぞれ技Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "[After triggering OD attack (*)]</skill></skill> <br>“<skill=110500408>Shukusei” is activated <br>(activated by move Rank1) <br><br>[when hitting a technique or jutsu (*) whose type is “attack”] <br>If the HP is full, “<skill=110500409>Tenbatsu +” is activated when the <br>HP is not full, “<skill= “110500407 > Sparkle</skill>” is activated <br>(each activated by move rank 1) <br><br>* “techniques and techniques activated by this ability effect,” “counterattack techniques and techniques with counter effects,” and “techniques and techniques passed down in the R Cup” are not included",
+    "flavor_text": "[OD攻撃(※)を発動後]<br>「<skill=110500408>しゅくせい</skill>」が発動する<br>( 技Rank1で発動 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>HPが満タンである場合、「<skill=110500409>てんばつ+</skill>」が発動する<br>HPが満タンではない場合、「<skill=110500407>きらめき</skill>」が発動する<br>( それぞれ技Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "[After triggering OD attack (*)]</skill></skill> <br>“<skill=110500408>Shukusei” is activated <br>(activated by move Rank1) <br><br>[when hitting a technique or jutsu (*) whose type is “attack”] <br>If the HP is full, “<skill=110500409>Tenbatsu +” is activated when the <br>HP is not full, “<skill= “110500407 > Sparkle</skill>” is activated <br>(each activated <br><br>by move rank 1) * “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101697,
@@ -16265,8 +16265,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>HPが満タンではない時、さらに与ダメージが上昇する( 効果極大 )<br><br>[OD攻撃(※)を発動後]<br>「<skill=125100255>千羽烏</skill>」が発動する<br>( 術Rank1で発動 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125100254>炎の矢+</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "</skill><br><br><br>Attack damage increases (maximum effect) When HP is not full (maximum effect) [after triggering OD attack (*)] <br>“<skill=125100255> Thousand Crows” is activated <br>(activated by Jutsu Rank 1) <br><br>[When a technique or jutsu (*) whose type is “Attack” is hit] <br>“<skill=125100254 > “Fire Arrow+</skill>” is activated (high probability) <br>(activated by Jutsu Rank 1) <br><br>* Does not include “techniques and techniques activated by this ability effect,” “counterattack techniques and techniques with counter effects,” and “techniques and techniques passed down in the R Cup”",
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>HPが満タンではない時、さらに与ダメージが上昇する( 効果極大 )<br><br>[OD攻撃(※)を発動後]<br>「<skill=125100255>千羽烏</skill>」が発動する<br>( 術Rank1で発動 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125100254>炎の矢+</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</skill><br><br><br>Attack damage increases (maximum effect) When HP is not full (maximum effect) [after triggering OD attack (*)] <br>“<skill=125100255> Thousand Crows” is activated <br>(activated by Jutsu Rank 1) <br><br>[When a technique or jutsu (*) whose type is “Attack” is hit] <br>“<skill=125100254 > “Fire Arrow +</skill>” is activated (high probability) <br>(activated <br><br>by Jutsu Rank 1) ※ “Techniques/techniques activated by this ability effect” and “counterattack techniques and jutsu due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101757,
@@ -16472,8 +16472,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br><br>[バトル開始時]<br>自身以外の味方生存者全体に「<special_effect=800000189>狂信</special_effect>」を付与する( 効果バトル中永続 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125500227>リリーフゾーン</skill>」が発動する( 確率大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "Increases damage from attacks (extra effect)</special_effect> <br>Reduces damage taken when attacked (extra effective) <br><br>[Battle starts] <br><br><br>Gives “<special_effect=800000189> fanaticism” to all allied survivors other than yourself (effect persists during battle) [when hitting a technique or technique (*) whose type is “Attack”] <br>“< “Skill = 125500227> Relief Zone</skill>” will be activated (high probability) <br>(activated by Jutsu Rank 1) <br>* Does not include “techniques and techniques activated by this ability effect,” “counterattack techniques and techniques with counter effects,” and “techniques passed down in the R Cup”",
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br><br>[バトル開始時]<br>自身以外の味方生存者全体に「<special_effect=800000189>狂信</special_effect>」を付与する( 効果バトル中永続 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125500227>リリーフゾーン</skill>」が発動する( 確率大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "Increases damage from attacks (extra effect)</special_effect> <br>Reduces damage taken when attacked (extra effective) <br><br>[Battle starts] <br><br><br>Gives “<special_effect=800000189> fanaticism” to all allied survivors other than yourself (effect persists during battle) [when hitting a technique or technique (*) whose type is “Attack”] <br>“< “Skill = 125500227> Relief Zone</skill>” will be activated (high probability) <br>(activated by Jutsu Rank 1) <br>※ “Techniques/techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101769,
@@ -16745,8 +16745,8 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600293>アンチマテリアルショット</skill>」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After</skill> <br><br>triggering a single attack (*), “<skill=110600293>anti-material shot” is activated (activated by move Rank1) * Does not include “techniques and techniques activated by “chase”, “counterattack techniques and techniques with counter effects”, and “techniques passed down in the R Cup”",
+    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600293>アンチマテリアルショット</skill>」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After activating a single attack (*), “<skill=110600293>anti-material shot</skill>” is activated <br>(activated by move Rank1) <br>※ “techniques and techniques activated by “chase” and “counterattack techniques and techniques with counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101785,
@@ -16808,8 +16808,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br><br>[攻撃命中時]<br>味方生存者全体の腕力・器用さ・知力を上昇させる( 効果小 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110700271>グリットフォール</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "[At the start of battle]</skill> <br>Recover <br><br><br>your own BP (+3) [When hit by attack] Increases the strength, dexterity, and intelligence of all <br><br>allied survivors (little effect) [When you hit a technique or jutsu (*) whose type is <br>“Attack”] “<skill=110700271> Grit Fall” is activated <br>(activated by move Rank1) <br>* “Due to this ability effect Does not include “techniques and techniques to activate,” “counterattack techniques and techniques with counter effects,” and “techniques and techniques passed down in the R Cup”",
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br><br>[攻撃命中時]<br>味方生存者全体の腕力・器用さ・知力を上昇させる( 効果小 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110700271>グリットフォール</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "[At the start of battle]</skill> <br>Recover <br><br><br>your own BP (+3) [When hit by attack] Increases the strength, dexterity, and intelligence of all <br><br>allied survivors (little effect) [When you hit a technique or jutsu (*) whose type is <br>“Attack”] “<skill=110700271> Grit Fall” is activated <br>(activated by move Rank1) <br>* “Due to this ability effect Does not include “techniques and techniques to activate” and “counterattack techniques and techniques due to counter effects”",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101789,
@@ -16886,6 +16886,170 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果中 )<br><br>[ターン開始時]<br>以下の効果が発動する( 上限回数:バトル中5回 )<br>・味方生存者全体に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )<br>・味方生存者全体に「<special_effect=800000096>ディフェンスアップ</special_effect>」を付与する( 効果小 )<br>・ただし、ランダムな味方生存者1体が代償ダメージを受ける( 対象の最大HPの30% )<br>※代償ダメージは被ダメージ軽減効果によって軽減できない",
+    "flavor_text_en": "When attacked, damage taken is reduced (in effect)</special_effect> <br><br>[at start of turn] the <br>following effects are activated (upper limit: 5 times during battle) <br>· Grant “<special_effect=800000095> heat up” to all allied <br>survivors (in effect) ・\"<special_effect=800000096> all allied survivors Grants “Defense Up</special_effect>” (low effect) <br>・However, 1 random ally survivor takes compensatory damage (30% of the target's maximum HP) <br>*Compensatory damage cannot be reduced by damage reduction effects",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101798,
+    "name": "覇王の騙名",
+    "name_en": "A deceptive name for Overlord",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042014,
+      802041018
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>以下の効果が発動する( 上限回数:バトル中5回 )<br>・味方生存者全体に「ヒートアップ」を付与する( 効果中 )<br>・味方生存者全体に「ディフェンスアップ」を付与する( 効果小 )<br>・ただし、ランダムな味方生存者1体が代償ダメージを受ける( 対象の最大HPの30% )<br>※代償ダメージは被ダメージ軽減効果によって軽減できない",
+    "flavor_text_en": "[At the start of the turn] The <br>following effects are activated (maximum number of times: 5 times during battle) <br>・Gives “heat up” to all allied <br>survivors (in effect) ・grants “defensive ups” to all allied survivors (low effect) <br>・However, 1 random <br>allied survivor takes compensation damage (30% of the target's maximum HP) *Compensation damage cannot be reduced by damage reduction effects",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101799,
+    "name": "ターン開始時 ヒートアップ ディフェンスアップ 代償ダメージ",
+    "name_en": "Heat-up defense-up compensation damage at the start of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042011,
+      802042012,
+      802012013
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身を「<special_effect=800000073>挑発</special_effect>」状態にする( 効果中/効果4ターン )<br>自身のHPを回復する( 効果極小 )<br><br>[攻撃を受けた時]<br>直接攻撃に対して、被ダメージを軽減し「<skill=110200107>デュアルカットイン</skill>」でカウンター攻撃する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "[At the start of turn]</special_effect></skill> <br>Put yourself in a “<special_effect=800000073> taunt” state (effect in progress/effect 4 turns) <br>recover your own HP (minimal effect) <br><br>[when attacked] <br>Reduce damage taken against direct attacks and make a counter attack with “<skill=110200107>dual cut-in” <br>(Activated by Move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101800,
+    "name": "二振りの名剣",
+    "name_en": "Two famous swords",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041593,
+      802042015
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +2 )<br><br>[攻撃命中時]<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "[At the start of battle] <br>Recover your own BP (+2) <br><br>[When an attack is hit] <br>Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101801,
+    "name": "強者の練撃Ⅰ",
+    "name_en": "Attack of the Strong I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040322,
+      802041462
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方全体の与ダメージが上昇する( 効果小 )<br>味方全体への被ダメージを軽減する( 効果小 )<br><br>味方全体の棍棒装備時の与ダメージが上昇する( 効果中 )",
+    "flavor_text_en": "Damage dealt to all allies is increased (low effect) <br>Reduces damage taken to all allies (low effect) Damage dealt to all <br><br>allies when equipped with a stick is increased (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101802,
+    "name": "棍棒の伝授Ⅱ",
+    "name_en": "Stickman Teach II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041048,
+      802041049,
+      802042016
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br><br>[ターン開始時]<br>自身の器用さと知力を上昇させる( 効果大 )<br>ただし、自身の精神を低下させる( 効果小 )",
+    "flavor_text_en": "[At the start of battle] <br>Recover your own BP (+3) <br><br>[At start of turn] <br>Increases your own dexterity and intelligence (great effect)<br>, but lowers your own spirit (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101805,
+    "name": "エーデルリッターの猛攻",
+    "name_en": "Edelritter's Onslaught",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802042019,
+      802042020
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身の器用さと知力を上昇させる( 効果大 )",
+    "flavor_text_en": "[At the beginning of the turn] <br>Increases one's own dexterity and intelligence (very effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101806,
+    "name": "ターン開始時 器用さ・知力アップ",
+    "name_en": "Improve dexterity and intelligence at the beginning of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012070,
+      802010760
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身の精神を低下させる( 効果小 )",
+    "flavor_text_en": "[At the beginning of the turn] <br>Lowers your own spirit (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101807,
+    "name": "ターン開始時 精神ダウン",
+    "name_en": "Decreased mind at the beginning of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012018
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方生存者全体の突属性攻撃の与ダメージが上昇する( 効果小 )<br>味方生存者全体の熱属性攻撃の与ダメージが上昇する( 効果小 )",
+    "flavor_text_en": "Sudden attack damage to all allied survivors is increased (low effect) Damage dealt by <br>thermal attacks to all allied survivors is increased (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101808,
+    "name": "戦士鼓舞(突熱)",
+    "name_en": "Warrior Encouragement (Sudden Fever)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040647,
+      802040468
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "冷属性攻撃時、自身のBPを回復する( +2 )",
     "flavor_text_en": "Recover your own BP during a cold attack (+2)",
@@ -16954,6 +17118,41 @@
       802041911,
       802041914,
       802041915
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃を回避して、「<skill=110100310>カラフルスラッシュ</skill>」でカウンター攻撃する( 確率中 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "When attacked</skill><br>, evade a direct attack and perform a counter attack with “<skill=110100310>colorful slash” (probable) <br>(activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101813,
+    "name": "ソウルペインター",
+    "name_en": "soul painter",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042029
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身のHPを回復( 効果極小 )し、かつ、器用さを上昇( 効果中 )させる",
+    "flavor_text_en": "When an attack is hit, restore your own HP (minimal effect) and increase dexterity (active)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101863,
+    "name": "再生累加(器用さ)",
+    "name_en": "Playback accumulation (dexterity)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040622,
+      802010082
     ]
   },
   {
@@ -23756,7 +23955,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110500119>くいあらためよ</skill>」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「くいあらためよ」「R杯で伝承した技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110500119>くいあらためよ</skill>」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「くいあらためよ」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Repent! will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Repent!, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -23916,7 +24115,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110800073>青炎牙</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「青炎牙」「R杯で伝承した技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110800073>青炎牙</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「青炎牙」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Bluefire Fang will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Bluefire Fang, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -24391,7 +24590,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110800098>バスターランサー</skill>」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「バスターランサー」「R杯で伝承した技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110800098>バスターランサー</skill>」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「バスターランサー」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Lance Buster will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal attacks, Lance Buster, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not included.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -24432,7 +24631,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110500185>てんばつ</skill>」が発動する( 確率大 )<br>この効果による「てんばつ」を命中させた時、さらに「<skill=110500095>ひかりあれ</skill>」が発動する( 確率大 )<br>( それぞれ技Rank1で発動 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「<skill=110500185>てんばつ</skill>」が発動する( 確率大 )<br>この効果による「てんばつ」を命中させた時、さらに「<skill=110500095>ひかりあれ</skill>」が発動する( 確率大 )<br>( それぞれ技Rank1で発動 )<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack with an Attack type skill/spell*, Holy Wrath will be activated (high chance).<br>When landing an attack with the activated Holy Wrath, Fiat Lux will be activated (high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Holy Wrath<br>M. Arts skill/Attack/Power: D/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack. (Activates using skill Rank 1)<br><br>Fiat Lux<br>M. Arts skill/Attack/Power: B/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts darkness on target (medium chance/4 turns(s)).<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -24514,7 +24713,7 @@
   },
   {
     "ability_when": 6,
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた後、自身のHPが満タンではない場合<br>「<skill=110500203>スライトハンド</skill>」が発動する<br>( 技Rank1で発動 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた後、自身のHPが満タンではない場合<br>「<skill=110500203>スライトハンド</skill>」が発動する<br>( 技Rank1で発動 )<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "When landing an attack with an Attack type skill/spell*, and when own HP is not full, Sleight of Hand will be activated.<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Sleight of Hand<br>M. Arts skill/Attack/Power: C/Direct/Single Foe (Blunt+Shadow)<br>Attack.<br>When the attack hits, there is a chance to reduce target's DEX (small effect).<br>When the attack hits, recovers own HP (very small effect).<br>(Activates using skill Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
@@ -46381,6 +46580,25 @@
     ]
   },
   {
+    "ability_when": 2,
+    "flavor_text": "味方生存者全体の攻撃の命中率が上昇する( 効果極大 )<br>味方生存者全体の士気を高め、被ダメージを軽減し与ダメージを上昇させる",
+    "flavor_text_en": "The hit rate of all allied survivors increases (maximum effect) Increases the <br>morale of all allied survivors, reduces damage taken, and increases damage dealt",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708200293,
+    "name": "非常なる進撃",
+    "name_en": "Extraordinary Attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040630,
+      808040628,
+      808040629
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身の腕力を上昇させる( 効果大 )",
     "flavor_text_en": "[Start of turn]<br>Increases own STR (large effect).",
@@ -53299,6 +53517,25 @@
     "sort_order": 310000164,
     "special_effect_ids": [
       811040570
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "常時　敵に与えるダメージが90%上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased by 90% at all times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100459,
+    "name": "戦いの刻",
+    "name_en": "Time of battle",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "戦いの刻 90%",
+    "simple_flavor_text_en": "Battle Hour 90%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000425,
+    "special_effect_ids": [
+      811040575
     ]
   },
   {

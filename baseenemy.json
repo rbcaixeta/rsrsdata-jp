@@ -1530,6 +1530,23 @@
     "sprite_studio": 0
   },
   {
+    "enemy_class": 1,
+    "gender": 1,
+    "id": 101122,
+    "illust": 1011221,
+    "name": "偽ギュスターヴ",
+    "name_en": "Fake Gustave",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
     "enemy_class": 2,
     "gender": 9,
     "id": 102001,

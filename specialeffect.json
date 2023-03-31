@@ -1476,8 +1476,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「<skill=110600225>クロービット強襲</skill>」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After the next turn granted, after</skill> <br><br>triggering an attack (*), “<skill=110600225> Clobit Assault” is activated (maximum number of times: 3 times) (activated by move Rank1) * Does not include “techniques and techniques activated by special state effects,” “counterattack techniques and techniques handed down in the R Cup”",
+    "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「<skill=110600225>クロービット強襲</skill>」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After the next turn granted, after</skill> <br><br>triggering an attack (*), “<skill=110600225> Clobit Assault” is activated (maximum number of times: 3 times) (activated by move Rank1) ※ “Techniques/techniques activated by special state effects” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000093,
     "ignition_effect_id": "",
@@ -1499,8 +1499,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「<skill=110600242>ラ・ビットレーザー</skill>」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After the next turn granted, after</skill> <br><br>triggering an attack (*), “<skill=110600242> Rabbit Laser” is activated (maximum number of times: 3 times) (activated by move Rank1) * “techniques and techniques activated by the effects of special states”, “counterattack techniques and techniques handed down in the R Cup” are not included",
+    "flavor_text": "付与された次のターン以降、攻撃(※)を発動後、「<skill=110600242>ラ・ビットレーザー</skill>」が発動する( 上限回数:3回 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After the next turn that was granted, after the attack (*) is activated, “<skill=110600242> Rabbit Laser</skill>” is activated (maximum number of times: 3 times) <br>(activated by move Rank1) <br>※ “techniques and techniques activated by the effects of special states” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000094,
     "ignition_effect_id": "",
@@ -1667,6 +1667,29 @@
     "ignition_effect_id": "",
     "name": "防御態勢(技/大)",
     "name_en": "Defensive Stance (DEVIC/BIG)",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技攻撃を受けた時、被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases when attacked by a move (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 800000106,
+    "ignition_effect_id": "",
+    "name": "防御態勢(技/特大)",
+    "name_en": "Defensive Stance (Dick/Oversized)",
     "name_en_src": "ml",
     "state_change_id": 900030001,
     "state_icon": 1031,
@@ -2005,8 +2028,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600209>ウインドチェイサー</skill>」が発動する<br>( 技Rank1で発動 )<br>※「\"追撃\"により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After</skill> <br><br>triggering a single attack (*), “<skill=110600209> Wind Chaser” is activated (activated by move Rank1) * Does not include “techniques and techniques activated by “chase”, “counterattack techniques and techniques with counter effects”, and “techniques passed down in the R Cup”",
+    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600209>ウインドチェイサー</skill>」が発動する<br>( 技Rank1で発動 )<br>※「\"追撃\"により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After activating a single attack (*), “<skill=110600209> Wind Chaser</skill>” is activated <br>(activated by move Rank1) <br>※ “Techniques/techniques activated by “chase” and “counterattack technics/techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000124,
     "ignition_effect_id": "",
@@ -2028,8 +2051,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600211>アイスチェイサー</skill>」が発動する<br>( 技Rank1で発動 )<br>※「\"追撃\"により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After</skill> <br><br>triggering a single attack (*), “<skill=110600211> Ice Chaser” is activated (activated by move Rank1) * Does not include “techniques and techniques activated by “chase”, “counterattack techniques and techniques with counter effects”, and “techniques passed down in the R Cup”",
+    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600211>アイスチェイサー</skill>」が発動する<br>( 技Rank1で発動 )<br>※「\"追撃\"により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After activating a single attack (*), “<skill=110600211> Ice Chaser</skill>” is activated <br>(activated by move Rank1) <br>※ “Techniques/techniques activated by “chase” and “counterattack technics/techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000125,
     "ignition_effect_id": "",
@@ -2051,8 +2074,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600248>アタックチェイサー</skill>」が発動する<br>( 技Rank1で発動 )<br>※「\"追撃\"により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After</skill> <br><br>triggering a single attack (*), “<skill=110600248> Attack Chaser” is activated (activated by move Rank1) ※ “Techniques/techniques activated by “chase”, “counterattack techniques and techniques with counter effects”, and “techniques passed down in the R Cup” are not included",
+    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600248>アタックチェイサー</skill>」が発動する<br>( 技Rank1で発動 )<br>※「\"追撃\"により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After</skill> <br><br>triggering a single attack (*), “<skill=110600248> Attack Chaser” is activated (activated by move Rank1) ※ “Techniques/techniques activated by “chase” and “counterattack technics/techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000126,
     "ignition_effect_id": "",
@@ -2074,8 +2097,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "単体攻撃(※)を発動後、「<skill=110500313>フロストレビン</skill>」が発動する<br>( 技Rank1で発動 )<br>※「\"追撃\"により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After activating a single attack (*), “<skill=110500313>Frostlevin</skill>” is activated <br>(activated by move Rank1) <br>※ “techniques and techniques activated by “chase”, “counterattack techniques and techniques with counter effects”, and “techniques and techniques passed down in the R Cup” are not included",
+    "flavor_text": "単体攻撃(※)を発動後、「<skill=110500313>フロストレビン</skill>」が発動する<br>( 技Rank1で発動 )<br>※「\"追撃\"により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After activating a single attack (*), “<skill=110500313> Frostlevin</skill>” is activated <br>(activated by move Rank1) <br>※ “techniques and techniques activated by “chase” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000127,
     "ignition_effect_id": "",
@@ -2511,8 +2534,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600274>フローズンチェイサー</skill>」が発動する<br>( 技Rank1で発動 )<br>※「\"追撃\"により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After</skill> <br><br>triggering a single attack (*), “<skill=110600274> Frozen Chaser” is activated (activated by move Rank1) ※ “Techniques/techniques activated by “chase”, “counterattack techniques and techniques with counter effects”, and “techniques passed down in the R Cup” are not included",
+    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600274>フローズンチェイサー</skill>」が発動する<br>( 技Rank1で発動 )<br>※「\"追撃\"により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After activating a single attack (*), “<skill=110600274> Frozen Chaser</skill>” is activated <br>(activated by move Rank1) <br>※ “techniques and techniques activated by “chase” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000146,
     "ignition_effect_id": "",
@@ -2626,8 +2649,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "付与された次のターンに、攻撃(※)を発動後、「<skill=110100289>忍法神速プレゼント剣</skill>」が発動する<br>( 技Rank1で発動 )<br>ただし、気絶またはラウンド進行により解除される<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "On the next turn granted, after</skill> <br><br><br>triggering an attack (*), “<skill=110100289> Ninja Speed Present Sword” is activated (activated by move Rank1), but it is unlocked by stun or round progression* “techniques and techniques activated by the effects of special states”, “counterattack techniques and techniques handed down in the R Cup” and “techniques handed down in the R Cup” are not included",
+    "flavor_text": "付与された次のターンに、攻撃(※)を発動後、「<skill=110100289>忍法神速プレゼント剣</skill>」が発動する<br>( 技Rank1で発動 )<br>ただし、気絶またはラウンド進行により解除される<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "On the next turn granted, “<skill=110100289> Ninja Speed Present Sword” is activated after</skill> <br><br><br>triggering an attack (*) (activated by move Rank1), but it is unlocked by stun or round progression* “techniques and techniques activated by the effects of special states” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000152,
     "ignition_effect_id": "",
@@ -3109,8 +3132,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時<br>「<skill=110200303>朔斬り+</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "“</skill><br><skill=110200303>Sakuzanri+” is activated when a technique or jutsu (*) whose type is “attack” is hit <br>(high probability) (activated by <br>move Rank1) * “techniques and techniques activated by the effects of special states”, “counterattack techniques and techniques handed down in the R cup” are not included",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時<br>「<skill=110200303>朔斬り+</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "“</skill><br><skill=110200303>Sakuzanri+” is activated when a technique or jutsu (*) whose type is “attack” is hit (high probability) <br>(activated by move rank1) <br>※ “techniques and techniques activated by effects of special states” and “counterattack techniques and jutsu due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000176,
     "ignition_effect_id": "",
@@ -3132,8 +3155,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時<br>「<skill=110200304>ムーンスクレイパー+</skill>」が発動する( 確率大 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "“</skill><br><skill=110200304>Moonscraper +” is activated when a technique (*) whose type is “attack” is hit (high probability) <br>(activated by <br>move Rank1) * “techniques and techniques activated by special state effects”, “counterattack techniques and techniques handed down in the R cup” are not included",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時<br>「<skill=110200304>ムーンスクレイパー+</skill>」が発動する( 確率大 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "“</skill><br><skill=110200304>Moonscraper +” is activated when a technique (*) whose type is “attack” is hit (high probability) <br>(activated by move Rank1) <br>※ “techniques and techniques activated by special state effects” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000177,
     "ignition_effect_id": "",
@@ -3155,8 +3178,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時<br>「<skill=110200305>明月斬</skill>」が発動する( 確率大 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "“</skill><br><skill=110200305>Meigetsu Attack” is activated when you hit a technique or jutsu (*) whose type is “attack” <br>(high probability) (activated by <br>move Rank1) * “techniques and techniques activated by the effects of special states”, “counterattack techniques and techniques handed down in the R Cup” are not included",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時<br>「<skill=110200305>明月斬</skill>」が発動する( 確率大 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "“</skill><br><skill=110200305>Meigetsu Attack” will be activated when you hit a technique or jutsu (*) whose type is “Attack” (high probability) <br>(activated by move Rank1) <br>※ “Techniques/techniques activated by special state effects” and “counterattack techniques and jutsu due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000178,
     "ignition_effect_id": "",
@@ -3178,8 +3201,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時<br>「<skill=110200306>ムーンヘイズリッパー</skill>」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "</skill><br>“<skill=110200306> Moon Haze Ripper” is activated (probable) (activated by move Rank1) when a <br>technique or jutsu (*) whose type is “attack” is <br>hit (probable) (activated by move Rank1) ※ “techniques and techniques activated by the effects of special states”, “counterattack techniques and techniques handed down in the R Cup” are not included",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時<br>「<skill=110200306>ムーンヘイズリッパー</skill>」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</skill><br>“<skill=110200306> Moon Haze Ripper” is activated (probable) (activated by move <br>Rank1) when hitting a technique or <br>jutsu (*) whose type is “attack” ※ “techniques and techniques activated by effects of special states” and “counterattack techniques and jutsu due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000179,
     "ignition_effect_id": "",
@@ -3385,8 +3408,8 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
-    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600293>アンチマテリアルショット</skill>」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」「R杯で伝承した技・術」は含まない",
-    "flavor_text_en": "After</skill> <br><br>triggering a single attack (*), “<skill=110600293>anti-material shot” is activated (activated by move Rank1) * Does not include “techniques and techniques activated by “chase”, “counterattack techniques and techniques with counter effects”, and “techniques passed down in the R Cup”",
+    "flavor_text": "単体攻撃(※)を発動後、「<skill=110600293>アンチマテリアルショット</skill>」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "After activating a single attack (*), “<skill=110600293>anti-material shot</skill>” is activated <br>(activated by move Rank1) <br>※ “techniques and techniques activated by “chase” and “counterattack techniques and techniques with counter effects” are not included",
     "flavor_text_en_src": "ml",
     "id": 800000190,
     "ignition_effect_id": "",
@@ -3461,6 +3484,29 @@
     "ignition_effect_id": "",
     "name": "練気の呪縛Ⅰ",
     "name_en": "Enqi Spell I",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "打属性攻撃時、与えるダメージが上昇する( 効果バトル中永続 )",
+    "flavor_text_en": "When attacking with a hit attribute, damage dealt increases (effect lasts forever during battle)",
+    "flavor_text_en_src": "ml",
+    "id": 800000201,
+    "ignition_effect_id": "",
+    "name": "エレメントエンハンス(打)",
+    "name_en": "Element Enhancement (Hit)",
     "name_en_src": "ml",
     "state_change_id": 900030001,
     "state_icon": 1031,
@@ -9599,6 +9645,214 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "精神↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011546,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Physical strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011547,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Increased physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011548,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011549,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011550,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011551,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Improve your mind",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "愛が上昇する",
+    "flavor_text_en": "Love rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011552,
+    "ignition_effect_id": "",
+    "name": "愛アップ",
+    "name_en": "Love up",
+    "name_en_src": "ml",
+    "state_change_id": 900010018,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が上昇する",
+    "flavor_text_en": "Attractiveness rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011553,
+    "ignition_effect_id": "",
+    "name": "魅力アップ",
+    "name_en": "Increased attractiveness",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon140200206",
+    "flavor_text": "攻撃時、自身以外の味方全体の最大HPの30%を消費する",
+    "flavor_text_en": "When attacking, consume 30% of the maximum HP of all allies other than yourself",
+    "flavor_text_en_src": "ml",
+    "id": 801011590,
+    "ignition_effect_id": "",
+    "name": "代償ダメージ(最大HP30%)",
+    "name_en": "Compensatory damage (max HP 30%)",
+    "name_en_src": "ml",
+    "state_change_id": 900050079,
+    "state_icon": 2002,
+    "state_vars": [
+      1
+    ],
+    "target_area": 12,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -24113,6 +24367,56 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "術攻撃を受けた時、被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases when attacked by jutsu (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041536,
+    "ignition_effect_id": "",
+    "name": "防御態勢(術/特大)",
+    "name_en": "Defensive Stance (Jutsu/Oversized)",
+    "name_en_src": "ml",
+    "state_change_id": 900040189,
+    "state_icon": 3001,
+    "state_vars": [
+      50
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "防御態勢(術)",
+    "triggering_effect_condition_ids": [
+      45001
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon140200210",
+    "flavor_text": "技攻撃を受けた時、被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases when attacked by a move (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041537,
+    "ignition_effect_id": "",
+    "name": "防御態勢(技/特大)",
+    "name_en": "Defensive Stance (Dick/Oversized)",
+    "name_en_src": "ml",
+    "state_change_id": 900040213,
+    "state_icon": 3001,
+    "state_vars": [
+      50
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "防御態勢(技)",
+    "triggering_effect_condition_ids": [
+      47001
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
     "flavor_text_en": "Unlock reduced abilities of strength, stamina, dexterity, agility, intellect, spirit, love, and charm",
@@ -24217,6 +24521,55 @@
     "text_pop": "防御↑",
     "triggering_effect_condition_ids": [
       14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon140200209",
+    "flavor_text": "術攻撃を受けた時、被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases when attacked by jutsu (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041577,
+    "ignition_effect_id": "",
+    "name": "防御態勢(術/大)",
+    "name_en": "Defensive Stance (Jutsu/Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040190,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "防御態勢(術)",
+    "triggering_effect_condition_ids": [
+      45001
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "打属性攻撃時、与えるダメージが上昇する",
+    "flavor_text_en": "When attacking with a hit attribute, damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 801041579,
+    "ignition_effect_id": "",
+    "name": "エレメントエンハンス(打)",
+    "name_en": "Element Enhancement (Hit)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 12,
+    "text_color": "65D2FF",
+    "text_pop": "打攻撃↑",
+    "triggering_effect_condition_ids": [
+      22002
     ]
   },
   {
@@ -32374,6 +32727,53 @@
   },
   {
     "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "SelfHarm",
+    "flavor_text": "ランダムな味方生存者1体が代償ダメージを受ける（自身の最大HPの30%）",
+    "flavor_text_en": "One random ally survivor takes compensatory damage (30% of one's maximum HP)",
+    "flavor_text_en_src": "ml",
+    "id": 802012013,
+    "ignition_effect_id": "",
+    "name": "代償ダメージ(最大HP30%)",
+    "name_en": "Compensatory damage (max HP 30%)",
+    "name_en_src": "ml",
+    "state_change_id": 900050079,
+    "state_icon": 2002,
+    "state_vars": [
+      1
+    ],
+    "target_area": 2,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "精神が低下する",
+    "flavor_text_en": "Mentality declines",
+    "flavor_text_en_src": "ml",
+    "id": 802012018,
+    "ignition_effect_id": "",
+    "name": "精神ダウン",
+    "name_en": "Mental downturn",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FF0000",
+    "text_pop": "精神↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
       22013
     ],
     "display_flag": 1,
@@ -32418,6 +32818,29 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "器用さが上昇する",
+    "flavor_text_en": "Dexterity increases",
+    "flavor_text_en_src": "ml",
+    "id": 802012070,
+    "ignition_effect_id": "",
+    "name": "器用さアップ",
+    "name_en": "Improve dexterity",
+    "name_en_src": "ml",
+    "state_change_id": 900010014,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "器用さ 知力↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -62580,6 +63003,176 @@
   {
     "applying_effect_condition_ids": [
     ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042011,
+    "ignition_effect_id": "",
+    "name": "ヒートアップ",
+    "name_en": "Heat up",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802042012,
+    "ignition_effect_id": "",
+    "name": "ディフェンスアップ",
+    "name_en": "Defensive ups",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      95
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン開始時]<br>以下の効果が発動する<br>・味方生存者全体に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )<br>・味方生存者全体に「<special_effect=800000096>ディフェンスアップ</special_effect>」を付与する( 効果小 )<br>・ただし、ランダムな味方生存者1体が代償ダメージを受ける( 対象の最大HPの30% )<br>※代償ダメージは被ダメージ軽減効果によって軽減できない",
+    "flavor_text_en": "[At the start of the turn]</special_effect></special_effect> <br>The following effects are activated <br>・\"<special_effect=800000095> heat up” is given to <br>all allied survivors (in effect) ・\"<special_effect=800000096> defensive up” is given to all allied survivors (little effect) <br>・However, randomly One allied survivor takes compensatory damage (30% of the target's maximum HP) <br>*Compensatory damage cannot be reduced by damage reduction effects",
+    "flavor_text_en_src": "ml",
+    "id": 802042014,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 ヒートアップ・ディフェンスアップ・代償ダメージ",
+    "name_en": "Heat up, defense up, and compensation damage at the start of a turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101799
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃に対して、「<skill=110200107>デュアルカットイン</skill>」でカウンター攻撃を行う<br>さらに被ダメージが低下する",
+    "flavor_text_en": "In response to an enemy's direct attack, perform a counter attack with “<skill=110200107>dual cut-in</skill>” <br>further reduces damage taken",
+    "flavor_text_en_src": "ml",
+    "id": 802042015,
+    "ignition_effect_id": "",
+    "name": "二振りの名剣",
+    "name_en": "Two famous swords",
+    "name_en_src": "ml",
+    "state_change_id": 900040035,
+    "state_icon": 3001,
+    "state_vars": [
+      110200107,
+      65
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "棍棒装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Attack damage is increased when equipped with a stick",
+    "flavor_text_en_src": "ml",
+    "id": 802042016,
+    "ignition_effect_id": "",
+    "name": "棍棒攻撃強化",
+    "name_en": "Stick Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      21004
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン開始時]<br>自身の器用さと知力を上昇させる( 効果大 )",
+    "flavor_text_en": "[At the beginning of the turn] <br>Increases one's own dexterity and intelligence (very effective)",
+    "flavor_text_en_src": "ml",
+    "id": 802042019,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 器用さ・知力アップ",
+    "name_en": "Improve dexterity and intelligence at the beginning of a turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101806
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン開始時]<br>自身の精神を低下させる( 効果小 )",
+    "flavor_text_en": "[At the beginning of the turn] <br>Lowers your own spirit (less effective)",
+    "flavor_text_en_src": "ml",
+    "id": 802042020,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 精神ダウン",
+    "name_en": "Decreased mind at the beginning of a turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101807
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "ターン開始時、自身のBPを回復する( +4 )",
@@ -62618,6 +63211,30 @@
     "state_icon": 3003,
     "state_vars": [
       702101812
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃を回避して、「<skill=110100310>カラフルスラッシュ</skill>」でカウンター攻撃を行う( 確率中 )",
+    "flavor_text_en": "Avoid direct enemy attacks and perform a counter attack with “<skill=110100310>colorful slash</skill>” (probable)",
+    "flavor_text_en_src": "ml",
+    "id": 802042029,
+    "ignition_effect_id": "",
+    "name": "ソウルペインター",
+    "name_en": "soul painter",
+    "name_en_src": "ml",
+    "state_change_id": 900040036,
+    "state_icon": 3001,
+    "state_vars": [
+      110100310
     ],
     "target_area": 1,
     "text_color": "",
@@ -81641,6 +82258,78 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 808040628,
+    "ignition_effect_id": "",
+    "name": "ガードアップ",
+    "name_en": "Guard up",
+    "name_en_src": "ml",
+    "state_change_id": 900040099,
+    "state_icon": 3001,
+    "state_vars": [
+      20
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 808040629,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(小)",
+    "name_en": "Attack Boost (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "攻撃の命中率が上昇する",
+    "flavor_text_en": "Attack hit rate increases",
+    "flavor_text_en_src": "ml",
+    "id": 808040630,
+    "ignition_effect_id": "",
+    "name": "攻撃命中アップ",
+    "name_en": "Attack hit increased",
+    "name_en_src": "ml",
+    "state_change_id": 900040056,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "命中↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "Heal",
     "flavor_text": "HPを回復する",
     "flavor_text_en": "Recovers HP.",
@@ -89923,6 +90612,114 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon a monster",
+    "flavor_text_en_src": "ml",
+    "id": 809040573,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Invite friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      2,
+      3367,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon a monster",
+    "flavor_text_en_src": "ml",
+    "id": 809040574,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Invite friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      2,
+      3367,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon a monster",
+    "flavor_text_en_src": "ml",
+    "id": 809040575,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Invite friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      2,
+      3368,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "魔物を召喚する",
+    "flavor_text_en": "Summon a monster",
+    "flavor_text_en_src": "ml",
+    "id": 809040576,
+    "ignition_effect_id": "",
+    "name": "仲間を呼ぶ",
+    "name_en": "Invite friends",
+    "name_en_src": "ml",
+    "state_change_id": 900050110,
+    "state_icon": 3001,
+    "state_vars": [
+      2,
+      2,
+      3368,
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "与えるダメージが上昇する",
     "flavor_text_en": "Damage dealt increases",
@@ -93012,6 +93809,52 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "与えるダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage dealt is reduced (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 809040799,
+    "ignition_effect_id": "",
+    "name": "モラルダウン(中)",
+    "name_en": "Moral Down (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040114,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "攻撃↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "被ダメージが上昇する(重複不可)",
+    "flavor_text_en": "Damage taken increases (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 809040800,
+    "ignition_effect_id": "",
+    "name": "ガードダウン(中)",
+    "name_en": "guard down (medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040152,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "防御↓",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -98272,6 +99115,30 @@
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
       50062
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 811040575,
+    "ignition_effect_id": "",
+    "name": "[SS]ダメージアップ",
+    "name_en": "[SS] Increased damage",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
     ]
   },
   {

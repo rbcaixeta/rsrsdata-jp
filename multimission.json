@@ -4742,5 +4742,725 @@
         "type": 1
       }
     ]
+  },
+  {
+    "description": "100体討伐する",
+    "description_en": "Defeat 100",
+    "description_en_src": "ml",
+    "id": 200161,
+    "is_multi": 0,
+    "multi_mission_tab_id": 9,
+    "priority": 9999,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 30,
+        "type": 33
+      },
+      {
+        "id": 810003,
+        "quantity": 25,
+        "type": 8
+      },
+      {
+        "id": 830001,
+        "quantity": 90,
+        "type": 11
+      },
+      {
+        "id": 840001,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "200体討伐する",
+    "description_en": "Defeat 200 bodies",
+    "description_en_src": "ml",
+    "id": 200162,
+    "is_multi": 0,
+    "multi_mission_tab_id": 9,
+    "priority": 9998,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 30,
+        "type": 33
+      },
+      {
+        "id": 810003,
+        "quantity": 25,
+        "type": 8
+      },
+      {
+        "id": 830001,
+        "quantity": 90,
+        "type": 11
+      },
+      {
+        "id": 840001,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "400体討伐する",
+    "description_en": "Defeat 400 bodies",
+    "description_en_src": "ml",
+    "id": 200163,
+    "is_multi": 0,
+    "multi_mission_tab_id": 9,
+    "priority": 9997,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 30,
+        "type": 33
+      },
+      {
+        "id": 810003,
+        "quantity": 25,
+        "type": 8
+      },
+      {
+        "id": 830001,
+        "quantity": 90,
+        "type": 11
+      },
+      {
+        "id": 840001,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "600体討伐する",
+    "description_en": "Defeat 600 bodies",
+    "description_en_src": "ml",
+    "id": 200164,
+    "is_multi": 0,
+    "multi_mission_tab_id": 9,
+    "priority": 9996,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 30,
+        "type": 33
+      },
+      {
+        "id": 810003,
+        "quantity": 25,
+        "type": 8
+      },
+      {
+        "id": 830001,
+        "quantity": 90,
+        "type": 11
+      },
+      {
+        "id": 840001,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "800体討伐する",
+    "description_en": "Defeat 800 bodies",
+    "description_en_src": "ml",
+    "id": 200165,
+    "is_multi": 0,
+    "multi_mission_tab_id": 9,
+    "priority": 9995,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 30,
+        "type": 33
+      },
+      {
+        "id": 810003,
+        "quantity": 25,
+        "type": 8
+      },
+      {
+        "id": 830001,
+        "quantity": 90,
+        "type": 11
+      },
+      {
+        "id": 840001,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "1,000体討伐する",
+    "description_en": "Defeat 1,000 bodies",
+    "description_en_src": "ml",
+    "id": 200166,
+    "is_multi": 0,
+    "multi_mission_tab_id": 9,
+    "priority": 9994,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 30,
+        "type": 33
+      },
+      {
+        "id": 810003,
+        "quantity": 25,
+        "type": 8
+      },
+      {
+        "id": 830001,
+        "quantity": 90,
+        "type": 11
+      },
+      {
+        "id": 840001,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "1,300体討伐する",
+    "description_en": "Defeat 1,300 bodies",
+    "description_en_src": "ml",
+    "id": 200167,
+    "is_multi": 0,
+    "multi_mission_tab_id": 9,
+    "priority": 9993,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 30,
+        "type": 33
+      },
+      {
+        "id": 881001,
+        "quantity": 24,
+        "type": 20
+      },
+      {
+        "id": 830001,
+        "quantity": 90,
+        "type": 11
+      },
+      {
+        "id": 840001,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "1,600体討伐する",
+    "description_en": "Defeat 1,600 enemies",
+    "description_en_src": "ml",
+    "id": 200168,
+    "is_multi": 0,
+    "multi_mission_tab_id": 9,
+    "priority": 9992,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 30,
+        "type": 33
+      },
+      {
+        "id": 881002,
+        "quantity": 24,
+        "type": 20
+      },
+      {
+        "id": 830001,
+        "quantity": 90,
+        "type": 11
+      },
+      {
+        "id": 840001,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "2,000体討伐する",
+    "description_en": "Defeat 2,000 enemies",
+    "description_en_src": "ml",
+    "id": 200169,
+    "is_multi": 0,
+    "multi_mission_tab_id": 9,
+    "priority": 9991,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 30,
+        "type": 33
+      },
+      {
+        "id": 881003,
+        "quantity": 24,
+        "type": 20
+      },
+      {
+        "id": 830001,
+        "quantity": 90,
+        "type": 11
+      },
+      {
+        "id": 840001,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "2,500体討伐する",
+    "description_en": "Kill 2,500 enemies",
+    "description_en_src": "ml",
+    "id": 200170,
+    "is_multi": 0,
+    "multi_mission_tab_id": 9,
+    "priority": 9990,
+    "rewards": [
+      {
+        "id": 960001,
+        "quantity": 30,
+        "type": 33
+      },
+      {
+        "id": 881004,
+        "quantity": 24,
+        "type": 20
+      },
+      {
+        "id": 830001,
+        "quantity": 90,
+        "type": 11
+      },
+      {
+        "id": 840001,
+        "quantity": 20,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 100000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "65,000,000体討伐する",
+    "description_en": "Defeat 65,000,000 enemies",
+    "description_en_src": "ml",
+    "id": 200171,
+    "is_multi": 1,
+    "multi_mission_tab_id": 9,
+    "priority": 9999,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 1000,
+        "type": 1
+      },
+      {
+        "id": 830001,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 950013,
+        "quantity": 30,
+        "type": 32
+      },
+      {
+        "id": 840001,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "130,000,000体討伐する",
+    "description_en": "Defeat 130,000,000 enemies",
+    "description_en_src": "ml",
+    "id": 200172,
+    "is_multi": 1,
+    "multi_mission_tab_id": 9,
+    "priority": 9998,
+    "rewards": [
+      {
+        "id": 821194,
+        "quantity": 1,
+        "type": 10
+      },
+      {
+        "id": 830001,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 950013,
+        "quantity": 30,
+        "type": 32
+      },
+      {
+        "id": 840001,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "195,000,000体討伐する",
+    "description_en": "Defeat 195,000,000 enemies",
+    "description_en_src": "ml",
+    "id": 200173,
+    "is_multi": 1,
+    "multi_mission_tab_id": 9,
+    "priority": 9997,
+    "rewards": [
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      },
+      {
+        "id": 830001,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 950013,
+        "quantity": 30,
+        "type": 32
+      },
+      {
+        "id": 840001,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "260,000,000体討伐する",
+    "description_en": "Kill 260,000,000 enemies",
+    "description_en_src": "ml",
+    "id": 200174,
+    "is_multi": 1,
+    "multi_mission_tab_id": 9,
+    "priority": 9996,
+    "rewards": [
+      {
+        "id": 821195,
+        "quantity": 1,
+        "type": 10
+      },
+      {
+        "id": 830001,
+        "quantity": 100,
+        "type": 11
+      },
+      {
+        "id": 950013,
+        "quantity": 30,
+        "type": 32
+      },
+      {
+        "id": 840001,
+        "quantity": 50,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "325,000,000体討伐する",
+    "description_en": "Defeat 325,000,000",
+    "description_en_src": "ml",
+    "id": 200175,
+    "is_multi": 1,
+    "multi_mission_tab_id": 9,
+    "priority": 9995,
+    "rewards": [
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      },
+      {
+        "id": 830001,
+        "quantity": 150,
+        "type": 11
+      },
+      {
+        "id": 950013,
+        "quantity": 30,
+        "type": 32
+      },
+      {
+        "id": 840001,
+        "quantity": 100,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "390,000,000体討伐する",
+    "description_en": "Defeat 390,000,000 bodies",
+    "description_en_src": "ml",
+    "id": 200176,
+    "is_multi": 1,
+    "multi_mission_tab_id": 9,
+    "priority": 9994,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 500,
+        "type": 1
+      },
+      {
+        "id": 830001,
+        "quantity": 150,
+        "type": 11
+      },
+      {
+        "id": 950013,
+        "quantity": 30,
+        "type": 32
+      },
+      {
+        "id": 840001,
+        "quantity": 100,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "455,000,000体討伐する",
+    "description_en": "Kill 455,000,000 enemies",
+    "description_en_src": "ml",
+    "id": 200177,
+    "is_multi": 1,
+    "multi_mission_tab_id": 9,
+    "priority": 9993,
+    "rewards": [
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      },
+      {
+        "id": 830001,
+        "quantity": 150,
+        "type": 11
+      },
+      {
+        "id": 950013,
+        "quantity": 30,
+        "type": 32
+      },
+      {
+        "id": 840001,
+        "quantity": 100,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "520,000,000体討伐する",
+    "description_en": "Defeat 520,000,000 bodies",
+    "description_en_src": "ml",
+    "id": 200178,
+    "is_multi": 1,
+    "multi_mission_tab_id": 9,
+    "priority": 9992,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 500,
+        "type": 1
+      },
+      {
+        "id": 830001,
+        "quantity": 200,
+        "type": 11
+      },
+      {
+        "id": 950013,
+        "quantity": 30,
+        "type": 32
+      },
+      {
+        "id": 840001,
+        "quantity": 150,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "585,000,000体討伐する",
+    "description_en": "Kill 585,000,000 enemies",
+    "description_en_src": "ml",
+    "id": 200179,
+    "is_multi": 1,
+    "multi_mission_tab_id": 9,
+    "priority": 9991,
+    "rewards": [
+      {
+        "id": 105001,
+        "quantity": 50,
+        "type": 2
+      },
+      {
+        "id": 830001,
+        "quantity": 200,
+        "type": 11
+      },
+      {
+        "id": 950013,
+        "quantity": 30,
+        "type": 32
+      },
+      {
+        "id": 840001,
+        "quantity": 150,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "description": "650,000,000体討伐する",
+    "description_en": "Defeat 650,000,000 enemies",
+    "description_en_src": "ml",
+    "id": 200180,
+    "is_multi": 1,
+    "multi_mission_tab_id": 9,
+    "priority": 9990,
+    "rewards": [
+      {
+        "id": 100002,
+        "quantity": 1000,
+        "type": 1
+      },
+      {
+        "id": 830001,
+        "quantity": 250,
+        "type": 11
+      },
+      {
+        "id": 950013,
+        "quantity": 30,
+        "type": 32
+      },
+      {
+        "id": 840001,
+        "quantity": 200,
+        "type": 12
+      },
+      {
+        "id": 100003,
+        "quantity": 150000,
+        "type": 1
+      }
+    ]
   }
 ]

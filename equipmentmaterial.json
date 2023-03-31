@@ -684,5 +684,19 @@
     "rarity": 4,
     "selling_price": 20,
     "sort_order": 978
+  },
+  {
+    "equipment_material_category_id": 7,
+    "flavor_text": "SS武器を進化させるための素材。一定数を集めると、鍛冶屋で進化できる。イベントで入手できる。",
+    "flavor_text_en": "Material for evolving SS weapons. If you collect a certain number, you can evolve at the blacksmith shop. You can get them at events.",
+    "flavor_text_en_src": "ml",
+    "icon": 690024,
+    "id": 690024,
+    "name": "【SS】輝石",
+    "name_en": "[SS] pyroxene",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "selling_price": 50,
+    "sort_order": 1006
   }
 ]

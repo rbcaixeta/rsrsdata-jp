@@ -2364,5 +2364,31 @@
     "name_en": "Strength Test Training Dojo Ticket [Limited Time Only]",
     "name_en_src": "ml",
     "sort_order": 23030110
+  },
+  {
+    "expired_at": 1681498799,
+    "flavor_text": "使用することで、「激闘！偽りの後継者（解放用）」に挑戦できる。（2023/4/15 4:00まで）",
+    "flavor_text_en": "By using it, “fierce battle! You can challenge “False Successors (for release)”. (Until 2023/4/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821194,
+    "id": 821194,
+    "max_quantity": 99999,
+    "name": "軍の配備図[期間限定]",
+    "name_en": "Army Deployment Map [Limited Time Only]",
+    "name_en_src": "ml",
+    "sort_order": 23033120
+  },
+  {
+    "expired_at": 1681498799,
+    "flavor_text": "使用することで、「死闘！偽りの後継者（解放用）」に挑戦できる。（2023/4/15 4:00まで）",
+    "flavor_text_en": "By using it, you can “fight to the death! You can challenge “False Successors (for release)”. (Until 2023/4/15 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821195,
+    "id": 821195,
+    "max_quantity": 99999,
+    "name": "優勢の伝令[期間限定]",
+    "name_en": "Herald of Superiority [Limited Time Only]",
+    "name_en_src": "ml",
+    "sort_order": 23033125
   }
 ]

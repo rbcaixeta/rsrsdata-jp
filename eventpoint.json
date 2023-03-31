@@ -3302,6 +3302,19 @@
     "sort_order": 23032460
   },
   {
+    "expired_at": 1682621999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800256,
+    "id": 800256,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・108",
+    "name_en": "Romancing festival medal 108",
+    "name_en_src": "ml",
+    "sort_order": 23033150
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -10973,6 +10986,32 @@
   },
   {
     "expired_at": 0,
+    "flavor_text": "「視聴メダル交換所」でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "You can exchange them for items and styles at the “Viewing Medal Exchange.”",
+    "flavor_text_en_src": "ml",
+    "icon": 1100781,
+    "id": 1100826,
+    "max_quantity": 99999999,
+    "name": "視聴メダル・2",
+    "name_en": "Viewing medal 2",
+    "name_en_src": "ml",
+    "sort_order": 23033105
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「視聴メダル交換所」でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "You can exchange them for items and styles at the “Viewing Medal Exchange.”",
+    "flavor_text_en_src": "ml",
+    "icon": 1100827,
+    "id": 1100827,
+    "max_quantity": 99999999,
+    "name": "古びた視聴メダル",
+    "name_en": "Obsolete viewing medals",
+    "name_en_src": "ml",
+    "sort_order": 23033104
+  },
+  {
+    "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
     "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
     "flavor_text_en_src": "ml",
@@ -11009,5 +11048,31 @@
     "name_en": "Fragments of Memories",
     "name_en_src": "ml",
     "sort_order": 23032450
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100832,
+    "id": 1100832,
+    "max_quantity": 99999999,
+    "name": "壊れた鎧",
+    "name_en": "broken armor",
+    "name_en_src": "ml",
+    "sort_order": 23033129
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100833,
+    "id": 1100833,
+    "max_quantity": 99999999,
+    "name": "鋼鉄兵の槍",
+    "name_en": "Steel Soldier's Spear",
+    "name_en_src": "ml",
+    "sort_order": 23033130
   }
 ]
