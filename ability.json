@@ -17138,6 +17138,481 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br>自身に「<special_effect=800000071>属性ダメージ無効(陽)</special_effect>」を付与する( 効果バトル中永続 )<br><br>[攻撃を受けた時]<br>直接攻撃に対して、被ダメージを軽減し「<skill=125100262>ドミナントブレイズ</skill>」でカウンター攻撃する( 確率特大 )<br>( 術Rank1で発動 )<br><br>[熱属性攻撃時]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果3ターン )<br><br>[冷属性攻撃時]<br>自身のBPを回復する( +1 )<br><br>[陰属性攻撃時]<br>自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "[When battle starts]</special_effect></skill> <br>Recover your own BP (+3) Give <br>yourself “<special_effect=800000071 > attribute damage disabled (positive)” (effect lasts during battle) <br><br>[when attacked] <br>Reduce damage taken against direct attacks and counter with “<skill=125100262> Dominant Blaze” Attack (increased probability)</special_effect> <br>(activated by Jutsu Rank 1) <br><br>[When attacking with thermal attributes] <br>Grant “<special_effect=800000001> Attack Boost” to yourself (great effect/effect 3 turns) <br><br>[during cold attack] <br>Recover <br><br><br>your own BP (+1) [during negative attack] own strength, stamina, dexterity, and basic strength Increases quickness, intelligence, mentality, love, and attractiveness (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101819,
+    "name": "ひとりじゃない",
+    "name_en": "I'm not alone",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802042053,
+      802042056,
+      802042055,
+      802042057,
+      802042042
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "冷属性攻撃時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "Recover your own BP during a cold attack (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101821,
+    "name": "冷属性攻撃時 BP回復",
+    "name_en": "BP recovery during cold attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012043
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "熱属性攻撃時、自身に「攻撃強化」を付与する( 効果大/効果3ターン )",
+    "flavor_text_en": "When attacking with thermal attributes, grant yourself an “Attack Boost” (High Effect/Effect 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101822,
+    "name": "熱属性攻撃時 攻撃強化",
+    "name_en": "Attack enhancement during thermal attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042044
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "陰属性攻撃時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases one's own strength, physical strength, dexterity, quickness, intelligence, mentality, love, and appeal during negative attacks (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101823,
+    "name": "陰属性攻撃時 全能力アップ(中)",
+    "name_en": "Increases all abilities during hidden attacks (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012045,
+      802012046,
+      802012047,
+      802012048,
+      802012049,
+      802012050,
+      802012051,
+      802012052
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ヴァニッシングイリュージョンを命中させた時]<br>自身に「<special_effect=800000201>エレメントエンハンス(打)</special_effect>」( 効果超極大 )を付与する( 確率特大/上限回数:バトル中5回 )<br>自身のBPを回復する( 確率特大/+7 )<br>自身のHPを回復する( 確率特大/効果大 )",
+    "flavor_text_en": "[When Vanishing Illusion</special_effect> <br>hits] Grant yourself “<special_effect=800000201>Element Enhancement (hit)” (super high effect) (super high probability: 5 times during battle) Recover your <br>own BP (extra probability/+7) Recover your <br>own HP (oversized probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101824,
+    "name": "トランプマジック",
+    "name_en": "Trump magic",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042058,
+      802042059,
+      802042060
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[ヴァニッシングイリュージョンを命中させた時]<br>自身に「エレメントエンハンス(打)」( 効果超極大 )を付与する( 確率特大/上限回数:バトル中5回 )",
+    "flavor_text_en": "[When you <br>hit Vanishing Illusion] Grant yourself “Element Enhancement (Hit)” (super high effect) (extremely high probability) (maximum number of times during battle: 5 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101825,
+    "name": "ヴァニッシングイリュージョン攻撃時 エレメントエンハンス(打)",
+    "name_en": "Vanishing Illusion Element Enhancement When Attacking (Hit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042061
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[ヴァニッシングイリュージョンを命中させた時]<br>自身のBPを回復する( 確率特大/+7 )",
+    "flavor_text_en": "[When you hit Vanishing Illusion] <br>Recover your own BP (extra probability/+7)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101826,
+    "name": "ヴァニッシングイリュージョン攻撃時 BP回復",
+    "name_en": "BP recovery when attacking Vanishing Illusion",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042062
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[ヴァニッシングイリュージョンを命中させた時]<br>自身のHPを回復する( 確率特大/効果大 )",
+    "flavor_text_en": "[When you hit Vanishing Illusion] <br>Recover your own HP (oversized probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101827,
+    "name": "ヴァニッシングイリュージョン攻撃時 HP回復",
+    "name_en": "HP recovers when attacking Vanishing Illusion",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042063
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身に「<special_effect=800000182>先攻態勢</special_effect>」を付与する( 効果1ターン )<br><br>[バトル開始から数えて3の倍数のターン開始時]<br>自身に「<special_effect=800000182>先攻態勢</special_effect>」を付与する( 効果1ターン )<br><br>[攻撃命中時]<br>自身のBPを回復する( +1 )<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "[At the start of battle]</special_effect></special_effect> <br>Grant “<special_effect=800000182>first attack posture” to yourself (effect 1 turn) <br><br>[when starting a turn that is a multiple of 3 counting from the start of the battle] <br>Grant “<special_effect=800000182 > first attack posture” to yourself (effect 1 turn) <br><br>[ [When hit by attack]</special_effect> <br>Recover your own BP (+1) <br>Grant “<special_effect=800000015> Defense Enhancement” to all allied survivors (in effect/effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101828,
+    "name": "師範の先導",
+    "name_en": "Teacher's leadership",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041939,
+      802041462,
+      802042066,
+      802042068
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[バトル開始から数えて3の倍数のターン開始時]<br>自身に「先攻態勢」を付与する( 効果1ターン )",
+    "flavor_text_en": "[At the start of a turn that is a multiple of 3, counting from the start of the battle] <br>Grant yourself a “first attack posture” (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101829,
+    "name": "3の倍数のターン開始時 先攻態勢",
+    "name_en": "First attack position at the start of a turn that is multiple of 3",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041939
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>自身のBPを回復する( 確率中/+10 )",
+    "flavor_text_en": "[At end of turn] <br>Recover your own BP (probability/+10)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101834,
+    "name": "練気活性Ⅹ",
+    "name_en": "Aeration activity X",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      801041322
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、味方生存者全体に「防御強化」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "When an attack is hit, give “Defense Boost” to all allied survivors (in effect/1 turn of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101835,
+    "name": "攻撃時 防御強化",
+    "name_en": "Enhanced defense during attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042069
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>自身のBPを回復する( 確率中/+2 )",
+    "flavor_text_en": "[At end of turn] <br>Recover your own BP (probability/+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101836,
+    "name": "練気活性Ⅱ",
+    "name_en": "Aeration activity II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040754
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身以外の味方生存者全体に「<special_effect=800000206>攻撃強化(男性)</special_effect>」を付与する( 効果大/効果1ターン )<br>自身以外の味方生存者全体のHPを回復する( 確率特大/効果極小 )<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "[At the start of turn]</special_effect> <br>Grant “<special_effect=800000206> Attack Enhancement (Male)” to all allied survivors other than yourself (large effect/effect 1 turn) <br>Recover the HP of all allied survivors other than yourself (probability/extremely low effect) <br>Recover your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101837,
+    "name": "紅魔一点",
+    "name_en": "A little bit of Crimson Demon",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042076,
+      802042075,
+      802041830
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身以外の味方生存者全体のHPを回復する( 確率特大/効果極小 )",
+    "flavor_text_en": "[At the beginning of the turn] <br>Recover the HP of all allied survivors other than yourself (extremely probability/extremely low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101838,
+    "name": "ターン開始時 HP回復(極小)",
+    "name_en": "HP recovery at the start of a turn (minimal)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012072
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身以外の味方生存者全体に「攻撃強化(男性)」を付与する( 効果大/効果1ターン )",
+    "flavor_text_en": "[At the start of turn] <br>Grant “Attack Boost (Male)” to all allied survivors other than yourself (Great Effect/Effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101839,
+    "name": "ターン開始時 攻撃強化(男性)",
+    "name_en": "Attack Boost at Start of Turn (Male)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042074
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[回復行動時(※)]<br>対象に「<special_effect=800000096>ディフェンスアップ</special_effect>」を付与する( 効果中 )<br>対象の体力・精神・魅力を上昇させる( 効果中 )<br>※タイプが「回復」の技・術での回復を指す",
+    "flavor_text_en": "[</special_effect><br>During recovery action (*)] Gives “<special_effect=800000096> defense up” to the target (in effect) <br>Increases the target's physical strength/mental/attractiveness (<br>in effect) *Type indicates recovery with the technique or technique of “recovery”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101840,
+    "name": "メディカルサポート",
+    "name_en": "medical support",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042077,
+      802012130,
+      802012131,
+      802012132
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身の愛を上昇させる( 効果特大 )<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果特大/効果1ターン )",
+    "flavor_text_en": "[At the start of turn]</special_effect> <br>Increase your own love (extra effect) <br>Grant yourself “<special_effect=800000015> Defense Enhancement” (Oversized Effect/ Effect 1 Turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101841,
+    "name": "稀代のスクールナース",
+    "name_en": "A rare school nurse",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011435,
+      802042080
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases one's own strength, physical strength, dexterity, quickness, intelligence, mentality, love, and appeal when an attack is hit (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101842,
+    "name": "闘気錬磨Ⅱ(全)",
+    "name_en": "Fighting Spirit Refinement II (All)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012081,
+      802012082,
+      802012083,
+      802012084,
+      802012085,
+      802012086,
+      802012087,
+      802012088
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>対象の精神を低下( 効果小 )させ、さらに、自身のBPを回復( +2 )する",
+    "flavor_text_en": "When an attack is hit, <br>the target's mind is lowered (less effective), and also recovers one's own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101843,
+    "name": "虚脱の練撃Ⅱ(精神)",
+    "name_en": "Attack of the Fallen II (Mental)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011149,
+      802040961
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>味方生存者全体に「<special_effect=800000208>ハリキリ療養</special_effect>」を付与する( 効果バトル中永続 )<br><br>[ターン終了時]<br>ランダムな味方生存者1体のODゲージを満タンにする",
+    "flavor_text_en": "[At the start of battle]</special_effect> <br>Grant “<special_effect=800000208 > Harikiri Healing” to all allied survivors (effect lasts forever during battle) <br><br>[At end of turn] Fill <br>up the OD gauge of 1 random allied survivor",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101844,
+    "name": "星夜の休息",
+    "name_en": "A starry night's rest",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042091,
+      802042092
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃時、味方生存者全体のHPを回復する( 効果極小 )",
+    "flavor_text_en": "During an OD attack, restore the HP of all allied survivors (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101845,
+    "name": "ハリキリ療養",
+    "name_en": "Hari Kiri Recuperation",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012089
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>ランダムな味方生存者1体のODゲージを満タンにする",
+    "flavor_text_en": "[At end of turn] Fill up the <br>OD gauge of 1 random allied survivor",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101846,
+    "name": "ターン終了時 ODゲージ上昇(満タン)",
+    "name_en": "OD gauge rises at end of turn (full tank)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042090
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "ターン開始時、自身に「<special_effect=800000209>エレメントエンハンス(熱)</special_effect>」( 効果極大 )を付与する( 上限回数:バトル中3回 )<br>熱属性攻撃命中時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "At the start of the turn, grant yourself “<special_effect=800000209>Element Enhancement (heat)</special_effect>” (maximum effect) (maximum number of times: 3 times during battle) <br>When a thermal attack is hit, recover your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101847,
+    "name": "極炎の練撃Ⅱ",
+    "name_en": "Extreme Fire Raid II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012094,
+      802042096
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "熱属性攻撃命中時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Recover your own BP when you hit a thermal attack (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101848,
+    "name": "熱属性攻撃時 BP回復",
+    "name_en": "BP recovery during heat attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012093
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「エレメントエンハンス(熱)」( 効果極大 )を付与する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "At the beginning of the turn, grant yourself “Element Enhancement (Heat)” (maximum effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101849,
+    "name": "ターン開始時 エレメントエンハンス(熱)",
+    "name_en": "Element enhancement at start of turn (heat)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042095
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "攻撃命中時、自身のHPを回復( 効果極小 )し、かつ、器用さを上昇( 効果中 )させる",
     "flavor_text_en": "When an attack is hit, restore your own HP (minimal effect) and increase dexterity (active)",

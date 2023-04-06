@@ -21489,6 +21489,23 @@
   {
     "enemy_class": 99,
     "gender": 1,
+    "id": 199430,
+    "illust": 1994301,
+    "name": "ヴァルドー",
+    "name_en": "Val-d'Or",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
     "id": 211011,
     "illust": 110100,
     "name": "にんげんおとこ",
@@ -23172,6 +23189,23 @@
   {
     "enemy_class": 99,
     "gender": 1,
+    "id": 222913,
+    "illust": 229106,
+    "name": "ワグナス",
+    "name_en": "Wagner",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 2,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
     "id": 222921,
     "illust": 229200,
     "name": "ノエル",
@@ -23359,6 +23393,23 @@
   {
     "enemy_class": 99,
     "gender": 1,
+    "id": 222962,
+    "illust": 229606,
+    "name": "ボクオーン",
+    "name_en": "Bok Oon",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
     "id": 222971,
     "illust": 229700,
     "name": "クジンシー",
@@ -23369,6 +23420,23 @@
     "rank": 1,
     "species": [
       82,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 222972,
+    "illust": 229705,
+    "name": "クジンシー",
+    "name_en": "Kujinshi",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 2,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
       96
     ],
     "sprite_studio": 0
@@ -24767,6 +24835,22 @@
       1,
       97,
       4
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 2,
+    "id": 223921,
+    "illust": 239208,
+    "name": "ビューネイ",
+    "name_en": "Beaune",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 2,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      97
     ],
     "sprite_studio": 0
   },
@@ -26545,6 +26629,23 @@
   },
   {
     "enemy_class": 99,
+    "gender": 1,
+    "id": 271042,
+    "illust": 710407,
+    "name": "ヴァルドー",
+    "name_en": "Val-d'Or",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 1,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      8,
+      96
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 9,
     "id": 271055,
     "illust": 710504,
@@ -26606,6 +26707,23 @@
     "species": [
       5,
       82
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 1,
+    "id": 271131,
+    "illust": 711305,
+    "name": "バートランド",
+    "name_en": "Bertrand",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 2,
+    "pc_flag": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
     ],
     "sprite_studio": 0
   },

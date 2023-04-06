@@ -82,5 +82,41 @@
         "quantity": 6500
       }
     ]
+  },
+  {
+    "id": 8,
+    "lucky_reward_box_id": 100004,
+    "asset_id": 100001,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100834,
+        "quantity": 1600
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "lucky_reward_box_id": 100004,
+    "asset_id": 100002,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100834,
+        "quantity": 3000
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "lucky_reward_box_id": 100004,
+    "asset_id": 100003,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100834,
+        "quantity": 6500
+      }
+    ]
   }
 ]
