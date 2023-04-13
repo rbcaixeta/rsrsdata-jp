@@ -612,6 +612,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[自由浪々の身]ローニン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Free Wave Body] Ronin exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 129801,
+    "id": 129801,
+    "name": "SSローニンのピース",
+    "name_en": "SS Ronin Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[世界を救う決意]デューン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [To Save the World] Arthur.",
@@ -1857,6 +1869,18 @@
     "name": "SSジャンのピース",
     "name_en": "SS Gian Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[帝国親衛隊諜報部]モニカ(RS1/MS)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "Exclusive piece for SS [Imperial Guard Intelligence] Monica (RS1/MS). Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 212001,
+    "id": 212001,
+    "name": "SSモニカ(RS1/MS)のピース",
+    "name_en": "SS Monica (RS1/MS) piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -10208,6 +10232,18 @@
     "id": 411104,
     "name": "SSアンリのピース",
     "name_en": "SS Henri's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[俺の親父は偉いんだぞ]ゴージュ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [My Dad Is Great] Gorge Exclusive Piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 412901,
+    "id": 412901,
+    "name": "SSゴージュのピース",
+    "name_en": "SS Gorge Peace",
     "name_en_src": "ml",
     "selling_price": 100
   },

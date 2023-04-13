@@ -3341,6 +3341,19 @@
     "sort_order": 23040755
   },
   {
+    "expired_at": 1684090799,
+    "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Saga Soul Gacha. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800259,
+    "id": 800259,
+    "max_quantity": 99999999,
+    "name": "サガ魂メダル・17",
+    "name_en": "Saga Soul Medal 17",
+    "name_en_src": "ml",
+    "sort_order": 23041460
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -11113,5 +11126,44 @@
     "name_en": "Warrior Cup",
     "name_en_src": "ml",
     "sort_order": 23040710
+  },
+  {
+    "expired_at": 1682708399,
+    "flavor_text": "イベント「きれいな石（黒）ドロップキャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2023/4/29 4:00まで）",
+    "flavor_text_en": "Items that can be obtained during the “Beautiful Stone (Black) Drop Campaign” event. You can exchange items at the exchange. (Until 2023/4/29 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100376,
+    "id": 1100835,
+    "max_quantity": 99999999,
+    "name": "きれいな石（黒）[期間限定]",
+    "name_en": "Beautiful Stone (Black) [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 23041405
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100838,
+    "id": 1100838,
+    "max_quantity": 99999999,
+    "name": "サガ魂2周年記念クラッカー",
+    "name_en": "Saga Soul 2nd Anniversary Cracker",
+    "name_en_src": "ml",
+    "sort_order": 23041410
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100839,
+    "id": 1100839,
+    "max_quantity": 99999999,
+    "name": "サガ魂2周年記念ペナント",
+    "name_en": "Saga Soul 2nd Anniversary Pennant",
+    "name_en_src": "ml",
+    "sort_order": 23041415
   }
 ]

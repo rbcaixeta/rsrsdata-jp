@@ -17613,6 +17613,135 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "バトル開始時、自身のBPを回復する( +1 )<br><br>直接攻撃を受けた時、自身に「<special_effect=800000213>大嫌い</special_effect>」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of battle, recover your own BP (+1) When you are</special_effect> <br><br>directly attacked, grant yourself “<special_effect=800000213> I hate you” (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101851,
+    "name": "二度目は許さない",
+    "name_en": "I won't forgive a second time",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042101,
+      802040323
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "直接攻撃を受けた時、自身に「大嫌い」を付与する( 効果1ターン )",
+    "flavor_text_en": "When directly attacked, grant “I hate you” to yourself (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4005,
+    "id": 702101852,
+    "name": "直接攻撃被弾時 大嫌い",
+    "name_en": "I hate direct attacks when hit",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042102
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体に「<special_effect=800000214>防御態勢(直接/中)</special_effect>」を付与する( 効果1ターン )<br>味方生存者全体に「<special_effect=800000041>流伝(斬)</special_effect>」を付与する( 効果1ターン )<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "</special_effect></special_effect><br><br>[At the start of turn] Grant <br>“<special_effect=800000214> defensive posture (direct/medium)” to all allied survivors (effect 1 turn) Grant “<special_effect=800000041> transmission (effect)” to all allied survivors (effect 1 turn) Recover your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101855,
+    "name": "剣術の教え",
+    "name_en": "The teaching of kenjutsu",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042103,
+      802042104,
+      802040754
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "大剣装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+    "flavor_text_en": "<br>When equipped with a large sword, damage from attacks increases (extra effective) When receiving a Resist attack, reducing damage taken (maximum effect) When receiving a <br>Resist attack that reduces damage taken (maximum effect), enemy attacks are evaded (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101856,
+    "name": "大剣の天稟Ⅳ",
+    "name_en": "Daiken no Tenryun IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040752,
+      802041212,
+      802041181
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[攻撃を受けた時] <br>直接攻撃を回避して、「<skill=110300250>高速ナブラ+</skill>」でカウンター攻撃する( 確率特大 )<br>( 技Rank1で発動 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110300250>高速ナブラ+</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</skill></skill><br><br><br><br>[When attacked] <br>Evade a direct attack and make a counter attack with “<skill=110300250> High Speed Navra +” (increased probability) (activated by move Rank1) [When you hit a <br>technique or jutsu (*) whose type is “Attack”] “<skill=110300250> High Speed Navra +” is activated (extreme probability) (extreme probability) (with move Rank1) (Activation) <br>* Does not include “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques with counter effects”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101857,
+    "name": "俺に逆らうな",
+    "name_en": "Don't disobey me",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042105,
+      802042106
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「高速ナブラ+」が発動する( 確率特大 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "<br>When a move or jutsu whose type is “Attack” is hit, “High Speed Nabra +” is activated (high probability) (activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101858,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042107,
+      802042108,
+      802042109,
+      802042110,
+      802042111
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身に「<special_effect=800000001>攻撃強化</special_effect>」( 効果極大/効果2ターン )を付与する( 上限回数:バトル中5回 )",
+    "flavor_text_en": "[At the start of turn] Give</special_effect> <br>yourself “<special_effect=800000001>Attack Boost” (maximum effect/ 2 turns of effect) (maximum number of times: 5 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101859,
+    "name": "猛襲激攻Ⅴ",
+    "name_en": "Onslaught V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042112
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "攻撃命中時、自身のHPを回復( 効果極小 )し、かつ、器用さを上昇( 効果中 )させる",
     "flavor_text_en": "When an attack is hit, restore your own HP (minimal effect) and increase dexterity (active)",

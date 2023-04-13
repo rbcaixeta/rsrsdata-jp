@@ -3684,6 +3684,75 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "斬属性を含む攻撃を受けた時、被ダメージが上昇する",
+    "flavor_text_en": "Damage taken increases when receiving attacks that include slash attributes",
+    "flavor_text_en_src": "ml",
+    "id": 800000210,
+    "ignition_effect_id": "",
+    "name": "斬属性防御弱化",
+    "name_en": "Critical Defense Weakened",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃に対して、「<skill=110700277>カットイン+</skill>」でカウンター攻撃を行う<br>その後、「<skill=110700275>ファイナルレター</skill>」が発動する<br>( それぞれ技Rank1で発動 )",
+    "flavor_text_en": "</skill></skill><br><br>Perform a counter attack with “<skill=110700277>cut in +” against the enemy's direct attack, then “<skill=110700275> Final Letter” is activated (each activated by move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "id": 800000213,
+    "ignition_effect_id": "",
+    "name": "大嫌い",
+    "name_en": "I hate it",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "直接攻撃を受けた時、被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases when directly attacked (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 800000214,
+    "ignition_effect_id": "",
+    "name": "防御態勢(直接/中)",
+    "name_en": "Defensive Stance (direct/medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "間接攻撃を受けた時、被ダメージが低下する",
     "flavor_text_en": "When you receive an indirect attack, damage taken decreases",
     "flavor_text_en_src": "ml",
@@ -10014,6 +10083,30 @@
     "text_color": "65D2FF",
     "text_pop": "素早さ↑",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "斬属性を含む攻撃を受けた時、被ダメージが上昇する",
+    "flavor_text_en": "Damage taken increases when receiving attacks that include slash attributes",
+    "flavor_text_en_src": "ml",
+    "id": 801011568,
+    "ignition_effect_id": "",
+    "name": "斬属性防御弱化(中)",
+    "name_en": "Slash Attack Weakened (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040103,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "斬防御↓",
+    "triggering_effect_condition_ids": [
+      23001
     ]
   },
   {
@@ -24876,6 +24969,29 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 801041569,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(大)",
+    "name_en": "Attack Boost (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "被ダメージを100%カットする( 上限回数:1 ※攻撃が命中した時のみ発動 )",
     "flavor_text_en": "Cut damage taken by 100% (maximum number of times: 1 ※Activates only when an attack hits)",
@@ -24969,6 +25085,53 @@
     "text_pop": "打攻撃↑",
     "triggering_effect_condition_ids": [
       22002
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "カットイン+で攻撃後、ファイナルレターで攻撃を行う",
+    "flavor_text_en": "Attack with Cut In +, then attack with Final Letter",
+    "flavor_text_en_src": "ml",
+    "id": 801041581,
+    "ignition_effect_id": "",
+    "name": "カットイン+",
+    "name_en": "Cut in +",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110700275
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon140300110",
+    "flavor_text": "与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Increases damage dealt (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 801041640,
+    "ignition_effect_id": "",
+    "name": "モラルアップ(中)",
+    "name_en": "Moral Up (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040063,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -64854,6 +65017,311 @@
     "text_pop": "ふんばる",
     "triggering_effect_condition_ids": [
       16
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "直接攻撃を受けた時、自身に「<special_effect=800000213>大嫌い</special_effect>」を付与する( 効果1ターン )",
+    "flavor_text_en": "When directly attacked, grant yourself “<special_effect=800000213>I hate you” (effect 1 turn)</special_effect>",
+    "flavor_text_en_src": "ml",
+    "id": 802042101,
+    "ignition_effect_id": "",
+    "name": "直接攻撃被弾時 大嫌い",
+    "name_en": "I hate direct attacks when hit",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101852
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      48002
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃に対して、<skill=110700277>カットイン+</skill>でカウンター攻撃を行う<br>その後、<skill=110700275>ファイナルレター</skill>が発動する",
+    "flavor_text_en": "</skill></skill><br>Perform a counter attack with <skill=110700277>cut-in + against the enemy's direct attack, then <skill=110700275> Final Letter is triggered",
+    "flavor_text_en_src": "ml",
+    "id": 802042102,
+    "ignition_effect_id": "",
+    "name": "大嫌い",
+    "name_en": "I hate it",
+    "name_en_src": "ml",
+    "state_change_id": 900040034,
+    "state_icon": 3001,
+    "state_vars": [
+      110700277
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "大嫌い",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "直接攻撃を受けた時、被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases when directly attacked (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802042103,
+    "ignition_effect_id": "",
+    "name": "防御態勢(直接/中)",
+    "name_en": "Defensive Stance (direct/medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040218,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "防御態勢(直接)",
+    "triggering_effect_condition_ids": [
+      48001
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "斬属性攻撃時、与えるダメージが上昇する(重複不可)",
+    "flavor_text_en": "Damage dealt increases during slash attacks (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802042104,
+    "ignition_effect_id": "",
+    "name": "流伝(斬)",
+    "name_en": "Ryuden ()",
+    "name_en_src": "ml",
+    "state_change_id": 900040071,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "斬攻撃↑",
+    "triggering_effect_condition_ids": [
+      22001
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、<br>「<skill=110300250>高速ナブラ+</skill>」が発動する( 確率特大 )",
+    "flavor_text_en": "</skill><br>“<skill=110300250> High Speed Navra +” is activated when the type is “Attack” is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802042105,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101858
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃を回避して、「<skill=110300250>高速ナブラ+</skill>」でカウンター攻撃を行う( 確率特大 )",
+    "flavor_text_en": "Avoid direct enemy attacks and perform a counter attack with “<skill=110300250> high speed Navra</skill> +” (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802042106,
+    "ignition_effect_id": "",
+    "name": "俺に逆らうな",
+    "name_en": "Don't disobey me",
+    "name_en_src": "ml",
+    "state_change_id": 900040036,
+    "state_icon": 3001,
+    "state_vars": [
+      110300250
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1を命中させた時、高速ナブラ+が発動する(確率特大)",
+    "flavor_text_en": "High speed Nabla+ will be activated when Move 1 is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802042107,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110300250
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "俺に逆らうな",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技2を命中させた時、高速ナブラ+が発動する(確率特大)",
+    "flavor_text_en": "High speed Nabla+ will be activated when Move 2 is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802042108,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110300250
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "俺に逆らうな",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "技3を命中させた時、高速ナブラ+が発動する(確率特大)",
+    "flavor_text_en": "High speed Nabla+ will be activated when Move 3 is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802042109,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110300250
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "俺に逆らうな",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を命中させた時、高速ナブラ+が発動する(確率特大)",
+    "flavor_text_en": "High speed Navra+ will be activated when an inheritance move is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802042110,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110300250
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "俺に逆らうな",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を命中させた時、高速ナブラ+が発動する(確率特大)",
+    "flavor_text_en": "High speed Navra+ will be activated when a normal attack is hit (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802042111,
+    "ignition_effect_id": "",
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110300250
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "俺に逆らうな",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042112,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(極大)",
+    "name_en": "Attack Boost (Maximum)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
     ]
   },
   {

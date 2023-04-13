@@ -51184,5 +51184,39 @@
     "reward_type": 7,
     "reward_id": 1100833,
     "drop_group_ids": []
+  },
+  {
+    "id": 7353,
+    "ribbon": "初期BP20スタート！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21013613
+    ]
+  },
+  {
+    "id": 7354,
+    "ribbon": "スタイル強化EXP5倍中！",
+    "campaign_type": 8,
+    "rate": 5,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": []
+  },
+  {
+    "id": 7355,
+    "ribbon": "きれいな石・つるはし・魔石ドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21013614,
+      21003737,
+      21003740,
+      21002326
+    ]
   }
 ]
