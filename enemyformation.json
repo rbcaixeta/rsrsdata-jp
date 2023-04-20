@@ -2980,6 +2980,29 @@
     ]
   },
   {
+    "id": 109030038,
+    "name": "3体陣形_(大1小1中1)横",
+    "name_en": "3 formations _ (1 large, 1 small, 1 medium), horizontal",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 50,
+        "y": 23
+      },
+      {
+        "line": 0,
+        "x": 15,
+        "y": 30
+      },
+      {
+        "line": 0,
+        "x": 10,
+        "y": 16
+      }
+    ]
+  },
+  {
     "id": 109030039,
     "name": "3体陣形_(中)7横",
     "name_en": "3体陣形_(中)7横",
@@ -3551,6 +3574,29 @@
         "line": 0,
         "x": 9,
         "y": 13
+      }
+    ]
+  },
+  {
+    "id": 109030064,
+    "name": "3体陣形_螺旋回廊160層",
+    "name_en": "3-body formation_160 levels of spiral corridor",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 41,
+        "y": 23
+      },
+      {
+        "line": 0,
+        "x": 10,
+        "y": 7
+      },
+      {
+        "line": 0,
+        "x": 13,
+        "y": 37
       }
     ]
   },
@@ -5002,6 +5048,34 @@
         "line": 0,
         "x": 13,
         "y": 11
+      }
+    ]
+  },
+  {
+    "id": 109040054,
+    "name": "4体陣形_螺旋回廊170層",
+    "name_en": "4 formations _ spiral corridor 170 floors",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "line": 0,
+        "x": 42,
+        "y": 20
+      },
+      {
+        "line": 0,
+        "x": 24,
+        "y": 0
+      },
+      {
+        "line": 0,
+        "x": 24,
+        "y": 40
+      },
+      {
+        "line": 0,
+        "x": 7,
+        "y": 20
       }
     ]
   },

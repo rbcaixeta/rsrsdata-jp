@@ -18238,6 +18238,22 @@
   },
   {
     "enemy_class": 99,
+    "gender": 9,
+    "id": 199175,
+    "illust": 1991751,
+    "name": "しゃちほこ",
+    "name_en": "Shachihoko",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
     "gender": 1,
     "id": 199180,
     "illust": 1991801,
@@ -21502,6 +21518,22 @@
       96
     ],
     "sprite_studio": 0
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199433,
+    "illust": 1994331,
+    "name": "麒麟",
+    "name_en": "Kirin",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "sprite_studio": 1
   },
   {
     "enemy_class": 99,

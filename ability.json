@@ -17613,6 +17613,25 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>一定の確率で( 確率特大 )<br>自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態とすべての状態異常を解除し、かつ、自身のBPを回復( +2 )する",
+    "flavor_text_en": "[At end of turn] There is <br>a certain chance (high probability) that all state abnormalities such as reduced abilities of one's <br>own strength, stamina, dexterity, agility, intelligence, spirit, love, and attractiveness will be removed, and your own BP will be restored (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4008,
+    "id": 702101850,
+    "name": "練気除病Ⅱ",
+    "name_en": "Aerobic Disinfection II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041206,
+      802041207,
+      802040754
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "バトル開始時、自身のBPを回復する( +1 )<br><br>直接攻撃を受けた時、自身に「<special_effect=800000213>大嫌い</special_effect>」を付与する( 効果1ターン )",
     "flavor_text_en": "At the start of battle, recover your own BP (+1) When you are</special_effect> <br><br>directly attacked, grant yourself “<special_effect=800000213> I hate you” (effect 1 turn)",
@@ -17742,6 +17761,43 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のBPを回復( +2 )し、さらに、自身のHPを回復( 効果極小 )する",
+    "flavor_text_en": "[At end of turn] <br>Recover your own BP (+2) and also restore your own HP (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101861,
+    "name": "練気療養Ⅱ",
+    "name_en": "Aerobic Therapy II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040754,
+      802010689
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果大 )<br><br>[バトル開始時]<br>自身のBPを回復する( +2 )<br>自身に「<special_effect=800000149>ダメージブロック(5回)</special_effect>」を付与する( 効果ターン数制限なし )",
+    "flavor_text_en": "</special_effect><br>Attack damage is increased (effective) <br><br>[when battle starts] <br>Recover your own BP (+2) Grant yourself “<special_effect=800000149> damage block (5 times)” (no limit on the number of effect turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101862,
+    "name": "白銀の壁",
+    "name_en": "The silver wall",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040001,
+      802040322,
+      802041571
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "攻撃命中時、自身のHPを回復( 効果極小 )し、かつ、器用さを上昇( 効果中 )させる",
     "flavor_text_en": "When an attack is hit, restore your own HP (minimal effect) and increase dexterity (active)",
@@ -17757,6 +17813,299 @@
     "special_effect_ids": [
       802040622,
       802010082
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br><br>[ターン開始時] <br>自身の腕力と体力を上昇させる( 効果大 )<br>自身の気絶耐性を上昇させる( 効果大 )",
+    "flavor_text_en": "<br><br>Reduces damage taken when attacked (maximum effect) <br><br>[at start of turn] Increases own strength and health (great effect) Increases own stun resistance (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101864,
+    "name": "武神の鎧",
+    "name_en": "Valkyujin Armor",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040768,
+      802042117
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>自身の腕力と体力を上昇させる( 効果大 )<br>自身の気絶耐性を上昇させる( 効果大 )",
+    "flavor_text_en": "<br>[At the start of turn] Increases <br>own strength and physical strength (great effect) Increases own stun resistance (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101865,
+    "name": "ターン開始時 腕力・体力・気絶耐性アップ",
+    "name_en": "Increased strength, stamina, and stun resistance at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012118,
+      802010757,
+      802022120
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "斬属性攻撃時、自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果3ターン )<br>陽属性攻撃時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "</special_effect><br>Give yourself “<special_effect=800000001>Attack Boost” during a slash attack (big effect/3 turns of effect) Recover your own BP during a positive attack (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101866,
+    "name": "アグレッシブスイッチⅡ(斬・陽)",
+    "name_en": "Aggressive Switch II (Slash, Yang)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041501,
+      802042122
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃命中時、自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果中/効果2ターン )<br><br>「王者の剣」を命中させた時、「<skill=110100316>レフティフォーク</skill>」が発動する( 上限回数:ラウンド中1回 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "</special_effect></skill><br><br><br>When an attack is hit, grant “<special_effect=800000001>Attack Enhancement” to oneself (in effect/ 2 turns of effect) When “King's Sword” is hit, “<skill=110100316> Lefty Fork” is activated (maximum number of times: 1 time during a round) (activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101867,
+    "name": "名剣の使い手",
+    "name_en": "Master Sword User",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042161,
+      802042123
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "「王者の剣」を命中させた時、「レフティフォーク」が発動する( 上限回数:ラウンド中1回 )<br>( 技Rank1で発動 )",
+    "flavor_text_en": "<br>When “King's Sword” is hit, “Lefty Fork” is activated (maximum number of times: once during a round) (activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101868,
+    "name": "王者の剣攻撃時 追加攻撃",
+    "name_en": "Additional attack when attacking with the King's Sword",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042124
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、「<skill=125600308>邪毒</skill>」が発動する( 確率大 )<br>タイプが「攻撃」である技・術(※)を命中させた時、「<skill=125100268>ファイアボール+</skill>」が発動する( 確率大 )<br>( それぞれ術Rank1で発動 )<br>※「通常攻撃」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</skill></skill><br><br>When you hit a technique or jutsu (*) where the type is “attack”, “<skill=125600308> evil poison” is activated (high probability) when the <br>type hits a technique or jutsu (*) that is an “attack”, “<skill=125100268>Fireball +” is activated (high probability) (each activated by Jutsu Rank 1) * “normal attack” “activated by this ability effect” “Techniques/jutsu” and “counterattack technics/jutsu due to counter effects” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101869,
+    "name": "サルーインのしもべ",
+    "name_en": "Servant of the Saloon",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042126,
+      802042127
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「邪毒」が発動する( 確率大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "<br>When you hit a technique or jutsu whose type is “attack”, “evil poison” will be activated (high probability) (activated in Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101870,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042128,
+      802042133
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「ファイアボール+」が発動する( 確率大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "<br>When a move or jutsu whose type is “attack” is hit, “Fireball +” is activated (high probability) (activated by Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101871,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042129,
+      802042136
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "槍装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "<br>When equipped with a spear, damage from attacks increases (maximum effect) Reduces damage taken when attacked (extremely effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101873,
+    "name": "槍の極み",
+    "name_en": "The height of spears",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041560,
+      802040448
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、以下の効果が発動する( 上限回数:4回 )<br>・自身に「モラルアップ(特大)」を付与する( 効果1ターン )<br>・自身のBPを回復する( +4 )<br>・敵全体に「モラルダウン(中)」を付与する( 効果1ターン )",
+    "flavor_text_en": "<br><br>At the start of a turn, the following effects are activated (maximum number of times: 4 times): Grant a <br>“Moral Up (extra large)” to yourself (effect 1 turn) • Recover your own BP (+4) · Grant “Moral Down (medium)” to all enemies (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101874,
+    "name": "進撃の波動(4回)",
+    "name_en": "Attack on Titan (4 times)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041729,
+      802041263,
+      802042224
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "OD攻撃の与ダメージが上昇する( 効果超極大 )<br><br>[バトル開始時]<br>自身のODゲージを満タンにする<br><br>[バトル開始から数えて偶数ターン目の終了時]<br>自身のODゲージを満タンにする",
+    "flavor_text_en": "<br><br><br><br><br><br>Damage dealt by OD attacks increases (super extreme effect) [When battle starts] Fill up your OD gauge [count from the start of the battle and end of the even-numbered turn] Fill up your OD gauge",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101875,
+    "name": "闘撃奮起",
+    "name_en": "Fight and get excited",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042138,
+      802041344,
+      802042139
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[バトル開始から数えて偶数ターン目の終了時]<br>自身のODゲージを満タンにする",
+    "flavor_text_en": "<br>[Counting from the start of the battle and at the end of the even-numbered turn] Fill up your OD gauge",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101876,
+    "name": "偶数ターン終了時 ODゲージ上昇(満タン)",
+    "name_en": "OD gauge rises at the end of an even-numbered turn (full tank)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041940
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "OD攻撃(※)を発動後、以下の効果が発動する<br>・「<skill=110200327>ドラゴンウィング</skill>」が発動する<br>( 技Rank1で発動 )<br>・自身のBPを回復する( +5 )<br>・自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果中 )を付与する( 上限回数:バトル中3回 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</skill></special_effect><br><br><br>After triggering an OD attack (*), the following effects are activated <br>· “<skill=110200327> Dragon Wing” is activated (activated by move Rank1) · Recover your own BP (+5) · Give yourself “<special_effect=800000095> heat up” (in effect) (maximum number of times: 3 times during battle) ) <br><br>* Does not include “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques triggered by counter effects”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101877,
+    "name": "竜翼一閃",
+    "name_en": "Dragon Tsubasa Ikkō",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042140,
+      802042141
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃を発動後、以下の効果が発動する<br>・「ドラゴンウィング」が発動する<br>( 技Rank1で発動 )<br>・自身のBPを回復する( +5 )",
+    "flavor_text_en": "<br><br>After activating the OD attack, the following effects are activated: <br>“Dragon Wings” is activated (activated by move Rank1), and one's own BP is restored (+5)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101878,
+    "name": "OD攻撃時 追加攻撃・BP回復",
+    "name_en": "Additional attacks/BP recovery during OD attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042143,
+      802042144,
+      802042147,
+      802042148,
+      802042150,
+      802042151
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃発動後、自身に「ヒートアップ」( 効果中 )を付与する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "After triggering an OD attack, give yourself a “Heat Up” (in effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101879,
+    "name": "OD攻撃時 ヒートアップ",
+    "name_en": "Heats up during OD attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042142,
+      802042146,
+      802042149
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身に「攻撃強化」を付与する( 効果中/効果2ターン )",
+    "flavor_text_en": "When an attack is hit, give yourself an “Attack Boost” (in effect/2 turns of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101894,
+    "name": "攻撃時 攻撃強化",
+    "name_en": "Attack enhancement during attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042162
     ]
   },
   {
@@ -46826,6 +47175,23 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>敵生存者全体に「<special_effect=800000185>最大BP減少</special_effect>」( 減少量15/効果バトル中永続 )を付与する",
+    "flavor_text_en": "[At the start of battle] Grant</special_effect> <br>“<Special_Effect=800000185>Max BP Reduction” (15 reduction amount 15/effect lasts during battle) to all enemy survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708100311,
+    "name": "練気虚脱",
+    "name_en": "The steam collapsed",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040660
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "Weak攻撃の<br>与ダメージが上昇する( 効果特大 )",
     "flavor_text_en": "Weak attacks' damage increases (very large effect).",
@@ -47200,6 +47566,24 @@
       808040630,
       808040628,
       808040629
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、敵生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」( 効果超極大/効果1ターン )と「<special_effect=800000035>防御弱化</special_effect>」( 効果極大/効果1ターン )を付与する<br>ラウンド開始から数えて偶数ターン目の開始時、敵生存者全体に「<special_effect=800000029>攻撃弱化</special_effect>」( 効果超極大/効果1ターン )と「<special_effect=800000015>防御強化</special_effect>」( 効果超極大/効果1ターン )を付与する",
+    "flavor_text_en": "</special_effect></special_effect><br>At the start of the odd turn counted from the start of the round, “<special_effect=800000001> attack enhancement” (effect super maximum/effect 1 turn) and “<special_effect=800000035> defense weakening” (maximum effect/ 1 turn of effect) is granted to all enemy survivors when counting from the start of the round and count from the start of the even-numbered turn, counting from the start of the round, Grant “<special_effect=800000029> Attack Weakening” (Super Maximum Effect/ Effect 1 Turn) and “<special_Effect=800000015></special_effect></special_effect> Defense Enhancement” (Super Maximum Effect/ Effect 1 Turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708200300,
+    "name": "スペースシフト",
+    "name_en": "space shift",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040640,
+      808040641
     ]
   },
   {
@@ -48528,6 +48912,167 @@
   },
   {
     "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>敵生存者全体の腕力・器用さ・素早さを低下させる( 効果特大 )",
+    "flavor_text_en": "[At the start of turn] Reduces strength, dexterity, and agility of all <br>enemy survivors (extremely effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708300295,
+    "name": "ヘイトの奸計",
+    "name_en": "Hate's Trickery",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010631,
+      808010632,
+      808010633
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>敵生存者全体の体力・知力・精神を低下させる( 効果特大 )",
+    "flavor_text_en": "[At the start of turn] Reduces the physical strength, intelligence, and mentality of all <br>enemy survivors (extremely effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708300296,
+    "name": "ストライフの奸計",
+    "name_en": "Strife's Trick",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010634,
+      808010635,
+      808010636
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>敵生存者全体の愛・魅力を低下させる( 効果特大 )",
+    "flavor_text_en": "[At the start of turn] Decreases the love/appeal of all <br>enemy survivors (extra effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708300297,
+    "name": "ワイルの奸計",
+    "name_en": "Weil's Trickery",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010637,
+      808010638
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果小 )",
+    "flavor_text_en": "[At the beginning of the turn] Grant “</special_effect><br><special_effect=800000095> heat up” to all allied survivors (low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300298,
+    "name": "将軍の命令",
+    "name_en": "Shogun's orders",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040639
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて3の倍数のターン開始時、自身に「<special_effect=800000096>ディフェンスアップ</special_effect>」を付与する( 効果小 )",
+    "flavor_text_en": "When starting a turn that is a multiple of 3, counting from the start of the battle, grant yourself “<special_effect=800000096> Defensive Up” (less</special_effect> effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 708300299,
+    "name": "天守閣の守護者",
+    "name_en": "Guardian of the castle tower",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040505
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、敵生存者全体に「攻撃強化」( 効果超極大/効果1ターン )と「防御弱化」( 効果極大/効果1ターン )を付与する",
+    "flavor_text_en": "When the odd turn starts counting from the start of the round, grant “Attack Enhancement” (Super Maximum Effect/ Effect 1 Turn) and “Defense Weakening” (Maximum Effect/ Effect 1 Turn) to all enemy survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300301,
+    "name": "奇数ターン開始時 攻撃強化・防御弱化",
+    "name_en": "Attack enhanced/defense weakened at the beginning of an odd turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040642,
+      808040643
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて偶数ターン目の開始時、敵生存者全体に「攻撃弱化」( 効果超極大/効果1ターン )と「防御強化」( 効果超極大/効果1ターン )を付与する",
+    "flavor_text_en": "At the start of an even-numbered turn counting from the start of the round, grant “Attack Weakening” (Super Maximum Effect/ Effect 1 turn) and “Defense Enhancement” (Super Maximum Effect/ Effect 1 turn) to all enemy survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300302,
+    "name": "偶数ターン開始時 攻撃弱化・防御強化",
+    "name_en": "Weakened attacks and strengthened defenses at the start of an even-numbered turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040644,
+      808040645
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000075>行動順補正上昇</special_effect>」を付与する( 効果小/効果10ターン )",
+    "flavor_text_en": "[At the start of a turn] Grant</special_effect> <br>“<special_effect=800000075>Action Order Correction Increase” to yourself (low effect/effect 10 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300305,
+    "name": "時の戯れ",
+    "name_en": "A play on time",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040648
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身の知力・精神を上昇させる( 効果中 )",
+    "flavor_text_en": "[At the start of turn] Increase <br>your own intellect and spirit (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300307,
+    "name": "魔力の研鑽",
+    "name_en": "Magical refinement",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010650,
+      808010651
+    ]
+  },
+  {
+    "ability_when": 3,
     "flavor_text": "特定ターンの開始時( 周期2ターン )、自身の精神を上昇させる( 効果大 )",
     "flavor_text_en": "At the beginning of a specific turn (cycle 2 turns), raise your own spirit (great effect)",
     "flavor_text_en_src": "ml",
@@ -49662,6 +50207,57 @@
     "sort_order": 0,
     "special_effect_ids": [
       808040627
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "バトル開始から数えて4の倍数のターン終了時、敵生存者全体に「<special_effect=800000184>消費BP増加</special_effect>」( 増加量1/効果バトル中永続 )を付与する",
+    "flavor_text_en": "At the end of the turn which is a multiple of 4, counting from the start of the battle, grant “<special_effect=800000184>BP consumption increase” (</special_effect>increase amount 1/effect lasts during battle) to all enemy survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400303,
+    "name": "グラビティスペース",
+    "name_en": "gravity space",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040646
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のHPを回復する",
+    "flavor_text_en": "<br>[At end of turn] Recover your own HP",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 708400304,
+    "name": "光合成",
+    "name_en": "photosynthetic",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040647
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>敵生存者全体に「<special_effect=800000076>行動順補正低下</special_effect>」を付与する( 効果小/効果10ターン )",
+    "flavor_text_en": "[At end of turn] Grant</special_effect> <br>“<special_effect=800000076>Decreased Action Order Correction” to all enemy survivors (low effect/effect 10 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400306,
+    "name": "時の悪戯",
+    "name_en": "The prank of time",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040649
     ]
   },
   {

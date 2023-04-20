@@ -765,7 +765,7 @@
     "sort_order": 22053128
   },
   {
-    "expired_at": 0,
+    "expired_at": 1684522799,
     "flavor_text": "5枚集めると螺旋ガチャ（2022/5/31 12:00開始）を1回引くことができるチケット。",
     "flavor_text_en": "Collect 5 tickets to perform 1 Spiral Corridor Ticket Summon.",
     "flavor_text_en_src": "gl",
@@ -1003,5 +1003,20 @@
     "shop_id": 0,
     "shop_type": 0,
     "sort_order": 23041425
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "5枚集めると螺旋ガチャ（2023/4/21 12:00開始）を1回引くことができるチケット。",
+    "flavor_text_en": "A ticket that allows you to draw a spiral gacha (2023/4/21 12:00 starting at 12:00) once if you collect 5 cards.",
+    "flavor_text_en_src": "ml",
+    "icon": 810070,
+    "id": 810070,
+    "max_quantity": 9999,
+    "name": "螺旋ガチャチケット・Ⅵ",
+    "name_en": "Helix Gacha Ticket VI",
+    "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
+    "sort_order": 23042125
   }
 ]

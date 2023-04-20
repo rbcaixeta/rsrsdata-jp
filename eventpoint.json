@@ -3354,6 +3354,19 @@
     "sort_order": 23041460
   },
   {
+    "expired_at": 1684436399,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800260,
+    "id": 800260,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・111",
+    "name_en": "Romancing festival medal 111",
+    "name_en_src": "ml",
+    "sort_order": 23042160
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -11139,6 +11152,32 @@
     "name_en": "Beautiful Stone (Black) [Limited Time Offer]",
     "name_en_src": "ml",
     "sort_order": 23041405
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100836,
+    "id": 1100836,
+    "max_quantity": 99999999,
+    "name": "洞穴の石片",
+    "name_en": "Cave Stone Fragments",
+    "name_en_src": "ml",
+    "sort_order": 23042110
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100837,
+    "id": 1100837,
+    "max_quantity": 99999999,
+    "name": "竜目の雫",
+    "name_en": "Ryumei no Shizuku",
+    "name_en_src": "ml",
+    "sort_order": 23042115
   },
   {
     "expired_at": 0,

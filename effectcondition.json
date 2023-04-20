@@ -373,6 +373,13 @@
     ]
   },
   {
+    "id": 22015,
+    "effect_condition_type": 21,
+    "vars": [
+      7
+    ]
+  },
+  {
     "id": 22016,
     "effect_condition_type": 21,
     "vars": [
@@ -1526,6 +1533,15 @@
     "id": 24507,
     "effect_condition_type": 27,
     "vars": []
+  },
+  {
+    "id": 24509,
+    "effect_condition_type": 28,
+    "vars": [
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": 24600,

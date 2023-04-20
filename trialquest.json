@@ -1,12 +1,11 @@
 [
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001001,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000077
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -18,14 +17,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 101200100,
-        "quantity": 1,
-        "type": 15
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 830001,
+        "quantity": 50,
+        "type": 11
       }
     ],
     "growth_count": 1,
@@ -47,7 +56,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 1,
-    "stamina": 5,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -59,12 +68,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001002,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000078
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -76,14 +84,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 102200100,
-        "quantity": 1,
-        "type": 15
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 830001,
+        "quantity": 50,
+        "type": 11
       }
     ],
     "growth_count": 1,
@@ -105,7 +123,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 2,
-    "stamina": 5,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -117,12 +135,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001003,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000079
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -134,14 +151,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 103200100,
-        "quantity": 1,
-        "type": 15
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 830001,
+        "quantity": 50,
+        "type": 11
       }
     ],
     "growth_count": 1,
@@ -163,7 +190,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 3,
-    "stamina": 5,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -175,12 +202,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001004,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000080
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -192,14 +218,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 104200100,
-        "quantity": 1,
-        "type": 15
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 830001,
+        "quantity": 50,
+        "type": 11
       }
     ],
     "growth_count": 1,
@@ -221,7 +257,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 4,
-    "stamina": 6,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -233,12 +269,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001005,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000081
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -250,13 +285,23 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 830001,
+        "id": 881001,
         "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 830001,
+        "quantity": 50,
         "type": 11
       }
     ],
@@ -279,7 +324,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 5,
-    "stamina": 6,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -291,12 +336,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001006,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000082
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -308,14 +352,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 105200100,
-        "quantity": 1,
-        "type": 15
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 830001,
+        "quantity": 50,
+        "type": 11
       }
     ],
     "growth_count": 1,
@@ -337,7 +391,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 6,
-    "stamina": 7,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -349,12 +403,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001007,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000083
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -366,14 +419,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 107200100,
-        "quantity": 1,
-        "type": 15
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 830001,
+        "quantity": 50,
+        "type": 11
       }
     ],
     "growth_count": 1,
@@ -395,7 +458,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 7,
-    "stamina": 7,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -407,12 +470,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001008,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000084
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -424,14 +486,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 108200100,
-        "quantity": 1,
-        "type": 15
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 830001,
+        "quantity": 50,
+        "type": 11
       }
     ],
     "growth_count": 1,
@@ -453,7 +525,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 8,
-    "stamina": 7,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -465,12 +537,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001009,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000085
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -482,14 +553,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 109200100,
-        "quantity": 1,
-        "type": 15
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 830001,
+        "quantity": 50,
+        "type": 11
       }
     ],
     "growth_count": 1,
@@ -511,7 +592,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 9,
-    "stamina": 8,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -523,12 +604,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001010,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000086
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -540,13 +620,23 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
+        "id": 881001,
+        "quantity": 9,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 12,
+        "type": 7
+      },
+      {
         "id": 830001,
-        "quantity": 3,
+        "quantity": 50,
         "type": 11
       }
     ],
@@ -569,7 +659,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 10,
-    "stamina": 8,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -581,12 +671,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001011,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000088
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -598,9 +687,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
+      },
+      {
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
       },
       {
         "id": 103001,
@@ -628,7 +727,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 11,
-    "stamina": 9,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -640,12 +739,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001012,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000089
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -657,9 +755,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
+      },
+      {
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
       },
       {
         "id": 103001,
@@ -687,7 +795,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 12,
-    "stamina": 9,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -699,12 +807,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001013,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000090
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -716,9 +823,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
+      },
+      {
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
       },
       {
         "id": 103001,
@@ -746,7 +863,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 13,
-    "stamina": 9,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -758,12 +875,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001014,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000091
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -775,9 +891,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
+      },
+      {
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
       },
       {
         "id": 103001,
@@ -805,7 +931,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 14,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -817,12 +943,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001015,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000092
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -834,14 +959,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 830001,
+        "id": 881001,
         "quantity": 3,
-        "type": 11
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -864,7 +999,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 15,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -876,12 +1011,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001016,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000094
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -893,14 +1027,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 501300100,
-        "quantity": 2,
-        "type": 26
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -923,7 +1067,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 16,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -935,12 +1079,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001017,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000095
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -952,14 +1095,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 502300100,
-        "quantity": 2,
-        "type": 26
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -982,7 +1135,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 17,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -994,12 +1147,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001018,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000096
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1011,14 +1163,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 503300100,
-        "quantity": 2,
-        "type": 26
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -1041,7 +1203,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 18,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1053,12 +1215,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001019,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000097
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1070,14 +1231,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 100003,
-        "quantity": 20000,
-        "type": 1
+        "id": 881001,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -1100,7 +1271,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 19,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1112,12 +1283,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001020,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000098
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1129,14 +1299,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 830001,
-        "quantity": 3,
-        "type": 11
+        "id": 881001,
+        "quantity": 9,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 12,
+        "type": 7
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -1159,7 +1339,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 20,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1171,12 +1351,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001021,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000099
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1188,9 +1367,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
+      },
+      {
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
       },
       {
         "id": 104001,
@@ -1218,7 +1407,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 21,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1230,12 +1419,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001022,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000100
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1247,9 +1435,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
+      },
+      {
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
       },
       {
         "id": 104001,
@@ -1277,7 +1475,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 22,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1289,12 +1487,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001023,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000101
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1306,9 +1503,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
+      },
+      {
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
       },
       {
         "id": 104001,
@@ -1336,7 +1543,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 23,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1348,12 +1555,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001024,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000102
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1365,9 +1571,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
+      },
+      {
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
       },
       {
         "id": 104001,
@@ -1395,7 +1611,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 24,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1407,12 +1623,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001025,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000103
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1424,14 +1639,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 830001,
+        "id": 881002,
         "quantity": 3,
-        "type": 11
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -1454,7 +1679,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 25,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1466,12 +1691,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001026,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000104
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1483,14 +1707,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 501400100,
+        "id": 881002,
         "quantity": 3,
-        "type": 26
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -1513,7 +1747,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 26,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1525,12 +1759,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001027,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000105
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1542,14 +1775,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 502400100,
+        "id": 881002,
         "quantity": 3,
-        "type": 26
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -1572,7 +1815,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 27,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1584,12 +1827,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001028,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000106
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1601,14 +1843,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 503400100,
+        "id": 881002,
         "quantity": 3,
-        "type": 26
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -1631,7 +1883,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 28,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1643,12 +1895,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001029,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000108
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1660,14 +1911,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 100003,
-        "quantity": 50000,
-        "type": 1
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -1690,7 +1951,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 29,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1702,12 +1963,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001030,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000109
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1719,14 +1979,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 830001,
-        "quantity": 3,
-        "type": 11
+        "id": 881002,
+        "quantity": 9,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 12,
+        "type": 7
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
       }
     ],
     "growth_count": 1,
@@ -1749,7 +2019,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 30,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1761,12 +2031,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001031,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000110
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1778,14 +2047,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 104001,
-        "quantity": 5,
-        "type": 2
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
       }
     ],
     "growth_count": 1,
@@ -1808,7 +2087,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 31,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1820,12 +2099,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001032,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000111
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1837,14 +2115,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 104001,
-        "quantity": 5,
-        "type": 2
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
       }
     ],
     "growth_count": 1,
@@ -1867,7 +2155,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 32,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1879,12 +2167,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001033,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000112
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1896,14 +2183,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 104001,
-        "quantity": 5,
-        "type": 2
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
       }
     ],
     "growth_count": 1,
@@ -1926,7 +2223,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 33,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1938,12 +2235,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001034,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000113
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -1955,14 +2251,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 104001,
-        "quantity": 5,
-        "type": 2
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
       }
     ],
     "growth_count": 1,
@@ -1985,7 +2291,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 34,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -1997,12 +2303,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001035,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000114
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2014,14 +2319,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 104001,
-        "quantity": 5,
-        "type": 2
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
       }
     ],
     "growth_count": 1,
@@ -2044,7 +2359,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 35,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2056,12 +2371,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001036,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000115
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2073,14 +2387,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 830001,
-        "quantity": 5,
-        "type": 11
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
       }
     ],
     "growth_count": 1,
@@ -2103,7 +2427,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 36,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2115,12 +2439,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001037,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000117
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2132,14 +2455,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 830001,
-        "quantity": 5,
-        "type": 11
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
       }
     ],
     "growth_count": 1,
@@ -2162,7 +2495,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 37,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2174,12 +2507,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001038,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000118
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2191,14 +2523,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 830001,
-        "quantity": 5,
-        "type": 11
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
       }
     ],
     "growth_count": 1,
@@ -2221,7 +2563,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 38,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2233,12 +2575,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001039,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000119
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2250,14 +2591,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 830001,
-        "quantity": 5,
-        "type": 11
+        "id": 881002,
+        "quantity": 3,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 4,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
       }
     ],
     "growth_count": 1,
@@ -2280,7 +2631,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 39,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2292,12 +2643,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001040,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000121
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2309,14 +2659,24 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 830001,
-        "quantity": 5,
-        "type": 11
+        "id": 881002,
+        "quantity": 9,
+        "type": 20
+      },
+      {
+        "id": 1100252,
+        "quantity": 12,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "quantity": 200000,
+        "type": 1
       }
     ],
     "growth_count": 1,
@@ -2339,7 +2699,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 40,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2351,12 +2711,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001041,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000123
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2368,14 +2727,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2398,7 +2752,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 41,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2410,12 +2764,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001042,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000124
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2427,14 +2780,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2457,7 +2805,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 42,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2469,12 +2817,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001043,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000125
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2486,14 +2833,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2516,7 +2858,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 43,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2528,12 +2870,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001044,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000128
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2545,14 +2886,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2575,7 +2911,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 44,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2587,12 +2923,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001045,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000130
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2604,19 +2939,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2639,7 +2974,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 45,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2651,12 +2986,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001046,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000131
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2668,14 +3002,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2698,7 +3027,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 46,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2710,12 +3039,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001047,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000132
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2727,14 +3055,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2757,7 +3080,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 47,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2769,12 +3092,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001048,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000134
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2786,14 +3108,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2816,7 +3133,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 48,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2828,12 +3145,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001049,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000135
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2845,14 +3161,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2875,7 +3186,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 49,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2887,12 +3198,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001050,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000136
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2904,19 +3214,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 9,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 12,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2939,7 +3249,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 50,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -2951,12 +3261,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001051,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000137
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -2968,14 +3277,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -2998,7 +3302,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 51,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3010,12 +3314,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001052,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000138
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3027,14 +3330,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3057,7 +3355,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 52,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3069,12 +3367,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001053,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000139
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3086,14 +3383,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3116,7 +3408,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 53,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3128,12 +3420,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001054,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000140
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3145,14 +3436,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3175,7 +3461,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 54,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3187,12 +3473,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001055,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000141
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3204,19 +3489,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3239,7 +3524,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 55,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3251,12 +3536,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001056,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000143
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3268,14 +3552,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3298,7 +3577,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 56,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3310,12 +3589,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001057,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000144
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3327,14 +3605,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3357,7 +3630,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 57,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3369,12 +3642,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001058,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000145
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3386,14 +3658,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3416,7 +3683,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 58,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3428,12 +3695,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001059,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000146
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3445,14 +3711,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3475,7 +3736,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 59,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3487,12 +3748,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001060,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3504,19 +3764,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3539,7 +3799,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 60,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3551,12 +3811,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001061,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3568,14 +3827,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3598,7 +3852,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 61,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3610,12 +3864,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001062,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3627,14 +3880,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3657,7 +3905,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 62,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3669,12 +3917,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001063,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3686,14 +3933,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3716,7 +3958,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 63,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3728,12 +3970,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001064,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3745,14 +3986,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3775,7 +4011,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 64,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3787,12 +4023,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001065,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3804,19 +4039,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3839,7 +4074,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 65,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3851,12 +4086,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001066,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3868,14 +4102,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3898,7 +4127,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 66,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3910,12 +4139,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001067,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3927,14 +4155,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -3957,7 +4180,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 67,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -3969,12 +4192,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001068,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -3986,14 +4208,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4016,7 +4233,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 68,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4028,12 +4245,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001069,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4045,14 +4261,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4075,7 +4286,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 69,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4087,12 +4298,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001070,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4104,19 +4314,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4139,7 +4349,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 70,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4151,12 +4361,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001071,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4168,14 +4377,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4198,7 +4402,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 71,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4210,12 +4414,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001072,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4227,14 +4430,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4257,7 +4455,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 72,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4269,12 +4467,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001073,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4286,14 +4483,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4316,7 +4508,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 73,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4328,12 +4520,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001074,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4345,14 +4536,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4375,7 +4561,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 74,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4387,12 +4573,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001075,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4404,19 +4589,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4439,7 +4624,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 75,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4451,12 +4636,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001076,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4468,14 +4652,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4498,7 +4677,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 76,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4510,12 +4689,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001077,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4527,14 +4705,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4557,7 +4730,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 77,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4569,12 +4742,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001078,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4586,14 +4758,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4616,7 +4783,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 78,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4628,12 +4795,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001079,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4645,14 +4811,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4675,7 +4836,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 79,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4687,12 +4848,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001080,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4704,19 +4864,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4739,7 +4899,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 80,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4751,12 +4911,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001081,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4768,14 +4927,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4798,7 +4952,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 81,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4810,12 +4964,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001082,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4827,14 +4980,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4857,7 +5005,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 82,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4869,12 +5017,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001083,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4886,14 +5033,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4916,7 +5058,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 83,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4928,12 +5070,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001084,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -4945,14 +5086,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -4975,7 +5111,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 84,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -4987,12 +5123,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001085,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5004,19 +5139,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5039,7 +5174,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 85,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5051,12 +5186,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001086,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5068,14 +5202,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5098,7 +5227,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 86,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5110,12 +5239,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001087,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5127,14 +5255,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5157,7 +5280,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 87,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5169,12 +5292,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001088,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5186,14 +5308,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5216,7 +5333,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 88,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5228,12 +5345,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001089,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5245,14 +5361,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5275,7 +5386,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 89,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5287,12 +5398,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001090,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5304,19 +5414,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5339,7 +5449,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 90,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5351,12 +5461,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001091,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5368,14 +5477,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5398,7 +5502,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 91,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5410,12 +5514,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001092,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5427,14 +5530,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5457,7 +5555,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 92,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5469,12 +5567,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001093,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5486,14 +5583,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5516,7 +5608,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 93,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5528,12 +5620,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001094,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5545,14 +5636,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5575,7 +5661,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 94,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5587,12 +5673,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001095,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5604,19 +5689,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5639,7 +5724,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 95,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5651,12 +5736,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001096,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5668,14 +5752,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5698,7 +5777,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 96,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5710,12 +5789,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001097,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5727,14 +5805,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5757,7 +5830,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 97,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5769,12 +5842,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001098,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5786,14 +5858,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5816,7 +5883,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 98,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5828,12 +5895,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001099,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5845,14 +5911,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5875,7 +5936,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 99,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5887,12 +5948,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400001100,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5904,19 +5964,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881003,
+        "quantity": 9,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 4,
-        "type": 20
+        "id": 1100252,
+        "quantity": 12,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5939,7 +5999,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 100,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -5951,12 +6011,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002011,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -5968,14 +6027,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -5998,7 +6052,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 101,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6010,12 +6064,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002021,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6027,14 +6080,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6057,7 +6105,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 102,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6069,12 +6117,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002031,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6086,14 +6133,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6116,7 +6158,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 103,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6128,12 +6170,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002041,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6145,14 +6186,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6175,7 +6211,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 104,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6187,12 +6223,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002051,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6204,19 +6239,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881004,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 3,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6239,7 +6274,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 105,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6251,12 +6286,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002061,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6268,14 +6302,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6298,7 +6327,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 106,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6310,12 +6339,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002071,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6327,14 +6355,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6357,7 +6380,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 107,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6369,12 +6392,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002081,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6386,14 +6408,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6416,7 +6433,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 108,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6428,12 +6445,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002091,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6445,14 +6461,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6475,7 +6486,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 109,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6487,12 +6498,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002101,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6504,19 +6514,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881004,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 3,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6539,7 +6549,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 110,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6551,12 +6561,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002111,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6568,14 +6577,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6598,7 +6602,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 111,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6610,12 +6614,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002121,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6627,14 +6630,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6657,7 +6655,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 112,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6669,12 +6667,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002131,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6686,14 +6683,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6716,7 +6708,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 113,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6728,12 +6720,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002141,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6745,14 +6736,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6775,7 +6761,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 114,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6787,12 +6773,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002151,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6804,19 +6789,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881004,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 3,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6839,7 +6824,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 115,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6851,12 +6836,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002161,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6868,14 +6852,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6898,7 +6877,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 116,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6910,12 +6889,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002171,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6927,14 +6905,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -6957,7 +6930,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 117,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -6969,12 +6942,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002181,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -6986,14 +6958,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7016,7 +6983,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 118,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7028,12 +6995,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002191,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7045,14 +7011,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7075,7 +7036,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 119,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7087,12 +7048,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002201,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7104,19 +7064,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881004,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 3,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7139,7 +7099,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 120,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7151,12 +7111,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002211,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7168,14 +7127,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7198,7 +7152,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 121,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7210,12 +7164,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002221,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7227,14 +7180,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7257,7 +7205,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 122,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7269,12 +7217,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002231,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7286,14 +7233,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7316,7 +7258,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 123,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7328,12 +7270,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002241,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7345,14 +7286,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7375,7 +7311,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 124,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7387,12 +7323,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002251,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7404,19 +7339,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881004,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 3,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7439,7 +7374,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 125,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7451,12 +7386,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002261,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7468,14 +7402,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7498,7 +7427,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 126,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7510,12 +7439,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002271,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7527,14 +7455,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7557,7 +7480,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 127,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7569,12 +7492,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002281,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7586,14 +7508,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7616,7 +7533,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 128,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7628,12 +7545,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002291,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7645,14 +7561,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7675,7 +7586,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 129,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7687,12 +7598,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002301,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7704,19 +7614,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881004,
+        "quantity": 12,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 3,
-        "type": 20
+        "id": 1100252,
+        "quantity": 16,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7739,7 +7649,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 130,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7751,12 +7661,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002311,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7768,14 +7677,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7798,7 +7702,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 131,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7810,12 +7714,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002321,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7827,14 +7730,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7857,7 +7755,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 132,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7869,12 +7767,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002331,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7886,14 +7783,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7916,7 +7808,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 133,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7928,12 +7820,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002341,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -7945,14 +7836,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -7975,7 +7861,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 134,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -7987,12 +7873,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002351,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8004,19 +7889,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881004,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 3,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8039,7 +7924,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 135,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8051,12 +7936,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002361,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8068,14 +7952,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8098,7 +7977,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 136,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8110,12 +7989,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002371,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8127,14 +8005,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8157,7 +8030,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 137,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8169,12 +8042,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002381,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8186,14 +8058,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8216,7 +8083,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 138,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8228,12 +8095,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002391,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8245,14 +8111,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8275,7 +8136,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 139,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8287,12 +8148,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002401,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8304,19 +8164,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881004,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 3,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8339,7 +8199,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 140,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8351,12 +8211,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002411,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8368,14 +8227,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8398,7 +8252,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 141,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8410,12 +8264,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002421,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8427,14 +8280,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8457,7 +8305,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 142,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8469,12 +8317,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002431,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8486,14 +8333,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8516,7 +8358,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 143,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8528,12 +8370,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002441,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8545,14 +8386,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8575,7 +8411,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 144,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8587,12 +8423,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002451,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8604,19 +8439,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881004,
+        "quantity": 6,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 3,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8639,7 +8474,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 145,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8651,12 +8486,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002461,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8668,14 +8502,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8698,7 +8527,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 146,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8710,12 +8539,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002471,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8727,14 +8555,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8757,7 +8580,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 147,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8769,12 +8592,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002481,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8786,14 +8608,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8816,7 +8633,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 148,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8828,12 +8645,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002491,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8845,14 +8661,9 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
-      },
-      {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8875,7 +8686,7 @@
     ],
     "scenario_id": 0,
     "sort_order": 149,
-    "stamina": 10,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
@@ -8887,12 +8698,11 @@
   },
   {
     "area_id": 509,
-    "banner": 400006,
+    "banner": 400007,
     "battle_id": 400002501,
     "clear_limit": 0,
     "closing_group": 0,
     "drop_group_ids": [
-      400000147
     ],
     "end_at": 0,
     "enemy_drop_ids": [
@@ -8904,19 +8714,19 @@
         "type": 1
       },
       {
-        "id": 810054,
+        "id": 810070,
         "quantity": 3,
         "type": 8
       },
       {
-        "id": 1100252,
-        "quantity": 1,
-        "type": 7
+        "id": 881004,
+        "quantity": 12,
+        "type": 20
       },
       {
-        "id": 881003,
-        "quantity": 3,
-        "type": 20
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
       }
     ],
     "growth_count": 1,
@@ -8939,7 +8749,1807 @@
     ],
     "scenario_id": 0,
     "sort_order": 150,
-    "stamina": 10,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003011,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001511,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000161,
+    "name": "螺旋回廊 151階",
+    "name_en": "Spiral Corridor 151st Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001501
+    ],
+    "quest_clear_bundle": 151,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 151,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003021,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001521,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000161,
+    "name": "螺旋回廊 152階",
+    "name_en": "152nd floor of the Spiral Corridor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001501
+    ],
+    "quest_clear_bundle": 152,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 152,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003031,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001531,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000161,
+    "name": "螺旋回廊 153階",
+    "name_en": "153rd Floor of the Spiral Corridor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001501
+    ],
+    "quest_clear_bundle": 153,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 153,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003041,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001541,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000161,
+    "name": "螺旋回廊 154階",
+    "name_en": "Spiral Corridor 154th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001501
+    ],
+    "quest_clear_bundle": 154,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 154,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003051,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 881005,
+        "quantity": 6,
+        "type": 20
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      },
+      {
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001551,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000161,
+    "name": "螺旋回廊 155階",
+    "name_en": "Spiral Corridor 155th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001501
+    ],
+    "quest_clear_bundle": 155,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 155,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003061,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001561,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000161,
+    "name": "螺旋回廊 156階",
+    "name_en": "Spiral Corridor 156th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001501
+    ],
+    "quest_clear_bundle": 156,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 156,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003071,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001571,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000161,
+    "name": "螺旋回廊 157階",
+    "name_en": "157th floor of the Spiral Corridor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001501
+    ],
+    "quest_clear_bundle": 157,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 157,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003081,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001581,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000161,
+    "name": "螺旋回廊 158階",
+    "name_en": "Spiral Corridor 158th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001501
+    ],
+    "quest_clear_bundle": 158,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 158,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003091,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001591,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000161,
+    "name": "螺旋回廊 159階",
+    "name_en": "Helix Corridor 159th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001501
+    ],
+    "quest_clear_bundle": 159,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 159,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003101,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 881005,
+        "quantity": 6,
+        "type": 20
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      },
+      {
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001601,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000161,
+    "name": "螺旋回廊 160階",
+    "name_en": "Spiral Corridor 160F",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001501
+    ],
+    "quest_clear_bundle": 160,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 160,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003111,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001611,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000171,
+    "name": "螺旋回廊 161階",
+    "name_en": "Spiral Corridor 161st Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001601
+    ],
+    "quest_clear_bundle": 161,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 161,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003121,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001621,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000171,
+    "name": "螺旋回廊 162階",
+    "name_en": "Spiral Corridor 162 Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001601
+    ],
+    "quest_clear_bundle": 162,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 162,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003131,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001631,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000171,
+    "name": "螺旋回廊 163階",
+    "name_en": "Spiral Corridor 163rd Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001601
+    ],
+    "quest_clear_bundle": 163,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 163,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003141,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001641,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000171,
+    "name": "螺旋回廊 164階",
+    "name_en": "Spiral Corridor 164th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001601
+    ],
+    "quest_clear_bundle": 164,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 164,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003151,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 881005,
+        "quantity": 5,
+        "type": 20
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      },
+      {
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001651,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000171,
+    "name": "螺旋回廊 165階",
+    "name_en": "Spiral Corridor 165th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001601
+    ],
+    "quest_clear_bundle": 165,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 165,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003161,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001661,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000171,
+    "name": "螺旋回廊 166階",
+    "name_en": "Spiral Corridor 166th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001601
+    ],
+    "quest_clear_bundle": 166,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 166,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003171,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001671,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000171,
+    "name": "螺旋回廊 167階",
+    "name_en": "Spiral Corridor 167th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001601
+    ],
+    "quest_clear_bundle": 167,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 167,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003181,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001681,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000171,
+    "name": "螺旋回廊 168階",
+    "name_en": "Spiral Corridor 168th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001601
+    ],
+    "quest_clear_bundle": 168,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 168,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003191,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001691,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000171,
+    "name": "螺旋回廊 169階",
+    "name_en": "Spiral Corridor 169th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001601
+    ],
+    "quest_clear_bundle": 169,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 169,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003201,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 881005,
+        "quantity": 5,
+        "type": 20
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      },
+      {
+        "id": 1100252,
+        "quantity": 6,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001701,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000171,
+    "name": "螺旋回廊 170階",
+    "name_en": "Spiral Corridor 170F",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001601
+    ],
+    "quest_clear_bundle": 170,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 170,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003211,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001711,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000181,
+    "name": "螺旋回廊 171階",
+    "name_en": "Spiral Corridor 171F",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001701
+    ],
+    "quest_clear_bundle": 171,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 171,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003221,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001721,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000181,
+    "name": "螺旋回廊 172階",
+    "name_en": "Spiral Corridor 172 Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001701
+    ],
+    "quest_clear_bundle": 172,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 172,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003231,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001731,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000181,
+    "name": "螺旋回廊 173階",
+    "name_en": "Spiral Corridor 173rd Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001701
+    ],
+    "quest_clear_bundle": 173,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 173,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003241,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001741,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000181,
+    "name": "螺旋回廊 174階",
+    "name_en": "Spiral Corridor 174th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001701
+    ],
+    "quest_clear_bundle": 174,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 174,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003251,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 881005,
+        "quantity": 5,
+        "type": 20
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      },
+      {
+        "id": 1100252,
+        "quantity": 8,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001751,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000181,
+    "name": "螺旋回廊 175階",
+    "name_en": "Spiral Corridor 175th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001701
+    ],
+    "quest_clear_bundle": 175,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 175,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003261,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001761,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000181,
+    "name": "螺旋回廊 176階",
+    "name_en": "Spiral Corridor 176th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001701
+    ],
+    "quest_clear_bundle": 176,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 176,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003271,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001771,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000181,
+    "name": "螺旋回廊 177階",
+    "name_en": "Spiral Corridor 177th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001701
+    ],
+    "quest_clear_bundle": 177,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 177,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003281,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001781,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000181,
+    "name": "螺旋回廊 178階",
+    "name_en": "Spiral Corridor 178th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001701
+    ],
+    "quest_clear_bundle": 178,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 178,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003291,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001791,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000181,
+    "name": "螺旋回廊 179階",
+    "name_en": "Spiral Corridor 179th Floor",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001701
+    ],
+    "quest_clear_bundle": 179,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 179,
+    "stamina": 0,
+    "start_at": 0,
+    "twitter_button_id": 5,
+    "typical_enemy_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "area_id": 509,
+    "banner": 400007,
+    "battle_id": 400003301,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "drop_group_ids": [
+    ],
+    "end_at": 0,
+    "enemy_drop_ids": [
+    ],
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 5,
+        "type": 1
+      },
+      {
+        "id": 810070,
+        "quantity": 3,
+        "type": 8
+      },
+      {
+        "id": 881005,
+        "quantity": 5,
+        "type": 20
+      },
+      {
+        "id": 960001,
+        "quantity": 10,
+        "type": 33
+      },
+      {
+        "id": 1100252,
+        "quantity": 6,
+        "type": 7
+      }
+    ],
+    "growth_count": 1,
+    "id": 400001801,
+    "illust_category": 0,
+    "illust_id": 0,
+    "list_banner": 0,
+    "local_area_id": 400000181,
+    "name": "螺旋回廊 180階",
+    "name_en": "Spiral Corridor 180F",
+    "name_en_src": "ml",
+    "prev_quest_ids": [
+      400001701
+    ],
+    "quest_clear_bundle": 180,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 180,
+    "stamina": 0,
     "start_at": 0,
     "twitter_button_id": 5,
     "typical_enemy_id": 0,
