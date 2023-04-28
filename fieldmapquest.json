@@ -94987,6 +94987,1128 @@
     "typical_rewards_category": 2
   },
   {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008011,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105902
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129107,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025001,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "干潟よか公園",
+    "name_en": "Higata Yoka Park",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100842,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008021,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105902
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129108,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025002,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "佐賀駅",
+    "name_en": "Saga station",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 2,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100842,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008031,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105902
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129109,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025003,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "ちゃんぽん街道",
+    "name_en": "Champon Kaido",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 3,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100842,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008041,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830022,
+        "quantity": 5,
+        "type": 11
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105903
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129110,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025004,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "肥前犬山城展望台",
+    "name_en": "Hizen Inuyama Castle Observatory",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 4,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100843,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008051,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105903
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129111,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025005,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "大魚神社海中鳥居",
+    "name_en": "Taio Shrine Underwater Torii",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 5,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100843,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008061,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105903
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129112,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025006,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "たら竹崎温泉",
+    "name_en": "Taratakezaki Hot Spring",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 6,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100843,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008071,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105904
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129113,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025007,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "祐徳稲荷神社",
+    "name_en": "Yutoku Inari Shrine",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 7,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100844,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008081,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105904
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129114,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025008,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "元祖忍者村 肥前夢街道",
+    "name_en": "Hizen Dream Road, the original ninja village",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 8,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100844,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008091,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830022,
+        "quantity": 5,
+        "type": 11
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105904
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129115,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025009,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "武雄温泉",
+    "name_en": "Takeo Hot Spring",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 9,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100844,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008101,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105905
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129116,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025010,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "有田陶器市",
+    "name_en": "Arita Pottery Market",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 10,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100845,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008111,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105905
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129117,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025011,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "竹の古場公園",
+    "name_en": "Takenokoba Park",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 11,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100845,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008121,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105905
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129123,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025012,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "伊万里駅",
+    "name_en": "Imari Station",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 12,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100845,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008131,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830022,
+        "quantity": 5,
+        "type": 11
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105905
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129122,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025013,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山本駅",
+    "name_en": "Yamamoto Station",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 13,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100845,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008141,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 103001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105905
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129124,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025014,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "唐津駅",
+    "name_en": "Karatsu Station",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 14,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100845,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008151,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 104001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105905
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129125,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025015,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "唐津城",
+    "name_en": "Karatsu Castle",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 15,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100845,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008161,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 830022,
+        "quantity": 5,
+        "type": 11
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105905
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129126,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025016,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "大和町官人橋川上峡春まつり",
+    "name_en": "Yamato Town Kaninbashi Kawakami Gorge Spring Festival",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 16,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100845,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 2026,
+    "battle_id": 700008171,
+    "clear_limit": 0,
+    "domination_rewards": [
+      {
+        "id": 100002,
+        "quantity": 50,
+        "type": 1
+      },
+      {
+        "id": 105001,
+        "quantity": 5,
+        "type": 2
+      }
+    ],
+    "drop_group_ids": [
+      105901,
+      105905
+    ],
+    "enemy_drop_ids": [
+    ],
+    "field_map_enemy_transform_id": 0,
+    "field_map_node_id": 10129127,
+    "field_map_size": 0,
+    "first_rewards": [
+      {
+        "id": 100002,
+        "quantity": 30,
+        "type": 1
+      }
+    ],
+    "growth_count": 1,
+    "id": 972025017,
+    "illust_ids": [
+    ],
+    "is_unavailable_after_dominated": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "吉野ヶ里歴史公園",
+    "name_en": "Yoshinogari Historical Park",
+    "name_en_src": "ml",
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "quest_type": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "rewards": [
+    ],
+    "scenario_id": 0,
+    "sort_order": 17,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 1100841,
+        "type": 7
+      },
+      {
+        "id": 1100845,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
     "adjusted_reward_group_id": 0,
     "battle_id": 0,
     "clear_limit": 0,

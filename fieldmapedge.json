@@ -21589,5 +21589,292 @@
     "edge_asset_id": 0,
     "player_asset_id": 0,
     "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129101,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129106,
+      10129107
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129102,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129107,
+      10129108
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129103,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129108,
+      10129109
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129104,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129109,
+      10129110
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129105,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129110,
+      10129111
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129106,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129111,
+      10129112
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129107,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129112,
+      10129113
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129108,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129113,
+      10129114
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129109,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129114,
+      10129115
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129110,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129115,
+      10129116
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129111,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129116,
+      10129117
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129112,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129117,
+      10129123
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129113,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129123,
+      10129122
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [
+      {
+        "x": -7.851986885070801,
+        "y": -0.6925973892211914
+      }
+    ],
+    "edge_asset_id": 1001,
+    "player_asset_id": 1001,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129114,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129122,
+      10129124
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [
+      {
+        "x": -8.790374755859375,
+        "y": 4.693551063537598
+      }
+    ],
+    "edge_asset_id": 1001,
+    "player_asset_id": 1001,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129115,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129124,
+      10129125
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129116,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129108,
+      10129126
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129117,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129108,
+      10129127
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [],
+    "edge_asset_id": 0,
+    "player_asset_id": 0,
+    "ghost_player_asset_id": 0
+  },
+  {
+    "id": 10129118,
+    "field_map_id": 1012901,
+    "adjacent_field_map_node_ids": [
+      10129122,
+      10129108
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": [
+      {
+        "x": -6.243089199066162,
+        "y": 4.6675591468811035
+      },
+      {
+        "x": -6.239062786102295,
+        "y": 2.58447003364563
+      },
+      {
+        "x": -3.437709093093872,
+        "y": 2.5887529850006104
+      },
+      {
+        "x": -3.4381279945373535,
+        "y": 0.15288910269737244
+      },
+      {
+        "x": 1.0630069971084595,
+        "y": 0.14665940403938293
+      },
+      {
+        "x": 1.0630069971084595,
+        "y": -1.9926940202713013
+      }
+    ],
+    "edge_asset_id": 1001,
+    "player_asset_id": 1001,
+    "ghost_player_asset_id": 0
   }
 ]

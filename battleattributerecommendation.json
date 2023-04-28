@@ -70,5 +70,65 @@
     "resist_lightning": -35,
     "resist_sun": -35,
     "resist_shadow": 999
+  },
+  {
+    "id": 700008001,
+    "battle_id": 700008011,
+    "resist_slash": 30,
+    "resist_pierce": 0,
+    "resist_blunt": 30,
+    "resist_heat": 30,
+    "resist_cold": 30,
+    "resist_lightning": 30,
+    "resist_sun": 999,
+    "resist_shadow": -35
+  },
+  {
+    "id": 700008012,
+    "battle_id": 700008071,
+    "resist_slash": 50,
+    "resist_pierce": -20,
+    "resist_blunt": 0,
+    "resist_heat": 0,
+    "resist_cold": -20,
+    "resist_lightning": 0,
+    "resist_sun": -45,
+    "resist_shadow": 50
+  },
+  {
+    "id": 700008013,
+    "battle_id": 700008081,
+    "resist_slash": -35,
+    "resist_pierce": -45,
+    "resist_blunt": 0,
+    "resist_heat": 125,
+    "resist_cold": 125,
+    "resist_lightning": 125,
+    "resist_sun": 125,
+    "resist_shadow": -35
+  },
+  {
+    "id": 700008016,
+    "battle_id": 700008101,
+    "resist_slash": 0,
+    "resist_pierce": 0,
+    "resist_blunt": 0,
+    "resist_heat": 0,
+    "resist_cold": 0,
+    "resist_lightning": 0,
+    "resist_sun": 0,
+    "resist_shadow": 0
+  },
+  {
+    "id": 700008029,
+    "battle_id": 700008171,
+    "resist_slash": -35,
+    "resist_pierce": 0,
+    "resist_blunt": 50,
+    "resist_heat": 0,
+    "resist_cold": 0,
+    "resist_lightning": 0,
+    "resist_sun": -35,
+    "resist_shadow": 50
   }
 ]

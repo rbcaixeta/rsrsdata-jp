@@ -315,5 +315,29 @@
         "quantity": 10000
       }
     ]
+  },
+  {
+    "id": 10131,
+    "domination_rate": 100,
+    "field_map_group_id": 10129,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 3000
+      }
+    ]
+  },
+  {
+    "id": 10133,
+    "domination_rate": 100,
+    "field_map_group_id": 10131,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10000
+      }
+    ]
   }
 ]

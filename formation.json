@@ -1616,6 +1616,42 @@
     ]
   },
   {
+    "flavor_text": "パーティ全体の防御面が強化される陣形。<br>中央のメンバーが狙われやすくなるかわりに、腕力・体力・精神が大きく上昇する。",
+    "flavor_text_en": "A formation where the defensive surface of the entire party is strengthened. Instead of making it easier for <br>members in the center to be targeted, strength, physical strength, and mentality are greatly increased.",
+    "flavor_text_en_src": "ml",
+    "id": 1052,
+    "name": "仁王舞の陣",
+    "name_en": "Battle of the Nio Dance",
+    "name_en_src": "ml",
+    "positions": [
+      {
+        "formation_bonus_id": 1159,
+        "x": 25,
+        "y": 25
+      },
+      {
+        "formation_bonus_id": 1160,
+        "x": 8,
+        "y": 10
+      },
+      {
+        "formation_bonus_id": 1160,
+        "x": 8,
+        "y": 40
+      },
+      {
+        "formation_bonus_id": 1161,
+        "x": 42,
+        "y": 10
+      },
+      {
+        "formation_bonus_id": 1161,
+        "x": 42,
+        "y": 40
+      }
+    ]
+  },
+  {
     "flavor_text": "",
     "id": 11001000,
     "name": "フリーファイト",
