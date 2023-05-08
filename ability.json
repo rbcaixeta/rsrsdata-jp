@@ -18346,6 +18346,135 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身を「<special_effect=800000074>ステルス</special_effect>」状態にする( 効果中/効果4ターン )<br>自身の腕力と素早さを上昇させる( 効果大 )<br><br>[ターン終了時] <br>そのターンに自身がダメージを受けていなかった場合、自身を「<special_effect=800000079>溜め状態</special_effect>」にする( カウント1 )<br><br>溜め技：<skill=110100324>ツインスパルタン</skill><br>( 技Rank1で発動 )",
+    "flavor_text_en": "</special_effect><br><br><br><br>[When turn starts] Put yourself in a <br>“<special_effect=800000074>stealth” state (in effect/effect 4 turns) Increase own strength and agility (great effect) [at end of turn] If you haven't taken damage on that turn, “<special_effect=800000079> hoarded state </special_effect></skill><br>Change to” (count 1) <br><br>accumulation move: <skill=110100324> Twin Spartan (activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101918,
+    "name": "佐賀巡りの旅行者",
+    "name_en": "Travelers visiting Saga",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042186,
+      802042199
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>味方生存者全体に「<special_effect=800000219>逆境の念</special_effect>」を付与する( 効果バトル中永続 )<br><br>[ターン終了時]<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "</special_effect><br><br><br>[At the beginning of battle] Grant <br>“<special_effect=800000219>Sense of Adversity” to all allied survivors (effect persists during battle) [At end of turn] Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101919,
+    "name": "霊験のアニマ",
+    "name_en": "Ethereal Anima",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042193,
+      802040902
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、HPが満タンではない場合、<br>自身の素早さ・知力・愛・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "<br>When an attack is hit, if your HP isn't full, increase your own quickness, intelligence, love, and appeal (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101920,
+    "name": "逆境の念",
+    "name_en": "A sense of adversity",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012194,
+      802012195,
+      802012196,
+      802012197
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "弓装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+    "flavor_text_en": "<br>When equipped with a bow, damage from attacks increases (extra effective) When receiving a Resist attack, reducing damage taken (maximum effect) When receiving a <br>Resist attack that reduces damage taken (maximum effect), enemy attacks are evaded (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101921,
+    "name": "弓の天稟Ⅳ",
+    "name_en": "Archer of the Bow IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042198,
+      802041212,
+      802041181
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃時]<br>味方生存者全体のHPを回復する( 効果極小 )<br><br>[連弓・太良散水を発動後]<br>「風涼の湯」の使用回数制限を回復する( +1/バトル開始時点の回数より多くならない )",
+    "flavor_text_en": "<br><br><br>[When attacking] <br>Restores HP to all allied survivors (minimal effect) [After activating Renkyu/Tara Sprinkler] Restores the usage limit for “Wind Ryo no Yu” (+1/no more than the number of times at the start of the battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101922,
+    "name": "温泉快癒",
+    "name_en": "Hot springs for relaxation",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042207,
+      802042208
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身をステルス状態にする( 効果中/効果4ターン )<br>自身の腕力と素早さを上昇させる( 効果大 )",
+    "flavor_text_en": "<br>[At the start of a turn] Set yourself <br>into a stealth state (in effect/4 turns of effect) and increases your own strength and agility (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101923,
+    "name": "ターン開始時 ステルス(中)・能力アップ",
+    "name_en": "Stealth (medium) and ability increase at the start of a turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040262,
+      802010500,
+      802010759
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>そのターンに自身がダメージを受けていなかった場合、自身を「溜め状態」にする( カウント1 )<br><br>溜め技：ツインスパルタン<br>( 技Rank1で発動 )",
+    "flavor_text_en": "<br><br><br>[At end of turn] <br>If you haven't taken damage on that turn, put yourself in a “hoard state” (count 1) Accumulated move: Twin Spartan (activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101924,
+    "name": "ターン終了時 溜め状態",
+    "name_en": "Accumulated state at end of turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042200
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "[ラウンド開始時] <br>自身のHPを回復する( 確率中/効果大 )",
     "flavor_text_en": "[Start of round]<br>Recovers own HP (medium chance/large effect).",

@@ -13651,6 +13651,48 @@
   },
   {
     "applies_to_all_styles": 0,
+    "event_ability_category_id": 808,
+    "flavor_text": "・Romancing佐賀ゴールデンツアー-わいわい漫遊-でHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍＆【佐賀の絵はがき・2】が追加ドロップ＆【ゴールデンツアータオル】が追加ドロップ",
+    "flavor_text_en": "・In Romancing Saga Golden Tour - Waiwai Manyu - the amount of increase when HP is increased is 4 times & the amount of increase when other ability values are increased is 3 times & the amount of increase when the rank is raised is 2 times & [Saga picture postcard 2] is added dropped & [Golden Tour Towel] is an additional drop",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1157,
+    "name": "Romancing佐賀-わいわい漫遊-・Romancing祭",
+    "name_en": "Romancing Saga - Waiwai Wandering - Romancing Festival",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3449
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 809,
+    "flavor_text": "・Romancing佐賀ゴールデンツアー-わいわい漫遊-で能力値アップ時の上昇量が3倍＆【佐賀の絵はがき・2】が追加ドロップ＆【ゴールデンツアータオル】が追加ドロップ",
+    "flavor_text_en": "・In Romancing Saga Golden Tour - Waiwai Manyu - the amount of increase when ability values are increased is 3 times & [Saga's picture postcard 2] is an additional drop & [Golden Tour Towel] is an additional drop",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1158,
+    "name": "Romancing佐賀-わいわい漫遊-",
+    "name_en": "Romancing Saga -Waiwai Manyu-",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3448
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 810,
+    "flavor_text": "・Romancing佐賀ゴールデンツアー-わいわい漫遊-で能力値アップ時の上昇量が3倍＆【佐賀の絵はがき・2】が追加ドロップ＆【ゴールデンツアータオル】が追加ドロップ",
+    "flavor_text_en": "・In Romancing Saga Golden Tour - Waiwai Manyu - the amount of increase when ability values are increased is 3 times & [Saga's picture postcard 2] is an additional drop & [Golden Tour Towel] is an additional drop",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1159,
+    "name": "Romancing佐賀-わいわい漫遊-・体術・冷",
+    "name_en": "Romancing Saga - Waiwai Manyu - · Taijutsu · Cold",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3446
+  },
+  {
+    "applies_to_all_styles": 0,
     "event_ability_category_id": 811,
     "flavor_text": "・Romancing佐賀ゴールデンツアー-ふらっと１人旅-でHPアップ時の上昇量が4倍＆その他の能力値アップ時の上昇量が3倍＆技・術ランクアップ時の上昇量が2倍＆【佐賀の絵はがき】が追加ドロップ",
     "flavor_text_en": "・Romancing Saga Golden Tour - a casual solo trip - the amount of increase when HP is increased is 4 times & the amount of increase when other ability values are increased is 3 times & the amount of increase when the skill or jutsu rank is increased is 2 times & [picture postcard of Saga] is an additional drop",
@@ -13732,5 +13774,19 @@
     "name_en_src": "ml",
     "prefix": "[期間限定]",
     "priority": 3430
+  },
+  {
+    "applies_to_all_styles": 0,
+    "event_ability_category_id": 822,
+    "flavor_text": "・Romancing佐賀ゴールデンツアー-わいわい漫遊-で能力値アップ時の上昇量が3倍＆【佐賀の絵はがき・2】が追加ドロップ＆【ゴールデンツアータオル】が追加ドロップ",
+    "flavor_text_en": "・In Romancing Saga Golden Tour - Waiwai Manyu - the amount of increase when ability values are increased is 3 times & [Saga's picture postcard 2] is an additional drop & [Golden Tour Towel] is an additional drop",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 1171,
+    "name": "Romancing佐賀-わいわい漫遊-・セレクトチケット",
+    "name_en": "Romancing Saga - Waiwai Manyu - Select Ticket",
+    "name_en_src": "ml",
+    "prefix": "[期間限定]",
+    "priority": 3447
   }
 ]

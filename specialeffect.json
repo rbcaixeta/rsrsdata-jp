@@ -3868,6 +3868,29 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、HPが満タンではない場合、<br>自身の素早さ・知力・愛・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "<br>When an attack is hit, if your HP isn't full, increase your own quickness, intelligence, love, and appeal (in effect)",
+    "flavor_text_en_src": "ml",
+    "id": 800000219,
+    "ignition_effect_id": "",
+    "name": "逆境の念",
+    "name_en": "A sense of adversity",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "[ターン終了時]<br>自身のODゲージを上昇させる( 効果中 )<br><br>[OD攻撃(※)を発動後]<br>「<skill=125200266>ライトニングスパイク</skill>」が発動する<br>( 術Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "</skill><br><br>[At end of turn] Raise <br>your OD gauge (in effect) <br><br>[After activating OD Attack (*)] <br>“<skill=125200266> Lightning Spike” is activated (activated by Jutsu Rank 1) ※ “Techniques/techniques activated by effects of special states”, “techniques and techniques activated by ability effects”, and “counterattack technics/techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
@@ -3875,6 +3898,29 @@
     "ignition_effect_id": "",
     "name": "超撃雷棘",
     "name_en": "Super Thunderstorm",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "被ダメージを100%カットする( 上限回数:4 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Cuts damage taken by 100% (maximum number of times: 4 *Activates only when an attack is hit)",
+    "flavor_text_en_src": "ml",
+    "id": 800000221,
+    "ignition_effect_id": "",
+    "name": "ダメージブロック(4回)",
+    "name_en": "Damage block (4 times)",
     "name_en_src": "ml",
     "state_change_id": 900030001,
     "state_icon": 1031,
@@ -10390,6 +10436,30 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "bishamon140500353",
+    "flavor_text": "攻撃時、自身以外の味方全体の最大HPの5%を消費する",
+    "flavor_text_en": "When attacking, consume 5% of the maximum HP of all allies other than yourself",
+    "flavor_text_en_src": "ml",
+    "id": 801011619,
+    "ignition_effect_id": "",
+    "name": "代償ダメージ(最大HP5%)",
+    "name_en": "Compensatory damage (max HP 5%)",
+    "name_en_src": "ml",
+    "state_change_id": 900050079,
+    "state_icon": 2002,
+    "state_vars": [
+      1
+    ],
+    "target_area": 12,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "bishamon140100238",
     "flavor_text": "腕力が上昇する",
     "flavor_text_en": "Strength increases",
@@ -12925,6 +12995,236 @@
     "flavor_text_en": "Stun resistance increases",
     "flavor_text_en_src": "ml",
     "id": 801021481,
+    "ignition_effect_id": "",
+    "name": "気絶耐性アップ",
+    "name_en": "Increased stun resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020029,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "毒耐性が上昇する",
+    "flavor_text_en": "Poison resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021623,
+    "ignition_effect_id": "",
+    "name": "毒耐性アップ",
+    "name_en": "Increased poison resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020020,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "異常耐性↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "暗闇耐性が上昇する",
+    "flavor_text_en": "Darkness resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021624,
+    "ignition_effect_id": "",
+    "name": "暗闇耐性アップ",
+    "name_en": "Increased resistance to darkness",
+    "name_en_src": "ml",
+    "state_change_id": 900020021,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "スタン耐性が上昇する",
+    "flavor_text_en": "Stun resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021625,
+    "ignition_effect_id": "",
+    "name": "スタン耐性アップ",
+    "name_en": "Increased stun resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020022,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "マヒ耐性が上昇する",
+    "flavor_text_en": "Paralysis resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021626,
+    "ignition_effect_id": "",
+    "name": "マヒ耐性アップ",
+    "name_en": "Increased paralysis resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020023,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "眠り耐性が上昇する",
+    "flavor_text_en": "Sleep tolerance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021627,
+    "ignition_effect_id": "",
+    "name": "眠り耐性アップ",
+    "name_en": "Improved sleep tolerance",
+    "name_en_src": "ml",
+    "state_change_id": 900020024,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "石化耐性が上昇する",
+    "flavor_text_en": "Petrification resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021628,
+    "ignition_effect_id": "",
+    "name": "石化耐性アップ",
+    "name_en": "Increased petrification resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020025,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "混乱耐性が上昇する",
+    "flavor_text_en": "Confusion resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021629,
+    "ignition_effect_id": "",
+    "name": "混乱耐性アップ",
+    "name_en": "Increased resistance to chaos",
+    "name_en_src": "ml",
+    "state_change_id": 900020026,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅了耐性が上昇する",
+    "flavor_text_en": "Fascination resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021630,
+    "ignition_effect_id": "",
+    "name": "魅了耐性アップ",
+    "name_en": "Increased fascination resistance",
+    "name_en_src": "ml",
+    "state_change_id": 900020027,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "狂戦士耐性が上昇する",
+    "flavor_text_en": "Berserker resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021631,
+    "ignition_effect_id": "",
+    "name": "狂戦士耐性アップ",
+    "name_en": "Berserker resistance increased",
+    "name_en_src": "ml",
+    "state_change_id": 900020028,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "気絶耐性が上昇する",
+    "flavor_text_en": "Stun resistance increases",
+    "flavor_text_en_src": "ml",
+    "id": 801021632,
     "ignition_effect_id": "",
     "name": "気絶耐性アップ",
     "name_en": "Increased stun resistance",
@@ -25831,6 +26131,132 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "140500132",
+    "flavor_text": "被ダメージを100%カットする( 上限回数:4 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "Cuts damage taken by 100% (maximum number of times: 4 *Activates only when an attack is hit)",
+    "flavor_text_en_src": "ml",
+    "id": 801041622,
+    "ignition_effect_id": "",
+    "name": "ダメージブロック(4回)",
+    "name_en": "Damage block (4 times)",
+    "name_en_src": "ml",
+    "state_change_id": 900040192,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ダメージブロック",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon145400069_1",
+    "flavor_text": "腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "Unlock reduced abilities of strength, stamina, dexterity, agility, intellect, spirit, love, and charm",
+    "flavor_text_en_src": "ml",
+    "id": 801041633,
+    "ignition_effect_id": "",
+    "name": "能力ダウン解除",
+    "name_en": "Ability reduction unlocked",
+    "name_en_src": "ml",
+    "state_change_id": 900050067,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "target_area": 10,
+    "text_color": "5BFF24",
+    "text_pop": "能力ダウン解除",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 801041634,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(特大)",
+    "name_en": "Attack Boost (Oversized)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon145400069_2",
+    "flavor_text": "ODゲージが上昇する",
+    "flavor_text_en": "OD gauge rises",
+    "flavor_text_en_src": "ml",
+    "id": 801041635,
+    "ignition_effect_id": "",
+    "name": "ODゲージアップ",
+    "name_en": "OD gauge up",
+    "name_en_src": "ml",
+    "state_change_id": 900050156,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 12,
+    "text_color": "FFFFFF",
+    "text_pop": "ODゲージ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ツインスパルタンで攻撃後、ブラッドスパルタン+で攻撃を行う",
+    "flavor_text_en": "Attack with Twin Spartans, then attack with Blood Spartan+",
+    "flavor_text_en_src": "ml",
+    "id": 801041636,
+    "ignition_effect_id": "",
+    "name": "ツインスパルタン",
+    "name_en": "twin spartans",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110100323
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "bishamon140300110",
     "flavor_text": "与えるダメージが上昇する(重複不可)",
     "flavor_text_en": "Increases damage dealt (cannot be duplicated)",
@@ -25945,6 +26371,31 @@
     "text_color": "",
     "text_pop": "",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon140500354",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 801041668,
+    "ignition_effect_id": "",
+    "name": "防御強化(大)",
+    "name_en": "Defense Enhancement (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      65
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
     ]
   },
   {
@@ -34865,6 +35316,106 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "腕力 素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      4,
+      35
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 802012194,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      4,
+      35
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect rises",
+    "flavor_text_en_src": "ml",
+    "id": 802012195,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      4,
+      35
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "愛が上昇する",
+    "flavor_text_en": "Love rises",
+    "flavor_text_en_src": "ml",
+    "id": 802012196,
+    "ignition_effect_id": "",
+    "name": "愛アップ",
+    "name_en": "Love up",
+    "name_en_src": "ml",
+    "state_change_id": 900010018,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      4,
+      35
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が上昇する",
+    "flavor_text_en": "Attractiveness rises",
+    "flavor_text_en_src": "ml",
+    "id": 802012197,
+    "ignition_effect_id": "",
+    "name": "魅力アップ",
+    "name_en": "Increased attractiveness",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -67043,6 +67594,180 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン開始時]<br>自身を「<special_effect=800000074>ステルス</special_effect>」状態にする( 効果中/効果4ターン )<br>自身の腕力と素早さを上昇させる( 効果大 )",
+    "flavor_text_en": "</special_effect><br>[At the start of a turn] Put <br>yourself in a “<special_effect=800000074>stealth” state (in effect/effect 4 turns) Increase your own strength and agility (great effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802042186,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 ステルス(中)・能力アップ",
+    "name_en": "Stealth (medium) and ability increase at the start of a turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101923
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃命中時、HPが満タンではない場合、<br>自身の素早さ・知力・愛・魅力を上昇させる( 効果中 )",
+    "flavor_text_en": "<br>When an attack is hit, if your HP isn't full, increase your own quickness, intelligence, love, and appeal (in effect)",
+    "flavor_text_en_src": "ml",
+    "id": 802042193,
+    "ignition_effect_id": "",
+    "name": "逆境の念",
+    "name_en": "A sense of adversity",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101920
+    ],
+    "target_area": 3,
+    "text_color": "FFFFFF",
+    "text_pop": "逆境の念",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "弓装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Attack damage when equipped with a bow is increased",
+    "flavor_text_en_src": "ml",
+    "id": 802042198,
+    "ignition_effect_id": "",
+    "name": "弓攻撃強化",
+    "name_en": "Bow Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      21009
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン終了時] <br>そのターンに自身がダメージを受けていなかった場合、自身を「<special_effect=800000079>溜め状態</special_effect>」にする( カウント1 )<br><br>溜め技：<skill=110100324>ツインスパルタン</skill><br>( 技Rank1で発動 )",
+    "flavor_text_en": "</special_effect></skill><br><br><br>[At end of turn] <br>If you haven't taken damage on that turn, set yourself to “<special_effect=800000079>hoarded state” (count 1) Accumulated Technique: <skill=110100324> Twin Spartan (activated by Move Rank1)",
+    "flavor_text_en_src": "ml",
+    "id": 802042199,
+    "ignition_effect_id": "",
+    "name": "ターン終了時 溜め状態",
+    "name_en": "Accumulated state at end of turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101924
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      46001
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "カウントがスタートする( カウント1 )<br>カウントはターン終了時に1減少し、<br>0になった次回の行動が、一回限り「<skill=110100324>ツインスパルタン</skill>」となる",
+    "flavor_text_en": "</skill><br>Counting starts (count 1) <br>The count decreases by 1 at the end of the turn, and the next action that becomes 0 becomes “<skill=110100324> Twin Spartan” only once",
+    "flavor_text_en_src": "ml",
+    "id": 802042200,
+    "ignition_effect_id": "ChargeAttack",
+    "name": "溜め状態",
+    "name_en": "Accumulated state",
+    "name_en_src": "ml",
+    "state_change_id": 900040102,
+    "state_icon": 3002,
+    "state_vars": [
+      1,
+      110100324,
+      10
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24408
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "HPを回復する",
+    "flavor_text_en": "Recover your HP",
+    "flavor_text_en_src": "ml",
+    "id": 802042207,
+    "ignition_effect_id": "",
+    "name": "HP回復(極小)",
+    "name_en": "HP recovery (very small)",
+    "name_en_src": "ml",
+    "state_change_id": 900050054,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24502
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "使用回数制限を回復する",
+    "flavor_text_en": "Restore usage limits",
+    "flavor_text_en_src": "ml",
+    "id": 802042208,
+    "ignition_effect_id": "",
+    "name": "使用回数制限回復",
+    "name_en": "Usage limit restored",
+    "name_en_src": "ml",
+    "state_change_id": 900050219,
+    "state_icon": 3001,
+    "state_vars": [
+      1,
+      2
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "回数+",
     "triggering_effect_condition_ids": [
     ]
   },

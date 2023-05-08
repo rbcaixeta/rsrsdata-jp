@@ -21605,6 +21605,54 @@
   },
   {
     "enemy_class": 99,
+    "gender": 9,
+    "id": 199438,
+    "illust": 1994381,
+    "name": "石の将魔",
+    "name_en": "Stone Shodemon",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      83
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199439,
+    "illust": 1994391,
+    "name": "音の将魔",
+    "name_en": "Sound Shodama",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
+    "gender": 9,
+    "id": 199440,
+    "illust": 1994401,
+    "name": "エッグ",
+    "name_en": "egg",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "sprite_studio": 1
+  },
+  {
+    "enemy_class": 99,
     "gender": 1,
     "id": 211011,
     "illust": 110100,
