@@ -3406,6 +3406,32 @@
     "sort_order": 23050960
   },
   {
+    "expired_at": 1686855599,
+    "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Saga Soul Gacha. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800264,
+    "id": 800264,
+    "max_quantity": 99999999,
+    "name": "サガ魂メダル・18",
+    "name_en": "Saga Soul Medal 18",
+    "name_en_src": "ml",
+    "sort_order": 23051860
+  },
+  {
+    "expired_at": 1686855599,
+    "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Saga Soul Gacha. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800265,
+    "id": 800265,
+    "max_quantity": 99999999,
+    "name": "サガ魂メダル・19",
+    "name_en": "Saga Soul Medal 19",
+    "name_en_src": "ml",
+    "sort_order": 23051855
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -11323,9 +11349,9 @@
     "sort_order": 23050455
   },
   {
-    "expired_at": 1685041199,
-    "flavor_text": "イベント「きれいな石ドロップキャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2023/5/26 4:00まで）",
-    "flavor_text_en": "Items that can be obtained during the “Beautiful Stone Drop Campaign” event. You can exchange items at the exchange. (Until 2023/5/26 4:00)",
+    "expired_at": 1685559599,
+    "flavor_text": "イベント「きれいな石ドロップキャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2023/6/1 4:00まで）",
+    "flavor_text_en": "Items that can be obtained during the “Beautiful Stone Drop Campaign” event. You can exchange items at the exchange. (until 2023/6/1 4:00)",
     "flavor_text_en_src": "ml",
     "icon": 1100233,
     "id": 1100846,
@@ -11516,5 +11542,70 @@
     "name_en": "SAGA GOLDEN TOUR TROPHY",
     "name_en_src": "ml",
     "sort_order": 23050915
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100861,
+    "id": 1100861,
+    "max_quantity": 99999999,
+    "name": "干潟の幸",
+    "name_en": "Food from the tidal flats",
+    "name_en_src": "ml",
+    "sort_order": 23051800
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100862,
+    "id": 1100862,
+    "max_quantity": 99999999,
+    "name": "アゲマキガイ",
+    "name_en": "Thymphalis",
+    "name_en_src": "ml",
+    "sort_order": 23051805
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「海産物ザックザク！干潟の珍騒動協力ミッション」の集計アイテム。該当イベントで入手できる。（集計は2023/5/25 12:00まで）",
+    "flavor_text_en": "“The seafood is crunchy! An aggregated item for “Tidal Flats: Rare Distress Cooperation Mission”. It can be obtained at the relevant event. (The tally is until 2023/5/25 12:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100863,
+    "id": 1100863,
+    "max_quantity": 99999999,
+    "name": "シオマネキ",
+    "name_en": "White-tailed cat",
+    "name_en_src": "ml",
+    "sort_order": 23051810
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「海産物ザックザク！干潟の珍騒動協力ミッション」の集計アイテム。該当イベントで入手できる。（集計は2023/5/25 12:00まで）",
+    "flavor_text_en": "“The seafood is crunchy! An aggregated item for “Tidal Flats: Rare Distress Cooperation Mission”. It can be obtained at the relevant event. (The tally is until 2023/5/25 12:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100864,
+    "id": 1100864,
+    "max_quantity": 99999999,
+    "name": "ムツゴロウ",
+    "name_en": "Mutsugorou",
+    "name_en_src": "ml",
+    "sort_order": 23051815
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「海産物ザックザク！干潟の珍騒動協力ミッション」の集計アイテム。該当イベントで入手できる。（集計は2023/5/25 12:00まで）",
+    "flavor_text_en": "“The seafood is crunchy! An aggregated item for “Tidal Flats: Rare Distress Cooperation Mission”. It can be obtained at the relevant event. (The tally is until 2023/5/25 12:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100865,
+    "id": 1100865,
+    "max_quantity": 99999999,
+    "name": "ワラスボ",
+    "name_en": "Wallasbo",
+    "name_en_src": "ml",
+    "sort_order": 23051820
   }
 ]

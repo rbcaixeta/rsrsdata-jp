@@ -18273,6 +18273,66 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始から数えて奇数ターン目の開始時]<br>自身のBPを回復する( +1 )<br>自身の体力・精神・愛・魅力を上昇させる( 効果小 )<br><br>[バトル開始から数えて偶数ターン目の開始時]<br>味方生存者全体のBPを回復する( +1 )<br>味方生存者全体の腕力・器用さ・素早さ・知力を上昇させる( 効果小 )",
+    "flavor_text_en": "<br><br><br><br>[At the start of an odd turn counting from the start of the battle] Recover your own BP (+1) Increase your <br><br>own physical strength, mentality, love, and appeal (low effect) [When the even-numbered turn starts when counting from the start of the battle] Recover the BP of all allied survivors (+1) Increase the strength, dexterity, quickness, and intelligence of all allied survivors (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101907,
+    "name": "海の宴",
+    "name_en": "Sea feast",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042176,
+      802042177
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[バトル開始から数えて奇数ターン目の開始時]<br>自身のBPを回復する( +1 )<br>自身の体力・精神・愛・魅力を上昇させる( 効果小 )",
+    "flavor_text_en": "<br><br>[Counting from the start of the battle and at the start of the odd turn] Recover your own BP (+1) Increase your own physical strength, mentality, love, and appeal (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101908,
+    "name": "奇数ターン開始時 BP回復・能力アップ",
+    "name_en": "BP recovers and ability increases at the beginning of an odd turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040812,
+      802042223,
+      802010855,
+      802010856,
+      802010857
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[バトル開始から数えて偶数ターン目の開始時]<br>味方生存者全体のBPを回復する( +1 )<br>味方生存者全体の腕力・器用さ・素早さ・知力を上昇させる( 効果小 )",
+    "flavor_text_en": "<br><br>[At the start of an even-numbered turn counting from the start of the battle] Recovers the BP of all allied survivors (+1) Increases the strength, dexterity, agility, and intelligence of all allied survivors (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101909,
+    "name": "偶数ターン開始時 BP回復・能力アップ",
+    "name_en": "BP recovers and ability increases at the start of even-numbered turns",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040745,
+      802042178,
+      802011672,
+      802011673,
+      802011674
+    ]
+  },
+  {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>味方生存者全体の混乱耐性と気絶耐性を上昇させる( 効果特大 )",
     "flavor_text_en": "[At the beginning of the turn] Increases the chaos resistance and stun resistance of all <br>allied survivors (very effective)",
@@ -18343,6 +18403,59 @@
     "sort_order": 0,
     "special_effect_ids": [
       802041741
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[攻撃を受けた時]<br>冷属性を含むダメージを無効化する<br><br>[ターン開始時] <br>自身に「<special_effect=800000225>エレメントガード(熱/中)</special_effect>」を付与する( 効果1ターン )<br>自身に「<special_effect=800000224>エレメントガード(陰/中)</special_effect>」を付与する( 効果1ターン )",
+    "flavor_text_en": "</special_effect></special_effect><br>[When attacked] <br>Invalidates damage including cold attributes <br><br>[At start of turn] Grant yourself “<special_effect=800000225> Element Guard (heat/medium)” (effect 1 turn) <br>“<special_effect=800000224> Element Guard (shade/medium)” to yourself Grants” (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101915,
+    "name": "メロウリングの加護",
+    "name_en": "Mellow Ring's Blessing",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042187,
+      802042190,
+      802042188
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「エレメントガード(陰/中)」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the start of a turn, grant yourself “Element Guard (Shadow/Medium)” (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101916,
+    "name": "ターン開始時 エレメントガード(陰/中)",
+    "name_en": "Element guard at start of turn (shade/medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042189
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「エレメントガード(熱/中)」を付与する( 効果1ターン )",
+    "flavor_text_en": "When a turn starts, grant yourself “Element Guard (Heat/Medium)” (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101917,
+    "name": "ターン開始時 エレメントガード(熱/中)",
+    "name_en": "Element guard at start of turn (heat/medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042191
     ]
   },
   {
@@ -18472,6 +18585,137 @@
     "sort_order": 0,
     "special_effect_ids": [
       802042200
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "Weak攻撃の、与ダメージが上昇する( 効果極大 )<br>かつ、Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )",
+    "flavor_text_en": "<br>Damage dealt by weak attacks increases (maximum effect), and when receiving a Resist attack, damage taken is reduced (maximum effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101925,
+    "name": "対抗集中Ⅴ",
+    "name_en": "Confrontation Concentration V",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040802,
+      802041212
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[突属性を含む攻撃時]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果中/効果2ターン )<br>自身の体力と素早さを上昇させる( 効果中 )<br><br>[冷属性を含む攻撃時]<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果2ターン )<br>自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "</special_effect></special_effect><br><br><br><br>[When attacking with sudden attributes] Grant <br>“<special_effect=800000001>Attack Enhancement” to yourself (in effect/ 2 turns of effect) Increase own health and agility (in effect) [During attacks that include cold attributes] Grant yourself “<special_effect=800000015>Defense Enhancement” <br>Do (in effect/effect for 2 turns) Recover your own HP (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101926,
+    "name": "干潟のどろんこ娘",
+    "name_en": "Dronko Musume of the Tidal Flats",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042201,
+      802042202,
+      802042308,
+      802011302,
+      802042236
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "「巻き打ち+」を命中させた時、「<skill=110200337>流し斬り+</skill>」が発動する<br>( 技Rank1で発動 )<br><br>攻撃命中時、自身のBPを回復する( +1 )",
+    "flavor_text_en": "</skill><br><br><br>When you hit “Winch +”, “<skill=110200337> Nagase Slash +” is activated (activated by move Rank1), and when an attack is hit, recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101936,
+    "name": "アバロンの守護者",
+    "name_en": "Avalon's Guardians",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042225,
+      802040742
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[味方が攻撃を受ける時]<br>味方への攻撃を身代わりで受け、被ダメージを軽減する( 確率大 )<br><br>[攻撃を受けた時]<br>味方生存者全体の体力・精神・魅力を上昇させる( 効果小 )",
+    "flavor_text_en": "<br><br><br>[When an ally is attacked] Take an attack on an <br>ally as a substitute and reduce damage taken (high probability) [When attacked] Increases the physical strength, mentality, and appeal of all allied survivors (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101938,
+    "name": "堅固の心得Ⅰ",
+    "name_en": "Tips for Sturdiness I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041000,
+      802042226
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃を受けた時]<br>味方生存者全体の体力・精神・魅力を上昇させる( 効果小 )",
+    "flavor_text_en": "[When attacked] Increases the physical strength, mentality, and appeal of all <br>allied survivors (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101939,
+    "name": "被弾時 体力・精神・魅力アップ",
+    "name_en": "Improves physical strength, mentality, and attractiveness when hit",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042274,
+      802042227,
+      802042300
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "熱属性を含む攻撃の与ダメージが上昇する( 効果超極大 )<br>味方全体への被ダメージを軽減する( 効果小 )<br><br>[バトル開始時] <br>味方生存者全体に「<special_effect=800000209>エレメントエンハンス(熱)</special_effect>」を付与する( 効果超極大 )",
+    "flavor_text_en": "</special_effect><br><br><br>Damage from attacks including heat attributes is increased (super extreme effect) Reduces damage taken <br>to all allies (low effect) [when battle starts] Gives “<special_effect=800000209> element enhancement (heat)” to all allied survivors (super extreme effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101940,
+    "name": "燃え盛る占術",
+    "name_en": "Burning fortune-telling",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042167,
+      802042230,
+      802041049
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "味方全体の突属性を含む攻撃の与ダメージが上昇する( 効果極大 )<br><br>[ターン終了時]<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "<br><br><br>Damage dealt to all allies, including sudden attributes, is increased (maximum effect) [At end of turn] Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101968,
+    "name": "突増練気Ⅰ",
+    "name_en": "Sudden Increase Nerinqi I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042283,
+      802040902
     ]
   },
   {
@@ -49472,6 +49716,24 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時] <br>敵生存者全体の体力・精神の能力アップ状態を解除する",
+    "flavor_text_en": "<br>[At the beginning of the turn] Unlock increased health and mental abilities for all enemy survivors",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300321,
+    "name": "能力浄化(体力・精神)",
+    "name_en": "Ability purification (physical strength/spirit)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040659,
+      808040521
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -51536,6 +51798,60 @@
     "special_effect_ids": [
       808010507,
       808010508
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象の愛と魅力を低下させる( 効果特大 )",
+    "flavor_text_en": "Reduces the target's love and appeal when an attack is hit (very effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 708600312,
+    "name": "好意減衰Ⅳ",
+    "name_en": "Attenuation of goodwill IV",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010661,
+      808010662
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、自身の腕力・素早さ・知力を上昇させる( 効果極小 )",
+    "flavor_text_en": "Increases own strength, agility, and intelligence when an attack is hit (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600313,
+    "name": "苛烈高揚Ⅰ",
+    "name_en": "Intense Exaltation I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010665,
+      808010666,
+      808010667
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象のODゲージを低下させる( 効果極小 )",
+    "flavor_text_en": "Lowers the target's OD gauge when an attack is hit (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708600314,
+    "name": "戦気弱体Ⅰ",
+    "name_en": "Weakened War I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050663
     ]
   },
   {

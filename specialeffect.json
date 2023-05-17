@@ -671,6 +671,29 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "被ダメージが上昇する(重複不可)",
+    "flavor_text_en": "Damage taken increases (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 800000038,
+    "ignition_effect_id": "",
+    "name": "ガードダウン(大)",
+    "name_en": "guard down (large)",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "斬属性を含む攻撃時、与えるダメージが上昇する(重複不可)",
     "flavor_text_en": "Damage dealt increases when attacking with slash attributes (cannot be duplicated)",
     "flavor_text_en_src": "ml",
@@ -3921,6 +3944,52 @@
     "ignition_effect_id": "",
     "name": "ダメージブロック(4回)",
     "name_en": "Damage block (4 times)",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "陰属性を含む攻撃を受けた時、被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases when receiving an attack that includes a shadow attribute (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 800000224,
+    "ignition_effect_id": "",
+    "name": "エレメントガード(陰/中)",
+    "name_en": "Element guard (shade/medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "熱属性を含む攻撃を受けた時、被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases when receiving attacks that include heat attributes (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 800000225,
+    "ignition_effect_id": "",
+    "name": "エレメントガード(熱/中)",
+    "name_en": "Element guard (heat/medium)",
     "name_en_src": "ml",
     "state_change_id": 900030001,
     "state_icon": 1031,
@@ -10476,6 +10545,52 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "腕力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon145100116",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect rises",
+    "flavor_text_en_src": "ml",
+    "id": 801011690,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon145200142",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 801011705,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -25850,7 +25965,7 @@
     "name": "HP満タン時回避",
     "name_en": "Avoid when HP is full",
     "name_en_src": "ml",
-    "state_change_id": 900040032,
+    "state_change_id": 900040080,
     "state_icon": 3001,
     "state_vars": [
     ],
@@ -25875,7 +25990,7 @@
     "name": "HP非満タン時回避(1回)",
     "name_en": "Dodge when HP is not full (1 time)",
     "name_en_src": "ml",
-    "state_change_id": 900040151,
+    "state_change_id": 900040221,
     "state_icon": 3001,
     "state_vars": [
     ],
@@ -26106,6 +26221,31 @@
   {
     "applying_effect_condition_ids": [
     ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon145200144",
+    "flavor_text": "冷属性を含むダメージを無効化する",
+    "flavor_text_en": "Disables damage, including cold attributes",
+    "flavor_text_en_src": "ml",
+    "id": 801041618,
+    "ignition_effect_id": "",
+    "name": "属性ダメージ無効(冷)",
+    "name_en": "Attribute damage disabled (cold)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 10,
+    "text_color": "FFFFFF",
+    "text_pop": "唐津スプラッシュオーシャン",
+    "triggering_effect_condition_ids": [
+      23005
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果中 )",
@@ -26274,6 +26414,80 @@
     "text_color": "65D2FF",
     "text_pop": "攻撃↑",
     "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon140200221",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 801041642,
+    "ignition_effect_id": "",
+    "name": "防御強化(特大)",
+    "name_en": "Defense Enhancement (Oversized)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      50
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 801041643,
+    "ignition_effect_id": "",
+    "name": "防御強化(中)",
+    "name_en": "Defense Enhancement (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      80
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "bishamon145100117",
+    "flavor_text": "熱属性を含む攻撃時、与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases when attacking with heat attributes",
+    "flavor_text_en_src": "ml",
+    "id": 801041645,
+    "ignition_effect_id": "",
+    "name": "エレメントエンハンス(熱)",
+    "name_en": "Element Enhancement (heat)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "熱攻撃↑",
+    "triggering_effect_condition_ids": [
+      22004
     ]
   },
   {
@@ -67470,6 +67684,101 @@
   },
   {
     "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "熱属性を含む攻撃のダメージが上昇する",
+    "flavor_text_en": "Damage from attacks that include heat attributes is increased",
+    "flavor_text_en_src": "ml",
+    "id": 802042167,
+    "ignition_effect_id": "",
+    "name": "熱攻撃強化",
+    "name_en": "Heat Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "熱攻撃↑",
+    "triggering_effect_condition_ids": [
+      22004
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[バトル開始から数えて奇数ターン目の開始時]<br>自身のBPを回復する( +1 )<br>自身の体力・精神・愛・魅力を上昇させる( 効果小 )",
+    "flavor_text_en": "<br><br>[Counting from the start of the battle and at the start of the odd turn] Recover your own BP (+1) Increase your own physical strength, mentality, love, and appeal (less effective)",
+    "flavor_text_en_src": "ml",
+    "id": 802042176,
+    "ignition_effect_id": "",
+    "name": "奇数ターン開始時 BP回復・能力アップ",
+    "name_en": "BP recovers and ability increases at the beginning of an odd turn",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101908
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[バトル開始から数えて偶数ターン目の開始時]<br>味方生存者全体のBPを回復する( +1 )<br>味方生存者全体の腕力・器用さ・素早さ・知力を上昇させる( 効果小 )",
+    "flavor_text_en": "<br><br>[At the start of an even-numbered turn counting from the start of the battle] Recovers the BP of all allied survivors (+1) Increases the strength, dexterity, agility, and intelligence of all allied survivors (less effective)",
+    "flavor_text_en_src": "ml",
+    "id": 802042177,
+    "ignition_effect_id": "",
+    "name": "偶数ターン開始時 BP回復・能力アップ",
+    "name_en": "BP recovers and ability increases at the start of even-numbered turns",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101909
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042178,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
       9,
       24509,
       24600
@@ -67624,6 +67933,129 @@
   {
     "applying_effect_condition_ids": [
     ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "冷属性を含むダメージを無効化する",
+    "flavor_text_en": "Disables damage, including cold attributes",
+    "flavor_text_en_src": "ml",
+    "id": 802042187,
+    "ignition_effect_id": "",
+    "name": "属性ダメージ無効(冷)",
+    "name_en": "Attribute damage disabled (cold)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      0
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      23005
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、自身に「<special_effect=800000224>エレメントガード(陰/中)</special_effect>」を付与する( 効果1ターン )",
+    "flavor_text_en": "When the turn starts, grant yourself “<special_effect=800000224></special_effect> Element Guard (shade/medium)” (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802042188,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 エレメントガード(陰/中)",
+    "name_en": "Element guard at start of turn (shade/medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101916
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "陰属性を含む攻撃を受けた時、被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases when receiving an attack that includes a shadow attribute (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802042189,
+    "ignition_effect_id": "",
+    "name": "エレメントガード(陰/中)",
+    "name_en": "Element guard (shade/medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040198,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "エレメントガード(陰)",
+    "triggering_effect_condition_ids": [
+      23008
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン開始時、自身に「<special_effect=800000225>エレメントガード(熱/中)</special_effect>」を付与する( 効果1ターン )",
+    "flavor_text_en": "When the turn starts, grant yourself “<special_effect=800000225></special_effect> Element Guard (heat/medium)” (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "id": 802042190,
+    "ignition_effect_id": "",
+    "name": "ターン開始時 エレメントガード(熱/中)",
+    "name_en": "Element guard at start of turn (heat/medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101917
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "熱属性を含む攻撃を受けた時、被ダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage taken decreases when receiving attacks that include heat attributes (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 802042191,
+    "ignition_effect_id": "",
+    "name": "エレメントガード(熱/中)",
+    "name_en": "Element guard (heat/medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040220,
+    "state_icon": 3001,
+    "state_vars": [
+      75
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "エレメントガード(熱)",
+    "triggering_effect_condition_ids": [
+      23004
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
     "display_flag": 1,
     "enchantment_effect_id": "",
     "flavor_text": "攻撃命中時、HPが満タンではない場合、<br>自身の素早さ・知力・愛・魅力を上昇させる( 効果中 )",
@@ -67722,6 +68154,55 @@
   },
   {
     "applying_effect_condition_ids": [
+      22011
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042201,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(中)",
+    "name_en": "Attack Boost (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      22011
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Physical strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042202,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Increased physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "体力 素早さ↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
       24408
     ],
     "display_flag": 1,
@@ -67799,6 +68280,29 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Physical strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042223,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Increased physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "Debuff",
     "flavor_text": "与えるダメージが低下する(重複不可)",
     "flavor_text_en": "Damage dealt is reduced (cannot be duplicated)",
@@ -67815,6 +68319,250 @@
     "target_area": 5,
     "text_color": "FF0000",
     "text_pop": "攻撃↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技・術2を命中させた時、流し斬り+が発動する",
+    "flavor_text_en": "When you hit Move or Jutsu 2, Nagashi Slashir+ is activated",
+    "flavor_text_en_src": "ml",
+    "id": 802042225,
+    "ignition_effect_id": "",
+    "name": "アバロンの守護者",
+    "name_en": "Avalon's Guardians",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110200337
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[攻撃を受けた時]<br>味方生存者全体の体力・精神・魅力を上昇させる( 効果小 )",
+    "flavor_text_en": "[When attacked] Increases the physical strength, mentality, and appeal of all <br>allied survivors (less effective)",
+    "flavor_text_en_src": "ml",
+    "id": 802042226,
+    "ignition_effect_id": "",
+    "name": "被弾時 体力・精神・魅力アップ",
+    "name_en": "Improves physical strength, mentality, and attractiveness when hit",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101939
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24407
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "精神が上昇する",
+    "flavor_text_en": "The spirit rises",
+    "flavor_text_en_src": "ml",
+    "id": 802042227,
+    "ignition_effect_id": "",
+    "name": "精神アップ",
+    "name_en": "Improve your mind",
+    "name_en_src": "ml",
+    "state_change_id": 900010017,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "熱属性を含む攻撃時、与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases when attacking with heat attributes",
+    "flavor_text_en_src": "ml",
+    "id": 802042230,
+    "ignition_effect_id": "",
+    "name": "エレメントエンハンス(熱)",
+    "name_en": "Element Enhancement (heat)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "熱攻撃↑",
+    "triggering_effect_condition_ids": [
+      22004
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      22013
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802042236,
+    "ignition_effect_id": "",
+    "name": "防御強化(中)",
+    "name_en": "Defense Enhancement (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      80
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24407
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Physical strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042274,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Increased physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "能力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "行動順補正値が上昇する( 効果特大 )",
+    "flavor_text_en": "Action order correction values increase (very effective)",
+    "flavor_text_en_src": "ml",
+    "id": 802042282,
+    "ignition_effect_id": "",
+    "name": "行動順補正上昇(特大)",
+    "name_en": "Action order correction increase (oversized)",
+    "name_en_src": "ml",
+    "state_change_id": 900040109,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "行動順補正↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "突属性を含む攻撃時、与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases during attacks that include sudden attributes",
+    "flavor_text_en_src": "ml",
+    "id": 802042283,
+    "ignition_effect_id": "",
+    "name": "突攻撃強化",
+    "name_en": "Assault Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      22003
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24407
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が上昇する",
+    "flavor_text_en": "Attractiveness rises",
+    "flavor_text_en_src": "ml",
+    "id": 802042300,
+    "ignition_effect_id": "",
+    "name": "魅力アップ",
+    "name_en": "Increased attractiveness",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      22011
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042308,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -82171,6 +82919,126 @@
   },
   {
     "applying_effect_condition_ids": [
+      4
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "愛が低下する",
+    "flavor_text_en": "Love declines",
+    "flavor_text_en_src": "ml",
+    "id": 808010661,
+    "ignition_effect_id": "",
+    "name": "愛ダウン",
+    "name_en": "Love down",
+    "name_en_src": "ml",
+    "state_change_id": 900010018,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "愛 魅力↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      4
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "魅力が低下する",
+    "flavor_text_en": "Attractiveness declines",
+    "flavor_text_en_src": "ml",
+    "id": 808010662,
+    "ignition_effect_id": "",
+    "name": "魅力ダウン",
+    "name_en": "Decreased attractiveness",
+    "name_en_src": "ml",
+    "state_change_id": 900010019,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      4
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010665,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力 素早さ 知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      4
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 808010666,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      4
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect rises",
+    "flavor_text_en_src": "ml",
+    "id": 808010667,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
@@ -87541,6 +88409,30 @@
   },
   {
     "applying_effect_condition_ids": [
+      4
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "ODゲージが低下する",
+    "flavor_text_en": "OD gauge drops",
+    "flavor_text_en_src": "ml",
+    "id": 808050663,
+    "ignition_effect_id": "",
+    "name": "ODゲージダウン",
+    "name_en": "OD gauge down",
+    "name_en_src": "ml",
+    "state_change_id": 900050156,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FFFFFF",
+    "text_pop": "ODゲージ↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
@@ -91264,6 +92156,75 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 809010850,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "腕力 素早さ 知力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "素早さが上昇する",
+    "flavor_text_en": "Agility increases",
+    "flavor_text_en_src": "ml",
+    "id": 809010851,
+    "ignition_effect_id": "",
+    "name": "素早さアップ",
+    "name_en": "Increased agility",
+    "name_en_src": "ml",
+    "state_change_id": 900010015,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "知力が上昇する",
+    "flavor_text_en": "Intellect rises",
+    "flavor_text_en_src": "ml",
+    "id": 809010852,
+    "ignition_effect_id": "",
+    "name": "知力アップ",
+    "name_en": "Improve intelligence",
+    "name_en_src": "ml",
+    "state_change_id": 900010016,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -99739,6 +100700,29 @@
   {
     "applying_effect_condition_ids": [
     ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "与えるダメージが低下する(重複不可)",
+    "flavor_text_en": "Damage dealt is reduced (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 809040846,
+    "ignition_effect_id": "",
+    "name": "モラルダウン(小)",
+    "name_en": "moral down (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040114,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "攻撃↓",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "行動不能状態。HP回復で復帰可能。LPがなくなると戦線復帰できなくなる",
@@ -99756,6 +100740,29 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "被ダメージが上昇する(重複不可)",
+    "flavor_text_en": "Damage taken increases (cannot be duplicated)",
+    "flavor_text_en_src": "ml",
+    "id": 809040848,
+    "ignition_effect_id": "",
+    "name": "ガードダウン(大)",
+    "name_en": "guard down (large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040152,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 8,
+    "text_color": "FF0000",
+    "text_pop": "防御↓",
     "triggering_effect_condition_ids": [
     ]
   },

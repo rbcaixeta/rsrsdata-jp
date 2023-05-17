@@ -3870,7 +3870,7 @@
     "start_at": 1683658800
   },
   {
-    "end_at": 1684436399,
+    "end_at": 1684983599,
     "id": 402,
     "is_pierceily": 0,
     "name": "Romancing佐賀ゴールデンツアー-わいわい漫遊-",
@@ -3888,5 +3888,25 @@
     "name_en_src": "ml",
     "priority": 12887,
     "start_at": 1682650800
+  },
+  {
+    "end_at": 1684954799,
+    "id": 404,
+    "is_pierceily": 1,
+    "name": "Romancing佐賀ゴールデンツアー2023！第3弾デイリーミッション",
+    "name_en": "Romancing Saga Golden Tour 2023! Vol.3 Daily Missions",
+    "name_en_src": "ml",
+    "priority": 13330,
+    "start_at": 1684436400
+  },
+  {
+    "end_at": 1684983599,
+    "id": 405,
+    "is_pierceily": 0,
+    "name": "海産物ザックザク！干潟の珍騒動",
+    "name_en": "Seafood crunchy! The rare incident on the tidal flats",
+    "name_en_src": "ml",
+    "priority": 13320,
+    "start_at": 1684378800
   }
 ]
