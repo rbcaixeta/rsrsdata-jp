@@ -3432,6 +3432,19 @@
     "sort_order": 23051855
   },
   {
+    "expired_at": 1687460399,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800267,
+    "id": 800267,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・115",
+    "name_en": "Romancing festival medal 115",
+    "name_en_src": "ml",
+    "sort_order": 23052560
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -3547,6 +3560,19 @@
     "name_en": "Equipment Medal",
     "name_en_src": "gl",
     "sort_order": 49999700
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「ロマンシングショップ」でアイテムと交換できる。",
+    "flavor_text_en": "You can exchange them for items at the “Romancing Shop.”",
+    "flavor_text_en_src": "ml",
+    "icon": 860015,
+    "id": 860015,
+    "max_quantity": 99999999,
+    "name": "ロマンシングメダル",
+    "name_en": "romancing medals",
+    "name_en_src": "ml",
+    "sort_order": 49999500
   },
   {
     "expired_at": 0,
@@ -11607,5 +11633,44 @@
     "name_en": "Wallasbo",
     "name_en_src": "ml",
     "sort_order": 23051820
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100869,
+    "id": 1100869,
+    "max_quantity": 99999999,
+    "name": "薔薇のコサージュ",
+    "name_en": "rose corsage",
+    "name_en_src": "ml",
+    "sort_order": 23052527
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100870,
+    "id": 1100870,
+    "max_quantity": 99999999,
+    "name": "ラグジュアリードリンク",
+    "name_en": "LUXURY DRINKS",
+    "name_en_src": "ml",
+    "sort_order": 23052525
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当ミッションで入手できるアイテム。獲得することで2023/5/25からの「4.5億ジュエル山分け」に参加する。",
+    "flavor_text_en": "Items that can be obtained in the corresponding missions. By acquiring it, they will participate in the “450 Million Jewel Mountain Divide” from 2023/5/25.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100876,
+    "id": 1100876,
+    "max_quantity": 1,
+    "name": "4.5周年記念山分けトロフィー",
+    "name_en": "4.5th Anniversary Mountain Sharing Trophy",
+    "name_en_src": "ml",
+    "sort_order": 23052535
   }
 ]

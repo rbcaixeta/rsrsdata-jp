@@ -3960,6 +3960,29 @@
     ],
     "display_flag": 0,
     "enchantment_effect_id": "",
+    "flavor_text": "[ターン開始時]<br>自身を「<special_effect=800000073>挑発</special_effect>」状態にする( 効果小/効果2ターン )<br>自身以外の味方生存者全体を「<special_effect=800000074>ステルス</special_effect>」状態にする( 効果小/効果2ターン )",
+    "flavor_text_en": "</special_effect></special_effect><br>[At the start of turn] Put <br>yourself in a “<special_effect=800000073> provocation” state (low effect/effect 2 turns) Set all allied survivors other than yourself to a “<special_effect=800000074> stealth” state (low effect/effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "id": 800000222,
+    "ignition_effect_id": "",
+    "name": "フォーマルスタンス",
+    "name_en": "formal stance",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
     "flavor_text": "陰属性を含む攻撃を受けた時、被ダメージが低下する(重複不可)",
     "flavor_text_en": "Damage taken decreases when receiving an attack that includes a shadow attribute (cannot be duplicated)",
     "flavor_text_en_src": "ml",
@@ -4013,6 +4036,75 @@
     "ignition_effect_id": "",
     "name": "進撃の波動(4回)",
     "name_en": "Attack on Titan (4 times)",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )させ、かつ、自身のBPを回復( +1 )する",
+    "flavor_text_en": "[At end of turn] There <br>is a certain chance (during probability) that your <br>own HP will be recovered (less effective), and your own BP will be restored (+1)",
+    "flavor_text_en_src": "ml",
+    "id": 800000231,
+    "ignition_effect_id": "",
+    "name": "練気再生Ⅰ",
+    "name_en": "Aerobic Regeneration I",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃(※)を発動後、「<skill=110300254>ヨーヨー+</skill>」が発動する<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</skill><br><br>After the attack (*) is activated, “<skill=110300254>yoyo+” is activated (activated by move Rank1) ※ “techniques and techniques activated by the effects of special states” and “counterattack techniques and techniques due to counter effects” are not included",
+    "flavor_text_en_src": "ml",
+    "id": 800000232,
+    "ignition_effect_id": "",
+    "name": "連鎖撃(ヨーヨー+)",
+    "name_en": "Chain Strike (yoyo+)",
+    "name_en_src": "ml",
+    "state_change_id": 900030001,
+    "state_icon": 1031,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Recover your own BP at the end of the turn (+2)",
+    "flavor_text_en_src": "ml",
+    "id": 800000233,
+    "ignition_effect_id": "",
+    "name": "ターン終了時BP回復(+2)",
+    "name_en": "BP recovery at end of turn (+2)",
     "name_en_src": "ml",
     "state_change_id": 900030001,
     "state_icon": 1031,
@@ -10545,6 +10637,29 @@
     "target_area": 1,
     "text_color": "65D2FF",
     "text_pop": "腕力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Debuff",
+    "flavor_text": "体力が低下する",
+    "flavor_text_en": "Physical strength declines",
+    "flavor_text_en_src": "ml",
+    "id": 801011681,
+    "ignition_effect_id": "",
+    "name": "体力ダウン",
+    "name_en": "Decreased physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2002,
+    "state_vars": [
+    ],
+    "target_area": 10,
+    "text_color": "FF0000",
+    "text_pop": "体力↓",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -26420,6 +26535,30 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "ターン終了時、自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "At the end of the turn, restore your own HP (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "id": 801041641,
+    "ignition_effect_id": "",
+    "name": "ターン終了時HP回復(極小)",
+    "name_en": "HP recovery at end of turn (minimal)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101930
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "スターリィストライク",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "bishamon140200221",
     "flavor_text": "被ダメージが低下する",
     "flavor_text_en": "Damage taken decreases",
@@ -26567,6 +26706,132 @@
     "applying_effect_condition_ids": [
     ],
     "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )させ、かつ、自身のBPを回復( +1 )する",
+    "flavor_text_en": "[At end of turn] There <br>is a certain chance (during probability) that your <br>own HP will be recovered (less effective), and your own BP will be restored (+1)",
+    "flavor_text_en_src": "ml",
+    "id": 801041658,
+    "ignition_effect_id": "",
+    "name": "練気再生Ⅰ",
+    "name_en": "Aerobic Regeneration I",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101223
+    ],
+    "target_area": 12,
+    "text_color": "FFFFFF",
+    "text_pop": "練気再生",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "ターン終了時、自身のBPを回復する( +2 )",
+    "flavor_text_en": "Recover your own BP at the end of the turn (+2)",
+    "flavor_text_en_src": "ml",
+    "id": 801041659,
+    "ignition_effect_id": "",
+    "name": "ターン終了時BP回復(+2)",
+    "name_en": "BP recovery at end of turn (+2)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101958
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "ターン終了時BP回復",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "攻撃を発動後、「<skill=110300254>ヨーヨー+</skill>」が発動する",
+    "flavor_text_en": "After activating the attack, “<skill=110300254>yoyo+” is</skill> activated",
+    "flavor_text_en_src": "ml",
+    "id": 801041660,
+    "ignition_effect_id": "",
+    "name": "連鎖撃(ヨーヨー+)",
+    "name_en": "Chain Strike (yoyo+)",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3001,
+    "state_vars": [
+      702101959
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "連鎖撃",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24508,
+      24408,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "技1・技2・技3のいずれかを発動後、ヨーヨー+で攻撃を行う",
+    "flavor_text_en": "Activate any of Move 1, Move 2, or Move 3, then perform an attack with yoyo+",
+    "flavor_text_en_src": "ml",
+    "id": 801041661,
+    "ignition_effect_id": "",
+    "name": "連鎖撃(ヨーヨー+)",
+    "name_en": "Chain Strike (yoyo+)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110300254
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24507,
+      24408,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技を発動後、ヨーヨー+で攻撃を行う",
+    "flavor_text_en": "Activate an Inheritance Move and then attack with Yoyo+",
+    "flavor_text_en_src": "ml",
+    "id": 801041662,
+    "ignition_effect_id": "",
+    "name": "連鎖撃(ヨーヨー+)",
+    "name_en": "Chain Strike (yoyo+)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110300254
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
     "enchantment_effect_id": "bishamon140400119",
     "flavor_text": "HPを回復する",
     "flavor_text_en": "Recover your HP",
@@ -26610,6 +26875,57 @@
     "text_pop": "防御↑",
     "triggering_effect_condition_ids": [
       14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24506,
+      24408,
+      24600
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を発動後、ヨーヨー+で攻撃を行う",
+    "flavor_text_en": "Activate a normal attack, then perform an attack with yoyo+",
+    "flavor_text_en_src": "ml",
+    "id": 801041669,
+    "ignition_effect_id": "",
+    "name": "連鎖撃(ヨーヨー+)",
+    "name_en": "Chain Strike (yoyo+)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110300254
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "BPが回復する",
+    "flavor_text_en": "BP recovers",
+    "flavor_text_en_src": "ml",
+    "id": 801041693,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      4
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
     ]
   },
   {
@@ -35630,6 +35946,54 @@
     "target_area": 1,
     "text_color": "",
     "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24408
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "体力が上昇する",
+    "flavor_text_en": "Physical strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 802012218,
+    "ignition_effect_id": "",
+    "name": "体力アップ",
+    "name_en": "Increased physical strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010013,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "体力↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24407
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "腕力が上昇する",
+    "flavor_text_en": "Strength increases",
+    "flavor_text_en_src": "ml",
+    "id": 802012221,
+    "ignition_effect_id": "",
+    "name": "腕力アップ",
+    "name_en": "Increase strength",
+    "name_en_src": "ml",
+    "state_change_id": 900010012,
+    "state_icon": 2001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "腕力↑",
     "triggering_effect_condition_ids": [
     ]
   },
@@ -65684,6 +66048,30 @@
   },
   {
     "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "斧装備時の攻撃のダメージが上昇する",
+    "flavor_text_en": "Attack damage is increased when equipped with an axe",
+    "flavor_text_en_src": "ml",
+    "id": 802042003,
+    "ignition_effect_id": "",
+    "name": "斧攻撃強化",
+    "name_en": "Axe Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      21003
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
       24408
     ],
     "display_flag": 1,
@@ -68255,6 +68643,152 @@
   {
     "applying_effect_condition_ids": [
     ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "[ターン開始時]<br>自身を「<special_effect=800000073>挑発</special_effect>」状態にする( 効果小/効果2ターン )<br>自身以外の味方生存者全体を「<special_effect=800000074>ステルス</special_effect>」状態にする( 効果小/効果2ターン )",
+    "flavor_text_en": "</special_effect></special_effect><br>[At the start of turn] Put <br>yourself in a “<special_effect=800000073> provocation” state (low effect/effect 2 turns) Set all allied survivors other than yourself to a “<special_effect=800000074> stealth” state (low effect/effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "id": 802042210,
+    "ignition_effect_id": "",
+    "name": "フォーマルスタンス",
+    "name_en": "formal stance",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101932
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "フォーマルスタンス",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "敵の直接攻撃に対して、「<skill=110100327>スターラッシュ+</skill>」でカウンター攻撃を行う<br>さらに被ダメージが低下する",
+    "flavor_text_en": "</skill><br>In response to an enemy's direct attack, perform a counter attack with “<skill=110100327>Starrush +” and damage taken is further reduced",
+    "flavor_text_en_src": "ml",
+    "id": 802042213,
+    "ignition_effect_id": "",
+    "name": "フォーマルフォーム",
+    "name_en": "formal form",
+    "name_en_src": "ml",
+    "state_change_id": 900040035,
+    "state_icon": 3001,
+    "state_vars": [
+      110100327,
+      65
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Plane",
+    "flavor_text": "狙われやすさが上昇する",
+    "flavor_text_en": "The ease of being targeted increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042215,
+    "ignition_effect_id": "",
+    "name": "挑発(小)",
+    "name_en": "Provocation (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040047,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "挑発",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Plane",
+    "flavor_text": "狙われやすさが低下する",
+    "flavor_text_en": "The ease of being targeted decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802042216,
+    "ignition_effect_id": "",
+    "name": "ステルス(小)",
+    "name_en": "stealth (small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040047,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 12,
+    "text_color": "FFFFFF",
+    "text_pop": "ステルス",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24408
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802042217,
+    "ignition_effect_id": "",
+    "name": "防御強化(中)",
+    "name_en": "Defense Enhancement (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      80
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24407
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042220,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(大)",
+    "name_en": "Attack Boost (Large)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑ ",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
     "display_flag": 0,
     "enchantment_effect_id": "",
     "flavor_text": "[ターン開始時] <br>自身を「<special_effect=800000074>ステルス</special_effect>」状態にする( 効果中/効果1ターン )",
@@ -68474,6 +69008,156 @@
   {
     "applying_effect_condition_ids": [
     ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[自身以外の味方生存者が攻撃を受けた時(※)]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果中/効果2ターン )<br>※発動回数は攻撃を受けた人数によらない",
+    "flavor_text_en": "</special_effect><br>[When an allied survivor other than yourself is attacked (*)] Grant “<special_effect=800000001>Attack Boost” to <br>yourself (in effect/2 turns of effect) *The number of activations does not depend on the number of people attacked",
+    "flavor_text_en_src": "ml",
+    "id": 802042276,
+    "ignition_effect_id": "",
+    "name": "味方被弾時 攻撃強化",
+    "name_en": "Attack enhancement when an ally is hit",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101961
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      17
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042277,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(中)",
+    "name_en": "Attack Boost (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑ ",
+    "triggering_effect_condition_ids": [
+      4
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24506,
+      24408,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を使用した時、 ウィークネス+、ブラックパールが順に発動する",
+    "flavor_text_en": "When using a normal attack, Weakeness+ and Black Pearl are activated in order",
+    "flavor_text_en_src": "ml",
+    "id": 802042278,
+    "ignition_effect_id": "",
+    "name": "血の饗宴",
+    "name_en": "Feast of Blood",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125600313
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "血の饗宴",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[直接攻撃時]<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」( 効果中/効果2ターン )を付与する( 確率特大 )<br><br>[間接攻撃時]<br>味方生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」( 効果中/効果2ターン )を付与する( 確率特大 )",
+    "flavor_text_en": "</special_effect></special_effect><br><br><br>[When attacking directly] Grant “<br><special_effect=800000015>Defense Enhancement” (in effect/ 2 turns of effect) to all allied survivors (high probability) [During indirect attacks] Grant “<special_effect=800000001> Attack Enhancement” (in effect/2 turns of effect) (high probability)",
+    "flavor_text_en_src": "ml",
+    "id": 802042279,
+    "ignition_effect_id": "",
+    "name": "直接攻撃時 防御強化・間接攻撃時 攻撃強化",
+    "name_en": "Strengthen defense during direct attack/strengthen attack during indirect attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101964
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      50504
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "与えるダメージが上昇する",
+    "flavor_text_en": "Damage dealt increases",
+    "flavor_text_en_src": "ml",
+    "id": 802042280,
+    "ignition_effect_id": "",
+    "name": "攻撃強化(中)",
+    "name_en": "Attack Boost (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "攻撃↑",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      50503
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802042281,
+    "ignition_effect_id": "",
+    "name": "防御強化(中)",
+    "name_en": "Defense Enhancement (Medium)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      85
+    ],
+    "target_area": 3,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
     "display_flag": 1,
     "enchantment_effect_id": "Buff",
     "flavor_text": "行動順補正値が上昇する( 効果特大 )",
@@ -68520,6 +69204,160 @@
   },
   {
     "applying_effect_condition_ids": [
+      24508,
+      24510,
+      24408,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "全体攻撃で技1・技2・技3のいずれかを発動後、クラック+で攻撃を行う",
+    "flavor_text_en": "Activate any of Move 1, Move 2, or Move 3 in an overall attack, then perform an attack with Crack +",
+    "flavor_text_en_src": "ml",
+    "id": 802042284,
+    "ignition_effect_id": "",
+    "name": "全体攻撃時 追加攻撃",
+    "name_en": "Additional attacks during all-out attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125300216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "パラダイムシフト",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24508,
+      24504,
+      24408,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "単体攻撃で技1・技2・技3のいずれかを発動後、ヘヴィパイクで攻撃を行う",
+    "flavor_text_en": "Activate either move 1, move 2, or move 3 in a single attack, then perform an attack with Heavy Pike",
+    "flavor_text_en_src": "ml",
+    "id": 802042285,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking alone",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110800321
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "パラダイムシフト",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "全体攻撃を発動後、「<skill=125300216>クラック+</skill>」が発動する",
+    "flavor_text_en": "After triggering an overall attack, “<skill=125300216>crack +” is activated</skill>",
+    "flavor_text_en_src": "ml",
+    "id": 802042288,
+    "ignition_effect_id": "",
+    "name": "全体攻撃時 追加攻撃",
+    "name_en": "Additional attacks during all-out attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101966
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "全体攻撃のダメージが上昇する",
+    "flavor_text_en": "Increases overall attack damage",
+    "flavor_text_en_src": "ml",
+    "id": 802042297,
+    "ignition_effect_id": "",
+    "name": "全体攻撃強化",
+    "name_en": "Overall Attack Enhancement",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "全体攻撃↑",
+    "triggering_effect_condition_ids": [
+      25
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "[単体攻撃時]<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果小/効果2ターン )<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "</special_effect><br>[When attacking alone] Give yourself <br>“<special_effect=800000015>Defense Boost” (low effect/ 2 turns of effect) Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "id": 802042298,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 防御強化・BP回復",
+    "name_en": "Defense enhancement/BP recovery during single attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101973
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24504
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802042299,
+    "ignition_effect_id": "",
+    "name": "防御強化(小)",
+    "name_en": "Defense Boost (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
       24407
     ],
     "display_flag": 0,
@@ -68544,6 +69382,80 @@
   },
   {
     "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "単体攻撃を発動後、「<skill=110800321>ヘヴィパイク</skill>」が発動する",
+    "flavor_text_en": "After activating a single attack, “<skill=110800321> Heavy Pike” is activated</skill>",
+    "flavor_text_en_src": "ml",
+    "id": 802042301,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking alone",
+    "name_en_src": "ml",
+    "state_change_id": 900050113,
+    "state_icon": 3003,
+    "state_vars": [
+      702101967
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24504
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Your BP will recover",
+    "flavor_text_en_src": "ml",
+    "id": 802042302,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      1
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24506
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "攻撃時、BPが回復する",
+    "flavor_text_en": "When attacking, BP recovers",
+    "flavor_text_en_src": "ml",
+    "id": 802042307,
+    "ignition_effect_id": "",
+    "name": "攻撃時BP回復",
+    "name_en": "BP recovery during attack",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      2
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
       22011
     ],
     "display_flag": 0,
@@ -68559,6 +69471,221 @@
     "state_change_id": 900010015,
     "state_icon": 2001,
     "state_vars": [
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24506,
+      24504,
+      24408,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "通常攻撃を発動後、ヘヴィパイクで攻撃を行う",
+    "flavor_text_en": "Activate a normal attack, then perform an attack with Heavy Pike",
+    "flavor_text_en_src": "ml",
+    "id": 802042311,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking alone",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110800321
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "パラダイムシフト",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24507,
+      24510,
+      24408,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵全体)を発動後、クラック+で攻撃を行う",
+    "flavor_text_en": "Activate Succession Skills (all enemies) and then attack with Crack +",
+    "flavor_text_en_src": "ml",
+    "id": 802042312,
+    "ignition_effect_id": "",
+    "name": "全体攻撃時 追加攻撃",
+    "name_en": "Additional attacks during all-out attacks",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      125300216
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "パラダイムシフト",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24507,
+      24504,
+      24408,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵単体)を発動後、ヘヴィパイクで攻撃を行う",
+    "flavor_text_en": "Activate the succession move (single enemy) and then attack with Heavy Pike",
+    "flavor_text_en_src": "ml",
+    "id": 802042313,
+    "ignition_effect_id": "",
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking alone",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110800321
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "パラダイムシフト",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24508,
+      24505,
+      24408,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "単体攻撃(敵ランダム)で技1・技2・技3のいずれかを発動後、ヘヴィパイクで攻撃を行う",
+    "flavor_text_en": "Activate either move 1, move 2, or move 3 in a single attack (enemy random), then perform an attack with Heavy Pike",
+    "flavor_text_en_src": "ml",
+    "id": 802042363,
+    "ignition_effect_id": "",
+    "name": "単体攻撃(敵ランダム)時 追加攻撃",
+    "name_en": "Additional attack during a single attack (random enemy)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110800321
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "パラダイムシフト",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24507,
+      24505,
+      24408,
+      24600
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "",
+    "flavor_text": "継承技(敵ランダム)を発動後、ヘヴィパイクで攻撃を行う",
+    "flavor_text_en": "Activate a succession move (random enemy) and then attack with Heavy Pike",
+    "flavor_text_en_src": "ml",
+    "id": 802042364,
+    "ignition_effect_id": "",
+    "name": "単体攻撃(敵ランダム)時 追加攻撃",
+    "name_en": "Additional attack during a single attack (random enemy)",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110800321
+    ],
+    "target_area": 1,
+    "text_color": "FFFFFF",
+    "text_pop": "パラダイムシフト",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24505
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "被ダメージが低下する",
+    "flavor_text_en": "Damage taken decreases",
+    "flavor_text_en_src": "ml",
+    "id": 802042365,
+    "ignition_effect_id": "",
+    "name": "防御強化(小)",
+    "name_en": "Defense Boost (Small)",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 1,
+    "text_color": "65D2FF",
+    "text_pop": "防御↑",
+    "triggering_effect_condition_ids": [
+      14
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+      24505
+    ],
+    "display_flag": 1,
+    "enchantment_effect_id": "Heal",
+    "flavor_text": "自身のBPが回復する",
+    "flavor_text_en": "Your BP will recover",
+    "flavor_text_en_src": "ml",
+    "id": 802042366,
+    "ignition_effect_id": "",
+    "name": "BP回復",
+    "name_en": "BP recovery",
+    "name_en_src": "ml",
+    "state_change_id": 900050055,
+    "state_icon": 3001,
+    "state_vars": [
+      1
+    ],
+    "target_area": 1,
+    "text_color": "5BFF24",
+    "text_pop": "BP+",
+    "triggering_effect_condition_ids": [
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "血の饗宴で発動したウィークネス+で攻撃後、ブラックパールで攻撃を行う",
+    "flavor_text_en": "Attack with Weakness+ activated in Feast of Blood, then perform an attack with Black Pearl",
+    "flavor_text_en_src": "ml",
+    "id": 802042420,
+    "ignition_effect_id": "",
+    "name": "血の饗宴",
+    "name_en": "Feast of Blood",
+    "name_en_src": "ml",
+    "state_change_id": 900050073,
+    "state_icon": 3001,
+    "state_vars": [
+      110500442
     ],
     "target_area": 1,
     "text_color": "",
@@ -111589,6 +112716,177 @@
   },
   {
     "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "斬打突属性のいずれかを含むダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage involving any slash attribute by 10%",
+    "flavor_text_en_src": "ml",
+    "id": 842040986,
+    "ignition_effect_id": "",
+    "name": "斬打突属性ダメージ軽減",
+    "name_en": "Slash attribute damage reduction",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      23037
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "熱陽属性のいずれかを含むダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage involving any of the Atsuyo attributes by 10%",
+    "flavor_text_en_src": "ml",
+    "id": 842040987,
+    "ignition_effect_id": "",
+    "name": "熱陽属性ダメージ軽減",
+    "name_en": "Thermal sun damage reduction",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      23029
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "冷雷陰属性のいずれかを含むダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage involving any of the Cold Thunder attributes by 10%",
+    "flavor_text_en_src": "ml",
+    "id": 842040988,
+    "ignition_effect_id": "",
+    "name": "冷雷陰属性ダメージ軽減",
+    "name_en": "Cold thunder attribute damage reduction",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      90
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      23038
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "冷雷陰属性のいずれかで敵を攻撃時 敵に与えるダメージが10%上昇する",
+    "flavor_text_en": "Damage dealt to an enemy when attacking an enemy with any of the Cold Thunder attributes is increased by 10%",
+    "flavor_text_en_src": "ml",
+    "id": 842040990,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(冷雷陰)",
+    "name_en": "Increased damage (cold thunder shade)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      22017
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "冷雷陰属性のいずれかで敵を攻撃時 敵に与えるダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt to an enemy when attacking an enemy with any of the Cold Thunder attributes is increased by 15%",
+    "flavor_text_en_src": "ml",
+    "id": 842040991,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(冷雷陰)",
+    "name_en": "Increased damage (cold thunder shade)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      22017
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "熱陽属性のいずれかで敵を攻撃時 敵に与えるダメージが10%上昇する",
+    "flavor_text_en": "Damage dealt to an enemy when attacking an enemy with one of the Atsuyo attributes is increased by 10%",
+    "flavor_text_en_src": "ml",
+    "id": 842040992,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(熱陽)",
+    "name_en": "Damage increase (hot sun)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      22018
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "Buff",
+    "flavor_text": "熱陽属性のいずれかで敵を攻撃時 敵に与えるダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt to an enemy when attacking an enemy with one of the Atsuyo attributes is increased by 15%",
+    "flavor_text_en_src": "ml",
+    "id": 842040993,
+    "ignition_effect_id": "",
+    "name": "ダメージアップ(熱陽)",
+    "name_en": "Damage increase (hot sun)",
+    "name_en_src": "ml",
+    "state_change_id": 900040048,
+    "state_icon": 3001,
+    "state_vars": [
+    ],
+    "target_area": 3,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      22018
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
       8024001
     ],
     "display_flag": 0,
@@ -117806,6 +119104,31 @@
     "text_pop": "",
     "triggering_effect_condition_ids": [
       12
+    ]
+  },
+  {
+    "applying_effect_condition_ids": [
+    ],
+    "display_flag": 0,
+    "enchantment_effect_id": "",
+    "flavor_text": "熱冷雷陽陰属性のいずれかを含むダメージを30%軽減する",
+    "flavor_text_en": "Reduces damage involving either of the Hot Cold Thunder or Yin attributes by 30%",
+    "flavor_text_en_src": "ml",
+    "id": 843040038,
+    "ignition_effect_id": "",
+    "name": "熱冷雷陽陰防+",
+    "name_en": "Hot cold thunder sun shining defense+",
+    "name_en_src": "ml",
+    "state_change_id": 900040062,
+    "state_icon": 3001,
+    "state_vars": [
+      70
+    ],
+    "target_area": 1,
+    "text_color": "",
+    "text_pop": "",
+    "triggering_effect_condition_ids": [
+      23039
     ]
   },
   {

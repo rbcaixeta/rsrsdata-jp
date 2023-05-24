@@ -16887,6 +16887,24 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "斧装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "<br>When equipped with an axe, damage from attacks increases (maximum effect) Reduces damage taken when attacked (extremely effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101795,
+    "name": "斧の極み",
+    "name_en": "The ultimate axe",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042003,
+      802040448
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果中 )<br><br>[ターン開始時]<br>以下の効果が発動する( 上限回数:バトル中5回 )<br>・味方生存者全体に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )<br>・味方生存者全体に「<special_effect=800000096>ディフェンスアップ</special_effect>」を付与する( 効果小 )<br>・ただし、ランダムな味方生存者1体が代償ダメージを受ける( 対象の最大HPの30% )<br>※代償ダメージは被ダメージ軽減効果によって軽減できない",
     "flavor_text_en": "When attacked, damage taken is reduced (in effect)</special_effect> <br><br>[at start of turn] the <br>following effects are activated (upper limit: 5 times during battle) <br>· Grant “<special_effect=800000095> heat up” to all allied <br>survivors (in effect) ・\"<special_effect=800000096> all allied survivors Grants “Defense Up</special_effect>” (low effect) <br>・However, 1 random ally survivor takes compensatory damage (30% of the target's maximum HP) <br>*Compensatory damage cannot be reduced by damage reduction effects",
     "flavor_text_en_src": "ml",
@@ -18627,6 +18645,81 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のHPを回復する( 効果極小/効果5ターン )",
+    "flavor_text_en": "[At end of turn] Recover <br>your own HP (minimal effect/5 turns of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101930,
+    "name": "ターン終了時HP回復(極小)",
+    "name_en": "HP recovery at end of turn (minimal)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040901
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身に「<special_effect=800000222>フォーマルスタンス</special_effect>」を付与する( 効果バトル中永続 )<br>自身のBPを回復する( +3 )<br><br>[直接攻撃を受けた時]<br>被ダメージを軽減し「<skill=110100327>スターラッシュ+</skill>」でカウンター攻撃する<br>( 技Rank1で発動 )<br><br>[攻撃を受けた時]<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "</special_effect></skill><br><br><br><br><br>[When battle starts] Give yourself <br>“<special_effect=800000222>formal stance” (effect lasts during battle) Recover your own BP (+3) [when directly attacked] Reduce damage taken and counter attack with “<skill=110100327>Starrush +” (technique <br>(Activated by Rank1) <br><br>[When attacked] Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101931,
+    "name": "フォーマルフォーム",
+    "name_en": "formal form",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042210,
+      802042213,
+      802040520,
+      802041545
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>自身を挑発状態にする( 効果小/効果2ターン )<br>自身以外の味方生存者全体をステルス状態にする( 効果小/効果2ターン )",
+    "flavor_text_en": "<br>[At the start of turn] Set yourself <br>into a taunted state (low effect/effect 2 turns) Stealth all allied survivors other than yourself (low effect/effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101932,
+    "name": "フォーマルスタンス",
+    "name_en": "formal stance",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042215,
+      802042216
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃時]<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果2ターン )<br>味方生存者全体の体力を上昇させる( 効果中 )<br><br>[攻撃を受けた時]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果2ターン )<br>味方生存者全体の腕力を上昇させる( 効果中 )",
+    "flavor_text_en": "</special_effect></special_effect><br><br><br><br>[When attacking] Grant <br>“<special_effect=800000015>Defense Boost” to yourself (in effect/ 2 turns of effect) Increase the health of all allied survivors (in effect) [When attacked] Grant yourself “<special_effect=800000001>Attack Enhancement” (effective) <br>/Effect 2 turns) Increases the strength of all allied survivors (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101934,
+    "name": "攻防の心得Ⅱ(体力・腕力)",
+    "name_en": "Attack and Defense Tips II (Stamina and Strength)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042217,
+      802012218,
+      802042220,
+      802012221
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "「巻き打ち+」を命中させた時、「<skill=110200337>流し斬り+</skill>」が発動する<br>( 技Rank1で発動 )<br><br>攻撃命中時、自身のBPを回復する( +1 )",
     "flavor_text_en": "</skill><br><br><br>When you hit “Winch +”, “<skill=110200337> Nagase Slash +” is activated (activated by move Rank1), and when an attack is hit, recover your own BP (+1)",
@@ -18701,6 +18794,189 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のBPを回復する( +2/効果4ターン )",
+    "flavor_text_en": "[At End of Turn] Recover <br>your own BP (+2/Effect for 4 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101958,
+    "name": "ターン終了時 BP回復(+2)",
+    "name_en": "BP recovery at end of turn (+2)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040754
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃(※)を発動後、「ヨーヨー+」が発動する<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "<br>After triggering an attack (*), “Yo-yo +” is activated (activated by move <br>Rank1) ※ “techniques and techniques activated by the effects of special states” and “counterattack techniques and techniques due to counter effects” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101959,
+    "name": "連鎖撃(ヨーヨー+)",
+    "name_en": "Chain Strike (yoyo+)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      801041661,
+      801041662,
+      801041669
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身を「<special_effect=800000074>ステルス</special_effect>」状態にする( 効果中/効果1ターン )<br><br>[自身以外の味方生存者が攻撃を受けた時(※)]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果中/効果2ターン )<br>※発動回数は攻撃を受けた人数によらない",
+    "flavor_text_en": "</special_effect></special_effect><br><br><br>[At the start of turn] <br>Put yourself in a “<special_effect=800000074>stealth” state (in effect/effect 1 turn) [when an allied survivor other than yourself is attacked (*)] grant yourself “<special_effect=800000001> Attack Enhancement” (in effect/2 turns of effect) <br>*The number of activations does not depend on the number of people attacked",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101960,
+    "name": "吸血鬼の本能",
+    "name_en": "vampire instincts",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042222,
+      802042276
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[自身以外の味方生存者が攻撃を受けた時]<br>自身に「攻撃強化」を付与する( 効果中/効果2ターン )",
+    "flavor_text_en": "<br>[When an allied survivor other than yourself is attacked] Give yourself an “Attack Boost” (in effect/2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101961,
+    "name": "味方被弾時 攻撃強化",
+    "name_en": "Attack enhancement when an ally is hit",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042277
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "通常攻撃時、自身のBPを回復( +2 )し、さらに「<skill=125600313>ウィークネス+</skill>」「<skill=110500442>ブラックパール</skill>」が順に発動する<br>( それぞれ技・術Rank1で発動 )",
+    "flavor_text_en": "</skill></skill><br>During a normal attack, one's own BP is recovered (+2), and “<skill=125600313>Weakness+” and “<skill=110500442> Black Pearl” are activated sequentially (each activated by Technique/Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101962,
+    "name": "血の饗宴",
+    "name_en": "Feast of Blood",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042307,
+      802042278
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +1 )<br><br>[直接攻撃時]<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」( 効果中/効果2ターン )を付与する( 確率特大 )<br><br>[間接攻撃時]<br>味方生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」( 効果中/効果2ターン )を付与する( 確率特大 )",
+    "flavor_text_en": "</special_effect><br><br><br>[At the start of battle] <br>Recover your own BP (+1) [During a <br><br>direct attack] Grant “<special_effect=800000015> Defense Boost” (in effect/2 turns of effect) to <br>all allied survivors (high probability) [During indirect attacks] “<special_effect=800000001>Attack Enhancement </special_effect>Grant” (in effect/2 turns of effect) (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101963,
+    "name": "練気攻防Ⅰ",
+    "name_en": "Aerobic Attack and Defense I",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040323,
+      802042279
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[直接攻撃時]<br>味方生存者全体に「防御強化」( 効果中/効果2ターン )を付与する( 確率特大 )<br><br>[間接攻撃時]<br>味方生存者全体に「攻撃強化」( 効果中/効果2ターン )を付与する( 確率特大 )",
+    "flavor_text_en": "<br><br><br>[During Direct Attack] Grant <br>“Defense Boost” (Effective/Effect 2 turns) to all allied survivors (increased probability) [During indirect attacks] Grant “Attack Enhancement” (in effect/2 turns of effect) to all allied survivors (high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101964,
+    "name": "直接攻撃時 防御強化・間接攻撃時 攻撃強化",
+    "name_en": "Strengthen defense during direct attack/strengthen attack during indirect attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042280,
+      802042281
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br><br>[全体攻撃(※)を発動後]<br>「<skill=125300216>クラック+</skill>」が発動する<br>( 術Rank1で発動 )<br><br>[単体攻撃(※)を発動後]<br>「<skill=110800321>ヘヴィパイク</skill>」が発動する<br>( 技Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</skill></skill><br><br><br><br><br>[At the start of battle] <br>Recover your own BP (+3) <br><br>[After activating the overall attack (*)] <br>“<skill=125300216>crack +” is activated (activated in jutsu rank1) [after activating the single attack (*)] “<skill=110800321> Heavy Pike” is activated (activated in Move Rank1) <br><br>* Does not include “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques triggered by counter effects”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101965,
+    "name": "パラダイムシフト",
+    "name_en": "Paradigm shift",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802042288,
+      802042301
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[全体攻撃を発動後]<br>「クラック+」が発動する<br>( 術Rank1で発動 )",
+    "flavor_text_en": "<br>[After activating Total Attack] <br>“Crack +” is activated (activated by Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101966,
+    "name": "全体攻撃時 追加攻撃",
+    "name_en": "Additional attacks during all-out attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042284,
+      802042312
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[単体攻撃を発動後]<br>「ヘヴィパイク」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "<br>[After activating a single attack] <br>“Heavy Pike” is activated (activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101967,
+    "name": "単体攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking alone",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042285,
+      802042311,
+      802042313,
+      802042363,
+      802042364
+    ]
+  },
+  {
     "ability_when": 1,
     "flavor_text": "味方全体の突属性を含む攻撃の与ダメージが上昇する( 効果極大 )<br><br>[ターン終了時]<br>自身のBPを回復する( +1 )",
     "flavor_text_en": "<br><br><br>Damage dealt to all allies, including sudden attributes, is increased (maximum effect) [At end of turn] Recover your own BP (+1)",
@@ -18716,6 +18992,44 @@
     "special_effect_ids": [
       802042283,
       802040902
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "全体攻撃の与ダメージが上昇する( 効果超極大 )<br><br>[単体攻撃時]<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果小/効果2ターン )<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "</special_effect><br><br>Damage dealt by all attacks is increased (super extreme effect) <br><br>[during single attack] Give yourself “<special_effect=800000015> Defense Enhancement” (low effect/effect 2 turns) Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101969,
+    "name": "エリアブースト",
+    "name_en": "Area boosts",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042297,
+      802042298
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[単体攻撃時]<br>自身に「防御強化」を付与する( 効果小/効果2ターン )<br>自身のBPを回復する( +1 )",
+    "flavor_text_en": "<br>[When attacking alone] Give yourself a <br>“Defense Boost” (Low Effect/ Effect 2 turns) Recover your own BP (+1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101973,
+    "name": "単体攻撃時 防御強化・BP回復",
+    "name_en": "Defense enhancement/BP recovery during single attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042299,
+      802042302,
+      802042365,
+      802042366
     ]
   },
   {
@@ -55678,8 +55992,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110018,
@@ -55690,15 +56004,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110019,
@@ -55709,15 +56021,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110020,
@@ -55728,15 +56038,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110021,
@@ -55747,15 +56055,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110022,
@@ -55766,15 +56072,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110023,
@@ -55785,15 +56089,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110024,
@@ -55804,15 +56106,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110025,
@@ -55823,15 +56123,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110026,
@@ -55842,15 +56140,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110027,
@@ -55861,15 +56157,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the Atsuyo attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110028,
@@ -55880,14 +56174,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the Atsuyo attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110029,
@@ -55898,14 +56191,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the Atsuyo attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110030,
@@ -55916,14 +56208,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the Atsuyo attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110031,
@@ -55934,14 +56225,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the Atsuyo attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110032,
@@ -55952,14 +56242,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the Atsuyo attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110033,
@@ -55970,14 +56259,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the Atsuyo attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110034,
@@ -55988,14 +56276,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the Atsuyo attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110035,
@@ -56006,14 +56293,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the Atsuyo attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110036,
@@ -56024,14 +56310,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the Atsuyo attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110037,
@@ -56042,14 +56327,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110038,
@@ -56060,15 +56344,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110039,
@@ -56079,15 +56361,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110040,
@@ -56098,15 +56378,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110041,
@@ -56117,15 +56395,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110042,
@@ -56136,15 +56412,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110043,
@@ -56155,15 +56429,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110044,
@@ -56174,15 +56446,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110045,
@@ -56193,15 +56463,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110046,
@@ -56212,15 +56480,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110047,
@@ -56231,9 +56497,7 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
@@ -57028,8 +57292,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110110,
@@ -57040,15 +57304,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110111,
@@ -57059,15 +57321,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110112,
@@ -57078,15 +57338,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110113,
@@ -57097,15 +57355,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110114,
@@ -57116,15 +57372,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110115,
@@ -57135,15 +57389,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110116,
@@ -57154,15 +57406,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110117,
@@ -57173,15 +57423,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110118,
@@ -57192,15 +57440,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への斬打突属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including slash attacks, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への斬打突属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken to all allied survivors by 10%, including any of the slash attributes",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110119,
@@ -57211,15 +57457,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040940,
-      842040942,
-      842040941
+      842040986
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいすれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors by 10%, including those that use the Atsuyo attribute",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110120,
@@ -57230,14 +57474,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいすれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors by 10%, including those that use the Atsuyo attribute",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110121,
@@ -57248,14 +57491,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいすれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors by 10%, including those that use the Atsuyo attribute",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110122,
@@ -57266,14 +57508,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいすれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors by 10%, including those that use the Atsuyo attribute",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110123,
@@ -57284,14 +57525,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいすれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors by 10%, including those that use the Atsuyo attribute",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110124,
@@ -57302,14 +57542,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいすれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors by 10%, including those that use the Atsuyo attribute",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110125,
@@ -57320,14 +57559,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいすれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors by 10%, including those that use the Atsuyo attribute",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110126,
@@ -57338,14 +57576,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいすれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors by 10%, including those that use the Atsuyo attribute",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110127,
@@ -57356,14 +57593,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいすれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors by 10%, including those that use the Atsuyo attribute",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110128,
@@ -57374,14 +57610,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への熱陽属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including hot sun, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への熱陽属性のいすれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors by 10%, including those that use the Atsuyo attribute",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110129,
@@ -57392,14 +57627,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040943,
-      842040946
+      842040987
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110130,
@@ -57410,15 +57644,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110131,
@@ -57429,15 +57661,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110132,
@@ -57448,15 +57678,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110133,
@@ -57467,15 +57695,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110134,
@@ -57486,15 +57712,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110135,
@@ -57505,15 +57729,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110136,
@@ -57524,15 +57746,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110137,
@@ -57543,15 +57763,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110138,
@@ -57562,15 +57780,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体への冷雷陰属性を含む被ダメージを10%軽減する",
-    "flavor_text_en": "Reduces damage taken, including Cold Thunder Shadow, to all allied survivors by 10%",
+    "flavor_text": "味方生存者全体への冷雷陰属性のいずれかを含む被ダメージを10%軽減する",
+    "flavor_text_en": "Reduces damage taken by all allied survivors, including any of the Cold Thunder attributes, by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110139,
@@ -57581,9 +57797,7 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040944,
-      842040945,
-      842040947
+      842040988
     ]
   },
   {
@@ -58288,8 +58502,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが10%上昇する",
-    "flavor_text_en": "Increases damage dealt by all allied survivors by 10% for attacks containing hot sun attributes",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが10%上昇する",
+    "flavor_text_en": "Damage from attacks involving any of the allied survivors is increased by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110280,
@@ -58300,14 +58514,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040588,
-      842040591
+      842040992
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが10%上昇する",
-    "flavor_text_en": "Increases damage dealt by all allied survivors by 10% for attacks containing hot sun attributes",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが10%上昇する",
+    "flavor_text_en": "Damage from attacks involving any of the allied survivors is increased by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110281,
@@ -58318,14 +58531,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040588,
-      842040591
+      842040992
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが10%上昇する",
-    "flavor_text_en": "Increases damage dealt by all allied survivors by 10% for attacks containing hot sun attributes",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが10%上昇する",
+    "flavor_text_en": "Damage from attacks involving any of the allied survivors is increased by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110282,
@@ -58336,14 +58548,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040588,
-      842040591
+      842040992
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが10%上昇する",
-    "flavor_text_en": "Increases damage dealt by all allied survivors by 10% for attacks containing hot sun attributes",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが10%上昇する",
+    "flavor_text_en": "Damage from attacks involving any of the allied survivors is increased by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110283,
@@ -58354,14 +58565,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040588,
-      842040591
+      842040992
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが10%上昇する",
-    "flavor_text_en": "Increases damage dealt by all allied survivors by 10% for attacks containing hot sun attributes",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが10%上昇する",
+    "flavor_text_en": "Damage from attacks involving any of the allied survivors is increased by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110284,
@@ -58372,14 +58582,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040588,
-      842040591
+      842040992
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが10%上昇する",
-    "flavor_text_en": "Increases damage dealt by all allied survivors by 10% for attacks containing Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが10%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110285,
@@ -58390,15 +58599,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040589,
-      842040590,
-      842040592
+      842040990
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが10%上昇する",
-    "flavor_text_en": "Increases damage dealt by all allied survivors by 10% for attacks containing Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが10%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110286,
@@ -58409,15 +58616,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040589,
-      842040590,
-      842040592
+      842040990
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが10%上昇する",
-    "flavor_text_en": "Increases damage dealt by all allied survivors by 10% for attacks containing Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが10%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110287,
@@ -58428,15 +58633,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040589,
-      842040590,
-      842040592
+      842040990
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが10%上昇する",
-    "flavor_text_en": "Increases damage dealt by all allied survivors by 10% for attacks containing Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが10%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110288,
@@ -58447,15 +58650,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040589,
-      842040590,
-      842040592
+      842040990
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが10%上昇する",
-    "flavor_text_en": "Increases damage dealt by all allied survivors by 10% for attacks containing Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが10%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 10%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742110289,
@@ -58466,9 +58667,7 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040589,
-      842040590,
-      842040592
+      842040990
     ]
   },
   {
@@ -64092,8 +64291,8 @@
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111366,
@@ -64104,14 +64303,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111367,
@@ -64122,14 +64320,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111368,
@@ -64140,14 +64337,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111369,
@@ -64158,14 +64354,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111370,
@@ -64176,14 +64371,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111371,
@@ -64194,14 +64388,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111372,
@@ -64212,14 +64405,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111373,
@@ -64230,14 +64422,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111374,
@@ -64248,14 +64439,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111375,
@@ -64266,14 +64456,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111376,
@@ -64284,14 +64473,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の熱陽属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including the Nezuyo attribute",
+    "flavor_text": "味方生存者全体の熱陽属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage dealt by attacks involving any of the allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111377,
@@ -64302,14 +64490,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040965,
-      842040968
+      842040993
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111378,
@@ -64320,15 +64507,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111379,
@@ -64339,15 +64524,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111380,
@@ -64358,15 +64541,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111381,
@@ -64377,15 +64558,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111382,
@@ -64396,15 +64575,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111383,
@@ -64415,15 +64592,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111384,
@@ -64434,15 +64609,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111385,
@@ -64453,15 +64626,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111386,
@@ -64472,15 +64643,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111387,
@@ -64491,15 +64660,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111388,
@@ -64510,15 +64677,13 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
     "ability_when": 1,
-    "flavor_text": "味方生存者全体の冷雷陰属性を含む攻撃の与ダメージが15%上昇する",
-    "flavor_text_en": "Increases damage dealt by 15% for all allied survivors, including Cold Thunder Shadow attributes",
+    "flavor_text": "味方生存者全体の冷雷陰属性のいずれかを含む攻撃の与ダメージが15%上昇する",
+    "flavor_text_en": "Damage from attacks involving any Cold Thunder attribute to all allied survivors is increased by 15%",
     "flavor_text_en_src": "ml",
     "icon": 8003,
     "id": 742111389,
@@ -64529,9 +64694,7 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      842040966,
-      842040967,
-      842040969
+      842040991
     ]
   },
   {
@@ -68590,11 +68753,7 @@
     "simple_flavor_text": "",
     "sort_order": 0,
     "special_effect_ids": [
-      843040029,
-      843040030,
-      843040031,
-      843040032,
-      843040033
+      843040038
     ]
   },
   {
@@ -68613,11 +68772,7 @@
     "special_effect_ids": [
       850040525,
       850040523,
-      843040029,
-      843040030,
-      843040031,
-      843040032,
-      843040033
+      843040038
     ]
   },
   {

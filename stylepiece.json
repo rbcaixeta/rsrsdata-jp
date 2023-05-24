@@ -4872,6 +4872,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[酔っぱらうなよ！]ユリアン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Don't get drunk!] A piece exclusive to Julian. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 230107,
+    "id": 230107,
+    "name": "SSユリアンのピース",
+    "name_en": "SS Julian's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[ベント家の誇り]トーマス専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [The Bent Family Name] Thomas. ",
@@ -4917,6 +4929,18 @@
     "name": "SSトーマスのピース",
     "name_en": "SS Thomas Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[お相手願えますか？]トーマス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Might I have a partner please?] A piece exclusive to Thomas. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 230205,
+    "id": 230205,
+    "name": "SSトーマスのピース",
+    "name_en": "SS Thomas Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -5173,6 +5197,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[私でいいのかな？]サラ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Is it OK for me?] Sara's exclusive piece Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 230507,
+    "id": 230507,
+    "name": "SSサラのピース",
+    "name_en": "SS Sarah's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[あんたは黙ってて]エレン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [You Stay Quiet!] Ellen. ",
     "flavor_text_en_src": "gl",
@@ -5286,6 +5322,18 @@
     "flavor_text_en_src": "ml",
     "icon": 230612,
     "id": 230612,
+    "name": "SSエレンのピース",
+    "name_en": "SS Eren's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[人混みは苦手だから]エレン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [because I don't like crowds] Eren's exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 230613,
+    "id": 230613,
     "name": "SSエレンのピース",
     "name_en": "SS Eren's piece",
     "name_en_src": "ml",
@@ -6369,6 +6417,18 @@
     "name": "SSレオニードのピース",
     "name_en": "SS Leonid Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[私も楽しむつもりだ]レオニード専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I'm going to enjoy it too] Leonid exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 233208,
+    "id": 233208,
+    "name": "SSレオニードのピース",
+    "name_en": "SS Leonid's piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
