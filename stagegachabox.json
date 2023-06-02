@@ -1,0 +1,38 @@
+[
+  {
+    "id": 10001,
+    "name": "金宝箱",
+    "name_en": "Golden treasure chest",
+    "name_en_src": "ml",
+    "rate": 1500,
+    "stage_gacha_box_type": 4,
+    "stage_gacha_id": 10001
+  },
+  {
+    "id": 10002,
+    "name": "銀宝箱",
+    "name_en": "silver treasure chest",
+    "name_en_src": "ml",
+    "rate": 2000,
+    "stage_gacha_box_type": 3,
+    "stage_gacha_id": 10001
+  },
+  {
+    "id": 10003,
+    "name": "銅宝箱",
+    "name_en": "Bronze treasure chest",
+    "name_en_src": "ml",
+    "rate": 3000,
+    "stage_gacha_box_type": 2,
+    "stage_gacha_id": 10001
+  },
+  {
+    "id": 10004,
+    "name": "木宝箱",
+    "name_en": "wooden treasure chest",
+    "name_en_src": "ml",
+    "rate": 3500,
+    "stage_gacha_box_type": 1,
+    "stage_gacha_id": 10001
+  }
+]

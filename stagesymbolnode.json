@@ -1,0 +1,1793 @@
+[
+  {
+    "id": 20001,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 20002,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 20002,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 20003,
+    "tap_count": 20,
+    "next_stage_symbol_node_id": 20003,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 20003,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 110007,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 110008,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 110009,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 110010,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 110011,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 1000518,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22002105,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 110012,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 120001,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100001,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 120002,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 120002,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 120003,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100004,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 120004,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 120004,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 120005,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100013,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 120006,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 120006,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 120007,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100015,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 120008,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 120008,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 120009,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 1000134,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 120010,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 120010,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 130001,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130002,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130003,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130004,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130005,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130006,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130007,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130008,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130009,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130010,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130011,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130012,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 130013,
+    "has_message": 1,
+    "message_type": 3,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000107,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100008,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000108,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000108,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000111,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000112,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000112,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000113,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100012,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000114,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000114,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000115,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000116,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000116,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000117,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100002,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000118,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000118,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000119,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100014,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000120,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000120,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000121,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000122,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000122,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10006
+  },
+  {
+    "id": 22000203,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100012,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000204,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000204,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000209,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100008,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000210,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000210,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000211,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100009,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000212,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000212,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000213,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000214,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000214,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000301,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000302,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000302,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000303,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100002,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000304,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000304,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000305,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100016,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000306,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000306,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000307,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100012,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000308,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000308,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000309,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100009,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000310,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000310,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000311,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100005,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000312,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000312,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000313,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100007,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000314,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000314,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000401,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000402,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000402,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000403,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000404,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000404,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000405,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100002,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000406,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000406,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000407,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100014,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000408,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000408,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000411,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100012,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000412,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000412,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000413,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000414,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000414,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000415,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100009,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000416,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000416,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000417,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100010,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000418,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000418,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000501,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000502,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000502,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000503,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100005,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000504,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000504,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000601,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000602,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000602,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000603,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000604,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000604,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000701,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000702,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000702,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000703,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100016,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000704,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000704,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000705,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100007,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000706,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000706,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000707,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100005,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000708,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000708,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000801,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000802,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000802,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000803,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100012,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000804,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000804,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22000901,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000902,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000902,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000903,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100016,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22000904,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22000904,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001001,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001002,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001002,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001003,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100009,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001004,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001004,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001101,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001102,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001102,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001105,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001106,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001106,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001201,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001202,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001202,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001303,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100012,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001304,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001304,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001401,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001402,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001402,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001403,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001404,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001404,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001505,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100011,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001506,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001506,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001507,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100008,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001508,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001508,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001509,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100009,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001510,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001510,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001511,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001512,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001512,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001513,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001514,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001514,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10007
+  },
+  {
+    "id": 22001601,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001602,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001602,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001603,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100012,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001604,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001604,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001605,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100014,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001606,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001606,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001607,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001608,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001608,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001609,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100005,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001610,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001610,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001611,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100011,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001612,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001612,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001613,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100010,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001614,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001614,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001701,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001702,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001702,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001703,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001704,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001704,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001705,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001706,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001706,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001707,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001708,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001708,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001709,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100012,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001710,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001710,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001711,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100016,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001712,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001712,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001713,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100008,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001714,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001714,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001715,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001716,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001716,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10006
+  },
+  {
+    "id": 22001717,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100002,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001718,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001718,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001719,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100014,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001720,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001720,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001801,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001802,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001802,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001803,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100016,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001804,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001804,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001805,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100007,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001806,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001806,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001807,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100005,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001808,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001808,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22001901,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001902,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001902,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001903,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100012,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22001904,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22001904,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22002001,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22002002,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002002,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002003,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100012,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22002004,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002004,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22002101,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100014,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22002102,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002102,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22002103,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22002104,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002104,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002105,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 1000518,
+    "tap_count": 100,
+    "next_stage_symbol_node_id": 110012,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002201,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22002202,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002202,
+    "has_message": 1,
+    "message_type": 1,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002203,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100009,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22002204,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002204,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22002301,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100002,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22002302,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002302,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22002403,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100002,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22002404,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002404,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  },
+  {
+    "id": 22002405,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 100006,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 22002406,
+    "override_node_asset_id": 0
+  },
+  {
+    "id": 22002406,
+    "has_message": 0,
+    "message_type": 0,
+    "reward_set_id": 0,
+    "tap_count": 1,
+    "next_stage_symbol_node_id": 0,
+    "override_node_asset_id": 10005
+  }
+]

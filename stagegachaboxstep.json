@@ -1,0 +1,44 @@
+[
+  {
+    "id": 10001,
+    "stage_gacha_box_id": 10001,
+    "step": 1,
+    "is_infinite": 0,
+    "stage_gacha_deck_id": 100001
+  },
+  {
+    "id": 10002,
+    "stage_gacha_box_id": 10001,
+    "step": 2,
+    "is_infinite": 1,
+    "stage_gacha_deck_id": 100002
+  },
+  {
+    "id": 10003,
+    "stage_gacha_box_id": 10002,
+    "step": 1,
+    "is_infinite": 0,
+    "stage_gacha_deck_id": 100003
+  },
+  {
+    "id": 10004,
+    "stage_gacha_box_id": 10002,
+    "step": 2,
+    "is_infinite": 1,
+    "stage_gacha_deck_id": 100004
+  },
+  {
+    "id": 10005,
+    "stage_gacha_box_id": 10003,
+    "step": 1,
+    "is_infinite": 1,
+    "stage_gacha_deck_id": 100005
+  },
+  {
+    "id": 10007,
+    "stage_gacha_box_id": 10004,
+    "step": 1,
+    "is_infinite": 1,
+    "stage_gacha_deck_id": 100006
+  }
+]

@@ -3367,7 +3367,7 @@
     "sort_order": 23042160
   },
   {
-    "expired_at": 1686855599,
+    "expired_at": 1687114799,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
     "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
     "flavor_text_en_src": "ml",
@@ -3380,7 +3380,7 @@
     "sort_order": 23042860
   },
   {
-    "expired_at": 1686855599,
+    "expired_at": 1687114799,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
     "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
     "flavor_text_en_src": "ml",
@@ -3393,7 +3393,7 @@
     "sort_order": 23050260
   },
   {
-    "expired_at": 1686855599,
+    "expired_at": 1687114799,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
     "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
     "flavor_text_en_src": "ml",
@@ -3406,7 +3406,7 @@
     "sort_order": 23050960
   },
   {
-    "expired_at": 1686855599,
+    "expired_at": 1687114799,
     "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
     "flavor_text_en": "An item that can be obtained by running a specific Saga Soul Gacha. You can exchange items and styles at the exchange.",
     "flavor_text_en_src": "ml",
@@ -3419,7 +3419,7 @@
     "sort_order": 23051860
   },
   {
-    "expired_at": 1686855599,
+    "expired_at": 1687114799,
     "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
     "flavor_text_en": "An item that can be obtained by running a specific Saga Soul Gacha. You can exchange items and styles at the exchange.",
     "flavor_text_en_src": "ml",
@@ -3432,7 +3432,7 @@
     "sort_order": 23051855
   },
   {
-    "expired_at": 1687460399,
+    "expired_at": 1687719599,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
     "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
     "flavor_text_en_src": "ml",
@@ -3443,6 +3443,58 @@
     "name_en": "Romancing festival medal 115",
     "name_en_src": "ml",
     "sort_order": 23052560
+  },
+  {
+    "expired_at": 1689965999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800268,
+    "id": 800268,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・116",
+    "name_en": "Romancing festival medal 116",
+    "name_en_src": "ml",
+    "sort_order": 23060160
+  },
+  {
+    "expired_at": 1689965999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800269,
+    "id": 800269,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・117",
+    "name_en": "Romancing festival medal 117",
+    "name_en_src": "ml",
+    "sort_order": 23060155
+  },
+  {
+    "expired_at": 1689965999,
+    "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running a specific Saga Soul Gacha. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800270,
+    "id": 800270,
+    "max_quantity": 99999999,
+    "name": "サガ魂メダル・20",
+    "name_en": "Saga Soul Medal 20",
+    "name_en_src": "ml",
+    "sort_order": 23060360
+  },
+  {
+    "expired_at": 1689965999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800271,
+    "id": 800271,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・118",
+    "name_en": "Romancing festival medal 118",
+    "name_en_src": "ml",
+    "sort_order": 23060660
   },
   {
     "expired_at": 0,
@@ -7736,7 +7788,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100532,
@@ -7749,7 +7801,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100537,
@@ -7762,7 +7814,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100538,
@@ -7775,7 +7827,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100539,
@@ -7788,7 +7840,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100540,
@@ -7801,7 +7853,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100541,
@@ -7814,7 +7866,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100542,
@@ -7827,7 +7879,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100543,
@@ -7840,7 +7892,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100544,
@@ -7853,7 +7905,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100545,
@@ -7866,7 +7918,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100546,
@@ -8113,7 +8165,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100582,
@@ -8126,7 +8178,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100583,
@@ -8139,7 +8191,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100584,
@@ -8152,7 +8204,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100585,
@@ -8165,7 +8217,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100586,
@@ -8178,7 +8230,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100587,
@@ -8191,7 +8243,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100588,
@@ -8204,7 +8256,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100589,
@@ -8217,7 +8269,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100590,
@@ -8230,7 +8282,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100591,
@@ -8243,7 +8295,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100592,
@@ -8555,7 +8607,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100626,
@@ -8568,7 +8620,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100627,
@@ -8581,7 +8633,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100628,
@@ -8594,7 +8646,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100629,
@@ -8607,7 +8659,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100630,
@@ -8620,7 +8672,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100631,
@@ -8724,7 +8776,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100636,
@@ -8737,7 +8789,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100637,
@@ -8750,7 +8802,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100638,
@@ -8763,7 +8815,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100639,
@@ -8776,7 +8828,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100640,
@@ -9205,7 +9257,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100673,
@@ -9218,7 +9270,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100674,
@@ -9231,7 +9283,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100675,
@@ -9244,7 +9296,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100676,
@@ -9257,7 +9309,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100677,
@@ -9270,7 +9322,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100678,
@@ -9283,7 +9335,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100679,
@@ -9296,7 +9348,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100680,
@@ -9309,7 +9361,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100681,
@@ -9322,7 +9374,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100682,
@@ -9335,7 +9387,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100683,
@@ -9452,7 +9504,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100693,
@@ -9465,8 +9517,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Type/Sword] Material required to craft specific Refinement Equipment. You can get it at events, etc.",
+    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Swords] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100694,
     "id": 1100694,
@@ -9478,7 +9530,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100695,
@@ -9491,7 +9543,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100696,
@@ -9504,8 +9556,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Type/Club] A material required to craft specific crafting equipment. You can get it at events, etc.",
+    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Sticks] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100697,
     "id": 1100697,
@@ -9517,8 +9569,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapons/Taijutsu] Materials required to craft specific Refinement Equipment. You can get it at events, etc.",
+    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Taijutsu] Materials needed to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100698,
     "id": 1100698,
@@ -9530,8 +9582,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapons/Guns] Materials required to craft specific Refinement Equipment. You can get it at events, etc.",
+    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Guns] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100699,
     "id": 1100699,
@@ -9543,7 +9595,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100700,
@@ -9556,7 +9608,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100701,
@@ -9569,8 +9621,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Type/Bow] Material required to craft specific crafting equipment. You can get it at events, etc.",
+    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Bows] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100702,
     "id": 1100702,
@@ -9582,7 +9634,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
+    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。",
     "flavor_text_en": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
     "icon": 1100703,
@@ -10310,8 +10362,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "Materials needed to create specific crafting equipment. You can get it at events, etc.",
+    "flavor_text": "特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "A material needed to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100763,
     "id": 1100763,
@@ -10323,8 +10375,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Type/Sword] Material required to create specific refined equipment. You can get it at events, etc.",
+    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Swords] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100764,
     "id": 1100764,
@@ -10336,8 +10388,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Great Sword] A material required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Great Sword] A material required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100765,
     "id": 1100765,
@@ -10349,8 +10401,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Axes] Materials required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Axes] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100766,
     "id": 1100766,
@@ -10362,8 +10414,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Sticks] Materials required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Sticks] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100767,
     "id": 1100767,
@@ -10375,8 +10427,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Type/Taijutsu] Materials required to create specific refined equipment. You can get it at events, etc.",
+    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Taijutsu] Materials needed to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100768,
     "id": 1100768,
@@ -10388,8 +10440,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Type/Gun] Material required to create specific refined equipment. You can get it at events, etc.",
+    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Guns] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100769,
     "id": 1100769,
@@ -10401,8 +10453,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Shortswords] A material required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Shortswords] A material required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100770,
     "id": 1100770,
@@ -10414,8 +10466,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Spears] Materials needed to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Spears] Materials needed to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100771,
     "id": 1100771,
@@ -10427,8 +10479,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Type/Bow] Material required to create specific refined equipment. You can get it at events, etc.",
+    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Bows] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100772,
     "id": 1100772,
@@ -10440,8 +10492,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Type/Staff] Material required to create specific refined equipment. You can get it at events, etc.",
+    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Canes] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100773,
     "id": 1100773,
@@ -10908,8 +10960,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "A material needed to create specific refining equipment. You can get them at events.",
+    "flavor_text": "特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "A material needed to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100809,
     "id": 1100809,
@@ -10921,8 +10973,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Swords] Materials required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・剣]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Swords] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100810,
     "id": 1100810,
@@ -10934,8 +10986,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Great Sword] A material required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・大剣]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Great Sword] A material required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100811,
     "id": 1100811,
@@ -10947,8 +10999,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Axes] Materials required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・斧]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Axes] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100812,
     "id": 1100812,
@@ -10960,8 +11012,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Sticks] Materials required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・棍棒]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Sticks] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100813,
     "id": 1100813,
@@ -10973,8 +11025,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Taijutsu] Materials needed to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・体術]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Taijutsu] Materials needed to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100814,
     "id": 1100814,
@@ -10986,8 +11038,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Guns] Materials required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・銃]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Guns] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100815,
     "id": 1100815,
@@ -10999,8 +11051,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Shortswords] A material required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・小剣]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Shortswords] A material required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100816,
     "id": 1100816,
@@ -11012,8 +11064,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Spears] Materials needed to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・槍]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Spears] Materials needed to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100817,
     "id": 1100817,
@@ -11025,8 +11077,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Bows] Materials required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・弓]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Bows] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100818,
     "id": 1100818,
@@ -11038,8 +11090,8 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。イベントなどで入手できる。",
-    "flavor_text_en": "[Weapon Types/Canes] Materials required to create specific refining equipment. You can get them at events.",
+    "flavor_text": "[武器種・杖]特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "[Weapon Types/Canes] Materials required to create specific refining equipment.",
     "flavor_text_en_src": "ml",
     "icon": 1100819,
     "id": 1100819,
@@ -11297,9 +11349,9 @@
     "sort_order": 23041415
   },
   {
-    "expired_at": 1688065199,
-    "flavor_text": "Romancing佐賀ゴールデンツアー2023！佐賀県コラボガチャスタイル交換所でスタイルかゴールドピースと交換できるアイテム。（2023/6/30 4:00まで）",
-    "flavor_text_en": "Romancing Saga Golden Tour 2023! An item that can be exchanged for style or gold pieces at the Saga Prefecture Collaboration Gacha Style Exchange. (Until 2023/6/30 4:00)",
+    "expired_at": 1688324399,
+    "flavor_text": "Romancing佐賀ゴールデンツアー2023！佐賀県コラボガチャスタイル交換所でスタイルかゴールドピースと交換できるアイテム。（2023/7/3 4:00まで）",
+    "flavor_text_en": "Romancing Saga Golden Tour 2023! An item that can be exchanged for style or gold pieces at the Saga Prefecture Collaboration Gacha Style Exchange. (until 2023/7/3 4:00)",
     "flavor_text_en_src": "ml",
     "icon": 1100840,
     "id": 1100840,
@@ -11636,6 +11688,45 @@
   },
   {
     "expired_at": 0,
+    "flavor_text": "バトルヒストリアで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "An item that can be obtained in Battle Historia. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100650,
+    "id": 1100866,
+    "max_quantity": 99999999,
+    "name": "ヒストリアポイント",
+    "name_en": "Historia points",
+    "name_en_src": "ml",
+    "sort_order": 23060125
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "A material needed to create specific refining equipment.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100867,
+    "id": 1100867,
+    "max_quantity": 99999999,
+    "name": "証のかけら",
+    "name_en": "Proof Fragment",
+    "name_en_src": "ml",
+    "sort_order": 23060137
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "特定の錬成装備の作成に必要な素材。",
+    "flavor_text_en": "A material needed to create specific refining equipment.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100868,
+    "id": 1100868,
+    "max_quantity": 99999999,
+    "name": "鏡花の水晶片",
+    "name_en": "Kyoka Crystal Fragment",
+    "name_en_src": "ml",
+    "sort_order": 23060140
+  },
+  {
+    "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
     "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
     "flavor_text_en_src": "ml",
@@ -11661,6 +11752,32 @@
     "sort_order": 23052525
   },
   {
+    "expired_at": 1691089199,
+    "flavor_text": "4.5周年記念！SSスタイル交換所でスタイルかゴールドピースと交換できるアイテム。（2023/8/4 4:00まで）",
+    "flavor_text_en": "4.5 year anniversary! An item that can be exchanged for style or gold pieces at the SS Style Exchange. (until 2023/8/4 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100871,
+    "id": 1100871,
+    "max_quantity": 99999999,
+    "name": "4.5周年記念！SSスタイル交換チケット[期間限定]",
+    "name_en": "4.5 year anniversary! SS Style Exchange Ticket [Limited Time Only]",
+    "name_en_src": "ml",
+    "sort_order": 23060135
+  },
+  {
+    "expired_at": 1687834799,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でSS防具などと交換できる。（2023/6/27 12:00まで）",
+    "flavor_text_en": "Items that can be obtained at the relevant event. It can be exchanged for SS armor etc. at the exchange. (Until 2023/6/27 12:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100872,
+    "id": 1100872,
+    "max_quantity": 99999999,
+    "name": "防具メダル（赤）[期間限定]",
+    "name_en": "Armor Medal (Red) [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 23060615
+  },
+  {
     "expired_at": 0,
     "flavor_text": "該当ミッションで入手できるアイテム。獲得することで2023/5/25からの「4.5億ジュエル山分け」に参加する。",
     "flavor_text_en": "Items that can be obtained in the corresponding missions. By acquiring it, they will participate in the “450 Million Jewel Mountain Divide” from 2023/5/25.",
@@ -11672,5 +11789,31 @@
     "name_en": "4.5th Anniversary Mountain Sharing Trophy",
     "name_en_src": "ml",
     "sort_order": 23052535
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100874,
+    "id": 1100877,
+    "max_quantity": 99999999,
+    "name": "高山の鉱石",
+    "name_en": "Alpine ore",
+    "name_en_src": "ml",
+    "sort_order": 23060110
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100875,
+    "id": 1100878,
+    "max_quantity": 99999999,
+    "name": "亜空の邪気",
+    "name_en": "Azora's Evil",
+    "name_en_src": "ml",
+    "sort_order": 23060115
   }
 ]

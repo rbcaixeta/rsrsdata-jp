@@ -13,7 +13,7 @@
     "sort_order": 2523
   },
   {
-    "expired_at": 0,
+    "expired_at": 1685588399,
     "flavor_text": "深奥の密林調査に必要なチケット。",
     "flavor_text_en": "A ticket for exploring the Forest of Mystery.",
     "flavor_text_en_src": "gl",
@@ -351,7 +351,7 @@
     "sort_order": 1097
   },
   {
-    "expired_at": 0,
+    "expired_at": 1685588399,
     "flavor_text": "使用することで、「聖石の洞窟-聖石-」、「聖石の洞窟-聖石のかけら-」のクエストに挑戦できる。※ホーム>サブクエスト>イベント>発掘から挑戦可能。",
     "flavor_text_en": "Use to attempt Cave of Holy Stones (Holy Stone)/Cave of Holy Stones (Holy Stone Shard). *Home>Sub Quests>Event>Excavation",
     "flavor_text_en_src": "gl",
@@ -1209,7 +1209,7 @@
     "sort_order": 3116
   },
   {
-    "expired_at": 0,
+    "expired_at": 1685588399,
     "flavor_text": "使用することで、「聖石の洞窟-黄金-」のクエストに挑戦できる。※ホーム>サブクエスト>イベント>発掘から挑戦可能。",
     "flavor_text_en": "Use to attempt Cave of Holy Stones (Gold). *Home>Sub Quests>Event>Excavation",
     "flavor_text_en_src": "gl",
@@ -1885,7 +1885,7 @@
     "sort_order": 22020641
   },
   {
-    "expired_at": 0,
+    "expired_at": 1685588399,
     "flavor_text": "使用することで、「掘り出せ！鉱山洞窟」に挑戦できる。",
     "flavor_text_en": "Use to attempt Get diggin'! Mining Caves.",
     "flavor_text_en_src": "gl",
@@ -1950,7 +1950,7 @@
     "sort_order": 22030440
   },
   {
-    "expired_at": 0,
+    "expired_at": 1685588399,
     "flavor_text": "使用することで、「聖石の洞窟-うつろう原石(武器聖石)-」に挑戦できる。※ホーム>サブクエスト>イベント>発掘から挑戦可能。",
     "flavor_text_en": "Use to attempt Cave of Holy Stones (Changing Ore: Weapon). *Home>Sub Quests>Event>Excavation",
     "flavor_text_en_src": "gl",
@@ -2390,5 +2390,57 @@
     "name_en": "Herald of Superiority [Limited Time Only]",
     "name_en_src": "ml",
     "sort_order": 23033125
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "使用することで、「収集クエストの洞窟」のクエストに挑戦できる。",
+    "flavor_text_en": "By using it, you can challenge the “Gathering Quest Cave” quest.",
+    "flavor_text_en_src": "ml",
+    "icon": 821196,
+    "id": 821196,
+    "max_quantity": 99999,
+    "name": "収集クエストチケット",
+    "name_en": "Collect quest tickets",
+    "name_en_src": "ml",
+    "sort_order": 23060120
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "使用することで、「一撃練武道場！」に挑戦できる。※ホーム>フリークエスト>普遍の記録から挑戦可能。",
+    "flavor_text_en": "By using it, “Ikkoku Renbu Dojo!” You can challenge it. ※Home > Free Quests > You can challenge from universal records.",
+    "flavor_text_en_src": "ml",
+    "icon": 821181,
+    "id": 821198,
+    "max_quantity": 99999,
+    "name": "一撃練武道場チケット",
+    "name_en": "Ikkeki Renbu Dojo Tickets",
+    "name_en_src": "ml",
+    "sort_order": 23060126
+  },
+  {
+    "expired_at": 1687402799,
+    "flavor_text": "使用することで、「感謝の贈り物（黄金）」に挑戦できる。（2023/6/22 12:00まで）",
+    "flavor_text_en": "By using it, you can challenge the “gift of appreciation (gold).” (Until 2023/6/22 12:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821199,
+    "id": 821199,
+    "max_quantity": 99999,
+    "name": "【SS】4.5周年超感謝チケット[期間限定]",
+    "name_en": "[SS] 4.5th Anniversary Super Appreciation Ticket [Limited Time Offer]",
+    "name_en_src": "ml",
+    "sort_order": 23060610
+  },
+  {
+    "expired_at": 1687402799,
+    "flavor_text": "使用することで、「感謝の贈り物」に挑戦できる。（2023/6/22 12:00まで）",
+    "flavor_text_en": "By using it, you can challenge “thanksgiving gifts.” (Until 2023/6/22 12:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 821200,
+    "id": 821200,
+    "max_quantity": 99999,
+    "name": "4.5周年超感謝チケット[期間限定]",
+    "name_en": "4.5th Anniversary Super Appreciation Ticket [Limited Time Only]",
+    "name_en_src": "ml",
+    "sort_order": 23060605
   }
 ]

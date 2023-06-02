@@ -2832,5 +2832,57 @@
     "title": "クエスト解放",
     "title_en": "Quest Unlocked",
     "title_en_src": "ml"
+  },
+  {
+    "button1": "閉じる",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 222,
+    "name": "Trial_Quest_Not_Held",
+    "name_en": "Trial_Quest_Not_Held",
+    "name_en_src": "ml",
+    "text": "現在、螺旋回廊は未開催です。",
+    "title": "未開催",
+    "title_en": "Not held",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "閉じる",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 223,
+    "name": "Stage_Expired_Confirm",
+    "name_en": "Stage_Expired_Confirm",
+    "name_en_src": "ml",
+    "text": "有効期限が切れました。",
+    "title": "期限切れ",
+    "title_en": "expiring",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 224,
+    "name": "FreeQuest_Area_Open",
+    "name_en": "freeQuest_area_open",
+    "name_en_src": "ml",
+    "text": "新しい記録が解放されました。",
+    "title": "記録解放",
+    "title_en": "Record release",
+    "title_en_src": "ml"
+  },
+  {
+    "button1": "OK",
+    "button2": "",
+    "dialog_type": 1,
+    "id": 226,
+    "name": "FreeQuest_Stage_Open",
+    "name_en": "freeQuest_stage_open",
+    "name_en_src": "ml",
+    "text": "新しいステージが解放されました。",
+    "title": "ステージ解放",
+    "title_en": "Stage released",
+    "title_en_src": "ml"
   }
 ]

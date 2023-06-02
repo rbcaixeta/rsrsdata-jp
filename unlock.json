@@ -1,48 +1,13 @@
 [
   {
-    "id": 1,
-    "feature_to_unlock": "Quest_Daily_301",
-    "trigger_quest_id": 100101071,
-    "trigger_player_rank": 6,
-    "scenario_script_name": "",
-    "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
-    "id": 2,
-    "feature_to_unlock": "Quest_Daily_302",
-    "trigger_quest_id": 100102101,
-    "trigger_player_rank": 13,
-    "scenario_script_name": "",
-    "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
-    "id": 3,
-    "feature_to_unlock": "Quest_Event_501",
-    "trigger_quest_id": 100104201,
-    "trigger_player_rank": 30,
-    "scenario_script_name": "",
-    "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
-    "id": 4,
-    "feature_to_unlock": "Quest_Challenge_504",
-    "trigger_quest_id": 100102201,
-    "trigger_player_rank": 16,
-    "scenario_script_name": "",
-    "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
     "id": 5,
     "feature_to_unlock": "Smith_EquipmentGrow",
     "trigger_quest_id": 100101211,
     "trigger_player_rank": 10,
     "scenario_script_name": "",
     "lock_text": "",
-    "lock_rank_text": ""
+    "lock_rank_text": "",
+    "lock_feature_name": "鍛冶屋"
   },
   {
     "id": 6,
@@ -51,7 +16,8 @@
     "trigger_player_rank": 40,
     "scenario_script_name": "",
     "lock_text": "",
-    "lock_rank_text": ""
+    "lock_rank_text": "",
+    "lock_feature_name": "技・術覚醒"
   },
   {
     "id": 7,
@@ -60,7 +26,8 @@
     "trigger_player_rank": 8,
     "scenario_script_name": "",
     "lock_text": "",
-    "lock_rank_text": ""
+    "lock_rank_text": "",
+    "lock_feature_name": "遠征"
   },
   {
     "id": 8,
@@ -69,43 +36,18 @@
     "trigger_player_rank": 20,
     "scenario_script_name": "",
     "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
-    "id": 9,
-    "feature_to_unlock": "Shop_Daily",
-    "trigger_quest_id": 100102041,
-    "trigger_player_rank": 0,
-    "scenario_script_name": "",
-    "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
-    "id": 10,
-    "feature_to_unlock": "Shop_Weekly",
-    "trigger_quest_id": 100102141,
-    "trigger_player_rank": 0,
-    "scenario_script_name": "",
-    "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
-    "id": 12,
-    "feature_to_unlock": "UraDojo",
-    "trigger_quest_id": 100103103,
-    "trigger_player_rank": 65,
-    "scenario_script_name": "90001-010",
-    "lock_text": "ポルカ編 1章 3-2-4<br>Very Hard クリアで解放",
-    "lock_rank_text": "プレイヤーRank 65<br>到達で解放"
+    "lock_rank_text": "",
+    "lock_feature_name": "訓練"
   },
   {
     "id": 13,
     "feature_to_unlock": "Dojo_UraNouryoku",
     "trigger_quest_id": 0,
-    "trigger_player_rank": 0,
+    "trigger_player_rank": 65,
     "scenario_script_name": "",
     "lock_text": "",
-    "lock_rank_text": ""
+    "lock_rank_text": "",
+    "lock_feature_name": "裏能力値上限解放"
   },
   {
     "id": 15,
@@ -114,25 +56,8 @@
     "trigger_player_rank": 70,
     "scenario_script_name": "",
     "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
-    "id": 16,
-    "feature_to_unlock": "Quest_Challenge_505",
-    "trigger_quest_id": 100102201,
-    "trigger_player_rank": 16,
-    "scenario_script_name": "",
-    "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
-    "id": 17,
-    "feature_to_unlock": "Quest_Challenge_506",
-    "trigger_quest_id": 100102201,
-    "trigger_player_rank": 16,
-    "scenario_script_name": "",
-    "lock_text": "",
-    "lock_rank_text": ""
+    "lock_rank_text": "",
+    "lock_feature_name": "聖石　強化　融合　売却　一覧"
   },
   {
     "id": 18,
@@ -141,34 +66,8 @@
     "trigger_player_rank": 60,
     "scenario_script_name": "",
     "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
-    "id": 19,
-    "feature_to_unlock": "LimitIsland",
-    "trigger_quest_id": 100201053,
-    "trigger_player_rank": 75,
-    "scenario_script_name": "90008-010",
-    "lock_text": "ポルカ編 2章 1-1-5<br>Very Hard クリアで解放",
-    "lock_rank_text": "プレイヤーRank 75<br>到達で解放"
-  },
-  {
-    "id": 20,
-    "feature_to_unlock": "Quest_Challenge_507",
-    "trigger_quest_id": 100102201,
-    "trigger_player_rank": 16,
-    "scenario_script_name": "",
-    "lock_text": "",
-    "lock_rank_text": ""
-  },
-  {
-    "id": 21,
-    "feature_to_unlock": "Quest_Challenge_508",
-    "trigger_quest_id": 100102201,
-    "trigger_player_rank": 16,
-    "scenario_script_name": "",
-    "lock_text": "",
-    "lock_rank_text": ""
+    "lock_rank_text": "",
+    "lock_feature_name": "練達"
   },
   {
     "id": 22,
@@ -177,7 +76,8 @@
     "trigger_player_rank": 16,
     "scenario_script_name": "",
     "lock_text": "",
-    "lock_rank_text": ""
+    "lock_rank_text": "",
+    "lock_feature_name": "螺旋回廊"
   },
   {
     "id": 23,
@@ -186,7 +86,8 @@
     "trigger_player_rank": 150,
     "scenario_script_name": "90011-010",
     "lock_text": "リアム編 1-2-5<br>Very Hard クリアで解放",
-    "lock_rank_text": "プレイヤーRank 150<br>到達で解放"
+    "lock_rank_text": "プレイヤーRank 150<br>到達で解放",
+    "lock_feature_name": "追憶の幻闘場"
   },
   {
     "id": 24,
@@ -195,6 +96,37 @@
     "trigger_player_rank": 10,
     "scenario_script_name": "",
     "lock_text": "",
-    "lock_rank_text": ""
+    "lock_rank_text": "",
+    "lock_feature_name": "昇段試験"
+  },
+  {
+    "id": 25,
+    "feature_to_unlock": "Mission_Daily",
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0,
+    "scenario_script_name": "",
+    "lock_text": "",
+    "lock_rank_text": "",
+    "lock_feature_name": "デイリーミッション"
+  },
+  {
+    "id": 26,
+    "feature_to_unlock": "Mission_Weekly",
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0,
+    "scenario_script_name": "",
+    "lock_text": "",
+    "lock_rank_text": "",
+    "lock_feature_name": "ウィークリーミッション"
+  },
+  {
+    "id": 27,
+    "feature_to_unlock": "Mission_Event",
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0,
+    "scenario_script_name": "",
+    "lock_text": "",
+    "lock_rank_text": "",
+    "lock_feature_name": "期間限定ミッション"
   }
 ]

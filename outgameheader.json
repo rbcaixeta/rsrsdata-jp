@@ -201,7 +201,7 @@
     "id": 310,
     "title_name": "遠征",
     "marquee_id": 28,
-    "help_id": 16
+    "help_id": 891
   },
   {
     "id": 311,
@@ -339,6 +339,18 @@
     "id": 414,
     "title_name": "錬成確認",
     "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 415,
+    "title_name": "超進化装備",
+    "marquee_id": 54,
+    "help_id": 917
+  },
+  {
+    "id": 416,
+    "title_name": "超進化",
+    "marquee_id": 55,
     "help_id": 0
   },
   {
@@ -646,5 +658,83 @@
     "title_name": "出会いログ",
     "marquee_id": 0,
     "help_id": 817
+  },
+  {
+    "id": 1901,
+    "title_name": "フリークエスト",
+    "marquee_id": 0,
+    "help_id": 890
+  },
+  {
+    "id": 2001,
+    "title_name": "チャレンジ",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2002,
+    "title_name": "螺旋回廊",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2003,
+    "title_name": "討伐",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2004,
+    "title_name": "期間限定",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2005,
+    "title_name": "クエスト選択",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2101,
+    "title_name": "メインストーリー",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2102,
+    "title_name": "ステージ選択",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2103,
+    "title_name": "ステージ",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2104,
+    "title_name": "宝箱",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2105,
+    "title_name": "開封結果",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2106,
+    "title_name": "ステージ選択",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 2201,
+    "title_name": "制圧戦",
+    "marquee_id": 0,
+    "help_id": 0
   }
 ]

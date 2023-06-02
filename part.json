@@ -8,8 +8,10 @@
     "bgm": 100008,
     "map_id": 1,
     "start_at": 1637982000,
+    "end_at": 1677610800,
     "clear_flag_quest_id": 100213103,
-    "sort_order": 99
+    "sort_order": 99,
+    "story_mode_top_banner_id": 0
   },
   {
     "id": 2,
@@ -20,7 +22,23 @@
     "bgm": 130109,
     "map_id": 1,
     "start_at": 1637982000,
+    "end_at": 1677610800,
     "clear_flag_quest_id": 120114023,
-    "sort_order": 98
+    "sort_order": 98,
+    "story_mode_top_banner_id": 0
+  },
+  {
+    "id": 3,
+    "part_name": "シィレイ編",
+    "part_number": 3,
+    "part_banner_id": 3000001,
+    "dot_id": 712700,
+    "bgm": 120344,
+    "map_id": 1,
+    "start_at": 1677610800,
+    "end_at": 0,
+    "clear_flag_quest_id": 0,
+    "sort_order": 97,
+    "story_mode_top_banner_id": 10301
   }
 ]

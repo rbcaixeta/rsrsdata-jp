@@ -45,7 +45,7 @@
     "id": 9,
     "key": "material_max_quantity",
     "type": "integer",
-    "value": "999999"
+    "value": "9999999"
   },
   {
     "id": 10,
@@ -172,5 +172,29 @@
     "key": "item_conversion_rate_information",
     "type": "string",
     "value": "https://info.rs.aktsk.jp/info/detail/140780?k=IQmTupfo"
+  },
+  {
+    "id": 31,
+    "key": "default_draw_count_for_stage_gacha",
+    "type": "integer",
+    "value": "10"
+  },
+  {
+    "id": 32,
+    "key": "treasure_box_max_quantity",
+    "type": "integer",
+    "value": "1000"
+  },
+  {
+    "id": 33,
+    "key": "outlet_shop_event_point_id",
+    "type": "integer",
+    "value": "860015"
+  },
+  {
+    "id": 34,
+    "key": "stage_map_box_max_quantity",
+    "type": "integer",
+    "value": "9999"
   }
 ]

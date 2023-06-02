@@ -1176,5 +1176,40 @@
         "rate": 10000
       }
     ]
+  },
+  {
+    "id": 100120001,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100120001,
+        "rate": 7000
+      },
+      {
+        "ability_deck_id": 100120002,
+        "rate": 2900
+      },
+      {
+        "ability_deck_id": 100120003,
+        "rate": 100
+      }
+    ]
+  },
+  {
+    "id": 100120002,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100120004,
+        "rate": 10000
+      }
+    ]
+  },
+  {
+    "id": 100120003,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100120005,
+        "rate": 10000
+      }
+    ]
   }
 ]

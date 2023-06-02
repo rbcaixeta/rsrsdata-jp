@@ -31,7 +31,7 @@
   },
   {
     "expired_at": 0,
-    "flavor_text": "5枚集めるとプラチナチケットガチャを1回引くことができるチケット。",
+    "flavor_text": "5枚集めるとプラチナチケットガチャを1回実行することができるチケット。",
     "flavor_text_en": "Collect 5 tickets to perform 1 Platinum Ticket Summon.",
     "flavor_text_en_src": "gl",
     "icon": 810003,
@@ -1020,9 +1020,9 @@
     "sort_order": 23042125
   },
   {
-    "expired_at": 1686682799,
-    "flavor_text": "5枚集めると「Romancing佐賀ゴールデンツアー2023！プラチナチケットガチャ」を1回引くことができるチケット。（2023/6/14 4:00まで）",
-    "flavor_text_en": "If you collect 5 cards, “Romancing Saga Golden Tour 2023! A ticket that allows you to draw the “Platinum Ticket Gacha” once. (Until 2023/6/14 4:00)",
+    "expired_at": 1686941999,
+    "flavor_text": "5枚集めると「Romancing佐賀ゴールデンツアー2023！プラチナチケットガチャ」を1回引くことができるチケット。（2023/6/17 4:00まで）",
+    "flavor_text_en": "If you collect 5 cards, “Romancing Saga Golden Tour 2023! A ticket that allows you to draw the “Platinum Ticket Gacha” once. (Until 2023/6/17 4:00)",
     "flavor_text_en_src": "ml",
     "icon": 810071,
     "id": 810071,
@@ -1033,5 +1033,20 @@
     "shop_id": 0,
     "shop_type": 0,
     "sort_order": 23042830
+  },
+  {
+    "expired_at": 1691089199,
+    "flavor_text": "5枚集めると「4.5周年記念 プラチナチケットガチャ」を1回実行することができるチケット。（2023/8/4 4:00まで）",
+    "flavor_text_en": "If you collect 5 tickets, you can run the “4.5th Anniversary Platinum Ticket Gacha” once. (until 2023/8/4 4:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 810072,
+    "id": 810072,
+    "max_quantity": 9999,
+    "name": "4.5周年記念 プラチナチケット[期間限定]",
+    "name_en": "4.5th Anniversary Platinum Ticket [Limited Time Only]",
+    "name_en_src": "ml",
+    "shop_id": 0,
+    "shop_type": 0,
+    "sort_order": 23060130
   }
 ]

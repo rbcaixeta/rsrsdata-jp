@@ -11328,6 +11328,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[俺が主役だ！]ポルカ・リン・ウッド専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [I'm the protagonist!] Exclusive Polka Lynn Wood piece Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 710113,
+    "id": 710113,
+    "name": "SSポルカ・リン・ウッドのピース",
+    "name_en": "SS Polka Lynn Wood Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[魔に魅入られし少女]リズ・リン・ウッド専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Possessed by Magic] Liz Lynn Wood.",
@@ -11445,6 +11457,18 @@
     "name": "SSリズ・リン・ウッドのピース",
     "name_en": "SS Liz Lynn Wood Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[いよいよ始まるのね]リズ・リン・ウッド専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [it's finally starting, isn't it?] A piece exclusive to Liz Lynn Wood. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 710211,
+    "id": 710211,
+    "name": "SSリズ・リン・ウッドのピース",
+    "name_en": "SS Liz Lynn Wood Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -11637,6 +11661,18 @@
     "name": "SSようせい(ブラウニー)のピース",
     "name_en": "SS Faerie (Brownie) Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[カワイクなっちまった]ようせい(ブラウニー)専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [cute naughty] Yosei (brownie) exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 710507,
+    "id": 710507,
+    "name": "SSようせい(ブラウニー)のピース",
+    "name_en": "SS Yosei (brownie) pieces",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -11904,6 +11940,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[新たなステージで]ジョー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [on a new stage] Joe exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711112,
+    "id": 711112,
+    "name": "SSジョーのピース",
+    "name_en": "SS Joe's piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[ジョーのペット]玄竜専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Jo's Pet] Genryu. ",
@@ -12072,6 +12120,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[裏舞台への招待]イゴマール専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Invitation to the Backstage] An exclusive piece for Igomar. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711503,
+    "id": 711503,
+    "name": "SSイゴマールのピース",
+    "name_en": "SS Igomar Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[平穏な日常]リアム専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Peaceful Days] Liam.",
@@ -12133,6 +12193,18 @@
   },
   {
     "exchange_cost": 150,
+    "flavor_text": "S[次は何をしようか]リアム専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [what shall we do next] Liam's exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711606,
+    "id": 711606,
+    "name": "Sリアムのピース",
+    "name_en": "S Liam's Peace",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 150,
     "flavor_text": "S[赤の少女]アーニャ専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Red-Headed Girl] Anya.",
     "flavor_text_en_src": "gl",
@@ -12178,6 +12250,18 @@
     "name_en": "SS Anya's Peace",
     "name_en_src": "ml",
     "selling_price": 100
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[勤勉な学生]アーニャ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [hard working student] piece exclusive to Anya. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711705,
+    "id": 711705,
+    "name": "Sアーニャのピース",
+    "name_en": "S Anya's Peace",
+    "name_en_src": "ml",
+    "selling_price": 60
   },
   {
     "exchange_cost": 150,
@@ -12241,6 +12325,18 @@
   },
   {
     "exchange_cost": 150,
+    "flavor_text": "S[散歩に連れてって]キャンディ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [take me for a walk] candy exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711806,
+    "id": 711806,
+    "name": "Sキャンディのピース",
+    "name_en": "S candy pieces",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 150,
     "flavor_text": "S[クラヴィスのリーダー]ダリアス専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Leader of Clavis] Darius.",
     "flavor_text_en_src": "gl",
@@ -12286,6 +12382,42 @@
     "name_en": "SS Darius Peace",
     "name_en_src": "ml",
     "selling_price": 100
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[もう少しやってみるか]ダリアス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [why don't you try a little more] Darius exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 711905,
+    "id": 711905,
+    "name": "Sダリアスのピース",
+    "name_en": "S Dahlias Peace",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[バトルモード搭載！]BaIC専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [Battle mode included!] A piece for BaiC only. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712001,
+    "id": 712001,
+    "name": "SBaICのピース",
+    "name_en": "SBaiC pieces",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[クラヴィスの研究者]リャオ・ユウ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece exclusive to S [Kravis researcher] Liao Yu. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712101,
+    "id": 712101,
+    "name": "Sリャオ・ユウのピース",
+    "name_en": "Peace by S Liao Yu",
+    "name_en_src": "ml",
+    "selling_price": 60
   },
   {
     "exchange_cost": 250,
@@ -12408,6 +12540,30 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 150,
+    "flavor_text": "S[戦士記読み]シィレイ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [Warrior Chronicles] A piece exclusive to Shiray. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712701,
+    "id": 712701,
+    "name": "Sシィレイのピース",
+    "name_en": "S Siray's Peace",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[放浪の詩人]シィレイ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece exclusive to SS [The Wandering Poet] Shiley. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 712702,
+    "id": 712702,
+    "name": "SSシィレイのピース",
+    "name_en": "SS Siray Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[いつまでも一緒に]バルテルミー専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Together Forever] Barthelemy.",
@@ -12465,6 +12621,18 @@
     "name": "SSバルテルミーのピース",
     "name_en": "SS Barthelemy Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[いよいよ開演ですよ]バルテルミー専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [It's finally starting] Barthelemy exclusive piece. Can be used to summon style or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 715306,
+    "id": 715306,
+    "name": "SSバルテルミーのピース",
+    "name_en": "SS Barthélemy Peace",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {

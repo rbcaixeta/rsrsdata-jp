@@ -309,7 +309,7 @@
   },
   {
     "equipment_material_category_id": 7,
-    "flavor_text": "武器、主防具、副防具を進化させるための素材。一定数を集めると、鍛冶屋でSランクに合成できる。ホーム>サブクエスト>デイリーの「遺跡潜り」で入手できる。",
+    "flavor_text": "武器、主防具、副防具を進化させるための素材。",
     "flavor_text_en": "Material for evolving Weapons, Armor, and Gear. Can be combined into S-rank stones at the Forge. Obtained from Ruins Exploration quests (Home>Sub Quests>Daily).",
     "flavor_text_en_src": "gl",
     "icon": 663001,
@@ -323,7 +323,7 @@
   },
   {
     "equipment_material_category_id": 7,
-    "flavor_text": "武器、主防具、副防具を進化させるための素材。一定数を集めると、鍛冶屋でSSランクに合成できる。ホーム>サブクエスト>デイリーの「遺跡潜り」で入手できる。",
+    "flavor_text": "武器、主防具、副防具を進化させるための素材。",
     "flavor_text_en": "Material for evolving Weapons, Armor, and Gear. Can be combined into SS-rank stones at the Forge. Obtained from Ruins Exploration quests (Home>Sub Quests>Daily).",
     "flavor_text_en_src": "gl",
     "icon": 664001,
@@ -337,7 +337,7 @@
   },
   {
     "equipment_material_category_id": 7,
-    "flavor_text": "武器、主防具、副防具を進化させるための素材。\nホーム>サブクエスト>デイリーの「遺跡潜り」で入手できる。",
+    "flavor_text": "武器、主防具、副防具を進化させるための素材。",
     "flavor_text_en": "Material for evolving Weapons, Armor, and Gear. Obtained from Ruins Exploration quests (Home>Sub Quests>Daily).",
     "flavor_text_en_src": "gl",
     "icon": 665001,
@@ -351,7 +351,7 @@
   },
   {
     "equipment_material_category_id": 0,
-    "flavor_text": "SS武器を進化させるための素材。一定数を集めると、鍛冶屋で進化できる。イベントで入手できる。",
+    "flavor_text": "SS武器を進化させるための素材。",
     "flavor_text_en": "Material used to evolve SS weapons. Can be used in the Forge. Obtainable from events.",
     "flavor_text_en_src": "gl",
     "icon": 674001,
@@ -365,7 +365,7 @@
   },
   {
     "equipment_material_category_id": 0,
-    "flavor_text": "SS武器を進化させるための素材。一定数を集めると、鍛冶屋で進化できる。イベントで入手できる。",
+    "flavor_text": "SS武器を進化させるための素材。",
     "flavor_text_en": "Material used to evolve SS weapons. Can be used in the Forge. Obtainable from events.",
     "flavor_text_en_src": "gl",
     "icon": 675001,
@@ -687,8 +687,8 @@
   },
   {
     "equipment_material_category_id": 7,
-    "flavor_text": "SS武器を進化させるための素材。一定数を集めると、鍛冶屋で進化できる。イベントで入手できる。",
-    "flavor_text_en": "Material for evolving SS weapons. If you collect a certain number, you can evolve at the blacksmith shop. You can get them at events.",
+    "flavor_text": "SS武器を進化させるための素材。",
+    "flavor_text_en": "Material for evolving SS weapons.",
     "flavor_text_en_src": "ml",
     "icon": 690024,
     "id": 690024,
@@ -698,5 +698,19 @@
     "rarity": 5,
     "selling_price": 50,
     "sort_order": 1006
+  },
+  {
+    "equipment_material_category_id": 0,
+    "flavor_text": "特定のSS武器を超進化させるための素材。",
+    "flavor_text_en": "Material for superevolving specific SS weapons.",
+    "flavor_text_en_src": "ml",
+    "icon": 690025,
+    "id": 690025,
+    "name": "【SSS】天星の結晶",
+    "name_en": "【SSS】Celestial Crystals",
+    "name_en_src": "ml",
+    "rarity": 6,
+    "selling_price": 100,
+    "sort_order": 23060105
   }
 ]

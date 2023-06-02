@@ -1,0 +1,7372 @@
+[
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210026051,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      21013717,
+      21013716
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1000001,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 100,
+    "max_turn": 0,
+    "name": "収集クエスト（スタイル強化EXP）",
+    "name_en": "Gathering Quests (Style Enhancement EXP)",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 821196,
+    "quest_ticket_quantity": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 600003011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1000102,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 100,
+    "max_turn": 0,
+    "name": "一撃練武道場！",
+    "name_en": "Ikkoku Renbu Dojo!",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 821198,
+    "quest_ticket_quantity": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+      29921301
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 210021011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1000103,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 1,
+    "name": "単体1Turn(開始BP20/ODゲージ MAX）",
+    "name_en": "Single 1 Turn (Start BP20/OD Gauge MAX)",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 210021021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1000104,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 5,
+    "name": "単体5Turn",
+    "name_en": "Standalone 5 Turn",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 2,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210026061,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      21013646
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1000105,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 100,
+    "max_turn": 0,
+    "name": "収集クエスト（オーラム）",
+    "name_en": "Gathering Quest (Aurum)",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 821196,
+    "quest_ticket_quantity": 1,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 210021031,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1000106,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 1,
+    "name": "全体1Turn(開始BP20/ODゲージ MAX）",
+    "name_en": "Overall 1 turn (starting BP20/OD gauge MAX)",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 210021041,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1000107,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 5,
+    "name": "全体5Turn",
+    "name_en": "All 5 turns",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 2,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 210011011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 1,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500010101,
+      500010102,
+      500010103,
+      500010104,
+      500010105,
+      500010106,
+      500010107,
+      500010108,
+      500010109,
+      500010110,
+      500010111,
+      500010112,
+      500010113,
+      500010114,
+      500010115
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 1000501,
+    "growth_count": 1,
+    "id": 1000150,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "【さいしょの戦い】",
+    "name_en": "[Battle of Saisho]",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 5,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+      29902903
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 210011022,
+    "before_scenarios": [
+    ],
+    "clear_limit": 1,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500010131,
+      500010134,
+      500010133,
+      500010132,
+      500010135
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 1000502,
+    "growth_count": 1,
+    "id": 1000151,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "【遠征をして育成してから挑もう】",
+    "name_en": "[Let's go on an expedition, train them, and then take on the challenge]",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 5,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+      29902904
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 210018224,
+    "before_scenarios": [
+    ],
+    "clear_limit": 1,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500010116,
+      500010117,
+      500010118,
+      500010119,
+      500010120,
+      500010121,
+      500010122,
+      500010123,
+      500010124,
+      500010125,
+      500010126,
+      500010127,
+      500010128,
+      500010129,
+      500010130,
+      500010131,
+      500010134,
+      500010133,
+      500010132,
+      500010135
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 1000503,
+    "growth_count": 1,
+    "id": 1000152,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "【装備・スタイルを強化してから挑もう】",
+    "name_en": "[Let's take on the challenge after strengthening equipment and style]",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 5,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 50048001,
+        "name": "二人の願い"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100001,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "二人の願い",
+    "name_en": "A wish for two",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 50048010,
+        "name": "畏れと恐れ"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100002,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "畏れと恐れ",
+    "name_en": "Awe and fears",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210020011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100003,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "襲い来る魔獣１",
+    "name_en": "Demon Beast Attacking 1",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210020021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100004,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "襲い来る魔獣２",
+    "name_en": "Attack on Demon Beast 2",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210020031,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100005,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "七英雄ノエル",
+    "name_en": "Seven Heroes Noel",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 2,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 50048020,
+        "name": "愛された子"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100006,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "愛された子",
+    "name_en": "Beloved child",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 2,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 50048030,
+        "name": "帰還"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100007,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "帰還",
+    "name_en": "return",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 3,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 50048040,
+        "name": "すべてを取り戻すために"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100008,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "すべてを取り戻すために",
+    "name_en": "To get everything back",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 3,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 200098011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 1000513,
+    "growth_count": 1,
+    "id": 1100101,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "4.5周年記念超感謝祭",
+    "name_en": "4.5th anniversary super thanksgiving",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 200098021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      21013728,
+      21013729,
+      21013729,
+      21013729,
+      21013729,
+      21013729,
+      21013729,
+      21013729,
+      21013729,
+      21013729,
+      21013729
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1100102,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 100,
+    "max_turn": 0,
+    "name": "感謝の贈り物（オーラム）",
+    "name_en": "Appreciation gift (aurum)",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 821200,
+    "quest_ticket_quantity": 50,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 821199,
+        "type": 10
+      },
+      {
+        "id": 810003,
+        "type": 8
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 200098021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      21013728,
+      21013730,
+      21013730,
+      21013730,
+      21013730,
+      21013730,
+      21013730,
+      21013730,
+      21013730,
+      21013730,
+      21013730
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1100103,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 100,
+    "max_turn": 0,
+    "name": "感謝の贈り物（強化素材）",
+    "name_en": "Appreciation gift (reinforced material)",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 821200,
+    "quest_ticket_quantity": 50,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 2,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 821199,
+        "type": 10
+      },
+      {
+        "id": 810003,
+        "type": 8
+      },
+      {
+        "id": 501500100,
+        "type": 26
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 200098021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      21013728,
+      21013731,
+      21013731,
+      21013731,
+      21013731,
+      21013731,
+      21013731,
+      21013731,
+      21013731,
+      21013731,
+      21013731
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1100104,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 100,
+    "max_turn": 0,
+    "name": "感謝の贈り物（進化素材）",
+    "name_en": "Appreciation gift (evolution material)",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 821200,
+    "quest_ticket_quantity": 50,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 3,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 821199,
+        "type": 10
+      },
+      {
+        "id": 810003,
+        "type": 8
+      },
+      {
+        "id": 665001,
+        "type": 5
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 200098021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      21013728,
+      21013732,
+      21013732,
+      21013732,
+      21013732,
+      21013732,
+      21013732,
+      21013732,
+      21013732,
+      21013732,
+      21013732
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 1100105,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 100,
+    "max_turn": 0,
+    "name": "感謝の贈り物（覚醒素材）",
+    "name_en": "Appreciation gift (awakening material)",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 821200,
+    "quest_ticket_quantity": 50,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 4,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 821199,
+        "type": 10
+      },
+      {
+        "id": 810003,
+        "type": 8
+      },
+      {
+        "id": 404030,
+        "type": 4
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 200098031,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      21013726,
+      21013721,
+      21013721,
+      21013721,
+      21013721,
+      21013720,
+      21013722,
+      21013723,
+      21013725,
+      21013725,
+      21013725,
+      21013724
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 1000520,
+    "growth_count": 1,
+    "id": 1100106,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 100,
+    "max_turn": 0,
+    "name": "感謝の贈り物（黄金）",
+    "name_en": "A gift of appreciation (gold)",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 821199,
+    "quest_ticket_quantity": 5,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 203502100,
+        "type": 16
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 10401020,
+        "name": "戦士記読み"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20002,
+    "growth_count": 1,
+    "id": 2000001,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "戦士記読み",
+    "name_en": "Warrior Readings",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 20001,
+        "type": 35
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20004,
+    "growth_count": 1,
+    "id": 2000002,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "なんとなく南へ",
+    "name_en": "Somehow to go south",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20004,
+    "growth_count": 1,
+    "id": 2000003,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "小金稼ぎ",
+    "name_en": "Earning small money",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015031,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 2000005,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20004,
+    "growth_count": 1,
+    "id": 2000004,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "迂回路１",
+    "name_en": "Detour 1",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015041,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 2000006,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20004,
+    "growth_count": 1,
+    "id": 2000005,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "迂回路２",
+    "name_en": "Detour 2",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015051,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20005,
+    "growth_count": 1,
+    "id": 2000006,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "寄り道バカンス",
+    "name_en": "Detour vacations",
+    "name_en_src": "ml",
+    "node_enemy_id": 20701516,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 810003,
+        "type": 8
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 10401040,
+        "name": "バッハロー公"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 2000007,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "バッハロー公",
+    "name_en": "Duke of Bacharow",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015061,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 2000009,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20004,
+    "growth_count": 1,
+    "id": 2000008,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "書籍",
+    "name_en": "books",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015071,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 2000010,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20004,
+    "growth_count": 1,
+    "id": 2000009,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "中庭",
+    "name_en": "courtyards",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015081,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 2000011,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20004,
+    "growth_count": 1,
+    "id": 2000010,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "廊下",
+    "name_en": "hallways",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015091,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20005,
+    "growth_count": 1,
+    "id": 2000011,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "物置部屋",
+    "name_en": "Storeroom",
+    "name_en_src": "ml",
+    "node_enemy_id": 21001018,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 810003,
+        "type": 8
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000101,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊1-1",
+    "name_en": "Corridor 1-1 where the ruins collapsed",
+    "name_en_src": "ml",
+    "node_enemy_id": 21400909,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019111,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000102,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊1-2",
+    "name_en": "Corridor 1-2 where the ruins collapsed",
+    "name_en_src": "ml",
+    "node_enemy_id": 20702205,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000103,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊1-3",
+    "name_en": "Corridors 1-3 where ruins collapsed",
+    "name_en_src": "ml",
+    "node_enemy_id": 21402514,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019121,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000104,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊1-4",
+    "name_en": "Corridor 1-4 where the ruins collapsed",
+    "name_en_src": "ml",
+    "node_enemy_id": 20701303,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019171,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000105,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊1-5",
+    "name_en": "Corridors 1-5 where ruins collapsed",
+    "name_en_src": "ml",
+    "node_enemy_id": 20101623,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019221,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000106,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊1-6",
+    "name_en": "Corridors 1-6 where ruins collapsed",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019071,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000201,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊2-1",
+    "name_en": "Corridor 2-1 where the ruins collapsed",
+    "name_en_src": "ml",
+    "node_enemy_id": 21201607,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019041,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000202,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊2-2",
+    "name_en": "Corridor 2-2 where the ruins collapsed",
+    "name_en_src": "ml",
+    "node_enemy_id": 20602605,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019081,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000203,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊2-3",
+    "name_en": "Corridors where ruins collapsed 2-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 21200918,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019201,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000204,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊2-4",
+    "name_en": "Corridors where ruins collapsed 2-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 20201407,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019031,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000205,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊2-5",
+    "name_en": "Corridor 2-5 where the ruins collapsed",
+    "name_en_src": "ml",
+    "node_enemy_id": 20602114,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019181,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000206,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 崩落した回廊2-6",
+    "name_en": "Corridor 2-6 where the ruins collapsed",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019061,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000301,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園1-1",
+    "name_en": "Ruins Gardens 1-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20403110,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019211,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000302,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園1-2",
+    "name_en": "Ruins Gardens 1-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20303006,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019191,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000303,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園1-3",
+    "name_en": "Ruins Gardens 1-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20400623,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019101,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000304,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園1-4",
+    "name_en": "Ruins Gardens 1-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 20300714,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019101,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000305,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園1-5",
+    "name_en": "Ruins Gardens 1-5",
+    "name_en_src": "ml",
+    "node_enemy_id": 20202414,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019091,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000306,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園1-6",
+    "name_en": "Ruins Gardens 1-6",
+    "name_en_src": "ml",
+    "node_enemy_id": 20300409,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019051,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000307,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園1-7",
+    "name_en": "Ruins Gardens 1-7",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019161,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000401,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園2-1",
+    "name_en": "Ruins Gardens 2-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20101024,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019151,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000402,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園2-2",
+    "name_en": "Ruins Gardens 2-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20100908,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019241,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000403,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園2-3",
+    "name_en": "Ruins Gardens 2-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20101623,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019141,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000404,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園2-4",
+    "name_en": "Ruins Gardens 2-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 21300632,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019131,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000405,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園2-5",
+    "name_en": "Ruins Gardens 2-5",
+    "name_en_src": "ml",
+    "node_enemy_id": 21300823,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019231,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000406,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 庭園2-6",
+    "name_en": "Ruins Gardens 2-6",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019071,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000501,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 広間1-1",
+    "name_en": "Ruins Hall 1-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20502803,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019201,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000502,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 広間1-2",
+    "name_en": "Ruins Hall 1-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20502603,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019081,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000503,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 広間1-3",
+    "name_en": "Ruins Hall 1-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20200524,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019201,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000504,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 広間1-4",
+    "name_en": "Ruins Hall 1-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019061,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000601,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 広間2-1",
+    "name_en": "Ruins Hall 2-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20402110,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019191,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000602,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 広間2-2",
+    "name_en": "Ruins Hall 2-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20400909,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019051,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000603,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 広間2-3",
+    "name_en": "Ruins Hall 2-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20402810,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019191,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000607,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 広間2-4",
+    "name_en": "Ruins Hall 2-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 210027011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 12000701,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "財宝の部屋1-1",
+    "name_en": "Treasure Room 1-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019131,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000801,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 下層-1",
+    "name_en": "Ruins Lower Layer-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 21201712,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019231,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000802,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 下層-2",
+    "name_en": "Ruins Lower Layer-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 21100616,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019231,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000803,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 下層-3",
+    "name_en": "Ruins Lower Layer-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 21101016,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019141,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000804,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 下層-4",
+    "name_en": "Ruins lower layer-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000901,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "洞窟 光差し込む場所-1",
+    "name_en": "The place where the cave light shines in -1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20100908,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000902,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "洞窟 光差し込む場所-2",
+    "name_en": "The place where the cave light shines in -2",
+    "name_en_src": "ml",
+    "node_enemy_id": 21401617,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019171,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000903,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "洞窟 光差し込む場所-3",
+    "name_en": "The place where the cave light shines in -3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20101521,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019171,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12000904,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "洞窟 光差し込む場所-4",
+    "name_en": "The place where the cave light shines in -4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019091,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001001,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 断崖1-1",
+    "name_en": "mountainous cliffs 1-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20202506,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019211,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001002,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 断崖1-2",
+    "name_en": "Cliffs 1-2 in mountainous areas",
+    "name_en_src": "ml",
+    "node_enemy_id": 20301603,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019101,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001003,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 断崖1-3",
+    "name_en": "Mountain cliffs 1-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20200704,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019101,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001004,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 断崖1-4",
+    "name_en": "mountainous cliffs 1-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019181,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001101,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 断崖2-1",
+    "name_en": "mountainous cliffs 2-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20602706,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019031,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001102,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 断崖2-2",
+    "name_en": "mountainous cliffs 2-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20600717,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019141,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001103,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 断崖2-3",
+    "name_en": "Mountain cliffs 2-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 21300323,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019181,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001104,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 断崖2-4",
+    "name_en": "Mountain cliffs 2-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019161,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001201,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 荒れた高地1-1",
+    "name_en": "mountainous area rough highland 1-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 21502709,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019241,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001202,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 荒れた高地1-2",
+    "name_en": "mountainous area rough highland 1-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20102010,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019151,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001203,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 荒れた高地1-3",
+    "name_en": "mountainous area rough highland 1-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 21502909,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019151,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001204,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 荒れた高地1-4",
+    "name_en": "mountainous area rough highland 1-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019121,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001301,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 荒れた高地2-1",
+    "name_en": "mountainous area rough highland 2-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20202216,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019111,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001302,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 荒れた高地2-2",
+    "name_en": "mountainous area rough highland 2-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20200325,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019221,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001303,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 荒れた高地2-3",
+    "name_en": "mountainous area rough highland 2-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20700527,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019121,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001304,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 荒れた高地2-4",
+    "name_en": "mountainous area rough highland 2-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019161,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001401,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地1-1",
+    "name_en": "Mountainous Highland 1-1 with Shaded Highlands",
+    "name_en_src": "ml",
+    "node_enemy_id": 21502810,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019041,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001402,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地1-2",
+    "name_en": "Mountainous Highland 1-2 with Shining Sun",
+    "name_en_src": "ml",
+    "node_enemy_id": 21301807,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019241,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001403,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地1-3",
+    "name_en": "Mountainous region Shining Highland 1-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20101521,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019181,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001404,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地1-4",
+    "name_en": "mountainous area 1-4 of the highlands of the setting sun",
+    "name_en_src": "ml",
+    "node_enemy_id": 20602810,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019151,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001405,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地1-5",
+    "name_en": "mountainous area 1-5 of the highlands of the setting sun",
+    "name_en_src": "ml",
+    "node_enemy_id": 21503011,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019031,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001406,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地1-6",
+    "name_en": "mountainous area 1-6 of the high altitude of the setting sun",
+    "name_en_src": "ml",
+    "node_enemy_id": 21300823,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019241,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001407,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地1-7",
+    "name_en": "mountainous area 1-7 of the highlands of the setting sun",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019231,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001501,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地2-1",
+    "name_en": "Mountainous Highland 2-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 21202711,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019061,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001502,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地2-2",
+    "name_en": "Mountainous region 2-2 of the rising sun",
+    "name_en_src": "ml",
+    "node_enemy_id": 20401606,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019191,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001503,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地2-3",
+    "name_en": "Mountainous area, high altitude with a sharp sun 2-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20400909,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019131,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001504,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地2-4",
+    "name_en": "mountainous area, high altitude of the setting sun 2-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 21100905,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019051,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001505,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 斜陽の高地2-5",
+    "name_en": "mountainous area 2-5 high altitude of the setting sun",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001601,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 高原-1",
+    "name_en": "mountainous plateau -1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20100218,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019211,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001602,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 高原-2",
+    "name_en": "mountainous plateau-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20601019,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019081,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001603,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 高原-3",
+    "name_en": "mountainous plateau-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20200524,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019101,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001604,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 高原-4",
+    "name_en": "mountainous plateau-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 20900216,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019211,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001605,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 高原-5",
+    "name_en": "mountainous plateau-5",
+    "name_en_src": "ml",
+    "node_enemy_id": 20600625,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019091,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001606,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 高原-6",
+    "name_en": "mountainous plateau-6",
+    "name_en_src": "ml",
+    "node_enemy_id": 20900621,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001607,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "山岳地帯 高原-7",
+    "name_en": "mountainous plateau-7",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019071,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001701,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 獣道-1",
+    "name_en": "Ancient Forest Judo -1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20501704,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019111,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001702,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 獣道-2",
+    "name_en": "Old Forest Judo -2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20700723,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019081,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001703,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 獣道-3",
+    "name_en": "Old Forest Judo -3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20503003,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210026021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001704,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 獣道-4",
+    "name_en": "Ancient Forest Judo -4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 210027011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 12001801,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "財宝の部屋2-1",
+    "name_en": "Treasure Room 2-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019071,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001901,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 開けた場所-1",
+    "name_en": "Old Forest Open Place-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 21202405,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019201,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001902,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 開けた場所-2",
+    "name_en": "An open place in the old forest -2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20201507,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019201,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001903,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 開けた場所-3",
+    "name_en": "The place where the old forest opened - 3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20502603,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019081,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12001904,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 開けた場所-4",
+    "name_en": "The place where the old forest opened - 4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019171,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002001,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 落陽-1",
+    "name_en": "The setting sun in the old forest -1",
+    "name_en_src": "ml",
+    "node_enemy_id": 21403214,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019021,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002002,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 落陽-2",
+    "name_en": "The setting sun in the old forest -2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20101420,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002003,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 落陽-3",
+    "name_en": "The setting sun in the old forest -3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20100519,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019011,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002004,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 落陽-4",
+    "name_en": "The setting sun in the old forest -4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019041,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002101,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 河辺1-1",
+    "name_en": "Kuki Morikabe 1-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20601519,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019181,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002102,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 河辺1-2",
+    "name_en": "Kuki Mori Kawabe 1-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 21303109,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019031,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002103,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 河辺1-3",
+    "name_en": "Kuki Mori Kawabe 1-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 21300722,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019041,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002104,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 河辺1-4",
+    "name_en": "Kuki Mori Kawabe 1-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019151,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002201,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 河辺2-1",
+    "name_en": "Kuki Mori Kawabe 2-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20100424,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019151,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002202,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 河辺2-2",
+    "name_en": "Kuki Mori Kawabe 2-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 20100614,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019161,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002203,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 河辺2-3",
+    "name_en": "Kuki Mori Kawabe 2-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20100707,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019241,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002204,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 河辺2-4",
+    "name_en": "Ancient forest riverside 2-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019131,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002301,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 花開く湖畔1-1",
+    "name_en": "Old Forest Blossoming Lakeside 1-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 21202003,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019141,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002302,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 花開く湖畔1-2",
+    "name_en": "Old Forest Blossoming Lakeside 1-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 21301807,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019231,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002303,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 花開く湖畔1-3",
+    "name_en": "Old Forest Blossoming Lakeside 1-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 21100616,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019131,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002304,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 花開く湖畔1-4",
+    "name_en": "Old Forest Blossoming Lakeside 1-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019051,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002401,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 花開く湖畔2-1",
+    "name_en": "Old Forest Blossoming Lakeside 2-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 20402904,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019251,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002402,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 花開く湖畔2-2",
+    "name_en": "Old Forest Blossoming Lakeside 2-2",
+    "name_en_src": "ml",
+    "node_enemy_id": 21001109,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019191,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002403,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 花開く湖畔2-3",
+    "name_en": "Old Forest Blossoming Lakeside 2-3",
+    "name_en_src": "ml",
+    "node_enemy_id": 20700914,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019061,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 12002404,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "古き森 花開く湖畔2-4",
+    "name_en": "Old Forest Blossoming Lakeside 2-4",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019191,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 13000101,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "遺跡 隠された広間-1",
+    "name_en": "Ruins hidden room-1",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210019191,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 13000201,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "洞窟 忘れられた場所-1",
+    "name_en": "The Cave The Forgotten Place -1",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  }
+]

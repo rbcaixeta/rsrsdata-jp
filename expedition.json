@@ -1,7 +1,7 @@
 [
   {
     "background_id": 700000020,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 1,
     "drop_group_ids": [
       880000001,
@@ -26,7 +26,7 @@
   },
   {
     "background_id": 700000003,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 2,
     "drop_group_ids": [
       880000003,
@@ -51,7 +51,7 @@
   },
   {
     "background_id": 700000002,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 3,
     "drop_group_ids": [
       880000005,
@@ -76,7 +76,7 @@
   },
   {
     "background_id": 700000015,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 1,
     "drop_group_ids": [
       880000007,
@@ -101,7 +101,7 @@
   },
   {
     "background_id": 700000004,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000009,
@@ -126,7 +126,7 @@
   },
   {
     "background_id": 700000004,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000011,
@@ -151,7 +151,7 @@
   },
   {
     "background_id": 700000008,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000013,
@@ -176,7 +176,7 @@
   },
   {
     "background_id": 700000006,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000015,
@@ -201,7 +201,7 @@
   },
   {
     "background_id": 700000007,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000017,
@@ -226,7 +226,7 @@
   },
   {
     "background_id": 700000024,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000019,
@@ -251,7 +251,7 @@
   },
   {
     "background_id": 700000022,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000021,
@@ -276,7 +276,7 @@
   },
   {
     "background_id": 700000078,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000024,
@@ -326,7 +326,7 @@
   },
   {
     "background_id": 700000009,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000028,
@@ -351,7 +351,7 @@
   },
   {
     "background_id": 700000082,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000030,
@@ -376,7 +376,7 @@
   },
   {
     "background_id": 700000023,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000032,
@@ -401,7 +401,7 @@
   },
   {
     "background_id": 700000138,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000034,
@@ -426,7 +426,7 @@
   },
   {
     "background_id": 700000095,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000036,
@@ -476,7 +476,7 @@
   },
   {
     "background_id": 700000036,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000040,
@@ -491,7 +491,7 @@
     "name": "雪山",
     "name_en": "Snow Mountain",
     "name_en_src": "ml",
-    "open_at": 1672801200,
+    "open_at": 0,
     "recommended_status": 180,
     "required_hours": 21,
     "required_player_rank": 200,
@@ -501,7 +501,7 @@
   },
   {
     "background_id": 700000098,
-    "close_at": 0,
+    "close_at": 1683485999,
     "difficulty": 4,
     "drop_group_ids": [
       880000042,
@@ -548,5 +548,74 @@
     "required_quest_id": 0,
     "sort_order": 78,
     "ticket_cost": 94
+  },
+  {
+    "background_id": 700000002,
+    "close_at": 0,
+    "difficulty": 2,
+    "drop_group_ids": [
+      880000003,
+      880000004
+    ],
+    "flavor_text": "",
+    "growth_difficulty": 110,
+    "id": 6700030,
+    "jewel_cost": 0,
+    "name": "草原",
+    "name_en": "steppes",
+    "name_en_src": "ml",
+    "open_at": 0,
+    "recommended_status": 115,
+    "required_hours": 21,
+    "required_player_rank": 8,
+    "required_quest_id": 0,
+    "sort_order": 999,
+    "ticket_cost": 40
+  },
+  {
+    "background_id": 700000020,
+    "close_at": 0,
+    "difficulty": 4,
+    "drop_group_ids": [
+      880000015,
+      880000016
+    ],
+    "flavor_text": "",
+    "growth_difficulty": 0,
+    "id": 6700031,
+    "jewel_cost": 0,
+    "name": "洞窟",
+    "name_en": "caves",
+    "name_en_src": "ml",
+    "open_at": 0,
+    "recommended_status": 0,
+    "required_hours": 21,
+    "required_player_rank": 50,
+    "required_quest_id": 0,
+    "sort_order": 998,
+    "ticket_cost": 100
+  },
+  {
+    "background_id": 700000004,
+    "close_at": 0,
+    "difficulty": 4,
+    "drop_group_ids": [
+      880000042,
+      880000043
+    ],
+    "flavor_text": "",
+    "growth_difficulty": 0,
+    "id": 6700032,
+    "jewel_cost": 0,
+    "name": "密林",
+    "name_en": "Jungle",
+    "name_en_src": "ml",
+    "open_at": 0,
+    "recommended_status": 0,
+    "required_hours": 21,
+    "required_player_rank": 200,
+    "required_quest_id": 0,
+    "sort_order": 997,
+    "ticket_cost": 100
   }
 ]

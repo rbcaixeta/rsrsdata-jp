@@ -1,6 +1,6 @@
 [
   {
-    "flavor_text": "技を覚醒させるための素材。道場で使用できる。ウィークリーミッションやイベントなどで入手できる。",
+    "flavor_text": "技を覚醒させるための素材。道場で使用できる。",
     "flavor_text_en": "Material used to awaken skills/spells at the Dojo. Obtainable from weekly missions or events.",
     "flavor_text_en_src": "gl",
     "icon": 303001,
@@ -12,7 +12,7 @@
     "sort_order": 997
   },
   {
-    "flavor_text": "技を覚醒させるための素材。道場で使用できる。ウィークリーミッションやイベントなどで入手できる。",
+    "flavor_text": "技を覚醒させるための素材。道場で使用できる。",
     "flavor_text_en": "Material used to awaken skills/spells at the Dojo. Obtainable from weekly missions or events.",
     "flavor_text_en_src": "gl",
     "icon": 304001,
@@ -24,7 +24,7 @@
     "sort_order": 998
   },
   {
-    "flavor_text": "技を覚醒させるための素材。道場で使用できる。ウィークリーミッションやイベントなどで入手できる。",
+    "flavor_text": "技を覚醒させるための素材。道場で使用できる。",
     "flavor_text_en": "Material used to awaken skills/spells at the Dojo. Obtainable from weekly missions or events.",
     "flavor_text_en_src": "gl",
     "icon": 305001,
@@ -132,6 +132,18 @@
     "sort_order": 973
   },
   {
+    "flavor_text": "技を覚醒させるためのAランク素材。道場で使用できる。",
+    "flavor_text_en": "A rank material for awakening skills. Can be used in dojos.",
+    "flavor_text_en_src": "ml",
+    "icon": 403030,
+    "id": 403030,
+    "name": "覚醒の砂",
+    "name_en": "Awakening Sands",
+    "name_en_src": "ml",
+    "selling_price": 500,
+    "sort_order": 970
+  },
+  {
     "flavor_text": "技を覚醒させるためのSランク素材。道場で使用できる。ホーム>メインクエストなどで入手できる。",
     "flavor_text_en": "S-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Main Quests and other venues.",
     "flavor_text_en_src": "gl",
@@ -228,6 +240,18 @@
     "sort_order": 981
   },
   {
+    "flavor_text": "技を覚醒させるためのSランク素材。道場で使用できる。",
+    "flavor_text_en": "S-rank material for awakening skills. Can be used in dojos.",
+    "flavor_text_en_src": "ml",
+    "icon": 404030,
+    "id": 404030,
+    "name": "覚醒の石",
+    "name_en": "The Stone of Awakening",
+    "name_en_src": "ml",
+    "selling_price": 1000,
+    "sort_order": 971
+  },
+  {
     "flavor_text": "技を覚醒させるためのSSランク素材。道場で使用できる。イベントなどで入手できる。",
     "flavor_text_en": "SS-rank material used to awaken skills/spells at the Dojo. Can be obtained from events and other special venues.",
     "flavor_text_en_src": "gl",
@@ -322,5 +346,17 @@
     "name_en_src": "gl",
     "selling_price": 2000,
     "sort_order": 989
+  },
+  {
+    "flavor_text": "技を覚醒させるためのSSランク素材。道場で使用できる。",
+    "flavor_text_en": "SS rank material to awaken moves. Can be used in dojos.",
+    "flavor_text_en_src": "ml",
+    "icon": 405030,
+    "id": 405030,
+    "name": "覚醒の宝石",
+    "name_en": "The Awakening Jewel",
+    "name_en_src": "ml",
+    "selling_price": 2000,
+    "sort_order": 972
   }
 ]

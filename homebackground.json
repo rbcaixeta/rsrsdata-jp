@@ -882,9 +882,31 @@
   {
     "id": 83,
     "start_at": 1684983600,
-    "end_at": 1893351599,
+    "end_at": 1685588399,
     "background_id": 10012,
     "bgm": 120333,
+    "offset_x": 0,
+    "offset_y": 0,
+    "is_pan": 1,
+    "home_npc": 0
+  },
+  {
+    "id": 84,
+    "start_at": 1685588400,
+    "end_at": 1686020399,
+    "background_id": 10013,
+    "bgm": 120019,
+    "offset_x": 0,
+    "offset_y": 0,
+    "is_pan": 1,
+    "home_npc": 0
+  },
+  {
+    "id": 85,
+    "start_at": 1686020400,
+    "end_at": 1893351599,
+    "background_id": 10013,
+    "bgm": 120340,
     "offset_x": 0,
     "offset_y": 0,
     "is_pan": 1,

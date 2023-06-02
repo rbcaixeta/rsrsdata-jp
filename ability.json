@@ -18517,6 +18517,26 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000209>エレメントエンハンス(熱)</special_effect>」( 効果超極大 )を付与する( 上限回数:バトル中3回 )<br><br>[攻撃命中時]<br>自身のBPを回復する( +2 )<br><br>[攻撃を受けてHP0になる時]<br>最大HPの100%でふみとどまる( 上限回数:バトル中1回 )<br><br>[ターン終了時]<br>気絶している場合、自身のHPを回復する( 効果中 )<br>(毒ダメージで気絶したターンには発動しない)",
+    "flavor_text_en": "</special_effect><br><br><br><br><br><br>[At the start of turn] Give <br>yourself “<special_effect=800000209>Element Enhancement (heat)” (super extreme effect) (maximum number of times: 3 times during battle) [When hit by an attack] Recover your own BP (+2) [When hit by an attack and your HP becomes 0] Stay at 100% of your maximum HP (maximum number of times: Battle <br>(1 time during) <br><br>[End of turn] <br>If you're stunned, recover your own HP (in effect) (not active on turns where you faint due to poison damage)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101883,
+    "name": "紅蓮の剣士",
+    "name_en": "Guren Swordsman",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042165,
+      802042321,
+      802042314,
+      802042164
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )させ、かつ、自身のBPを回復( +5 )する",
     "flavor_text_en": "[At end of turn] There <br>is a certain chance (during probability) that you will recover your <br>own HP (less effect) and recover your own BP (+5)",
@@ -18621,6 +18641,59 @@
     "sort_order": 0,
     "special_effect_ids": [
       802042162
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身に「エレメントエンハンス(熱)」( 効果超極大 )を付与する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "At the beginning of the turn, grant yourself “Element Enhancement (Heat)” (super high effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101896,
+    "name": "ターン開始時 エレメントエンハンス(熱)",
+    "name_en": "Element enhancement at start of turn (heat)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042166
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、気絶している場合 <br>自身のHPを回復する( 効果中 )<br>(毒ダメージで気絶したターンには発動しない)",
+    "flavor_text_en": "<br>At the end of the turn, if you're stunned, <br>recover your own HP (in effect) (not active on turns where you faint due to poison damage)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101897,
+    "name": "ターン終了時 HP回復(気絶時)(中)",
+    "name_en": "HP recovery at end of turn (when stunned) (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042163
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "熱属性を含む攻撃の与ダメージが上昇する( 効果超極大 )<br><br>[バトル開始時]<br>自身に「<special_effect=800000068>属性ダメージ無効(熱)</special_effect>」を付与する( 効果バトル中永続 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125100267>イグニッションスキャター</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</special_effect><br><br><br>Damage from attacks including heat attributes increases (super extreme effect) [when <br><br>battle starts] grant <br>yourself “<special_effect=800000068> attribute damage disabled (heat)” (effect lasts during battle) [when hitting a technique or jutsu (*) whose type is “attack”] “<skill=125100267>ignition skimmer </skill><br>“Tar” is activated (high probability) (activated by <br>Jutsu Rank 1) * Does not include “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101899,
+    "name": "イグニッションオーラ",
+    "name_en": "ignition aura",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042167,
+      802042330,
+      802042322
     ]
   },
   {
@@ -19033,6 +19106,24 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始から数えて3の倍数のターン開始時]<br>味方生存者全体に「<special_effect=800000230>防御強化(3回)</special_effect>」を付与する( 効果特大/効果3ターン )<br>味方生存者全体のHPを回復する( 効果中 )<br><br>[ターン開始時]<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "</special_effect><br><br><br><br>[At the start of a turn that is multiple of 3, counting from the start of the battle] Grant <br>“<special_effect=800000230> Defense Enhancement (3 times)” to all allied survivors (extra effect/effect 3 turns) Recover all allied survivors' HP (in effect) [At the start of the turn] Recover your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101929,
+    "name": "蒼冷の術士",
+    "name_en": "Soraze no Sorai",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042209,
+      802041830
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時]<br>自身のHPを回復する( 効果極小/効果5ターン )",
     "flavor_text_en": "[At end of turn] Recover <br>your own HP (minimal effect/5 turns of effect)",
@@ -19179,6 +19270,267 @@
       802042167,
       802042230,
       802041049
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[自身以外の味方生存者が攻撃を受けた時]<br>自身に「攻撃強化」を付与する( 効果小/効果2ターン )<br>自身に「防御強化」を付与する( 効果中/効果1ターン )",
+    "flavor_text_en": "<br>[When an allied survivor other than yourself is attacked] Grant “Attack Boost” to yourself (Low Effect/ Effect 2 turns) <br>Grant “Defense Boost” to yourself (in effect/1 turn of effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101942,
+    "name": "奮起の絆",
+    "name_en": "A bond of excitement",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042237,
+      802042238
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時] <br>自身に「<special_effect=800000228>奮起の絆</special_effect>」を付与する( 効果バトル中永続 )<br><br>[直接攻撃を受けた時]<br>被ダメージを軽減し「<skill=111000006>頭突き</skill>」でカウンター攻撃する<br>( 技Rank1で発動 )<br><br>[攻撃を受けた時]<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果大 )を付与する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "</special_effect></skill><br><br><br><br><br><br>[At the start of battle] Grant <br>“<special_effect=800000228>bond of excitement” to yourself (effect lasts during battle) [when directly attacked] Reduce damage taken and counter attack with “<skill=111000006> head-stab” (activated by move Rank1) [When attacked] </special_effect><br>Give yourself “<special_effect=800000095>heat up” (great effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101943,
+    "name": "みんなのために",
+    "name_en": "for everyone",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042239,
+      802042240,
+      802042361
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃を受けた時、自身に「ヒートアップ」( 効果大 )を付与する( 上限回数:バトル中3回 )",
+    "flavor_text_en": "When attacked, give yourself a “heat up” (high effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101944,
+    "name": "被弾時 ヒートアップ",
+    "name_en": "Heats up when hit",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042241
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +1 )<br><br>[攻撃命中時]<br>自身のBPを回復する( +1 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125200275>スペクタクルゲート</skill>」が発動する( 確率特大 )<br>「<skill=125200276>チェックメイト</skill>」が発動する( 確率特大 )<br>( それぞれ術Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</skill></skill><br><br>[At the start of battle] Recover your <br>own BP (+1) [When you hit an <br><br>attack] Recover your <br>own BP (+1) [When you hit a <br><br>technique or jutsu (*) whose type is “attack”] “<skill=125200275> Spectacle Gate” is activated (high probability) “<skill=125200276> checkmate” Activates (high probability) <br>(each activated by Jutsu Rank 1) <br>* Does not include “techniques and techniques activated by the effects of special states”, “accumulation techniques and techniques”, “techniques and techniques that impart a reserve state”, “techniques and techniques activated by this ability effect”, and “counterattack techniques and jutsu due to counter effects”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101945,
+    "name": "灼氷の帳",
+    "name_en": "Book of Scorching Ice",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040323,
+      802041462,
+      802042242,
+      802042243
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「スペクタクルゲート」が発動する( 確率特大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "<br>When a move or jutsu whose type is “attack” is hit, “Spectacle Gate” is activated (high probability) (activated in Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101946,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042244,
+      802042245,
+      802042246
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「チェックメイト」が発動する( 確率特大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "<br>When a technique or jutsu whose type is “attack” is hit, “Checkmate” is activated (high probability) (activated by Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101947,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042247,
+      802042248,
+      802042249
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +4 )<br><br>[攻撃命中時]<br>対象の腕力と知力を低下させる( 効果小 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125600312>ウィキッドラプチャー</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</skill><br><br><br>[At the start of battle] <br>Recover your own BP (+4) [When an <br><br>attack is hit] <br>Decrease the target's strength and intelligence (little effect) [When you hit a <br><br>technique or jutsu (*) whose type is “attack”] “<skill=125600312> Wicked Rapture” is activated (increased probability) (activated by Jutsu Rank 1) * “Due to this ability effect Does not include “techniques and techniques to activate” and “counterattack techniques and techniques due to counter effects”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101948,
+    "name": "ワンダートリック",
+    "name_en": "Wonder trick",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041534,
+      802042250,
+      802042251
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象の腕力と知力を低下させる( 効果小 )",
+    "flavor_text_en": "Reduces the target's strength and intelligence when an attack is hit (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101949,
+    "name": "攻撃時 腕力・知力ダウン",
+    "name_en": "Weakens strength and intelligence when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042309,
+      802042315
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「ウィキッドラプチャー」が発動する( 確率特大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "<br>When you hit a technique or jutsu whose type is “attack”, “Wicked Rapture” is activated (high probability) (activated in Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101950,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042253,
+      802042254,
+      802042255
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>味方生存者全体のODゲージを満タンにする<br>味方生存者全体に「<special_effect=800000158>オーバーエンハンス</special_effect>」を付与する( 効果超極大 )<br>味方生存者全体に「<special_effect=800000229>クレッシェンド</special_effect>」を付与する( 効果バトル中永続 )",
+    "flavor_text_en": "</special_effect></special_effect><br>[At the start of battle] Fill <br>up the OD gauge for all allied survivors Give “<special_effect=800000158> overenhancement” to all allied survivors (super great effect) Grant “<special_effect=800000229> crescendo” to all <br>allied survivors (effect battle in progress) permanent)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101952,
+    "name": "開演",
+    "name_en": "Start of performance",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042257,
+      802042258,
+      802042259
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃時、自身の腕力・器用さ・知力を上昇させる( 効果中 )",
+    "flavor_text_en": "Increases one's own strength, dexterity, and intelligence during OD attacks (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101953,
+    "name": "クレッシェンド",
+    "name_en": "Crescendo",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012260,
+      802012261,
+      802012263
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[バトル開始から数えて3の倍数のターン開始時]<br>味方生存者全体に「防御強化(3回)」を付与する( 効果特大/効果3ターン )<br>味方生存者全体のHPを回復する( 効果中 )",
+    "flavor_text_en": "<br>[At the start of a turn that is a multiple of 3, counting from the start of the battle] Grant “Defense Boost (3 times)” to all allied survivors (extra effect/effect 3 turns) Recover the HP of <br>all allied survivors (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101954,
+    "name": "3の倍数のターン開始時 防御強化(3回)・HP回復(中)",
+    "name_en": "Defense enhancement at the start of a turn multiplied by 3 (3 times) and HP recovery (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012267,
+      802042268
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "冷属性を含む攻撃の与ダメージが上昇する( 効果超極大 )<br><br>[バトル開始時]<br>自身に「<special_effect=800000069>属性ダメージ無効(冷)</special_effect>」を付与する( 効果バトル中永続 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125200272>怒竜の咆哮+</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</special_effect><br><br><br>Damage from attacks including cold attributes is increased (super extreme effect) [when <br><br>battle starts] grant <br>yourself “<special_effect=800000069> attribute damage disabled (cold)” (effect lasts during battle) [when hitting a technique or jutsu (*) whose type is “Attack”] “<skill=125200272>Raging Dragon's Roar + </skill><br>” is activated (high probability) (activated by <br>Jutsu Rank 1) ※ “Techniques/techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects” are not included",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101956,
+    "name": "玄武術の真髄",
+    "name_en": "The essence of Genbujutsu",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042271,
+      802042323,
+      802042331
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "弓装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "<br>When equipped with a bow, damage from attacks increases (maximum effect) Reduces damage taken when attacked (extremely effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101957,
+    "name": "弓の極み",
+    "name_en": "The height of the bow",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042273,
+      802040448
     ]
   },
   {
@@ -19401,6 +19753,64 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br><br>OD攻撃(※)を発動後、「<skill=110800087>流槍三牙</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>[ターン終了時] <br>以下の効果が発動する( 確率大 )<br>・自身の「フェアリーブリーズランサー」の使用回数制限を回復する( +1/バトル開始時点の回数より多くならない )<br>・自身のBPを回復する( +7 )<br>・自身のODゲージを満タンにする<br>・ただし、自身の体力を低下させる( 効果中 )",
+    "flavor_text_en": "</skill><br><br><br><br><br><br>Damage from the attack increases (maximum effect) <br><br>After triggering an OD attack (*), “<skill=110800087> Three Fangs of Fast Spear” is activated (activated by move Rank1) * Does not include “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects” [at end of turn] the following effects will be activated (high probability) /own” <br><br><br>Restore the usage limit for “Fairy Breeze Lancer” (+1/no more than the number of times at the start of the battle) · Recover your own BP (+7) · Fill up your OD gauge · However, reduce your own physical strength (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101970,
+    "name": "かっこいいパイセン",
+    "name_en": "Cool Paisen",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802042289,
+      802042294
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃を発動後、「流槍三牙」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "<br>After activating the OD attack, “Fast Spear Three Fangs” is activated (activated by move Rank1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101971,
+    "name": "かっこいいパイセン・効果①",
+    "name_en": "cool paissen effect ①",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042290,
+      802042291,
+      802042292
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時] <br>以下の効果が発動する( 確率大 )<br>・自身の「フェアリーブリーズランサー」の使用回数制限を回復する( +1/バトル開始時点の回数より多くならない )<br>・自身のBPを回復する( +7 )<br>・自身のODゲージを満タンにする<br>・ただし、自身の体力を低下させる( 効果中 )",
+    "flavor_text_en": "<br><br><br>[At end of turn] <br>The following effects are activated (high probability) ・Recover your own <br>“Fairy Breeze Lancer” usage limit (+1/not more than the number of times at the start of the battle) ・Recover your own BP (+7) ・Fill up your OD gauge ・However, reduce your own physical strength (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101972,
+    "name": "かっこいいパイセン・効果②",
+    "name_en": "cool paissen effect ②",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042295,
+      802041290,
+      802041940,
+      802012293
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "[単体攻撃時]<br>自身に「防御強化」を付与する( 効果小/効果2ターン )<br>自身のBPを回復する( +1 )",
     "flavor_text_en": "<br>[When attacking alone] Give yourself a <br>“Defense Boost” (Low Effect/ Effect 2 turns) Recover your own BP (+1)",
@@ -19418,6 +19828,154 @@
       802042302,
       802042365,
       802042366
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br><br>[バトル開始時] <br>自身のBPを回復する( +4 )<br><br>[ターン終了時]<br>味方生存者全体のHPを回復する( 効果極小 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110900254>光弦詩吟</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+    "flavor_text_en": "</skill><br><br><br><br>Attack damage increases (extra effect) <br><br>[Battle starts] Recover your <br>own BP (+4) [At <br><br>end of turn] Recover <br>all allied survivors' HP (minimal effect) [When you hit a technique or jutsu (*) whose type is “Attack”] “<skill=110900254>Kogen Shigin” is activated (activated by Move Rank1) ) <br>* Does not include “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques triggered by counter effects”",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101979,
+    "name": "琵琶の奏者",
+    "name_en": "The performer of the biwa",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040346,
+      802041534,
+      802042317,
+      802042355
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「光弦詩吟」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "<br>When you hit a move or jutsu whose type is “Attack,” “Kogen Shigin” is activated (activated by Move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101980,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042318,
+      802042319,
+      802042320
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "Recover <br>your own BP when hit by an attack (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101981,
+    "name": "攻撃時 BP回復",
+    "name_en": "BP recovery during attack",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040961
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「イグニッションスキャター」が発動する( 確率特大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "<br>When a move or jutsu whose type is “attack” is hit, an “ignition scatter” is activated (high probability) (activated in jutsu rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101982,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042324,
+      802042325,
+      802042326
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「怒竜の咆哮+」が発動する( 確率特大 )<br>( 術Rank1で発動 )",
+    "flavor_text_en": "<br>When a move or jutsu whose type is “Attack” is hit, “Raging Dragon's Roar +” is activated (increased probability) (activated in Jutsu Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101983,
+    "name": "攻撃時 追加攻撃",
+    "name_en": "Additional attacks when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042327,
+      802042328,
+      802042329
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "杖装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "<br>When equipped with a cane, the damage dealt by the attack increases (maximum effect) Reduces damage taken when attacked (extremely effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101984,
+    "name": "杖の極み",
+    "name_en": "The height of a cane",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041479,
+      802040448
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果1ターン )<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果1ターン )<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "</special_effect></special_effect><br><br>[At the start of a turn] Grant <br>“<special_effect=800000001>Attack Enhancement” to all allied survivors (great effect/effect 1 turn) Grant “<special_effect=800000015> Defense Enhancement” to all allied survivors (in effect/1 turn of effect) Recover your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101985,
+    "name": "攻防の鼓舞Ⅱ",
+    "name_en": "Attack and Defense Inspiration II",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042362,
+      802040807,
+      802040754
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、味方生存者全体のHPを回復する( 効果極小 )",
+    "flavor_text_en": "At the end of the turn, restore HP to all allied survivors (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101998,
+    "name": "ターン終了時 HP回復(極小)",
+    "name_en": "HP recovery at end of turn (minimal)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802010778
     ]
   },
   {
@@ -56182,6 +56740,82 @@
     "flavor_text_en": "Damage dealt to enemies is increased by 90% at all times",
     "flavor_text_en_src": "ml",
     "icon": 4010,
+    "id": 711100455,
+    "name": "鏡花の明印",
+    "name_en": "Kyohana no Meishin",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "鏡花の明印 90%",
+    "simple_flavor_text_en": "Kyoka no Meishin 90%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000395,
+    "special_effect_ids": [
+      811040567
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "常時　敵に与えるダメージが95%上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased by 95% at all times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100456,
+    "name": "鏡花の銘印",
+    "name_en": "Kyohana's inscription",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "鏡花の銘印 95%",
+    "simple_flavor_text_en": "Kyohana's Inscription 95%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000405,
+    "special_effect_ids": [
+      811040572
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "常時　敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased by 99% at all times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100457,
+    "name": "鏡花の玉印",
+    "name_en": "The jewel seal of the mirror flower",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "鏡花の玉印 99%",
+    "simple_flavor_text_en": "Kyoka no Tamajirushi 99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000415,
+    "special_effect_ids": [
+      811040573
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "常時　敵に与えるダメージが100%上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased by 100% at all times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100458,
+    "name": "大業物の刻印",
+    "name_en": "The imprint of a great achievement",
+    "name_en_src": "ml",
+    "rarity": 6,
+    "simple_flavor_text": "大業物の刻印 100%",
+    "simple_flavor_text_en": "100% imprint of a great work",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 310000166,
+    "special_effect_ids": [
+      811040574
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "常時　敵に与えるダメージが90%上昇する",
+    "flavor_text_en": "Damage dealt to enemies is increased by 90% at all times",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
     "id": 711100459,
     "name": "戦いの刻",
     "name_en": "Time of battle",
@@ -56193,6 +56827,2100 @@
     "sort_order": 290000425,
     "special_effect_ids": [
       811040575
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が5上昇する ",
+    "flavor_text_en": "Increases strength by 5 ",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711100460,
+    "name": "腕力上昇",
+    "name_en": "Increased strength",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力+5",
+    "simple_flavor_text_en": "Strength +5",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 200000085,
+    "special_effect_ids": [
+      811040576
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがメカの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>Damage dealt to enemies is increased by 99% when the character is mecha",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100484,
+    "name": "メカ+",
+    "name_en": "Mecha +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "メカ+ 99%",
+    "simple_flavor_text_en": "Mecha +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290005735,
+    "special_effect_ids": [
+      811040600
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがせんせいの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is a sensei, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100487,
+    "name": "せんせい+",
+    "name_en": "Sensei+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "せんせい+ 99%",
+    "simple_flavor_text_en": "Sensei +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290005705,
+    "special_effect_ids": [
+      811040603
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがクローディアの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Claudia, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100519,
+    "name": "クローディア+",
+    "name_en": "Claudia +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "クローディア+ 99%",
+    "simple_flavor_text_en": "Claudia +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290005385,
+    "special_effect_ids": [
+      811040635
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがガラハドの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Galahad, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100524,
+    "name": "ガラハド+",
+    "name_en": "Galahad +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ガラハド+ 99%",
+    "simple_flavor_text_en": "Galahad +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290005335,
+    "special_effect_ids": [
+      811040640
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがナイトハルトの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Nighthardt, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100535,
+    "name": "ナイトハルト+",
+    "name_en": "Nighthard+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ナイトハルト+ 99%",
+    "simple_flavor_text_en": "Knighthardt +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290005225,
+    "special_effect_ids": [
+      811040651
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがジェラールの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Gerard, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100579,
+    "name": "ジェラール+",
+    "name_en": "Gerard+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ジェラール+ 99%",
+    "simple_flavor_text_en": "Gerard +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290004785,
+    "special_effect_ids": [
+      811040695
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターが最終皇帝(女)の場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is the final emperor (female), damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100581,
+    "name": "最終皇帝(女)+",
+    "name_en": "Last emperor (female) +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "最終皇帝(女)+ 99%",
+    "simple_flavor_text_en": "Last emperor (female) +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290004765,
+    "special_effect_ids": [
+      811040697
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがクィーンの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>Damage dealt to enemies is increased by 99% when the character is Queen",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100634,
+    "name": "クィーン+",
+    "name_en": "QUEEN +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "クィーン+ 99%",
+    "simple_flavor_text_en": "Queen +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290004235,
+    "special_effect_ids": [
+      811040750
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターが海の主の娘の場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is the daughter of the Lord of the Sea, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100636,
+    "name": "海の主の娘+",
+    "name_en": "Daughter of the Lord of the Sea +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "海の主の娘+ 99%",
+    "simple_flavor_text_en": "Daughter of the Lord of the Sea +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290004215,
+    "special_effect_ids": [
+      811040752
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがハリードの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Harry, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100647,
+    "name": "ハリード+",
+    "name_en": "Harryd+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ハリード+ 99%",
+    "simple_flavor_text_en": "Harry's +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290004105,
+    "special_effect_ids": [
+      811040763
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがエレンの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Eren, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100649,
+    "name": "エレン+",
+    "name_en": "Ellen +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "エレン+ 99%",
+    "simple_flavor_text_en": "Ellen +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290004085,
+    "special_effect_ids": [
+      811040765
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがタチアナの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Tatiana, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100652,
+    "name": "タチアナ+",
+    "name_en": "Tatiana +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "タチアナ+ 99%",
+    "simple_flavor_text_en": "Tatiana +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290004055,
+    "special_effect_ids": [
+      811040768
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがビューネイの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>Damage dealt to enemies is increased by 99% when the character is Buuney",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100721,
+    "name": "ビューネイ+",
+    "name_en": "Beuney+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ビューネイ+ 99%",
+    "simple_flavor_text_en": "Bueney +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290003365,
+    "special_effect_ids": [
+      811040837
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがエミリアの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Emilia, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100731,
+    "name": "エミリア+",
+    "name_en": "Emilia+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "エミリア+ 99%",
+    "simple_flavor_text_en": "Emilia +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290003265,
+    "special_effect_ids": [
+      811040847
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがヒューズの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Hughes, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100734,
+    "name": "ヒューズ+",
+    "name_en": "fuse +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ヒューズ+ 99%",
+    "simple_flavor_text_en": "Fuse +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290003235,
+    "special_effect_ids": [
+      811040850
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがサイレンスの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>Damage dealt to enemies is increased by 99% when the character is silent",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100736,
+    "name": "サイレンス+",
+    "name_en": "silence+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "サイレンス+ 99%",
+    "simple_flavor_text_en": "Silence +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290003215,
+    "special_effect_ids": [
+      811040852
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがコーデリアの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Cordelia, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100805,
+    "name": "コーデリア+",
+    "name_en": "Cordelia +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "コーデリア+ 99%",
+    "simple_flavor_text_en": "Cordelia +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290002525,
+    "special_effect_ids": [
+      811040921
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがエデルの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Eder, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100850,
+    "name": "エデル+",
+    "name_en": "Edel+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "エデル+ 99%",
+    "simple_flavor_text_en": "Edel +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290002075,
+    "special_effect_ids": [
+      811040966
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがｲｽｶﾝﾀﾞｰﾙの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is an Iscantar, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100853,
+    "name": "ｲｽｶﾝﾀﾞｰﾙ+",
+    "name_en": "ISKANTAL+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ｲｽｶﾝﾀﾞｰﾙ+ 99%",
+    "simple_flavor_text_en": "ISKANTAR + 99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290002045,
+    "special_effect_ids": [
+      811040969
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがセルマの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Selma, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100857,
+    "name": "セルマ+",
+    "name_en": "Selma +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "セルマ+ 99%",
+    "simple_flavor_text_en": "Selma +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290002005,
+    "special_effect_ids": [
+      811040973
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがウルピナの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Ulpina, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100884,
+    "name": "ウルピナ+",
+    "name_en": "Ulpina +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ウルピナ+ 99%",
+    "simple_flavor_text_en": "Ulpina +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290001735,
+    "special_effect_ids": [
+      811041000
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがｽﾄﾙﾑｨｸﾈﾝの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>Damage dealt to enemies is increased by 99% when the character is stumped",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100920,
+    "name": "ｽﾄﾙﾑｨｸﾈﾝ+",
+    "name_en": "Sturmühn+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ｽﾄﾙﾑｨｸﾈﾝ+ 99%",
+    "simple_flavor_text_en": "Sturmück + 99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290001375,
+    "special_effect_ids": [
+      811041036
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがツバキの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is a camellia, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100961,
+    "name": "ツバキ+",
+    "name_en": "camellia +",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ツバキ+ 99%",
+    "simple_flavor_text_en": "Camellia +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000965,
+    "special_effect_ids": [
+      811041077
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがﾘｽﾞ･ﾘﾝ･ｳｯﾄﾞの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>Damage dealt to enemies is increased by 99% when the character is Risu Ling Udo",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711100976,
+    "name": "ﾘｽﾞ･ﾘﾝ･ｳｯﾄﾞ+",
+    "name_en": "LISS LING WOOD+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "ﾘｽﾞ･ﾘﾝ･ｳｯﾄﾞ+ 99%",
+    "simple_flavor_text_en": "RISU LING WOO DOO + 99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000815,
+    "special_effect_ids": [
+      811041092
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "キャラクターがイーヴリンの場合<br>敵に与えるダメージが99%上昇する",
+    "flavor_text_en": "<br>If the character is Evelyn, damage dealt to enemies is increased by 99%",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 711101007,
+    "name": "イーヴリン+",
+    "name_en": "Evelyn+",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "イーヴリン+ 99%",
+    "simple_flavor_text_en": "Evelyn +99%",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 290000505,
+    "special_effect_ids": [
+      811041123
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が4上昇する<br>毒耐性が10上昇する",
+    "flavor_text_en": "<br>Increases strength by 4; Poison resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101015,
+    "name": "腕力・毒耐性",
+    "name_en": "Strength and poison resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力4/毒耐性10",
+    "simple_flavor_text_en": "Brutality 4/Poison Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000815,
+    "special_effect_ids": [
+      803040207,
+      803040287
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が4上昇する<br>暗闇耐性が10上昇する",
+    "flavor_text_en": "<br>Increases strength by 4 increases immunity to darkness by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101016,
+    "name": "腕力・暗闇耐性",
+    "name_en": "Strength and Darkness Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力4/暗闇耐性10",
+    "simple_flavor_text_en": "4 Brutality, 10 Darkness Resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000805,
+    "special_effect_ids": [
+      803040207,
+      803040297
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が4上昇する<br>スタン耐性が10上昇する",
+    "flavor_text_en": "<br>Increases strength by 4 increases stun resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101017,
+    "name": "腕力・スタン耐性",
+    "name_en": "Strength and stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力4/スタン耐性10",
+    "simple_flavor_text_en": "4 Armor 4, Stun Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000795,
+    "special_effect_ids": [
+      803040207,
+      803040307
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が4上昇する<br>マヒ耐性が10上昇する",
+    "flavor_text_en": "<br>Increases strength by 4 and increases paralysis resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101018,
+    "name": "腕力・マヒ耐性",
+    "name_en": "Strength and paralysis resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力4/マヒ耐性10",
+    "simple_flavor_text_en": "4 strength 4, paralysis resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000785,
+    "special_effect_ids": [
+      803040207,
+      803040317
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が4上昇する<br>眠り耐性が10上昇する",
+    "flavor_text_en": "<br>Increases strength by 4; increases sleep tolerance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101019,
+    "name": "腕力・眠り耐性",
+    "name_en": "Strength and sleep tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力4/眠り耐性10",
+    "simple_flavor_text_en": "Strength 4/Sleep Tolerance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000775,
+    "special_effect_ids": [
+      803040207,
+      803040327
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が4上昇する<br>石化耐性が10上昇する",
+    "flavor_text_en": "<br>Strength is increased by 4, petrification resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101020,
+    "name": "腕力・石化耐性",
+    "name_en": "Strength and petrochemical resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力4/石化耐性10",
+    "simple_flavor_text_en": "4 brute strength 4, petrification resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000765,
+    "special_effect_ids": [
+      803040207,
+      803040337
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が4上昇する<br>混乱耐性が10上昇する",
+    "flavor_text_en": "<br>Strength is increased by 4, chaos resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101021,
+    "name": "腕力・混乱耐性",
+    "name_en": "Strength and chaos resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力4/混乱耐性10",
+    "simple_flavor_text_en": "4 brute strength 4, chaos resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000755,
+    "special_effect_ids": [
+      803040207,
+      803040347
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が4上昇する<br>魅了耐性が10上昇する",
+    "flavor_text_en": "<br>Strength is increased by 4, fascination resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101022,
+    "name": "腕力・魅了耐性",
+    "name_en": "Strength and fascination resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力4/魅了耐性10",
+    "simple_flavor_text_en": "4 Stamina, 10 Enchantment Resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000745,
+    "special_effect_ids": [
+      803040207,
+      803040357
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が4上昇する<br>狂戦士耐性が10上昇する",
+    "flavor_text_en": "<br>Increases strength by 4, Berserker resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101023,
+    "name": "腕力・狂戦士耐性",
+    "name_en": "Strength and Berserker Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力4/狂戦士耐性10",
+    "simple_flavor_text_en": "4 Strength 4, Berserker Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000735,
+    "special_effect_ids": [
+      803040207,
+      803040367
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "腕力が4上昇する<br>気絶耐性が10上昇する",
+    "flavor_text_en": "<br>Increases strength by 4, stun resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101024,
+    "name": "腕力・気絶耐性",
+    "name_en": "Strength and stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "腕力4/気絶耐性10",
+    "simple_flavor_text_en": "4 Armor 4, Stun Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000725,
+    "special_effect_ids": [
+      803040207,
+      803040377
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体力が4上昇する<br>毒耐性が10上昇する",
+    "flavor_text_en": "<br>Stamina increases by 4, Poison resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101025,
+    "name": "体力・毒耐性",
+    "name_en": "Stamina and Poison Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "体力4/毒耐性10",
+    "simple_flavor_text_en": "4 health, 10 poison resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000715,
+    "special_effect_ids": [
+      803040217,
+      803040287
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体力が4上昇する<br>暗闇耐性が10上昇する",
+    "flavor_text_en": "<br>Increases health by 4 increases immunity to darkness by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101026,
+    "name": "体力・暗闇耐性",
+    "name_en": "Stamina and Darkness Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "体力4/暗闇耐性10",
+    "simple_flavor_text_en": "4 health, 10 dark resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000705,
+    "special_effect_ids": [
+      803040217,
+      803040297
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体力が4上昇する<br>スタン耐性が10上昇する",
+    "flavor_text_en": "<br>Increases health by 4, stun resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101027,
+    "name": "体力・スタン耐性",
+    "name_en": "Stamina and stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "体力4/スタン耐性10",
+    "simple_flavor_text_en": "4 health, 10 stun resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000695,
+    "special_effect_ids": [
+      803040217,
+      803040307
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体力が4上昇する<br>マヒ耐性が10上昇する",
+    "flavor_text_en": "<br>Increases physical strength by 4, increases paralysis resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101028,
+    "name": "体力・マヒ耐性",
+    "name_en": "Physical strength and paralysis resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "体力4/マヒ耐性10",
+    "simple_flavor_text_en": "4 health, 10 paralysis resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000685,
+    "special_effect_ids": [
+      803040217,
+      803040317
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体力が4上昇する<br>眠り耐性が10上昇する",
+    "flavor_text_en": "<br>Increases physical strength by 4; increases sleep tolerance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101029,
+    "name": "体力・眠り耐性",
+    "name_en": "Physical strength and sleep tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "体力4/眠り耐性10",
+    "simple_flavor_text_en": "4 health, 10 sleep resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000675,
+    "special_effect_ids": [
+      803040217,
+      803040327
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体力が4上昇する<br>石化耐性が10上昇する",
+    "flavor_text_en": "<br>Increases health by 4 increases petrification resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101030,
+    "name": "体力・石化耐性",
+    "name_en": "Physical strength and petrochemical resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "体力4/石化耐性10",
+    "simple_flavor_text_en": "4 health, 10 petrification resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000665,
+    "special_effect_ids": [
+      803040217,
+      803040337
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体力が4上昇する<br>混乱耐性が10上昇する",
+    "flavor_text_en": "<br>Health is increased by 4, chaos resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101031,
+    "name": "体力・混乱耐性",
+    "name_en": "Physical strength and chaos resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "体力4/混乱耐性10",
+    "simple_flavor_text_en": "4 health, 10 chaos resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000655,
+    "special_effect_ids": [
+      803040217,
+      803040347
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体力が4上昇する<br>魅了耐性が10上昇する",
+    "flavor_text_en": "<br>Health is increased by 4, fascination resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101032,
+    "name": "体力・魅了耐性",
+    "name_en": "Stamina and Enchantment Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "体力4/魅了耐性10",
+    "simple_flavor_text_en": "4 health, 10 charm resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000645,
+    "special_effect_ids": [
+      803040217,
+      803040357
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体力が4上昇する<br>狂戦士耐性が10上昇する",
+    "flavor_text_en": "<br>Increases health by 4, Berserker resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101033,
+    "name": "体力・狂戦士耐性",
+    "name_en": "Stamina and Berserker Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "体力4/狂戦士耐性10",
+    "simple_flavor_text_en": "4 health, 10 Berserker resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000635,
+    "special_effect_ids": [
+      803040217,
+      803040367
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体力が4上昇する<br>気絶耐性が10上昇する",
+    "flavor_text_en": "<br>Increases health by 4, stun resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101034,
+    "name": "体力・気絶耐性",
+    "name_en": "Stamina and stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "体力4/気絶耐性10",
+    "simple_flavor_text_en": "4 health, 10 stun resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000625,
+    "special_effect_ids": [
+      803040217,
+      803040377
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "器用さが4上昇する<br>毒耐性が10上昇する",
+    "flavor_text_en": "<br>Dexterity is increased by 4, poison resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101035,
+    "name": "器用さ・毒耐性",
+    "name_en": "Dexterity and poison resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "器用さ4/毒耐性10",
+    "simple_flavor_text_en": "Dexterity 4/Poison Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000615,
+    "special_effect_ids": [
+      803040227,
+      803040287
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "器用さが4上昇する<br>暗闇耐性が10上昇する",
+    "flavor_text_en": "<br>Dexterity is increased by 4, and resistance to darkness is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101036,
+    "name": "器用さ・暗闇耐性",
+    "name_en": "Dexterity and dark resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "器用さ4/暗闇耐性10",
+    "simple_flavor_text_en": "dexterity 4/dark resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000605,
+    "special_effect_ids": [
+      803040227,
+      803040297
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "器用さが4上昇する<br>スタン耐性が10上昇する",
+    "flavor_text_en": "<br>Dexterity is increased by 4, stun resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101037,
+    "name": "器用さ・スタン耐性",
+    "name_en": "Dexterity and stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "器用さ4/スタン耐性10",
+    "simple_flavor_text_en": "4 dexterity 4, stun resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000595,
+    "special_effect_ids": [
+      803040227,
+      803040307
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "器用さが4上昇する<br>マヒ耐性が10上昇する",
+    "flavor_text_en": "<br>Increases dexterity by 4 increases paralysis resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101038,
+    "name": "器用さ・マヒ耐性",
+    "name_en": "Dexterity and resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "器用さ4/マヒ耐性10",
+    "simple_flavor_text_en": "dexterity 4/paralysis resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000585,
+    "special_effect_ids": [
+      803040227,
+      803040317
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "器用さが4上昇する<br>眠り耐性が10上昇する",
+    "flavor_text_en": "<br>Dexterity is increased by 4, sleep tolerance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101039,
+    "name": "器用さ・眠り耐性",
+    "name_en": "Dexterity and sleep tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "器用さ4/眠り耐性10",
+    "simple_flavor_text_en": "Dexterity 4/Sleep Tolerance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000575,
+    "special_effect_ids": [
+      803040227,
+      803040327
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "器用さが4上昇する<br>石化耐性が10上昇する",
+    "flavor_text_en": "<br>Dexterity is increased by 4, petrification resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101040,
+    "name": "器用さ・石化耐性",
+    "name_en": "Dexterity and petrification resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "器用さ4/石化耐性10",
+    "simple_flavor_text_en": "Dexterity 4/petrification resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000565,
+    "special_effect_ids": [
+      803040227,
+      803040337
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "器用さが4上昇する<br>混乱耐性が10上昇する",
+    "flavor_text_en": "<br>Dexterity is increased by 4, chaos resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101041,
+    "name": "器用さ・混乱耐性",
+    "name_en": "Dexterity and chaos resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "器用さ4/混乱耐性10",
+    "simple_flavor_text_en": "dexterity 4/chaos resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000555,
+    "special_effect_ids": [
+      803040227,
+      803040347
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "器用さが4上昇する<br>魅了耐性が10上昇する",
+    "flavor_text_en": "<br>Dexterity is increased by 4, fascination resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101042,
+    "name": "器用さ・魅了耐性",
+    "name_en": "Dexterity and fascination resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "器用さ4/魅了耐性10",
+    "simple_flavor_text_en": "Dexterity 4/Fascination Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000545,
+    "special_effect_ids": [
+      803040227,
+      803040357
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "器用さが4上昇する<br>狂戦士耐性が10上昇する",
+    "flavor_text_en": "<br>Dexterity is increased by 4, Berserker resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101043,
+    "name": "器用さ・狂戦士耐性",
+    "name_en": "Dexterity and Berserker Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "器用さ4/狂戦士耐性10",
+    "simple_flavor_text_en": "Dexterity 4/Berserker Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000535,
+    "special_effect_ids": [
+      803040227,
+      803040367
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "器用さが4上昇する<br>気絶耐性が10上昇する",
+    "flavor_text_en": "<br>Dexterity is increased by 4, stun resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101044,
+    "name": "器用さ・気絶耐性",
+    "name_en": "Dexterity and stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "器用さ4/気絶耐性10",
+    "simple_flavor_text_en": "Dexterity 4/Stun Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000525,
+    "special_effect_ids": [
+      803040227,
+      803040377
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "素早さが4上昇する<br>毒耐性が10上昇する",
+    "flavor_text_en": "<br>Increases agility by 4; Poison resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101045,
+    "name": "素早さ・毒耐性",
+    "name_en": "Agility and poison resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "素早さ4/毒耐性10",
+    "simple_flavor_text_en": "Swiftness 4, Poison Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000515,
+    "special_effect_ids": [
+      803040237,
+      803040287
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "素早さが4上昇する<br>暗闇耐性が10上昇する",
+    "flavor_text_en": "<br>Increases Agility by 4 Increases Darkness Resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101046,
+    "name": "素早さ・暗闇耐性",
+    "name_en": "Quickness and dark resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "素早さ4/暗闇耐性10",
+    "simple_flavor_text_en": "4 quickness 4, darkness resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000505,
+    "special_effect_ids": [
+      803040237,
+      803040297
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "素早さが4上昇する<br>スタン耐性が10上昇する",
+    "flavor_text_en": "<br>Increases quickness by 4 increases stun resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101047,
+    "name": "素早さ・スタン耐性",
+    "name_en": "Agility and stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "素早さ4/スタン耐性10",
+    "simple_flavor_text_en": "4 quickness, 10 stun resistance",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000495,
+    "special_effect_ids": [
+      803040237,
+      803040307
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "素早さが4上昇する<br>マヒ耐性が10上昇する",
+    "flavor_text_en": "<br>Increases agility by 4 and increases paralysis resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101048,
+    "name": "素早さ・マヒ耐性",
+    "name_en": "Quickness and resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "素早さ4/マヒ耐性10",
+    "simple_flavor_text_en": "4 quickness 4, paralysis resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000485,
+    "special_effect_ids": [
+      803040237,
+      803040317
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "素早さが4上昇する<br>眠り耐性が10上昇する",
+    "flavor_text_en": "<br>Increases quickness by 4, increases sleep tolerance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101049,
+    "name": "素早さ・眠り耐性",
+    "name_en": "Quickness and sleep tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "素早さ4/眠り耐性10",
+    "simple_flavor_text_en": "Swiftness 4/Sleep Tolerance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000475,
+    "special_effect_ids": [
+      803040237,
+      803040327
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "素早さが4上昇する<br>石化耐性が10上昇する",
+    "flavor_text_en": "<br>Agility is increased by 4, petrification resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101050,
+    "name": "素早さ・石化耐性",
+    "name_en": "Agility and petrochemical resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "素早さ4/石化耐性10",
+    "simple_flavor_text_en": "Agility 4/Petrification Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000465,
+    "special_effect_ids": [
+      803040237,
+      803040337
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "素早さが4上昇する<br>混乱耐性が10上昇する",
+    "flavor_text_en": "<br>Agility is increased by 4, chaos resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101051,
+    "name": "素早さ・混乱耐性",
+    "name_en": "Agility and chaos resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "素早さ4/混乱耐性10",
+    "simple_flavor_text_en": "Swiftness 4/Confusion Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000455,
+    "special_effect_ids": [
+      803040237,
+      803040347
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "素早さが4上昇する<br>魅了耐性が10上昇する",
+    "flavor_text_en": "<br>Quickness is increased by 4, fascination resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101052,
+    "name": "素早さ・魅了耐性",
+    "name_en": "Quickness and fascination resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "素早さ4/魅了耐性10",
+    "simple_flavor_text_en": "Swiftness 4/Attraction Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000445,
+    "special_effect_ids": [
+      803040237,
+      803040357
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "素早さが4上昇する<br>狂戦士耐性が10上昇する",
+    "flavor_text_en": "<br>Increases agility by 4, Berserker resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101053,
+    "name": "素早さ・狂戦士耐性",
+    "name_en": "Agility and Berserker Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "素早さ4/狂戦士耐性10",
+    "simple_flavor_text_en": "Swiftness 4, Berserker Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000435,
+    "special_effect_ids": [
+      803040237,
+      803040367
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "素早さが4上昇する<br>気絶耐性が10上昇する",
+    "flavor_text_en": "<br>Increases agility by 4 increases stun resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101054,
+    "name": "素早さ・気絶耐性",
+    "name_en": "Agility and stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "素早さ4/気絶耐性10",
+    "simple_flavor_text_en": "4 quickness 4, stun resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000425,
+    "special_effect_ids": [
+      803040237,
+      803040377
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "知力が4上昇する<br>毒耐性が10上昇する",
+    "flavor_text_en": "<br>Increases intelligence by 4; Poison resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101055,
+    "name": "知力・毒耐性",
+    "name_en": "Intellect and Poison Tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "知力4/毒耐性10",
+    "simple_flavor_text_en": "Intellect 4/Poison Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000415,
+    "special_effect_ids": [
+      803040247,
+      803040287
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "知力が4上昇する<br>暗闇耐性が10上昇する",
+    "flavor_text_en": "<br>Increases intelligence by 4 increases immunity to darkness by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101056,
+    "name": "知力・暗闇耐性",
+    "name_en": "Intellect and Darkness Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "知力4/暗闇耐性10",
+    "simple_flavor_text_en": "Intellect 4/Darkness Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000405,
+    "special_effect_ids": [
+      803040247,
+      803040297
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "知力が4上昇する<br>スタン耐性が10上昇する",
+    "flavor_text_en": "<br>Increases intelligence by 4 increases stun resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101057,
+    "name": "知力・スタン耐性",
+    "name_en": "Intellect and stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "知力4/スタン耐性10",
+    "simple_flavor_text_en": "Intellect 4/Stun Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000395,
+    "special_effect_ids": [
+      803040247,
+      803040307
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "知力が4上昇する<br>マヒ耐性が10上昇する",
+    "flavor_text_en": "<br>Increases intelligence by 4 increases paralysis resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101058,
+    "name": "知力・マヒ耐性",
+    "name_en": "Intellect and paralysis resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "知力4/マヒ耐性10",
+    "simple_flavor_text_en": "Intellect 4/Paralytic Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000385,
+    "special_effect_ids": [
+      803040247,
+      803040317
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "知力が4上昇する<br>眠り耐性が10上昇する",
+    "flavor_text_en": "<br>Increases intelligence by 4, increases sleep tolerance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101059,
+    "name": "知力・眠り耐性",
+    "name_en": "Intellect and sleep tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "知力4/眠り耐性10",
+    "simple_flavor_text_en": "Intellect 4/Sleep Tolerance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000375,
+    "special_effect_ids": [
+      803040247,
+      803040327
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "知力が4上昇する<br>石化耐性が10上昇する",
+    "flavor_text_en": "<br>Increases intelligence by 4 increases petrification resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101060,
+    "name": "知力・石化耐性",
+    "name_en": "Intellect and petrochemical resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "知力4/石化耐性10",
+    "simple_flavor_text_en": "Intellect 4/Petrification Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000365,
+    "special_effect_ids": [
+      803040247,
+      803040337
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "知力が4上昇する<br>混乱耐性が10上昇する",
+    "flavor_text_en": "<br>Intellect is increased by 4, confusion resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101061,
+    "name": "知力・混乱耐性",
+    "name_en": "Intellect and Confusion Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "知力4/混乱耐性10",
+    "simple_flavor_text_en": "Intellect 4/Confusion Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000355,
+    "special_effect_ids": [
+      803040247,
+      803040347
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "知力が4上昇する<br>魅了耐性が10上昇する",
+    "flavor_text_en": "<br>Intellect is increased by 4, fascination resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101062,
+    "name": "知力・魅了耐性",
+    "name_en": "Intellect and fascination resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "知力4/魅了耐性10",
+    "simple_flavor_text_en": "Intellect 4/Fascination Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000345,
+    "special_effect_ids": [
+      803040247,
+      803040357
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "知力が4上昇する<br>狂戦士耐性が10上昇する",
+    "flavor_text_en": "<br>Increases intelligence by 4, Berserker resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101063,
+    "name": "知力・狂戦士耐性",
+    "name_en": "Intellect and Berserker Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "知力4/狂戦士耐性10",
+    "simple_flavor_text_en": "Intellect 4/Berserker Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000335,
+    "special_effect_ids": [
+      803040247,
+      803040367
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "知力が4上昇する<br>気絶耐性が10上昇する",
+    "flavor_text_en": "<br>Increases intelligence by 4 increases stun resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101064,
+    "name": "知力・気絶耐性",
+    "name_en": "Intellect and stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "知力4/気絶耐性10",
+    "simple_flavor_text_en": "Intellect 4/Stun Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000325,
+    "special_effect_ids": [
+      803040247,
+      803040377
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "精神が4上昇する<br>毒耐性が10上昇する",
+    "flavor_text_en": "<br>Increases mental strength by 4; Poison resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101065,
+    "name": "精神・毒耐性",
+    "name_en": "Mental and Toxic Tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "精神4/毒耐性10",
+    "simple_flavor_text_en": "Mental 4/Poison Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000315,
+    "special_effect_ids": [
+      803040257,
+      803040287
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "精神が4上昇する<br>暗闇耐性が10上昇する",
+    "flavor_text_en": "<br>Increases spirit by 4 increases immunity to darkness by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101066,
+    "name": "精神・暗闇耐性",
+    "name_en": "Mental and dark tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "精神4/暗闇耐性10",
+    "simple_flavor_text_en": "Spirit 4/Darkness Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000305,
+    "special_effect_ids": [
+      803040257,
+      803040297
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "精神が4上昇する<br>スタン耐性が10上昇する",
+    "flavor_text_en": "<br>Increases spirit by 4, stun resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101067,
+    "name": "精神・スタン耐性",
+    "name_en": "Mental stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "精神4/スタン耐性10",
+    "simple_flavor_text_en": "4 mentality 4, stun resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000295,
+    "special_effect_ids": [
+      803040257,
+      803040307
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "精神が4上昇する<br>マヒ耐性が10上昇する",
+    "flavor_text_en": "<br>Increases mental strength by 4, increases paralysis resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101068,
+    "name": "精神・マヒ耐性",
+    "name_en": "Mental and paralytic tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "精神4/マヒ耐性10",
+    "simple_flavor_text_en": "4 mentality 4, paralysis resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000285,
+    "special_effect_ids": [
+      803040257,
+      803040317
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "精神が4上昇する<br>眠り耐性が10上昇する",
+    "flavor_text_en": "<br>Increases mental strength by 4, increases sleep tolerance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101069,
+    "name": "精神・眠り耐性",
+    "name_en": "Mental and sleep tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "精神4/眠り耐性10",
+    "simple_flavor_text_en": "Mental 4/Sleep Tolerance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000275,
+    "special_effect_ids": [
+      803040257,
+      803040327
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "精神が4上昇する<br>石化耐性が10上昇する",
+    "flavor_text_en": "<br>Increases spirit by 4 increases petrification resistance by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101070,
+    "name": "精神・石化耐性",
+    "name_en": "Mental and petrochemical resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "精神4/石化耐性10",
+    "simple_flavor_text_en": "Spirit 4/Petrification Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000265,
+    "special_effect_ids": [
+      803040257,
+      803040337
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "精神が4上昇する<br>混乱耐性が10上昇する",
+    "flavor_text_en": "<br>Increases mental strength by 4, confusion resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101071,
+    "name": "精神・混乱耐性",
+    "name_en": "Mental and Confusion Tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "精神4/混乱耐性10",
+    "simple_flavor_text_en": "Mind 4/Confusion Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000255,
+    "special_effect_ids": [
+      803040257,
+      803040347
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "精神が4上昇する<br>魅了耐性が10上昇する",
+    "flavor_text_en": "<br>Increases spirit by 4, fascination resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101072,
+    "name": "精神・魅了耐性",
+    "name_en": "Mentality and fascination tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "精神4/魅了耐性10",
+    "simple_flavor_text_en": "4 Spirit 4, Enchantment Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000245,
+    "special_effect_ids": [
+      803040257,
+      803040357
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "精神が4上昇する<br>狂戦士耐性が10上昇する",
+    "flavor_text_en": "<br>Increases spirit by 4, Berserker resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101073,
+    "name": "精神・狂戦士耐性",
+    "name_en": "Mental and Berserker Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "精神4/狂戦士耐性10",
+    "simple_flavor_text_en": "4 mentality 4, berserker resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000235,
+    "special_effect_ids": [
+      803040257,
+      803040367
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "精神が4上昇する<br>気絶耐性が10上昇する",
+    "flavor_text_en": "<br>Increases mental strength by 4, stun resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101074,
+    "name": "精神・気絶耐性",
+    "name_en": "Mental and fainting resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "精神4/気絶耐性10",
+    "simple_flavor_text_en": "4 mentality 4, stun resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000225,
+    "special_effect_ids": [
+      803040257,
+      803040377
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "愛が4上昇する<br>毒耐性が10上昇する",
+    "flavor_text_en": "<br>Love rises by 4 Poison resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101075,
+    "name": "愛・毒耐性",
+    "name_en": "Love and Poison Tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "愛4/毒耐性10",
+    "simple_flavor_text_en": "Love 4/Poison Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000215,
+    "special_effect_ids": [
+      803040267,
+      803040287
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "愛が4上昇する<br>暗闇耐性が10上昇する",
+    "flavor_text_en": "<br>Love increases by 4, Darkness resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101076,
+    "name": "愛・暗闇耐性",
+    "name_en": "Love and Darkness Tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "愛4/暗闇耐性10",
+    "simple_flavor_text_en": "Love4/Darkness Tolerance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000205,
+    "special_effect_ids": [
+      803040267,
+      803040297
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "愛が4上昇する<br>スタン耐性が10上昇する",
+    "flavor_text_en": "<br>Love increases by 4, stun resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101077,
+    "name": "愛・スタン耐性",
+    "name_en": "Love Stan Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "愛4/スタン耐性10",
+    "simple_flavor_text_en": "love 4/stun resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000195,
+    "special_effect_ids": [
+      803040267,
+      803040307
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "愛が4上昇する<br>マヒ耐性が10上昇する",
+    "flavor_text_en": "<br>Love increases by 4, paralysis resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101078,
+    "name": "愛・マヒ耐性",
+    "name_en": "Love and Mahi Tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "愛4/マヒ耐性10",
+    "simple_flavor_text_en": "Love 4/paralysis resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000185,
+    "special_effect_ids": [
+      803040267,
+      803040317
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "愛が4上昇する<br>眠り耐性が10上昇する",
+    "flavor_text_en": "<br>Love rises by 4, sleep tolerance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101079,
+    "name": "愛・眠り耐性",
+    "name_en": "Love and sleep tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "愛4/眠り耐性10",
+    "simple_flavor_text_en": "Love 4/Sleep Tolerance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000175,
+    "special_effect_ids": [
+      803040267,
+      803040327
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "愛が4上昇する<br>石化耐性が10上昇する",
+    "flavor_text_en": "<br>Love increases by 4, petrification resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101080,
+    "name": "愛・石化耐性",
+    "name_en": "Love and petrochemical resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "愛4/石化耐性10",
+    "simple_flavor_text_en": "Ai4/petrification resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000165,
+    "special_effect_ids": [
+      803040267,
+      803040337
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "愛が4上昇する<br>混乱耐性が10上昇する",
+    "flavor_text_en": "<br>Love increases by 4, chaos resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101081,
+    "name": "愛・混乱耐性",
+    "name_en": "Love and Confusion Tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "愛4/混乱耐性10",
+    "simple_flavor_text_en": "Love 4/Confusion Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000155,
+    "special_effect_ids": [
+      803040267,
+      803040347
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "愛が4上昇する<br>魅了耐性が10上昇する",
+    "flavor_text_en": "<br>Love increases by 4, fascination resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101082,
+    "name": "愛・魅了耐性",
+    "name_en": "Love, fascination, patience",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "愛4/魅了耐性10",
+    "simple_flavor_text_en": "Love 4/Enchantment Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000145,
+    "special_effect_ids": [
+      803040267,
+      803040357
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "愛が4上昇する<br>狂戦士耐性が10上昇する",
+    "flavor_text_en": "<br>Love increases by 4, Berserker resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101083,
+    "name": "愛・狂戦士耐性",
+    "name_en": "Berserker Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "愛4/狂戦士耐性10",
+    "simple_flavor_text_en": "Love 4/Berserker Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000135,
+    "special_effect_ids": [
+      803040267,
+      803040367
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "愛が4上昇する<br>気絶耐性が10上昇する",
+    "flavor_text_en": "<br>Love increases by 4, stun resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101084,
+    "name": "愛・気絶耐性",
+    "name_en": "Love and fainting resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "愛4/気絶耐性10",
+    "simple_flavor_text_en": "love 4/stun resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000125,
+    "special_effect_ids": [
+      803040267,
+      803040377
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "魅力が4上昇する<br>毒耐性が10上昇する",
+    "flavor_text_en": "<br>Attractiveness increases by 4, toxicity resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101085,
+    "name": "魅力・毒耐性",
+    "name_en": "Attractivity/Poison Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "魅力4/毒耐性10",
+    "simple_flavor_text_en": "Attractiveness 4/Poison Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000115,
+    "special_effect_ids": [
+      803040277,
+      803040287
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "魅力が4上昇する<br>暗闇耐性が10上昇する",
+    "flavor_text_en": "<br>Attractiveness is increased by 4, Darkness resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101086,
+    "name": "魅力・暗闇耐性",
+    "name_en": "Attractivity/Darkness Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "魅力4/暗闇耐性10",
+    "simple_flavor_text_en": "Attractive 4/Darkness Tolerance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000105,
+    "special_effect_ids": [
+      803040277,
+      803040297
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "魅力が4上昇する<br>スタン耐性が10上昇する",
+    "flavor_text_en": "<br>Attractiveness is increased by 4, stun resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101087,
+    "name": "魅力・スタン耐性",
+    "name_en": "Attractivity/Stun Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "魅力4/スタン耐性10",
+    "simple_flavor_text_en": "4 attractiveness 4, stun resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000095,
+    "special_effect_ids": [
+      803040277,
+      803040307
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "魅力が4上昇する<br>マヒ耐性が10上昇する",
+    "flavor_text_en": "<br>Attractiveness is increased by 4, paralysis resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101088,
+    "name": "魅力・マヒ耐性",
+    "name_en": "Attractiveness and resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "魅力4/マヒ耐性10",
+    "simple_flavor_text_en": "4 charisma 4, paralysis resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000085,
+    "special_effect_ids": [
+      803040277,
+      803040317
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "魅力が4上昇する<br>眠り耐性が10上昇する",
+    "flavor_text_en": "<br>Attractiveness increases by 4, sleep tolerance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101089,
+    "name": "魅力・眠り耐性",
+    "name_en": "Attractivity/Sleep Tolerance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "魅力4/眠り耐性10",
+    "simple_flavor_text_en": "Attractiveness 4/Sleep Tolerance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000075,
+    "special_effect_ids": [
+      803040277,
+      803040327
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "魅力が4上昇する<br>石化耐性が10上昇する",
+    "flavor_text_en": "<br>Attractiveness increases by 4, petrochemical resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101090,
+    "name": "魅力・石化耐性",
+    "name_en": "Attractivity/petrochemical resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "魅力4/石化耐性10",
+    "simple_flavor_text_en": "Attractiveness 4/petrochemical resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000065,
+    "special_effect_ids": [
+      803040277,
+      803040337
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "魅力が4上昇する<br>混乱耐性が10上昇する",
+    "flavor_text_en": "<br>Attractiveness is increased by 4, chaos resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101091,
+    "name": "魅力・混乱耐性",
+    "name_en": "Attractiveness and chaos resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "魅力4/混乱耐性10",
+    "simple_flavor_text_en": "Attractiveness 4/Confusion Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000055,
+    "special_effect_ids": [
+      803040277,
+      803040347
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "魅力が4上昇する<br>魅了耐性が10上昇する",
+    "flavor_text_en": "<br>Attraction is increased by 4, fascination resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101092,
+    "name": "魅力・魅了耐性",
+    "name_en": "Attractivity/fascination resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "魅力4/魅了耐性10",
+    "simple_flavor_text_en": "4 Attraction 4, Enchantment Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000045,
+    "special_effect_ids": [
+      803040277,
+      803040357
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "魅力が4上昇する<br>狂戦士耐性が10上昇する",
+    "flavor_text_en": "<br>Attraction increases by 4, Berserker resistance increases by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101093,
+    "name": "魅力・狂戦士耐性",
+    "name_en": "Attractiveness and Berserker Resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "魅力4/狂戦士耐性10",
+    "simple_flavor_text_en": "Attraction 4/Berserker Resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000035,
+    "special_effect_ids": [
+      803040277,
+      803040367
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "魅力が4上昇する<br>気絶耐性が10上昇する",
+    "flavor_text_en": "<br>Attraction is increased by 4, stun resistance is increased by 10",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 711101094,
+    "name": "魅力・気絶耐性",
+    "name_en": "Attractivity/stun resistance",
+    "name_en_src": "ml",
+    "rarity": 5,
+    "simple_flavor_text": "魅力4/気絶耐性10",
+    "simple_flavor_text_en": "4 attractiveness 4, stun resistance 10",
+    "simple_flavor_text_en_src": "ml",
+    "sort_order": 180000025,
+    "special_effect_ids": [
+      803040277,
+      803040377
     ]
   },
   {

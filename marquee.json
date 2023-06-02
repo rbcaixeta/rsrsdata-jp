@@ -179,7 +179,7 @@
     "name": "Lesson_Style_Energy",
     "name_en": "Lesson_Style_Energy",
     "name_en_src": "gl",
-    "text": "ENG（エネルギー）を補給して、キャラクターを選択すると、訓練を開始します。"
+    "text": "キャラクターを選択すると、訓練を開始します。"
   },
   {
     "id": 27,
@@ -193,7 +193,7 @@
     "name": "Expedition_Place_Choice",
     "name_en": "Expedition_Place_Choice",
     "name_en_src": "gl",
-    "text": "遠征先を選択してください。遠征先ごとにおすすめ能力値や獲得できるアイテムが異なります。"
+    "text": "遠征先と遠征したいキャラクターを選択してください。遠征先ごとにおすすめ能力値や獲得できるアイテムが異なります。"
   },
   {
     "id": 29,
@@ -369,5 +369,19 @@
     "name_en": "Smith_Evolve_confirm",
     "name_en_src": "gl",
     "text": "進化をタップして通常の進化を実行できます。一括強化をタップすると一括強化画面へ遷移します。"
+  },
+  {
+    "id": 54,
+    "name": "SSS_Evolve_Choice",
+    "name_en": "SSS_evolve_choice",
+    "name_en_src": "ml",
+    "text": "超進化させたい超進化装備を選択してください。"
+  },
+  {
+    "id": 55,
+    "name": "SSS_Evolve_confirm",
+    "name_en": "SSS_evolve_confirm",
+    "name_en_src": "ml",
+    "text": "超進化をタップして超進化を実行できます。"
   }
 ]
