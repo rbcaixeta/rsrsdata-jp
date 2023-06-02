@@ -728,8 +728,8 @@
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムを一定確率で獲得可能。<br>報酬：SS[最果ての島から]ボストンのピース、シルバーピース、宝珠メダルなど",
-    "description_en": "Can be opened from Items > Treasure Chests. There is a certain chance that you can get the following items when you open them. <br>Rewards: SS [From the Farthest Island] Boston Peace, Silver Piece, Jewel Medal, etc.",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Orb Medals, and more.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       400000225,
       400000069,
@@ -740,15 +740,15 @@
     "id": 900048,
     "max_quantity": 9999,
     "name": "最果ての秘宝Ⅲ・小",
-    "name_en": "The Farthest Hidden Treasure III, Small",
-    "name_en_src": "ml",
+    "name_en": "The Final Treasure III - Small",
+    "name_en_src": "gl",
     "rarity": 4,
     "sort_order": 49998995
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムを一定確率で獲得可能。<br>報酬：SS[最果ての島から]ボストンのスタイル、SS[最果ての島から]ボストンのピース、強者の称号・二の段、強者の称号・一の段、宝珠メダル、スタミナ回復薬(大)など",
-    "description_en": "Can be opened from Items > Treasure Chests. There is a certain chance that you can get the following items when you open them. <br>Rewards: SS [from the farthest island] Boston style, SS [from the farthest island] Boston piece, title of the strong, rank 1, jewel medal, stamina recovery drug (large), etc.",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Orb Medals, Stamina Potions (Large), and more.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       400000226,
       400000071,
@@ -760,8 +760,8 @@
     "id": 900049,
     "max_quantity": 9999,
     "name": "最果ての秘宝Ⅲ・大",
-    "name_en": "The Farthest Hidden Treasure III: Large",
-    "name_en_src": "ml",
+    "name_en": "The Final Treasure III - Large",
+    "name_en_src": "gl",
     "rarity": 5,
     "sort_order": 49999000
   },

@@ -37,7 +37,7 @@
   },
   {
     "description": "魔物たっぷりの洞窟修練を1回クリアする（サブクエスト＞デイリー＞常設＞魔物たっぷりの洞窟修練で挑戦可能）<br>※ポルカ編1章1-1-7クリアする、またはプレイヤーRankが6に到達で解放",
-    "description_en": "Complete the Monster-filled Training Cave 1 time (Sub Quests > Daily > Monster-filled Training Cave).<br>*Unlock by clearing Polka Arc Ch. 1, 1-1-7 or reach Player Rank 6.",
+    "description_en": "Complete the Monster-filled Training Cave 1 time (Sub Quests > Daily > Permanent > Monster-filled Training Cave).<br>*Unlock by clearing Polka Arc Ch. 1, 1-1-7 or reach Player Rank 6.",
     "description_en_src": "gl",
     "id": 50004,
     "priority": 9999996,
@@ -145,7 +145,7 @@
   },
   {
     "description": "ザクザク財宝収集を1回クリアする（サブクエスト＞デイリー＞常設＞ザクザク財宝収集で挑戦可能）<br>※ポルカ編1章2-1-10クリアする、またはプレイヤーRankが13に到達で解放",
-    "description_en": "Complete the Big Treasure Hunt 1 time (Sub Quests > Daily > Big Treasure Hunt).<br>*Unlock by clearing Polka Arc Ch. 1, 2-1-10 or reach Player Rank 13.",
+    "description_en": "Complete the Big Treasure Hunt 1 time (Sub Quests > Daily > Permanent > Big Treasure Hunt).<br>*Unlock by clearing Polka Arc Ch. 1, 2-1-10 or reach Player Rank 13.",
     "description_en_src": "gl",
     "id": 50013,
     "priority": 9999986,
@@ -181,7 +181,7 @@
   },
   {
     "description": "螺旋回廊3階をクリアする（サブクエスト＞チャレンジ＞常設＞螺旋回廊で挑戦可能）<br>※ポルカ編1章2-2-10クリアする、またはプレイヤーRankが16に到達で解放<br> ※螺旋回廊は一時的に閉じている場合があります",
-    "description_en": "Complete Spiral Corridor Floor 3 (Sub Quests > Challenge > Spiral Corridor).<br>*Unlock by clearing Polka Arc Ch. 1, 2-2-10 or reach Player Rank 16.<br>*The Spiral Corridor may be closed at times.",
+    "description_en": "Complete Spiral Corridor Floor 3 (Sub Quests > Challenge > Permanent > Spiral Corridor).<br>*Unlock by clearing Polka Arc Ch. 1, 2-2-10 or reach Player Rank 16.<br>*The Spiral Corridor may be closed at times.",
     "description_en_src": "gl",
     "id": 50016,
     "priority": 9999983,
@@ -253,7 +253,7 @@
   },
   {
     "description": "遺跡潜り - 三光石 - を5回クリアする（サブクエスト＞デイリー＞常設＞遺跡潜りで挑戦可能）",
-    "description_en": "Complete Ruins Exploration: Tri Glowstones 5 times (Sub Quests > Daily > Ruins Exploration).",
+    "description_en": "Complete Ruins Exploration: Tri Glowstones 5 times (Sub Quests > Daily > Permanent > Ruins Exploration).",
     "description_en_src": "gl",
     "id": 50022,
     "priority": 9999976,
@@ -265,7 +265,7 @@
   },
   {
     "description": "鍛冶屋で、装備品1個を進化させる（サブクエスト＞デイリー＞常設＞遺跡潜りで進化素材獲得）",
-    "description_en": "Evolve equipment 1 time at the Forge (obtain materials from Sub Quests > Daily > Ruins Exploration).",
+    "description_en": "Evolve equipment 1 time at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
     "description_en_src": "gl",
     "id": 50023,
     "priority": 9999975,
@@ -325,7 +325,7 @@
   },
   {
     "description": "深奥の密林調査- 1層 -をクリアする（サブクエスト＞イベント＞常設＞深奥の密林調査で挑戦可能）<br>※ポルカ編1章4-2-10クリアする、またはプレイヤーRankが30に到達で解放",
-    "description_en": "Complete Forest of Mystery Lv. 1 (Sub Quests > Challenge > Explore the Forest of Mystery).<br>*Unlock by clearing Polka Arc Ch. 1, 4-2-10 or reach Player Rank 30.",
+    "description_en": "Complete Forest of Mystery Lv. 1 (Sub Quests > Event > Permanent > Explore the Forest of Mystery).<br>*Unlock by clearing Polka Arc Ch. 1, 4-2-10 or reach Player Rank 30.",
     "description_en_src": "gl",
     "id": 50130,
     "priority": 9999999,
@@ -373,7 +373,7 @@
   },
   {
     "description": "螺旋回廊10階をクリアする（サブクエスト＞チャレンジ＞常設＞螺旋回廊で挑戦可能）<br> ※螺旋回廊は一時的に閉じている場合があります",
-    "description_en": "Complete Spiral Corridor Floor 10 (Sub Quests > Challenge > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
+    "description_en": "Complete Spiral Corridor Floor 10 (Sub Quests > Challenge > Permanent > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
     "description_en_src": "gl",
     "id": 50134,
     "priority": 9999995,
@@ -481,7 +481,7 @@
   },
   {
     "description": "深奥の密林調査- 2層 -をクリアする（サブクエスト＞イベント＞常設＞深奥の密林調査で挑戦可能）",
-    "description_en": "Complete Forest of Mystery Lv. 2 (Sub Quests > Challenge > Explore the Forest of Mystery).",
+    "description_en": "Complete Forest of Mystery Lv. 2 (Sub Quests > Event > Permanent > Explore the Forest of Mystery).",
     "description_en_src": "gl",
     "id": 50144,
     "priority": 9999985,
@@ -505,7 +505,7 @@
   },
   {
     "description": "遺跡潜り - 三光石 - 5層をクリアする（サブクエスト＞デイリー＞常設＞遺跡潜りで挑戦可能）",
-    "description_en": "Complete Iron Ruins Lv.5 (Sub Quests > Daily > Ruins Exploration: Tri Glowstones).",
+    "description_en": "Complete Iron Ruins Lv.5 (Sub Quests > Daily > Permanent > Ruins Exploration: Tri Glowstones).",
     "description_en_src": "gl",
     "id": 50146,
     "priority": 9999983,
@@ -517,7 +517,7 @@
   },
   {
     "description": "鍛冶屋で、装備品を累計2回進化させる（サブクエスト＞デイリー＞常設＞遺跡潜りで進化素材獲得）",
-    "description_en": "Evolve equipment 2 times at the Forge (obtain materials from Sub Quests > Daily > Ruins Exploration).",
+    "description_en": "Evolve equipment 2 times at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
     "description_en_src": "gl",
     "id": 50147,
     "priority": 9999982,
@@ -577,7 +577,7 @@
   },
   {
     "description": "深奥の密林調査- 4層 -をクリアする（サブクエスト＞イベント＞常設＞深奥の密林調査で挑戦可能）",
-    "description_en": "Complete Forest of Mystery Lv. 4 (Sub Quests > Challenge > Explore the Forest of Mystery).",
+    "description_en": "Complete Forest of Mystery Lv. 4 (Sub Quests > Event > Permanent > Explore the Forest of Mystery).",
     "description_en_src": "gl",
     "id": 50153,
     "priority": 9999976,
@@ -589,7 +589,7 @@
   },
   {
     "description": "遺跡潜り - 三光石 - 6層をクリアする（サブクエスト＞デイリー＞常設＞遺跡潜りで挑戦可能）",
-    "description_en": "Complete Iron Ruins Lv.6 (Sub Quests > Daily > Ruins Exploration: Tri Glowstones).",
+    "description_en": "Complete Iron Ruins Lv.6 (Sub Quests > Daily > Permanent > Ruins Exploration: Tri Glowstones).",
     "description_en_src": "gl",
     "id": 50154,
     "priority": 9999975,
@@ -601,7 +601,7 @@
   },
   {
     "description": "鍛冶屋で、装備品を累計3回進化させる（サブクエスト＞デイリー＞常設＞遺跡潜りで進化素材獲得）",
-    "description_en": "Evolve equipment 3 times at the Forge (obtain materials from Sub Quests > Daily > Ruins Exploration).",
+    "description_en": "Evolve equipment 3 times at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
     "description_en_src": "gl",
     "id": 50155,
     "priority": 9999974,
@@ -613,7 +613,7 @@
   },
   {
     "description": "螺旋回廊20階をクリアする（サブクエスト＞チャレンジ＞常設＞螺旋回廊で挑戦可能）<br> ※螺旋回廊は一時的に閉じている場合があります",
-    "description_en": "Complete Spiral Corridor Floor 20 (Sub Quests > Challenge > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
+    "description_en": "Complete Spiral Corridor Floor 20 (Sub Quests > Challenge > Permanent > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
     "description_en_src": "gl",
     "id": 50156,
     "priority": 9999973,
@@ -649,7 +649,7 @@
   },
   {
     "description": "鍛冶屋で、装備品を累計4回進化させる（サブクエスト＞デイリー＞常設＞遺跡潜りで進化素材獲得）",
-    "description_en": "Evolve equipment 4 times at the Forge (obtain materials from Sub Quests > Daily > Ruins Exploration).",
+    "description_en": "Evolve equipment 4 times at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
     "description_en_src": "gl",
     "id": 50230,
     "priority": 9999999,
@@ -673,7 +673,7 @@
   },
   {
     "description": "深奥の密林調査- 6層 -をクリアする（サブクエスト＞イベント＞常設＞深奥の密林調査で挑戦可能）",
-    "description_en": "Complete Forest of Mystery Lv. 6 (Sub Quests > Challenge > Explore the Forest of Mystery).",
+    "description_en": "Complete Forest of Mystery Lv. 6 (Sub Quests > Event > Permanent > Explore the Forest of Mystery).",
     "description_en_src": "gl",
     "id": 50232,
     "priority": 9999997,
@@ -709,7 +709,7 @@
   },
   {
     "description": "螺旋回廊25階をクリアする（サブクエスト＞チャレンジ＞常設＞螺旋回廊で挑戦可能）<br> ※螺旋回廊は一時的に閉じている場合があります",
-    "description_en": "Complete Spiral Corridor Floor 25 (Sub Quests > Challenge > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
+    "description_en": "Complete Spiral Corridor Floor 25 (Sub Quests > Challenge > Permanent > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
     "description_en_src": "gl",
     "id": 50235,
     "priority": 9999994,
@@ -757,7 +757,7 @@
   },
   {
     "description": "鍛冶屋で、装備品を累計7回進化させる（サブクエスト＞デイリー＞常設＞遺跡潜りで進化素材獲得）",
-    "description_en": "Evolve equipment 7 times at the Forge (obtain materials from Sub Quests > Daily > Ruins Exploration).",
+    "description_en": "Evolve equipment 7 times at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
     "description_en_src": "gl",
     "id": 50239,
     "priority": 9999989,
@@ -781,7 +781,7 @@
   },
   {
     "description": "遺跡潜り - 三光石 - 10層をクリアする（サブクエスト＞デイリー＞常設＞遺跡潜りで挑戦可能）",
-    "description_en": "Complete Iron Ruins Lv.10 (Sub Quests > Daily > Ruins Exploration: Tri Glowstones).",
+    "description_en": "Complete Iron Ruins Lv.10 (Sub Quests > Daily > Permanent > Ruins Exploration: Tri Glowstones).",
     "description_en_src": "gl",
     "id": 50241,
     "priority": 9999987,
@@ -817,7 +817,7 @@
   },
   {
     "description": "深奥の密林調査- 8層 -をクリアする（サブクエスト＞イベント＞常設＞深奥の密林調査で挑戦可能）",
-    "description_en": "Complete Forest of Mystery Lv. 8 (Sub Quests > Challenge > Explore the Forest of Mystery).",
+    "description_en": "Complete Forest of Mystery Lv. 8 (Sub Quests > Event > Permanent > Explore the Forest of Mystery).",
     "description_en_src": "gl",
     "id": 50244,
     "priority": 9999984,
@@ -865,7 +865,7 @@
   },
   {
     "description": "鍛冶屋で、装備品を累計10回進化させる（サブクエスト＞デイリー＞常設＞遺跡潜りで進化素材獲得）",
-    "description_en": "Evolve equipment 10 times at the Forge (obtain materials from Sub Quests > Daily > Ruins Exploration).",
+    "description_en": "Evolve equipment 10 times at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
     "description_en_src": "gl",
     "id": 50248,
     "priority": 9999979,
@@ -889,7 +889,7 @@
   },
   {
     "description": "1. バルテルミーの秘密特訓 - 斬 -をクリアする（サブクエスト＞チャレンジ＞討伐＞バルテルミーの秘密特訓 - 斬 -で挑戦可能）",
-    "description_en": "Complete 1. Barthelemy's Training: Slash (Sub Quests > Event > Attacks > Barthelemy's Training: Slash).",
+    "description_en": "Complete 1. Barthelemy's Training: Slash (Sub Quests > Challenge > Attacks > Barthelemy's Training: Slash).",
     "description_en_src": "gl",
     "id": 50250,
     "priority": 9999977,
@@ -925,7 +925,7 @@
   },
   {
     "description": "螺旋回廊30階をクリアする（サブクエスト＞チャレンジ＞常設＞螺旋回廊で挑戦可能）<br> ※螺旋回廊は一時的に閉じている場合があります",
-    "description_en": "Complete Spiral Corridor Floor 30 (Sub Quests > Challenge > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
+    "description_en": "Complete Spiral Corridor Floor 30 (Sub Quests > Challenge > Permanent > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
     "description_en_src": "gl",
     "id": 50253,
     "priority": 9999974,

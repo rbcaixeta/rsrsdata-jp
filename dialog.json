@@ -1699,7 +1699,7 @@
     "name_en_src": "gl",
     "text": "ギルドを作成しました。<br>ギルドトップへ遷移します。",
     "title": "ギルド作成",
-    "title_en": "Create Guild",
+    "title_en": "Guild Created",
     "title_en_src": "gl"
   },
   {
@@ -1738,7 +1738,7 @@
     "name_en_src": "gl",
     "text": "既にギルドに所属しています。",
     "title": "ギルド加入申請結果",
-    "title_en": "Application Result",
+    "title_en": "Guild Application Result",
     "title_en_src": "gl"
   },
   {
@@ -1751,7 +1751,7 @@
     "name_en_src": "gl",
     "text": "加入申請を受け付けていないギルドです。",
     "title": "ギルド加入申請結果",
-    "title_en": "Application Result",
+    "title_en": "Guild Application Result",
     "title_en_src": "gl"
   },
   {
@@ -1764,7 +1764,7 @@
     "name_en_src": "gl",
     "text": "既に加入申請しています。",
     "title": "ギルド加入申請結果",
-    "title_en": "Application Result",
+    "title_en": "Guild Application Result",
     "title_en_src": "gl"
   },
   {
@@ -1777,7 +1777,7 @@
     "name_en_src": "gl",
     "text": "ギルド脱退から24時間未満の場合は<br>加入申請できません。",
     "title": "ギルド加入申請結果",
-    "title_en": "Application Result",
+    "title_en": "Guild Application Result",
     "title_en_src": "gl"
   },
   {
@@ -1790,7 +1790,7 @@
     "name_en_src": "gl",
     "text": "このギルドは解散しているため<br>加入申請できません。",
     "title": "ギルド加入申請結果",
-    "title_en": "Application Result",
+    "title_en": "Guild Application Result",
     "title_en_src": "gl"
   },
   {
@@ -1855,7 +1855,7 @@
     "name_en_src": "gl",
     "text": "既に承認されているため<br>取り消しできません。",
     "title": "ギルド加入申請取り消し",
-    "title_en": "Cancel Application for Guild",
+    "title_en": "Withdraw Guild Application",
     "title_en_src": "gl"
   },
   {
@@ -1868,7 +1868,7 @@
     "name_en_src": "gl",
     "text": "既に加入申請が却下されています。",
     "title": "ギルド加入申請取り消し",
-    "title_en": "Cancel Application for Guild",
+    "title_en": "Withdraw Guild Application",
     "title_en_src": "gl"
   },
   {
@@ -1933,7 +1933,7 @@
     "name_en_src": "gl",
     "text": "サブリーダーの上限数は3名までです。",
     "title": "サブリーダー昇格",
-    "title_en": "Sub-leader Promotion",
+    "title_en": "Promotion to Subleader",
     "title_en_src": "gl"
   },
   {
@@ -2293,12 +2293,12 @@
     "dialog_type": 2,
     "id": 178,
     "name": "Reunion_BossChallenge_Confirm",
-    "name_en": "Reunion_bossChallenge_confirm",
-    "name_en_src": "ml",
+    "name_en": "Reunion_BossChallenge_Confirm",
+    "name_en_src": "gl",
     "text": "BOSSに挑戦しますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "ギブアップ",
@@ -2306,12 +2306,12 @@
     "dialog_type": 2,
     "id": 179,
     "name": "ReunionBattle_GiveUp_Confirm",
-    "name_en": "ReunionBattle_giveUp_confirm",
-    "name_en_src": "ml",
+    "name_en": "ReunionBattle_GiveUp_Confirm",
+    "name_en_src": "gl",
     "text": "ギブアップしますか？<br>※今回の冒険は終了し、<br>リザルト画面に遷移します。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2319,12 +2319,12 @@
     "dialog_type": 1,
     "id": 181,
     "name": "ReunionBattle_GiveUp_impossible",
-    "name_en": "ReunionBattle_GiveUp_Impossible",
-    "name_en_src": "ml",
+    "name_en": "ReunionBattle_GiveUp_impossible",
+    "name_en_src": "gl",
     "text": "勝利の確定したバトルではギブアップはできません。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -2423,12 +2423,12 @@
     "dialog_type": 2,
     "id": 189,
     "name": "Reunion_HPHeal_Confirm",
-    "name_en": "Reunion_hpheal_confirm",
-    "name_en_src": "ml",
+    "name_en": "Reunion_HPHeal_Confirm",
+    "name_en_src": "gl",
     "text": "LPを消費して<br>HPを全回復しますか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2632,11 +2632,11 @@
     "id": 205,
     "name": "Reunion_Tutorial_End",
     "name_en": "Reunion_Tutorial_End",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "チュートリアルでの冒険はここまでです。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "ギブアップ",
@@ -2644,12 +2644,12 @@
     "dialog_type": 2,
     "id": 206,
     "name": "Reunion_GiveUp_Confirm",
-    "name_en": "Reunion_giveUp_confirm",
-    "name_en_src": "ml",
+    "name_en": "Reunion_GiveUp_Confirm",
+    "name_en_src": "gl",
     "text": "ギブアップしますか？<br>※今回の冒険は終了し、<br>リザルト画面に遷移します。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "はい",
@@ -2657,12 +2657,12 @@
     "dialog_type": 2,
     "id": 207,
     "name": "Reunion_NoChoice_Confirm",
-    "name_en": "ReUnion_noChoice_confirm",
-    "name_en_src": "ml",
+    "name_en": "Reunion_NoChoice_Confirm",
+    "name_en_src": "gl",
     "text": "「どれも選ばない」を選択した場合、<br>育成をせずにパーティ強化が終了します。<br>よろしいですか？",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2748,12 +2748,12 @@
     "dialog_type": 1,
     "id": 215,
     "name": "Quest_ClearBulk_Confirm",
-    "name_en": "quest_clearBulk_confirm",
-    "name_en_src": "ml",
+    "name_en": "Quest_ClearBulk_Confirm",
+    "name_en_src": "gl",
     "text": "同一エリア内において、クリアしたクエストまでの<br>全てのクエストは一括でクリア扱いとなり、<br>初回報酬をまとめて獲得することができます。<br>※クリア済みのクエストの初回報酬を<br>獲得することはできません",
     "title": "クエスト一括クリア",
-    "title_en": "Clear all quests",
-    "title_en_src": "ml"
+    "title_en": "Auto Clear",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2774,12 +2774,12 @@
     "dialog_type": 2,
     "id": 217,
     "name": "Reunion_TutorialInduction_Confirm",
-    "name_en": "Reunion_tutorialInduction_confirm",
-    "name_en_src": "ml",
+    "name_en": "Reunion_TutorialInduction_Confirm",
+    "name_en_src": "gl",
     "text": "チュートリアルを<br>今すぐ開始しますか？<br>※チュートリアルは後から<br>いつでも開始できます。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2788,11 +2788,11 @@
     "id": 218,
     "name": "Reunion_Expired_Confirm",
     "name_en": "Reunion_Expired_Confirm",
-    "name_en_src": "ml",
+    "name_en_src": "gl",
     "text": "開催期間が終了しました。",
     "title": "期限切れ",
-    "title_en": "expiring",
-    "title_en_src": "ml"
+    "title_en": "Expired",
+    "title_en_src": "gl"
   },
   {
     "button1": "閉じる",
@@ -2800,12 +2800,12 @@
     "dialog_type": 1,
     "id": 219,
     "name": "shop_wheel_Ng",
-    "name_en": "shop_wheel_ng",
-    "name_en_src": "ml",
+    "name_en": "shop_wheel_Ng",
+    "name_en_src": "gl",
     "text": "動画広告機能の期間外です。",
     "title": "動画広告視聴エラー",
-    "title_en": "Video ad viewing error",
-    "title_en_src": "ml"
+    "title_en": "Video Ad Viewing Error",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
@@ -2813,12 +2813,12 @@
     "dialog_type": 1,
     "id": 220,
     "name": "Reunion_GetRandomNoReward_Confirm",
-    "name_en": "Reunion_getRandomnoReward_confirm",
-    "name_en_src": "ml",
+    "name_en": "Reunion_GetRandomNoReward_Confirm",
+    "name_en_src": "gl",
     "text": "獲得できる報酬は<br>ございません。",
     "title": "確認",
-    "title_en": "confirmations",
-    "title_en_src": "ml"
+    "title_en": "Confirm",
+    "title_en_src": "gl"
   },
   {
     "button1": "OK",
