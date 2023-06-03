@@ -15684,7 +15684,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[OD攻撃(※)を発動後]<br>「<skill=110500408>しゅくせい</skill>」が発動する<br>( 技Rank1で発動 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>HPが満タンである場合、「<skill=110500409>てんばつ+</skill>」が発動する<br>HPが満タンではない場合、「<skill=110500407>きらめき</skill>」が発動する<br>( それぞれ技Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "[After triggering OD attack (*)]</skill></skill> <br>“<skill=110500408>Shukusei” is activated <br>(activated by move Rank1) <br><br>[when hitting a technique or jutsu (*) whose type is “attack”] <br>If the HP is full, “<skill=110500409>Tenbatsu +” is activated when the <br>HP is not full, “<skill= “110500407 > Sparkle</skill>” is activated <br>(each activated <br><br>by move rank 1) * “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects” are not included",
+    "flavor_text_en": "</skill></skill><br><br><br><br>[After triggering OD attack (*)] <br>“<skill=110500408>Shukusei” is activated (activated by move <br>Rank1) [when hitting a technique or jutsu (*) whose type is “attack”] If the HP is full, “<skill=110500409>Tenbatsu +” is activated when the HP is not full, “<skill= </skill><br><br>“110500407 > Sparkle” is activated <br>(each activated by move rank 1) * “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101697,
@@ -15703,7 +15703,7 @@
   {
     "ability_when": 6,
     "flavor_text": "OD攻撃発動後、「しゅくせい」が発動する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "After the OD attack is activated, “Shukusei” is activated <br>(activated by move Rank1)",
+    "flavor_text_en": "<br>After the OD attack is activated, “Shukusei” is activated (activated by move Rank1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101698,
@@ -15724,7 +15724,7 @@
   {
     "ability_when": 6,
     "flavor_text": "HPが満タンである場合、タイプが「攻撃」である技・術を命中させた時、「てんばつ+」が発動する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "When the HP tank is full, “Tenbatsu +” is activated when a move or jutsu whose type is “Attack” is hit <br>(activated by Move Rank 1)",
+    "flavor_text_en": "<br>When the HP tank is full, “Tenbatsu +” is activated when a move or jutsu whose type is “Attack” is hit (activated by Move Rank 1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101699,
@@ -15745,7 +15745,7 @@
   {
     "ability_when": 6,
     "flavor_text": "HPが満タンではない場合、タイプが「攻撃」である技・術を命中させた時、「きらめき」が発動する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "If your HP isn't full, “Sparkle” is activated when you hit a move or jutsu whose type is “Attack” <br>(activated by Move Rank 1)",
+    "flavor_text_en": "<br>If your HP isn't full, “Sparkle” is activated when you hit a move or jutsu whose type is “Attack” (activated by Move Rank 1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101700,
@@ -15805,7 +15805,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +2 )<br><br>[味方が全員生存している時]<br>味方全体の与ダメージが上昇する( 効果中 )",
-    "flavor_text_en": "[At the start of battle] <br>Recover your own BP (+2) <br><br>[When all <br>allies are alive] Damage dealt to all allies increases (in effect)",
+    "flavor_text_en": "<br>[At the start of battle] <br>Recover your own BP (+2) <br><br>[When all allies are alive] Damage dealt to all allies increases (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101703,
@@ -15823,7 +15823,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果大 )を付与する( 上限回数:バトル中3回 )<br>さらに、自身のBPを回復( +3 )する( 上限回数:バトル中3回 )",
-    "flavor_text_en": "[At the start of the turn] Give</special_effect> <br>yourself “<special_effect=800000095>heat up” (high effect) (maximum number of times: 3 times during battle)<br>, and recover (+3) your own BP (maximum number of times: 3 times during battle)",
+    "flavor_text_en": "</special_effect><br>[At the start of the turn] Give <br>yourself “<special_effect=800000095>heat up” (high effect) (maximum number of times: 3 times during battle), and recover (+3) your own BP (maximum number of times: 3 times during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101705,
@@ -15875,7 +15875,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[攻撃を受けた時] <br>直接攻撃に対して、「<skill=110100302>氷華乱舞</skill>」でカウンター攻撃する( 確率大 )<br>( 技Rank1で発動 )<br><br>[ターン開始時]<br>自身のすべての状態異常耐性を上昇させる( 効果特大 )<br>自身のBPを回復する( +2 )",
-    "flavor_text_en": "[When attacked]</skill> <br>Counter attack with “<skill=110100302>Hyoka Ranbu” against a direct attack (high probability) <br>(activated by move Rank1) <br><br>[At the start of a turn] <br>Increase all of your own state anomaly resistance (very effective) <br>Recover your own BP (+2)",
+    "flavor_text_en": "</skill><br><br><br><br><br>[When attacked] <br>Counter attack with “<skill=110100302>Hyoka Ranbu” against a direct attack (high probability) (activated by move Rank1) [At the start of a turn] Increase all of your own state anomaly resistance (very effective) Recover your own BP (+2)",
     "flavor_text_en_src": "ml",
     "icon": 4005,
     "id": 702101708,
@@ -15937,7 +15937,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[ターン終了時] <br>自身のODゲージを上昇させる( 効果中 )<br><br>[OD攻撃時]<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果大/効果2ターン )<br>自身に「<special_effect=800000173>深海の激昂</special_effect>」を付与する( 効果2ターン )",
-    "flavor_text_en": "[At end of turn] Raise</special_effect></special_effect> <br>your OD gauge (in effect) <br><br>[When OD attacks] Grant <br>yourself “<special_effect=800000015> Defense Enhancement” (big effect/effect 2 turns) Grant <br>yourself “<special_effect=800000173> Deep Sea Furious” (effect 2 turns)",
+    "flavor_text_en": "</special_effect></special_effect><br>[At end of turn] Raise <br>your OD gauge (in effect) <br><br>[When OD attacks] Grant yourself “<special_effect=800000015> Defense Enhancement” (big effect/effect 2 turns) Grant <br>yourself “<special_effect=800000173> Deep Sea Furious” (effect 2 turns)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101711,
@@ -15955,7 +15955,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[OD攻撃時]<br>自身に「防御強化」を付与する( 効果大/効果2ターン )<br>自身に「深海の激昂」を付与する( 効果2ターン )",
-    "flavor_text_en": "[When OD attacks] <br>Give yourself a “Defense Boost” (Great Effect/Effect 2 turns) <br>Grant yourself “Deep Sea Furious” (Effect 2 turns)",
+    "flavor_text_en": "<br>[When OD attacks] Give <br>yourself a “Defense Boost” (Great Effect/Effect 2 turns) Grant yourself “Deep Sea Furious” (Effect 2 turns)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101712,
@@ -15973,7 +15973,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[ターン開始時]<br>自身を「<special_effect=800000073>挑発</special_effect>」状態にする( 効果中/効果4ターン )<br><br>[攻撃を受けた時]<br>被ダメージを軽減する( 効果特大 )<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果特大/効果1ターン )",
-    "flavor_text_en": "[At the start of turn]</special_effect></special_effect> <br>Put yourself in a “<special_effect=800000073> taunt” state (effect in progress/effect 4 turns) <br><br>[when attacked] <br>reduce damage taken (extra effect) <br>Grant yourself “<special_effect=800000001> Attack Enhancement” (Oversized Effect=800000001>Attack Enhancement) 1 turn)",
+    "flavor_text_en": "</special_effect></special_effect><br><br><br><br>[At the start of turn] <br>Put yourself in a “<special_effect=800000073> taunt” state (effect in progress/effect 4 turns) [when attacked] reduce damage taken (extra effect) Grant yourself “<special_effect=800000001> Attack Enhancement” (Oversized Effect=800000001>Attack Enhancement) 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101713,
@@ -15992,7 +15992,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[攻撃を受けた時]自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果特大/効果1ターン )",
-    "flavor_text_en": "[When attacked] Grant “<special_effect=800000001>Attack Boost” to yourself</special_effect> (oversized effects/effect 1 turn)",
+    "flavor_text_en": "[When attacked] Grant “<special_effect=800000001>Attack Boost” to yourself (oversized effects/effect 1 turn)</special_effect>",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101715,
@@ -16009,7 +16009,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始から数えて奇数ターン目の開始時]<br>敵全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を低下させる( 効果大 )<br>敵全体に「<special_effect=800000035>防御弱化</special_effect>」を付与する( 効果中/効果1ターン )<br><br>[バトル開始から数えて偶数ターン目の開始時]<br>味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果大 )<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果1ターン )",
-    "flavor_text_en": "[Counting from the start of the battle at the start of the odd turn]</special_effect> <br>Reduces the strength, stamina, <br>dexterity, quickness, intelligence, mentality, love, and appeal of all enemies (great effect) Gives “<special_effect=800000035> defense weakening” to all enemies (in effect/effect 1 turn) <br><br>[at the start of the even-numbered turn counting from the start of the battle] Strength and <br>physical strength of all allied survivors ・Increases dexterity, quickness, intelligence, mentality, love, and attractiveness (great effect)</special_effect> <br>Grants “<special_effect=800000015> Defense Enhancement” to all allied survivors (in effect/effect 1 turn)",
+    "flavor_text_en": "</special_effect><br><br><br><br>[Counting from the start of the battle at the start of the odd turn] Reduces the strength, stamina, dexterity, quickness, intelligence, mentality, love, and appeal of all enemies (great effect) Gives “<special_effect=800000035> defense weakening” to <br>all enemies (in effect/effect 1 turn) [at the start of the even-numbered turn counting from the start of the battle] Strength and physical strength of all allied survivors </special_effect><br>・Increases dexterity, quickness, intelligence, mentality, love, and attractiveness (great effect) Grants “<special_effect=800000015> Defense Enhancement” to all allied survivors (in effect/effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101716,
@@ -16027,7 +16027,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[バトル開始から数えて偶数ターン目の開始時]<br>味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果大 )<br>味方生存者全体に「防御強化」を付与する( 効果中/効果1ターン )",
-    "flavor_text_en": "[At the start of an even-numbered turn counting from the start of the battle] <br>Increases strength, stamina, <br>dexterity, quickness, intelligence, mentality, love, and appeal of all allied survivors (effective) Grants “Defense Enhancement” to all allied survivors (in effect/effect 1 turn)",
+    "flavor_text_en": "<br>[At the start of an even-numbered turn counting from the start of the battle] Increases strength, stamina, dexterity, <br>quickness, intelligence, mentality, love, and appeal of all allied survivors (effective) Grants “Defense Enhancement” to all allied survivors (in effect/effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 702101717,
@@ -16052,7 +16052,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[バトル開始から数えて奇数ターン目の開始時]<br>敵全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を低下させる( 効果大 )<br>敵全体に「防御弱化」を付与する( 効果中/効果1ターン )",
-    "flavor_text_en": "[At the start of an odd turn counting from the start of the battle] <br>Reduces the strength, stamina, <br>dexterity, quickness, intelligence, mentality, love, and appeal of all enemies (great effect) Gives “Defense Weakening” to all enemies (in effect/effect 1 turn)",
+    "flavor_text_en": "<br>[At the start of an odd turn counting from the start of the battle] Reduces the strength, stamina, dexterity, quickness, intelligence, mentality, love, and appeal of all enemies (great effect) Gives “Defense Weakening” to <br>all enemies (in effect/effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4002,
     "id": 702101718,
@@ -16077,7 +16077,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>攻撃命中時、自身のBPを回復する( +1 )",
-    "flavor_text_en": "Damage dealt by attacks increases (extra effect) <br>When an attack is hit, recover your own BP (+1)",
+    "flavor_text_en": "<br>Damage dealt by attacks increases (extra effect) When an attack is hit, recover your own BP (+1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101719,
@@ -16095,7 +16095,7 @@
   {
     "ability_when": 1,
     "flavor_text": "味方全体の与ダメージが上昇( 効果特大 )し、かつ、味方全体への被ダメージを軽減( 効果大 )する<br><br>[バトル開始時]<br>味方生存者全体に「<special_effect=800000142>ターン終了時HP回復(気絶時)(特大/1回)</special_effect>」を付与する( 効果ターン数制限なし )<br><br>ただし、バトル開始時に自身以外の味方生存者全体が代償LPダメージを1受ける",
-    "flavor_text_en": "Damage dealt to all allies is increased (</special_effect><br><br><br>extra effective), and damage taken to all allies is reduced (great effect) [at the start of battle] grants “<special_effect=800000142 > HP recovery at end of turn (when stunned) (oversize/1 time)” to all allied survivors (no limit on the number of effect turns), <br><br>however, allies other than oneself at the start of the battle All survivors take 1 compensatory LP damage",
+    "flavor_text_en": "</special_effect><br><br><br>Damage dealt to all allies is increased (extra effective), and damage taken to all allies is reduced (great effect) <br><br>[at the start of battle] grants “<special_effect=800000142 > HP recovery at end of turn (when stunned) (oversize/1 time)” to all allied survivors (no limit on the number of effect turns), however, allies other than oneself at the start of the battle All survivors take 1 compensatory LP damage",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101721,
@@ -16133,7 +16133,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>ターン開始時、自身のBPを回復( +4 )する( 上限回数:バトル中2回 )",
-    "flavor_text_en": "Attack damage increases (maximum effect) <br>Recover (+4) your own BP at the beginning of the turn (maximum number of times: 2 times during battle)",
+    "flavor_text_en": "Attack damage increases (maximum effect) Recover (+4) your own BP at the <br>beginning of the turn (maximum number of times: 2 times during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101724,
@@ -16168,7 +16168,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃を受けた時、敵の攻撃を回避する( 確率特大 )<br>Weak攻撃の与ダメージが上昇する( 効果極大 )<br><br>ただし毎ターン開始時、一定の確率で( 確率大 )<br>自身の体力と精神を低下させる( 効果中 )",
-    "flavor_text_en": "When attacked, evades enemy attacks (extra probability) The <br>damage dealt by weak attacks increases (maximum effect), <br><br>but at the start of every turn, there is a certain probability (high probability) that one's <br>own physical strength and mental strength will decrease (in effect)",
+    "flavor_text_en": "<br><br><br>When attacked, evades enemy attacks (extra probability) The <br>damage dealt by weak attacks increases (maximum effect), but at the start of every turn, there is a certain probability (high probability) that one's own physical strength and mental strength will decrease (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101726,
@@ -16187,7 +16187,7 @@
   {
     "ability_when": 3,
     "flavor_text": "ターン開始時、一定の確率で( 確率大 )<br>自身の体力と精神を低下させる( 効果中 )",
-    "flavor_text_en": "At the start of the turn, there is a certain chance (high probability) that <br>your physical strength and mind will decrease (in effect)",
+    "flavor_text_en": "<br>At the start of the turn, there is a certain chance (high probability) that your physical strength and mind will decrease (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4003,
     "id": 702101727,
@@ -16205,7 +16205,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>ターン開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果大 )を付与する( 上限回数:バトル中10回 )",
-    "flavor_text_en": "Attack damage increases (maximum effect)</special_effect> <br>When the turn starts, grant yourself “<special_effect=800000095> heat up” (high effect) (maximum number of times: 10 times during battle)",
+    "flavor_text_en": "Attack damage increases (maximum effect) When the</special_effect> <br>turn starts, grant yourself “<special_effect=800000095> heat up” (high effect) (maximum number of times: 10 times during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101728,
@@ -16223,7 +16223,7 @@
   {
     "ability_when": 3,
     "flavor_text": "ターン開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果大 )を付与する( 上限回数:バトル中10回 )",
-    "flavor_text_en": "At the start of the turn, grant yourself “<special_effect=800000095> heat up</special_effect>” (great effect) (maximum number of times: 10 times during battle)",
+    "flavor_text_en": "At the start of the turn, grant yourself “<special_effect=800000095></special_effect> heat up” (great effect) (maximum number of times: 10 times during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101729,
@@ -16240,7 +16240,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +4 )<br><br>[攻撃対象を倒した時]<br>自身のBPを回復する( 倒した数によらず回復量は+10 )",
-    "flavor_text_en": "[At the start of battle] <br>Recover your own BP (+4) <br><br>[When you defeat an attack target] <br>Recover your own BP (the amount of recovery is +10 regardless of how many you have killed)",
+    "flavor_text_en": "<br>[At the start of battle] Recover your own BP <br>(+4) <br><br>[When you defeat an attack target] Recover your own BP (the amount of recovery is +10 regardless of how many you have killed)",
     "flavor_text_en_src": "ml",
     "icon": 4007,
     "id": 702101731,
@@ -16275,7 +16275,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000096>ディフェンスアップ</special_effect>」( 効果大 )を付与する( 上限回数:バトル中5回 )<br>自身に「<special_effect=800000118>ダメージブロック(1回)</special_effect>」を付与する( 効果1ターン )<br><br>[OD攻撃時]<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果超極大 )を付与する( 上限回数:バトル中3回 )",
-    "flavor_text_en": "[At the start of a turn] Give</special_effect></special_effect> <br>yourself “<special_effect=800000096> defensive up” (great effect) (maximum number of times: 5 times during battle) Grant <br>yourself a “<special_effect=800000118> damage block (1 time)” (effect 1 turn) <br><br>[at the time of OD attack] </special_effect><br>Give yourself “<special_effect=800000095>heat up” (super high effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en": "</special_effect></special_effect><br><br><br>[At the start of a turn] Give <br>yourself “<special_effect=800000096> defensive up” (great effect) (maximum number of times: 5 times during battle) Grant yourself a “<special_effect=800000118> damage block (1 time)” (effect 1 turn) [at the time of OD attack] </special_effect><br>Give yourself “<special_effect=800000095>heat up” (super high effect) (maximum number of times: 3 times during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101735,
@@ -16294,7 +16294,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[OD攻撃時]<br>自身に「ヒートアップ」( 効果超極大 )を付与する( 上限回数:バトル中3回 )",
-    "flavor_text_en": "[When OD attacks] <br>Give yourself a “heat up” (super high effect) (maximum number of times: 3 times during battle)",
+    "flavor_text_en": "[When OD attacks] Give <br>yourself a “heat up” (super high effect) (maximum number of times: 3 times during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101736,
@@ -16311,7 +16311,7 @@
   {
     "ability_when": 1,
     "flavor_text": "バトル開始時、自身のBPを回復する( +10 )<br><br>バトル開始時、味方生存者全体に「<special_effect=800000175>正々堂々</special_effect>」を付与する( 効果バトル中永続 )<br>ラウンド開始時、敵全体に「<special_effect=800000175>正々堂々</special_effect>」を付与する( 効果バトル中永続 )",
-    "flavor_text_en": "At the start of the battle, recover your own BP (+10)</special_effect></special_effect> <br><br>When the battle starts, grant “<special_effect=800000175> fair and imposing” to <br>all allied survivors (effect continues during battle) When the round starts, grant “<special_effect=800000175> fair and imposing” to all enemies (effect battle (Nakanagatsugu)",
+    "flavor_text_en": "</special_effect></special_effect><br>At the start of the battle, recover your own BP (+10) When the battle starts, grant “<special_effect=800000175> fair and imposing” to all <br><br>allied survivors (effect continues during battle) When the round starts, grant “<special_effect=800000175> fair and imposing” to all enemies (effect battle (Nakanagatsugu)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101737,
@@ -16331,7 +16331,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br><br>[ターン開始時]<br>自身の腕力・体力・素早さ・精神を上昇させる( 効果中 )",
-    "flavor_text_en": "Increases damage dealt by attacks (maximum effect) <br><br>[At start of turn] <br>Increases own strength, health, agility, and spirit (in effect)",
+    "flavor_text_en": "<br><br><br>Increases damage dealt by attacks (maximum effect) [At start of turn] Increases own strength, health, agility, and spirit (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101738,
@@ -16349,7 +16349,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )",
-    "flavor_text_en": "Increases damage dealt by attacks (extra effective) <br>Reduces damage taken when receiving an attack (extra effective) <br>Reduces damage taken when receiving a Resist attack (maximum effect)",
+    "flavor_text_en": "<br>Increases damage dealt by attacks (extra effective) Reduces damage taken when receiving an attack (extra effective) Reduces damage <br>taken when receiving a Resist attack (maximum effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101739,
@@ -16386,7 +16386,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身の腕力・体力・素早さ・精神を上昇させる( 効果中 )",
-    "flavor_text_en": "[At the start of turn] <br>Increases your own strength, stamina, quickness, and spirit (in effect)",
+    "flavor_text_en": "[At the start of turn] Increases <br>your own strength, stamina, quickness, and spirit (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 702101741,
@@ -16406,7 +16406,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[ターン終了時]<br>自身の状態異常をすべて解除する<br><br>[攻撃時]<br>自身と、ランダムな味方生存者1体のHPを回復する( 効果極小 )<br>自身と、ランダムな味方生存者1体のBPを回復する( +1 )",
-    "flavor_text_en": "[At end of turn] Clear <br>all of your own state abnormalities <br><br>[At the time of attack] <br>Recover yourself and the HP of 1 random allied survivor (minimal effect) <br>Recover your own BP and 1 random allied survivor's BP (+1)",
+    "flavor_text_en": "<br>[At end of turn] Clear <br>all of your own state abnormalities [At the time of <br><br>attack] Recover yourself and the HP of 1 random allied survivor (minimal effect) Recover your <br>own BP and 1 random allied survivor's BP (+1)",
     "flavor_text_en_src": "ml",
     "icon": 4008,
     "id": 702101742,
@@ -16424,7 +16424,7 @@
   {
     "ability_when": 1,
     "flavor_text": "バトル開始時、自身に「<special_effect=800000176>朔</special_effect>」( 効果バトル中永続 )を付与する<br>バトル開始から数えて2ターン目以降のターン開始時、自身に「<special_effect=800000177>朏</special_effect>」( 効果バトル中永続 )を付与する( 上限回数:バトル中1回 )<br>バトル開始から数えて3ターン目以降のターン開始時、自身に「<special_effect=800000178>望</special_effect>」( 効果バトル中永続 )を付与する( 上限回数:バトル中1回 )<br>バトル開始から数えて4ターン目以降のターン開始時、自身に「<special_effect=800000179>晦</special_effect>」( 効果バトル中永続 )を付与する( 上限回数:バトル中1回 )",
-    "flavor_text_en": "When the battle starts, grant yourself “<special_effect=800000176>Saku</special_effect>” (effect is permanent during</special_effect> <br>battle) When the second turn or later starts counting from the start of the battle, grant yourself “<special_effect=800000177>permanent during the battle” (maximum number of times: 1 time during the battle) <br>battle Count from the start of the 3rd turn and give yourself “<special_effect=800000178> Nozomi</special_effect>” (effect lasting during battle) (maximum number of times: 1 time during battle)</special_effect> <br>count from the start of the battle and when the turn after the 4th turn starts, “<special_effect=800000179>” (effect battle in progress) Grant (permanent) (maximum number of times: once during battle)",
+    "flavor_text_en": "</special_effect></special_effect><br><br>When the battle starts, grant yourself “<special_effect=800000176>Saku” (effect is permanent during battle) When the second turn or later starts counting from the start of the battle, grant yourself “<special_effect=800000177>permanent during the battle” (maximum number of times: 1 time during the battle) battle </special_effect></special_effect><br>Count from the start of the 3rd turn and give yourself “<special_effect=800000178> Nozomi” (effect lasting during battle) (maximum number of times: 1 time during battle) count from the start of the battle and when the turn after the 4th turn starts, “<special_effect=800000179>” (effect battle in progress) Grant (permanent) (maximum number of times: once during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101743,
@@ -16618,7 +16618,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[ターン開始時]<br>ODゲージが満タンの場合、自身に「<special_effect=800000013>モラルアップ(特大)</special_effect>」を付与する( 効果1ターン )<br>ODゲージが満タンでない場合、自身に「<special_effect=800000026>ガードアップ(大)</special_effect>」を付与する( 効果1ターン )<br><br>[ターン終了時]<br>自身のODゲージを上昇させる( 効果極大 )",
-    "flavor_text_en": "[At the start of a turn] When the</special_effect></special_effect> <br>OD gauge is full, give yourself “<special_effect=800000013>Moral Up (extra large)” (effect 1 turn) <br>If the OD gauge is not full, give yourself “<special_effect=800000026> Guard Up (Large)” (effect 1 turn) <br><br>[At end of <br>turn] Increase your OD gauge (extremely effective)",
+    "flavor_text_en": "</special_effect></special_effect><br>[At the start of a turn] When the <br>OD gauge is full, give yourself “<special_effect=800000013>Moral Up (extra large)” (effect 1 turn) If the OD gauge is not full, give yourself “<special_effect=800000026> Guard Up (Large)” (effect 1 turn) <br><br>[At end of turn] Increase <br>your OD gauge (extremely effective)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101755,
@@ -16654,7 +16654,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>HPが満タンではない時、さらに与ダメージが上昇する( 効果極大 )<br><br>[OD攻撃(※)を発動後]<br>「<skill=125100255>千羽烏</skill>」が発動する<br>( 術Rank1で発動 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125100254>炎の矢+</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )<br><br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "</skill><br><br><br>Attack damage increases (maximum effect) When HP is not full (maximum effect) [after triggering OD attack (*)] <br>“<skill=125100255> Thousand Crows” is activated <br>(activated by Jutsu Rank 1) <br><br>[When a technique or jutsu (*) whose type is “Attack” is hit] <br>“<skill=125100254 > “Fire Arrow +</skill>” is activated (high probability) <br>(activated <br><br>by Jutsu Rank 1) ※ “Techniques/techniques activated by this ability effect” and “counterattack techniques and jutsu due to counter effects” are not included",
+    "flavor_text_en": "</skill><br><br><br><br><br>Attack damage increases (maximum effect) When <br>HP is not full (maximum effect) [after triggering <br><br>OD attack (*)] “<skill=125100255> Thousand Crows” is activated (activated by Jutsu Rank 1) [When a technique or jutsu (*) whose type is “Attack” is hit] “<skill=125100254 </skill><br><br>> “Fire Arrow +” is activated (high probability) (activated by Jutsu Rank 1) ※ “Techniques/techniques activated by this ability effect” and “counterattack techniques and <br>jutsu due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101757,
@@ -16674,7 +16674,7 @@
   {
     "ability_when": 6,
     "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「<skill=125100254>炎の矢+</skill>」が発動する( 確率特大 )<br>( 術Rank1で発動 )",
-    "flavor_text_en": "When a technique or jutsu whose type is “attack” is hit, “<skill=125100254>Fire Arrow+</skill>” is activated (increased probability) <br>(activated by Jutsu Rank 1)",
+    "flavor_text_en": "</skill><br>When a technique or jutsu whose type is “attack” is hit, “<skill=125100254>Fire Arrow+” is activated (increased probability) (activated by Jutsu Rank 1)",
     "flavor_text_en_src": "ml",
     "icon": 4007,
     "id": 702101758,
@@ -16695,7 +16695,7 @@
   {
     "ability_when": 6,
     "flavor_text": "OD攻撃を発動後、「<skill=125100255>千羽烏</skill>」が発動する<br>( 術Rank1で発動 )",
-    "flavor_text_en": "After activating the OD attack, “<skill=125100255>Thousand</skill> Crows” is activated <br>(activated by Jutsu Rank 1)",
+    "flavor_text_en": "</skill><br>After activating the OD attack, “<skill=125100255>Thousand Crows” is activated (activated by Jutsu Rank 1)",
     "flavor_text_en_src": "ml",
     "icon": 4007,
     "id": 702101759,
@@ -16734,7 +16734,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始時]<br>自身を「<special_effect=800000110>回避</special_effect>」状態にする( 効果1ターン )<br><br>[バトル開始から数えて2ターン目以降のターン開始時]<br>自身に「<special_effect=800000182>先攻態勢</special_effect>」( 効果1ターン )、「<special_effect=800000095>ヒートアップ</special_effect>」( 効果極大 )を付与する( 上限回数:バトル中1回 )",
-    "flavor_text_en": "[When battle starts]</special_effect></special_effect> <br>Put yourself in a “<special_effect=800000110> evasion” state (effect 1 turn) <br><br>[when starting the second turn after counting from the start of the battle] tell <br>yourself “<special_effect=800000182 > first attack posture” (effect 1 turn), “< < Grant “special_effect=800000095>Heat Up</special_effect>” (maximum effect) (maximum number of times: once during battle)",
+    "flavor_text_en": "</special_effect></special_effect><br><br><br>[When battle starts] Put <br>yourself in a “<special_effect=800000110> evasion” state (effect 1 turn) [when starting the second turn after counting from the start of the battle] tell yourself “<special_effect=800000182 > first attack posture” (effect 1 turn), “< < Grant “special_effect=800000095>Heat</special_effect> Up” (maximum effect) (maximum number of times: once during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101762,
@@ -16804,7 +16804,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[攻撃を受けた時]<br>被ダメージを軽減する( 効果大 )<br><br>[ロックグラビティ、バーニングダウン発動時]<br>自身を「<special_effect=800000079>溜め状態</special_effect>」( カウント1 )にする( 確率特大 )<br><br>溜め術：<skill=125100260>エレメンタルコメット</skill><br>( 術Rank1で発動 )",
-    "flavor_text_en": "[When attacked]</special_effect></skill> <br>Reduces damage taken (great effect) <br><br>[Rock Gravity, when Burning Down is activated] <br>Put yourself in a “<special_effect=800000079> accumulation state” (count 1) (high probability) <br><br>accumulation technique: <skill=125100260> Elemental Comet <br>(jutsu) (Activated by Rank1)",
+    "flavor_text_en": "</special_effect></skill><br><br><br>[When attacked] <br>Reduces damage taken (great effect) <br><br>[Rock Gravity, when Burning Down is activated] Put <br>yourself in a “<special_effect=800000079> accumulation state” (count 1) (high probability) accumulation technique: <skill=125100260> Elemental Comet (jutsu) (Activated by Rank1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101766,
@@ -16822,7 +16822,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[ロックグラビティ、バーニングダウン発動時]<br>自身を「溜め状態」( カウント1 )にする( 確率特大 )<br><br>溜め術：エレメンタルコメット<br>( 術Rank1で発動 )",
-    "flavor_text_en": "[When Rock Gravity, Burning Down is activated] <br>Put yourself in a “hoard state” (count 1) (high probability) Sump <br><br>Jutsu: Elemental Comet <br>(activated by Jutsu Rank 1)",
+    "flavor_text_en": "<br><br><br>[When Rock Gravity, Burning Down is activated] Put <br>yourself in a “hoard state” (count 1) (high probability) Sump Jutsu: Elemental Comet (activated by Jutsu Rank 1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101767,
@@ -16840,7 +16840,7 @@
   {
     "ability_when": 6,
     "flavor_text": "技攻撃時、味方生存者全体の腕力・器用さ・知力を上昇させる( 効果中 )<br>術攻撃時、味方生存者全体の体力・精神を上昇させる( 効果中 )",
-    "flavor_text_en": "When attacking, increases the strength, dexterity, and intelligence of all allied survivors (in effect) <br>When attacking, increases the stamina and mentality of all allied survivors (in effect)",
+    "flavor_text_en": "<br>When attacking, increases the strength, dexterity, and intelligence of all allied survivors (in effect) When attacking, increases the stamina and mentality of all allied survivors (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 702101768,
@@ -16861,7 +16861,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br><br>[バトル開始時]<br>自身以外の味方生存者全体に「<special_effect=800000189>狂信</special_effect>」を付与する( 効果バトル中永続 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125500227>リリーフゾーン</skill>」が発動する( 確率大 )<br>( 術Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "Increases damage from attacks (extra effect)</special_effect> <br>Reduces damage taken when attacked (extra effective) <br><br>[Battle starts] <br><br><br>Gives “<special_effect=800000189> fanaticism” to all allied survivors other than yourself (effect persists during battle) [when hitting a technique or technique (*) whose type is “Attack”] <br>“< “Skill = 125500227> Relief Zone</skill>” will be activated (high probability) <br>(activated by Jutsu Rank 1) <br>※ “Techniques/techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects” are not included",
+    "flavor_text_en": "</special_effect><br><br><br>Increases damage from attacks (extra effect) <br>Reduces damage taken when attacked (extra effective) <br><br>[Battle starts] Gives “<special_effect=800000189> fanaticism” to all <br>allied survivors other than yourself (effect persists during battle) [when hitting a technique or technique (*) whose type is “Attack”] “< </skill><br><br>“Skill = 125500227> Relief Zone” will be activated (high probability) (activated by Jutsu Rank 1) ※ “Techniques/techniques activated by this ability effect” and “counterattack techniques and techniques due to counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101769,
@@ -16881,7 +16881,7 @@
   {
     "ability_when": 6,
     "flavor_text": "タイプが「攻撃」である技・術を命中させた時、「リリーフゾーン」が発動する( 確率大 )<br>( 術Rank1で発動 )",
-    "flavor_text_en": "When you hit a technique or jutsu whose type is “attack”, the “Relief Zone” will be activated (high probability) <br>(activated by Jutsu Rank 1)",
+    "flavor_text_en": "<br>When you hit a technique or jutsu whose type is “attack”, the “Relief Zone” will be activated (high probability) (activated by Jutsu Rank 1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101770,
@@ -16902,7 +16902,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br>自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果特大 )<br><br>[通常攻撃時]<br>「<skill=110100272>タービュランスほう</skill>」が発動する<br>( 技Rank1で発動 )<br><br>[攻撃を受けてHP0になる時]<br>HP1でふみとどまる( 上限回数:バトル中1回 )",
-    "flavor_text_en": "[At the start of battle]</skill> <br>Recover your own BP (+3) <br>Increase your own strength, <br><br><br><br><br><br><br>stamina, dexterity, quickness, intelligence, mentality, love, and appeal (extra effect) [During normal attack] “<skill=110100272> Turbulence” is activated (activated by move Rank1) [When attacked and becomes HP0] stays at Fumi on HP1 (HP1) (Maximum number of times: 1 time during battle)",
+    "flavor_text_en": "</skill><br><br><br><br><br><br><br>[At the start of battle] <br>Recover <br>your own BP (+3) Increase your own strength, stamina, dexterity, quickness, intelligence, mentality, love, and appeal (extra effect) [During normal attack] “<skill=110100272> Turbulence” is activated (activated by move Rank1) [When attacked and becomes HP0] stays at Fumi on HP1 (HP1) (Maximum number of times: 1 time during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101771,
@@ -16929,7 +16929,7 @@
   {
     "ability_when": 6,
     "flavor_text": "通常攻撃時、「タービュランスほう」が発動する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "During a normal attack, “Turbulence Ho” is activated <br>(activated by move Rank1)",
+    "flavor_text_en": "<br>During a normal attack, “Turbulence Ho” is activated (activated by move Rank1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101772,
@@ -16946,7 +16946,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[攻撃命中時]<br><br>＜HP満タンの場合＞<br>自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果中 )<br>自身のBPを回復する( +2 )<br><br>＜HPが満タンではない場合＞<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果3ターン )<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果3ターン )<br>自身のBPを回復する( +1 )<br><br>＜瀕死の場合＞<br>自身に「<special_effect=800000118>ダメージブロック(1回)</special_effect>」を付与する( 効果1ターン )<br>自身のBPを回復する( +4 )<br>( HPが満タンではない場合の効果も共に発揮される )",
-    "flavor_text_en": "[When</special_effect> <br><br>an attack is hit] ＜When HP is full ＞ <br>Increase one's own strength, stamina, dexterity, quickness, intelligence, mentality, love, and appeal (in effect) <br>Recover your own BP (+2) <br><br>＜When HP is not full ＞ <br>Grant “<special_effect=800000001>Attack Enhancement” to yourself (great effect/effect 3 turns) <br> Grant “<special_effect=800000015>Defense Enhancement” to yourself</special_effect> (in effect/ 3 turns of effect)</special_effect> <br>Recover your own BP (+1) <br><br>＜in case of dying ＞ <br>grant yourself “<special_effect=800000118> damage block (1 time)” (effect 1 turn) <br> Recover your own BP (+4) <br>(also shows effects when HP is not full)",
+    "flavor_text_en": "</special_effect><br><br><br><br>[When <br><br>an attack is hit] ＜When HP is full ＞ Increase one's own <br>strength, stamina, dexterity, quickness, intelligence, mentality, love, and appeal (in effect) Recover your own BP (+2) ＜When HP is not full ＞ Grant “<special_effect=800000001>Attack Enhancement” to yourself (great effect/effect 3 turns) <br> </special_effect></special_effect><br><br><br><br>Grant “<special_effect=800000015>Defense Enhancement” to yourself (in effect/ 3 turns of effect) Recover your own BP (+1) ＜in case of dying ＞ grant yourself “<special_effect=800000118> damage block (1 time)” (effect 1 turn) <br> <br>Recover your own BP (+4) (also shows effects when HP is not full)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101773,
@@ -16965,7 +16965,7 @@
   {
     "ability_when": 1,
     "flavor_text": "剣装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
-    "flavor_text_en": "When equipped with a sword, damage from <br>attacks increases (maximum effect) Reduces damage taken when attacked (extremely effective)",
+    "flavor_text_en": "<br>When equipped with a sword, damage from attacks increases (maximum effect) Reduces damage taken when attacked (extremely effective)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101774,
@@ -17001,7 +17001,7 @@
   {
     "ability_when": 6,
     "flavor_text": "攻撃命中時、対象の体力と精神を低下させる( 効果小 )<br>ただし攻撃命中時、自身の愛と魅力を低下させる( 効果小 )",
-    "flavor_text_en": "When an attack hits, lowers the target's physical strength and mentality (less effective), <br>but when hit by an attack, lowers one's own love and appeal (less effective)",
+    "flavor_text_en": "<br>When an attack hits, lowers the target's physical strength and mentality (less effective), but when hit by an attack, lowers one's own love and appeal (less effective)",
     "flavor_text_en_src": "ml",
     "icon": 4003,
     "id": 702101776,
@@ -17072,7 +17072,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[攻撃命中時、HP満タンの場合]<br>自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果中 )<br>自身のBPを回復する( +2 )",
-    "flavor_text_en": "[When an attack is hit, when HP is full] <br>Increases one's own strength, physical strength, dexterity, quickness, intelligence, spirit, love, and appeal (in effect) <br>restores one's own BP (+2)",
+    "flavor_text_en": "<br>[When an attack is hit, when HP is full] Increases one's own strength, physical strength, dexterity, quickness, intelligence, spirit, love, and appeal (in effect) restores one's <br>own BP (+2)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101782,
@@ -17097,7 +17097,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[攻撃命中時、HPが満タンではない場合]<br>自身に「攻撃強化」を付与する( 効果大/効果3ターン )<br>自身に「防御強化」を付与する( 効果中/効果3ターン )<br>自身のBPを回復する( +1 )",
-    "flavor_text_en": "[When an attack is hit, when HP is not full] Give <br>yourself an “Attack Boost” (big effect/3 turns of effect) <br>Grant a “Defense Boost” to yourself (in effect/3 turns of effect) <br>Recover your own BP (+1)",
+    "flavor_text_en": "<br><br>[When an attack is hit, when HP is not full] Give yourself an “<br>Attack Boost” (big effect/3 turns of effect) Grant a “Defense Boost” to yourself (in effect/3 turns of effect) Recover your own BP (+1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101783,
@@ -17116,7 +17116,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[攻撃命中時、瀕死の場合]<br>自身に「ダメージブロック(1回)」を付与する( 効果1ターン )<br>自身のBPを回復する( +4 )",
-    "flavor_text_en": "[When hit by an attack, when dying] <br>Give yourself a “damage block (1 time)” (effect 1 turn) and <br>recover your own BP (+4)",
+    "flavor_text_en": "<br>[When hit by an attack, when dying] Give yourself a <br>“damage block (1 time)” (effect 1 turn) and recover your own BP (+4)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101784,
@@ -17134,7 +17134,7 @@
   {
     "ability_when": 6,
     "flavor_text": "単体攻撃(※)を発動後、「<skill=110600293>アンチマテリアルショット</skill>」が発動する<br>( 技Rank1で発動 )<br>※「”追撃”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "After activating a single attack (*), “<skill=110600293>anti-material shot</skill>” is activated <br>(activated by move Rank1) <br>※ “techniques and techniques activated by “chase” and “counterattack techniques and techniques with counter effects” are not included",
+    "flavor_text_en": "</skill><br><br>After activating a single attack (*), “<skill=110600293>anti-material shot” is activated (activated by move Rank1) ※ “techniques and techniques activated by “chase” and “counterattack techniques and techniques with counter effects” are not included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101785,
@@ -17159,7 +17159,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果中 )<br><br>[ターン開始時]<br>自身のBPを回復( +4 )する( 上限回数:バトル中3回 )<br><br>[攻撃を受けてHP0になる時]<br>最大HPの50%でふみとどまる( 上限回数:バトル中1回 )",
-    "flavor_text_en": "Reduces damage taken when attacked (in effect) <br><br>[At start of turn] <br>Recover (+4) your own BP (upper limit: 3 times during battle) <br><br>[When attacked <br>and your HP becomes 0] Stay at 50% of your maximum HP (maximum number of times: 1 time during battle)",
+    "flavor_text_en": "<br><br><br>Reduces damage taken when attacked (in effect) [At <br><br>start of turn] <br>Recover (+4) your own BP (upper limit: 3 times during battle) [When attacked and your HP becomes 0] Stay at 50% of your maximum HP (maximum number of times: 1 time during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101786,
@@ -17178,7 +17178,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身のHPを回復( 効果極小 )し、かつ、自身の器用さと精神を上昇( 効果中 )させる",
-    "flavor_text_en": "[At the beginning of <br>the turn] Recover your own HP (minimal effect) and increase your own dexterity and spirit (active)",
+    "flavor_text_en": "[At the beginning of the turn] <br>Recover your own HP (minimal effect) and increase your own dexterity and spirit (active)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101788,
@@ -17197,7 +17197,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br><br>[攻撃命中時]<br>味方生存者全体の腕力・器用さ・知力を上昇させる( 効果小 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110700271>グリットフォール</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "[At the start of battle]</skill> <br>Recover <br><br><br>your own BP (+3) [When hit by attack] Increases the strength, dexterity, and intelligence of all <br><br>allied survivors (little effect) [When you hit a technique or jutsu (*) whose type is <br>“Attack”] “<skill=110700271> Grit Fall” is activated <br>(activated by move Rank1) <br>* “Due to this ability effect Does not include “techniques and techniques to activate” and “counterattack techniques and techniques due to counter effects”",
+    "flavor_text_en": "</skill><br><br><br><br><br>[At the start of battle] <br>Recover your own BP (+3) [When hit by <br><br>attack] <br>Increases the strength, dexterity, and intelligence of all allied survivors (little effect) [When you hit a technique or jutsu (*) whose type is “Attack”] “<skill=110700271> Grit Fall” is activated (activated by move Rank1) * “Due to this ability effect Does not include “techniques and techniques to activate” and “counterattack techniques and techniques due to counter effects”",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101789,
@@ -17215,7 +17215,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[攻撃命中時]<br>味方生存者全体の腕力・器用さ・知力を上昇させる( 効果小 )<br><br>[タイプが「攻撃」である技・術を命中させた時]<br>「グリットフォール」が発動する<br>( 技Rank1で発動 )",
-    "flavor_text_en": "[When hit by attack] <br>Increases the strength, dexterity, and intelligence of all <br><br>allied survivors (little effect) [When hitting a move or jutsu whose type is <br>“Attack”] “Grit Fall” is activated <br>(activated by move Rank1)",
+    "flavor_text_en": "<br><br><br><br>[When hit by attack] Increases the <br>strength, dexterity, and intelligence of all allied survivors (little effect) [When hitting a move or jutsu whose type is “Attack”] “Grit Fall” is activated (activated by move Rank1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101791,
@@ -17239,7 +17239,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>味方生存者全体の腕力と器用さを上昇させる( 効果中 )<br>自身のBPを回復する( +2 )",
-    "flavor_text_en": "[At the beginning of the turn] <br>Increases the strength and dexterity of all allied survivors (in effect) <br>Restores your own BP (+2)",
+    "flavor_text_en": "<br>[At the beginning of the turn] Increases the strength and dexterity of all <br>allied survivors (in effect) Restores your own BP (+2)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101792,
@@ -17258,7 +17258,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始時]<br>自身に「<special_effect=800000182>先攻態勢</special_effect>」を付与する( 効果1ターン )<br><br>[味方が全員生存している時]<br>味方全体の与ダメージが上昇する( 効果大 )",
-    "flavor_text_en": "[At the start of battle]</special_effect> <br>Grant “<special_effect=800000182>First Attack Posture” to yourself (effect 1 turn) <br><br>[When all <br>allies are alive] Damage dealt to all allies increases (effective)",
+    "flavor_text_en": "</special_effect><br><br><br>[At the start of battle] Grant <br>“<special_effect=800000182>First Attack Posture” to yourself (effect 1 turn) [When all allies are alive] Damage dealt to all allies increases (effective)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101793,
@@ -17294,7 +17294,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果中 )<br><br>[ターン開始時]<br>以下の効果が発動する( 上限回数:バトル中5回 )<br>・味方生存者全体に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )<br>・味方生存者全体に「<special_effect=800000096>ディフェンスアップ</special_effect>」を付与する( 効果小 )<br>・ただし、ランダムな味方生存者1体が代償ダメージを受ける( 対象の最大HPの30% )<br>※代償ダメージは被ダメージ軽減効果によって軽減できない",
-    "flavor_text_en": "When attacked, damage taken is reduced (in effect)</special_effect> <br><br>[at start of turn] the <br>following effects are activated (upper limit: 5 times during battle) <br>· Grant “<special_effect=800000095> heat up” to all allied <br>survivors (in effect) ・\"<special_effect=800000096> all allied survivors Grants “Defense Up</special_effect>” (low effect) <br>・However, 1 random ally survivor takes compensatory damage (30% of the target's maximum HP) <br>*Compensatory damage cannot be reduced by damage reduction effects",
+    "flavor_text_en": "</special_effect><br><br>When attacked, damage taken is reduced (in effect) <br><br>[at start of turn] the <br>following effects are activated (upper limit: 5 times during battle) · Grant “<special_effect=800000095> heat up” to all allied survivors (in effect) ・\"<special_effect=800000096> all allied survivors </special_effect><br>Grants “Defense Up” (low effect) <br>・However, 1 random ally survivor takes compensatory damage (30% of the target's maximum HP) *Compensatory damage cannot be reduced by damage reduction effects",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101798,
@@ -17312,7 +17312,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>以下の効果が発動する( 上限回数:バトル中5回 )<br>・味方生存者全体に「ヒートアップ」を付与する( 効果中 )<br>・味方生存者全体に「ディフェンスアップ」を付与する( 効果小 )<br>・ただし、ランダムな味方生存者1体が代償ダメージを受ける( 対象の最大HPの30% )<br>※代償ダメージは被ダメージ軽減効果によって軽減できない",
-    "flavor_text_en": "[At the start of the turn] The <br>following effects are activated (maximum number of times: 5 times during battle) <br>・Gives “heat up” to all allied <br>survivors (in effect) ・grants “defensive ups” to all allied survivors (low effect) <br>・However, 1 random <br>allied survivor takes compensation damage (30% of the target's maximum HP) *Compensation damage cannot be reduced by damage reduction effects",
+    "flavor_text_en": "<br><br><br>[At the start of the turn] <br>The following effects are activated (maximum number of times: 5 times during battle) ・Gives <br>“heat up” to all allied survivors (in effect) ・grants “defensive ups” to all allied survivors (low effect) ・However, 1 random allied survivor takes compensation damage (30% of the target's maximum HP) *Compensation damage cannot be reduced by damage reduction effects",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101799,
@@ -17349,7 +17349,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +2 )<br><br>[攻撃命中時]<br>自身のBPを回復する( +1 )",
-    "flavor_text_en": "[At the start of battle] <br>Recover your own BP (+2) <br><br>[When an attack is hit] <br>Recover your own BP (+1)",
+    "flavor_text_en": "<br>[At the start of battle] Recover your <br>own BP (+2) <br><br>[When an attack is hit] Recover your own BP (+1)",
     "flavor_text_en_src": "ml",
     "icon": 4007,
     "id": 702101801,
@@ -17367,7 +17367,7 @@
   {
     "ability_when": 1,
     "flavor_text": "味方全体の与ダメージが上昇する( 効果小 )<br>味方全体への被ダメージを軽減する( 効果小 )<br><br>味方全体の棍棒装備時の与ダメージが上昇する( 効果中 )",
-    "flavor_text_en": "Damage dealt to all allies is increased (low effect) <br>Reduces damage taken to all allies (low effect) Damage dealt to all <br><br>allies when equipped with a stick is increased (in effect)",
+    "flavor_text_en": "<br><br><br>Damage dealt to all allies is increased (low effect) Reduces damage taken to all allies (low effect) Damage dealt to all allies when equipped with a stick is increased (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101802,
@@ -17386,7 +17386,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br><br>[ターン開始時]<br>自身の器用さと知力を上昇させる( 効果大 )<br>ただし、自身の精神を低下させる( 効果小 )",
-    "flavor_text_en": "[At the start of battle] <br>Recover your own BP (+3) <br><br>[At start of turn] <br>Increases your own dexterity and intelligence (great effect)<br>, but lowers your own spirit (less effective)",
+    "flavor_text_en": "<br>[At the start of battle] <br>Recover your own BP (+3) <br><br>[At start of turn] Increases your own <br>dexterity and intelligence (great effect), but lowers your own spirit (less effective)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101805,
@@ -17405,7 +17405,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身の器用さと知力を上昇させる( 効果大 )",
-    "flavor_text_en": "[At the beginning of the turn] <br>Increases one's own dexterity and intelligence (very effective)",
+    "flavor_text_en": "[At the beginning of the turn] Increases one<br>'s own dexterity and intelligence (very effective)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 702101806,
@@ -17423,7 +17423,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身の精神を低下させる( 効果小 )",
-    "flavor_text_en": "[At the beginning of the turn] <br>Lowers your own spirit (less effective)",
+    "flavor_text_en": "[At the beginning of the turn] Lowers <br>your own spirit (less effective)",
     "flavor_text_en_src": "ml",
     "icon": 4003,
     "id": 702101807,
@@ -17492,7 +17492,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[ターン開始時]<br>・味方が全員生存している場合、<br>自身に「<special_effect=800000026>ガードアップ(大)</special_effect>」を付与する( 効果1ターン )<br><br>・味方が1体以上気絶または戦線離脱している場合、<br>自身に「<special_effect=800000027>ガードアップ(特大)</special_effect>」( 効果1ターン )を付与し、自身を「<special_effect=800000073>挑発</special_effect>」状態( 効果特大/効果1ターン )にする<br><br>[攻撃を受けた時]<br>自身のBPを回復する( +1 )",
-    "flavor_text_en": "[At start of turn]</special_effect> <br>・If all allies are alive, <br>grant yourself “<special_effect=800000026> guard up (large)” (effect 1 turn) <br><br>・If 1 or more allies stun or leaves the front line, <br>“<special_effect=800000027> guard up (extra large) </special_effect>Grant” (effect 1 turn) and</special_effect> <br><br><br>restore your own BP to a “<special_effect=800000073> provocation” state (oversized effect/effect 1 turn) [when attacked] (+1)",
+    "flavor_text_en": "</special_effect><br><br><br>[At start of turn] <br>・If all allies are alive, grant <br>yourself “<special_effect=800000026> guard up (large)” (effect 1 turn) ・If 1 or more allies stun or leaves the front line, “<special_effect=800000027> guard up (extra large) </special_effect></special_effect><br><br><br>Grant” (effect 1 turn) and restore your own BP to a “<special_effect=800000073> provocation” state (oversized effect/effect 1 turn) [when attacked] (+1)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101811,
@@ -17510,7 +17510,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br><br>・味方が全員生存している場合、<br>自身に「ガードアップ(大)」を付与する( 効果1ターン )<br><br>・味方が1体以上気絶または戦線離脱している場合、<br>自身に「ガードアップ(特大)」( 効果1ターン )を付与し、自身を挑発状態( 効果特大/効果1ターン )にする",
-    "flavor_text_en": "[At the start of a turn] <br><br>・If all allies are alive, <br>grant yourself a “guard up (large)” (effect 1 turn) <br><br>・If at least 1 ally is stunned or leaves the front line, <br>grant yourself a “guard up (extra large)” (effect 1 turn) and put yourself in a provocative state (oversized effect/effect 1 turn)",
+    "flavor_text_en": "<br>[At the start of a turn] <br><br>・If all allies are alive, grant <br>yourself a “guard up (large)” (effect 1 turn) ・If at least 1 <br><br>ally is stunned or leaves the front line, grant yourself a “guard up (extra large)” (effect 1 turn) and put yourself in a provocative state (oversized effect/effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101812,
@@ -17626,7 +17626,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[ヴァニッシングイリュージョンを命中させた時]<br>自身に「<special_effect=800000201>エレメントエンハンス(打)</special_effect>」( 効果超極大 )を付与する( 確率特大/上限回数:バトル中5回 )<br>自身のBPを回復する( 確率特大/+7 )<br>自身のHPを回復する( 確率特大/効果大 )",
-    "flavor_text_en": "[When Vanishing Illusion</special_effect> <br>hits] Grant yourself “<special_effect=800000201>Element Enhancement (hit)” (super high effect) (super high probability: 5 times during battle) Recover your <br>own BP (extra probability/+7) Recover your <br>own HP (oversized probability/high effect)",
+    "flavor_text_en": "</special_effect><br><br>[When Vanishing Illusion hits] Grant yourself <br>“<special_effect=800000201>Element Enhancement (hit)” (super high effect) (super high probability: 5 times during battle) Recover your own BP (extra probability/+7) Recover your own HP (oversized probability/high effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101824,
@@ -17645,7 +17645,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[ヴァニッシングイリュージョンを命中させた時]<br>自身に「エレメントエンハンス(打)」( 効果超極大 )を付与する( 確率特大/上限回数:バトル中5回 )",
-    "flavor_text_en": "[When you <br>hit Vanishing Illusion] Grant yourself “Element Enhancement (Hit)” (super high effect) (extremely high probability) (maximum number of times during battle: 5 times during battle)",
+    "flavor_text_en": "[When you hit Vanishing Illusion] Grant <br>yourself “Element Enhancement (Hit)” (super high effect) (extremely high probability) (maximum number of times during battle: 5 times during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101825,
@@ -17662,7 +17662,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[ヴァニッシングイリュージョンを命中させた時]<br>自身のBPを回復する( 確率特大/+7 )",
-    "flavor_text_en": "[When you hit Vanishing Illusion] <br>Recover your own BP (extra probability/+7)",
+    "flavor_text_en": "<br>[When you hit Vanishing Illusion] Recover your own BP (extra probability/+7)",
     "flavor_text_en_src": "ml",
     "icon": 4007,
     "id": 702101826,
@@ -17679,7 +17679,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[ヴァニッシングイリュージョンを命中させた時]<br>自身のHPを回復する( 確率特大/効果大 )",
-    "flavor_text_en": "[When you hit Vanishing Illusion] <br>Recover your own HP (oversized probability/high effect)",
+    "flavor_text_en": "<br>[When you hit Vanishing Illusion] Recover your own HP (oversized probability/high effect)",
     "flavor_text_en_src": "ml",
     "icon": 4007,
     "id": 702101827,
@@ -17696,7 +17696,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始時]<br>自身に「<special_effect=800000182>先攻態勢</special_effect>」を付与する( 効果1ターン )<br><br>[バトル開始から数えて3の倍数のターン開始時]<br>自身に「<special_effect=800000182>先攻態勢</special_effect>」を付与する( 効果1ターン )<br><br>[攻撃命中時]<br>自身のBPを回復する( +1 )<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果1ターン )",
-    "flavor_text_en": "[At the start of battle]</special_effect></special_effect> <br>Grant “<special_effect=800000182>first attack posture” to yourself (effect 1 turn) <br><br>[when starting a turn that is a multiple of 3 counting from the start of the battle] <br>Grant “<special_effect=800000182 > first attack posture” to yourself (effect 1 turn) <br><br>[ [When hit by attack]</special_effect> <br>Recover your own BP (+1) <br>Grant “<special_effect=800000015> Defense Enhancement” to all allied survivors (in effect/effect 1 turn)",
+    "flavor_text_en": "</special_effect></special_effect><br><br><br><br><br>[At the start of battle] Grant <br>“<special_effect=800000182>first attack posture” to yourself (effect 1 turn) [when starting a turn that is a multiple of 3 counting from the start of the battle] Grant “<special_effect=800000182 > first attack posture” to yourself (effect 1 turn) [ [When hit by attack]</special_effect> <br>Recover your own BP (+1) Grant “<special_effect=800000015> Defense Enhancement” to all allied survivors (in <br>effect/effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101828,
@@ -17716,7 +17716,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[バトル開始から数えて3の倍数のターン開始時]<br>自身に「先攻態勢」を付与する( 効果1ターン )",
-    "flavor_text_en": "[At the start of a turn that is a multiple of 3, counting from the start of the battle] <br>Grant yourself a “first attack posture” (effect 1 turn)",
+    "flavor_text_en": "<br>[At the start of a turn that is a multiple of 3, counting from the start of the battle] Grant yourself a “first attack posture” (effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101829,
@@ -17733,7 +17733,7 @@
   {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のBPを回復する( 確率中/+10 )",
-    "flavor_text_en": "[At end of turn] <br>Recover your own BP (probability/+10)",
+    "flavor_text_en": "[At end of turn] Recover <br>your own BP (probability/+10)",
     "flavor_text_en_src": "ml",
     "icon": 4007,
     "id": 702101834,
@@ -17767,7 +17767,7 @@
   {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のBPを回復する( 確率中/+2 )",
-    "flavor_text_en": "[At end of turn] <br>Recover your own BP (probability/+2)",
+    "flavor_text_en": "[At end of turn] Recover <br>your own BP (probability/+2)",
     "flavor_text_en_src": "ml",
     "icon": 4007,
     "id": 702101836,
@@ -17784,7 +17784,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[ターン開始時]<br>自身以外の味方生存者全体に「<special_effect=800000206>攻撃強化(男性)</special_effect>」を付与する( 効果大/効果1ターン )<br>自身以外の味方生存者全体のHPを回復する( 確率特大/効果極小 )<br>自身のBPを回復する( +2 )",
-    "flavor_text_en": "[At the start of turn]</special_effect> <br>Grant “<special_effect=800000206> Attack Enhancement (Male)” to all allied survivors other than yourself (large effect/effect 1 turn) <br>Recover the HP of all allied survivors other than yourself (probability/extremely low effect) <br>Recover your own BP (+2)",
+    "flavor_text_en": "</special_effect><br><br>[At the start of turn] Grant <br>“<special_effect=800000206> Attack Enhancement (Male)” to all allied survivors other than yourself (large effect/effect 1 turn) Recover the HP of all allied survivors other than yourself (probability/extremely low effect) Recover your own BP (+2)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101837,
@@ -17803,7 +17803,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身以外の味方生存者全体のHPを回復する( 確率特大/効果極小 )",
-    "flavor_text_en": "[At the beginning of the turn] <br>Recover the HP of all allied survivors other than yourself (extremely probability/extremely low effect)",
+    "flavor_text_en": "[At the beginning of the turn] Recover the HP of all allied survivors <br>other than yourself (extremely probability/extremely low effect)",
     "flavor_text_en_src": "ml",
     "icon": 4007,
     "id": 702101838,
@@ -17820,7 +17820,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身以外の味方生存者全体に「攻撃強化(男性)」を付与する( 効果大/効果1ターン )",
-    "flavor_text_en": "[At the start of turn] <br>Grant “Attack Boost (Male)” to all allied survivors other than yourself (Great Effect/Effect 1 turn)",
+    "flavor_text_en": "[At the start of turn] Grant <br>“Attack Boost (Male)” to all allied survivors other than yourself (Great Effect/Effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101839,
@@ -17837,7 +17837,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[回復行動時(※)]<br>対象に「<special_effect=800000096>ディフェンスアップ</special_effect>」を付与する( 効果中 )<br>対象の体力・精神・魅力を上昇させる( 効果中 )<br>※タイプが「回復」の技・術での回復を指す",
-    "flavor_text_en": "[</special_effect><br>During recovery action (*)] Gives “<special_effect=800000096> defense up” to the target (in effect) <br>Increases the target's physical strength/mental/attractiveness (<br>in effect) *Type indicates recovery with the technique or technique of “recovery”",
+    "flavor_text_en": "</special_effect><br><br>[During recovery action (*)] Gives <br>“<special_effect=800000096> defense up” to the target (in effect) Increases the target's physical strength/mental/attractiveness (in effect) *Type indicates recovery with the technique or technique of “recovery”",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101840,
@@ -17857,7 +17857,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身の愛を上昇させる( 効果特大 )<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果特大/効果1ターン )",
-    "flavor_text_en": "[At the start of turn]</special_effect> <br>Increase your own love (extra effect) <br>Grant yourself “<special_effect=800000015> Defense Enhancement” (Oversized Effect/ Effect 1 Turn)",
+    "flavor_text_en": "[At the start of turn]</special_effect> <br>Increase your own love (extra effect) Grant <br>yourself “<special_effect=800000015> Defense Enhancement” (Oversized Effect/ Effect 1 Turn)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101841,
@@ -17899,7 +17899,7 @@
   {
     "ability_when": 6,
     "flavor_text": "攻撃命中時<br>対象の精神を低下( 効果小 )させ、さらに、自身のBPを回復( +2 )する",
-    "flavor_text_en": "When an attack is hit, <br>the target's mind is lowered (less effective), and also recovers one's own BP (+2)",
+    "flavor_text_en": "When an attack is hit, the <br>target's mind is lowered (less effective), and also recovers one's own BP (+2)",
     "flavor_text_en_src": "ml",
     "icon": 4003,
     "id": 702101843,
@@ -17917,7 +17917,7 @@
   {
     "ability_when": 1,
     "flavor_text": "[バトル開始時]<br>味方生存者全体に「<special_effect=800000208>ハリキリ療養</special_effect>」を付与する( 効果バトル中永続 )<br><br>[ターン終了時]<br>ランダムな味方生存者1体のODゲージを満タンにする",
-    "flavor_text_en": "[At the start of battle]</special_effect> <br>Grant “<special_effect=800000208 > Harikiri Healing” to all allied survivors (effect lasts forever during battle) <br><br>[At end of turn] Fill <br>up the OD gauge of 1 random allied survivor",
+    "flavor_text_en": "</special_effect><br><br><br>[At the start of battle] Grant <br>“<special_effect=800000208 > Harikiri Healing” to all allied survivors (effect lasts forever during battle) [At end of turn] Fill up the OD gauge of 1 random allied survivor",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101844,
@@ -17952,7 +17952,7 @@
   {
     "ability_when": 4,
     "flavor_text": "[ターン終了時]<br>ランダムな味方生存者1体のODゲージを満タンにする",
-    "flavor_text_en": "[At end of turn] Fill up the <br>OD gauge of 1 random allied survivor",
+    "flavor_text_en": "<br>[At end of turn] Fill up the OD gauge of 1 random allied survivor",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 702101846,
@@ -49378,7 +49378,7 @@
   {
     "ability_when": 2,
     "flavor_text": "[ラウンド開始時]<br>敵全体の腕力・器用さ・知力を低下させる( 効果超極大 )",
-    "flavor_text_en": "[At the start of the round] <br>Reduces the strength, dexterity, and intelligence of all enemies (super effective)",
+    "flavor_text_en": "[At the start of the round] Reduces the strength, dexterity, and intelligence <br>of all enemies (super effective)",
     "flavor_text_en_src": "ml",
     "icon": 4003,
     "id": 708200267,
@@ -49397,7 +49397,7 @@
   {
     "ability_when": 2,
     "flavor_text": "攻撃の命中率が上昇する( 効果極大 )<br><br>[ターン終了時]<br>自身の腕力・体力・器用さ・素早さの能力ダウン状態を解除する<br><br>[攻撃命中時]<br>自身の腕力・素早さを上昇させる( 確率小/効果小 )",
-    "flavor_text_en": "Attack hit rate increases (maximum effect) <br><br>[At end of turn] <br><br><br><br>Cancels a state where one's own strength, health, dexterity, and agility abilities have been reduced [when an attack is hit] Increases one's own strength and agility (low probability/low effect)",
+    "flavor_text_en": "<br><br><br><br>Attack hit rate increases (maximum effect) [At <br><br>end of turn] Cancels a state where one's own strength, health, dexterity, and agility abilities have been reduced [when an attack is hit] Increases one's own strength and agility (low probability/low effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708200274,
@@ -49416,7 +49416,7 @@
   {
     "ability_when": 2,
     "flavor_text": "[瀕死時]<br>被ダメージを軽減する( 効果大 )<br><br>[攻撃を受けてHP0になる時]<br>最大HPの30%でふみとどまる( 上限回数:バトル中1回 )",
-    "flavor_text_en": "[When Dying] <br>Reduces damage taken (effective) <br><br>[When attacked <br>and becomes HP 0] Stays with 30% of maximum HP (maximum number of times: 1 time during battle)",
+    "flavor_text_en": "<br>[When Dying] <br>Reduces damage taken (effective) [When <br><br>attacked and becomes HP 0] Stays with 30% of maximum HP (maximum number of times: 1 time during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708200277,
@@ -49434,7 +49434,7 @@
   {
     "ability_when": 2,
     "flavor_text": "味方生存者全体の攻撃の命中率が上昇する( 効果極大 )<br>味方生存者全体の士気を高め、被ダメージを軽減し与ダメージを上昇させる",
-    "flavor_text_en": "The hit rate of all allied survivors increases (maximum effect) Increases the <br>morale of all allied survivors, reduces damage taken, and increases damage dealt",
+    "flavor_text_en": "<br>The hit rate of all allied survivors increases (maximum effect) Increases the morale of all allied survivors, reduces damage taken, and increases damage dealt",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708200293,
@@ -50562,7 +50562,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )<br>自身に「<special_effect=800000076>行動順補正低下</special_effect>」を付与する( 効果特大/効果バトル中永続 )",
-    "flavor_text_en": "[At the start of the turn] Grant</special_effect></special_effect> <br>“<special_effect=800000095> heat up” to <br>yourself (in effect) Grant “<special_effect=800000076> action order correction reduction” to yourself (oversized effects/effect permanent during battle)",
+    "flavor_text_en": "</special_effect></special_effect><br>[At the start of the turn] Grant “<br><special_effect=800000095> heat up” to yourself (in effect) Grant “<special_effect=800000076> action order correction reduction” to yourself (oversized effects/effect permanent during battle)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708300261,
@@ -50614,7 +50614,7 @@
   {
     "ability_when": 3,
     "flavor_text": "バトル開始から数えて特定ターンの開始時( 開始5ターン目/周期4ターン )<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果小 )",
-    "flavor_text_en": "Count from the start of the battle and</special_effect> <br>grant yourself “<special_effect=800000095> heat up” at the start of a specific turn (start turn 5/cycle 4 turns) (low effect)",
+    "flavor_text_en": "</special_effect><br>Count from the start of the battle and grant yourself “<special_effect=800000095> heat up” at the start of a specific turn (start turn 5/cycle 4 turns) (low effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708300271,
@@ -50631,7 +50631,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身の腕力・器用さ・知力を上昇させる( 効果大 )",
-    "flavor_text_en": "[At the beginning of the turn] <br>Increase your own strength, dexterity, and intelligence (great effect)",
+    "flavor_text_en": "[At the beginning of the turn] Increase <br>your own strength, dexterity, and intelligence (great effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708300272,
@@ -50650,7 +50650,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000029>攻撃弱化</special_effect>」を付与する( 効果小/効果1ターン )<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果小/効果1ターン )",
-    "flavor_text_en": "[At the start of turn] Grant</special_effect></special_effect> <br>“<special_effect=800000029>Attack Weakening” to <br>yourself (low effect/effect 1 turn) Grant “<special_effect=800000015> Defense Enhancement” to yourself (low effect/effect 1 turn)",
+    "flavor_text_en": "</special_effect></special_effect><br>[At the start of turn] Grant “<br><special_effect=800000029>Attack Weakening” to yourself (low effect/effect 1 turn) Grant “<special_effect=800000015> Defense Enhancement” to yourself (low effect/effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708300281,
@@ -50687,7 +50687,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身の腕力・体力・素早さを上昇させる( 確率中/効果大 )",
-    "flavor_text_en": "[At the start of turn] <br>Increase your own strength, stamina, and agility (probability/high effect)",
+    "flavor_text_en": "[At the start of turn] Increase <br>your own strength, stamina, and agility (probability/high effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708300283,
@@ -50706,7 +50706,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果1ターン )<br>自身に「<special_effect=800000215>防御強化(間接)</special_effect>」を付与する( 効果大/効果1ターン )<br>自身に「<special_effect=800000216>防御弱化(直接)</special_effect>」を付与する( 効果中/効果1ターン )",
-    "flavor_text_en": "[At the start of turn] Grant</special_effect></special_effect> <br>“<special_effect=800000001>Attack Enhancement” to <br>yourself (big effect=1 turn of effect) Grant “<special_effect=800000215> Defense Enhancement (indirect)” to yourself (large effect/effect 1 turn) Give <br>yourself “<special_effect= Grants “800000216> Defense Weakening (Direct)</special_effect>” (in effect/1 turn of effect)",
+    "flavor_text_en": "</special_effect></special_effect><br><br>[At the start of turn] Grant <br>“<special_effect=800000001>Attack Enhancement” to yourself (big effect=1 turn of effect) Grant “<special_effect=800000215> Defense Enhancement (indirect)” to yourself (large effect/effect 1 turn) Give yourself “<special_effect= Grants “800000216> Defense Weakening (Direct)” (</special_effect>in effect/1 turn of effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708300285,
@@ -50725,7 +50725,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000011>モラルアップ(中)</special_effect>」を付与する( 効果1ターン )<br>自身に「<special_effect=800000035>防御弱化</special_effect>」を付与する( 効果中/効果1ターン )",
-    "flavor_text_en": "[At the start of turn] Give</special_effect></special_effect> <br>yourself “<special_effect=800000011>Moral Up (Medium)” (effect 1 turn) Grant <br>“<special_effect=800000035> Defense Weakened” to yourself (in effect/ 1 turn of effect)",
+    "flavor_text_en": "</special_effect></special_effect><br>[At the start of turn] Give <br>yourself “<special_effect=800000011>Moral Up (Medium)” (effect 1 turn) Grant “<special_effect=800000035> Defense Weakened” to yourself (in effect/ 1 turn of effect)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708300287,
@@ -50802,7 +50802,7 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身の命中率を上昇させる( 効果極大/効果1ターン )",
-    "flavor_text_en": "[At the start of turn] <br>Increase your own hit rate (maximum effect/effect 1 turn)",
+    "flavor_text_en": "[At the start of turn] Increase <br>your own hit rate (maximum effect/effect 1 turn)",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708300292,
@@ -52029,7 +52029,7 @@
   {
     "ability_when": 4,
     "flavor_text": "[ターン終了時]<br>自身の腕力・体力・器用さ・素早さの能力ダウン状態を解除する",
-    "flavor_text_en": "[At end of turn] Cancel a <br>state where your own abilities of strength, stamina, dexterity, and agility have been reduced",
+    "flavor_text_en": "<br>[At end of turn] Cancel a state where your own abilities of strength, stamina, dexterity, and agility have been reduced",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708400275,
@@ -52099,7 +52099,7 @@
   {
     "ability_when": 4,
     "flavor_text": "[ターン終了時]<br>自身の腕力・体力・器用さ・素早さの能力ダウン状態を解除する",
-    "flavor_text_en": "[At end of turn] Cancel a <br>state where your own abilities of strength, stamina, dexterity, and agility have been reduced",
+    "flavor_text_en": "<br>[At end of turn] Cancel a state where your own abilities of strength, stamina, dexterity, and agility have been reduced",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708400286,
@@ -53064,7 +53064,7 @@
   {
     "ability_when": 6,
     "flavor_text": "技攻撃時、自身の腕力・器用さを上昇させる( 効果中 )<br>術攻撃時、自身の知力・精神を上昇させる( 効果中 )",
-    "flavor_text_en": "Increases one's own strength and dexterity during skill <br>attacks (in effect) Increases one's intellect and spirit during skill attacks (in effect)",
+    "flavor_text_en": "<br>Increases one's own strength and dexterity during skill attacks (in effect) Increases one's intellect and spirit during skill attacks (in effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708600268,
@@ -53084,7 +53084,7 @@
   {
     "ability_when": 6,
     "flavor_text": "「双雷角」(※)を発動後、「双雷角」が発動する<br>※「”チェイン”により発動する技・術」「カウンター効果による反撃技・術」は含まない",
-    "flavor_text_en": "After “Double Thunder Angle” (*) is activated, “Double Thunder Angle” is activated <br>※ “Techniques/techniques activated by “Chain” and “counterattack techniques and techniques due to counter effects” are not included",
+    "flavor_text_en": "After “Double Thunder Angle” (*) is activated, “Double Thunder Angle” is activated ※ “Techniques/techniques activated by “Chain” and “counterattack techniques and techniques due to counter effects” are not <br>included",
     "flavor_text_en_src": "ml",
     "icon": 4010,
     "id": 708600270,
@@ -53101,7 +53101,7 @@
   {
     "ability_when": 6,
     "flavor_text": "[攻撃命中時]<br>自身の腕力・素早さを上昇させる( 確率小/効果小 )",
-    "flavor_text_en": "[When hit by attack] <br>Increases own strength and agility (low probability/low effect)",
+    "flavor_text_en": "[When hit by attack] Increases <br>own strength and agility (low probability/low effect)",
     "flavor_text_en_src": "ml",
     "icon": 4001,
     "id": 708600276,
