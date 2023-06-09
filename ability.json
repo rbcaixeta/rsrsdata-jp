@@ -5448,7 +5448,7 @@
   {
     "ability_when": 1,
     "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果大 )<br><br>バトル開始時、自身に「<special_effect=800000124>追撃(ウインドチェイサー)</special_effect>」を付与する( 効果バトル中永続 )<br>※ただし、自身が代償LPダメージを1受ける",
-    "flavor_text_en": "When attacked, damage taken will be reduced (large effect).<br><br>Grants oneself <special_effect=800000124>Follow-Up (Wind Chaser)</special_effect> at start of battle (Effect: permanent in battle).<br>*Loses 1 LP as recoil damage.",
+    "flavor_text_en": "When attacked, damage taken will be reduced (large effect).<br><br>[Start of battle]<br>Grants oneself <special_effect=800000124>Follow-Up (Wind Chaser)</special_effect> (Effect: permanent in battle).<br><br>*Loses 1 LP as recoil damage.",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101078,
