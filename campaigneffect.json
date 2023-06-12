@@ -59746,5 +59746,45 @@
     "drop_group_ids": [],
     "stage_gacha_boxes": [],
     "daily_clear_limit": 0
+  },
+  {
+    "id": 7388,
+    "ribbon": "巣窟の苔・砕けた骨片ドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21013751,
+      21013753
+    ],
+    "stage_gacha_boxes": [],
+    "daily_clear_limit": 0
+  },
+  {
+    "id": 7389,
+    "ribbon": "超進化祭鍛錬極意書ドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21013755
+    ],
+    "stage_gacha_boxes": [],
+    "daily_clear_limit": 0
+  },
+  {
+    "id": 7392,
+    "ribbon": "4.5周年紅月勲章ドロップ中！",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21013762
+    ],
+    "stage_gacha_boxes": [],
+    "daily_clear_limit": 0
   }
 ]

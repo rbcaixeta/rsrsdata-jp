@@ -3390,6 +3390,16 @@
     "type": "BGM"
   },
   {
+    "cueName": "bgm_120338",
+    "cueSheetName": "BGM120338",
+    "id": 120338,
+    "music_album_id": 2,
+    "name": "ラストダンジョン",
+    "name_en": "The Last Dungeon",
+    "name_en_src": "ml",
+    "type": "BGM"
+  },
+  {
     "cueName": "bgm_120339",
     "cueSheetName": "BGM120339",
     "id": 120339,
@@ -12261,6 +12271,22 @@
     "cueName": "BIWA",
     "cueSheetName": "SE_BIWA",
     "id": 230243,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "GRAB",
+    "cueSheetName": "SE_GRAB",
+    "id": 230244,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "QUEENAURA",
+    "cueSheetName": "SE_QUEENAURA",
+    "id": 230245,
     "music_album_id": 0,
     "name": "",
     "type": "SE"
@@ -53499,6 +53525,94 @@
     "cueName": "140900093_hit",
     "cueSheetName": "SE140900093",
     "id": 244234,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145600133_hit",
+    "cueSheetName": "SE145600133",
+    "id": 244235,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145600134_other",
+    "cueSheetName": "SE145600134",
+    "id": 244236,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900347_other",
+    "cueSheetName": "SE149900347",
+    "id": 244237,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900347_hit",
+    "cueSheetName": "SE149900347",
+    "id": 244238,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900348_other",
+    "cueSheetName": "SE149900348",
+    "id": 244239,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "149900348_hit",
+    "cueSheetName": "SE149900348",
+    "id": 244240,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100243_other",
+    "cueSheetName": "SE140100243",
+    "id": 244241,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100243_hit",
+    "cueSheetName": "SE140100243",
+    "id": 244242,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "145600132_other",
+    "cueSheetName": "SE145600132",
+    "id": 244243,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100252_hit",
+    "cueSheetName": "SE140100252",
+    "id": 244282,
+    "music_album_id": 0,
+    "name": "",
+    "type": "SE"
+  },
+  {
+    "cueName": "140100252_other",
+    "cueSheetName": "SE140100252",
+    "id": 244283,
     "music_album_id": 0,
     "name": "",
     "type": "SE"

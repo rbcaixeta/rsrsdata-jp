@@ -459,6 +459,23 @@
     "style_event_ability_id": 0
   },
   {
+    "duration_seconds": 3600,
+    "event_ability_group_id": 1207,
+    "event_ability_potion_type": 1,
+    "expired_at": 1687312799,
+    "flavor_text": "[期間限定]使用から1時間、全てのキャラクターの能力値アップ時の上昇量を5倍＆技・術Rank Up時の上昇量を2倍にする。（2023/6/21 11:00まで）",
+    "flavor_text_en": "[Limited time offer] For 1 hour of use, increase amount when all characters' ability values are increased by 5 times and amount increased when skill and jutsu rank are increased by 2 times. (Until 2023/6/21 11:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 940029,
+    "id": 940037,
+    "max_quantity": 9999,
+    "name": "[6/21 11:00まで][全]超進化祭鍛錬極意書",
+    "name_en": "[6/21 until 11:00] [All] Super Evolution Festival Training Secret Book",
+    "name_en_src": "ml",
+    "sort_order": 23061301,
+    "style_event_ability_id": 0
+  },
+  {
     "duration_seconds": 86400,
     "event_ability_group_id": 986,
     "event_ability_potion_type": 2,

@@ -66,6 +66,17 @@
     "stage_id": 19910002
   },
   {
+    "battle_bg_id": 0,
+    "bg_id": 100002,
+    "bgm_id": 130378,
+    "floor": 1,
+    "id": 110003,
+    "name": "",
+    "node_asset_theme": 2,
+    "quest_bg_id": 0,
+    "stage_id": 19910003
+  },
+  {
     "battle_bg_id": 700000011,
     "bg_id": 0,
     "bgm_id": 130112,
@@ -516,5 +527,16 @@
     "node_asset_theme": 2,
     "quest_bg_id": 0,
     "stage_id": 20100002
+  },
+  {
+    "battle_bg_id": 0,
+    "bg_id": 200002,
+    "bgm_id": 0,
+    "floor": 1,
+    "id": 200003,
+    "name": "",
+    "node_asset_theme": 2,
+    "quest_bg_id": 0,
+    "stage_id": 20100003
   }
 ]

@@ -55427,5 +55427,27 @@
     "reward_quantity": 100,
     "reward_type": 11,
     "summary": "ステージLvを合計5000上げる"
+  },
+  {
+    "description": "螺旋回廊205階をクリアする",
+    "description_en": "Complete the 205th floor of the Spiral Corridor",
+    "description_en_src": "ml",
+    "id": 22690,
+    "priority": 56861,
+    "reward_id": 100002,
+    "reward_quantity": 100,
+    "reward_type": 1,
+    "summary": "螺旋回廊205階をクリア"
+  },
+  {
+    "description": "螺旋回廊210階をクリアする",
+    "description_en": "Complete the 210th floor of the Spiral Corridor",
+    "description_en_src": "ml",
+    "id": 22691,
+    "priority": 56861,
+    "reward_id": 100002,
+    "reward_quantity": 100,
+    "reward_type": 1,
+    "summary": "螺旋回廊210階をクリア"
   }
 ]

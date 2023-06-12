@@ -1227,6 +1227,346 @@
     "battle_id": 0,
     "before_scenarios": [
       {
+        "id": 50049001,
+        "name": "懐かしい気配"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100301,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "懐かしい気配",
+    "name_en": "Nostalgic signs",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210020041,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100302,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "森を抜けて",
+    "name_en": "Go through the forest",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210020051,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100303,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "洞窟の先に",
+    "name_en": "At the end of the cave",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 50049010,
+        "name": "ここはどこ？"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100304,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "ここはどこ？",
+    "name_en": "Where is this place?",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 5,
+    "after_scenarios": [
+    ],
+    "battle_id": 210020061,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+      500000001,
+      500000002
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100305,
+    "is_adventurer_rank_drop_enabled": 1,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "襲い来るターム",
+    "name_en": "Incursion term",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 2,
+    "stamina": 10,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 10000,
+        "type": 37
+      },
+      {
+        "id": 860015,
+        "type": 7
+      }
+    ],
+    "typical_rewards_category": 1
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 50049020,
+        "name": "不穏な企み"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100306,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "不穏な企み",
+    "name_en": "A Disturbing Plan",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 50049030,
+        "name": "女王のお告げ"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 10001,
+    "growth_count": 1,
+    "id": 1100307,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "女王のお告げ",
+    "name_en": "The Queen's Announcement",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 3,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
         "id": 10401020,
         "name": "戦士記読み"
       }
@@ -1747,6 +2087,256 @@
     "name_en": "Storeroom",
     "name_en_src": "ml",
     "node_enemy_id": 21001018,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 810003,
+        "type": 8
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 0,
+    "before_scenarios": [
+      {
+        "id": 10401050,
+        "name": "彫像の間"
+      }
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 0,
+    "growth_count": 1,
+    "id": 2000012,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 0,
+    "is_event_ability_target": 0,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "彫像の間",
+    "name_en": "The statue room",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015101,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20004,
+    "growth_count": 1,
+    "id": 2000013,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "絵画の間",
+    "name_en": "Between paintings",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015111,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20004,
+    "growth_count": 1,
+    "id": 2000014,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "食堂",
+    "name_en": "canteens",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015121,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20004,
+    "growth_count": 1,
+    "id": 2000015,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "ギャラリー",
+    "name_en": "galleries",
+    "name_en_src": "ml",
+    "node_enemy_id": 0,
+    "point_bonuses": [
+    ],
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "raid_piercemage_reward_group_id": 0,
+    "sort_order": 1,
+    "stamina": 0,
+    "twitter_button_id": 0,
+    "typical_enemy_ids": [
+    ],
+    "typical_rewards": [
+      {
+        "id": 860015,
+        "type": 7
+      },
+      {
+        "id": 100003,
+        "type": 1
+      }
+    ],
+    "typical_rewards_category": 2
+  },
+  {
+    "adjusted_reward_group_id": 0,
+    "adventurer_rank_exp": 0,
+    "after_scenarios": [
+    ],
+    "battle_id": 100015131,
+    "before_scenarios": [
+    ],
+    "clear_limit": 0,
+    "continuous_quest_id": 0,
+    "drop_group_ids": [
+    ],
+    "enemy_drop_ids": [
+    ],
+    "first_reward_set_id": 20005,
+    "growth_count": 1,
+    "id": 2000016,
+    "is_adventurer_rank_drop_enabled": 0,
+    "is_campaign_target": 1,
+    "is_event_ability_target": 1,
+    "is_guaranteed_growth": 0,
+    "is_hp_adjusted_growth": 0,
+    "max_grind_count": 0,
+    "max_turn": 0,
+    "name": "宝物庫の番人",
+    "name_en": "Treasury Keeper",
+    "name_en_src": "ml",
+    "node_enemy_id": 20200916,
     "point_bonuses": [
     ],
     "quest_ticket_id": 0,

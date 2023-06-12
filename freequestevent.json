@@ -95,6 +95,29 @@
     "area_ids": [
     ],
     "currency": 4,
+    "currency_id": 1100879,
+    "end_at": 1687402799,
+    "event_box_gacha_id": 0,
+    "event_mission_tab_id": 410,
+    "help_id": 922,
+    "id": 1000006,
+    "is_all": 0,
+    "is_notify": 1,
+    "name": "舞台 再生の絆ZERO -後編-",
+    "name_en": "ZERO Bonds of Stage Regeneration -Part 2-",
+    "name_en_src": "ml",
+    "panel_shop_id": 0,
+    "priority": 1,
+    "shop_id": 4900579,
+    "stage_ids": [
+      19910003
+    ],
+    "start_at": 1686625200
+  },
+  {
+    "area_ids": [
+    ],
+    "currency": 4,
     "currency_id": 1100877,
     "end_at": 1686884399,
     "event_box_gacha_id": 0,
@@ -136,5 +159,51 @@
       19910001
     ],
     "start_at": 1686884400
+  },
+  {
+    "area_ids": [
+    ],
+    "currency": 4,
+    "currency_id": 1100879,
+    "end_at": 1688007599,
+    "event_box_gacha_id": 0,
+    "event_mission_tab_id": 0,
+    "help_id": 922,
+    "id": 1000011,
+    "is_all": 0,
+    "is_notify": 0,
+    "name": "舞台 再生の絆ZERO -後編-",
+    "name_en": "ZERO Bonds of Stage Regeneration -Part 2-",
+    "name_en_src": "ml",
+    "panel_shop_id": 0,
+    "priority": 1,
+    "shop_id": 4900579,
+    "stage_ids": [
+      19910003
+    ],
+    "start_at": 1687402800
+  },
+  {
+    "area_ids": [
+    ],
+    "currency": 0,
+    "currency_id": 0,
+    "end_at": 1688756399,
+    "event_box_gacha_id": 0,
+    "event_mission_tab_id": 0,
+    "help_id": 922,
+    "id": 1000012,
+    "is_all": 0,
+    "is_notify": 0,
+    "name": "舞台 再生の絆ZERO -後編-",
+    "name_en": "ZERO Bonds of Stage Regeneration -Part 2-",
+    "name_en_src": "ml",
+    "panel_shop_id": 0,
+    "priority": 1,
+    "shop_id": 0,
+    "stage_ids": [
+      19910003
+    ],
+    "start_at": 1688007600
   }
 ]

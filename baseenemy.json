@@ -5420,6 +5420,22 @@
   {
     "enemy_class": 4,
     "gender": 9,
+    "id": 104093,
+    "illust": 1040931,
+    "name": "コカトリス",
+    "name_en": "cockatrice",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      20
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 4,
+    "gender": 9,
     "id": 104189,
     "illust": 1041891,
     "name": "雷竜",
@@ -6322,6 +6338,22 @@
     "name": "花の使い魔",
     "name_en": "Floramancer",
     "name_en_src": "gl",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      6
+    ],
+    "sprite_studio": 0
+  },
+  {
+    "enemy_class": 5,
+    "gender": 9,
+    "id": 105075,
+    "illust": 1050751,
+    "name": "化石樹",
+    "name_en": "fossil tree",
+    "name_en_src": "ml",
     "pc_enemy_skill_hold_motion": 0,
     "pc_flag": 0,
     "rank": 1,
@@ -8409,6 +8441,22 @@
       8
     ],
     "sprite_studio": 1
+  },
+  {
+    "enemy_class": 7,
+    "gender": 9,
+    "id": 107078,
+    "illust": 1070781,
+    "name": "バジリスク",
+    "name_en": "basilisk",
+    "name_en_src": "ml",
+    "pc_enemy_skill_hold_motion": 0,
+    "pc_flag": 0,
+    "rank": 1,
+    "species": [
+      8
+    ],
+    "sprite_studio": 0
   },
   {
     "enemy_class": 8,

@@ -19962,6 +19962,143 @@
     ]
   },
   {
+    "ability_when": 6,
+    "flavor_text": "[攻撃命中時]<br>味方生存者全体の知力を上昇させる( 効果中 )<br>自身のHPを回復する( 効果極小 )<br><br>[ヘクセンリートゥスを命中させた時]<br>対象に「<special_effect=800000238>呪力の連鎖(5回)</special_effect>」を付与する( 効果ターン数制限無し )",
+    "flavor_text_en": "</special_effect><br><br><br>[When hit by attack] <br>Increases the intelligence of all allied survivors (in effect) <br>Restores their own HP (effect is minimal) [when Hit Hexenlytus] Grant “<special_effect=800000238> Chain of Magical Power (5 times)” to the target (no limit on the number of effect turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101986,
+    "name": "魔女の呪法",
+    "name_en": "The witch's spell",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011472,
+      802040750,
+      802042341
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>術攻撃の場合、さらに与ダメージが上昇する( 効果極大 )<br><br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br>攻撃を受けた時、被ダメージを100%カットする( 確率中 )<br><br>ただし、バトル開始時に自身が代償LPダメージを1受ける",
+    "flavor_text_en": "<br><br><br><br><br>In the <br>case of an jutsu attack where the damage dealt by the attack increases (maximum effect), when you receive an attack where damage is further increased (maximum effect), when you receive an attack that reduces damage taken (extra effect), damage taken is cut by 100% (probable) However, when the battle starts, you will receive 1 compensatory LP damage",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101987,
+    "name": "魔王の遺物",
+    "name_en": "Demon King's Relic",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802042332,
+      802040448,
+      802042333,
+      802042458
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身以外の味方生存者全体に「<special_effect=800000237>不退の掟</special_effect>」を付与する( 効果バトル中永続 )<br><br>[攻撃命中時]<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "</special_effect><br><br><br>[When battle starts] Grant <br>“<special_effect=800000237>Law of Immortality” to all allied survivors other than yourself (effect lasts during battle) [When an attack is hit] Recover your own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101988,
+    "name": "常闇の契約",
+    "name_en": "Pact of constant darkness",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042334,
+      802042335,
+      802042336,
+      802042338,
+      802042321
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃を受けた時、自身の器用さと知力を低下させる( 効果小 )<br>( 上限回数:5回 ※攻撃が命中した時のみ発動 )",
+    "flavor_text_en": "<br>Reduces one's own dexterity and intelligence when attacked (low effect) (maximum number of times: 5 times ※Activates only when an attack is hit)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101989,
+    "name": "呪力の連鎖(5回)",
+    "name_en": "Chain of Magical Power (5 times)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042339,
+      802042340
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃命中時、対象の知力を低下させる( 確率大/効果大 )",
+    "flavor_text_en": "<br>Attack damage increases (maximum effect) When an attack is hit, the target's intelligence decreases (probability/high effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101990,
+    "name": "苛烈弱化Ⅴ(知力)",
+    "name_en": "Severe Weakening V (Intellect)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802041270
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "雷属性を含む攻撃の与ダメージが上昇する( 効果特大 )<br>攻撃時、自身のHPを回復する( 効果極小 )<br>ターン終了時、自身の状態異常をすべて解除し、<br>さらに、自身のHPを回復( 効果小 )する",
+    "flavor_text_en": "<br><br>Damage from attacks including thunder attributes increases (extra effect) When attacking, <br>restores one's own HP (minimal effect) At the end of the turn, all of one's own state abnormalities are lifted, and one's own HP is recovered (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101991,
+    "name": "雷電快気",
+    "name_en": "Raiden Kaiki",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042342,
+      802041523,
+      802041123
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃命中時]<br><br>＜HP満タンの場合＞<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果大/効果3ターン )<br>自身のBPを回復する( +2 )<br><br>＜HPが満タンではない場合＞<br>自身に「<special_effect=800000015>防御強化</special_effect>」を付与する( 効果中/効果2ターン )<br>自身のBPを回復する( +1 )<br>自身のHPを回復する( 効果極小 )",
+    "flavor_text_en": "</special_effect><br><br><br><br>[When <br><br>an attack is hit] ＜When HP is full ＞ Grant “<special_effect=800000001> Attack Enhancement” to yourself (big effect/effect 3 turns) Recover your <br>own BP (+2) ＜When your HP isn't full ＞ Give yourself “<special_effect=800000015> Defensive Enhancement </special_effect><br><br>Grants” (in effect/2 turns of effect) restores one's own BP (+1) restores one's own HP (minimal effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101992,
+    "name": "双刃の構え",
+    "name_en": "Double Edged Stance",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042343,
+      802042007,
+      802042344,
+      802042008,
+      802012345
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "ターン終了時、味方生存者全体のHPを回復する( 効果極小 )",
     "flavor_text_en": "At the end of the turn, restore HP to all allied survivors (minimal effect)",
@@ -52216,6 +52353,23 @@
     ]
   },
   {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力の能力ダウン状態を解除する",
+    "flavor_text_en": "<br>[At end of turn] Unlock reduced abilities of your own strength, physical strength, dexterity, agility, intelligence, mentality, love, and charm",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708400317,
+    "name": "浄化の輪廻",
+    "name_en": "The reincarnation of purification",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050669
+    ]
+  },
+  {
     "ability_when": 6,
     "flavor_text": "Resist攻撃を受けた時<br>自身の腕力を上昇させる( 効果超大 )",
     "flavor_text_en": "When attacked by an attack that would cause Resist, increases own STR (very extreme effect).",
@@ -52599,6 +52753,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808010105
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身の腕力を上昇させる( 効果小 )",
+    "flavor_text_en": "Increases <br>own strength when an attack is hit (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600085,
+    "name": "アタックリズム",
+    "name_en": "Attack rhythm",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010672
     ]
   },
   {
@@ -53168,6 +53339,41 @@
     "sort_order": 0,
     "special_effect_ids": [
       808050663
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時<br>自身の知力を上昇させる( 効果小 )",
+    "flavor_text_en": "Increases <br>own intelligence when hit by an attack (less effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708600316,
+    "name": "マジックリズム",
+    "name_en": "magic rhythm",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010670
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象を<special_effect=800000086>マヒ</special_effect>させる( 確率中/効果4ターン )<br>攻撃命中時、対象を<special_effect=800000083>毒</special_effect>状態にする( 確率中/効果4ターン )",
+    "flavor_text_en": "</special_effect></special_effect><br>When an attack is hit, <special_effect=800000086> paralyze the target (probability/effect 4 turns) When an attack is hit, the target is <special_effect=800000083 > poison (probability/effect 4 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 3004,
+    "id": 708600318,
+    "name": "痺れ毒の蚕食",
+    "name_en": "Numb and poison encroaches",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808030671,
+      808030673
     ]
   },
   {

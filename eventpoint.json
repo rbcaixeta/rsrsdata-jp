@@ -3497,6 +3497,32 @@
     "sort_order": 23060660
   },
   {
+    "expired_at": 1689965999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800272,
+    "id": 800272,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・119",
+    "name_en": "Romancing festival medal 119",
+    "name_en_src": "ml",
+    "sort_order": 23061360
+  },
+  {
+    "expired_at": 1689965999,
+    "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800273,
+    "id": 800273,
+    "max_quantity": 99999999,
+    "name": "Romancing祭メダル・120",
+    "name_en": "Romancing Festival Medals 120",
+    "name_en_src": "ml",
+    "sort_order": 23061355
+  },
+  {
     "expired_at": 0,
     "flavor_text": "交換所でプラチナチケットなどと交換できる。",
     "flavor_text_en": "Can be exchanged for Platinum Tickets and other items.",
@@ -11815,5 +11841,44 @@
     "name_en": "Azora's Evil",
     "name_en_src": "ml",
     "sort_order": 23060115
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100879,
+    "id": 1100879,
+    "max_quantity": 99999999,
+    "name": "巣窟の苔",
+    "name_en": "Den moss",
+    "name_en_src": "ml",
+    "sort_order": 23061310
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100880,
+    "id": 1100880,
+    "max_quantity": 99999999,
+    "name": "砕けた骨片",
+    "name_en": "broken bone fragments",
+    "name_en_src": "ml",
+    "sort_order": 23061315
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「4.5周年記念協力ミッション 第1弾」の集計アイテム。該当イベントで入手できる。（集計は2023/6/22 12:00まで）",
+    "flavor_text_en": "Aggregated items for the “4.5th Anniversary Co-op Mission Vol.1.” It can be obtained at the relevant event. (The tally is until 2023/6/22 12:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100882,
+    "id": 1100882,
+    "max_quantity": 99999999,
+    "name": "4.5周年紅月勲章",
+    "name_en": "4.5th Anniversary Red Moon Medal",
+    "name_en_src": "ml",
+    "sort_order": 23061320
   }
 ]
