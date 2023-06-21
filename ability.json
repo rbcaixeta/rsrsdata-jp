@@ -19832,6 +19832,97 @@
   },
   {
     "ability_when": 1,
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br><br>[ターン開始時]<br>自身の腕力と知力を上昇させる( 効果大 )<br><br>[壊死ゴケ発動時]<br>自身と、ランダムな味方生存者1体に「<special_effect=800000080>ターン終了時HP回復</special_effect>」を付与する( 効果小/効果3ターン )",
+    "flavor_text_en": "</special_effect><br><br><br>Attack damage is increased (maximum effect) [<br><br>at start of turn] <br>Increases own brute strength and intelligence (great effect) [when necrotic moss is activated] grants “<special_effect = 800000080> HP recovery at end of turn” to yourself and 1 random ally survivor (low effect/effect 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101974,
+    "name": "深淵の番人",
+    "name_en": "Keeper of the Abyss",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040741,
+      802042303,
+      802042306
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、自身の腕力と知力を上昇させる( 効果大 )",
+    "flavor_text_en": "At the beginning of the turn, increase your strength and intelligence (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101975,
+    "name": "ターン開始時 腕力・知力アップ",
+    "name_en": "Increase your strength and intelligence at the beginning of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012387,
+      802010760
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[壊死ゴケ発動時]<br>自身と、ランダムな味方生存者1体に「ターン終了時HP回復」を付与する( 効果小/効果3ターン )",
+    "flavor_text_en": "[When Necrotic Moss is activated] Grant “HP Recovery at End of Turn” to <br>yourself and 1 random allied survivor (low effect/effect 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101976,
+    "name": "壊死ゴケ発動時  ターン終了時HP回復",
+    "name_en": "HP is restored at the end of the turn when necrotic moss is activated",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042304,
+      802042305
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のHPを回復する( 効果小/効果3ターン )",
+    "flavor_text_en": "[End of turn] Recover <br>your own HP (low effect/effect 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702101977,
+    "name": "ターン終了時 HP回復(小)",
+    "name_en": "HP recovery at end of turn (small)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040062
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[攻撃命中時]<br>対象の素早さと知力を低下させる( 効果小 )<br>自身のBPを回復する( +2 )",
+    "flavor_text_en": "<br>[When hit by an attack] Reduces the <br>target's quickness and intelligence (low effect) restores one's own BP (+2)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702101978,
+    "name": "虚脱の練撃Ⅱ(素早さ・知力)",
+    "name_en": "Attack of Defeat II (quickness/intellect)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012488,
+      802042315,
+      802040961
+    ]
+  },
+  {
+    "ability_when": 1,
     "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br><br>[バトル開始時] <br>自身のBPを回復する( +4 )<br><br>[ターン終了時]<br>味方生存者全体のHPを回復する( 効果極小 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110900254>光弦詩吟</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
     "flavor_text_en": "</skill><br><br><br><br>Attack damage increases (extra effect) <br><br>[Battle starts] Recover your <br>own BP (+4) [At <br><br>end of turn] Recover <br>all allied survivors' HP (minimal effect) [When you hit a technique or jutsu (*) whose type is “Attack”] “<skill=110900254>Kogen Shigin” is activated (activated by Move Rank1) ) <br>* Does not include “techniques and techniques activated by this ability effect” and “counterattack techniques and techniques triggered by counter effects”",
     "flavor_text_en_src": "ml",
@@ -20099,6 +20190,62 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +2 )<br><br>[ターン開始時]<br>自身のBPを回復する( +1 )<br>味方生存者全体に「<special_effect=800000239>身代わりの彫刻</special_effect>」「<special_effect=800000240>美の栄光</special_effect>」を付与する( 効果1ターン )",
+    "flavor_text_en": "</special_effect></special_effect><br>[At the start of battle] Recover your <br>own BP (+2) <br><br>[At start of turn] Recover your own BP (<br>+1) Grant “<special_effect = 800000239> substitute sculpture” and “<special_effect = 800000240> glory of beauty” to all allied survivors (effect 1 turn )",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101995,
+    "name": "私の自信作",
+    "name_en": "A work I'm proud of",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040322,
+      802041549,
+      802042385,
+      802042386
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃を受けた時、自身に「ダメージブロック(1回)」( 効果1ターン )を付与する( 上限回数:1回 )",
+    "flavor_text_en": "When attacked, give yourself a “damage block (1 turn)” (effect 1 turn) (maximum number of times: 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702101996,
+    "name": "身代わりの彫刻",
+    "name_en": "A substitute sculpture",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042350
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "Resist攻撃を受けた時、自身の腕力・器用さ・知力を上昇させる( 効果小 )",
+    "flavor_text_en": "Increases one's own strength, dexterity, and intellect when receiving a Resist attack (low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 702101997,
+    "name": "美の栄光",
+    "name_en": "The glory of beauty",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012428,
+      802012429,
+      802012431
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "ターン終了時、味方生存者全体のHPを回復する( 効果極小 )",
     "flavor_text_en": "At the end of the turn, restore HP to all allied survivors (minimal effect)",
@@ -20113,6 +20260,398 @@
     "sort_order": 0,
     "special_effect_ids": [
       802010778
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ターン開始時]<br>自身のBPを回復する( +1 )<br>味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 確率特大/効果中 )<br>味方生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」( 効果特大/効果2ターン )、「<special_effect=800000015>防御強化</special_effect>」( 効果小/効果2ターン )を付与する( 確率特大 )<br>味方生存者全体に「<special_effect=800000080>ターン終了時HP回復</special_effect>」( 効果極小/効果2ターン )を付与する( 確率特大 )",
+    "flavor_text_en": "</special_effect><br>[At the beginning of the turn] <br>Recover <br>your own BP (+1) Increase strength, physical strength, dexterity, quickness, intellect, mentality, love, and appeal of all allied survivors (extremely probability/effective) “<special_effect = 800000001> attack enhancement” (effect oversized/effect 2 turns), “<special_effect=800000015> defense enhancement </special_effect>Grants” (low effect/effect 2 turns) (extremely probable) Grant “<special_effect = 800000080> HP recovery at end of turn” (minimal effect/effect 2 turns) to all allied survivors (extremely</special_effect> <br>probable)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702101999,
+    "name": "マーチャントスピーチ",
+    "name_en": "merchant speech",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041549,
+      802042356,
+      802042357,
+      802042358
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 確率特大/効果中 )",
+    "flavor_text_en": "[At the beginning of the turn] Increases strength, physical strength, dexterity, <br>quickness, intellect, mentality, love, and appeal of all allied survivors (extremely probability/effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102000,
+    "name": "ターン開始時 全能力アップ(中)",
+    "name_en": "All abilities increased at the beginning of the turn (medium)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011172,
+      802011173,
+      802011174,
+      802011175,
+      802011176,
+      802011177,
+      802011178,
+      802011179
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体に「攻撃強化」( 効果特大/効果2ターン )、「防御強化」( 効果小/効果2ターン )を付与する( 確率特大 )",
+    "flavor_text_en": "[At the beginning of the turn] Grant <br>“Attack Boost” (effect oversized/effect 2 turns) and “Defense Boost” (low effect/effect 2 turns) to all allied survivors (extremely high probability)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102001,
+    "name": "ターン開始時 攻撃強化・防御強化",
+    "name_en": "Increased attack/defense at the beginning of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042359,
+      802042360
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[ターン開始時]<br>味方生存者全体に「ターン終了時HP回復」( 効果極小/効果2ターン )を付与する( 確率特大 )",
+    "flavor_text_en": "[At the beginning of the turn] Grant <br>“HP recovery at end of turn” (minimal effect/effect 2 turns) to all allied survivors (extremely probable)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102002,
+    "name": "ターン開始時 ターン終了時HP回復(極小)",
+    "name_en": "HP recovery at start of turn and end of turn (minimal)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042394
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[ラウンド開始時] <br>敵全体の腕力・素早さ・知力を低下させる( 効果大 )<br><br>[攻撃命中時]<br>対象に「<special_effect=800000241>女王への畏怖</special_effect>」を付与する( 効果1ターン )<br><br>[OD攻撃(※)を発動後]<br>「<skill=110500436>獄門爪殺法</skill>」が発動する<br>( 技Rank1で発動 )<br>※「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>[ターン終了時]<br>自身のODゲージを上昇させる( 効果特大 )",
+    "flavor_text_en": "</special_effect></skill><br><br><br>[At the beginning of the round] <br>Reduces the strength, quickness, and intellect of all enemies (great effect) [when <br><br>hit by an attack] grants “<special_effect = 800000241> fear of the queen” to the <br>target (effect 1 turn) [after triggering an OD attack (※)] “<skill=110500436>jailgate claw killing method” is activated <br><br><br><br>(Activated by Move Rank 1) <br>* Does not include “moves/techniques activated by this ability effect” and “counterattack skills/jutsu with counter effects” [at end of turn] increase your own OD gauge (effect is extreme)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702102003,
+    "name": "蟻の女王",
+    "name_en": "Queen of ants",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042367,
+      802042368,
+      802042369,
+      802042395
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "ラウンド開始時、敵全体の腕力・素早さ・知力を低下させる( 効果大 )",
+    "flavor_text_en": "Reduces all enemy strength, quickness, and intellect at the start of a round (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702102004,
+    "name": "ラウンド開始時 能力ダウン",
+    "name_en": "Ability reduced at the start of a round",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802011679,
+      802011851,
+      802011683
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃命中時、対象に「女王への畏怖」を付与する( 効果1ターン )",
+    "flavor_text_en": "When hit by an attack, “Fear of the Queen” is given to the target (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702102005,
+    "name": "攻撃時 女王への畏怖",
+    "name_en": "Fear of the Queen when attacking",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042370
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "OD攻撃を発動後、「獄門爪殺法」が発動する<br>( 技Rank1で発動 )",
+    "flavor_text_en": "<br>After triggering an OD attack, the “Prison Claw Slayer Method” is activated (activated by move Rank 1)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102006,
+    "name": "OD攻撃時 追加攻撃",
+    "name_en": "Additional attacks during OD attacks",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042371,
+      802042372,
+      802042373
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "攻撃時、自身の腕力と素早さを低下させる( 効果小 )",
+    "flavor_text_en": "Reduces own brute strength and quickness when attacking (low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4003,
+    "id": 702102007,
+    "name": "女王への畏怖",
+    "name_en": "Fear of the Queen",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012374,
+      802012375
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "体術装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+    "flavor_text_en": "<br>When equipped with Taijutsu, damage dealt by an attack increases (maximum effect) When attacked, damage taken is reduced (extremely effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102008,
+    "name": "体術の極み",
+    "name_en": "The ultimate in taijutsu",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802041025,
+      802040448
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[宝石ほりだしを発動後] <br>自身の「ジェムグレイス」の使用回数制限を回復する( 確率特大/+1/バトル開始時点の回数より多くならない )<br>自身のHPを回復する( 効果極小 )<br><br>[ジェムグレイスを発動後] <br>自身以外の味方生存者全体の魅力を上昇させる( 効果大 )<br>自身以外の味方生存者全体に「<special_effect=800000099>防御態勢(術/中)</special_effect>」を付与する( 効果3ターン )",
+    "flavor_text_en": "<br><br><br><br><br>[After activating Gem Grace] Restore the <br>usage limit for your own “Gem Grace” (probability oversized/+1/not more than the number at the start of the battle) Recover your own HP (minimal effect) [After activating Gem Grace] Increase the appeal of all ally survivors other than yourself (great effect) “<special_effect=800000099 Grants “> Defense Posture (Artistic/Medium)” (effect 3 turns)</special_effect>",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102009,
+    "name": "モール族の友好",
+    "name_en": "The friendship of the Moors",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042382,
+      802042383
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br><br>[バトル開始から数えて3ターン目以降のターン開始時]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果超極大/効果5ターン )<br>自身のBPを回復する( +4 )",
+    "flavor_text_en": "</special_effect><br><br>[At the start of battle] <br>Recover your own BP (+3) <br><br>[At the beginning of the turn after the 3rd turn counting from the start of the battle] Grant “<special_effect = 800000001> attack enhancement” to yourself (super maximum/effect 5 turns) Recover your own BP (+4)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102010,
+    "name": "目覚め",
+    "name_en": "awakening",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040520,
+      802042392
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "[バトル開始から数えて3ターン目以降のターン開始時]<br>自身に「攻撃強化」を付与する( 効果超極大/効果5ターン )<br>自身のBPを回復する( +4 )",
+    "flavor_text_en": "<br>[At the beginning of the turn after the 3rd turn counting from the start of battle] Grant “Attack Enhancement” to yourself (super maximum/effect 5 turns) Recover your <br>own BP (+4)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102012,
+    "name": "3ターン目以降のターン開始時 攻撃強化・BP回復",
+    "name_en": "Attack enhancement/BP recovery at the start of turns 3 and later",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042393,
+      802041202
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[宝石ほりだしを発動後] <br>自身の「ジェムグレイス」の使用回数制限を回復する( 確率特大/+1/バトル開始時点の回数より多くならない )",
+    "flavor_text_en": "[After activating Gem Search] Restore your “Gem Grace” usage limit (very probability/+1/no more than the number at the start of the <br>battle)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102013,
+    "name": "モール族の友好・効果①",
+    "name_en": "The friendliness and effects of the Mole tribe ①",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042376
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[宝石ほりだしを発動後] <br>自身のHPを回復する( 効果極小 )<br><br>[ジェムグレイスを発動後] <br>自身以外の味方生存者全体の魅力を上昇させる( 効果大 )<br>自身以外の味方生存者全体に「防御態勢(術/中)」を付与する( 効果3ターン )",
+    "flavor_text_en": "<br><br>[After activating Gem Search] <br>Restores own HP (minimal effect) [After activating <br><br>Gem Grace] Increases the appeal of all allied survivors other than yourself (great effect) Grants a “defensive posture (surgery/medium)” to all allied survivors other than yourself (effect 3 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102014,
+    "name": "モール族の友好・効果②",
+    "name_en": "The friendliness and effects of the Mole tribe ②",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042377,
+      802012378,
+      802042379
+    ]
+  },
+  {
+    "ability_when": 1,
+    "flavor_text": "術による攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br>術による攻撃を受けた時、被ダメージを100%カットする( 確率特大 )",
+    "flavor_text_en": "<br>Reduces damage taken when attacked by surgery (extremely effective) When attacked by surgery, damage taken is cut by 100% (extremely likely)",
+    "flavor_text_en_src": "ml",
+    "icon": 4002,
+    "id": 702102016,
+    "name": "サルーインの凶獣",
+    "name_en": "The ferocious beast of Salouin",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042388,
+      802042389
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、味方生存者全体に「身代わりの彫刻」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the beginning of the turn, give all allied survivors a “substitute sculpture” (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102017,
+    "name": "ターン開始時 身代わりの彫刻",
+    "name_en": "Substitute sculpture at the beginning of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042348
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ターン開始時、味方生存者全体に「美の栄光」を付与する( 効果1ターン )",
+    "flavor_text_en": "At the beginning of the turn, grant “Glory of Beauty” to all allied survivors (effect 1 turn)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102018,
+    "name": "ターン開始時 美の栄光",
+    "name_en": "The glory of beauty at the beginning of the turn",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042349
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のHPを回復する( 効果極小/効果2ターン )",
+    "flavor_text_en": "[End of turn] Recover <br>your own HP (minimal effect/effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 702102019,
+    "name": "ターン終了時HP回復(極小)",
+    "name_en": "HP recovery at end of turn (minimal)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802040901
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "ターン終了時、自身のODゲージを上昇させる( 効果特大 )",
+    "flavor_text_en": "At the end of the turn, increase your OD gauge (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102020,
+    "name": "ターン終了時 ODゲージ上昇(特大)",
+    "name_en": "OD gauge increases at end of turn (extra large)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802042396
+    ]
+  },
+  {
+    "ability_when": 6,
+    "flavor_text": "[イメージダウン、光球弾+発動時]<br>味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇させる( 効果小 )<br>味方生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」( 効果中/効果2ターン )、「<special_effect=800000015>防御強化</special_effect>」( 効果小/効果2ターン )を付与する",
+    "flavor_text_en": "</special_effect></special_effect><br>[Image Down, Light Ball Bullet+ When Activated] Increases strength, physical <br>strength, dexterity, quickness, intellect, mentality, love, and appeal of all allied survivors (low effect) “<special_effect=800000001> attack enhancement” (during effect/effect 2 turns), “<special_effect=8000015 > enhanced defense Grant” (small effect/effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 702102111,
+    "name": "商家の才",
+    "name_en": "The talent of a merchant",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      802012562,
+      802012563,
+      802012564,
+      802012565,
+      802012566,
+      802012567,
+      802012568,
+      802012569,
+      802042570,
+      802042571
     ]
   },
   {
@@ -49203,6 +49742,24 @@
     ]
   },
   {
+    "ability_when": 1,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の腕力を上昇させる( 効果大 )<br>バトル開始から数えて偶数ターン目の開始時、自身の知力を上昇させる( 効果大 )",
+    "flavor_text_en": "<br>When you start an odd-numbered turn counting from the start of battle, increase your own strength (great effect) When counting from the start of battle and start of an even-numbered turn, increase your own intelligence (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708100323,
+    "name": "奇偶強攻(腕力・知力)",
+    "name_en": "Parity attack (brute strength/intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040677,
+      808040676
+    ]
+  },
+  {
     "ability_when": 2,
     "flavor_text": "Weak攻撃の<br>与ダメージが上昇する( 効果特大 )",
     "flavor_text_en": "Weak attacks' damage increases (very large effect).",
@@ -49603,6 +50160,25 @@
     "special_effect_ids": [
       808040640,
       808040641
+    ]
+  },
+  {
+    "ability_when": 2,
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身に「<special_effect=800000002>斬属性攻撃強化</special_effect>」を付与する( 効果中/効果2ターン )<br>ラウンド開始から数えて偶数ターン目の開始時、自身の知力と精神を上昇させる( 効果中 )",
+    "flavor_text_en": "</special_effect><br>At the beginning of the odd-numbered turn counting from the start of the round, give yourself “<special_effect=800000002> slash attack enhancement” (during effect/effect 2 turns) At the start of an even-numbered turn counting from the start of the round, raise your own intellect and spirit (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708200329,
+    "name": "奇斬偶昂(知力・精神)",
+    "name_en": "Strange and Coincidental (Intellect, Mind)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040686,
+      808040681,
+      808040683
     ]
   },
   {
@@ -51167,6 +51743,145 @@
     ]
   },
   {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身に「<special_effect=800000096>ディフェンスアップ</special_effect>」( 効果小 )を付与し、さらに自身の体力と精神を上昇( 効果中 )させる",
+    "flavor_text_en": "At the start of the even-numbered turn counting from the start of the battle, give yourself “<special_effect=800000096> defense up” (low effect) to further raise your own physical strength</special_effect> and spirit (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300322,
+    "name": "偶番堅固",
+    "name_en": "Even numbers are strong",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040505,
+      808010595,
+      808010597
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、自身の知力を上昇させる( 効果大 )",
+    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of battle, increase your own intelligence (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300324,
+    "name": "奇偶強攻(腕力・知力)",
+    "name_en": "Parity attack (brute strength/intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010675
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の腕力を上昇させる( 効果大 )",
+    "flavor_text_en": "At the beginning of an odd-numbered turn counting from the start of battle, increase your own strength (great effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300325,
+    "name": "奇偶強攻(腕力・知力)",
+    "name_en": "Parity attack (brute strength/intelligence)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010674
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、敵生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力の能力アップ状態を解除する",
+    "flavor_text_en": "At the beginning of the odd-numbered turn counting from the start of the round, all enemy survivors will be unlocked from the state where all enemy survivors are able to improve their abilities in strength, physical strength, dexterity, quickness, intellect, mentality, love, and charm",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300327,
+    "name": "ストレングスリセット・奇(全)",
+    "name_en": "Strength Reset: Strange (All)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040679
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて偶数ターン目の開始時、自身に「<special_effect=800000075>行動順補正上昇</special_effect>」( 効果特大/効果2ターン )を付与し、さらに敵生存者全体の素早さを低下( 効果小 )させる",
+    "flavor_text_en": "At the beginning of the even-numbered turn counting from the start of the round, give yourself “<special_effect = 800000075> action order correction increase” (effect oversized/effect 2 turns), further reducing the</special_effect> quickness of all enemy survivors (low effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300328,
+    "name": "速重の圧力",
+    "name_en": "Fast pressure",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040559,
+      808010687
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて偶数ターン目の開始時、自身の精神を上昇させる( 効果中 )",
+    "flavor_text_en": "Raise your own spirit at the beginning of an even-numbered turn counting from the start of the round (effective)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300330,
+    "name": "奇斬偶昂(知力・精神)",
+    "name_en": "Strange and Coincidental (Intellect, Mind)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010680
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて奇数ターン目の開始時、自身に「斬属性攻撃強化」を付与する( 効果中/効果2ターン )",
+    "flavor_text_en": "At the beginning of the odd-numbered turn counting from the start of the round, give yourself “Slash Attack Enhancement” (effective; effect 2 turns)",
+    "flavor_text_en_src": "ml",
+    "icon": 4010,
+    "id": 708300331,
+    "name": "奇斬偶昂(知力・精神)",
+    "name_en": "Strange and Coincidental (Intellect, Mind)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808040682
+    ]
+  },
+  {
+    "ability_when": 3,
+    "flavor_text": "ラウンド開始から数えて偶数ターン目の開始時、自身の知力を上昇させる( 効果中 )",
+    "flavor_text_en": "At the beginning of an even-numbered turn counting from the start of the round, increase one's own intelligence (in effect)",
+    "flavor_text_en_src": "ml",
+    "icon": 4001,
+    "id": 708300334,
+    "name": "奇斬偶昂(知力・精神)",
+    "name_en": "Strange and Coincidental (Intellect, Mind)",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808010518
+    ]
+  },
+  {
     "ability_when": 4,
     "flavor_text": "[ターン終了時] <br>自身のHPを回復する( 効果大 )",
     "flavor_text_en": "[End of turn]<br>Recovers own HP (large effect).",
@@ -52367,6 +53082,23 @@
     "sort_order": 0,
     "special_effect_ids": [
       808050669
+    ]
+  },
+  {
+    "ability_when": 4,
+    "flavor_text": "[ターン終了時]<br>自身のHPを回復する",
+    "flavor_text_en": "<br>[End of turn] Restore your own HP",
+    "flavor_text_en_src": "ml",
+    "icon": 4007,
+    "id": 708400326,
+    "name": "再生力",
+    "name_en": "Regeneration power",
+    "name_en_src": "ml",
+    "rarity": 0,
+    "simple_flavor_text": "",
+    "sort_order": 0,
+    "special_effect_ids": [
+      808050678
     ]
   },
   {

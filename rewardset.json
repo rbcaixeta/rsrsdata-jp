@@ -55,6 +55,51 @@
     ]
   },
   {
+    "id": 8,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 15
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 25
+      },
+      {
+        "type": 32,
+        "id": 950014,
+        "quantity": 30
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5
+      }
+    ]
+  },
+  {
     "id": 1001,
     "rewards": [
       {
@@ -14541,6 +14586,36 @@
         "type": 26,
         "id": 502500100,
         "quantity": 15
+      }
+    ]
+  },
+  {
+    "id": 20009,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 200
+      },
+      {
+        "type": 5,
+        "id": 690025,
+        "quantity": 50
+      },
+      {
+        "type": 5,
+        "id": 664001,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "id": 20010,
+    "rewards": [
+      {
+        "type": 35,
+        "id": 20002,
+        "quantity": 1
       }
     ]
   },

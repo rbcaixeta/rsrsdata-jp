@@ -602,13 +602,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[はにわ、磁器化します]はにわ専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [haniwa, magnetize] is a special piece for rooons. Can be used to summon style or break through limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Porcelain Haniwa] Haniwa.",
+    "flavor_text_en_src": "gl",
     "icon": 129404,
     "id": 129404,
     "name": "SSはにわのピース",
-    "name_en": "SS is a piece of the rooster",
-    "name_en_src": "ml",
+    "name_en": "SS Haniwa Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -2664,6 +2664,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[伝説の魔物]ジュエルビースト専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Legendary Monster] Jewel Beast exclusive piece. Can be used to summon styles or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 219601,
+    "id": 219601,
+    "name": "SSジュエルビーストのピース",
+    "name_en": "SS Jewel Beast pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 150,
     "flavor_text": "S[私は何者なのだ]レオン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of S [Who Am I?] Leon. ",
@@ -3924,6 +3936,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[これはお宝！　かも]ブルニ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [this is a treasure! Maybe] Bruni's exclusive piece. Can be used to summon styles or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 224081,
+    "id": 224081,
+    "name": "SSブルニのピース",
+    "name_en": "S.S. Bruni pieces",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[麗しき湖水の中へ]テティス専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Into the Beautiful Lake] Thetis. ",
@@ -4293,6 +4317,18 @@
     "name": "SSリアルクィーンのピース",
     "name_en": "SS Real Queen Piece",
     "name_en_src": "gl",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[産卵の時は終わった]ドレッドクィーン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [Time to lay eggs is over] a special piece for Dreadqueens. Can be used to summon styles or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 228805,
+    "id": 228805,
+    "name": "SSドレッドクィーンのピース",
+    "name_en": "SS Dreadqueen Piece",
+    "name_en_src": "ml",
     "selling_price": 100
   },
   {
@@ -6012,6 +6048,18 @@
     "selling_price": 100
   },
   {
+    "exchange_cost": 250,
+    "flavor_text": "SS[欲しい物を言ってくれ]フルブライト２３世専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [tell me what you want] a piece exclusive to Fulbright 23. Can be used to summon styles or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 232203,
+    "id": 232203,
+    "name": "SSフルブライト２３世のピース",
+    "name_en": "SS Fulbright 23 piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
     "exchange_cost": 50,
     "flavor_text": "A[今日の糧を授けたまえ]ツィー・リン専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "Can be used to either exchange for or raise the level cap of A [Give Us Our Daily Bread] Zhi Ling. ",
@@ -7177,6 +7225,18 @@
   },
   {
     "exchange_cost": 250,
+    "flavor_text": "SS[絶望をもたらすモノ]ヤマ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "A piece exclusive to SS [The Thing That Brings Despair] Yama. Can be used to summon styles or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 238601,
+    "id": 238601,
+    "name": "SSヤマのピース",
+    "name_en": "SS Yama piece",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 250,
     "flavor_text": "SS[夢を見るのだ]夢魔専用のピース。スタイル召喚、または限界突破に使用できる。",
     "flavor_text_en": "SS [Dreaming a Dream] A piece exclusive to the Dream Demon. Can be used to summon style or break through limits.",
     "flavor_text_en_src": "ml",
@@ -7214,13 +7274,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[魔戦公能く猛牛を御す]アラケス専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "A piece exclusive to SS [Magical Warlord] Arakes. Can be used to summon style or break through limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Raging Bull Wrangled] Alloces.",
+    "flavor_text_en_src": "gl",
     "icon": 239104,
     "id": 239104,
     "name": "SSアラケスのピース",
-    "name_en": "SS Arakes Peace",
-    "name_en_src": "ml",
+    "name_en": "SS Alloces Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -7370,13 +7430,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[蟹よ、定めを知れ！]アウナス専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Crab, know the rules!] An exclusive piece for Aunas. Can be used to summon style or break through limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [Know Your Fate, Crabs!] Aunus.",
+    "flavor_text_en_src": "gl",
     "icon": 239305,
     "id": 239305,
     "name": "SSアウナスのピース",
-    "name_en": "SS Aunas Peace",
-    "name_en_src": "ml",
+    "name_en": "SS Aunus Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -7430,13 +7490,13 @@
   {
     "exchange_cost": 250,
     "flavor_text": "SS[豊穣の海を手にすべし]フォルネウス専用のピース。スタイル召喚、または限界突破に使用できる。",
-    "flavor_text_en": "SS [Sea of Abundance Should Be Held] a piece exclusive to Forneus. Can be used to summon style or break through limits.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Can be used to either exchange for or raise the level cap of SS [A Bountiful Sea to Own] Forneus.",
+    "flavor_text_en_src": "gl",
     "icon": 239405,
     "id": 239405,
     "name": "SSフォルネウスのピース",
-    "name_en": "SS Forneus Peace",
-    "name_en_src": "ml",
+    "name_en": "SS Forneus Piece",
+    "name_en_src": "gl",
     "selling_price": 100
   },
   {
@@ -11120,6 +11180,30 @@
     "id": 615503,
     "name": "SSサーシャのピース",
     "name_en": "SS Sasha's Peace",
+    "name_en_src": "ml",
+    "selling_price": 100
+  },
+  {
+    "exchange_cost": 150,
+    "flavor_text": "S[私は完璧なの]アスラナ・メレク専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "S [I'm perfect] a piece dedicated to Aslana Melec. Can be used to summon styles or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 616002,
+    "id": 616002,
+    "name": "Sアスラナ・メレクのピース",
+    "name_en": "S Aslana Melek's piece",
+    "name_en_src": "ml",
+    "selling_price": 60
+  },
+  {
+    "exchange_cost": 250,
+    "flavor_text": "SS[新作も自信作ばかりよ]アスラナ・メレク専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "flavor_text_en": "SS [all new works are my confidence] pieces exclusive to Aslana Melec. Can be used to summon styles or break through limits.",
+    "flavor_text_en_src": "ml",
+    "icon": 616003,
+    "id": 616003,
+    "name": "SSアスラナ・メレクのピース",
+    "name_en": "SS Aslana Melec piece",
     "name_en_src": "ml",
     "selling_price": 100
   },

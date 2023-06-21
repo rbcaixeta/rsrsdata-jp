@@ -946,5 +946,31 @@
     "story_banner_id": 200003,
     "story_clear_reward_set_id": 20008,
     "story_prev_stage_id": 20100002
+  },
+  {
+    "area_id": 20001,
+    "end_at": 0,
+    "free_quest_stage_banner_id": 0,
+    "free_quest_stage_battle_bg_id": 0,
+    "free_quest_stage_bg_id": 0,
+    "free_quest_stage_enemy_id": 0,
+    "free_quest_stage_icon_id": 0,
+    "free_quest_stage_page_col": 0,
+    "free_quest_stage_page_id": 0,
+    "free_quest_stage_page_row": 0,
+    "free_quest_stage_type": 0,
+    "help_id": 0,
+    "id": 20100004,
+    "init_scenarios": [
+    ],
+    "name": "バッハロー公の秘密",
+    "name_en": "The secrets of Duke Bachhalo",
+    "name_en_src": "ml",
+    "stage_level_group_id": 0,
+    "stage_level_reward_group_id": 0,
+    "start_at": 1687402800,
+    "story_banner_id": 200004,
+    "story_clear_reward_set_id": 20009,
+    "story_prev_stage_id": 20100003
   }
 ]

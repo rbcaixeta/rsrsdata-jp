@@ -2823,14 +2823,14 @@
   {
     "expired_at": 1667415599,
     "flavor_text": "特定のRomancing祭を実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
-    "flavor_text_en": "An item that can be obtained by running certain Romancing festivals. You can exchange items and styles at the exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "flavor_text_en_src": "gl",
     "icon": 800219,
     "id": 800219,
     "max_quantity": 99999999,
     "name": "Romancing祭メダル・78",
-    "name_en": "Romancing festival medal 78",
-    "name_en_src": "ml",
+    "name_en": "Romancing Festival Medal 99",
+    "name_en_src": "gl",
     "sort_order": 22093060
   },
   {
@@ -3521,6 +3521,32 @@
     "name_en": "Romancing Festival Medals 120",
     "name_en_src": "ml",
     "sort_order": 23061355
+  },
+  {
+    "expired_at": 1690743599,
+    "flavor_text": "特定のサガ魂ガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by executing a specific saga soul gacha. You can exchange them for items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800274,
+    "id": 800274,
+    "max_quantity": 99999999,
+    "name": "サガ魂メダル・21",
+    "name_en": "Saga soul medal 21",
+    "name_en_src": "ml",
+    "sort_order": 23062260
+  },
+  {
+    "expired_at": 1690743599,
+    "flavor_text": "特定のウルトラデラックスガチャを実行すると入手できるアイテム。交換所でアイテムやスタイルと交換できる。",
+    "flavor_text_en": "An item that can be obtained by executing a specific Ultra Deluxe gacha. You can exchange them for items and styles at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 800275,
+    "id": 800275,
+    "max_quantity": 99999999,
+    "name": "ウルトラデラックスガチャメダル・39",
+    "name_en": "Ultra Deluxe Gacha Medal 39",
+    "name_en_src": "ml",
+    "sort_order": 23062255
   },
   {
     "expired_at": 0,
@@ -10337,14 +10363,14 @@
   {
     "expired_at": 1668452399,
     "flavor_text": "イベント「聖石の洞窟発掘キャンペーン」開催中に入手できるアイテム。交換所でアイテムと交換できる。（2022/11/15 4:00まで）",
-    "flavor_text_en": "Items that can be obtained during the “Sacred Stone Cave Excavation Campaign” event. You can exchange items at the exchange. (Until 2022/11/15 4:00)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100376,
     "id": 1100758,
     "max_quantity": 99999999,
     "name": "きれいな石(黒)[期間限定]",
-    "name_en": "Beautiful Stone (Black) [Limited Time Offer]",
-    "name_en_src": "ml",
+    "name_en": "Precious Stone [Limited Time]",
+    "name_en_src": "gl",
     "sort_order": 22092370
   },
   {
@@ -10363,14 +10389,14 @@
   {
     "expired_at": 0,
     "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
-    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange items at the exchange.",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Obtained from corresponding events. Can be exchanged for items.",
+    "flavor_text_en_src": "gl",
     "icon": 1100761,
     "id": 1100761,
     "max_quantity": 99999999,
     "name": "ロマ佐賀ポストカード",
-    "name_en": "ROMA SAGA POSTCARD",
-    "name_en_src": "ml",
+    "name_en": "Romancing Saga Postcards",
+    "name_en_src": "gl",
     "sort_order": 22093020
   },
   {
@@ -11880,5 +11906,44 @@
     "name_en": "4.5th Anniversary Red Moon Medal",
     "name_en_src": "ml",
     "sort_order": 23061320
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "「4.5周年記念協力ミッション 第2弾」の集計アイテム。該当イベントで入手できる。（集計は2023/7/3 12:00まで）",
+    "flavor_text_en": "A tabulated item for the “4.5th Anniversary Co-op Mission Vol.2.” It can be obtained at the corresponding event. (The tally is until 2023/7/3 12:00)",
+    "flavor_text_en_src": "ml",
+    "icon": 1100883,
+    "id": 1100883,
+    "max_quantity": 99999999,
+    "name": "4.5周年蒼月勲章",
+    "name_en": "4.5th Anniversary Order of Sogetsu",
+    "name_en_src": "ml",
+    "sort_order": 23062201
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange them for items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100884,
+    "id": 1100884,
+    "max_quantity": 99999999,
+    "name": "4.5周年鍛錬メダル",
+    "name_en": "4.5th anniversary training medal",
+    "name_en_src": "ml",
+    "sort_order": 23062210
+  },
+  {
+    "expired_at": 0,
+    "flavor_text": "該当イベントで入手できるアイテム。交換所でアイテムと交換できる。",
+    "flavor_text_en": "Items that can be obtained at the relevant event. You can exchange them for items at the exchange.",
+    "flavor_text_en_src": "ml",
+    "icon": 1100885,
+    "id": 1100885,
+    "max_quantity": 99999999,
+    "name": "4.5周年鍛錬の証",
+    "name_en": "4.5 Year Anniversary Proof of Training",
+    "name_en_src": "ml",
+    "sort_order": 23062215
   }
 ]

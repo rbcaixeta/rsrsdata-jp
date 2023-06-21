@@ -176,6 +176,105 @@
     "joint_asset_id": 20001
   },
   {
+    "id": 2015,
+    "stage_floor_id": 200004,
+    "from_node_id": 2000018,
+    "from_edge_joint_id": 0,
+    "to_node_id": 0,
+    "joint_x": 580,
+    "joint_y": 1140,
+    "edge_asset_id": 20001,
+    "joint_asset_id": 20001
+  },
+  {
+    "id": 2016,
+    "stage_floor_id": 200004,
+    "from_node_id": 2000018,
+    "from_edge_joint_id": 0,
+    "to_node_id": 0,
+    "joint_x": 610,
+    "joint_y": 770,
+    "edge_asset_id": 20001,
+    "joint_asset_id": 20001
+  },
+  {
+    "id": 2017,
+    "stage_floor_id": 200004,
+    "from_node_id": 0,
+    "from_edge_joint_id": 2016,
+    "to_node_id": 2000019,
+    "joint_x": 0,
+    "joint_y": 0,
+    "edge_asset_id": 20001,
+    "joint_asset_id": 20001
+  },
+  {
+    "id": 2018,
+    "stage_floor_id": 200004,
+    "from_node_id": 2000019,
+    "from_edge_joint_id": 0,
+    "to_node_id": 0,
+    "joint_x": 440,
+    "joint_y": 450,
+    "edge_asset_id": 20001,
+    "joint_asset_id": 20001
+  },
+  {
+    "id": 2019,
+    "stage_floor_id": 200004,
+    "from_node_id": 0,
+    "from_edge_joint_id": 2018,
+    "to_node_id": 2000020,
+    "joint_x": 0,
+    "joint_y": 0,
+    "edge_asset_id": 20001,
+    "joint_asset_id": 20001
+  },
+  {
+    "id": 2020,
+    "stage_floor_id": 200005,
+    "from_node_id": 2000023,
+    "from_edge_joint_id": 0,
+    "to_node_id": 0,
+    "joint_x": 630,
+    "joint_y": 300,
+    "edge_asset_id": 20001,
+    "joint_asset_id": 20001
+  },
+  {
+    "id": 2021,
+    "stage_floor_id": 200005,
+    "from_node_id": 0,
+    "from_edge_joint_id": 2020,
+    "to_node_id": 0,
+    "joint_x": 530,
+    "joint_y": 300,
+    "edge_asset_id": 20001,
+    "joint_asset_id": 20001
+  },
+  {
+    "id": 2022,
+    "stage_floor_id": 200005,
+    "from_node_id": 0,
+    "from_edge_joint_id": 2021,
+    "to_node_id": 0,
+    "joint_x": 530,
+    "joint_y": 1060,
+    "edge_asset_id": 20001,
+    "joint_asset_id": 20001
+  },
+  {
+    "id": 2023,
+    "stage_floor_id": 200005,
+    "from_node_id": 0,
+    "from_edge_joint_id": 2022,
+    "to_node_id": 2000021,
+    "joint_x": 0,
+    "joint_y": 0,
+    "edge_asset_id": 20001,
+    "joint_asset_id": 20001
+  },
+  {
     "id": 120101,
     "stage_floor_id": 120001,
     "from_node_id": 1200001,

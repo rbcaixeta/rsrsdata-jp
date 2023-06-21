@@ -3374,8 +3374,8 @@
     "id": 347,
     "is_pierceily": 0,
     "name": "めくって解放！ロマ佐賀レガシーパネル",
-    "name_en": "Flipping and liberating! Roma Saga Legacy Panel",
-    "name_en_src": "ml",
+    "name_en": "Flip 'Em! Romancing Saga Legacy Panels",
+    "name_en_src": "gl",
     "priority": 12580,
     "start_at": 1664506800
   },
@@ -3968,5 +3968,15 @@
     "name_en_src": "ml",
     "priority": 13360,
     "start_at": 1686625200
+  },
+  {
+    "end_at": 1688353199,
+    "id": 411,
+    "is_pierceily": 0,
+    "name": "若月の記録探索応援キャンペーン",
+    "name_en": "Wakatsuki record search support campaign",
+    "name_en_src": "ml",
+    "priority": 13365,
+    "start_at": 1687402800
   }
 ]
