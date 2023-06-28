@@ -4581,7 +4581,7 @@
   {
     "ability_when": 1,
     "flavor_text": "熱属性を含む攻撃を受け、その攻撃が命中したとき<br>ダメージを無効化し、自身のHPを回復( 効果極小 )し、かつ、自身の知力を上昇( 効果大 )させる<br>さらに、直接攻撃に対して「<skill=125100205>エアスラッシュ+</skill>」で反撃をする<br>( パリイを使用したターンは反撃しない )<br>( 術Rank1で発動 )",
-    "flavor_text_en": "When hit by an attack which have heat damage, nullifies the damage and recovers own HP (very small effect), and increases own INT (large effect).<br>When being directly attacked, counterattacks with <skill=125100205>Air Slash+</skill><br>(Counterattacks will not activate when parry is used in the same turn).<br>(Activates using spell Rank 1).",
+    "flavor_text_en": "When hit by an attack which have heat damage, nullifies the damage and recovers own HP (very small effect), and increases own INT (large effect).<br>When being directly attacked, counterattacks with <skill=125100205>Air Slash+</skill>.<br>(Counterattacks will not activate when parry is used in the same turn).<br>(Activates using spell Rank 1).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101014,
