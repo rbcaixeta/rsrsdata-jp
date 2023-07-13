@@ -642,8 +642,8 @@
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムが出現します。（2022/10/7 4:00まで）<br>報酬：古代の金属片、古き剣の鋳型の破片、オーラムなど",
-    "description_en": "Can be opened from Item > Treasure Chest. Once opened, the following items will appear. (Until 2022/10/7 4:00) <br>Rewards: Ancient Metal Shards, Ancient Sword Mold Fragments, Aurum, etc.",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items. (Until [1692579599] <tz>)<br>Reward: Ancient Metal Chunks, Ancient Sword Mold Pieces, aurum, more.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       21012332,
       21012333,
@@ -664,15 +664,15 @@
     "is_message_invisible": 0,
     "max_quantity": 9999,
     "name": "錬成装備素材BOX(エンシェント)[期間限定]",
-    "name_en": "Refining Equipment Material Box (Ancient) [Limited Time Only]",
-    "name_en_src": "ml",
+    "name_en": "Forging Material Box (Ancient) [Ltd. Time]",
+    "name_en_src": "gl",
     "rarity": 4,
     "sort_order": 22083010
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムが出現します。（2022/10/7 4:00まで）<br>報酬：黒色の金属片、黒鉄の剣の鋳型の破片、オーラムなど",
-    "description_en": "Can be opened from Item > Treasure Chest. Once opened, the following items will appear. (Until 2022/10/7 4:00) <br>Rewards: Black Metal Shards, Black Iron Sword Mold Fragments, Aurum, etc.",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items. (Until [1692579599] <tz>)<br>Reward: Black Iron Chunks, Black Iron Sword Mold Pieces, aurum, and more.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       21012343,
       21012344,
@@ -693,15 +693,15 @@
     "is_message_invisible": 0,
     "max_quantity": 9999,
     "name": "錬成装備素材BOX(黒鉄)[期間限定]",
-    "name_en": "Refining Equipment Material Box (Black Iron) [Limited Time Only]",
-    "name_en_src": "ml",
+    "name_en": "Forging Material Box (Black Iron) [Ltd. Time]",
+    "name_en_src": "gl",
     "rarity": 4,
     "sort_order": 22083020
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムが出現します。（2022/10/7 4:00まで）<br>報酬：赤い金属片、赤い剣の鋳型の破片、オーラムなど",
-    "description_en": "Can be opened from Item > Treasure Chest. Once opened, the following items will appear. (Until 2022/10/7 4:00) <br>Rewards: Red Metal Shards, Red Sword Mold Fragments, Aurum, etc.",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items. (Until [1692579599] <tz>)<br>Reward: Bronze Metal Chunks, Bronze Sword Mold Pieces, aurum, and more.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       21012354,
       21012355,
@@ -722,15 +722,15 @@
     "is_message_invisible": 0,
     "max_quantity": 9999,
     "name": "錬成装備素材BOX(アカガネ)[期間限定]",
-    "name_en": "Refining Equipment Material Box (Red Beetle) [Limited Time Only]",
-    "name_en_src": "ml",
+    "name_en": "Forging Material Box (Bronze) [Ltd. Time]",
+    "name_en_src": "gl",
     "rarity": 4,
     "sort_order": 22083030
   },
   {
     "description": "アイテム > 宝箱 から開封可能。開封すると以下アイテムが出現します。（2022/10/7 4:00まで）<br>報酬：翠緑の金属片、翠緑の剣の鋳型の破片、オーラムなど",
-    "description_en": "Can be opened from Item > Treasure Chest. Once opened, the following items will appear. (Until 2022/10/7 4:00) <br>Rewards: Deep-green Metal Shards, Deep-green Sword Mold Fragments, Aurum, etc.",
-    "description_en_src": "ml",
+    "description_en": "Open from Items>Treasure Box. You may get any of the following items. (Until [1692579599] <tz>)<br>Reward: Teal Metal Chunks, Teal Sword Mold Pieces, aurum, and more.",
+    "description_en_src": "gl",
     "drop_group_ids": [
       21012365,
       21012366,
@@ -751,8 +751,8 @@
     "is_message_invisible": 0,
     "max_quantity": 9999,
     "name": "錬成装備素材BOX(翠緑)[期間限定]",
-    "name_en": "Refining Equipment Material Box (Deep Green) [Limited Time Only]",
-    "name_en_src": "ml",
+    "name_en": "Forging Material Box (Teal) [Ltd. Time]",
+    "name_en_src": "gl",
     "rarity": 4,
     "sort_order": 22083040
   },

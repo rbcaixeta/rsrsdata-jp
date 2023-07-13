@@ -12330,7 +12330,7 @@
   {
     "ability_when": 1,
     "flavor_text": "味方全体の与ダメージが上昇する( 効果小 )<br>味方全体への被ダメージを軽減する( 効果小 )<br><br>味方全体の体術装備時の与ダメージが上昇する( 効果中 )",
-    "flavor_text_en": "Increases all allies' attacks' damage (small effect).<br>Reduces damage taken for all allies (small effect).<br><br>Increases all allies' M. Arts attacks' damage (medium effect).",
+    "flavor_text_en": "Increases attack damage for all allies (small effect).<br>Reduces damage taken for all allies (small effect).<br>When an ally attacks with M. Arts, damage increases (medium effect).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101478,
