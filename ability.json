@@ -8512,7 +8512,7 @@
   {
     "ability_when": 1,
     "flavor_text": "小剣装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
-    "flavor_text_en": "When attacking with S. Swords, damage increases (very large effect).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
+    "flavor_text_en": "When attacking with S. Swords, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101254,
@@ -11930,7 +11930,7 @@
   {
     "ability_when": 1,
     "flavor_text": "体術装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
-    "flavor_text_en": "When attacking with M. Arts, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
+    "flavor_text_en": "When attacking with M. Arts, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101451,
@@ -12210,7 +12210,7 @@
   {
     "ability_when": 1,
     "flavor_text": "斧装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
-    "flavor_text_en": "When attacking with axes, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
+    "flavor_text_en": "When attacking with axes, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101467,
@@ -12510,7 +12510,7 @@
   {
     "ability_when": 1,
     "flavor_text": "槍装備時、攻撃の与ダメージが上昇する( 効果特大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
-    "flavor_text_en": "When attacking with spears, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
+    "flavor_text_en": "When attacking with spears, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101487,
@@ -14975,7 +14975,7 @@
   {
     "ability_when": 1,
     "flavor_text": "棍棒装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
-    "flavor_text_en": "When attacking with clubs, damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).",
+    "flavor_text_en": "When attacking with clubs, attack damage increases (extreme effect).<br>When attacked, reduces damage taken (very large effect).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101651,
@@ -18152,15 +18152,17 @@
   {
     "ability_when": 3,
     "flavor_text": "[ターン開始時] <br>自身に「<special_effect=800000001>攻撃強化</special_effect>」( 効果極大/効果2ターン )を付与する( 上限回数:バトル中5回 )",
-    "flavor_text_en": "[At the start of turn] Give</special_effect> <br>yourself “<special_effect=800000001>Attack Boost” (maximum effect/ 2 turns of effect) (maximum number of times: 5 times during battle)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "[Start of turn]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (extreme effect/2 turn(s)) (Max times: 5 times per battle).",
+    "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101859,
     "name": "猛襲激攻Ⅴ",
-    "name_en": "Onslaught V",
-    "name_en_src": "ml",
+    "name_en": "Furious Assault Ⅴ",
+    "name_en_src": "gl",
     "rarity": 0,
     "simple_flavor_text": "",
+    "simple_flavor_text_en": "",
+    "simple_flavor_text_en_src": "gl",
     "sort_order": 0,
     "special_effect_ids": [
       802042112
@@ -19719,15 +19721,17 @@
   {
     "ability_when": 1,
     "flavor_text": "味方全体の突属性を含む攻撃の与ダメージが上昇する( 効果極大 )<br><br>[ターン終了時]<br>自身のBPを回復する( +1 )",
-    "flavor_text_en": "<br><br><br>Damage dealt to all allies, including sudden attributes, is increased (maximum effect) [At end of turn] Recover your own BP (+1)",
-    "flavor_text_en_src": "ml",
+    "flavor_text_en": "Increases all allies' pierce attacks' damage (extreme effect).<br><br>[End of turn]<br>Recovers own BP (+1).",
+    "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101968,
     "name": "突増練気Ⅰ",
-    "name_en": "Sudden Increase Nerinqi I",
-    "name_en_src": "ml",
+    "name_en": "Pierce Energy Ⅰ",
+    "name_en_src": "gl",
     "rarity": 0,
     "simple_flavor_text": "",
+    "simple_flavor_text_en": "",
+    "simple_flavor_text_en_src": "gl",
     "sort_order": 0,
     "special_effect_ids": [
       802042283,
