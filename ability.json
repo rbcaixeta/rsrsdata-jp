@@ -14915,7 +14915,7 @@
   {
     "ability_when": 1,
     "flavor_text": "味方が全員生存している時<br>味方全体への被ダメージを軽減する( 効果中 )<br><br>攻撃を受けてHP0になる時<br>味方生存者全体のHPを回復する( 効果中 )",
-    "flavor_text_en": "When all allies are still surviving, reduces damage for all allies (medium effect).<br>When attacked and HP reaches 0, recovers all surviving allies' HP (medium effect).",
+    "flavor_text_en": "When all allies are still surviving, reduces damage taken for all allies (medium effect).<br>When attacked and HP reaches 0, recovers all surviving allies' HP (medium effect).",
     "flavor_text_en_src": "gl",
     "icon": 4010,
     "id": 702101648,
